@@ -1,52 +1,209 @@
-/* wiki の見た目（手書き）。docsify の vue.css に重ねる。色はワールドの design（config.js）を CSS 変数で受け取る */
+/*
+ * wiki の見た目（手書き）。docsify の vue.css に重ねる。
+ * 方針は「ワールドの配色を活かした絵本風」: クリームの紙に濃藍のインク、差し色は金（ワールドの色）。
+ * 角丸のカード・丸ゴシック・カテゴリ色の帯（--accent）で、ほのぼのとした手触りにする。
+ * ダークモードは端末の設定（prefers-color-scheme）に従う
+ */
 
 :root {
-	--wiki-bar: #f4ecd8;
-	--wiki-text: #22305e;
-	--wiki-body: #2b2f3a;
-	--wiki-muted: #6a6f7c;
-	--wiki-background: #ffffff;
-	--wiki-surface: #faf7ef;
-	--wiki-border: #e3dccb;
-	--wiki-row: #fbf9f4;
+	--wiki-font: "Zen Maru Gothic", "Hiragino Maru Gothic ProN", "Hiragino Sans", "Noto Sans JP", sans-serif;
+	--wiki-mono: "Roboto Mono", Menlo, Consolas, monospace;
+
+	--wiki-paper: #f8f1e0; /* 背景の紙 */
+	--wiki-dot: rgba(34, 48, 94, 0.07); /* 紙の水玉 */
+	--wiki-sheet: #fffcf4; /* 本文のカード */
+	--wiki-bar: #f4ecd8; /* サイドバー（ワールドの barColor） */
+	--wiki-ink: #22305e; /* 見出し・リンク（ワールドの textColor） */
+	--wiki-body: #3b3a46;
+	--wiki-muted: #7d7567;
+	--wiki-line: #e7dcc3;
+	--wiki-row: #fbf5e7;
+	--wiki-gold: #b8862b; /* 差し色（ワールドの色） */
+	--wiki-gold-soft: rgba(184, 134, 43, 0.18);
+	--wiki-bubble: #edf1fa; /* 説明文の吹き出し */
+	--wiki-note: #fff3d2; /* ?> の付箋 */
+	--wiki-code: #9a5b13;
+	--wiki-shadow: 0 10px 30px rgba(60, 48, 20, 0.1), 0 2px 6px rgba(60, 48, 20, 0.06);
+	--wiki-radius: 20px;
 }
 
 @media (prefers-color-scheme: dark) {
-	:root:not([data-theme="light"]) {
-		--wiki-bar: #232838;
-		--wiki-text: #b9c6ff;
-		--wiki-body: #dde1ea;
-		--wiki-muted: #9aa1b1;
-		--wiki-background: #161a24;
-		--wiki-surface: #1d2230;
-		--wiki-border: #343b4f;
-		--wiki-row: #1a1f2b;
+	:root {
+		--wiki-paper: #12162a;
+		--wiki-dot: rgba(201, 212, 255, 0.05);
+		--wiki-sheet: #1a1f33;
+		--wiki-bar: #191e31;
+		--wiki-ink: #c9d4ff;
+		--wiki-body: #e1e3ea;
+		--wiki-muted: #a4a9b9;
+		--wiki-line: #333b56;
+		--wiki-row: #1f2539;
+		--wiki-gold: #e2b65c;
+		--wiki-gold-soft: rgba(226, 182, 92, 0.2);
+		--wiki-bubble: #222a44;
+		--wiki-note: #2c2817;
+		--wiki-code: #f0c27a;
+		--wiki-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
 	}
 }
 
-body,
-.sidebar {
-	background-color: var(--wiki-background);
-	color: var(--wiki-body);
+/* --- 土台 ------------------------------------------------------------- */
+
+html,
+body {
+	font-family: var(--wiki-font);
 }
+
+body {
+	color: var(--wiki-body);
+	background-color: var(--wiki-paper);
+	background-image: radial-gradient(var(--wiki-dot) 1.2px, transparent 1.2px);
+	background-size: 22px 22px;
+	letter-spacing: 0.02em;
+}
+
+::selection {
+	background: var(--wiki-gold-soft);
+}
+
+/* --- サイドバー ------------------------------------------------------- */
 
 .sidebar {
 	background-color: var(--wiki-bar);
-	border-right-color: var(--wiki-border);
+	color: var(--wiki-body);
+	border-right: 2px dashed var(--wiki-line);
+	padding-top: 28px;
+}
+
+.sidebar > h1 {
+	margin: 0 16px 18px;
+	font-size: 1.35rem;
+	line-height: 1.4;
+}
+
+.sidebar > h1 a {
+	color: var(--wiki-ink);
+	font-weight: 700;
+}
+
+.sidebar > h1 a::after {
+	content: "";
+	display: block;
+	width: 48px;
+	height: 4px;
+	margin: 8px auto 0;
+	border-radius: 2px;
+	background: var(--wiki-gold);
+}
+
+.sidebar .sidebar-nav {
+	padding: 0 10px 60px 0;
 }
 
 .sidebar ul li a,
 .sidebar li > p {
 	color: var(--wiki-body);
+	font-size: 14px;
 }
 
-.sidebar > h1 a {
-	color: var(--wiki-text);
-	font-weight: 600;
+.sidebar ul li a {
+	padding: 1px 10px;
+	border-radius: 999px;
+	transition: background-color 0.15s;
 }
+
+.sidebar ul li a:hover {
+	background: var(--wiki-gold-soft);
+	text-decoration: none;
+}
+
+.sidebar ul li.active > a {
+	background: var(--wiki-ink);
+	color: var(--wiki-sheet);
+	border-right: none;
+	font-weight: 700;
+}
+
+/* 開閉できる見出し（docsify-sidebar-collapse の folder / open） */
+.sidebar-nav > ul {
+	margin-left: 18px;
+}
+
+.sidebar-nav ul:not(.app-sub-sidebar) > li {
+	position: relative;
+	cursor: pointer;
+}
+
+.sidebar-nav ul:not(.app-sub-sidebar) > li.folder > a,
+.sidebar-nav ul:not(.app-sub-sidebar) > li.folder > p {
+	color: var(--wiki-ink);
+	font-weight: 700;
+}
+
+.sidebar-nav ul:not(.app-sub-sidebar) > li.folder::before {
+	content: "";
+	position: absolute;
+	top: 11px;
+	left: -14px;
+	width: 6px;
+	height: 6px;
+	border-right: 2px solid var(--wiki-gold);
+	border-bottom: 2px solid var(--wiki-gold);
+	transform: rotate(-45deg);
+	transition: transform 0.15s;
+}
+
+.sidebar-nav ul:not(.app-sub-sidebar) > li.folder.open::before {
+	transform: rotate(45deg);
+}
+
+.sidebar-toggle {
+	background-color: var(--wiki-bar);
+}
+
+.sidebar-toggle span {
+	background-color: var(--wiki-ink);
+}
+
+/* --- ナビバー --------------------------------------------------------- */
+
+.app-nav li {
+	margin: 0 0.3rem;
+}
+
+.app-nav a,
+.app-nav li > p {
+	display: inline-block;
+	padding: 3px 14px;
+	border-radius: 999px;
+	color: var(--wiki-ink);
+	font-weight: 500;
+}
+
+.app-nav a:hover,
+.app-nav a.active {
+	background: var(--wiki-gold-soft);
+	color: var(--wiki-ink);
+	border-bottom: none;
+}
+
+.app-nav li ul {
+	background: var(--wiki-sheet);
+	border: 1px solid var(--wiki-line);
+	border-radius: 14px;
+	box-shadow: var(--wiki-shadow);
+}
+
+/* --- 本文のカード ----------------------------------------------------- */
 
 .markdown-section {
-	max-width: 1100px;
+	max-width: 1120px;
+	margin: 24px auto 48px;
+	padding: 40px 48px 48px;
+	background: var(--wiki-sheet);
+	border-radius: var(--wiki-radius);
+	box-shadow: var(--wiki-shadow);
+	line-height: 1.8;
 }
 
 .markdown-section h1,
@@ -54,75 +211,280 @@ body,
 .markdown-section h3,
 .markdown-section h4,
 .markdown-section strong {
-	color: var(--wiki-text);
+	color: var(--wiki-ink);
+	font-weight: 700;
 }
 
+/* ページ名: 蛍光ペンを引いたような金の帯 */
+.markdown-section h1 {
+	display: inline-block;
+	margin-bottom: 1.2rem;
+	padding: 0 0.15em;
+	font-size: 2.2rem;
+	line-height: 1.35;
+	background: linear-gradient(transparent 62%, var(--wiki-gold-soft) 62%);
+}
+
+/* 節: 金の丸と点線 */
 .markdown-section h2 {
-	border-bottom: 1px solid var(--wiki-border);
-	padding-bottom: 0.2em;
-	font-size: 1.5rem;
-	margin-top: 2.2em;
+	position: relative;
+	margin-top: 2.4em;
+	padding: 0 0 0.35em 1.1em;
+	font-size: 1.45rem;
+	border-bottom: 2px dashed var(--wiki-line);
+}
+
+.markdown-section h2::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0.42em;
+	width: 0.62em;
+	height: 0.62em;
+	border-radius: 50%;
+	background: var(--wiki-gold);
+	box-shadow: 0 0 0 4px var(--wiki-gold-soft);
 }
 
 .markdown-section h3 {
-	font-size: 1.2rem;
-	margin-top: 1.6em;
+	margin-top: 1.8em;
+	padding-left: 0.7em;
+	font-size: 1.15rem;
+	border-left: 4px solid var(--wiki-ink);
+	border-radius: 2px;
+}
+
+.markdown-section h4 {
+	font-size: 1.05rem;
+}
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4 {
+	letter-spacing: 0.04em;
 }
 
 .markdown-section a {
-	color: var(--wiki-text);
+	color: var(--wiki-ink);
+	font-weight: 500;
+	text-decoration: underline dotted 1px;
+	text-underline-offset: 3px;
 }
+
+.markdown-section a:hover {
+	color: var(--wiki-gold);
+	text-decoration-style: solid;
+}
+
+/* 見出しの自動リンクに下線は要らない */
+.markdown-section h1 a,
+.markdown-section h2 a,
+.markdown-section h3 a,
+.markdown-section h4 a {
+	text-decoration: none;
+}
+
+.markdown-section .anchor span {
+	color: var(--wiki-ink);
+}
+
+.markdown-section hr {
+	border-bottom: 2px dashed var(--wiki-line);
+}
+
+/* 背景を持つ囲みは、右上のインフォボックス（float）の下に潜らず横に収まるようにする */
+.markdown-section blockquote,
+.markdown-section p.warn,
+.markdown-section p.tip,
+.markdown-section details,
+.markdown-section pre,
+.markdown-section .mermaid {
+	display: flow-root;
+}
+
+/* 説明文（ページ冒頭の引用）: 吹き出し */
+.markdown-section blockquote {
+	position: relative;
+	margin: 1.2em 0 1.6em;
+	padding: 0.9em 1.3em 0.9em 3em;
+	color: var(--wiki-body);
+	background: var(--wiki-bubble);
+	border-left: none;
+	border-radius: 18px;
+}
+
+.markdown-section blockquote::before {
+	content: "“";
+	position: absolute;
+	left: 0.45em;
+	top: -0.05em;
+	color: var(--wiki-gold);
+	font-size: 2.8em;
+	font-family: Georgia, serif;
+	line-height: 1;
+}
+
+.markdown-section blockquote p {
+	margin: 0;
+	font-weight: 500;
+}
+
+/* ?> の注意書き: 付箋 */
+.markdown-section p.warn {
+	position: relative;
+	padding: 0.9em 1.2em 0.9em 2.9em;
+	background: var(--wiki-note);
+	border: 2px dashed var(--wiki-gold);
+	border-radius: 16px;
+}
+
+.markdown-section p.warn::before {
+	content: "💡";
+	position: absolute;
+	left: 0.85em;
+	top: 0.85em;
+}
+
+/* !> の警告 */
+.markdown-section p.tip {
+	background: var(--wiki-row);
+	border-left: 4px solid #d1603d;
+	border-radius: 12px;
+}
+
+.markdown-section p.tip code {
+	background: var(--wiki-gold-soft);
+}
+
+.markdown-section em {
+	color: var(--wiki-muted);
+}
+
+/* --- 表 --------------------------------------------------------------- */
 
 /* 表はインフォボックス（float）の横に収まるよう幅を中身に合わせる（vue.css は width:100% で回り込みを妨げる） */
 .markdown-section table {
-	width: auto;
+	width: fit-content;
 	max-width: 100%;
+	border-collapse: separate;
+	border-spacing: 0;
+	border: 1px solid var(--wiki-line);
+	border-radius: 14px;
+	background: var(--wiki-sheet);
+	font-size: 0.92em;
+	letter-spacing: 0;
+	line-height: 1.6;
 }
 
 .markdown-section td,
 .markdown-section th {
-	border-color: var(--wiki-border);
-	padding: 4px 10px;
+	padding: 5px 10px;
+	border: none;
+	border-bottom: 1px solid var(--wiki-line);
+}
+
+.markdown-section tbody tr:last-child td {
+	border-bottom: none;
 }
 
 .markdown-section tr {
-	border-top-color: var(--wiki-border);
+	border-top: none;
 }
 
 .markdown-section tr:nth-child(2n) {
 	background-color: var(--wiki-row);
 }
 
+.markdown-section tbody tr:hover {
+	background-color: var(--wiki-gold-soft);
+}
+
 .markdown-section th {
-	background-color: var(--wiki-surface);
+	color: var(--wiki-ink);
+	background-color: color-mix(in srgb, var(--wiki-ink) 8%, var(--wiki-sheet));
 	white-space: nowrap;
+	font-weight: 700;
 }
 
-.markdown-section code,
+.markdown-section thead th:first-child {
+	border-top-left-radius: 13px;
+}
+
+.markdown-section thead th:last-child {
+	border-top-right-radius: 13px;
+}
+
+/* --- コード・折りたたみ ------------------------------------------------ */
+
+.markdown-section code {
+	padding: 2px 6px;
+	color: var(--wiki-code);
+	background-color: var(--wiki-gold-soft);
+	border-radius: 6px;
+	font-family: var(--wiki-mono);
+}
+
 .markdown-section pre {
-	background-color: var(--wiki-surface);
+	background-color: var(--wiki-row);
+	border: 1px solid var(--wiki-line);
+	border-radius: 14px;
 }
 
-.markdown-section blockquote {
-	border-left-color: var(--wiki-text);
-	color: var(--wiki-muted);
+.markdown-section pre > code {
+	color: var(--wiki-body);
+	background: transparent;
 }
 
 .markdown-section details {
 	margin: 1em 0;
-	border: 1px solid var(--wiki-border);
-	border-radius: 6px;
-	padding: 0.4em 0.8em;
-	background: var(--wiki-surface);
+	padding: 0.5em 1em;
+	background: var(--wiki-row);
+	border: 1px solid var(--wiki-line);
+	border-radius: 14px;
 }
 
 .markdown-section details > summary {
 	cursor: pointer;
-	font-weight: 600;
-	color: var(--wiki-text);
+	font-weight: 700;
+	color: var(--wiki-ink);
+	list-style: none;
 }
 
-/* アイコン。いずれ SVG などの画像に置き換わるので、emoji も画像も同じ箱に収める */
+.markdown-section details > summary::-webkit-details-marker {
+	display: none;
+}
+
+.markdown-section details > summary::before {
+	content: "▸";
+	display: inline-block;
+	width: 1.1em;
+	color: var(--wiki-gold);
+	transition: transform 0.15s;
+}
+
+.markdown-section details[open] > summary::before {
+	transform: rotate(90deg);
+}
+
+/* 開発者向け情報は脇役。少し小さく・淡くする */
+.markdown-section h2#開発者向け情報 {
+	clear: both;
+	color: var(--wiki-muted);
+}
+
+.markdown-section h2#開発者向け情報::before {
+	background: var(--wiki-muted);
+	box-shadow: 0 0 0 4px var(--wiki-line);
+}
+
+.markdown-section h2#開発者向け情報 ~ * {
+	font-size: 0.92em;
+}
+
+/* --- アイコン --------------------------------------------------------- */
+
+/* いずれ SVG などの画像に置き換わるので、emoji も画像も同じ箱に収める */
 .wiki-icon {
 	display: inline-block;
 	min-width: 1.3em;
@@ -141,100 +503,117 @@ img.wiki-icon {
 
 .wiki-icon-large {
 	display: inline-block;
-	font-size: 64px;
+	font-size: 60px;
 	line-height: 1.1;
 }
 
 img.wiki-icon-large {
-	width: 72px;
-	height: 72px;
+	width: 68px;
+	height: 68px;
 	object-fit: contain;
 }
 
-/* インフォボックス（右上の囲み）。--accent は要素の色（カテゴリから継承） */
+/* --- インフォボックス（右上の囲み）。--accent は要素の色（カテゴリから継承） --- */
+
 .wiki-infobox {
 	float: right;
 	clear: right;
 	width: 300px;
-	margin: 0 0 1.2em 1.5em;
-	border: 1px solid var(--wiki-border);
-	border-top: 6px solid var(--accent, var(--wiki-text));
-	border-radius: 6px;
-	background: var(--wiki-surface);
+	margin: 0 0 1.4em 1.6em;
+	background: var(--wiki-sheet);
+	border: 2px solid color-mix(in srgb, var(--accent, var(--wiki-ink)) 45%, var(--wiki-line));
+	border-radius: 20px;
+	box-shadow: var(--wiki-shadow);
 	font-size: 14px;
 	overflow: hidden;
 }
 
 .wiki-infobox-title {
-	padding: 0.5em 0.8em;
+	padding: 0.6em 0.8em;
 	font-weight: 700;
 	font-size: 1.1em;
 	text-align: center;
-	color: var(--wiki-text);
-	border-bottom: 1px solid var(--wiki-border);
+	color: #fff;
+	background: color-mix(in srgb, var(--accent, var(--wiki-ink)) 82%, #000);
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
 }
 
 .wiki-infobox-icon {
-	padding: 0.6em 0;
+	padding: 16px 0 12px;
 	text-align: center;
-	background: color-mix(in srgb, var(--accent, var(--wiki-text)) 12%, transparent);
+	background:
+		radial-gradient(circle at 50% 55%, var(--wiki-sheet) 0 44px, transparent 45px),
+		color-mix(in srgb, var(--accent, var(--wiki-ink)) 16%, var(--wiki-sheet));
 }
 
 .markdown-section .wiki-infobox table {
 	display: table;
 	width: 100%;
 	margin: 0;
+	border: none;
+	border-radius: 0;
+	background: transparent;
+}
+
+.markdown-section .wiki-infobox tr,
+.markdown-section .wiki-infobox tr:nth-child(2n),
+.markdown-section .wiki-infobox tbody tr:hover {
+	background: transparent;
 }
 
 .markdown-section .wiki-infobox th,
 .markdown-section .wiki-infobox td {
+	padding: 5px 12px;
 	border: none;
-	border-top: 1px solid var(--wiki-border);
-	padding: 4px 8px;
+	border-top: 1px dashed var(--wiki-line);
 	vertical-align: top;
 	background: transparent;
+	border-radius: 0;
 }
 
 .markdown-section .wiki-infobox th {
 	width: 7em;
 	text-align: left;
 	color: var(--wiki-muted);
-	font-weight: 600;
+	font-weight: 500;
 	white-space: nowrap;
 }
 
-/* ナビボックス（同じグループの仲間） */
+/* --- ナビボックス（同じグループの仲間） -------------------------------- */
+
 .wiki-navbox {
 	clear: both;
-	margin: 2em 0 1em;
-	border: 1px solid var(--wiki-border);
-	border-radius: 6px;
+	margin: 2.4em 0 1em;
+	background: var(--wiki-sheet);
+	border: 2px solid color-mix(in srgb, var(--accent, var(--wiki-ink)) 40%, var(--wiki-line));
+	border-radius: 18px;
 	overflow: hidden;
 }
 
 .wiki-navbox-title {
-	padding: 0.35em 0.8em;
+	padding: 0.45em 1em;
 	font-weight: 700;
 	color: #fff;
-	background: var(--accent, var(--wiki-text));
+	background: color-mix(in srgb, var(--accent, var(--wiki-ink)) 82%, #000);
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
 }
 
 .wiki-navbox-body {
-	padding: 0.6em 0.8em;
+	padding: 0.7em 1em;
 	font-size: 13px;
-	line-height: 1.9;
+	line-height: 2;
 }
 
 .markdown-section h2 {
 	clear: none;
 }
 
-.markdown-section h2#開発者向け情報 {
-	clear: both;
-}
+/* --- 小物 ------------------------------------------------------------- */
 
 .wiki-snapshot {
 	margin-top: 3em;
+	padding-top: 1em;
+	border-top: 2px dashed var(--wiki-line);
 	font-size: 12px;
 	color: var(--wiki-muted);
 }
@@ -243,25 +622,59 @@ img.wiki-icon-large {
 	display: inline-block;
 	width: 1em;
 	height: 1em;
-	border: 1px solid var(--wiki-border);
+	border: 1px solid var(--wiki-line);
+	border-radius: 4px;
 	vertical-align: -0.15em;
 }
 
-/* 検索（サイドバー上部） */
+.markdown-section .mermaid {
+	overflow-x: auto;
+	padding: 16px 8px;
+	text-align: center;
+	background: var(--wiki-row);
+	border: 1px solid var(--wiki-line);
+	border-radius: 18px;
+}
+
+/* --- 検索（サイドバー上部） ------------------------------------------- */
+
 .wiki-search {
 	position: relative;
-	margin: 0 12px 12px;
+	margin: 0 14px 16px;
+}
+
+.wiki-search::before {
+	content: "🔍";
+	position: absolute;
+	left: 12px;
+	top: 7px;
+	font-size: 13px;
+	opacity: 0.7;
+	pointer-events: none;
 }
 
 .wiki-search input,
 .wiki-filter input {
 	width: 100%;
-	padding: 6px 10px;
-	border: 1px solid var(--wiki-border);
-	border-radius: 6px;
-	background: var(--wiki-background);
+	padding: 7px 14px;
+	border: 2px solid var(--wiki-line);
+	border-radius: 999px;
+	background: var(--wiki-sheet);
 	color: var(--wiki-body);
+	font-family: var(--wiki-font);
 	font-size: 14px;
+	outline: none;
+	transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.wiki-search input {
+	padding-left: 34px;
+}
+
+.wiki-search input:focus,
+.wiki-filter input:focus {
+	border-color: var(--wiki-gold);
+	box-shadow: 0 0 0 4px var(--wiki-gold-soft);
 }
 
 .wiki-search ul {
@@ -271,13 +684,13 @@ img.wiki-icon-large {
 	right: 0;
 	max-height: 60vh;
 	overflow-y: auto;
-	margin: 4px 0 0;
-	padding: 4px 0;
+	margin: 6px 0 0;
+	padding: 6px;
 	list-style: none;
-	background: var(--wiki-background);
-	border: 1px solid var(--wiki-border);
-	border-radius: 6px;
-	box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+	background: var(--wiki-sheet);
+	border: 1px solid var(--wiki-line);
+	border-radius: 16px;
+	box-shadow: var(--wiki-shadow);
 }
 
 .wiki-search ul:empty {
@@ -292,20 +705,25 @@ img.wiki-icon-large {
 	display: flex;
 	gap: 6px;
 	align-items: baseline;
-	padding: 3px 10px;
+	padding: 4px 10px;
+	border-radius: 10px;
 	white-space: nowrap;
 }
 
 .sidebar .wiki-search li a.selected,
 .sidebar .wiki-search li a:hover {
-	background: var(--wiki-surface);
+	background: var(--wiki-gold-soft);
 	text-decoration: none;
 }
 
 .wiki-search-type {
 	flex: none;
+	margin-left: auto;
+	padding: 0 8px;
 	font-size: 11px;
 	color: var(--wiki-muted);
+	background: var(--wiki-row);
+	border-radius: 999px;
 }
 
 .wiki-search-name {
@@ -313,19 +731,23 @@ img.wiki-icon-large {
 	text-overflow: ellipsis;
 }
 
-/* 一覧の絞り込み欄と並べ替え */
+/* --- 一覧の絞り込み欄と並べ替え ---------------------------------------- */
+
 .wiki-filter {
 	display: flex;
-	gap: 8px;
+	gap: 10px;
 	align-items: center;
-	margin: 1em 0 0.5em;
-	max-width: 420px;
+	margin: 1em 0 0.6em;
+	max-width: 440px;
 }
 
 .wiki-filter span {
 	flex: none;
+	padding: 1px 10px;
 	font-size: 12px;
 	color: var(--wiki-muted);
+	background: var(--wiki-row);
+	border-radius: 999px;
 }
 
 .markdown-section th.wiki-sortable {
@@ -341,16 +763,15 @@ img.wiki-icon-large {
 
 .markdown-section th[data-order="asc"]::after {
 	content: " ▲";
+	color: var(--wiki-gold);
 }
 
 .markdown-section th[data-order="desc"]::after {
 	content: " ▼";
+	color: var(--wiki-gold);
 }
 
-.markdown-section .mermaid {
-	overflow-x: auto;
-	text-align: center;
-}
+/* --- スマホ ----------------------------------------------------------- */
 
 @media screen and (max-width: 768px) {
 	/* ナビバーを本文の上に積む（vue.css は absolute で h1 に重なる） */
@@ -361,8 +782,14 @@ img.wiki-icon-large {
 	}
 
 	.markdown-section {
-		max-width: 100%;
-		padding: 20px 16px 40px;
+		max-width: none;
+		margin: 12px 10px 32px;
+		padding: 24px 18px 32px;
+		border-radius: 16px;
+	}
+
+	.markdown-section h1 {
+		font-size: 1.8rem;
 	}
 
 	.wiki-infobox {
