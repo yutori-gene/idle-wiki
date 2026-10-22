@@ -1,0 +1,5 @@
+# テキストの改行は LF に統一する
+* text=auto eol=lf
+
+# source/ は idle から取り込んだスナップショット。CSV は Excel 由来の CRLF を保つため変換対象外
+*.csv -text

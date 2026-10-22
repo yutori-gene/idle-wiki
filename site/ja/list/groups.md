@@ -1,0 +1,67 @@
+# グループ一覧
+
+<div class="wiki-filter"></div>
+
+| グループ | 使う種別 | カテゴリ | アクション | アイテム | イベント |
+| --- | --- | --- | --- | --- | --- |
+| [<span class="wiki-icon">🗺️</span>ダンジョン](/ja/group/dungeon) | カテゴリ | 10 | 0 | 0 | 0 |
+| [<span class="wiki-icon">🏠</span>拠点](/ja/group/base) | カテゴリ | 9 | 0 | 0 | 0 |
+| [<span class="wiki-icon">🛠️</span>装備管理](/ja/group/equipment) | カテゴリ | 5 | 0 | 0 | 0 |
+| [<span class="wiki-icon">🔰</span>チュートリアル](/ja/group/tutorial) | イベント | 0 | 0 | 0 | 17 |
+| [<span class="wiki-icon">📜</span>ストーリー](/ja/group/story) | イベント | 0 | 0 | 0 | 34 |
+| [<span class="wiki-icon">📋</span>依頼](/ja/group/request) | イベント | 0 | 0 | 0 | 20 |
+| [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | アクション・アイテム | 0 | 19 | 19 | 0 |
+| [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | アクション | 0 | 32 | 0 | 0 |
+| [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | アクション | 0 | 111 | 0 | 0 |
+| [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | アクション | 0 | 26 | 0 | 0 |
+| [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | アクション | 0 | 137 | 0 | 0 |
+| [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | アクション | 0 | 103 | 0 | 0 |
+| [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | アクション | 0 | 7 | 0 | 0 |
+| [<span class="wiki-icon">🔧</span>加工](/ja/group/process) | アクション | 0 | 5 | 0 | 0 |
+| [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | アクション | 0 | 25 | 0 | 0 |
+| [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | アクション | 0 | 17 | 0 | 0 |
+| [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | アクション | 0 | 25 | 0 | 0 |
+| [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | アクション | 0 | 18 | 0 | 0 |
+| [<span class="wiki-icon">🏭</span>生産](/ja/group/produce) | アクション | 0 | 0 | 0 | 0 |
+| [<span class="wiki-icon">🔨</span>製作](/ja/group/craft) | アクション | 0 | 0 | 0 | 0 |
+| [<span class="wiki-icon">🎬</span>イベント](/ja/group/event) | アクション | 0 | 0 | 0 | 0 |
+| [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | アイテム | 0 | 0 | 17 | 0 |
+| [<span class="wiki-icon">🥣</span>混ぜ](/ja/group/mixing) | アイテム | 0 | 0 | 1 | 0 |
+| [<span class="wiki-icon">🍳</span>炒め](/ja/group/stir-frying) | アイテム | 0 | 0 | 1 | 0 |
+| [<span class="wiki-icon">🍲</span>煮込み](/ja/group/stewing) | アイテム | 0 | 0 | 1 | 0 |
+| [<span class="wiki-icon">♨️</span>蒸し](/ja/group/steaming) | アイテム | 0 | 0 | 1 | 0 |
+| [<span class="wiki-icon">⚒️</span>粉砕](/ja/group/crushing) | アイテム | 0 | 0 | 1 | 0 |
+| [<span class="wiki-icon">🧫</span>蒸留](/ja/group/distilling) | アイテム | 0 | 0 | 1 | 0 |
+| [<span class="wiki-icon">🧫</span>溶解](/ja/group/melting) | アイテム | 0 | 0 | 1 | 0 |
+| [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | アクション・アイテム | 0 | 0 | 70 | 0 |
+| [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | アクション・アイテム | 0 | 26 | 26 | 0 |
+| [<span class="wiki-icon">🌿</span>薬草](/ja/group/herb) | アイテム | 0 | 0 | 6 | 0 |
+| [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | アイテム | 0 | 0 | 26 | 0 |
+| [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | アイテム | 0 | 0 | 222 | 0 |
+| [<span class="wiki-icon">⚙️</span>加工品](/ja/group/processed-goods) | アイテム | 0 | 0 | 7 | 0 |
+| [<span class="wiki-icon">♻️</span>リサイクル素材](/ja/group/recycled-material) | アイテム | 0 | 0 | 6 | 0 |
+| [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | アクション・アイテム | 0 | 28 | 14 | 0 |
+| [<span class="wiki-icon">🎒</span>容器](/ja/group/container) | アイテム | 0 | 0 | 10 | 0 |
+| [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | アイテム | 0 | 0 | 45 | 0 |
+| [<span class="wiki-icon">💎</span>特別品](/ja/group/special) | アイテム | 0 | 0 | 9 | 0 |
+| [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | アイテム | 0 | 0 | 31 | 0 |
+| [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | アイテム | 0 | 0 | 63 | 0 |
+| [<span class="wiki-icon">📕</span>本](/ja/group/book) | アイテム | 0 | 0 | 26 | 0 |
+| [<span class="wiki-icon">🧠</span>知識](/ja/group/knowledge) | アイテム | 0 | 0 | 15 | 0 |
+| [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | アイテム | 0 | 0 | 10 | 0 |
+| [<span class="wiki-icon">🟫</span>床](/ja/group/floor) | アクション・アイテム | 0 | 4 | 4 | 0 |
+| [<span class="wiki-icon">🖼️</span>壁](/ja/group/wall) | アクション・アイテム | 0 | 5 | 5 | 0 |
+| [<span class="wiki-icon">📚</span>棚](/ja/group/shelf) | アクション・アイテム | 0 | 5 | 5 | 0 |
+| [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | アクション・アイテム | 0 | 0 | 23 | 0 |
+| [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | アクション・アイテム | 0 | 0 | 21 | 0 |
+| [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | アクション・アイテム | 0 | 0 | 18 | 0 |
+| [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | アクション・アイテム | 0 | 0 | 19 | 0 |
+| [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | アクション・アイテム | 0 | 0 | 15 | 0 |
+| [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | アクション・アイテム | 0 | 0 | 21 | 0 |
+| [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | アクション・アイテム | 0 | 0 | 15 | 0 |
+| [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | アクション・アイテム | 0 | 0 | 24 | 0 |
+| [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | アクション・アイテム | 0 | 0 | 24 | 0 |
+| [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | アクション・アイテム | 0 | 0 | 24 | 0 |
+| [<span class="wiki-icon">🎁</span>宝箱](/ja/group/treasure-chest) | アイテム | 0 | 0 | 18 | 0 |
+| [<span class="wiki-icon">🪙</span>通貨](/ja/group/currency) | アイテム | 0 | 0 | 0 | 0 |
+| [<span class="wiki-icon">🚫</span>未使用](/ja/group/unused) | アクション | 0 | 0 | 0 | 0 |

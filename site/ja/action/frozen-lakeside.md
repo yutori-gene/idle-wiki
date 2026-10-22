@@ -1,0 +1,170 @@
+# 凍った湖畔
+
+<div class="wiki-infobox" style="--accent:#48a0b5"><div class="wiki-infobox-title">凍った湖畔</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧊</span></div><table><tr><th>場所</th><td><a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><span class="wiki-icon">🧺</span>収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv3</td></tr><tr><th>所要時間</th><td>50秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>29</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+
+> 氷の下にも宝がある。
+
+
+**連続**: 時間で進み、止めるまで繰り返す。オフライン中も進む。
+
+## 必要なもの
+
+- [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) Lv3以上（経験値の入り先カテゴリのレベル）
+
+## 取得物
+
+| 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
+| --- | --- | --- | --- | --- |
+| [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) ×7 | 成功時 | 91% | 3.2 | 229 |
+| [<span class="wiki-icon">❄️</span>雪の塊](/ja/item/snow-chunk) ×5 | 成功時 | 56% | 1.4 | 101 |
+| [<span class="wiki-icon">🧊</span>つらら](/ja/item/icicle) ×5 | 成功時 | 56% | 1.4 | 101 |
+| [<span class="wiki-icon">🌨️</span>凍った枝](/ja/item/frozen-branch) ×5 | 成功時 | 56% | 1.4 | 101 |
+| [<span class="wiki-icon">❄️</span>霜のかけら](/ja/item/frost-piece) ×3 | 成功時 | 48% | 0.72 | 51.8 |
+| [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod) ×3 | 成功時 | 48% | 0.72 | 51.8 |
+| [<span class="wiki-icon">🌌</span>極夜の結晶](/ja/item/polar-night-crystal) ×1 | 成功時 | 100% | 0.5 | 36 |
+| [<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) ×1 | 成功時 | 8.64% | 0.043 | 3.1 |
+| [<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) ×1 | 成功時 | 10.4% | 0.052 | 3.7 |
+| [<span class="wiki-icon">🐾</span>雪うさぎの足跡](/ja/item/snow-rabbit-track) ×3 | 成功時 | 57.6% | 0.864 | 62.2 |
+
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
+
+## 計算値
+
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
+| --- | --- | --- | --- | --- | --- |
+| ±0（Lv3） | 50秒 | 50% | 29 | 72 | 1,044 |
+| +10（Lv13） | 40.8秒 | 60% | 19.33 | 88.2 | 1,023 |
+| +20（Lv23） | 33.3秒 | 69.2% | 12.89 | 108 | 964 |
+| +30（Lv33） | 27.2秒 | 77.1% | 8.59 | 132.3 | 877 |
+
+レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
+
+## 収支（1時間あたり）
+
+| 通貨 | 収入 | 材料費 | 差引 |
+| --- | --- | --- | --- |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 51,399 | 0 | 51,399 |
+
+取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
+
+<div class="wiki-navbox" style="--accent:#48a0b5"><div class="wiki-navbox-title">北国のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/snowfield-ruins"><span class="wiki-icon">🏛️</span>雪原の遺跡</a> ・ <a href="#/ja/action/frozen-lakeside"><span class="wiki-icon">🧊</span>凍った湖畔</a> ・ <a href="#/ja/action/griffin"><span class="wiki-icon">🦅</span>グリフィン</a> ・ <a href="#/ja/action/phoenix"><span class="wiki-icon">🐦‍🔥</span>フェニックス</a> ・ <a href="#/ja/action/frozen-warrior"><span class="wiki-icon">🧊</span>氷漬けの戦士</a> ・ <a href="#/ja/action/wyvern"><span class="wiki-icon">🐉</span>ワイバーン</a> ・ <a href="#/ja/action/mammoth"><span class="wiki-icon">🦣</span>マンモス</a> ・ <a href="#/ja/action/dragon-kid"><span class="wiki-icon">🐲</span>ドラゴンキッズ</a> ・ <a href="#/ja/action/tiger"><span class="wiki-icon">🐯</span>トラ</a> ・ <a href="#/ja/action/manticore"><span class="wiki-icon">🦁</span>マンティコア</a> ・ <a href="#/ja/action/drake"><span class="wiki-icon">🐉</span>ドレイク</a> ・ <a href="#/ja/action/ice"><span class="wiki-icon">🧊</span>氷</a> ・ <a href="#/ja/action/god-warrior"><span class="wiki-icon">🗿</span>巨神兵</a> ・ <a href="#/ja/action/wild-door"><span class="wiki-icon">🚪</span>ワイルドドア</a> ・ <a href="#/ja/action/bahamut"><span class="wiki-icon">🐉</span>バハムート</a> ・ <a href="#/ja/action/polar-bear"><span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ</a> ・ <a href="#/ja/action/dragon-den"><span class="wiki-icon">🐉</span>竜の巣穴</a></div></div>
+
+## 開発者向け情報
+
+| 項目 | 値 |
+| --- | --- |
+| id | `frozen-lakeside` |
+| `category` | `northland` |
+| `attribute` | （空） |
+| `group` | `gather` |
+| `unlocked` | `hidden` |
+| `level` | `3` |
+| `experience` | `29` |
+| `seconds` | `50` |
+| `chance` | `0.5` |
+| `maximum` | `0` |
+| `progressType` | `persistent` |
+| CSV `tier` | 5 |
+
+**設計ドキュメント**: [plan.md › アクションパターン（Step 1-3 確定・装備分）](/ja/dev/doc/plan?id=%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%EF%BC%88step-1-3-%E7%A2%BA%E5%AE%9A%E3%83%BB%E8%A3%85%E5%82%99%E5%88%86%EF%BC%89) ／ [plan.md › Action 列補完ルール（tier / maximum / level / rare）](/ja/dev/doc/plan?id=action-%E5%88%97%E8%A3%9C%E5%AE%8C%E3%83%AB%E3%83%BC%E3%83%AB%EF%BC%88tier-maximum-level-rare%EF%BC%89) ／ [plan.md › アクション基準秒数](/ja/dev/doc/plan?id=%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E5%9F%BA%E6%BA%96%E7%A7%92%E6%95%B0)
+
+<details><summary>ワールド定義（JSON）</summary>
+
+```json
+{
+	"information": {
+		"id": "frozen-lakeside",
+		"name": "凍った湖畔",
+		"explanation": "氷の下にも宝がある。",
+		"icon": {
+			"emoji": "🧊",
+			"iconify": "",
+			"image": ""
+		},
+		"color": ""
+	},
+	"category": "northland",
+	"attribute": "",
+	"group": "gather",
+	"unlocked": "hidden",
+	"level": 3,
+	"experience": 29,
+	"seconds": 50,
+	"chance": 0.5,
+	"maximum": 0,
+	"requirements": [],
+	"acquisitions": [
+		{
+			"type": "item",
+			"id": "ice",
+			"count": 7,
+			"chance": 0.91
+		},
+		{
+			"type": "item",
+			"id": "snow-chunk",
+			"count": 5,
+			"chance": 0.56
+		},
+		{
+			"type": "item",
+			"id": "icicle",
+			"count": 5,
+			"chance": 0.56
+		},
+		{
+			"type": "item",
+			"id": "frozen-branch",
+			"count": 5,
+			"chance": 0.56
+		},
+		{
+			"type": "item",
+			"id": "frost-piece",
+			"count": 3,
+			"chance": 0.48
+		},
+		{
+			"type": "item",
+			"id": "cod",
+			"count": 3,
+			"chance": 0.48
+		},
+		{
+			"type": "item",
+			"id": "polar-night-crystal",
+			"count": 1,
+			"chance": 1
+		},
+		{
+			"type": "item",
+			"id": "ice-skate",
+			"count": 1,
+			"chance": 0.0864
+		},
+		{
+			"type": "item",
+			"id": "sea-urchin",
+			"count": 1,
+			"chance": 0.104
+		},
+		{
+			"type": "item",
+			"id": "snow-rabbit-track",
+			"count": 3,
+			"chance": 0.576
+		}
+	],
+	"progressType": "persistent",
+	"property": {
+		"attack": 0,
+		"defence": 0,
+		"accuracy": 0,
+		"evasion": 0,
+		"restore": 0
+	},
+	"skills": []
+}
+```
+
+</details>

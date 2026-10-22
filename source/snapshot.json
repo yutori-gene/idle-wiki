@@ -1,0 +1,30 @@
+{
+	"idleCommit": "2f1ffe231356c596f8ee1b60c1ebdbf26abf8d7c",
+	"idleBranch": "claude/zen-dijkstra-zuk9bu",
+	"idleCommitDate": "2026-10-21T16:19:19+00:00",
+	"worldId": "sunlit-to-sky",
+	"worldVersion": "0.0.1784",
+	"syncedAt": "2026-10-22T14:17:35.784Z",
+	"digests": {
+		"world/world.json": "0f9ef7b0c023d7a472d4b62cf937f5063730143d9e438ba272fdbdf0253de139",
+		"world/list/action.csv": "34d472a4b48b5c14602d6ba652b060afab87134893abb529002e0a9a93cd777a",
+		"world/list/category.csv": "bfbbb5c27dafe5b6cc5150ac4aad7d273b17ad4732454097e8fc291d50931f67",
+		"world/list/event.csv": "47a2edc5bfa818eb4c572e41ad7fbf36f5b5d009a3adb4ca6376e0cb8efddff6",
+		"world/list/group.csv": "8946153f7a43f439f67c54b350e5fabe8c999af09e9ec0f9caf21262c080b6b8",
+		"world/list/item.csv": "7ea2b4e1fdf813bbda18ac1ce885d8991d5e9489f67e5f67e6190b4af37c554a",
+		"world/list/skill.csv": "81f8fb5ed7aa664cd07a6af57a213920a8cadcd458cf7ffbc51865e2175ff41d",
+		"world/doc/csv-removed.md": "33743387cc6a26cb91e4f8e4b9c3cb94027560fe4aff238b9d32a1697d2311f5",
+		"world/doc/fix.md": "1d34fa391e9b010f7e445453275cb54b79738e9ea310021900972e51f8245d7b",
+		"world/doc/plan.md": "e383b2a29598467a6aec88c932d9aeb822e390d872ddb8c67168ea9d666027b3",
+		"world/doc/roadmap.md": "dd44881ac2f1e776630900342b244d44de73a2219325724ab26f1c3f42598c1b",
+		"world/doc/session.md": "2c5214ad4be075f670b49922650707d6ac2019f8db9b1215f7ef9b34c950ac8f",
+		"world/doc/terms.md": "249bee4403f259553ee3832df3a2b1cf759194ff014afeb97ee6258a65e2866e",
+		"world/view/overview.md": "cbb146e970f6bc8096e11915fe5eae53b79980cffba73053341c967d1a417588",
+		"type/worldType.ts": "cbae2c23a10473b81258964e8554425d197c48d6f5471fbd057449f46810c1e0",
+		"type/conditionType.ts": "6bfce967a6c22fd5f28a132366568c5998277dd6e9f2483732af93d0c73f5f04",
+		"engine/property.ts": "31fd773db6400b4d5dcbdd5cbdad57904385b63fae6969a500959ec1b3b43338",
+		"engine/update.ts": "6695c8eba36734062c31eff1fb722bebbec3b0c102f036046ba44233bee76198",
+		"engine/trade.ts": "2d6a8b12a66b5f7ebc49cb1af4d641d7a183613bc257103d05adcc46383356d2",
+		"engine/constant.ts": "4a2f3ff7aeabb1561a88ec3f013fccf8f40fef4d11c5bdb579f848dc1342b473"
+	}
+}

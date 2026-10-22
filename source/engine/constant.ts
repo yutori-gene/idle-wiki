@@ -1,0 +1,1 @@
+export const minimumActionSecond = 0.1;

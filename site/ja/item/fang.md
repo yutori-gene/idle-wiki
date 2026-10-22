@@ -1,0 +1,82 @@
+# 牙
+
+<div class="wiki-infobox" style="--accent:#8c8577"><div class="wiki-infobox-title">牙</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦷</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>6 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+
+> 鋭く尖った動物の武器。
+
+
+## 入手方法
+
+### アクション
+
+| アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
+| --- | --- | --- | --- | --- | --- | --- |
+| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 2 | 48% | 0.48 | 1.6 |
+| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 3 | 76.8% | 1.2 | 3.8 |
+| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 3 | 76.8% | 1.2 | 3.8 |
+| [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 2 | 48% | 0.48 | 1.6 |
+| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 2 | 48% | 0.48 | 1.6 |
+| [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 2 | 48% | 0.48 | 1.6 |
+| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 2 | 48% | 0.48 | 0.738 |
+| [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 2 | 48% | 0.48 | 0.123 |
+| [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv24 | 2 | 48% | 0.48 | 0.07 |
+| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 2 | 48% | 0.48 | 0.056 |
+| [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 3 | 76.8% | 1.2 | 0.135 |
+| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 3 | 76.8% | 1.2 | 0.135 |
+| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 | 2 | 48% | 0.48 | 0.056 |
+| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 3 | 76.8% | 1.2 | 0 |
+| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv44 | 3 | 76.8% | 1.2 | 0.013 |
+| [<span class="wiki-icon">📦</span>ミミック](/ja/action/mimic) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 3 | 76.8% | 1.2 | 0 |
+
+<div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
+
+## 開発者向け情報
+
+| 項目 | 値 |
+| --- | --- |
+| id | `fang` |
+| `category` | `warehouse` |
+| `group` | `material` |
+| `unlocked` | `hidden` |
+| `buyingValue` | `0` |
+| `sellingValue` | `6` |
+| `coinId` | （空） |
+| `maximum` | `0` |
+| `equipmentType` | `impossible` |
+| `skill` | （空） |
+| CSV `tier` | 2 |
+| CSV `rare` | 1 |
+| CSV `memo` | 空飛ぶ象 |
+
+**設計ドキュメント**: [plan.md › Item値段](/ja/dev/doc/plan?id=item%E5%80%A4%E6%AE%B5) ／ [plan.md › アイテム要件（Item.requirements）方針](/ja/dev/doc/plan?id=%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E8%A6%81%E4%BB%B6%EF%BC%88itemrequirements%EF%BC%89%E6%96%B9%E9%87%9D) ／ [plan.md › 入手経路パターン（Step 1-1 確定）](/ja/dev/doc/plan?id=%E5%85%A5%E6%89%8B%E7%B5%8C%E8%B7%AF%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%EF%BC%88step-1-1-%E7%A2%BA%E5%AE%9A%EF%BC%89)
+
+<details><summary>ワールド定義（JSON）</summary>
+
+```json
+{
+	"information": {
+		"id": "fang",
+		"name": "牙",
+		"explanation": "鋭く尖った動物の武器。",
+		"icon": {
+			"emoji": "🦷",
+			"iconify": "",
+			"image": ""
+		},
+		"color": ""
+	},
+	"category": "warehouse",
+	"group": "material",
+	"unlocked": "hidden",
+	"buyingValue": 0,
+	"sellingValue": 6,
+	"coinId": "",
+	"maximum": 0,
+	"equipmentType": "impossible",
+	"requirements": [],
+	"properties": [],
+	"skill": ""
+}
+```
+
+</details>

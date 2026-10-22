@@ -1,0 +1,21 @@
+{
+	"name": "idle-wiki",
+	"private": true,
+	"version": "0.1.0",
+	"type": "module",
+	"engines": {
+		"node": ">=22.0.0 <23.0.0"
+	},
+	"scripts": {
+		"wiki-sync": "tsx script/sync.ts",
+		"wiki-generate": "tsx script/generate.ts",
+		"wiki-check": "tsc --noEmit && tsx script/check.ts",
+		"wiki-update": "npm run wiki-sync && npm run wiki-generate && npm run wiki-check",
+		"wiki-serve": "tsx script/serve.ts"
+	},
+	"devDependencies": {
+		"@types/node": "22.19.1",
+		"tsx": "4.20.6",
+		"typescript": "5.9.3"
+	}
+}
