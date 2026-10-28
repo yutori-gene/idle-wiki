@@ -13,7 +13,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 4.98% | 0.025 | 0.041 |
+| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 0.028% | 0 | 0.041 |
 
 ## 用途
 
@@ -41,6 +41,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 5 |
@@ -70,6 +71,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

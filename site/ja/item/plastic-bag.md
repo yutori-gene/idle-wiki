@@ -12,8 +12,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🗑️</span>ゴミ箱あさり](/ja/action/rummage-trash-can) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv5 | 5 | 56% | 1.4 | 168 |
-| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 | 5 | 56% | 1.4 | 2.2 |
-| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 5 | 56% | 1.4 | 2.2 |
+| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 | 1 | 3.11% | 0.016 | 2.2 |
+| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 2.33% | 0.012 | 2.2 |
 
 ### イベント
 
@@ -54,6 +54,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 0 |
@@ -83,6 +84,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

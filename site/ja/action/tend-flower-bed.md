@@ -17,7 +17,7 @@
 | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍀</span>四つ葉のクローバー](/ja/item/four-leaf-clover) ×7 | 成功時 | 91% | 3.2 | 1,147 |
 | [<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
-| [<span class="wiki-icon">🐞</span>テントウムシ](/ja/item/ladybug) ×1 | 成功時 | 8.64% | 0.043 | 15.6 |
+| [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) ×1 | 成功時 | 33.6% | 0.168 | 60.5 |
 | [<span class="wiki-icon">🌱</span>ネギ](/ja/item/green-onion) ×1 | 成功時 | 8.64% | 0.043 | 15.6 |
 | [<span class="wiki-icon">🧤</span>ミトン](/ja/item/mitten) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
 | [<span class="wiki-icon">⛏️</span>クワ](/ja/item/hoe) ×1 | 成功時 | 18% | 0.09 | 32.4 |
@@ -43,7 +43,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 3,496 | 0 | 3,496 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 3,537 | 0 | 3,537 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -108,9 +108,9 @@
 		},
 		{
 			"type": "item",
-			"id": "ladybug",
+			"id": "carrot",
 			"count": 1,
-			"chance": 0.0864
+			"chance": 0.336
 		},
 		{
 			"type": "item",

@@ -10,24 +10,24 @@
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐥</span>ヒヨコを遊ばせる](/ja/action/play-with-chick) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv1 | 連続 |
-| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv1 | 連続 |
-| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv3 | 連続 |
-| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv3 | 連続 |
-| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 連続 |
-| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 連続 |
-| [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 連続 |
-| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv8 | 連続 |
-| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv8 | 連続 |
-| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv8 | 連続 |
-| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv10 | 連続 |
-| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv13 | 連続 |
-| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv15 | 連続 |
-| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv15 | 連続 |
-| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv18 | 連続 |
-| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv18 | 連続 |
-| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv20 | 連続 |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv20 | 連続 |
-| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv20 | 連続 |
+| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv4 | 連続 |
+| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 連続 |
+| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv9 | 連続 |
+| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv12 | 連続 |
+| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv15 | 連続 |
+| [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv17 | 連続 |
+| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv20 | 連続 |
+| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv23 | 連続 |
+| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv26 | 連続 |
+| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv28 | 連続 |
+| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv31 | 連続 |
+| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv34 | 連続 |
+| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv36 | 連続 |
+| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv39 | 連続 |
+| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv42 | 連続 |
+| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv45 | 連続 |
+| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv47 | 連続 |
+| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv50 | 連続 |
 
 ## アイテム
 

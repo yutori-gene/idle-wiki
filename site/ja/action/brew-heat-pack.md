@@ -1,6 +1,6 @@
 # カイロの調合
 
-<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">カイロの調合</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brew"><span class="wiki-icon">⚗️</span>調合</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv4</td></tr><tr><th>所要時間</th><td>2分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>35</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">カイロの調合</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brew"><span class="wiki-icon">⚗️</span>調合</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv15</td></tr><tr><th>所要時間</th><td>4分</td></tr><tr><th>成功率</th><td>60%</td></tr><tr><th>経験値</th><td>134</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 鉄粉と塩を炉で焼き合わせる。振れば温まる冬の味方。
 
@@ -9,10 +9,10 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv4以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv15以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない）
-- [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron) ×2（消費する）
-- [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) ×3（消費する）
+- [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron) ×4（消費する）
+- [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) ×6（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -20,18 +20,18 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>カイロ](/ja/item/heat-pack) ×1 | 成功時 | 100% | 1 | 30 |
+| [<span class="wiki-icon">🔥</span>カイロ](/ja/item/heat-pack) ×50 | 成功時 | 100% | 30 | 450 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 60%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv4） | 2分 | 100% | 35 | 30 | 1,050 |
-| +10（Lv14） | 1分38秒 | 100% | 23.33 | 36.7 | 857 |
-| +20（Lv24） | 1分20秒 | 100% | 15.56 | 45 | 700 |
-| +30（Lv34） | 1分5秒 | 100% | 10.37 | 55.1 | 572 |
+| ±0（Lv15） | 4分 | 60% | 134 | 15 | 1,206 |
+| +10（Lv25） | 3分16秒 | 69.2% | 89.33 | 18.4 | 1,136 |
+| +20（Lv35） | 2分40秒 | 77.1% | 59.56 | 22.5 | 1,034 |
+| +30（Lv45） | 2分11秒 | 83.5% | 39.7 | 27.6 | 914 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -39,11 +39,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 120 | 1,980 | -1,860 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 1,800 | 1,980 | -180 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6d4f9c"><div class="wiki-navbox-title">地下室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-mortar"><span class="wiki-icon">🥣</span>すり鉢を買う</a> ・ <a href="#/ja/action/buy-still"><span class="wiki-icon">⚗️</span>蒸留器を買う</a> ・ <a href="#/ja/action/buy-crucible"><span class="wiki-icon">⚗️</span>るつぼを買う</a> ・ <a href="#/ja/action/brew-wound-medicine"><span class="wiki-icon">💊</span>キズ薬の調合</a> ・ <a href="#/ja/action/brew-bandage"><span class="wiki-icon">🩹</span>絆創膏の調合</a> ・ <a href="#/ja/action/brew-cold-medicine"><span class="wiki-icon">💊</span>風邪薬の調合</a> ・ <a href="#/ja/action/brew-opium"><span class="wiki-icon">💊</span>阿片の調合</a> ・ <a href="#/ja/action/brew-bubbling-medicine"><span class="wiki-icon">🧪</span>泡立つ薬の調合</a> ・ <a href="#/ja/action/brew-eye-drops"><span class="wiki-icon">👁️</span>目薬の調合</a> ・ <a href="#/ja/action/brew-glowing-medicine"><span class="wiki-icon">✨</span>発光する薬の調合</a> ・ <a href="#/ja/action/brew-ether"><span class="wiki-icon">🧪</span>エーテルの調合</a> ・ <a href="#/ja/action/brew-heat-pack"><span class="wiki-icon">🔥</span>カイロの調合</a> ・ <a href="#/ja/action/brew-cold-pack"><span class="wiki-icon">🧊</span>保冷剤の調合</a> ・ <a href="#/ja/action/brew-painkiller"><span class="wiki-icon">💊</span>鎮痛剤の調合</a> ・ <a href="#/ja/action/brew-anti-drowsiness"><span class="wiki-icon">☕</span>眠気覚ましの調合</a> ・ <a href="#/ja/action/brew-phoenix-tail"><span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合</a> ・ <a href="#/ja/action/brew-laxative"><span class="wiki-icon">💊</span>下剤の調合</a> ・ <a href="#/ja/action/brew-laxative-for-gorilla"><span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合</a> ・ <a href="#/ja/action/brew-poison-vial"><span class="wiki-icon">🧪</span>毒瓶の調合</a> ・ <a href="#/ja/action/brew-tonic"><span class="wiki-icon">💊</span>滋養強壮剤の調合</a> ・ <a href="#/ja/action/brew-vaccine"><span class="wiki-icon">💉</span>ワクチンの調合</a> ・ <a href="#/ja/action/brew-lcl"><span class="wiki-icon">🧪</span>LCLの調合</a> ・ <a href="#/ja/action/brew-holy-water"><span class="wiki-icon">💧</span>聖水の調合</a> ・ <a href="#/ja/action/brew-bottled-spirit"><span class="wiki-icon">🧞</span>精霊の入ったビンの調合</a> ・ <a href="#/ja/action/brew-panacea"><span class="wiki-icon">💊</span>万能薬の調合</a> ・ <a href="#/ja/action/brew-revive-piece"><span class="wiki-icon">💊</span>げんきのかけらの調合</a> ・ <a href="#/ja/action/brew-elixir"><span class="wiki-icon">🧪</span>エリクサーの調合</a> ・ <a href="#/ja/action/brew-felix-felicis"><span class="wiki-icon">🍀</span>フェリックスフェリシスの調合</a></div></div>
+<div class="wiki-navbox" style="--accent:#6d4f9c"><div class="wiki-navbox-title">地下室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-mortar"><span class="wiki-icon">🥣</span>すり鉢を買う</a> ・ <a href="#/ja/action/buy-still"><span class="wiki-icon">⚗️</span>蒸留器を買う</a> ・ <a href="#/ja/action/buy-crucible"><span class="wiki-icon">⚗️</span>るつぼを買う</a> ・ <a href="#/ja/action/brew-bandage"><span class="wiki-icon">🩹</span>絆創膏の調合</a> ・ <a href="#/ja/action/brew-wound-medicine"><span class="wiki-icon">💊</span>キズ薬の調合</a> ・ <a href="#/ja/action/brew-cold-medicine"><span class="wiki-icon">💊</span>風邪薬の調合</a> ・ <a href="#/ja/action/brew-bubbling-medicine"><span class="wiki-icon">🧪</span>泡立つ薬の調合</a> ・ <a href="#/ja/action/brew-opium"><span class="wiki-icon">💊</span>阿片の調合</a> ・ <a href="#/ja/action/brew-glowing-medicine"><span class="wiki-icon">✨</span>発光する薬の調合</a> ・ <a href="#/ja/action/brew-ether"><span class="wiki-icon">🧪</span>エーテルの調合</a> ・ <a href="#/ja/action/brew-heat-pack"><span class="wiki-icon">🔥</span>カイロの調合</a> ・ <a href="#/ja/action/brew-eye-drops"><span class="wiki-icon">👁️</span>目薬の調合</a> ・ <a href="#/ja/action/brew-cold-pack"><span class="wiki-icon">🧊</span>保冷剤の調合</a> ・ <a href="#/ja/action/brew-painkiller"><span class="wiki-icon">💊</span>鎮痛剤の調合</a> ・ <a href="#/ja/action/brew-phoenix-tail"><span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合</a> ・ <a href="#/ja/action/brew-anti-drowsiness"><span class="wiki-icon">☕</span>眠気覚ましの調合</a> ・ <a href="#/ja/action/brew-tonic"><span class="wiki-icon">💊</span>滋養強壮剤の調合</a> ・ <a href="#/ja/action/brew-vaccine"><span class="wiki-icon">💉</span>ワクチンの調合</a> ・ <a href="#/ja/action/brew-laxative"><span class="wiki-icon">💊</span>下剤の調合</a> ・ <a href="#/ja/action/brew-laxative-for-gorilla"><span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合</a> ・ <a href="#/ja/action/brew-poison-vial"><span class="wiki-icon">🧪</span>毒瓶の調合</a> ・ <a href="#/ja/action/brew-lcl"><span class="wiki-icon">🧪</span>LCLの調合</a> ・ <a href="#/ja/action/brew-holy-water"><span class="wiki-icon">💧</span>聖水の調合</a> ・ <a href="#/ja/action/brew-bottled-spirit"><span class="wiki-icon">🧞</span>精霊の入ったビンの調合</a> ・ <a href="#/ja/action/brew-panacea"><span class="wiki-icon">💊</span>万能薬の調合</a> ・ <a href="#/ja/action/brew-revive-piece"><span class="wiki-icon">💊</span>げんきのかけらの調合</a> ・ <a href="#/ja/action/brew-elixir"><span class="wiki-icon">🧪</span>エリクサーの調合</a> ・ <a href="#/ja/action/brew-felix-felicis"><span class="wiki-icon">🍀</span>フェリックスフェリシスの調合</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,10 +54,10 @@
 | `attribute` | （空） |
 | `group` | `brew` |
 | `unlocked` | `hidden` |
-| `level` | `4` |
-| `experience` | `35` |
-| `seconds` | `120` |
-| `chance` | `1` |
+| `level` | `15` |
+| `experience` | `134` |
+| `seconds` | `240` |
+| `chance` | `0.6` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 4 |
@@ -83,10 +83,10 @@
 	"attribute": "",
 	"group": "brew",
 	"unlocked": "hidden",
-	"level": 4,
-	"experience": 35,
-	"seconds": 120,
-	"chance": 1,
+	"level": 15,
+	"experience": 134,
+	"seconds": 240,
+	"chance": 0.6,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -99,14 +99,14 @@
 		{
 			"type": "item",
 			"id": "iron",
-			"count": 2,
+			"count": 4,
 			"chance": 1,
 			"equipment": false
 		},
 		{
 			"type": "item",
 			"id": "salt",
-			"count": 3,
+			"count": 6,
 			"chance": 1,
 			"equipment": false
 		}
@@ -115,7 +115,7 @@
 		{
 			"type": "item",
 			"id": "heat-pack",
-			"count": 1,
+			"count": 50,
 			"chance": 1
 		}
 	],

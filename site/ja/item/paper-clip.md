@@ -12,8 +12,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🗑️</span>ゴミ箱あさり](/ja/action/rummage-trash-can) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv5 | 7 | 91% | 3.2 | 382 |
-| [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv16 | 10 | 100% | 5 | 8.3 |
-| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 7 | 80% | 2.8 | 4.6 |
+| [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv16 | 1 | 6.11% | 0.031 | 8.3 |
+| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 3.11% | 0.016 | 4.6 |
 
 ## 用途
 
@@ -21,8 +21,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 1 | 100% |  |
-| [<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv12 | 1 | 100% |  |
+| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 2 | 100% |  |
+| [<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv27 | 2 | 100% |  |
 | [<span class="wiki-icon">🪪</span>認証バッジを作る](/ja/action/craft-verified-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv14 | 15 | 100% |  |
 | [<span class="wiki-icon">🎖️</span>ジムバッジを作る](/ja/action/craft-gym-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 15 | 100% |  |
 
@@ -41,6 +41,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 0 |
@@ -70,6 +71,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

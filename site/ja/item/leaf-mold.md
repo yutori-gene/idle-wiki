@@ -12,9 +12,9 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv3 | 5 | 56% | 1.4 | 252 |
-| [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 5 | 56% | 1.4 | 1.2 |
-| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 5 | 56% | 1.4 | 4.7 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv11 | 3 | 100% | 1.5 | 5 |
+| [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 1 | 6.3% | 0.032 | 1.2 |
+| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 4.43% | 0.022 | 4.7 |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv11 | 1 | 5.5% | 0.028 | 5 |
 
 ### 購入
 
@@ -49,6 +49,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 0 |
@@ -78,6 +79,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

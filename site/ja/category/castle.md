@@ -28,17 +28,17 @@
 | [<span class="wiki-icon">⛓️</span>地下牢の奥](/ja/action/deep-dungeon-cell) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 4時間 | 100% | 1,029 |
 | [<span class="wiki-icon">🚪</span>隠し通路の調査](/ja/action/hidden-passage-survey) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv12 | 4時間 | 100% | 1,029 |
 | [<span class="wiki-icon">👑</span>王の間の秘密](/ja/action/throne-room-secret) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv30 | 4時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🗿</span>ゴーレム](/ja/action/golem) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv38 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">🧙</span>エレメンタリスト](/ja/action/elementalist) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">🪞</span>魔法の鏡](/ja/action/magic-mirror) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 8分 | 50% | 3 |
-| [<span class="wiki-icon">🧚</span>妖精](/ja/action/fairy) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 8分 | 50% | 4 |
-| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv41 | 8分 | 50% | 4 |
-| [<span class="wiki-icon">🗿</span>ガーゴイル](/ja/action/gargoyle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv42 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">👻</span>宴の亡霊](/ja/action/banquet-ghost) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv42 | 8分 | 50% | 4 |
+| [<span class="wiki-icon">🗿</span>ゴーレム](/ja/action/golem) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv38 | 2.5秒 | 50% | 0 |
+| [<span class="wiki-icon">🧙</span>エレメンタリスト](/ja/action/elementalist) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.8秒 | 50% | 0 |
+| [<span class="wiki-icon">🪞</span>魔法の鏡](/ja/action/magic-mirror) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 3秒 | 50% | 0 |
+| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.1秒 | 50% | 0 |
+| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.2秒 | 50% | 0 |
+| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 1.9秒 | 50% | 3 |
+| [<span class="wiki-icon">🧚</span>妖精](/ja/action/fairy) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 1秒 | 50% | 4 |
+| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 2.3秒 | 50% | 0 |
+| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv41 | 1秒 | 50% | 4 |
+| [<span class="wiki-icon">🗿</span>ガーゴイル](/ja/action/gargoyle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv42 | 3.2秒 | 50% | 0 |
+| [<span class="wiki-icon">👻</span>宴の亡霊](/ja/action/banquet-ghost) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv42 | 1.7秒 | 50% | 4 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
 
@@ -50,7 +50,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">📜</span>歴史知識](/ja/item/history-knowledge) | 装備不要 | +2 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -60,6 +60,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |

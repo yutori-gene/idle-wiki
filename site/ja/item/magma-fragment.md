@@ -13,8 +13,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🏜️</span>熱砂の斜面](/ja/action/hot-sand-slope) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv1 | 3 | 48% | 0.72 | 37 |
 | [<span class="wiki-icon">⛏️</span>溶岩の縁の採掘](/ja/action/lava-edge-mining) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv7 | 3 | 48% | 0.72 | 37 |
-| [<span class="wiki-icon">🐉</span>ファイアドレイク](/ja/action/fire-drake) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 | 3 | 76.8% | 1.2 | 0.08 |
-| [<span class="wiki-icon">🪲</span>灼熱の甲虫](/ja/action/scorching-beetle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 | 3 | 76.8% | 1.2 | 0.001 |
+| [<span class="wiki-icon">🐉</span>ファイアドレイク](/ja/action/fire-drake) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 | 1 | 0.768% | 0.004 | 0.08 |
+| [<span class="wiki-icon">🪲</span>灼熱の甲虫](/ja/action/scorching-beetle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 | 1 | 1.43% | 0.007 | 0.001 |
 
 ### イベント
 
@@ -28,7 +28,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 1 | 100% |  |
+| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv32 | 4 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -45,6 +45,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 1 |
@@ -74,6 +75,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

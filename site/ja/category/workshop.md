@@ -19,34 +19,34 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv1 | 4分 | 100% | 1,035 |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv1 | 4分 | 100% | 1,035 |
-| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv1 | 4分 | 100% | 1,035 |
-| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv1 | 4分 | 100% | 1,035 |
-| [<span class="wiki-icon">🛋️</span>人をダメにするクッションを作る](/ja/action/craft-ruining-cushion) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv1 | 4時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🐇</span>ウサギ小屋を作る](/ja/action/craft-rabbit-hutch) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv1 | 4時間 | 100% | 1,029 |
-| [<span class="wiki-icon">📚</span>本棚を作る](/ja/action/craft-bookshelf) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv1 | 4時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🪣</span>井戸を作る](/ja/action/craft-well) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv1 | 4時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv10 | 6分 | 100% | 1,030 |
-| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv10 | 6分 | 100% | 1,030 |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv10 | 6分 | 100% | 1,030 |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv10 | 6分 | 100% | 1,030 |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv10 | 6分 | 100% | 1,030 |
-| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv10 | 6分 | 100% | 1,030 |
-| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv10 | 6分 | 100% | 1,030 |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv10 | 6分 | 100% | 1,030 |
-| [<span class="wiki-icon">🌾</span>芝刈り機を組む](/ja/action/assemble-lawn-mower) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv10 | 6時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🍞</span>オーブンを作る](/ja/action/craft-oven) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv10 | 6時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🐕</span>イヌ小屋を作る](/ja/action/craft-dog-house) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv10 | 6時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🌡️</span>百葉箱を作る](/ja/action/craft-weather-box) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv10 | 6時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🧊</span>冷蔵庫を作る](/ja/action/craft-refrigerator) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv10 | 6時間 | 100% | 1,029 |
-| [<span class="wiki-icon">☀️</span>ソーラーパネルを作る](/ja/action/craft-solar-panel) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv10 | 6時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🔌</span>発電機を作る](/ja/action/craft-generator) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv10 | 6時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🐹</span>ハムスターの回車を作る](/ja/action/craft-hamster-wheel) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv10 | 6時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv20 | 7分 | 100% | 1,029 |
-| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv20 | 7分 | 100% | 1,029 |
-| [<span class="wiki-icon">🔥</span>かまどを作る](/ja/action/craft-stove) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv20 | 7時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🔥</span>暖炉を作る](/ja/action/craft-fireplace) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv20 | 7時間 | 100% | 1,029 |
+| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv1 | 2分 | 100% | 1,140 |
+| [<span class="wiki-icon">🛋️</span>人をダメにするクッションを作る](/ja/action/craft-ruining-cushion) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv1 | 2時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv5 | 4分 | 55% | 1,139 |
+| [<span class="wiki-icon">🐇</span>ウサギ小屋を作る](/ja/action/craft-rabbit-hutch) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv5 | 4時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv9 | 2分 | 95% | 1,140 |
+| [<span class="wiki-icon">📚</span>本棚を作る](/ja/action/craft-bookshelf) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv9 | 2時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv12 | 6分 | 100% | 1,140 |
+| [<span class="wiki-icon">🪣</span>井戸を作る](/ja/action/craft-well) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv12 | 6時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv16 | 3分 | 90% | 1,152 |
+| [<span class="wiki-icon">🌾</span>芝刈り機を組む](/ja/action/assemble-lawn-mower) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv16 | 3時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv20 | 10分 | 65% | 1,139 |
+| [<span class="wiki-icon">🍞</span>オーブンを作る](/ja/action/craft-oven) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv20 | 10時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv24 | 4分 | 70% | 1,145 |
+| [<span class="wiki-icon">🐕</span>イヌ小屋を作る](/ja/action/craft-dog-house) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv24 | 5時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv27 | 15分 | 70% | 1,140 |
+| [<span class="wiki-icon">🌡️</span>百葉箱を作る](/ja/action/craft-weather-box) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv27 | 16時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv31 | 6分 | 70% | 1,141 |
+| [<span class="wiki-icon">🧊</span>冷蔵庫を作る](/ja/action/craft-refrigerator) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv31 | 8時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv35 | 20分 | 55% | 1,139 |
+| [<span class="wiki-icon">☀️</span>ソーラーパネルを作る](/ja/action/craft-solar-panel) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv35 | 1日6時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv39 | 10分 | 100% | 1,140 |
+| [<span class="wiki-icon">🔌</span>発電機を作る](/ja/action/craft-generator) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv39 | 12時間 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv42 | 30分 | 50% | 1,138 |
+| [<span class="wiki-icon">🐹</span>ハムスターの回車を作る](/ja/action/craft-hamster-wheel) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv42 | 2日 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv46 | 15分 | 70% | 1,140 |
+| [<span class="wiki-icon">🔥</span>かまどを作る](/ja/action/craft-stove) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv46 | 1日 | 100% | 1,138 |
+| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv50 | 30分 | 85% | 1,139 |
+| [<span class="wiki-icon">🔥</span>暖炉を作る](/ja/action/craft-fireplace) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv50 | 2日 | 100% | 1,138 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
 
@@ -91,7 +91,7 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -101,6 +101,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
@@ -182,9 +183,20 @@
 
 | レベル | 累計経験値 | 開くもの |
 | --- | --- | --- |
-| Lv1 | 0 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts)（実行）<br>[<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts)（実行）<br>[<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts)（実行）<br>[<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts)（実行）<br>[<span class="wiki-icon">🛋️</span>人をダメにするクッションを作る](/ja/action/craft-ruining-cushion)（実行）<br>[<span class="wiki-icon">🐇</span>ウサギ小屋を作る](/ja/action/craft-rabbit-hutch)（実行）<br>[<span class="wiki-icon">📚</span>本棚を作る](/ja/action/craft-bookshelf)（実行）<br>[<span class="wiki-icon">🪣</span>井戸を作る](/ja/action/craft-well)（実行） |
-| Lv10 | 1,416 | [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts)（実行）<br>[<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts)（実行）<br>[<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts)（実行）<br>[<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts)（実行）<br>[<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts)（実行）<br>[<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts)（実行）<br>[<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts)（実行）<br>[<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts)（実行）<br>[<span class="wiki-icon">🌾</span>芝刈り機を組む](/ja/action/assemble-lawn-mower)（実行）<br>[<span class="wiki-icon">🍞</span>オーブンを作る](/ja/action/craft-oven)（実行）<br>[<span class="wiki-icon">🐕</span>イヌ小屋を作る](/ja/action/craft-dog-house)（実行）<br>[<span class="wiki-icon">🌡️</span>百葉箱を作る](/ja/action/craft-weather-box)（実行）<br>[<span class="wiki-icon">🧊</span>冷蔵庫を作る](/ja/action/craft-refrigerator)（実行）<br>[<span class="wiki-icon">☀️</span>ソーラーパネルを作る](/ja/action/craft-solar-panel)（実行）<br>[<span class="wiki-icon">🔌</span>発電機を作る](/ja/action/craft-generator)（実行）<br>[<span class="wiki-icon">🐹</span>ハムスターの回車を作る](/ja/action/craft-hamster-wheel)（実行） |
-| Lv20 | 5,694 | [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts)（実行）<br>[<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts)（実行）<br>[<span class="wiki-icon">🔥</span>かまどを作る](/ja/action/craft-stove)（実行）<br>[<span class="wiki-icon">🔥</span>暖炉を作る](/ja/action/craft-fireplace)（実行） |
+| Lv1 | 0 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts)（実行）<br>[<span class="wiki-icon">🛋️</span>人をダメにするクッションを作る](/ja/action/craft-ruining-cushion)（実行） |
+| Lv5 | 471 | [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts)（実行）<br>[<span class="wiki-icon">🐇</span>ウサギ小屋を作る](/ja/action/craft-rabbit-hutch)（実行） |
+| Lv9 | 1,186 | [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts)（実行）<br>[<span class="wiki-icon">📚</span>本棚を作る](/ja/action/craft-bookshelf)（実行） |
+| Lv12 | 1,956 | [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts)（実行）<br>[<span class="wiki-icon">🪣</span>井戸を作る](/ja/action/craft-well)（実行） |
+| Lv16 | 3,441 | [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts)（実行）<br>[<span class="wiki-icon">🌾</span>芝刈り機を組む](/ja/action/assemble-lawn-mower)（実行） |
+| Lv20 | 5,694 | [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts)（実行）<br>[<span class="wiki-icon">🍞</span>オーブンを作る](/ja/action/craft-oven)（実行） |
+| Lv24 | 9,115 | [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts)（実行）<br>[<span class="wiki-icon">🐕</span>イヌ小屋を作る](/ja/action/craft-dog-house)（実行） |
+| Lv27 | 12,800 | [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts)（実行）<br>[<span class="wiki-icon">🌡️</span>百葉箱を作る](/ja/action/craft-weather-box)（実行） |
+| Lv31 | 19,902 | [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts)（実行）<br>[<span class="wiki-icon">🧊</span>冷蔵庫を作る](/ja/action/craft-refrigerator)（実行） |
+| Lv35 | 30,684 | [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts)（実行）<br>[<span class="wiki-icon">☀️</span>ソーラーパネルを作る](/ja/action/craft-solar-panel)（実行） |
+| Lv39 | 47,051 | [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts)（実行）<br>[<span class="wiki-icon">🔌</span>発電機を作る](/ja/action/craft-generator)（実行） |
+| Lv42 | 64,683 | [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts)（実行）<br>[<span class="wiki-icon">🐹</span>ハムスターの回車を作る](/ja/action/craft-hamster-wheel)（実行） |
+| Lv46 | 98,664 | [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts)（実行）<br>[<span class="wiki-icon">🔥</span>かまどを作る](/ja/action/craft-stove)（実行） |
+| Lv50 | 150,250 | [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts)（実行）<br>[<span class="wiki-icon">🔥</span>暖炉を作る](/ja/action/craft-fireplace)（実行） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
@@ -330,6 +342,10 @@
 ### 残ったもの
 
 **`双眼鏡`（作業部屋/道具 t2 r2）に出所も使い道も無い。** 旧系統の掃除で「倉庫の合成が唯一の経路だったので本籍を作業部屋へ」と決めた1件だが、作業部屋はインフラ14種×2本で埋まっていて29本目の置き場が無い。決定5② の3択（ダンジョンに載せる／ごみ化／削除）で決めることになるが、いちばん素直なのは題材どおり tier2＝森の収集に載せることで、**そのためにはバッチ1 で閉じたダンジョンの `acq` を開け直してよいかを先に決める必要がある**（→ [session.md](../doc/session.md)）。
+
+### 2026-10-28 の配り直し
+
+部品と本体の12組を Lv1〜50 へ均等。部品2〜30分・本体2〜48時間、成功率は部品だけ50〜100%・Lv50 まで約146時間。経緯と値は [plan.md](../doc/plan.md)「拠点6カテゴリの配り直し（2026-10-28）」。
 
 </details>
 

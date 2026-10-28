@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv18 | 1 | 100% | 1 | 0.25 |
-| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv20 | 1 | 100% | 1 | 0.2 |
+| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv42 | 3 | 100% | 2.6 | 0.232 |
+| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv50 | 2 | 100% | 1.6 | 0.229 |
 
 <div class="wiki-navbox" style="--accent:#c26a8e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -29,6 +29,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 8 |
 | CSV `rare` | 0 |
@@ -58,6 +59,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

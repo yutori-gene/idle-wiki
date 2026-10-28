@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv29 | 1 | 10.4% | 0.052 | 0.001 |
+| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv29 | 1 | 0.072% | 0 | 0.001 |
 
 ## 用途
 
@@ -36,6 +36,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 4 |
@@ -65,6 +66,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

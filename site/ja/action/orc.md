@@ -1,6 +1,6 @@
 # オーク
 
-<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">オーク</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👹</span></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv11</td></tr><tr><th>所要時間</th><td>2分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>69</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">オーク</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👹</span></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv11</td></tr><tr><th>所要時間</th><td>2.2秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.26</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 野蛮な豚獣人。力こそが正義。
 
@@ -11,7 +11,7 @@
 
 - [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv11以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🪓</span>斧](/ja/item/axe) ×1（消費しない）
-- [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) ×2（消費する）
+- [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) ×2（1.83%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,9 +19,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) ×3 | 成功時 | 76.8% | 1.2 | 3.8 |
-| [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) ×2 | 成功時 | 48% | 0.48 | 1.6 |
-| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×2 | 成功時 | 48% | 0.48 | 1.6 |
+| [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) ×1 | 成功時 | 4.22% | 0.021 | 3.8 |
+| [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) ×1 | 成功時 | 1.76% | 0.009 | 1.6 |
+| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×1 | 成功時 | 1.76% | 0.009 | 1.6 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,10 +41,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv11） | 17% | 4.07% | 75% | 24.2% | 16.9% | 8 | 24.6% | 18分 | 連戦で少しずつ消耗する |
-| +10（Lv21） | 25.5% | 3.32% | 81.8% | 28.2% | 23.4% | 4.9 | 11.7% | 9分37秒 | 放置で連戦できる |
-| +20（Lv31） | 38.3% | 2.71% | 87.1% | 32.4% | 31.5% | 3.4 | 6.31% | 5分56秒 | 放置で連戦できる |
-| +30（Lv41） | 57.4% | 2.21% | 91% | 37% | 40.8% | 2.2 | 3.06% | 3分29秒 | 放置で連戦できる |
+| ±0（Lv11） | 17% | 4.07% | 75% | 24.2% | 16.9% | 8 | 24.6% | 19.8秒 | 連戦で少しずつ消耗する |
+| +10（Lv21） | 25.5% | 3.32% | 81.8% | 28.2% | 23.4% | 4.9 | 11.7% | 10.6秒 | 放置で連戦できる |
+| +20（Lv31） | 38.3% | 2.71% | 87.1% | 32.4% | 31.5% | 3.4 | 6.31% | 6.5秒 | 放置で連戦できる |
+| +30（Lv41） | 57.4% | 2.21% | 91% | 37% | 40.8% | 2.2 | 3.06% | 3.8秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -52,10 +52,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv11） | 2分 | 50% | 69 | 3.3 | 115 |
-| +10（Lv21） | 1分38秒 | 60% | 46 | 6.2 | 172 |
-| +20（Lv31） | 1分20秒 | 69.2% | 30.67 | 10.1 | 215 |
-| +30（Lv41） | 1分5秒 | 77.1% | 20.44 | 17.2 | 272 |
+| ±0（Lv11） | 2.2秒 | 50% | 1.26 | 181.8 | 115 |
+| +10（Lv21） | 1.8秒 | 60% | 0.84 | 340.3 | 172 |
+| +20（Lv31） | 1.5秒 | 69.2% | 0.56 | 552.3 | 214 |
+| +30（Lv41） | 1.2秒 | 77.1% | 0.37 | 940.2 | 271 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -63,7 +63,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 37 | 120 | -83 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 37 | 120 | -82 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -79,8 +79,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `11` |
-| `experience` | `69` |
-| `seconds` | `120` |
+| `experience` | `1.26` |
+| `seconds` | `2.2` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -109,8 +109,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 11,
-	"experience": 69,
-	"seconds": 120,
+	"experience": 1.26,
+	"seconds": 2.2,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -125,7 +125,7 @@
 			"type": "item",
 			"id": "honey",
 			"count": 2,
-			"chance": 1,
+			"chance": 0.0183,
 			"equipment": false
 		}
 	],
@@ -133,20 +133,20 @@
 		{
 			"type": "item",
 			"id": "fang",
-			"count": 3,
-			"chance": 0.768
+			"count": 1,
+			"chance": 0.0422
 		},
 		{
 			"type": "item",
 			"id": "cloth",
-			"count": 2,
-			"chance": 0.48
+			"count": 1,
+			"chance": 0.0176
 		},
 		{
 			"type": "item",
 			"id": "big-bone",
-			"count": 2,
-			"chance": 0.48
+			"count": 1,
+			"chance": 0.0176
 		}
 	],
 	"progressType": "stamina",

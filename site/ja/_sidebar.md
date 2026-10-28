@@ -58,4 +58,5 @@
   - [エンジンの懸念（fix.md）](/ja/dev/doc/fix)
   - [CSV から消したもの（csv-removed.md）](/ja/dev/doc/csv-removed)
   - [作業の現在地（session.md）](/ja/dev/doc/session)
+  - [経過の記録（history.md）](/ja/dev/doc/history)
   - [生成時の警告](/ja/dev/warnings)

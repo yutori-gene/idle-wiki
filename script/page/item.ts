@@ -52,6 +52,7 @@ function normalItem(context: Context, path: string, item: Type.Item): string {
 		{ label: "管理カテゴリ", value: linkHtml(model, "category", item.category) },
 		{ label: "グループ", value: item.group ? linkHtml(model, "group", item.group) : "" },
 		{ label: "装備", value: htmlValue(label.equipment[item.equipmentType]) },
+		{ label: "消費率", value: item.equipmentType === "consumable" ? htmlValue(percent(item.consumeChance)) : "" },
 		{ label: "売値", value: item.sellingValue > 0 ? price(context, item.sellingValue, item.coinId) : "売却不可" },
 		{ label: "買値", value: item.buyingValue > 0 ? price(context, item.buyingValue, item.coinId) : "購入不可" },
 		{ label: "所持上限", value: item.maximum > 0 ? number(item.maximum) : label.unlimited },
@@ -85,7 +86,7 @@ function performanceSection(context: Context, item: Type.Item): string {
 		item.equipmentType === "unnecessary"
 			? "持っているだけで効く。所持数に比例して効果が増える。"
 			: item.equipmentType === "necessary" || item.equipmentType === "consumable"
-				? `装備しているあいだ効く（同じグループで装備できるのは1つ）。${item.equipmentType === "consumable" ? "使うたびに消費する。" : ""}`
+				? `装備しているあいだ効く（同じグループで装備できるのは1つ）。${item.equipmentType === "consumable" ? consumeText(item.consumeChance) : ""}`
 				: "";
 	const propertyTable = rows.length
 		? join(how + "値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/" + model.language + "/system/combat) を参照）。", table(["効き先", ...used.map((key) => label.property[key])], rows))
@@ -99,6 +100,11 @@ function performanceSection(context: Context, item: Type.Item): string {
 			: `**スキル**: ${link(model, "skill", item.skill)}`;
 	}
 	return section("性能", join(propertyTable, skill));
+}
+
+/** 消耗品の消費の説明。効き先のアクションを1回実行するごとに consumeChance で抽選して1個減る */
+function consumeText(consumeChance: number): string {
+	return consumeChance >= 1 ? "使うたびに消費する。" : `使うたびに ${percent(consumeChance)} の確率で消費する。`;
 }
 
 function actionSources(context: Context, id: string): string {

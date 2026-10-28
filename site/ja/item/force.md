@@ -15,7 +15,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📗</span>ライ麦畑でつかまえてを読む](/ja/action/read-catcher-in-the-rye) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv20 | 1 | 100% | 1 | 0.021 |
+| [<span class="wiki-icon">📗</span>ライ麦畑でつかまえてを読む](/ja/action/read-catcher-in-the-rye) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv50 | 1 | 100% | 0.65 | 0.023 |
 
 ## 用途
 
@@ -40,6 +40,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `unnecessary` |
+| `consumeChance` | `1` |
 | `skill` | `revelation` |
 | CSV `tier` | 10 |
 | CSV `rare` | 5 |
@@ -69,6 +70,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "unnecessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": "revelation"

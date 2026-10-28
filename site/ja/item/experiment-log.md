@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 | 2 | 69.1% | 0.691 | 0.004 |
+| [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 | 1 | 1.19% | 0.006 | 0.004 |
 | [<span class="wiki-icon">🏢</span>封鎖された研究棟](/ja/action/sealed-research-wing) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv12 | 2 | 50.1% | 1 | 0.334 |
 
 ## 用途
@@ -39,6 +39,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 3 |
@@ -68,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

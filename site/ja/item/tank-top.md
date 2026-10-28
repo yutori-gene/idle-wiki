@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 2 | 48% | 0.48 | 2.8 |
+| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 1 | 3.52% | 0.018 | 2.8 |
 
 ## 用途
 
@@ -44,6 +44,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 1 |
@@ -73,6 +74,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

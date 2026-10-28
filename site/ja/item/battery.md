@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 | 2 | 57.6% | 0.576 | 0.057 |
+| [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 | 1 | 0.384% | 0.002 | 0.057 |
 
 ### イベント
 
@@ -34,6 +34,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 2 |
@@ -63,6 +64,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv14 | 1 | 74.6% | 0.746 | 6.4 |
-| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv16 | 1 | 74.6% | 0.746 | 5.6 |
+| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv30 | 1 | 74.6% | 0.485 | 7.3 |
+| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv33 | 2 | 74.6% | 1.5 | 6 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -29,6 +29,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 5 |
@@ -58,6 +59,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

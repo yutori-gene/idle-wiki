@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>冷蔵庫を作る](/ja/action/craft-refrigerator) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 1 | 100% | 1 | 0.167 |
+| [<span class="wiki-icon">🧊</span>冷蔵庫を作る](/ja/action/craft-refrigerator) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 1 | 100% | 1 | 0.125 |
 
 <div class="wiki-navbox" style="--accent:#4f8a8a"><div class="wiki-navbox-title">グループ: インフラ</div><div class="wiki-navbox-body"><a href="#/ja/item/rabbit-hutch"><span class="wiki-icon">🐇</span>ウサギ小屋</a> ・ <a href="#/ja/item/ruining-cushion"><span class="wiki-icon">🛋️</span>人をダメにするクッション</a> ・ <a href="#/ja/item/well"><span class="wiki-icon">🪣</span>井戸</a> ・ <a href="#/ja/item/bookshelf"><span class="wiki-icon">📚</span>本棚</a> ・ <a href="#/ja/item/lawn-mower"><span class="wiki-icon">🌾</span>芝刈り機</a> ・ <a href="#/ja/item/oven"><span class="wiki-icon">🍞</span>オーブン</a> ・ <a href="#/ja/item/solar-panel"><span class="wiki-icon">☀️</span>ソーラーパネル</a> ・ <a href="#/ja/item/dog-house"><span class="wiki-icon">🐕</span>イヌ小屋</a> ・ <a href="#/ja/item/weather-box"><span class="wiki-icon">🌡️</span>百葉箱</a> ・ <a href="#/ja/item/refrigerator"><span class="wiki-icon">🧊</span>冷蔵庫</a> ・ <a href="#/ja/item/generator"><span class="wiki-icon">🔌</span>発電機</a> ・ <a href="#/ja/item/hamster-wheel"><span class="wiki-icon">🐹</span>ハムスターの回車</a> ・ <a href="#/ja/item/stove"><span class="wiki-icon">🔥</span>かまど</a> ・ <a href="#/ja/item/fireplace"><span class="wiki-icon">🔥</span>暖炉</a></div></div>
 
@@ -36,6 +36,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `unnecessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 8 |
@@ -65,6 +66,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "unnecessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

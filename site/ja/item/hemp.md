@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌿</span>大麻の栽培](/ja/action/grow-hemp) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 2 | 100% | 2 | 4 |
+| [<span class="wiki-icon">🌿</span>大麻](/ja/action/grow-hemp) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv32 | 44 | 100% | 39.6 | 4 |
 
 ## 用途
 
@@ -19,8 +19,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 1 | 100% |  |
-| [<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 1 | 100% |  |
+| [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv9 | 1 | 100% |  |
+| [<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv28 | 3 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 薬草</div><div class="wiki-navbox-body"><a href="#/ja/item/hemp"><span class="wiki-icon">🌿</span>大麻</a> ・ <a href="#/ja/item/herb"><span class="wiki-icon">🌿</span>薬草</a> ・ <a href="#/ja/item/chili"><span class="wiki-icon">🌶️</span>とうがらし</a> ・ <a href="#/ja/item/poison-herb"><span class="wiki-icon">☠️</span>毒草</a> ・ <a href="#/ja/item/aromatic-herb"><span class="wiki-icon">🌿</span>香草</a> ・ <a href="#/ja/item/world-tree-leaf"><span class="wiki-icon">🍃</span>世界樹の葉</a></div></div>
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 2 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

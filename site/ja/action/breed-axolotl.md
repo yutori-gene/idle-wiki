@@ -1,6 +1,6 @@
-# ウーパールーパーの繁殖
+# ウーパールーパー
 
-<div class="wiki-infobox" style="--accent:#6fb07a"><div class="wiki-infobox-title">ウーパールーパーの繁殖</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦎</span></div><table><tr><th>場所</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cultivate"><span class="wiki-icon">🌱</span>栽培</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv5</td></tr><tr><th>所要時間</th><td>30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>515</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6fb07a"><div class="wiki-infobox-title">ウーパールーパー</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦎</span></div><table><tr><th>場所</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cultivate"><span class="wiki-icon">🌱</span>栽培</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv25</td></tr><tr><th>所要時間</th><td>6時間</td></tr><tr><th>成功率</th><td>80%</td></tr><tr><th>経験値</th><td>657</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 卵からウーパールーパーを育てる。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv5以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv25以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg) ×1（80%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -18,19 +18,18 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦎</span>ウーパールーパー](/ja/item/axolotl) ×2 | 成功時 | 100% | 2 | 4 |
-| [<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg) ×1 | 成功時 | 43.2% | 0.432 | 0.864 |
+| [<span class="wiki-icon">🦎</span>ウーパールーパー](/ja/item/axolotl) ×30 | 成功時 | 100% | 24 | 4 |
+| [<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg) ×1 | 成功時 | 43.2% | 0.346 | 0.058 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 80%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv5） | 30分 | 100% | 515 | 2 | 1,030 |
-| +10（Lv15） | 24分30秒 | 100% | 343.33 | 2.4 | 841 |
-| +20（Lv25） | 20分 | 100% | 228.89 | 3 | 687 |
-| +30（Lv35） | 16分20秒 | 100% | 152.59 | 3.7 | 561 |
+| ±0（Lv25） | 6時間 | 80% | 657 | 0.2 | 88 |
+| +10（Lv35） | 4時間53分 | 85.7% | 438 | 0.2 | 77 |
+| +20（Lv45） | 4時間 | 90% | 292 | 0.3 | 66 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -38,11 +37,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 88 | 29 | 59 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 73 | 2 | 71 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">温室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/grow-carrot"><span class="wiki-icon">🥕</span>ニンジンの栽培</a> ・ <a href="#/ja/action/grow-pumpkin"><span class="wiki-icon">🎃</span>カボチャの栽培</a> ・ <a href="#/ja/action/grow-garlic"><span class="wiki-icon">🧄</span>ニンニクの栽培</a> ・ <a href="#/ja/action/grow-wheat"><span class="wiki-icon">🌾</span>小麦の栽培</a> ・ <a href="#/ja/action/grow-lettuce"><span class="wiki-icon">🥬</span>サラダ菜の栽培</a> ・ <a href="#/ja/action/grow-banana"><span class="wiki-icon">🍌</span>バナナの栽培</a> ・ <a href="#/ja/action/grow-apple"><span class="wiki-icon">🍎</span>リンゴの栽培</a> ・ <a href="#/ja/action/harvest-honey"><span class="wiki-icon">🍯</span>蜂蜜の採取</a> ・ <a href="#/ja/action/breed-axolotl"><span class="wiki-icon">🦎</span>ウーパールーパーの繁殖</a> ・ <a href="#/ja/action/grow-herb"><span class="wiki-icon">🌿</span>薬草の栽培</a> ・ <a href="#/ja/action/grow-hemp"><span class="wiki-icon">🌿</span>大麻の栽培</a> ・ <a href="#/ja/action/grow-potato"><span class="wiki-icon">🥔</span>ジャガイモの栽培</a> ・ <a href="#/ja/action/grow-truffle"><span class="wiki-icon">🍄</span>トリュフの栽培</a> ・ <a href="#/ja/action/grow-chili"><span class="wiki-icon">🌶️</span>とうがらしの栽培</a> ・ <a href="#/ja/action/grow-poison-herb"><span class="wiki-icon">☠️</span>毒草の栽培</a> ・ <a href="#/ja/action/grow-aromatic-herb"><span class="wiki-icon">🌿</span>香草の栽培</a> ・ <a href="#/ja/action/grow-world-tree-leaf"><span class="wiki-icon">🌳</span>世界樹の葉の栽培</a></div></div>
+<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">温室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/grow-carrot"><span class="wiki-icon">🥕</span>ニンジン</a> ・ <a href="#/ja/action/cut-earthworm"><span class="wiki-icon">🪱</span>ミミズの切断</a> ・ <a href="#/ja/action/grow-pumpkin"><span class="wiki-icon">🎃</span>カボチャ</a> ・ <a href="#/ja/action/grow-garlic"><span class="wiki-icon">🧄</span>ニンニク</a> ・ <a href="#/ja/action/grow-wheat"><span class="wiki-icon">🌾</span>小麦</a> ・ <a href="#/ja/action/grow-lettuce"><span class="wiki-icon">🥬</span>サラダ菜</a> ・ <a href="#/ja/action/grow-banana"><span class="wiki-icon">🍌</span>バナナ</a> ・ <a href="#/ja/action/grow-apple"><span class="wiki-icon">🍎</span>リンゴ</a> ・ <a href="#/ja/action/harvest-honey"><span class="wiki-icon">🍯</span>蜂蜜の採取</a> ・ <a href="#/ja/action/breed-axolotl"><span class="wiki-icon">🦎</span>ウーパールーパー</a> ・ <a href="#/ja/action/grow-herb"><span class="wiki-icon">🌿</span>薬草</a> ・ <a href="#/ja/action/grow-hemp"><span class="wiki-icon">🌿</span>大麻</a> ・ <a href="#/ja/action/grow-potato"><span class="wiki-icon">🥔</span>ジャガイモ</a> ・ <a href="#/ja/action/grow-truffle"><span class="wiki-icon">🍄</span>トリュフ</a> ・ <a href="#/ja/action/grow-chili"><span class="wiki-icon">🌶️</span>とうがらし</a> ・ <a href="#/ja/action/grow-poison-herb"><span class="wiki-icon">☠️</span>毒草</a> ・ <a href="#/ja/action/grow-aromatic-herb"><span class="wiki-icon">🌿</span>香草</a> ・ <a href="#/ja/action/grow-world-tree-leaf"><span class="wiki-icon">🌳</span>世界樹の葉</a></div></div>
 
 ## 開発者向け情報
 
@@ -53,10 +52,10 @@
 | `attribute` | （空） |
 | `group` | `cultivate` |
 | `unlocked` | `hidden` |
-| `level` | `5` |
-| `experience` | `515` |
-| `seconds` | `1800` |
-| `chance` | `1` |
+| `level` | `25` |
+| `experience` | `657` |
+| `seconds` | `21600` |
+| `chance` | `0.8` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 2 |
@@ -69,7 +68,7 @@
 {
 	"information": {
 		"id": "breed-axolotl",
-		"name": "ウーパールーパーの繁殖",
+		"name": "ウーパールーパー",
 		"explanation": "卵からウーパールーパーを育てる。",
 		"icon": {
 			"emoji": "🦎",
@@ -82,10 +81,10 @@
 	"attribute": "",
 	"group": "cultivate",
 	"unlocked": "hidden",
-	"level": 5,
-	"experience": 515,
-	"seconds": 1800,
-	"chance": 1,
+	"level": 25,
+	"experience": 657,
+	"seconds": 21600,
+	"chance": 0.8,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -100,7 +99,7 @@
 		{
 			"type": "item",
 			"id": "axolotl",
-			"count": 2,
+			"count": 30,
 			"chance": 1
 		},
 		{

@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 18.7% | 0.094 | 0.011 |
+| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 0.156% | 0.001 | 0.011 |
 
 ## 用途
 
@@ -44,6 +44,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 5 |
 | CSV `rare` | 2 |
@@ -73,6 +74,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

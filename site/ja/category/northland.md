@@ -25,20 +25,20 @@
 | [<span class="wiki-icon">🏛️</span>雪原の遺跡](/ja/action/snowfield-ruins) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 50秒 | 50% | 1,044 |
 | [<span class="wiki-icon">🧊</span>凍った湖畔](/ja/action/frozen-lakeside) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 50秒 | 50% | 1,044 |
 | [<span class="wiki-icon">🐉</span>竜の巣穴](/ja/action/dragon-den) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 2時間30分 | 100% | 1,029 |
-| [<span class="wiki-icon">🦅</span>グリフィン](/ja/action/griffin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 5分 | 50% | 12 |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックス](/ja/action/phoenix) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 5分 | 50% | 12 |
-| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv24 | 5分 | 50% | 12 |
-| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🐲</span>ドラゴンキッズ](/ja/action/dragon-kid) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 5分 | 50% | 1 |
-| [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 5分 | 50% | 1 |
-| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 5分 | 50% | 1 |
-| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 5分 | 50% | 10 |
+| [<span class="wiki-icon">🦅</span>グリフィン](/ja/action/griffin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 1.5秒 | 50% | 12 |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックス](/ja/action/phoenix) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 1.4秒 | 50% | 12 |
+| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 2.4秒 | 50% | 10 |
+| [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv24 | 1.5秒 | 50% | 12 |
+| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 2.5秒 | 50% | 10 |
+| [<span class="wiki-icon">🐲</span>ドラゴンキッズ](/ja/action/dragon-kid) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 1.6秒 | 50% | 10 |
+| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.7秒 | 50% | 10 |
+| [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.9秒 | 50% | 10 |
+| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.8秒 | 50% | 10 |
+| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.3秒 | 50% | 1 |
+| [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.4秒 | 50% | 1 |
+| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2秒 | 50% | 10 |
+| [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.5秒 | 50% | 1 |
+| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2.2秒 | 50% | 10 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
 
@@ -50,7 +50,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">💪</span>自信](/ja/item/confidence) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -60,6 +60,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |

@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🗑️</span>ゴミ箱あさり](/ja/action/rummage-trash-can) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv5 | 7 | 91% | 3.2 | 382 |
-| [<span class="wiki-icon">🧙</span>シャーマン](/ja/action/shaman) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 | 5 | 56% | 1.4 | 2.2 |
+| [<span class="wiki-icon">🧙</span>シャーマン](/ja/action/shaman) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 | 1 | 3.27% | 0.016 | 2.2 |
 
 ### 購入
 
@@ -53,6 +53,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 0 |
@@ -82,6 +83,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

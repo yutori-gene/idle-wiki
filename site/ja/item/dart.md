@@ -1,13 +1,13 @@
 # ダーツ
 
-<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">ダーツ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎯</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>18 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">ダーツ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎯</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>50%</td></tr><tr><th>売値</th><td>18 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 狙いが定まれば百発百中。
 
 
 ## 性能
 
-装備しているあいだ効く（同じグループで装備できるのは1つ）。使うたびに消費する。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
+装備しているあいだ効く（同じグループで装備できるのは1つ）。使うたびに 50% の確率で消費する。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
 | 効き先 | 攻撃 | 精度 |
 | --- | --- | --- |
@@ -50,6 +50,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `0.5` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 2 |
@@ -79,6 +80,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 0.5,
 	"requirements": [
 		{
 			"type": "category",

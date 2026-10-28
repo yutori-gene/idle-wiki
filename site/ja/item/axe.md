@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv3 | 1 | 6% | 0.03 | 5.4 |
-| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv46 | 3 | 76.8% | 1.2 | 0 |
+| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv46 | 1 | 1.02% | 0.005 | 0 |
 
 ## 用途
 
@@ -38,6 +38,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 1 |
@@ -68,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

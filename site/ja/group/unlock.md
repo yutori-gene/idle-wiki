@@ -10,23 +10,23 @@
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">👛</span>財布を開ける](/ja/action/open-wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 連続 |
-| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 連続 |
-| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv3 | 連続 |
-| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv5 | 連続 |
-| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv5 | 連続 |
-| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 連続 |
-| [<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 連続 |
-| [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv9 | 連続 |
-| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv12 | 連続 |
-| [<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv12 | 連続 |
-| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv14 | 連続 |
-| [<span class="wiki-icon">🕍</span>聖櫃を開ける](/ja/action/open-ark-of-covenant) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv16 | 連続 |
-| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv16 | 連続 |
-| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv18 | 連続 |
-| [<span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける](/ja/action/open-vampire-coffin) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv18 | 連続 |
-| [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv20 | 連続 |
-| [<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv20 | 連続 |
-| [<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv20 | 連続 |
+| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 連続 |
+| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 連続 |
+| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 連続 |
+| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv13 | 連続 |
+| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv15 | 連続 |
+| [<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv18 | 連続 |
+| [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv21 | 連続 |
+| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 連続 |
+| [<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv27 | 連続 |
+| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv30 | 連続 |
+| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv33 | 連続 |
+| [<span class="wiki-icon">🕍</span>聖櫃を開ける](/ja/action/open-ark-of-covenant) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv36 | 連続 |
+| [<span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける](/ja/action/open-vampire-coffin) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv38 | 連続 |
+| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv41 | 連続 |
+| [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv44 | 連続 |
+| [<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv47 | 連続 |
+| [<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv50 | 連続 |
 
 ## 開発者向け情報
 

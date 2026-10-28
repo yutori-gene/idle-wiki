@@ -1,6 +1,6 @@
 # ライ麦畑でつかまえてを読む
 
-<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">ライ麦畑でつかまえてを読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📗</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv20</td></tr><tr><th>所要時間</th><td>2日</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>49,372</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">ライ麦畑でつかまえてを読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📗</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv50</td></tr><tr><th>所要時間</th><td>1日4時間</td></tr><tr><th>成功率</th><td>65%</td></tr><tr><th>経験値</th><td>3,242</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 掴めないものを掴もうとする話。読むと、掴めるようになる。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv20以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv50以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/item/catcher-in-the-rye) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -18,18 +18,15 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">✨</span>フォース](/ja/item/force) ×1 | 成功時 | 100% | 1 | 0.021 |
+| [<span class="wiki-icon">✨</span>フォース](/ja/item/force) ×1 | 成功時 | 100% | 0.65 | 0.023 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 65%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv20） | 2日 | 100% | 49,372 | 0 | 1,029 |
-| +10（Lv30） | 1日15時間 | 100% | 32,914.67 | 0 | 840 |
-| +20（Lv40） | 1日8時間 | 100% | 21,943.11 | 0 | 686 |
-| +30（Lv50） | 1日2時間 | 100% | 14,628.74 | 0 | 560 |
+| ±0（Lv50） | 1日4時間 | 65% | 3,242 | 0 | 75 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -37,7 +34,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 17 | -17 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 29 | -29 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -52,10 +49,10 @@
 | `attribute` | （空） |
 | `group` | `reading` |
 | `unlocked` | `hidden` |
-| `level` | `20` |
-| `experience` | `49372` |
-| `seconds` | `172800` |
-| `chance` | `1` |
+| `level` | `50` |
+| `experience` | `3242` |
+| `seconds` | `100800` |
+| `chance` | `0.65` |
 | `maximum` | `0` |
 | `progressType` | `single` |
 | CSV `tier` | 10 |
@@ -81,10 +78,10 @@
 	"attribute": "",
 	"group": "reading",
 	"unlocked": "hidden",
-	"level": 20,
-	"experience": 49372,
-	"seconds": 172800,
-	"chance": 1,
+	"level": 50,
+	"experience": 3242,
+	"seconds": 100800,
+	"chance": 0.65,
 	"maximum": 0,
 	"requirements": [
 		{

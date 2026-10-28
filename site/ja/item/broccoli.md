@@ -27,9 +27,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 1 | 100% |  |
-| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
-| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 2 | 100% |  |
+| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 1 | 100% |  |
+| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv45 | 8 | 100% |  |
+| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv47 | 6 | 100% |  |
 | [<span class="wiki-icon">🥦</span>ブロッコリーを分解する](/ja/action/disassemble-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
@@ -53,6 +53,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 2 |
@@ -83,6 +84,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

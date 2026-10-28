@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📜</span>歴史書を読む](/ja/action/read-history-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv6 | 1 | 100% |  |
+| [<span class="wiki-icon">📜</span>歴史書を読む](/ja/action/read-history-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv34 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 
@@ -42,6 +42,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 4 |
@@ -71,6 +72,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

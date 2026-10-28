@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv3 | 7 | 91% | 3.2 | 573 |
-| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 10 | 100% | 5 | 16.7 |
+| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 15.8% | 0.079 | 16.6 |
 
 ### 購入
 
@@ -51,6 +51,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 0 |
@@ -80,6 +81,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

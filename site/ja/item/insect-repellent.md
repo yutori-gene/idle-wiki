@@ -1,6 +1,6 @@
 # むしよけスプレー
 
-<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">むしよけスプレー</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦟</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/potion"><span class="wiki-icon">🧪</span>ポーション</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>18 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">むしよけスプレー</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦟</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/potion"><span class="wiki-icon">🧪</span>ポーション</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>20%</td></tr><tr><th>売値</th><td>18 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ライターで火をつけると火炎放射器になる。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv12 | 2 | 84% | 1.7 | 16.8 |
+| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 1 | 84% | 0.84 | 16.8 |
 
 ## 解放条件
 
@@ -34,6 +34,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `0.2` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 1 |
@@ -63,6 +64,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 0.2,
 	"requirements": [
 		{
 			"type": "category",

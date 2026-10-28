@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧙</span>ドルイド](/ja/action/druid) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 5 | 80.6% | 2 | 6.7 |
+| [<span class="wiki-icon">🧙</span>ドルイド](/ja/action/druid) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 7.05% | 0.035 | 6.7 |
 
 ### イベント
 
@@ -52,6 +52,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 2 |
@@ -81,6 +82,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

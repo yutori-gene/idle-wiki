@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv18 | 2 | 86.4% | 1.7 | 11.5 |
+| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv41 | 4 | 86.4% | 1.9 | 11.4 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -28,6 +28,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
 | CSV `rare` | 2 |
@@ -57,6 +58,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

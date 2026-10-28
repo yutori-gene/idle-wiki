@@ -1,6 +1,6 @@
 # レシピ本を読む
 
-<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">レシピ本を読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📗</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv3</td></tr><tr><th>所要時間</th><td>2時間21分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>2,432</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">レシピ本を読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📗</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv28</td></tr><tr><th>所要時間</th><td>14時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>1,054</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 作らないまま何度も読む。腹だけが減っていく。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv3以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv28以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">📗</span>レシピ本](/ja/item/recipe-book) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -18,7 +18,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) ×1 | 成功時 | 100% | 1 | 0.423 |
+| [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) ×1 | 成功時 | 100% | 1 | 0.071 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -26,10 +26,9 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv3） | 2時間21分 | 100% | 2,432 | 0.4 | 1,029 |
-| +10（Lv13） | 1時間55分 | 100% | 1,621.33 | 0.5 | 840 |
-| +20（Lv23） | 1時間34分 | 100% | 1,080.89 | 0.6 | 686 |
-| +30（Lv33） | 1時間17分 | 100% | 720.59 | 0.8 | 560 |
+| ±0（Lv28） | 14時間 | 100% | 1,054 | 0.1 | 75 |
+| +10（Lv38） | 11時間25分 | 100% | 702.67 | 0.1 | 61 |
+| +20（Lv48） | 9時間20分 | 100% | 468.44 | 0.1 | 50 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -37,7 +36,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 11 | -11 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 2 | -2 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -52,9 +51,9 @@
 | `attribute` | （空） |
 | `group` | `reading` |
 | `unlocked` | `hidden` |
-| `level` | `3` |
-| `experience` | `2432` |
-| `seconds` | `8510` |
+| `level` | `28` |
+| `experience` | `1054` |
+| `seconds` | `50400` |
 | `chance` | `1` |
 | `maximum` | `0` |
 | `progressType` | `single` |
@@ -81,9 +80,9 @@
 	"attribute": "",
 	"group": "reading",
 	"unlocked": "hidden",
-	"level": 3,
-	"experience": 2432,
-	"seconds": 8510,
+	"level": 28,
+	"experience": 1054,
+	"seconds": 50400,
 	"chance": 1,
 	"maximum": 0,
 	"requirements": [

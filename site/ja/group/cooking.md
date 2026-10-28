@@ -10,31 +10,31 @@
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 連続 |
-| [<span class="wiki-icon">🍞</span>フレンチトースト](/ja/action/cook-french-toast) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv4 | 連続 |
+| [<span class="wiki-icon">🍞</span>フレンチトースト](/ja/action/cook-french-toast) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv3 | 連続 |
 | [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv4 | 連続 |
-| [<span class="wiki-icon">🍅</span>トマトの卵とじ](/ja/action/cook-tomato-egg-drop) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 連続 |
-| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 連続 |
-| [<span class="wiki-icon">🍳</span>目玉焼き](/ja/action/cook-fried-egg) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 連続 |
-| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 連続 |
-| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 連続 |
-| [<span class="wiki-icon">🥗</span>ポテトサラダ](/ja/action/cook-potato-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 連続 |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 連続 |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 連続 |
-| [<span class="wiki-icon">🥩</span>ステーキ](/ja/action/cook-steak) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 連続 |
-| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 連続 |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 連続 |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 連続 |
-| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 連続 |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 連続 |
-| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 連続 |
-| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 連続 |
-| [<span class="wiki-icon">🍚</span>ごはん](/ja/action/cook-cooked-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 連続 |
-| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 連続 |
-| [<span class="wiki-icon">🍙</span>おにぎり](/ja/action/cook-rice-ball) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 連続 |
-| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 連続 |
-| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 連続 |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 連続 |
-| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 連続 |
+| [<span class="wiki-icon">🍅</span>トマトの卵とじ](/ja/action/cook-tomato-egg-drop) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv8 | 連続 |
+| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 連続 |
+| [<span class="wiki-icon">🍳</span>目玉焼き](/ja/action/cook-fried-egg) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv11 | 連続 |
+| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 連続 |
+| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv14 | 連続 |
+| [<span class="wiki-icon">🥗</span>ポテトサラダ](/ja/action/cook-potato-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv16 | 連続 |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 連続 |
+| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 連続 |
+| [<span class="wiki-icon">🥩</span>ステーキ](/ja/action/cook-steak) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv26 | 連続 |
+| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv27 | 連続 |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv29 | 連続 |
+| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv32 | 連続 |
+| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv34 | 連続 |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv35 | 連続 |
+| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv37 | 連続 |
+| [<span class="wiki-icon">🍚</span>ごはん](/ja/action/cook-cooked-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv39 | 連続 |
+| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv40 | 連続 |
+| [<span class="wiki-icon">🍙</span>おにぎり](/ja/action/cook-rice-ball) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv42 | 連続 |
+| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv43 | 連続 |
+| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv45 | 連続 |
+| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv47 | 連続 |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv48 | 連続 |
+| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv50 | 連続 |
 
 ## アイテム
 

@@ -19,24 +19,24 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👛</span>財布を開ける](/ja/action/open-wallet) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv1 | 1分 | 100% | 2,160 |
-| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv1 | 1分 | 100% | 2,160 |
-| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv3 | 2分 | 100% | 2,100 |
-| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv5 | 3分 | 100% | 2,080 |
-| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv5 | 3分 | 100% | 2,080 |
-| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv7 | 4分 | 100% | 2,070 |
-| [<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv7 | 4分 | 100% | 2,070 |
-| [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv9 | 5分 | 100% | 2,064 |
-| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv12 | 6分 | 100% | 2,060 |
-| [<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv12 | 6分 | 100% | 2,060 |
-| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv14 | 7分 | 100% | 2,057 |
-| [<span class="wiki-icon">🕍</span>聖櫃を開ける](/ja/action/open-ark-of-covenant) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv16 | 8分 | 100% | 2,070 |
-| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv16 | 8分 | 100% | 2,070 |
-| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv18 | 9分 | 100% | 2,067 |
-| [<span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける](/ja/action/open-vampire-coffin) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv18 | 9分 | 100% | 2,067 |
-| [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv20 | 10分 | 100% | 2,064 |
-| [<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv20 | 10分 | 100% | 2,064 |
-| [<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv20 | 10分 | 100% | 2,064 |
+| [<span class="wiki-icon">👛</span>財布を開ける](/ja/action/open-wallet) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv1 | 1分 | 100% | 1,200 |
+| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv4 | 2分 | 50% | 1,200 |
+| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv7 | 1分 | 70% | 1,218 |
+| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv10 | 3分 | 100% | 1,200 |
+| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv13 | 1分 | 100% | 1,200 |
+| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv15 | 4分 | 60% | 1,188 |
+| [<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv18 | 2分 | 100% | 1,200 |
+| [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv21 | 6分 | 65% | 1,190 |
+| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv24 | 3分 | 100% | 1,200 |
+| [<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv27 | 10分 | 60% | 1,188 |
+| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv30 | 4分 | 65% | 1,190 |
+| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv33 | 15分 | 100% | 1,188 |
+| [<span class="wiki-icon">🕍</span>聖櫃を開ける](/ja/action/open-ark-of-covenant) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv36 | 6分 | 60% | 1,194 |
+| [<span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける](/ja/action/open-vampire-coffin) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv38 | 20分 | 60% | 1,188 |
+| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv41 | 10分 | 55% | 1,188 |
+| [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv44 | 30分 | 90% | 1,188 |
+| [<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv47 | 15分 | 65% | 1,188 |
+| [<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | 連続 | Lv50 | 30分 | 70% | 1,189 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
 
@@ -71,7 +71,7 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -81,6 +81,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
@@ -162,17 +163,25 @@
 
 | レベル | 累計経験値 | 開くもの |
 | --- | --- | --- |
-| Lv1 | 0 | [<span class="wiki-icon">👛</span>財布を開ける](/ja/action/open-wallet)（実行）<br>[<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box)（実行） |
-| Lv3 | 211 | [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest)（実行） |
-| Lv4 | 334 | [<span class="wiki-icon">💪</span>上腕二頭筋](/ja/item/biceps)（解放） |
-| Lv5 | 471 | [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box)（実行）<br>[<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule)（実行） |
-| Lv7 | 791 | [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest)（実行）<br>[<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure)（実行） |
-| Lv9 | 1,186 | [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest)（実行） |
-| Lv12 | 1,956 | [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest)（実行）<br>[<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest)（実行） |
-| Lv14 | 2,621 | [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest)（実行） |
-| Lv16 | 3,441 | [<span class="wiki-icon">🕍</span>聖櫃を開ける](/ja/action/open-ark-of-covenant)（実行）<br>[<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage)（実行） |
-| Lv18 | 4,450 | [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box)（実行）<br>[<span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける](/ja/action/open-vampire-coffin)（実行） |
-| Lv20 | 5,694 | [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest)（実行）<br>[<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box)（実行）<br>[<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box)（実行） |
+| Lv1 | 0 | [<span class="wiki-icon">👛</span>財布を開ける](/ja/action/open-wallet)（実行） |
+| Lv4 | 334 | [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box)（実行） |
+| Lv7 | 791 | [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest)（実行） |
+| Lv9 | 1,186 | [<span class="wiki-icon">💪</span>上腕二頭筋](/ja/item/biceps)（解放） |
+| Lv10 | 1,416 | [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box)（実行） |
+| Lv13 | 2,271 | [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule)（実行） |
+| Lv15 | 3,009 | [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest)（実行） |
+| Lv18 | 4,450 | [<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure)（実行） |
+| Lv21 | 6,420 | [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest)（実行） |
+| Lv24 | 9,115 | [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest)（実行） |
+| Lv27 | 12,800 | [<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest)（実行） |
+| Lv30 | 17,840 | [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest)（実行） |
+| Lv33 | 24,732 | [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage)（実行） |
+| Lv36 | 34,159 | [<span class="wiki-icon">🕍</span>聖櫃を開ける](/ja/action/open-ark-of-covenant)（実行） |
+| Lv38 | 42,298 | [<span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける](/ja/action/open-vampire-coffin)（実行） |
+| Lv41 | 58,183 | [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box)（実行） |
+| Lv44 | 79,907 | [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest)（実行） |
+| Lv47 | 109,617 | [<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box)（実行） |
+| Lv50 | 150,250 | [<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box)（実行） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
@@ -242,6 +251,10 @@ Step 1-3 では雛形を立てなかったカテゴリ。**本数はもともと
 
 - **宝箱4種（`募金箱` t1・`財布` t1・`木の宝箱` t2・`かぼちゃの馬車` t7）に出所が無い。** どれもダンジョンの討伐・探索に置くもので、**ダンジョンへの配り残し**の回でまとめて置く
 - `パンドラの箱を開ける`・`吸血鬼の棺を開ける` の `十字架のロザリオ` は現在**到達不能**。装飾 tier5 を北国へ置くバッチ3 で解ける（天空の `司祭` と同じ根）
+
+### 2026-10-28 の配り直し
+
+18本を Lv1〜50 へ1本ずつ。秒数1〜30分・成功率50〜100%・Lv50 まで約146時間。宝箱の消費と中身は時間の伸びに合わせて増やした。経緯と値は [plan.md](../doc/plan.md)「拠点6カテゴリの配り直し（2026-10-28）」。
 
 </details>
 

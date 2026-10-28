@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv20 | 1 | 25.8% | 0.258 | 1.5 |
-| [<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv20 | 1 | 25.8% | 0.258 | 1.5 |
+| [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv44 | 3 | 25.8% | 0.697 | 1.4 |
+| [<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv47 | 2 | 25.8% | 0.335 | 1.3 |
 
 ## 用途
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
 | CSV `rare` | 9 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

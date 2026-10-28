@@ -11,7 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎃</span>カボチャの栽培](/ja/action/grow-pumpkin) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 5 | 100% | 5 | 10 |
+| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv7 | 1 | 4% | 0.02 | 3.9 |
+| [<span class="wiki-icon">🎃</span>カボチャ](/ja/action/grow-pumpkin) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv4 | 22 | 100% | 19.8 | 9.9 |
 
 ## 用途
 
@@ -19,9 +20,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 2 | 100% |  |
+| [<span class="wiki-icon">🎃</span>カボチャ](/ja/action/grow-pumpkin) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv4 | 1 | 100% |  |
+| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv45 | 15 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">70件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -36,6 +38,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 0 |
@@ -65,6 +68,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

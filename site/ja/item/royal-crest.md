@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 2 | 57.6% | 0.576 | 0 |
+| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 0.504% | 0.003 | 0 |
 
 ### イベント
 
@@ -34,6 +34,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 8 |
 | CSV `rare` | 2 |
@@ -63,6 +64,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

@@ -11,9 +11,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 | 1 | 2.07% | 0.01 | 0.001 |
-| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 10.4% | 0.052 | 0 |
-| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 10.4% | 0.052 | 0.001 |
+| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 | 1 | 0.014% | 0 | 0.001 |
+| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 0.048% | 0 | 0 |
+| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 0.041% | 0 | 0.001 |
 
 ## 用途
 
@@ -38,6 +38,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 5 |
 | CSV `rare` | 4 |
@@ -67,6 +68,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

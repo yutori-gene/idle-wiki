@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv14 | 1 | 59.7% | 0.597 | 5.1 |
-| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv16 | 1 | 59.7% | 0.597 | 4.5 |
+| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv30 | 1 | 59.7% | 0.388 | 5.8 |
+| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv33 | 2 | 59.7% | 1.2 | 4.8 |
 
 ## 用途
 
@@ -20,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv12 | 1 | 100% |  |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv23 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 6 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

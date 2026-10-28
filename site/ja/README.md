@@ -37,6 +37,6 @@
 
 | カテゴリ | アクション | アイテム | スキル | イベント |
 | --- | --- | --- | --- | --- |
-| 24 | 593 | 865 | 100 | 95 |
+| 24 | 594 | 862 | 100 | 95 |
 
-<div class="wiki-snapshot">ワールド sunlit-to-sky v0.0.1784 ／ idle 2f1ffe2（2026-10-21）から生成</div>
+<div class="wiki-snapshot">ワールド sunlit-to-sky v0.0.1784 ／ idle 0932eb8（2026-10-28）から生成</div>

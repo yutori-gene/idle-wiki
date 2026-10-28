@@ -11,10 +11,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv4 | 1 | 36% | 0.36 | 14.4 |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 1 | 36% | 0.36 | 7.2 |
-| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 1 | 36% | 0.36 | 6.2 |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 1 | 36% | 0.36 | 6.2 |
+| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 2 | 36% | 0.612 | 18.4 |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv29 | 7 | 36% | 1.5 | 7.6 |
+| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv34 | 2 | 36% | 0.72 | 7.2 |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv35 | 10 | 36% | 1.8 | 6 |
 
 ## 用途
 
@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv9 | 3 | 100% |  |
+| [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv21 | 3 | 100% |  |
 
 ### 条件にしているもの
 
@@ -45,6 +45,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 1 |
@@ -74,6 +75,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

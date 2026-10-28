@@ -1,6 +1,6 @@
 # 大根
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">大根</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥕</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>15 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">大根</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥕</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>15 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > おろせば万能調味料。
 
@@ -25,8 +25,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥩</span>ステーキ](/ja/action/cook-steak) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 1 | 100% |  |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 1 | 100% |  |
+| [<span class="wiki-icon">🥩</span>ステーキ](/ja/action/cook-steak) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv26 | 3 | 100% |  |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv29 | 4 | 100% |  |
 
 ### 条件にしているもの
 
@@ -40,7 +40,7 @@
 
 - [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) Lv8以上
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">70件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -55,6 +55,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 5 |
 | CSV `rare` | 1 |
@@ -84,6 +85,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

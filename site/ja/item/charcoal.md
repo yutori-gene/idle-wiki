@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv15 | 2 | 100% | 2 | 0.571 |
-| [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv9 | 3 | 96% | 2.9 | 34.6 |
+| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv36 | 8 | 100% | 4.4 | 0.55 |
+| [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv21 | 6 | 96% | 3.7 | 37.4 |
 
 ## 用途
 
@@ -20,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 12 | 100% |  |
+| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv46 | 25 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 1 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

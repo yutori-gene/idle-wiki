@@ -13,9 +13,9 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧹</span>清掃活動](/ja/action/cleanup-activity) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv3 | 1 | 6% | 0.03 | 10.8 |
 | [<span class="wiki-icon">🪷</span>池のほとり](/ja/action/pond-side) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv14 | 1 | 18% | 0.09 | 32.4 |
-| [<span class="wiki-icon">🧟</span>ゾンビ](/ja/action/zombie) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 3 | 64% | 0.96 | 1.5 |
-| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 21% | 0.105 | 0.004 |
-| [<span class="wiki-icon">🪞</span>魔法の鏡](/ja/action/magic-mirror) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 7 | 80% | 2.8 | 0 |
+| [<span class="wiki-icon">🧟</span>ゾンビ](/ja/action/zombie) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 2.56% | 0.013 | 1.5 |
+| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 0.306% | 0.002 | 0.004 |
+| [<span class="wiki-icon">🪞</span>魔法の鏡](/ja/action/magic-mirror) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 3.5% | 0.018 | 0 |
 
 ## 用途
 
@@ -23,7 +23,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 | 1 | 100% |  |
+| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 | 1 | 1.11% |  |
 | [<span class="wiki-icon">🔮</span>万華鏡を作る](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 3 | 100% |  |
 | [<span class="wiki-icon">🔨</span>ハンマーを作る](/ja/action/craft-hammer) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 3 | 100% |  |
 | [<span class="wiki-icon">🧤</span>軍手を作る](/ja/action/craft-work-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 3 | 100% |  |
@@ -48,6 +48,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 0 |
@@ -78,6 +79,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

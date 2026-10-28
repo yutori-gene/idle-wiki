@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🔮</span>火口付近の結晶拾い](/ja/action/crater-crystal-gathering) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv9 | 3 | 48% | 0.72 | 37 |
-| [<span class="wiki-icon">🦎</span>サラマンダー](/ja/action/salamander) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 2 | 48% | 0.48 | 0.033 |
+| [<span class="wiki-icon">🦎</span>サラマンダー](/ja/action/salamander) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 1 | 0.297% | 0.001 | 0.033 |
 
 ## 用途
 
@@ -20,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐦‍🔥</span>火喰い鳥](/ja/action/fire-eating-bird) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 | 1 | 100% |  |
+| [<span class="wiki-icon">🐦‍🔥</span>火喰い鳥](/ja/action/fire-eating-bird) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 | 1 | 0.286% |  |
 | [<span class="wiki-icon">🔥</span>熱い想いを受け継ぐ](/ja/action/inherit-burning-passion) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 5 | 100% |  |
 | [<span class="wiki-icon">💋</span>投げキッスを作る](/ja/action/craft-blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv37 | 2 | 100% |  |
 
@@ -39,6 +39,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 1 |
@@ -68,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

@@ -1,6 +1,6 @@
 # 目薬の調合
 
-<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">目薬の調合</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👁️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brew"><span class="wiki-icon">⚗️</span>調合</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv4</td></tr><tr><th>所要時間</th><td>2分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>35</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">目薬の調合</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👁️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brew"><span class="wiki-icon">⚗️</span>調合</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv17</td></tr><tr><th>所要時間</th><td>2分</td></tr><tr><th>成功率</th><td>80%</td></tr><tr><th>経験値</th><td>51</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 薬草の汁だけを絞ってビンへ。濃すぎると沁みる。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv4以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv17以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない）
 - [<span class="wiki-icon">🌿</span>薬草](/ja/item/herb) ×2（消費する）
 - [<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) ×1（消費する）
@@ -20,18 +20,18 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👁️</span>目薬](/ja/item/eye-drops) ×1 | 成功時 | 100% | 1 | 30 |
+| [<span class="wiki-icon">👁️</span>目薬](/ja/item/eye-drops) ×19 | 成功時 | 100% | 15.2 | 456 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 80%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv4） | 2分 | 100% | 35 | 30 | 1,050 |
-| +10（Lv14） | 1分38秒 | 100% | 23.33 | 36.7 | 857 |
-| +20（Lv24） | 1分20秒 | 100% | 15.56 | 45 | 700 |
-| +30（Lv34） | 1分5秒 | 100% | 10.37 | 55.1 | 572 |
+| ±0（Lv17） | 2分 | 80% | 51 | 30 | 1,224 |
+| +10（Lv27） | 1分38秒 | 85.7% | 34 | 36.7 | 1,071 |
+| +20（Lv37） | 1分20秒 | 90% | 22.67 | 45 | 918 |
+| +30（Lv47） | 1分5秒 | 93.1% | 15.11 | 55.1 | 775 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -39,11 +39,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 120 | 1,440 | -1,320 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 1,824 | 1,440 | 384 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6d4f9c"><div class="wiki-navbox-title">地下室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-mortar"><span class="wiki-icon">🥣</span>すり鉢を買う</a> ・ <a href="#/ja/action/buy-still"><span class="wiki-icon">⚗️</span>蒸留器を買う</a> ・ <a href="#/ja/action/buy-crucible"><span class="wiki-icon">⚗️</span>るつぼを買う</a> ・ <a href="#/ja/action/brew-wound-medicine"><span class="wiki-icon">💊</span>キズ薬の調合</a> ・ <a href="#/ja/action/brew-bandage"><span class="wiki-icon">🩹</span>絆創膏の調合</a> ・ <a href="#/ja/action/brew-cold-medicine"><span class="wiki-icon">💊</span>風邪薬の調合</a> ・ <a href="#/ja/action/brew-opium"><span class="wiki-icon">💊</span>阿片の調合</a> ・ <a href="#/ja/action/brew-bubbling-medicine"><span class="wiki-icon">🧪</span>泡立つ薬の調合</a> ・ <a href="#/ja/action/brew-eye-drops"><span class="wiki-icon">👁️</span>目薬の調合</a> ・ <a href="#/ja/action/brew-glowing-medicine"><span class="wiki-icon">✨</span>発光する薬の調合</a> ・ <a href="#/ja/action/brew-ether"><span class="wiki-icon">🧪</span>エーテルの調合</a> ・ <a href="#/ja/action/brew-heat-pack"><span class="wiki-icon">🔥</span>カイロの調合</a> ・ <a href="#/ja/action/brew-cold-pack"><span class="wiki-icon">🧊</span>保冷剤の調合</a> ・ <a href="#/ja/action/brew-painkiller"><span class="wiki-icon">💊</span>鎮痛剤の調合</a> ・ <a href="#/ja/action/brew-anti-drowsiness"><span class="wiki-icon">☕</span>眠気覚ましの調合</a> ・ <a href="#/ja/action/brew-phoenix-tail"><span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合</a> ・ <a href="#/ja/action/brew-laxative"><span class="wiki-icon">💊</span>下剤の調合</a> ・ <a href="#/ja/action/brew-laxative-for-gorilla"><span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合</a> ・ <a href="#/ja/action/brew-poison-vial"><span class="wiki-icon">🧪</span>毒瓶の調合</a> ・ <a href="#/ja/action/brew-tonic"><span class="wiki-icon">💊</span>滋養強壮剤の調合</a> ・ <a href="#/ja/action/brew-vaccine"><span class="wiki-icon">💉</span>ワクチンの調合</a> ・ <a href="#/ja/action/brew-lcl"><span class="wiki-icon">🧪</span>LCLの調合</a> ・ <a href="#/ja/action/brew-holy-water"><span class="wiki-icon">💧</span>聖水の調合</a> ・ <a href="#/ja/action/brew-bottled-spirit"><span class="wiki-icon">🧞</span>精霊の入ったビンの調合</a> ・ <a href="#/ja/action/brew-panacea"><span class="wiki-icon">💊</span>万能薬の調合</a> ・ <a href="#/ja/action/brew-revive-piece"><span class="wiki-icon">💊</span>げんきのかけらの調合</a> ・ <a href="#/ja/action/brew-elixir"><span class="wiki-icon">🧪</span>エリクサーの調合</a> ・ <a href="#/ja/action/brew-felix-felicis"><span class="wiki-icon">🍀</span>フェリックスフェリシスの調合</a></div></div>
+<div class="wiki-navbox" style="--accent:#6d4f9c"><div class="wiki-navbox-title">地下室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-mortar"><span class="wiki-icon">🥣</span>すり鉢を買う</a> ・ <a href="#/ja/action/buy-still"><span class="wiki-icon">⚗️</span>蒸留器を買う</a> ・ <a href="#/ja/action/buy-crucible"><span class="wiki-icon">⚗️</span>るつぼを買う</a> ・ <a href="#/ja/action/brew-bandage"><span class="wiki-icon">🩹</span>絆創膏の調合</a> ・ <a href="#/ja/action/brew-wound-medicine"><span class="wiki-icon">💊</span>キズ薬の調合</a> ・ <a href="#/ja/action/brew-cold-medicine"><span class="wiki-icon">💊</span>風邪薬の調合</a> ・ <a href="#/ja/action/brew-bubbling-medicine"><span class="wiki-icon">🧪</span>泡立つ薬の調合</a> ・ <a href="#/ja/action/brew-opium"><span class="wiki-icon">💊</span>阿片の調合</a> ・ <a href="#/ja/action/brew-glowing-medicine"><span class="wiki-icon">✨</span>発光する薬の調合</a> ・ <a href="#/ja/action/brew-ether"><span class="wiki-icon">🧪</span>エーテルの調合</a> ・ <a href="#/ja/action/brew-heat-pack"><span class="wiki-icon">🔥</span>カイロの調合</a> ・ <a href="#/ja/action/brew-eye-drops"><span class="wiki-icon">👁️</span>目薬の調合</a> ・ <a href="#/ja/action/brew-cold-pack"><span class="wiki-icon">🧊</span>保冷剤の調合</a> ・ <a href="#/ja/action/brew-painkiller"><span class="wiki-icon">💊</span>鎮痛剤の調合</a> ・ <a href="#/ja/action/brew-phoenix-tail"><span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合</a> ・ <a href="#/ja/action/brew-anti-drowsiness"><span class="wiki-icon">☕</span>眠気覚ましの調合</a> ・ <a href="#/ja/action/brew-tonic"><span class="wiki-icon">💊</span>滋養強壮剤の調合</a> ・ <a href="#/ja/action/brew-vaccine"><span class="wiki-icon">💉</span>ワクチンの調合</a> ・ <a href="#/ja/action/brew-laxative"><span class="wiki-icon">💊</span>下剤の調合</a> ・ <a href="#/ja/action/brew-laxative-for-gorilla"><span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合</a> ・ <a href="#/ja/action/brew-poison-vial"><span class="wiki-icon">🧪</span>毒瓶の調合</a> ・ <a href="#/ja/action/brew-lcl"><span class="wiki-icon">🧪</span>LCLの調合</a> ・ <a href="#/ja/action/brew-holy-water"><span class="wiki-icon">💧</span>聖水の調合</a> ・ <a href="#/ja/action/brew-bottled-spirit"><span class="wiki-icon">🧞</span>精霊の入ったビンの調合</a> ・ <a href="#/ja/action/brew-panacea"><span class="wiki-icon">💊</span>万能薬の調合</a> ・ <a href="#/ja/action/brew-revive-piece"><span class="wiki-icon">💊</span>げんきのかけらの調合</a> ・ <a href="#/ja/action/brew-elixir"><span class="wiki-icon">🧪</span>エリクサーの調合</a> ・ <a href="#/ja/action/brew-felix-felicis"><span class="wiki-icon">🍀</span>フェリックスフェリシスの調合</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,10 +54,10 @@
 | `attribute` | （空） |
 | `group` | `brew` |
 | `unlocked` | `hidden` |
-| `level` | `4` |
-| `experience` | `35` |
+| `level` | `17` |
+| `experience` | `51` |
 | `seconds` | `120` |
-| `chance` | `1` |
+| `chance` | `0.8` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 4 |
@@ -83,10 +83,10 @@
 	"attribute": "",
 	"group": "brew",
 	"unlocked": "hidden",
-	"level": 4,
-	"experience": 35,
+	"level": 17,
+	"experience": 51,
 	"seconds": 120,
-	"chance": 1,
+	"chance": 0.8,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -115,7 +115,7 @@
 		{
 			"type": "item",
 			"id": "eye-drops",
-			"count": 1,
+			"count": 19,
 			"chance": 1
 		}
 	],

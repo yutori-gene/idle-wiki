@@ -53,6 +53,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | `parry` |
 | CSV `tier` | 3 |
 | CSV `rare` | 2 |
@@ -82,6 +83,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

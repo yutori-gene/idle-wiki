@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏴‍☠️</span>海賊](/ja/action/pirate) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 | 2 | 57.6% | 0.576 | 0.148 |
-| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 2 | 57.6% | 0.576 | 0.148 |
+| [<span class="wiki-icon">🏴‍☠️</span>海賊](/ja/action/pirate) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 | 1 | 0.96% | 0.005 | 0.148 |
+| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 1.1% | 0.006 | 0.148 |
 | [<span class="wiki-icon">🗼</span>灯台守の小屋](/ja/action/lighthouse-keeper-hut) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv30 | 2 | 41.8% | 0.836 | 0.418 |
 
 ### イベント
@@ -36,6 +36,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 2 |
@@ -65,6 +66,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

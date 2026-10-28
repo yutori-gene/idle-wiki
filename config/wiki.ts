@@ -107,6 +107,7 @@ export const publishedDocuments: { [file: string]: string } = {
 	"fix.md": "エンジンの懸念（fix.md）",
 	"csv-removed.md": "CSV から消したもの（csv-removed.md）",
 	"session.md": "作業の現在地（session.md）",
+	"history.md": "経過の記録（history.md）",
 };
 
 /**

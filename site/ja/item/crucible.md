@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚗️</span>るつぼを買う](/ja/action/buy-crucible) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv10 | 1 | 100% | 1 | 36,000 |
+| [<span class="wiki-icon">⚗️</span>るつぼを買う](/ja/action/buy-crucible) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -42,6 +42,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 2 |
@@ -71,6 +72,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

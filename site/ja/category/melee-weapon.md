@@ -57,69 +57,69 @@
 
 | アクション | 場所 | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1分 | 50% | 137 |
-| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1分 | 50% | 102 |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1分 | 50% | 117 |
-| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv6 | 1分 | 50% | 137 |
-| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv7 | 1分 | 50% | 137 |
-| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv7 | 1分 | 50% | 137 |
-| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv10 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🧙</span>ドルイド](/ja/action/druid) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2分 | 50% | 89 |
-| [<span class="wiki-icon">🗡️</span>山賊](/ja/action/bandit) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🧙</span>シャーマン](/ja/action/shaman) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv15 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv15 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🧟</span>ゾンビ](/ja/action/zombie) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🤠</span>賞金稼ぎ](/ja/action/bounty-hunter) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🏴‍☠️</span>海賊](/ja/action/pirate) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🐲</span>ドラゴンキッズ](/ja/action/dragon-kid) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 5分 | 50% | 10 |
-| [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 6分 | 50% | 2 |
-| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv29 | 6分 | 50% | 2 |
-| [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 6分 | 50% | 2 |
-| [<span class="wiki-icon">🤖</span>暴走ロボット](/ja/action/rampaging-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 6分 | 50% | 2 |
-| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 6分 | 50% | 2 |
-| [<span class="wiki-icon">🗿</span>溶岩ゴーレム](/ja/action/lava-golem) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv33 | 7分 | 50% | 0 |
-| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv34 | 7分 | 50% | 0 |
-| [<span class="wiki-icon">🪱</span>マグマワーム](/ja/action/magma-worm) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv35 | 7分 | 50% | 0 |
-| [<span class="wiki-icon">🐉</span>火山竜](/ja/action/volcano-dragon) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv35 | 7分 | 50% | 0 |
-| [<span class="wiki-icon">🗿</span>ゴーレム](/ja/action/golem) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv38 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 8分 | 50% | 0 |
-| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">🍝</span>スパゲッティモンスター](/ja/action/spaghetti-monster) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 10分 | 50% | 0 |
+| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1.8秒 | 50% | 134 |
+| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 2.2秒 | 50% | 100 |
+| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1.7秒 | 50% | 114 |
+| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv6 | 1.7秒 | 50% | 134 |
+| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv7 | 1.8秒 | 50% | 134 |
+| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv7 | 2.4秒 | 50% | 134 |
+| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 1.8秒 | 50% | 114 |
+| [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 2.3秒 | 50% | 114 |
+| [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv10 | 1.9秒 | 50% | 115 |
+| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.9秒 | 50% | 115 |
+| [<span class="wiki-icon">🧙</span>ドルイド](/ja/action/druid) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2.1秒 | 50% | 114 |
+| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2.2秒 | 50% | 115 |
+| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2.2秒 | 50% | 115 |
+| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.6秒 | 50% | 114 |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2.2秒 | 50% | 115 |
+| [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2.3秒 | 50% | 114 |
+| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 1.7秒 | 50% | 114 |
+| [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 1.6秒 | 50% | 114 |
+| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2.4秒 | 50% | 88 |
+| [<span class="wiki-icon">🗡️</span>山賊](/ja/action/bandit) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 1.9秒 | 50% | 79 |
+| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 1.6秒 | 50% | 79 |
+| [<span class="wiki-icon">🧙</span>シャーマン](/ja/action/shaman) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv15 | 2.1秒 | 50% | 79 |
+| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv15 | 2秒 | 50% | 79 |
+| [<span class="wiki-icon">🧟</span>ゾンビ](/ja/action/zombie) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 2.4秒 | 50% | 79 |
+| [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 2.1秒 | 50% | 79 |
+| [<span class="wiki-icon">🤠</span>賞金稼ぎ](/ja/action/bounty-hunter) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 1.8秒 | 50% | 79 |
+| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 1.5秒 | 50% | 79 |
+| [<span class="wiki-icon">🏴‍☠️</span>海賊](/ja/action/pirate) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 2秒 | 50% | 18 |
+| [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 2.1秒 | 50% | 18 |
+| [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 2.1秒 | 50% | 18 |
+| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 2.3秒 | 50% | 18 |
+| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 2.4秒 | 50% | 18 |
+| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 2.3秒 | 50% | 18 |
+| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 2.4秒 | 50% | 10 |
+| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 2.5秒 | 50% | 10 |
+| [<span class="wiki-icon">🐲</span>ドラゴンキッズ](/ja/action/dragon-kid) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 1.6秒 | 50% | 10 |
+| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.7秒 | 50% | 10 |
+| [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.9秒 | 50% | 10 |
+| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.8秒 | 50% | 10 |
+| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2秒 | 50% | 10 |
+| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2.2秒 | 50% | 10 |
+| [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 2.4秒 | 50% | 2 |
+| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv29 | 2.5秒 | 50% | 2 |
+| [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2秒 | 50% | 2 |
+| [<span class="wiki-icon">🤖</span>暴走ロボット](/ja/action/rampaging-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 1.9秒 | 50% | 2 |
+| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2.5秒 | 50% | 2 |
+| [<span class="wiki-icon">🗿</span>溶岩ゴーレム](/ja/action/lava-golem) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv33 | 2.4秒 | 50% | 0 |
+| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv34 | 2.3秒 | 50% | 0 |
+| [<span class="wiki-icon">🪱</span>マグマワーム](/ja/action/magma-worm) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv35 | 2.1秒 | 50% | 0 |
+| [<span class="wiki-icon">🐉</span>火山竜](/ja/action/volcano-dragon) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv35 | 2.5秒 | 50% | 0 |
+| [<span class="wiki-icon">🗿</span>ゴーレム](/ja/action/golem) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv38 | 2.5秒 | 50% | 0 |
+| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.1秒 | 50% | 0 |
+| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.2秒 | 50% | 0 |
+| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 2.3秒 | 50% | 0 |
+| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 2.4秒 | 50% | 0 |
+| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.5秒 | 50% | 0 |
+| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.4秒 | 50% | 0 |
+| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 2秒 | 50% | 0 |
+| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 1.7秒 | 50% | 0 |
+| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 2.2秒 | 50% | 0 |
+| [<span class="wiki-icon">🍝</span>スパゲッティモンスター](/ja/action/spaghetti-monster) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2.2秒 | 50% | 0 |
+| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2秒 | 50% | 0 |
+| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 1.9秒 | 50% | 0 |
 
 ## 管理するアイテム
 
@@ -226,7 +226,7 @@
 | [<span class="wiki-icon">💍</span>ドラゴンの指輪](/ja/item/dragon-ring) | 装備必須 | +103 | +41 |  |  |  |
 | [<span class="wiki-icon">💍</span>一つの指輪](/ja/item/one-ring) | 装備必須 | +190 | +143 |  | +14 |  |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -236,6 +236,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |

@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 1 | 1.79% | 0.009 | 0.014 |
+| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 1 | 0.016% | 0 | 0.014 |
 
 ## 用途
 
@@ -44,6 +44,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `unnecessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 7 |
@@ -73,6 +74,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "unnecessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

@@ -1,6 +1,6 @@
 # ニワトリを世話する
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">ニワトリを世話する</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐔</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv6</td></tr><tr><th>所要時間</th><td>1時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>1,543</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">ニワトリを世話する</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐔</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv12</td></tr><tr><th>所要時間</th><td>30分</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>92</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 毎朝きっかり同じ時刻に起こされる。対価は卵。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv6以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv12以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) ×1（消費しない）
 - [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) ×1（消費する）
 
@@ -19,18 +19,18 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥚</span>卵](/ja/item/egg) ×3 | 成功時 | 100% | 3 | 2 |
+| [<span class="wiki-icon">🥚</span>卵](/ja/item/egg) ×2 | 成功時 | 100% | 1 | 2 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv6） | 1時間30分 | 100% | 1,543 | 0.7 | 1,029 |
-| +10（Lv16） | 1時間13分 | 100% | 1,028.67 | 0.8 | 840 |
-| +20（Lv26） | 1時間 | 100% | 685.78 | 1 | 686 |
-| +30（Lv36） | 48分59秒 | 100% | 457.19 | 1.2 | 560 |
+| ±0（Lv12） | 30分 | 50% | 92 | 2 | 92 |
+| +10（Lv22） | 24分30秒 | 60% | 61.33 | 2.4 | 90 |
+| +20（Lv32） | 20分 | 69.2% | 40.89 | 3 | 85 |
+| +30（Lv42） | 16分20秒 | 77.1% | 27.26 | 3.7 | 77 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -38,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 6 | 2 | 4 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 6 | 6 | 0 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -53,10 +53,10 @@
 | `attribute` | （空） |
 | `group` | `pet` |
 | `unlocked` | `hidden` |
-| `level` | `6` |
-| `experience` | `1543` |
-| `seconds` | `5400` |
-| `chance` | `1` |
+| `level` | `12` |
+| `experience` | `92` |
+| `seconds` | `1800` |
+| `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 3 |
@@ -82,10 +82,10 @@
 	"attribute": "",
 	"group": "pet",
 	"unlocked": "hidden",
-	"level": 6,
-	"experience": 1543,
-	"seconds": 5400,
-	"chance": 1,
+	"level": 12,
+	"experience": 92,
+	"seconds": 1800,
+	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -107,7 +107,7 @@
 		{
 			"type": "item",
 			"id": "egg",
-			"count": 3,
+			"count": 2,
 			"chance": 1
 		}
 	],

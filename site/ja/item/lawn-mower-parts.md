@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 1 | 100% | 1 | 10 |
+| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 1 | 100% | 0.9 | 18 |
 
 ## 用途
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌾</span>芝刈り機を組む](/ja/action/assemble-lawn-mower) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 100 | 100% |  |
+| [<span class="wiki-icon">🌾</span>芝刈り機を組む](/ja/action/assemble-lawn-mower) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 100 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#4f8a8a"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -36,6 +36,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 6 |
@@ -65,6 +66,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

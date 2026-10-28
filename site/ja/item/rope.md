@@ -11,9 +11,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv6 | 7 | 80% | 2.8 | 21.9 |
-| [<span class="wiki-icon">🗡️</span>山賊](/ja/action/bandit) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 7 | 80% | 2.8 | 4.3 |
-| [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 | 7 | 80% | 2.8 | 0.72 |
+| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv6 | 1 | 15.9% | 0.08 | 22 |
+| [<span class="wiki-icon">🗡️</span>山賊](/ja/action/bandit) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 1 | 5.91% | 0.03 | 4.3 |
+| [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 | 1 | 4.9% | 0.025 | 0.72 |
 
 ## 用途
 
@@ -21,8 +21,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 3 | 100% |  |
-| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 100% |  |
+| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 3 | 0.556% |  |
+| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 1% |  |
 
 ### 条件にしているもの
 
@@ -45,6 +45,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 0 |
@@ -74,6 +75,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

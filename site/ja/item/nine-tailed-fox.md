@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv49 | 1 | 0.86% | 0.004 | 0 |
+| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv49 | 1 | 0.003% | 0 | 0 |
 
 ## 用途
 
@@ -44,6 +44,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `unnecessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
 | CSV `rare` | 8 |
@@ -73,6 +74,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "unnecessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

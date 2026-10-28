@@ -1,6 +1,6 @@
 # 暴走ロボット
 
-<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">暴走ロボット</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🤖</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv32</td></tr><tr><th>所要時間</th><td>6分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>206</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">暴走ロボット</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🤖</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv32</td></tr><tr><th>所要時間</th><td>1.9秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.09</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 制御を失った機械兵。
 
@@ -15,11 +15,11 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔪</span>カッター](/ja/item/cutter) ×10 | 成功時 | 100% | 5 | 0.098 |
-| [<span class="wiki-icon">🔋</span>乾電池](/ja/item/dry-cell) ×7 | 成功時 | 80% | 2.8 | 0.055 |
-| [<span class="wiki-icon">⚙️</span>モーター](/ja/item/motor) ×2 | 成功時 | 57.6% | 0.576 | 0.011 |
-| [<span class="wiki-icon">⚙️</span>精密部品](/ja/item/precision-part) ×1 | 成功時 | 22.5% | 0.113 | 0.002 |
-| [<span class="wiki-icon">🤖</span>ロボットの心臓](/ja/item/robot-heart) ×1 | 成功時 | 10.4% | 0.052 | 0.001 |
+| [<span class="wiki-icon">🔪</span>カッター](/ja/item/cutter) ×1 | 成功時 | 5.28% | 0.026 | 0.098 |
+| [<span class="wiki-icon">🔋</span>乾電池](/ja/item/dry-cell) ×1 | 成功時 | 2.96% | 0.015 | 0.055 |
+| [<span class="wiki-icon">⚙️</span>モーター](/ja/item/motor) ×1 | 成功時 | 0.608% | 0.003 | 0.011 |
+| [<span class="wiki-icon">⚙️</span>精密部品](/ja/item/precision-part) ×1 | 成功時 | 0.119% | 0.001 | 0.002 |
+| [<span class="wiki-icon">🤖</span>ロボットの心臓](/ja/item/robot-heart) ×1 | 成功時 | 0.055% | 0 | 0.001 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -39,8 +39,8 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv32） | 0.261% | 14.6% | 75% | 23.1% | 15.3% | 510.7 | 5,723.6% | 2日3時間 | 負ける見込みが高い |
-| +10（Lv42） | 0.392% | 11.9% | 81.8% | 26.9% | 21.3% | 312.9 | 2,721.8% | 1日1時間 | 負ける見込みが高い |
+| ±0（Lv32） | 0.261% | 14.6% | 75% | 23.1% | 15.3% | 510.7 | 5,723.6% | 16分12秒 | 負ける見込みが高い |
+| +10（Lv42） | 0.392% | 11.9% | 81.8% | 26.9% | 21.3% | 312.9 | 2,721.8% | 8分7秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -48,8 +48,8 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv32） | 6分 | 50% | 206 | 0 | 2 |
-| +10（Lv42） | 4分54秒 | 60% | 137.33 | 0 | 3 |
+| ±0（Lv32） | 1.9秒 | 50% | 1.09 | 3.7 | 2 |
+| +10（Lv42） | 1.6秒 | 60% | 0.73 | 7.4 | 3 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -73,8 +73,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `32` |
-| `experience` | `206` |
-| `seconds` | `360` |
+| `experience` | `1.09` |
+| `seconds` | `1.9` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -103,8 +103,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 32,
-	"experience": 206,
-	"seconds": 360,
+	"experience": 1.09,
+	"seconds": 1.9,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [],
@@ -112,32 +112,32 @@
 		{
 			"type": "item",
 			"id": "cutter",
-			"count": 10,
-			"chance": 1
+			"count": 1,
+			"chance": 0.0528
 		},
 		{
 			"type": "item",
 			"id": "dry-cell",
-			"count": 7,
-			"chance": 0.8
+			"count": 1,
+			"chance": 0.0296
 		},
 		{
 			"type": "item",
 			"id": "motor",
-			"count": 2,
-			"chance": 0.576
+			"count": 1,
+			"chance": 0.00608
 		},
 		{
 			"type": "item",
 			"id": "precision-part",
 			"count": 1,
-			"chance": 0.225
+			"chance": 0.00119
 		},
 		{
 			"type": "item",
 			"id": "robot-heart",
 			"count": 1,
-			"chance": 0.104
+			"chance": 0.000549
 		}
 	],
 	"progressType": "stamina",

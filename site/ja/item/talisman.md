@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 3 | 76.8% | 1.2 | 0 |
+| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 1 | 1.02% | 0.005 | 0 |
 
 ## 用途
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv46 | 1 | 100% |  |
+| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv46 | 1 | 0.519% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">45件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 
@@ -36,6 +36,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 9 |
 | CSV `rare` | 1 |
@@ -65,6 +66,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

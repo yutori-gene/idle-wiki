@@ -11,7 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥔</span>ジャガイモの栽培](/ja/action/grow-potato) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv9 | 3 | 100% | 3 | 6 |
+| [<span class="wiki-icon">🗑️</span>ゴミ箱あさり](/ja/action/rummage-trash-can) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv5 | 1 | 33.6% | 0.168 | 20.2 |
+| [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/action/grow-potato) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv35 | 360 | 100% | 180 | 6 |
 
 ## 用途
 
@@ -19,10 +20,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥗</span>ポテトサラダ](/ja/action/cook-potato-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 1 | 100% |  |
-| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 3 | 100% |  |
+| [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/action/grow-potato) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv35 | 1 | 100% |  |
+| [<span class="wiki-icon">🥗</span>ポテトサラダ](/ja/action/cook-potato-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv16 | 2 | 100% |  |
+| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv43 | 9 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">70件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -37,6 +39,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 1 |
@@ -66,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

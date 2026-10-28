@@ -1,6 +1,6 @@
 # ボム
 
-<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">ボム</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💣</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv28</td></tr><tr><th>所要時間</th><td>6分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>206</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">ボム</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💣</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv28</td></tr><tr><th>所要時間</th><td>1.8秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.03</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 自らを爆発させる危険な物体。
 
@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv28以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil) ×3（消費する）
+- [<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil) ×3（0.5%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,9 +18,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>ネジ](/ja/item/screw) ×7 | 成功時 | 80% | 2.8 | 0.277 |
-| [<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt) ×3 | 成功時 | 64% | 0.96 | 0.095 |
-| [<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber) ×2 | 成功時 | 40% | 0.4 | 0.04 |
+| [<span class="wiki-icon">🔩</span>ネジ](/ja/item/screw) ×1 | 成功時 | 2.8% | 0.014 | 0.277 |
+| [<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt) ×1 | 成功時 | 0.96% | 0.005 | 0.095 |
+| [<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber) ×1 | 成功時 | 0.4% | 0.002 | 0.04 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,9 +41,9 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv28） | 1.55% | 19.8% | 64.8% | 25% | 22% | 100.2 | 1,486.2% | 10時間7分 | 負ける見込みが高い |
-| +10（Lv38） | 2.33% | 16.1% | 73.4% | 29% | 29.7% | 58.5 | 671% | 4時間51分 | 負ける見込みが高い |
-| +20（Lv48） | 3.5% | 13.2% | 80.6% | 33.3% | 38.8% | 36 | 316.2% | 2時間27分 | 負ける見込みが高い |
+| ±0（Lv28） | 1.55% | 19.8% | 64.8% | 25% | 22% | 100.2 | 1,486.2% | 3分2秒 | 負ける見込みが高い |
+| +10（Lv38） | 2.33% | 16.1% | 73.4% | 29% | 29.7% | 58.5 | 671% | 1分28秒 | 負ける見込みが高い |
+| +20（Lv48） | 3.5% | 13.2% | 80.6% | 33.3% | 38.8% | 36 | 316.2% | 44.4秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -51,9 +51,9 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv28） | 6分 | 50% | 206 | 0.1 | 10 |
-| +10（Lv38） | 4分54秒 | 60% | 137.33 | 0.2 | 17 |
-| +20（Lv48） | 4分 | 69.2% | 91.56 | 0.4 | 26 |
+| ±0（Lv28） | 1.8秒 | 50% | 1.03 | 19.8 | 10 |
+| +10（Lv38） | 1.5秒 | 60% | 0.69 | 41.1 | 17 |
+| +20（Lv48） | 1.2秒 | 69.2% | 0.46 | 81.1 | 26 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -77,8 +77,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `28` |
-| `experience` | `206` |
-| `seconds` | `360` |
+| `experience` | `1.03` |
+| `seconds` | `1.8` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -107,8 +107,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 28,
-	"experience": 206,
-	"seconds": 360,
+	"experience": 1.03,
+	"seconds": 1.8,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -116,7 +116,7 @@
 			"type": "item",
 			"id": "waste-oil",
 			"count": 3,
-			"chance": 1,
+			"chance": 0.005,
 			"equipment": false
 		}
 	],
@@ -124,20 +124,20 @@
 		{
 			"type": "item",
 			"id": "screw",
-			"count": 7,
-			"chance": 0.8
+			"count": 1,
+			"chance": 0.028
 		},
 		{
 			"type": "item",
 			"id": "bolt",
-			"count": 3,
-			"chance": 0.64
+			"count": 1,
+			"chance": 0.0096
 		},
 		{
 			"type": "item",
 			"id": "rubber",
-			"count": 2,
-			"chance": 0.4
+			"count": 1,
+			"chance": 0.004
 		}
 	],
 	"progressType": "stamina",

@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 | 2 | 48% | 0.48 | 0.047 |
+| [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 | 1 | 0.32% | 0.002 | 0.047 |
 
 ## 用途
 
@@ -19,11 +19,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv13 | 1 | 100% |  |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 12 | 100% |  |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 12 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 12 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 10 | 100% |  |
+| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv31 | 2 | 100% |  |
+| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 34 | 100% |  |
+| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 8 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv35 | 40 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 50 | 100% |  |
 | [<span class="wiki-icon">🔋</span>リチウムバッテリーを作る](/ja/action/craft-lithium-battery) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv31 | 3 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
@@ -41,6 +41,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 1 |
@@ -70,6 +71,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

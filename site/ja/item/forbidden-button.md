@@ -26,6 +26,7 @@
 | `coinId` | `treasure-medal` |
 | `maximum` | `1` |
 | `equipmentType` | `unnecessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 3 |
@@ -56,6 +57,7 @@
 	"coinId": "treasure-medal",
 	"maximum": 1,
 	"equipmentType": "unnecessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

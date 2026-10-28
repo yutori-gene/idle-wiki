@@ -1,25 +1,25 @@
-﻿id,name,locked,explanation,emoji,color,group,tier,req-0-id,req-1-id,req-0-count,req-1-count,req-0-chance,req-1-chance,req-0-equipment,req-1-equipment,req-0-type,req-1-type,numeric,standaloneProgress,memo
-park,公園,false,,🌳,#6f9c2e,ダンジョン,1,,,,,,,,,,,O,,
-forest,森,true,,🌲,#24804f,ダンジョン,2,公園,伝説のボール,20,,,,,,category,item,O,,
-town,街,true,,🏙️,#b35a26,ダンジョン,3,森,森の精霊石,20,,,,,,category,item,O,,
-sea,海,true,,🌊,#1c62ab,ダンジョン,4,街,都市伝説の鍵,20,,,,,,category,item,O,,
-northland,北国,true,,❄️,#48a0b5,ダンジョン,5,海,海神のトライデント,20,,,,,,category,item,O,,
-factory,工場,true,,🏭,#6b757c,ダンジョン,6,北国,極夜の結晶,20,,,,,,category,item,O,,
-volcano,火山,true,,🌋,#c23b26,ダンジョン,7,工場,永久機関,20,,,,,,category,item,O,,
-castle,城,true,,🏰,#a37d1c,ダンジョン,8,火山,フェニックスの羽,20,,,,,,category,item,O,,
-hell,地獄,true,,🔥,#8e2c57,ダンジョン,9,城,王家の秘宝,20,,,,,,category,item,O,,
-sky-garden,天空のお庭,true,,☁️,#8a76d4,ダンジョン,10,地獄,奈落の宝珠,20,,,,,,category,item,O,,
-greenhouse,温室,true,,🌱,#6fb07a,拠点,,公園,,8,,,,,,category,,O,O,
-kitchen,台所,true,,🍳,#d07c2c,拠点,,森,,5,,,,,,category,,O,,
-basement,地下室,true,,⚗️,#6d4f9c,拠点,,街,,3,,,,,,category,,O,,
-study,書斎,true,,📚,#7b5a35,拠点,,森,,7,,,,,,category,,O,O,
-warehouse,倉庫,true,,📦,#8c8577,拠点,,公園,,4,,,,,,category,,,,
-loft,ロフト,true,,🗃️,#a85c47,拠点,,森,,9,,,,,,category,,O,,
-garden,庭,true,,🐾,#c26a8e,拠点,,森,,3,,,,,,category,,O,O,
-melee-weapon,近接武器,true,,⚔️,#4e6a86,装備管理,,公園,,6,,,,,,category,,O,,
-throwing-weapon,投擲武器,true,,🎯,#6b7a4a,装備管理,,森,,11,,,,,,category,,O,,
-explosive-weapon,爆発武器,true,,💣,#cf9a1f,装備管理,,街,,9,,,,,,category,,O,,
-armor,防具,true,,🛡️,#2f3f52,装備管理,,街,,5,,,,,,category,,,,
-accessory,装飾,true,,💍,#a44f9e,装備管理,,街,,7,,,,,,category,,,,
-bedroom,寝室,true,美術品を作って飾る部屋。壁・床・棚に1つずつ飾れて、飾った作品はすべてのカテゴリの経験値を増やす。,🛏️,#7a86c2,拠点,,海,,4,,,,,,category,,,,
-workshop,作業部屋,true,,🔧,#4f8a8a,拠点,,海,,6,,,,,,category,,O,,
+﻿id,name,locked,explanation,emoji,color,group,tier,req-0-id,req-1-id,req-0-count,req-1-count,req-0-chance,req-1-chance,req-0-equipment,req-1-equipment,req-0-type,req-1-type,numeric,standaloneProgress,memo,feature
+park,公園,false,,🌳,#6f9c2e,ダンジョン,1,,,,,,,,,,,O,,,
+forest,森,true,,🌲,#24804f,ダンジョン,2,公園,伝説のボール,20,,,,,,category,item,O,,,
+town,街,true,,🏙️,#b35a26,ダンジョン,3,森,森の精霊石,20,,,,,,category,item,O,,,
+sea,海,true,,🌊,#1c62ab,ダンジョン,4,街,都市伝説の鍵,20,,,,,,category,item,O,,,
+northland,北国,true,,❄️,#48a0b5,ダンジョン,5,海,海神のトライデント,20,,,,,,category,item,O,,,
+factory,工場,true,,🏭,#6b757c,ダンジョン,6,北国,極夜の結晶,20,,,,,,category,item,O,,,
+volcano,火山,true,,🌋,#c23b26,ダンジョン,7,工場,永久機関,20,,,,,,category,item,O,,,
+castle,城,true,,🏰,#a37d1c,ダンジョン,8,火山,フェニックスの羽,20,,,,,,category,item,O,,,
+hell,地獄,true,,🔥,#8e2c57,ダンジョン,9,城,王家の秘宝,20,,,,,,category,item,O,,,
+sky-garden,天空のお庭,true,,☁️,#8a76d4,ダンジョン,10,地獄,奈落の宝珠,20,,,,,,category,item,O,,,
+greenhouse,温室,true,,🌱,#6fb07a,拠点,,公園,,8,,,,,,category,,O,O,,Lv50まで連続で乗り継いで約70日の長期レーン。装備枠は1つ（畑の恵み：ミミズ／ニンニク）
+kitchen,台所,true,,🍳,#d07c2c,拠点,,森,,5,,,,,,category,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）
+basement,地下室,true,,⚗️,#6d4f9c,拠点,,街,,3,,,,,,category,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）
+study,書斎,true,,📚,#7b5a35,拠点,,森,,7,,,,,,category,,O,O,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜48時間・成功率50〜100%。Lv50まで連続で約70日（独立レーン）
+warehouse,倉庫,true,,📦,#8c8577,拠点,,公園,,4,,,,,,category,,,,,
+loft,ロフト,true,,🗃️,#a85c47,拠点,,森,,9,,,,,,category,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）
+garden,庭,true,,🐾,#c26a8e,拠点,,森,,3,,,,,,category,,O,O,,Lv1〜50 に1本ずつ均等（tier順）。秒数30分〜12時間・成功率50〜100%。Lv50まで連続で約70日（独立レーン）
+melee-weapon,近接武器,true,,⚔️,#4e6a86,装備管理,,公園,,6,,,,,,category,,O,,,
+throwing-weapon,投擲武器,true,,🎯,#6b7a4a,装備管理,,森,,11,,,,,,category,,O,,,
+explosive-weapon,爆発武器,true,,💣,#cf9a1f,装備管理,,街,,9,,,,,,category,,O,,,
+armor,防具,true,,🛡️,#2f3f52,装備管理,,街,,5,,,,,,category,,,,,
+accessory,装飾,true,,💍,#a44f9e,装備管理,,街,,7,,,,,,category,,,,,
+bedroom,寝室,true,美術品を作って飾る部屋。壁・床・棚に1つずつ飾れて、飾った作品はすべてのカテゴリの経験値を増やす。,🛏️,#7a86c2,拠点,,海,,4,,,,,,category,,,,,
+workshop,作業部屋,true,,🔧,#4f8a8a,拠点,,海,,6,,,,,,category,,O,,,部品と本体の組をLv1〜50 に均等（tier順）。部品2〜30分・本体2〜48時間、成功率は部品だけ50〜100%。Lv50まで連続で約146時間（排他レーン）

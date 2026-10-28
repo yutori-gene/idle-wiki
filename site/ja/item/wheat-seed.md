@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌾</span>小麦の栽培](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 1 | 30% | 0.3 | 0.6 |
+| [<span class="wiki-icon">🌾</span>小麦](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv10 | 1 | 30% | 0.18 | 0.045 |
 
 ### 購入
 
@@ -23,15 +23,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌾</span>小麦の栽培](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 1 | 80% |  |
+| [<span class="wiki-icon">🌾</span>小麦](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv10 | 1 | 80% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる（購入もできるようになる）。
 
-- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv1以上
+- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv10以上
 
-<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 種苗</div><div class="wiki-navbox-body"><a href="#/ja/item/carrot-seed"><span class="wiki-icon">🥕</span>ニンジンの種</a> ・ <a href="#/ja/item/pumpkin-seed"><span class="wiki-icon">🎃</span>カボチャの種</a> ・ <a href="#/ja/item/wheat-seed"><span class="wiki-icon">🌾</span>小麦の種</a> ・ <a href="#/ja/item/garlic-bulb"><span class="wiki-icon">🧄</span>ニンニクの種球</a> ・ <a href="#/ja/item/lettuce-seed"><span class="wiki-icon">🥬</span>サラダ菜の種</a> ・ <a href="#/ja/item/banana-seedling"><span class="wiki-icon">🌱</span>バナナの苗</a> ・ <a href="#/ja/item/apple-seedling"><span class="wiki-icon">🌱</span>リンゴの苗</a> ・ <a href="#/ja/item/herb-seed"><span class="wiki-icon">🌿</span>薬草の種</a> ・ <a href="#/ja/item/honey-hive"><span class="wiki-icon">🍯</span>蜂蜜の巣箱</a> ・ <a href="#/ja/item/axolotl-egg"><span class="wiki-icon">🥚</span>ウーパールーパーの卵</a> ・ <a href="#/ja/item/hemp-seed"><span class="wiki-icon">🌿</span>大麻の種</a> ・ <a href="#/ja/item/potato-seed-tuber"><span class="wiki-icon">🥔</span>ジャガイモの種芋</a> ・ <a href="#/ja/item/truffle-bed"><span class="wiki-icon">🍄</span>トリュフの菌床</a> ・ <a href="#/ja/item/chili-seed"><span class="wiki-icon">🌶️</span>とうがらしの種</a> ・ <a href="#/ja/item/poison-herb-seed"><span class="wiki-icon">☠️</span>毒草の種</a> ・ <a href="#/ja/item/aromatic-herb-seed"><span class="wiki-icon">🌿</span>香草の種</a> ・ <a href="#/ja/item/world-tree-seed"><span class="wiki-icon">🌳</span>世界樹の種</a></div></div>
+<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 種苗</div><div class="wiki-navbox-body"><a href="#/ja/item/wheat-seed"><span class="wiki-icon">🌾</span>小麦の種</a> ・ <a href="#/ja/item/lettuce-seed"><span class="wiki-icon">🥬</span>サラダ菜の種</a> ・ <a href="#/ja/item/banana-seedling"><span class="wiki-icon">🌱</span>バナナの苗</a> ・ <a href="#/ja/item/apple-seedling"><span class="wiki-icon">🌱</span>リンゴの苗</a> ・ <a href="#/ja/item/herb-seed"><span class="wiki-icon">🌿</span>薬草の種</a> ・ <a href="#/ja/item/honey-hive"><span class="wiki-icon">🍯</span>蜂蜜の巣箱</a> ・ <a href="#/ja/item/axolotl-egg"><span class="wiki-icon">🥚</span>ウーパールーパーの卵</a> ・ <a href="#/ja/item/hemp-seed"><span class="wiki-icon">🌿</span>大麻の種</a> ・ <a href="#/ja/item/truffle-bed"><span class="wiki-icon">🍄</span>トリュフの菌床</a> ・ <a href="#/ja/item/chili-seed"><span class="wiki-icon">🌶️</span>とうがらしの種</a> ・ <a href="#/ja/item/poison-herb-seed"><span class="wiki-icon">☠️</span>毒草の種</a> ・ <a href="#/ja/item/aromatic-herb-seed"><span class="wiki-icon">🌿</span>香草の種</a> ・ <a href="#/ja/item/world-tree-seed"><span class="wiki-icon">🌳</span>世界樹の種</a></div></div>
 
 ## 開発者向け情報
 
@@ -46,6 +46,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 0 |
@@ -75,11 +76,12 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",
 			"id": "greenhouse",
-			"count": 1,
+			"count": 10,
 			"chance": 1,
 			"equipment": false
 		}

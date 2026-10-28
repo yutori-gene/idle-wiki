@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🤖</span>暴走ロボット](/ja/action/rampaging-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 10 | 100% | 5 | 0.098 |
+| [<span class="wiki-icon">🤖</span>暴走ロボット](/ja/action/rampaging-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 1 | 5.28% | 0.026 | 0.098 |
 
 ## 解放条件
 
@@ -34,6 +34,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 0 |
@@ -63,6 +64,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

@@ -11,10 +11,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 1 | 2.07% | 0.01 | 0.081 |
-| [<span class="wiki-icon">🐙</span>クトゥルフ](/ja/action/cthulhu) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 | 1 | 2.07% | 0.01 | 0 |
-| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 2.07% | 0.01 | 0.003 |
-| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 1 | 10.4% | 0.052 | 0.001 |
+| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 1 | 0.062% | 0 | 0.081 |
+| [<span class="wiki-icon">🐙</span>クトゥルフ](/ja/action/cthulhu) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 | 1 | 0.03% | 0 | 0 |
+| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 0.021% | 0 | 0.003 |
+| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 1 | 0.035% | 0 | 0.001 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><span class="wiki-icon">🗑️</span>ごみ</a> を参照</div></div>
 
@@ -31,6 +31,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 4 |
@@ -60,6 +61,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

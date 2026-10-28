@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 3 | 76.8% | 1.2 | 0.135 |
+| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 1 | 1.31% | 0.007 | 0.136 |
 
 ### イベント
 
@@ -34,6 +34,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 5 |
 | CSV `rare` | 1 |
@@ -63,6 +64,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

@@ -29,17 +29,17 @@
 | [<span class="wiki-icon">🗑️</span>ゴミ箱あさり](/ja/action/rummage-trash-can) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv5 | 30秒 | 50% | 1,080 |
 | [<span class="wiki-icon">🏚️</span>取り壊し前の廃ビル](/ja/action/condemned-building) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 1時間30分 | 100% | 1,029 |
 | [<span class="wiki-icon">🕳️</span>地下水路の噂](/ja/action/sewer-rumor) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv12 | 1時間30分 | 100% | 1,029 |
-| [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 3分 | 50% | 23 |
-| [<span class="wiki-icon">🗡️</span>山賊](/ja/action/bandit) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🧙</span>シャーマン](/ja/action/shaman) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv15 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv15 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv16 | 3分 | 50% | 85 |
-| [<span class="wiki-icon">🧟</span>ゾンビ](/ja/action/zombie) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 3分 | 50% | 85 |
-| [<span class="wiki-icon">🤠</span>賞金稼ぎ](/ja/action/bounty-hunter) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 3分 | 50% | 79 |
-| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 3分 | 50% | 79 |
+| [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 3.2秒 | 50% | 23 |
+| [<span class="wiki-icon">🗡️</span>山賊](/ja/action/bandit) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 1.9秒 | 50% | 79 |
+| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 1.6秒 | 50% | 79 |
+| [<span class="wiki-icon">🧙</span>シャーマン](/ja/action/shaman) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv15 | 2.1秒 | 50% | 79 |
+| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv15 | 2秒 | 50% | 79 |
+| [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv16 | 1.1秒 | 50% | 85 |
+| [<span class="wiki-icon">🧟</span>ゾンビ](/ja/action/zombie) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 2.4秒 | 50% | 79 |
+| [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 2.1秒 | 50% | 79 |
+| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 1秒 | 50% | 85 |
+| [<span class="wiki-icon">🤠</span>賞金稼ぎ](/ja/action/bounty-hunter) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 1.8秒 | 50% | 79 |
+| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 1.5秒 | 50% | 79 |
 | [<span class="wiki-icon">🕵️</span>裏通りの情報屋](/ja/action/backstreet-informant) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv30 | 1時間30分 | 100% | 1,029 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
@@ -52,7 +52,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">📰</span>時事知識](/ja/item/current-affairs) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -62,6 +62,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |

@@ -13,8 +13,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">⛏️</span>埋もれた鉱夫町](/ja/action/buried-miner-town) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv5 | 2 | 25.9% | 0.259 | 13.3 |
 | [<span class="wiki-icon">⛏️</span>鍾乳洞の鉱石掘り](/ja/action/limestone-cave-ore-digging) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv11 | 2 | 25.9% | 0.259 | 13.3 |
-| [<span class="wiki-icon">🗿</span>黒曜石のガーゴイル](/ja/action/obsidian-gargoyle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 | 2 | 57.6% | 0.576 | 0 |
-| [<span class="wiki-icon">🪲</span>灼熱の甲虫](/ja/action/scorching-beetle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 | 2 | 57.6% | 0.576 | 0 |
+| [<span class="wiki-icon">🗿</span>黒曜石のガーゴイル](/ja/action/obsidian-gargoyle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 | 1 | 0.878% | 0.004 | 0 |
+| [<span class="wiki-icon">🪲</span>灼熱の甲虫](/ja/action/scorching-beetle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 | 1 | 0.713% | 0.004 | 0 |
 | [<span class="wiki-icon">🌋</span>古代の溶岩洞](/ja/action/ancient-lava-tube) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv8 | 2 | 41.8% | 0.836 | 0.239 |
 
 ## 用途
@@ -41,6 +41,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 2 |
@@ -70,6 +71,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

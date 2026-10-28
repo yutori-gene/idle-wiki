@@ -1,6 +1,6 @@
 # 巨神兵
 
-<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">巨神兵</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗿</span></div><table><tr><th>場所</th><td><a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv27</td></tr><tr><th>所要時間</th><td>5分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>172</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">巨神兵</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗿</span></div><table><tr><th>場所</th><td><a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv27</td></tr><tr><th>所要時間</th><td>3.4秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.94</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 世界を滅ぼした最終兵器。こう見えて実はマザコン。
 
@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv27以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) ×1（消費する）
+- [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) ×1（1.13%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,9 +18,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×3 | 成功時 | 76.8% | 1.2 | 0.02 |
-| [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) ×1 | 成功時 | 18.7% | 0.094 | 0.002 |
-| [<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) ×1 | 成功時 | 8.64% | 0.043 | 0.001 |
+| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×1 | 成功時 | 2.61% | 0.013 | 0.02 |
+| [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) ×1 | 成功時 | 0.212% | 0.001 | 0.002 |
+| [<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) ×1 | 成功時 | 0.098% | 0 | 0.001 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,9 +41,9 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv27） | 0.189% | 10.3% | 75% | 23.1% | 22% | 706.7 | 5,611.4% | 2日10時間 | 負ける見込みが高い |
-| +10（Lv37） | 0.283% | 8.44% | 81.8% | 26.9% | 29.7% | 432.7 | 2,666.5% | 1日5時間 | 負ける見込みが高い |
-| +20（Lv47） | 0.425% | 6.89% | 87.1% | 31.1% | 38.8% | 271 | 1,285.6% | 15時間6分 | 負ける見込みが高い |
+| ±0（Lv27） | 0.189% | 10.3% | 75% | 23.1% | 22% | 706.7 | 5,611.4% | 40分6秒 | 負ける見込みが高い |
+| +10（Lv37） | 0.283% | 8.44% | 81.8% | 26.9% | 29.7% | 432.7 | 2,666.5% | 20分4秒 | 負ける見込みが高い |
+| +20（Lv47） | 0.425% | 6.89% | 87.1% | 31.1% | 38.8% | 271 | 1,285.6% | 10分16秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -51,9 +51,9 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv27） | 5分 | 50% | 172 | 0 | 1 |
-| +10（Lv37） | 4分5秒 | 60% | 114.67 | 0 | 2 |
-| +20（Lv47） | 3分20秒 | 69.2% | 76.44 | 0.1 | 4 |
+| ±0（Lv27） | 3.4秒 | 50% | 1.94 | 1.5 | 1 |
+| +10（Lv37） | 2.8秒 | 60% | 1.29 | 3 | 2 |
+| +20（Lv47） | 2.3秒 | 69.2% | 0.86 | 5.8 | 3 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -77,8 +77,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `27` |
-| `experience` | `172` |
-| `seconds` | `300` |
+| `experience` | `1.94` |
+| `seconds` | `3.4` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -107,8 +107,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 27,
-	"experience": 172,
-	"seconds": 300,
+	"experience": 1.94,
+	"seconds": 3.4,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -116,7 +116,7 @@
 			"type": "item",
 			"id": "secret-stone",
 			"count": 1,
-			"chance": 1,
+			"chance": 0.0113,
 			"equipment": false
 		}
 	],
@@ -124,20 +124,20 @@
 		{
 			"type": "item",
 			"id": "big-bone",
-			"count": 3,
-			"chance": 0.768
+			"count": 1,
+			"chance": 0.0261
 		},
 		{
 			"type": "item",
 			"id": "rotten-meat",
 			"count": 1,
-			"chance": 0.187
+			"chance": 0.00212
 		},
 		{
 			"type": "item",
 			"id": "six-finger-glove",
 			"count": 1,
-			"chance": 0.0864
+			"chance": 0.000979
 		}
 	],
 	"progressType": "stamina",

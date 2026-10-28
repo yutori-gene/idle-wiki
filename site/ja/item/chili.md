@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌶️</span>とうがらしの栽培](/ja/action/grow-chili) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv12 | 3 | 100% | 3 | 6 |
+| [<span class="wiki-icon">🌶️</span>とうがらし](/ja/action/grow-chili) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv41 | 360 | 100% | 216 | 6 |
 
 ## 用途
 
@@ -19,11 +19,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 3 | 100% |  |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 1 | 100% |  |
-| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
-| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
-| [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv12 | 1 | 100% |  |
+| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv32 | 13 | 100% |  |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv35 | 5 | 100% |  |
+| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv43 | 3 | 100% |  |
+| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv45 | 8 | 100% |  |
+| [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv26 | 1 | 100% |  |
 
 ### 条件にしているもの
 
@@ -46,6 +46,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 1 |
@@ -75,6 +76,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

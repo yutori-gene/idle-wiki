@@ -12,6 +12,8 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備必須 | 全カテゴリ | +3 |  |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備必須 | 全カテゴリ |  | +4 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備必須 | 全カテゴリ | +2 |  |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | [<span class="wiki-icon">🪱</span>畑の恵み](/ja/group/field-blessing) | 消費装備 | 全カテゴリ | +3 |  |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) | [<span class="wiki-icon">🪱</span>畑の恵み](/ja/group/field-blessing) | 消費装備 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) |  |  |  |  |  |  | +3 |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |

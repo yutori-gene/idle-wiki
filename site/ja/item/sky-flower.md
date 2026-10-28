@@ -1,6 +1,6 @@
 # 天空の花
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">天空の花</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌸</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>10 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">天空の花</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌸</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>10 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 地上では咲かない神秘の花。
 
@@ -19,11 +19,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 3 | 100% |  |
-| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv20 | 1 | 100% |  |
-| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 3 | 100% |  |
-| [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv20 | 3 | 100% |  |
-| [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv20 | 2 | 100% |  |
+| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 3 | 0.317% |  |
+| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv50 | 11 | 100% |  |
+| [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv40 | 15 | 100% |  |
+| [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv42 | 4 | 100% |  |
 
 ### 条件にしているもの
 
@@ -37,7 +37,7 @@
 
 - [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) Lv19以上
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">70件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -52,6 +52,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
 | CSV `rare` | 0 |
@@ -81,6 +82,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

@@ -26,21 +26,21 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🌰</span>木の実採り](/ja/action/gather-nuts) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 20秒 | 50% | 1,080 |
 | [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 20秒 | 50% | 1,080 |
-| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 2分 | 50% | 29 |
+| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 1.8秒 | 50% | 114 |
+| [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 2.7秒 | 50% | 29 |
 | [<span class="wiki-icon">⛩️</span>古い祠の調査](/ja/action/investigate-old-shrine) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 1時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐰</span>ラビットガール](/ja/action/rabbit-girl) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 2分 | 50% | 103 |
-| [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv10 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">👺</span>ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 103 |
-| [<span class="wiki-icon">🧙</span>ドルイド](/ja/action/druid) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2分 | 50% | 89 |
+| [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 2.3秒 | 50% | 114 |
+| [<span class="wiki-icon">🐰</span>ラビットガール](/ja/action/rabbit-girl) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1.1秒 | 50% | 103 |
+| [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv10 | 1.9秒 | 50% | 115 |
+| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.9秒 | 50% | 115 |
+| [<span class="wiki-icon">👺</span>ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.3秒 | 50% | 103 |
+| [<span class="wiki-icon">🧙</span>ドルイド](/ja/action/druid) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2.1秒 | 50% | 114 |
+| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2.2秒 | 50% | 115 |
+| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2.2秒 | 50% | 115 |
+| [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2.3秒 | 50% | 114 |
+| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 1.7秒 | 50% | 114 |
+| [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 1.6秒 | 50% | 114 |
+| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2.4秒 | 50% | 88 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
 
@@ -52,7 +52,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🎯</span>集中力](/ja/item/concentration) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -62,6 +62,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |

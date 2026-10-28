@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv40 | 7 | 80% | 2.8 | 0.001 |
+| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv40 | 1 | 2.68% | 0.013 | 0.001 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">45件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 
@@ -28,6 +28,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 8 |
 | CSV `rare` | 0 |
@@ -57,6 +58,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

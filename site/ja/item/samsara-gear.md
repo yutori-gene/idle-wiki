@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv18 | 1 | 21.5% | 0.215 | 1.4 |
-| [<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv20 | 1 | 21.5% | 0.215 | 1.3 |
+| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv41 | 2 | 21.5% | 0.237 | 1.4 |
+| [<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv50 | 1 | 21.5% | 0.151 | 0.301 |
 
 ## 用途
 
@@ -38,6 +38,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
 | CSV `rare` | 8 |
@@ -67,6 +68,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

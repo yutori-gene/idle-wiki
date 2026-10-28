@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 22.5% | 0.113 | 0 |
+| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 0.071% | 0 | 0 |
 
 ### イベント
 
@@ -25,7 +25,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv46 | 1 | 100% |  |
+| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv46 | 1 | 0.463% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">45件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 
@@ -42,6 +42,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 9 |
 | CSV `rare` | 3 |
@@ -71,6 +72,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

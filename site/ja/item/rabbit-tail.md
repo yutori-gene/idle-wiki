@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv41 | 1 | 27% | 0.135 | 0.004 |
+| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv41 | 1 | 0.056% | 0 | 0.004 |
 
 <div class="wiki-navbox" style="--accent:#2f3f52"><div class="wiki-navbox-title">グループ: 脚部装備</div><div class="wiki-navbox-body"><a href="#/ja/item/smelly-socks"><span class="wiki-icon">🧦</span>臭う靴下</a> ・ <a href="#/ja/item/slippers"><span class="wiki-icon">🩴</span>スリッパ</a> ・ <a href="#/ja/item/wooden-clogs"><span class="wiki-icon">👞</span>木靴</a> ・ <a href="#/ja/item/leg-warmer"><span class="wiki-icon">🧦</span>レッグウォーマー</a> ・ <a href="#/ja/item/cowboy-boots"><span class="wiki-icon">🥾</span>カウボーイブーツ</a> ・ <a href="#/ja/item/safety-shoes"><span class="wiki-icon">👞</span>安全靴</a> ・ <a href="#/ja/item/swim-ring"><span class="wiki-icon">🏊</span>浮き輪</a> ・ <a href="#/ja/item/squeaky-shoes"><span class="wiki-icon">👟</span>音が鳴る靴</a> ・ <a href="#/ja/item/ice-skate"><span class="wiki-icon">⛸️</span>アイススケート</a> ・ <a href="#/ja/item/silk-leggings"><span class="wiki-icon">🧦</span>絹の足袷</a> ・ <a href="#/ja/item/leather-boots"><span class="wiki-icon">🥾</span>革のブーツ</a> ・ <a href="#/ja/item/iron-greaves"><span class="wiki-icon">🦵</span>鉄の脇当て</a> ・ <a href="#/ja/item/high-heels"><span class="wiki-icon">👠</span>ハイヒール</a> ・ <a href="#/ja/item/kick-boost-shoes"><span class="wiki-icon">👟</span>キック力増強シューズ</a> ・ <a href="#/ja/item/glass-slipper"><span class="wiki-icon">👠</span>ガラスの靴</a> ・ <a href="#/ja/item/rabbit-tail"><span class="wiki-icon">🐇</span>ウサギ尻尾</a> ・ <a href="#/ja/item/odm-boots"><span class="wiki-icon">🥾</span>立体機動ブーツ</a> ・ <a href="#/ja/item/winged-shoes"><span class="wiki-icon">👟</span>羽のついた靴</a> ・ <a href="#/ja/item/warp-star"><span class="wiki-icon">⭐</span>ワープスター</a></div></div>
 
@@ -36,6 +36,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 8 |
 | CSV `rare` | 4 |
@@ -65,6 +66,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

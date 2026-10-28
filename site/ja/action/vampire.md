@@ -1,6 +1,6 @@
 # バンパイヤ
 
-<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">バンパイヤ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧛</span></div><table><tr><th>場所</th><td><a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv44</td></tr><tr><th>所要時間</th><td>9分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>309</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">バンパイヤ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧛</span></div><table><tr><th>場所</th><td><a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv44</td></tr><tr><th>所要時間</th><td>1.6秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.91</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 棺から起き出す夜の貴族。血の匂いには抗えない。
 
@@ -10,8 +10,8 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv44以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) ×1（消費する）
-- [<span class="wiki-icon">🍴</span>銀の食器](/ja/item/silver-tableware) ×1（消費する）
+- [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) ×1（0.296%で消費）
+- [<span class="wiki-icon">🍴</span>銀の食器](/ja/item/silver-tableware) ×1（0.296%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,9 +19,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🩸</span>血の滴](/ja/item/blood-drop) ×7 | 成功時 | 80% | 2.8 | 0.031 |
-| [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) ×3 | 成功時 | 76.8% | 1.2 | 0.013 |
-| [<span class="wiki-icon">⚰️</span>吸血鬼の棺](/ja/item/vampire-coffin) ×1 | 成功時 | 30.2% | 0.151 | 0.002 |
+| [<span class="wiki-icon">🩸</span>血の滴](/ja/item/blood-drop) ×1 | 成功時 | 1.66% | 0.008 | 0.031 |
+| [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) ×1 | 成功時 | 0.683% | 0.003 | 0.013 |
+| [<span class="wiki-icon">⚰️</span>吸血鬼の棺](/ja/item/vampire-coffin) ×1 | 成功時 | 0.09% | 0 | 0.002 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -42,7 +42,7 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv44） | 0.261% | 300% | 63.9% | 24.2% | 21.3% | 599.3 | 136,188.6% | 3日18時間 | 負ける見込みが高い |
+| ±0（Lv44） | 0.261% | 300% | 63.9% | 24.2% | 21.3% | 599.3 | 136,188.6% | 16分 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -50,7 +50,7 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv44） | 9分 | 50% | 309 | 0 | 2 |
+| ±0（Lv44） | 1.6秒 | 50% | 0.91 | 3.7 | 2 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -74,8 +74,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `44` |
-| `experience` | `309` |
-| `seconds` | `540` |
+| `experience` | `0.914` |
+| `seconds` | `1.6` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -104,8 +104,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 44,
-	"experience": 309,
-	"seconds": 540,
+	"experience": 0.914,
+	"seconds": 1.6,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -113,14 +113,14 @@
 			"type": "item",
 			"id": "garlic",
 			"count": 1,
-			"chance": 1,
+			"chance": 0.00296,
 			"equipment": false
 		},
 		{
 			"type": "item",
 			"id": "silver-tableware",
 			"count": 1,
-			"chance": 1,
+			"chance": 0.00296,
 			"equipment": false
 		}
 	],
@@ -128,20 +128,20 @@
 		{
 			"type": "item",
 			"id": "blood-drop",
-			"count": 7,
-			"chance": 0.8
+			"count": 1,
+			"chance": 0.0166
 		},
 		{
 			"type": "item",
 			"id": "fang",
-			"count": 3,
-			"chance": 0.768
+			"count": 1,
+			"chance": 0.00683
 		},
 		{
 			"type": "item",
 			"id": "vampire-coffin",
 			"count": 1,
-			"chance": 0.302
+			"chance": 0.000895
 		}
 	],
 	"progressType": "stamina",

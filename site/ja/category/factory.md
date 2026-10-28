@@ -29,17 +29,17 @@
 | [<span class="wiki-icon">🔩</span>廃材拾い](/ja/action/scrap-gathering) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv5 | 1分 | 50% | 1,050 |
 | [<span class="wiki-icon">🖥️</span>中央制御室](/ja/action/central-control-room) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 3時間 | 100% | 1,029 |
 | [<span class="wiki-icon">🏢</span>封鎖された研究棟](/ja/action/sealed-research-wing) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv12 | 3時間 | 100% | 1,029 |
-| [<span class="wiki-icon">💣</span>ボム](/ja/action/bomb) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 6分 | 50% | 10 |
-| [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 6分 | 50% | 1 |
-| [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 6分 | 50% | 2 |
-| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv29 | 6分 | 50% | 2 |
-| [<span class="wiki-icon">🚜</span>無人フォークリフト](/ja/action/unmanned-forklift) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv30 | 6分 | 50% | 1 |
+| [<span class="wiki-icon">💣</span>ボム](/ja/action/bomb) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 1.8秒 | 50% | 10 |
+| [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 3.1秒 | 50% | 1 |
+| [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 2.4秒 | 50% | 2 |
+| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv29 | 2.5秒 | 50% | 2 |
+| [<span class="wiki-icon">🚜</span>無人フォークリフト](/ja/action/unmanned-forklift) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv30 | 2.8秒 | 50% | 1 |
 | [<span class="wiki-icon">☣️</span>汚染区画の調査](/ja/action/contaminated-zone-survey) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv30 | 3時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv31 | 6分 | 50% | 10 |
-| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv31 | 6分 | 50% | 10 |
-| [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 6分 | 50% | 2 |
-| [<span class="wiki-icon">🤖</span>暴走ロボット](/ja/action/rampaging-robot) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 6分 | 50% | 2 |
-| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 6分 | 50% | 2 |
+| [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv31 | 1.2秒 | 50% | 10 |
+| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv31 | 1.3秒 | 50% | 10 |
+| [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2秒 | 50% | 2 |
+| [<span class="wiki-icon">🤖</span>暴走ロボット](/ja/action/rampaging-robot) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 1.9秒 | 50% | 2 |
+| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2.5秒 | 50% | 2 |
 | [<span class="wiki-icon">☣️</span>地下廃棄プラント](/ja/action/underground-disposal-plant) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv40 | 3時間 | 100% | 1,029 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
@@ -52,7 +52,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🧮</span>計算力](/ja/item/calculation) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -62,6 +62,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |

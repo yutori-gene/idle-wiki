@@ -20,8 +20,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧹</span>清掃活動](/ja/action/cleanup-activity) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv3 | 7 | 16% | 0.56 | 202 |
-| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 10 | 100% | 5 | 29 |
-| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 7 | 100% | 3.5 | 0.148 |
+| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 1 | 36.7% | 0.184 | 29.1 |
+| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 10.2% | 0.051 | 0.147 |
 
 ## 用途
 
@@ -29,7 +29,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 1 | 100% |  |
+| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 1 | 3.67% |  |
 
 ### 条件にしているもの
 
@@ -58,6 +58,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 2 |
@@ -87,6 +88,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

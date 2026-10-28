@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 0.597% | 0.003 | 0.001 |
+| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 0.006% | 0 | 0.001 |
 
 ## 用途
 
@@ -44,6 +44,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `unnecessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 6 |
@@ -73,6 +74,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "unnecessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

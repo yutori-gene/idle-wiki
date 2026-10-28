@@ -1,6 +1,6 @@
 # ルナを月に連れていく
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">ルナを月に連れていく</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌙</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv18</td></tr><tr><th>所要時間</th><td>4時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>4,115</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">ルナを月に連れていく</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌙</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv42</td></tr><tr><th>所要時間</th><td>11時間</td></tr><tr><th>成功率</th><td>85%</td></tr><tr><th>経験値</th><td>1,179</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 月まで送り届けて、こぼれた欠片を持ち帰る。
 
@@ -9,9 +9,9 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv18以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv42以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🌙</span>ルナ](/ja/item/luna) ×1（消費しない）
-- [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) ×1（消費する）
+- [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) ×3（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,18 +19,15 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⭐</span>星のカケラ](/ja/item/star-piece) ×1 | 成功時 | 100% | 1 | 0.25 |
+| [<span class="wiki-icon">⭐</span>星のカケラ](/ja/item/star-piece) ×3 | 成功時 | 100% | 2.6 | 0.232 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 85%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv18） | 4時間 | 100% | 4,115 | 0.3 | 1,029 |
-| +10（Lv28） | 3時間15分 | 100% | 2,743.33 | 0.3 | 840 |
-| +20（Lv38） | 2時間40分 | 100% | 1,828.89 | 0.4 | 686 |
-| +30（Lv48） | 2時間10分 | 100% | 1,219.26 | 0.5 | 560 |
+| ±0（Lv42） | 11時間 | 85% | 1,179 | 0.1 | 91 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -53,10 +50,10 @@
 | `attribute` | （空） |
 | `group` | `pet` |
 | `unlocked` | `hidden` |
-| `level` | `18` |
-| `experience` | `4115` |
-| `seconds` | `14400` |
-| `chance` | `1` |
+| `level` | `42` |
+| `experience` | `1179` |
+| `seconds` | `39600` |
+| `chance` | `0.85` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 8 |
@@ -82,10 +79,10 @@
 	"attribute": "",
 	"group": "pet",
 	"unlocked": "hidden",
-	"level": 18,
-	"experience": 4115,
-	"seconds": 14400,
-	"chance": 1,
+	"level": 42,
+	"experience": 1179,
+	"seconds": 39600,
+	"chance": 0.85,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -98,7 +95,7 @@
 		{
 			"type": "item",
 			"id": "honey",
-			"count": 1,
+			"count": 3,
 			"chance": 1,
 			"equipment": false
 		}
@@ -107,7 +104,7 @@
 		{
 			"type": "item",
 			"id": "star-piece",
-			"count": 1,
+			"count": 3,
 			"chance": 1
 		}
 	],

@@ -1,6 +1,6 @@
 # オウム返しするオウムと話す
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">オウム返しするオウムと話す</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦜</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>2時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>2,058</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">オウム返しするオウムと話す</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦜</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv23</td></tr><tr><th>所要時間</th><td>1時間30分</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>274</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > こちらの言葉しか返さないが、街で聞いた噂も混ざる。小銭になる。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv8以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv23以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) ×1（消費しない）
 - [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) ×1（消費する）
 
@@ -19,19 +19,18 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×2 | 成功時 | 100% | 2 | 1 |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×3 | 成功時 | 100% | 3 | 1.5 |
+| [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×3 | 成功時 | 100% | 1.5 | 1 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×5 | 成功時 | 100% | 2.5 | 1.7 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv8） | 2時間 | 100% | 2,058 | 0.5 | 1,029 |
-| +10（Lv18） | 1時間37分 | 100% | 1,372 | 0.6 | 840 |
-| +20（Lv28） | 1時間20分 | 100% | 914.67 | 0.8 | 686 |
-| +30（Lv38） | 1時間5分 | 100% | 609.78 | 0.9 | 560 |
+| ±0（Lv23） | 1時間30分 | 50% | 274 | 0.7 | 91 |
+| +10（Lv33） | 1時間13分 | 60% | 182.67 | 0.8 | 89 |
+| +20（Lv43） | 1時間 | 69.2% | 121.78 | 1 | 84 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -39,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 8 | 1 | 7 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 8 | 1 | 6 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -54,10 +53,10 @@
 | `attribute` | （空） |
 | `group` | `pet` |
 | `unlocked` | `hidden` |
-| `level` | `8` |
-| `experience` | `2058` |
-| `seconds` | `7200` |
-| `chance` | `1` |
+| `level` | `23` |
+| `experience` | `274` |
+| `seconds` | `5400` |
+| `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 4 |
@@ -83,10 +82,10 @@
 	"attribute": "",
 	"group": "pet",
 	"unlocked": "hidden",
-	"level": 8,
-	"experience": 2058,
-	"seconds": 7200,
-	"chance": 1,
+	"level": 23,
+	"experience": 274,
+	"seconds": 5400,
+	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -108,13 +107,13 @@
 		{
 			"type": "item",
 			"id": "feather",
-			"count": 2,
+			"count": 3,
 			"chance": 1
 		},
 		{
 			"type": "item",
 			"id": "coin",
-			"count": 3,
+			"count": 5,
 			"chance": 1
 		}
 	],

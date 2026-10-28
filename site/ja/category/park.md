@@ -22,12 +22,12 @@
 | [<span class="wiki-icon">🍂</span>落ち葉拾い](/ja/action/gather-fallen-leaves) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 10秒 | 50% | 1,080 |
 | [<span class="wiki-icon">🧹</span>清掃活動](/ja/action/cleanup-activity) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 10秒 | 50% | 1,080 |
 | [<span class="wiki-icon">🏖️</span>砂場掘り](/ja/action/dig-sandbox) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv5 | 10秒 | 50% | 1,080 |
-| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1分 | 50% | 137 |
-| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1分 | 50% | 102 |
-| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv6 | 1分 | 50% | 137 |
+| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1.8秒 | 50% | 134 |
+| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 2.2秒 | 50% | 100 |
+| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv6 | 1.7秒 | 50% | 134 |
 | [<span class="wiki-icon">🌷</span>花壇の手入れ](/ja/action/tend-flower-bed) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv7 | 10秒 | 50% | 1,080 |
-| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv7 | 1分 | 50% | 137 |
-| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv7 | 1分 | 50% | 137 |
+| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv7 | 1.8秒 | 50% | 134 |
+| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv7 | 2.4秒 | 50% | 134 |
 | [<span class="wiki-icon">🌳</span>茂みの奥](/ja/action/deep-in-the-bushes) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 30分 | 100% | 1,030 |
 | [<span class="wiki-icon">🌇</span>夕暮れの散歩道](/ja/action/twilight-promenade) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv12 | 30分 | 100% | 1,030 |
 | [<span class="wiki-icon">🪷</span>池のほとり](/ja/action/pond-side) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv14 | 10秒 | 50% | 1,080 |
@@ -43,7 +43,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">💭</span>想像力](/ja/item/imagination) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -53,6 +53,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |

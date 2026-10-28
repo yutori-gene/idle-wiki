@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 1 | 8.64% | 0.043 | 0.111 |
+| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 1 | 0.173% | 0.001 | 0.111 |
 | [<span class="wiki-icon">⛩️</span>古い祠の調査](/ja/action/investigate-old-shrine) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 1 | 17.3% | 0.173 | 0.173 |
 
 ### 購入
@@ -24,9 +24,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 2 | 100% |  |
-| [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv4 | 2 | 100% |  |
-| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv4 | 3 | 100% |  |
+| [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 2 | 1.17% |  |
+| [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv11 | 3 | 100% |  |
+| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv13 | 2 | 100% |  |
 | [<span class="wiki-icon">🪶</span>孔雀の羽を束ねる](/ja/action/bundle-peacock-feather) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv21 | 2 | 100% |  |
 
 ## 解放条件
@@ -50,6 +50,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 3 |
@@ -79,6 +80,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

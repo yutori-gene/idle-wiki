@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
+| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv40 | 2 | 100% |  |
 | [<span class="wiki-icon">🐟</span>冷凍マグロを分解する](/ja/action/disassemble-frozen-tuna) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv13 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
@@ -55,6 +55,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | `second-strike` |
 | CSV `tier` | 3 |
 | CSV `rare` | 1 |
@@ -84,6 +85,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 7 | 80% | 2.8 | 0.72 |
-| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 7 | 80% | 2.8 | 0 |
+| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 5.37% | 0.027 | 0.72 |
+| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 1.76% | 0.009 | 0 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><span class="wiki-icon">🗑️</span>ごみ</a> を参照</div></div>
 
@@ -29,6 +29,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 0 |
@@ -58,6 +59,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 | 1 | 22.5% | 0.113 | 0.001 |
+| [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 | 1 | 0.194% | 0.001 | 0.001 |
 | [<span class="wiki-icon">🏢</span>封鎖された研究棟](/ja/action/sealed-research-wing) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv12 | 1 | 10.4% | 0.104 | 0.035 |
 
 ## 用途
@@ -20,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 1 | 100% |  |
+| [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 1 | 0.556% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 加工品</div><div class="wiki-navbox-body"><a href="#/ja/item/weight-scale"><span class="wiki-icon">⚖️</span>体重計</a> ・ <a href="#/ja/item/cash-card"><span class="wiki-icon">💳</span>キャッシュカード</a> ・ <a href="#/ja/item/atm"><span class="wiki-icon">🏧</span>ATM</a> ・ <a href="#/ja/item/cultured-meat"><span class="wiki-icon">🥩</span>培養肉</a> ・ <a href="#/ja/item/soy-meat"><span class="wiki-icon">🥩</span>ソイミート</a> ・ <a href="#/ja/item/g-virus"><span class="wiki-icon">🧬</span>Gウイルス</a> ・ <a href="#/ja/item/arc-reactor"><span class="wiki-icon">🔵</span>アークリアクター</a></div></div>
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 3 |
@@ -67,6 +68,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

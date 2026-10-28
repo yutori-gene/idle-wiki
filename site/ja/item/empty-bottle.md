@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🏖️</span>漂着物回収](/ja/action/flotsam-collecting) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv1 | 1 | 21.6% | 0.108 | 9.7 |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 2 | 48% | 0.48 | 0 |
+| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 0.356% | 0.002 | 0 |
 
 ## 用途
 
@@ -20,12 +20,12 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv4 | 1 | 100% |  |
-| [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv4 | 1 | 100% |  |
-| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv4 | 1 | 100% |  |
-| [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv6 | 1 | 100% |  |
-| [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 1 | 100% |  |
-| [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv20 | 1 | 100% |  |
+| [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv11 | 2 | 100% |  |
+| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv13 | 1 | 100% |  |
+| [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv17 | 1 | 100% |  |
+| [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv19 | 2 | 100% |  |
+| [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv36 | 5 | 100% |  |
+| [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv42 | 2 | 100% |  |
 | [<span class="wiki-icon">✉️</span>ボトルメールを封じる](/ja/action/seal-message-in-a-bottle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv18 | 10 | 100% |  |
 | [<span class="wiki-icon">❄️</span>スノードームを作る](/ja/action/craft-snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv25 | 10 | 100% |  |
 
@@ -44,6 +44,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 1 |
@@ -74,6 +75,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

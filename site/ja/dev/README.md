@@ -8,9 +8,9 @@
 | --- | --- |
 | ワールド | ひだまりから天空へ（`sunlit-to-sky`） |
 | ワールドのバージョン | `0.0.1784` |
-| idle のコミット | `2f1ffe231356c596f8ee1b60c1ebdbf26abf8d7c`（claude/zen-dijkstra-zuk9bu） |
-| コミット日時 | 2026-10-21T16:19:19+00:00 |
-| 取り込み日時 | 2026-10-22T14:17:35.784Z |
+| idle のコミット | `0932eb8cf451d9b828dac891f88b4da38630638f`（claude/exciting-wozniak-72o9tj） |
+| コミット日時 | 2026-10-28T16:47:43+00:00 |
+| 取り込み日時 | 2026-10-28T16:51:39.724Z |
 
 ## ページ
 
@@ -22,4 +22,5 @@
 - [エンジンの懸念（fix.md）](/ja/dev/doc/fix)
 - [CSV から消したもの（csv-removed.md）](/ja/dev/doc/csv-removed)
 - [作業の現在地（session.md）](/ja/dev/doc/session)
+- [経過の記録（history.md）](/ja/dev/doc/history)
 - [生成時の警告](/ja/dev/warnings)

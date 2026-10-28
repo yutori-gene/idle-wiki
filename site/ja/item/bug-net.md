@@ -58,6 +58,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 4 |
@@ -87,6 +88,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

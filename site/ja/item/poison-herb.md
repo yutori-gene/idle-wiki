@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">☠️</span>毒草の栽培](/ja/action/grow-poison-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv16 | 3 | 100% | 3 | 6 |
+| [<span class="wiki-icon">☠️</span>毒草](/ja/action/grow-poison-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv44 | 169 | 100% | 144 | 6 |
 
 ## 用途
 
@@ -19,14 +19,14 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 3 | 100% |  |
-| [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 1 | 100% |  |
+| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv32 | 9 | 100% |  |
+| [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv36 | 5 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv16以上
+- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv40以上
 
 <div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 薬草</div><div class="wiki-navbox-body"><a href="#/ja/item/hemp"><span class="wiki-icon">🌿</span>大麻</a> ・ <a href="#/ja/item/herb"><span class="wiki-icon">🌿</span>薬草</a> ・ <a href="#/ja/item/chili"><span class="wiki-icon">🌶️</span>とうがらし</a> ・ <a href="#/ja/item/poison-herb"><span class="wiki-icon">☠️</span>毒草</a> ・ <a href="#/ja/item/aromatic-herb"><span class="wiki-icon">🌿</span>香草</a> ・ <a href="#/ja/item/world-tree-leaf"><span class="wiki-icon">🍃</span>世界樹の葉</a></div></div>
 
@@ -43,6 +43,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 8 |
 | CSV `rare` | 1 |
@@ -72,11 +73,12 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",
 			"id": "greenhouse",
-			"count": 16,
+			"count": 40,
 			"chance": 1,
 			"equipment": false
 		}

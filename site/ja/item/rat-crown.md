@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 17.3% | 0.087 | 0.133 |
+| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 0.144% | 0.001 | 0.133 |
 | [<span class="wiki-icon">🕵️</span>裏通りの情報屋](/ja/action/backstreet-informant) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv30 | 2 | 17.3% | 0.346 | 0.231 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
@@ -29,6 +29,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 3 |
@@ -58,6 +59,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

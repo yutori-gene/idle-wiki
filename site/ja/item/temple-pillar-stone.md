@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 4.98% | 0.025 | 0 |
+| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.027% | 0 | 0 |
 | [<span class="wiki-icon">☁️</span>雲上の遺跡](/ja/action/ruins-above-clouds) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv8 | 1 | 4.98% | 0.05 | 0.01 |
 
 ### イベント
@@ -66,6 +66,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
 | CSV `rare` | 5 |
@@ -95,6 +96,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

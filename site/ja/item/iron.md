@@ -17,20 +17,20 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>カイロの調合](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv4 | 2 | 100% |  |
+| [<span class="wiki-icon">🔥</span>カイロの調合](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 4 | 100% |  |
 | [<span class="wiki-icon">🕺</span>踊る銅像を作る](/ja/action/craft-dancing-statue) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv37 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 3 | 100% |  |
-| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 5 | 100% |  |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 5 | 100% |  |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv12 | 8 | 100% |  |
+| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 4 | 100% |  |
+| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 10 | 100% |  |
+| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 4 | 100% |  |
+| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 2 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる（購入もできるようになる）。
 
-- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv6以上
+- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv14以上
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -47,6 +47,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 2 |
@@ -76,11 +77,12 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",
 			"id": "basement",
-			"count": 6,
+			"count": 14,
 			"chance": 1,
 			"equipment": false
 		}

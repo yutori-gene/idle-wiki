@@ -1,6 +1,6 @@
 # 食材
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">食材</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥕</span></div><table><tr><th>使う種別</th><td>アクション・アイテム</td></tr><tr><th>アイテム</th><td>70種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">食材</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥕</span></div><table><tr><th>使う種別</th><td>アクション・アイテム</td></tr><tr><th>アイテム</th><td>69種</td></tr></table></div>
 
 
 ## アイテム
@@ -9,7 +9,6 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 1 |
 | [<span class="wiki-icon">🎃</span>カボチャ](/ja/item/pumpkin) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 1 |
 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 3 |
 | [<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 3 |

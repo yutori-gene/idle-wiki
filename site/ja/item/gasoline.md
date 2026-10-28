@@ -20,9 +20,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 8 | 100% |  |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 12 | 100% |  |
-| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 10 | 100% |  |
+| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 16 | 100% |  |
+| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 8 | 100% |  |
+| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv39 | 20 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -39,6 +39,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 1 |
@@ -68,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

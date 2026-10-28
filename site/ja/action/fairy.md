@@ -1,6 +1,6 @@
 # 妖精
 
-<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">妖精</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧚</span></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv40</td></tr><tr><th>所要時間</th><td>8分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>275</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">妖精</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧚</span></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv40</td></tr><tr><th>所要時間</th><td>1秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.57</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 自然の小さな使い手。
 
@@ -16,9 +16,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪶</span>ロウで固めた羽](/ja/item/wax-wing) ×7 | 成功時 | 80% | 2.8 | 0.082 |
-| [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) ×2 | 成功時 | 57.6% | 0.576 | 0.017 |
-| [<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) ×1 | 成功時 | 27% | 0.135 | 0.004 |
+| [<span class="wiki-icon">🪶</span>ロウで固めた羽](/ja/item/wax-wing) ×1 | 成功時 | 1.17% | 0.006 | 0.082 |
+| [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) ×1 | 成功時 | 0.24% | 0.001 | 0.017 |
+| [<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) ×1 | 成功時 | 0.056% | 0 | 0.004 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -39,8 +39,8 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv40） | 0.612% | 176.5% | 63.9% | 25% | 22% | 256.6 | 33,975.6% | 1日10時間 | 負ける見込みが高い |
-| +10（Lv50） | 0.918% | 144.1% | 72.7% | 29% | 29.7% | 150 | 15,356.8% | 16時間26分 | 負ける見込みが高い |
+| ±0（Lv40） | 0.612% | 176.5% | 63.9% | 25% | 22% | 256.6 | 33,975.6% | 4分18秒 | 負ける見込みが高い |
+| +10（Lv50） | 0.918% | 144.1% | 72.7% | 29% | 29.7% | 150 | 15,356.8% | 2分3秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -48,8 +48,8 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv40） | 8分 | 50% | 275 | 0 | 4 |
-| +10（Lv50） | 6分32秒 | 60% | 183.33 | 0.1 | 7 |
+| ±0（Lv40） | 1秒 | 50% | 0.57 | 14 | 4 |
+| +10（Lv50） | 0.8秒 | 60% | 0.38 | 29.2 | 7 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -73,8 +73,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `40` |
-| `experience` | `275` |
-| `seconds` | `480` |
+| `experience` | `0.571` |
+| `seconds` | `1` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -103,8 +103,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 40,
-	"experience": 275,
-	"seconds": 480,
+	"experience": 0.571,
+	"seconds": 1,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -120,20 +120,20 @@
 		{
 			"type": "item",
 			"id": "wax-wing",
-			"count": 7,
-			"chance": 0.8
+			"count": 1,
+			"chance": 0.0117
 		},
 		{
 			"type": "item",
 			"id": "king-oyster-mushroom",
-			"count": 2,
-			"chance": 0.576
+			"count": 1,
+			"chance": 0.0024
 		},
 		{
 			"type": "item",
 			"id": "wedding-veil",
 			"count": 1,
-			"chance": 0.27
+			"chance": 0.000563
 		}
 	],
 	"progressType": "stamina",

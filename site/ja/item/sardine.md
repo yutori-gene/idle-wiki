@@ -1,6 +1,6 @@
 # イワシ
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">イワシ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐟</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">イワシ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐟</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 群れで海を渡る小魚。
 
@@ -11,9 +11,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 2 | 48% | 0.48 | 0.54 |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 2 | 48% | 0.48 | 0.123 |
-| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 2 | 48% | 0.48 | 0.005 |
+| [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 0.68% | 0.003 | 0.54 |
+| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 0.92% | 0.005 | 0.123 |
+| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 1 | 0.178% | 0.001 | 0.005 |
 
 ## 用途
 
@@ -21,10 +21,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>軍用イワシ](/ja/action/make-military-sardine) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 3 | 100% |  |
-| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 2 | 100% |  |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 2 | 100% |  |
-| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
+| [<span class="wiki-icon">🐟</span>軍用イワシ](/ja/action/make-military-sardine) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv30 | 4 | 100% |  |
+| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 3 | 100% |  |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv29 | 8 | 100% |  |
+| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv40 | 2 | 100% |  |
 
 ### 条件にしているもの
 
@@ -32,7 +32,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🎣</span>漁師の手伝い](/ja/event/fisherman-help) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) ×2 |
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">70件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -47,6 +47,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 1 |
@@ -77,6 +78,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

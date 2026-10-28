@@ -23,6 +23,7 @@
 | [<span class="wiki-icon">🍔</span>ハンバーガー](/ja/item/hamburger) ×2 | 成功時 | 57.6% | 0.576 | 69.1 |
 | [<span class="wiki-icon">🍰</span>ケーキ](/ja/item/cake) ×2 | 成功時 | 57.6% | 0.576 | 69.1 |
 | [<span class="wiki-icon">🥛</span>牛乳](/ja/item/milk) ×2 | 成功時 | 48% | 0.48 | 57.6 |
+| [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/item/potato) ×1 | 成功時 | 33.6% | 0.168 | 20.2 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,7 +42,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 8,056 | 0 | 8,056 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 8,238 | 0 | 8,238 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -139,6 +140,12 @@
 			"id": "milk",
 			"count": 2,
 			"chance": 0.48
+		},
+		{
+			"type": "item",
+			"id": "potato",
+			"count": 1,
+			"chance": 0.336
 		}
 	],
 	"progressType": "persistent",

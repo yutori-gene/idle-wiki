@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv6 | 2 | 48% | 0.48 | 3.8 |
+| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv6 | 1 | 2.72% | 0.014 | 3.8 |
 
 ## 用途
 
@@ -44,6 +44,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 1 |
@@ -74,6 +75,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

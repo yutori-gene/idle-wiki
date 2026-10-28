@@ -1,6 +1,6 @@
 # 松明
 
-<div class="wiki-infobox" style="--accent:#2f3f52"><div class="wiki-infobox-title">松明</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/arm-armor"><span class="wiki-icon">🧤</span>腕部装備</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>45 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#2f3f52"><div class="wiki-infobox-title">松明</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/arm-armor"><span class="wiki-icon">🧤</span>腕部装備</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>45 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 暗闇を照らす古代の光。
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックス](/ja/action/phoenix) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv23 | 1 | 18.7% | 0.094 | 0.014 |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックス](/ja/action/phoenix) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv23 | 1 | 0.087% | 0 | 0.014 |
 
 ## 用途
 
@@ -27,8 +27,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 100% |  |
-| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 1 | 100% |  |
+| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 0.833% |  |
+| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 1 | 0.185% |  |
 | [<span class="wiki-icon">🔥</span>松明を分解する](/ja/action/disassemble-torch) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv27 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
@@ -52,6 +52,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 5 |
 | CSV `rare` | 2 |
@@ -81,6 +82,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

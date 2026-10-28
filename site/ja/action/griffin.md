@@ -1,6 +1,6 @@
 # グリフィン
 
-<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">グリフィン</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦅</span></div><table><tr><th>場所</th><td><a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv23</td></tr><tr><th>所要時間</th><td>5分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>172</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">グリフィン</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦅</span></div><table><tr><th>場所</th><td><a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv23</td></tr><tr><th>所要時間</th><td>1.5秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.86</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 空と地上の支配者。
 
@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv23以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) ×1（消費する）
+- [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) ×1（0.5%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,11 +18,11 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×10 | 成功時 | 100% | 5 | 0.725 |
-| [<span class="wiki-icon">🦊</span>銀狐の尾](/ja/item/silver-fox-tail) ×2 | 成功時 | 57.6% | 0.576 | 0.084 |
-| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×2 | 成功時 | 48% | 0.48 | 0.07 |
-| [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) ×1 | 成功時 | 8.64% | 0.043 | 0.006 |
-| [<span class="wiki-icon">🌌</span>オーロラの欠片](/ja/item/aurora-fragment) ×1 | 成功時 | 36.3% | 0.182 | 0.026 |
+| [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×1 | 成功時 | 5% | 0.025 | 0.725 |
+| [<span class="wiki-icon">🦊</span>銀狐の尾](/ja/item/silver-fox-tail) ×1 | 成功時 | 0.576% | 0.003 | 0.084 |
+| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×1 | 成功時 | 0.48% | 0.002 | 0.07 |
+| [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) ×1 | 成功時 | 0.043% | 0 | 0.006 |
+| [<span class="wiki-icon">🌌</span>オーロラの欠片](/ja/item/aurora-fragment) ×1 | 成功時 | 0.182% | 0.001 | 0.026 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -42,9 +42,9 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv23） | 1.9% | 14% | 64.8% | 25% | 22% | 81.7 | 858.5% | 6時間53分 | 負ける見込みが高い |
-| +10（Lv33） | 2.86% | 11.4% | 73.4% | 29% | 29.7% | 49 | 398% | 3時間24分 | 負ける見込みが高い |
-| +20（Lv43） | 4.28% | 9.34% | 80.6% | 33.3% | 38.8% | 29.8 | 185.4% | 1時間42分 | 負ける見込みが高い |
+| ±0（Lv23） | 1.9% | 14% | 64.8% | 25% | 22% | 81.7 | 858.5% | 2分4秒 | 負ける見込みが高い |
+| +10（Lv33） | 2.86% | 11.4% | 73.4% | 29% | 29.7% | 49 | 398% | 1分1秒 | 負ける見込みが高い |
+| +20（Lv43） | 4.28% | 9.34% | 80.6% | 33.3% | 38.8% | 29.8 | 185.4% | 30.8秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -52,9 +52,9 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv23） | 5分 | 50% | 172 | 0.1 | 12 |
-| +10（Lv33） | 4分5秒 | 60% | 114.67 | 0.3 | 20 |
-| +20（Lv43） | 3分20秒 | 69.2% | 76.44 | 0.6 | 31 |
+| ±0（Lv23） | 1.5秒 | 50% | 0.86 | 29 | 12 |
+| +10（Lv33） | 1.2秒 | 60% | 0.57 | 58.8 | 20 |
+| +20（Lv43） | 1秒 | 69.2% | 0.38 | 116.9 | 31 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -78,8 +78,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `23` |
-| `experience` | `172` |
-| `seconds` | `300` |
+| `experience` | `0.857` |
+| `seconds` | `1.5` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -108,8 +108,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 23,
-	"experience": 172,
-	"seconds": 300,
+	"experience": 0.857,
+	"seconds": 1.5,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -117,7 +117,7 @@
 			"type": "item",
 			"id": "raw-meat",
 			"count": 1,
-			"chance": 1,
+			"chance": 0.005,
 			"equipment": false
 		}
 	],
@@ -125,32 +125,32 @@
 		{
 			"type": "item",
 			"id": "feather",
-			"count": 10,
-			"chance": 1
+			"count": 1,
+			"chance": 0.05
 		},
 		{
 			"type": "item",
 			"id": "silver-fox-tail",
-			"count": 2,
-			"chance": 0.576
+			"count": 1,
+			"chance": 0.00576
 		},
 		{
 			"type": "item",
 			"id": "big-bone",
-			"count": 2,
-			"chance": 0.48
+			"count": 1,
+			"chance": 0.0048
 		},
 		{
 			"type": "item",
 			"id": "diamond",
 			"count": 1,
-			"chance": 0.0864
+			"chance": 0.000432
 		},
 		{
 			"type": "item",
 			"id": "aurora-fragment",
 			"count": 1,
-			"chance": 0.363
+			"chance": 0.00182
 		}
 	],
 	"progressType": "stamina",

@@ -1,6 +1,6 @@
 # ジョーンズを連れ出す
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">ジョーンズを連れ出す</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎩</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>2時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>2,058</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">ジョーンズを連れ出す</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎩</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv26</td></tr><tr><th>所要時間</th><td>4時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>365</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 鞭も帽子も無いが、掘り出す嗅覚だけは本物。
 
@@ -9,9 +9,9 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv8以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv26以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) ×1（消費しない）
-- [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) ×1（消費する）
+- [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) ×2（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,8 +19,8 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗺️</span>海賊の地図](/ja/item/pirate-map) ×1 | 成功時 | 100% | 1 | 0.5 |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×5 | 成功時 | 100% | 5 | 2.5 |
+| [<span class="wiki-icon">🗺️</span>海賊の地図](/ja/item/pirate-map) ×2 | 成功時 | 100% | 2 | 0.5 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×10 | 成功時 | 100% | 10 | 2.5 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -28,10 +28,9 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv8） | 2時間 | 100% | 2,058 | 0.5 | 1,029 |
-| +10（Lv18） | 1時間37分 | 100% | 1,372 | 0.6 | 840 |
-| +20（Lv28） | 1時間20分 | 100% | 914.67 | 0.8 | 686 |
-| +30（Lv38） | 1時間5分 | 100% | 609.78 | 0.9 | 560 |
+| ±0（Lv26） | 4時間 | 100% | 365 | 0.3 | 91 |
+| +10（Lv36） | 3時間15分 | 100% | 243.33 | 0.3 | 75 |
+| +20（Lv46） | 2時間40分 | 100% | 162.22 | 0.4 | 61 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -54,9 +53,9 @@
 | `attribute` | （空） |
 | `group` | `pet` |
 | `unlocked` | `hidden` |
-| `level` | `8` |
-| `experience` | `2058` |
-| `seconds` | `7200` |
+| `level` | `26` |
+| `experience` | `365` |
+| `seconds` | `14400` |
 | `chance` | `1` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
@@ -83,9 +82,9 @@
 	"attribute": "",
 	"group": "pet",
 	"unlocked": "hidden",
-	"level": 8,
-	"experience": 2058,
-	"seconds": 7200,
+	"level": 26,
+	"experience": 365,
+	"seconds": 14400,
 	"chance": 1,
 	"maximum": 0,
 	"requirements": [
@@ -99,7 +98,7 @@
 		{
 			"type": "item",
 			"id": "king-oyster-mushroom",
-			"count": 1,
+			"count": 2,
 			"chance": 1,
 			"equipment": false
 		}
@@ -108,13 +107,13 @@
 		{
 			"type": "item",
 			"id": "pirate-map",
-			"count": 1,
+			"count": 2,
 			"chance": 1
 		},
 		{
 			"type": "item",
 			"id": "coin",
-			"count": 5,
+			"count": 10,
 			"chance": 1
 		}
 	],

@@ -12,8 +12,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🏭</span>ベルトコンベア漁り](/ja/action/conveyor-scavenging) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv1 | 7 | 91% | 3.2 | 191 |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 7 | 80% | 2.8 | 0 |
-| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv13 | 3 | 100% | 3 | 1 |
+| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 2.07% | 0.01 | 0 |
+| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv31 | 8 | 100% | 6 | 1 |
 
 ## 用途
 
@@ -21,13 +21,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv12 | 1 | 100% |  |
+| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 1 | 100% |  |
 | [<span class="wiki-icon">🕰️</span>おじいさんの時計を直す](/ja/action/repair-grandfather-clock) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv44 | 25 | 100% |  |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 2 | 100% |  |
-| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 3 | 100% |  |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 2 | 100% |  |
-| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 3 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 5 | 100% |  |
+| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 2 | 100% |  |
+| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 6 | 100% |  |
+| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 1 | 100% |  |
+| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv39 | 6 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 25 | 100% |  |
 
 ### 条件にしているもの
 
@@ -50,6 +50,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 0 |
@@ -80,6 +81,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

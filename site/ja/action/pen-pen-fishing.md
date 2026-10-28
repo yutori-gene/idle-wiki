@@ -1,6 +1,6 @@
 # ペンペンに魚を獲らせる
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">ペンペンに魚を獲らせる</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐧</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv10</td></tr><tr><th>所要時間</th><td>2時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>2,572</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">ペンペンに魚を獲らせる</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐧</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv28</td></tr><tr><th>所要時間</th><td>2時間</td></tr><tr><th>成功率</th><td>60%</td></tr><tr><th>経験値</th><td>304</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 氷を割ってやると勝手に潜る。取り分の交渉は毎回もめる。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv10以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv28以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) ×1（消費しない）
 - [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) ×1（消費する）
 
@@ -19,18 +19,17 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>魚](/ja/item/fish) ×3 | 成功時 | 100% | 3 | 1.2 |
+| [<span class="wiki-icon">🐟</span>魚](/ja/item/fish) ×4 | 成功時 | 100% | 2.4 | 1.2 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 60%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv10） | 2時間30分 | 100% | 2,572 | 0.4 | 1,029 |
-| +10（Lv20） | 2時間2分 | 100% | 1,714.67 | 0.5 | 840 |
-| +20（Lv30） | 1時間40分 | 100% | 1,143.11 | 0.6 | 686 |
-| +30（Lv40） | 1時間21分 | 100% | 762.07 | 0.7 | 560 |
+| ±0（Lv28） | 2時間 | 60% | 304 | 0.5 | 91 |
+| +10（Lv38） | 1時間37分 | 69.2% | 202.67 | 0.6 | 86 |
+| +20（Lv48） | 1時間20分 | 77.1% | 135.11 | 0.8 | 78 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -38,7 +37,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 2 | 2 | 0 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 2 | 3 | -0 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -53,10 +52,10 @@
 | `attribute` | （空） |
 | `group` | `pet` |
 | `unlocked` | `hidden` |
-| `level` | `10` |
-| `experience` | `2572` |
-| `seconds` | `9000` |
-| `chance` | `1` |
+| `level` | `28` |
+| `experience` | `304` |
+| `seconds` | `7200` |
+| `chance` | `0.6` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 5 |
@@ -82,10 +81,10 @@
 	"attribute": "",
 	"group": "pet",
 	"unlocked": "hidden",
-	"level": 10,
-	"experience": 2572,
-	"seconds": 9000,
-	"chance": 1,
+	"level": 28,
+	"experience": 304,
+	"seconds": 7200,
+	"chance": 0.6,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -107,7 +106,7 @@
 		{
 			"type": "item",
 			"id": "fish",
-			"count": 3,
+			"count": 4,
 			"chance": 1
 		}
 	],

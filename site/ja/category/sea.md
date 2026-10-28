@@ -29,16 +29,16 @@
 | [<span class="wiki-icon">🐚</span>浜辺の貝拾い](/ja/action/beach-shell-gathering) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv5 | 40秒 | 50% | 1,035 |
 | [<span class="wiki-icon">🏝️</span>無人島漂流](/ja/action/desert-island-drift) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 2時間 | 100% | 1,029 |
 | [<span class="wiki-icon">🚢</span>沈没船探査](/ja/action/shipwreck-survey) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv12 | 2時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🏴‍☠️</span>海賊](/ja/action/pirate) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🐙</span>クトゥルフ](/ja/action/cthulhu) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 4分 | 50% | 2 |
-| [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 4分 | 50% | 78 |
-| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 4分 | 50% | 3 |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 4分 | 50% | 18 |
-| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv22 | 4分 | 50% | 78 |
+| [<span class="wiki-icon">🏴‍☠️</span>海賊](/ja/action/pirate) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 2秒 | 50% | 18 |
+| [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 2.1秒 | 50% | 18 |
+| [<span class="wiki-icon">🐙</span>クトゥルフ](/ja/action/cthulhu) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 3.5秒 | 50% | 2 |
+| [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 2.1秒 | 50% | 18 |
+| [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 1.7秒 | 50% | 77 |
+| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 2.3秒 | 50% | 18 |
+| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 2.4秒 | 50% | 18 |
+| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 3.5秒 | 50% | 3 |
+| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 2.3秒 | 50% | 18 |
+| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv22 | 1.5秒 | 50% | 77 |
 | [<span class="wiki-icon">🗼</span>灯台守の小屋](/ja/action/lighthouse-keeper-hut) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv30 | 2時間 | 100% | 1,029 |
 | [<span class="wiki-icon">🐚</span>海底洞窟](/ja/action/undersea-cave) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv40 | 2時間 | 100% | 1,029 |
 
@@ -52,7 +52,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">💗</span>感受性](/ja/item/sensitivity) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -62,6 +62,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |

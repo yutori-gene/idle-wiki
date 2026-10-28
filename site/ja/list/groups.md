@@ -19,13 +19,13 @@
 | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | アクション | 0 | 7 | 0 | 0 |
 | [<span class="wiki-icon">🔧</span>加工](/ja/group/process) | アクション | 0 | 5 | 0 | 0 |
 | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | アクション | 0 | 25 | 0 | 0 |
-| [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | アクション | 0 | 17 | 0 | 0 |
+| [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | アクション | 0 | 18 | 0 | 0 |
 | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | アクション | 0 | 25 | 0 | 0 |
 | [<span class="wiki-icon">🔓</span>開錠](/ja/group/unlock) | アクション | 0 | 18 | 0 | 0 |
 | [<span class="wiki-icon">🏭</span>生産](/ja/group/produce) | アクション | 0 | 0 | 0 | 0 |
 | [<span class="wiki-icon">🔨</span>製作](/ja/group/craft) | アクション | 0 | 0 | 0 | 0 |
 | [<span class="wiki-icon">🎬</span>イベント](/ja/group/event) | アクション | 0 | 0 | 0 | 0 |
-| [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | アイテム | 0 | 0 | 17 | 0 |
+| [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | アイテム | 0 | 0 | 13 | 0 |
 | [<span class="wiki-icon">🥣</span>混ぜ](/ja/group/mixing) | アイテム | 0 | 0 | 1 | 0 |
 | [<span class="wiki-icon">🍳</span>炒め](/ja/group/stir-frying) | アイテム | 0 | 0 | 1 | 0 |
 | [<span class="wiki-icon">🍲</span>煮込み](/ja/group/stewing) | アイテム | 0 | 0 | 1 | 0 |
@@ -33,7 +33,7 @@
 | [<span class="wiki-icon">⚒️</span>粉砕](/ja/group/crushing) | アイテム | 0 | 0 | 1 | 0 |
 | [<span class="wiki-icon">🧫</span>蒸留](/ja/group/distilling) | アイテム | 0 | 0 | 1 | 0 |
 | [<span class="wiki-icon">🧫</span>溶解](/ja/group/melting) | アイテム | 0 | 0 | 1 | 0 |
-| [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | アクション・アイテム | 0 | 0 | 70 | 0 |
+| [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | アクション・アイテム | 0 | 0 | 69 | 0 |
 | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | アクション・アイテム | 0 | 26 | 26 | 0 |
 | [<span class="wiki-icon">🌿</span>薬草](/ja/group/herb) | アイテム | 0 | 0 | 6 | 0 |
 | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | アイテム | 0 | 0 | 26 | 0 |
@@ -65,3 +65,4 @@
 | [<span class="wiki-icon">🎁</span>宝箱](/ja/group/treasure-chest) | アイテム | 0 | 0 | 18 | 0 |
 | [<span class="wiki-icon">🪙</span>通貨](/ja/group/currency) | アイテム | 0 | 0 | 0 | 0 |
 | [<span class="wiki-icon">🚫</span>未使用](/ja/group/unused) | アクション | 0 | 0 | 0 | 0 |
+| [<span class="wiki-icon">🪱</span>畑の恵み](/ja/group/field-blessing) | アイテム | 0 | 0 | 2 | 0 |

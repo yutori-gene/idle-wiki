@@ -1,6 +1,6 @@
 # 生米
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">生米</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍚</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>8 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">生米</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍚</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>8 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 炊けばご飯、研げば砥石。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👻</span>宴の亡霊](/ja/action/banquet-ghost) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv42 | 7 | 80% | 2.8 | 0.082 |
+| [<span class="wiki-icon">👻</span>宴の亡霊](/ja/action/banquet-ghost) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv42 | 1 | 1.98% | 0.01 | 0.081 |
 
 ## 用途
 
@@ -19,12 +19,12 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
-| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
-| [<span class="wiki-icon">🍚</span>ごはん](/ja/action/cook-cooked-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 3 | 100% |  |
-| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 2 | 100% |  |
-| [<span class="wiki-icon">🍙</span>おにぎり](/ja/action/cook-rice-ball) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 2 | 100% |  |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 2 | 100% |  |
+| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv37 | 2 | 100% |  |
+| [<span class="wiki-icon">🍚</span>ごはん](/ja/action/cook-cooked-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv39 | 15 | 100% |  |
+| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv40 | 5 | 100% |  |
+| [<span class="wiki-icon">🍙</span>おにぎり](/ja/action/cook-rice-ball) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv42 | 13 | 100% |  |
+| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv43 | 3 | 100% |  |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv48 | 12 | 100% |  |
 
 ### 条件にしているもの
 
@@ -32,7 +32,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🍳</span>料理番の窮地](/ja/event/cook-in-trouble) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🍚</span>生米](/ja/item/raw-rice) ×5 |
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">70件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -47,6 +47,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 8 |
 | CSV `rare` | 0 |
@@ -77,6 +78,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

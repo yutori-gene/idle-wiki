@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv15 | 1 | 100% | 1 | 0.286 |
-| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv20 | 2 | 100% | 2 | 0.4 |
+| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv36 | 4 | 100% | 2.2 | 0.275 |
+| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv50 | 3 | 100% | 2.4 | 0.343 |
 
 <div class="wiki-navbox" style="--accent:#c26a8e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -29,6 +29,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 0 |
@@ -58,6 +59,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

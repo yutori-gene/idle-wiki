@@ -1,6 +1,6 @@
 # フェニックスの尾の調合
 
-<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">フェニックスの尾の調合</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐦‍🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brew"><span class="wiki-icon">⚗️</span>調合</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv12</td></tr><tr><th>所要時間</th><td>3分30秒</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>60</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">フェニックスの尾の調合</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐦‍🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brew"><span class="wiki-icon">⚗️</span>調合</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv23</td></tr><tr><th>所要時間</th><td>8分</td></tr><tr><th>成功率</th><td>85%</td></tr><tr><th>経験値</th><td>189</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 不死鳥の灰に竜の鱗を混ぜて焼く。羽根は形を保つためだけに入れる。
 
@@ -9,11 +9,11 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv12以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv23以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない）
-- [<span class="wiki-icon">🐦‍🔥</span>不死鳥の灰](/ja/item/phoenix-ash) ×1（消費する）
-- [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×1（消費する）
-- [<span class="wiki-icon">🐉</span>竜の鱗](/ja/item/dragon-scale) ×1（消費する）
+- [<span class="wiki-icon">🐦‍🔥</span>不死鳥の灰](/ja/item/phoenix-ash) ×2（消費する）
+- [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×2（消費する）
+- [<span class="wiki-icon">🐉</span>竜の鱗](/ja/item/dragon-scale) ×2（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -21,18 +21,17 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/item/phoenix-tail) ×1 | 成功時 | 100% | 1 | 17.1 |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/item/phoenix-tail) ×73 | 成功時 | 100% | 62.1 | 465 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 85%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv12） | 3分30秒 | 100% | 60 | 17.1 | 1,029 |
-| +10（Lv22） | 2分51秒 | 100% | 40 | 21 | 840 |
-| +20（Lv32） | 2分20秒 | 100% | 26.67 | 25.7 | 686 |
-| +30（Lv42） | 1分54秒 | 100% | 17.78 | 31.5 | 560 |
+| ±0（Lv23） | 8分 | 85% | 189 | 7.5 | 1,205 |
+| +10（Lv33） | 6分32秒 | 89.5% | 126 | 9.2 | 1,036 |
+| +20（Lv43） | 5分20秒 | 92.7% | 84 | 11.3 | 876 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -40,11 +39,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 29,160 | 97,303 | -68,143 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 791,603 | 85,140 | 706,463 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6d4f9c"><div class="wiki-navbox-title">地下室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-mortar"><span class="wiki-icon">🥣</span>すり鉢を買う</a> ・ <a href="#/ja/action/buy-still"><span class="wiki-icon">⚗️</span>蒸留器を買う</a> ・ <a href="#/ja/action/buy-crucible"><span class="wiki-icon">⚗️</span>るつぼを買う</a> ・ <a href="#/ja/action/brew-wound-medicine"><span class="wiki-icon">💊</span>キズ薬の調合</a> ・ <a href="#/ja/action/brew-bandage"><span class="wiki-icon">🩹</span>絆創膏の調合</a> ・ <a href="#/ja/action/brew-cold-medicine"><span class="wiki-icon">💊</span>風邪薬の調合</a> ・ <a href="#/ja/action/brew-opium"><span class="wiki-icon">💊</span>阿片の調合</a> ・ <a href="#/ja/action/brew-bubbling-medicine"><span class="wiki-icon">🧪</span>泡立つ薬の調合</a> ・ <a href="#/ja/action/brew-eye-drops"><span class="wiki-icon">👁️</span>目薬の調合</a> ・ <a href="#/ja/action/brew-glowing-medicine"><span class="wiki-icon">✨</span>発光する薬の調合</a> ・ <a href="#/ja/action/brew-ether"><span class="wiki-icon">🧪</span>エーテルの調合</a> ・ <a href="#/ja/action/brew-heat-pack"><span class="wiki-icon">🔥</span>カイロの調合</a> ・ <a href="#/ja/action/brew-cold-pack"><span class="wiki-icon">🧊</span>保冷剤の調合</a> ・ <a href="#/ja/action/brew-painkiller"><span class="wiki-icon">💊</span>鎮痛剤の調合</a> ・ <a href="#/ja/action/brew-anti-drowsiness"><span class="wiki-icon">☕</span>眠気覚ましの調合</a> ・ <a href="#/ja/action/brew-phoenix-tail"><span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合</a> ・ <a href="#/ja/action/brew-laxative"><span class="wiki-icon">💊</span>下剤の調合</a> ・ <a href="#/ja/action/brew-laxative-for-gorilla"><span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合</a> ・ <a href="#/ja/action/brew-poison-vial"><span class="wiki-icon">🧪</span>毒瓶の調合</a> ・ <a href="#/ja/action/brew-tonic"><span class="wiki-icon">💊</span>滋養強壮剤の調合</a> ・ <a href="#/ja/action/brew-vaccine"><span class="wiki-icon">💉</span>ワクチンの調合</a> ・ <a href="#/ja/action/brew-lcl"><span class="wiki-icon">🧪</span>LCLの調合</a> ・ <a href="#/ja/action/brew-holy-water"><span class="wiki-icon">💧</span>聖水の調合</a> ・ <a href="#/ja/action/brew-bottled-spirit"><span class="wiki-icon">🧞</span>精霊の入ったビンの調合</a> ・ <a href="#/ja/action/brew-panacea"><span class="wiki-icon">💊</span>万能薬の調合</a> ・ <a href="#/ja/action/brew-revive-piece"><span class="wiki-icon">💊</span>げんきのかけらの調合</a> ・ <a href="#/ja/action/brew-elixir"><span class="wiki-icon">🧪</span>エリクサーの調合</a> ・ <a href="#/ja/action/brew-felix-felicis"><span class="wiki-icon">🍀</span>フェリックスフェリシスの調合</a></div></div>
+<div class="wiki-navbox" style="--accent:#6d4f9c"><div class="wiki-navbox-title">地下室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-mortar"><span class="wiki-icon">🥣</span>すり鉢を買う</a> ・ <a href="#/ja/action/buy-still"><span class="wiki-icon">⚗️</span>蒸留器を買う</a> ・ <a href="#/ja/action/buy-crucible"><span class="wiki-icon">⚗️</span>るつぼを買う</a> ・ <a href="#/ja/action/brew-bandage"><span class="wiki-icon">🩹</span>絆創膏の調合</a> ・ <a href="#/ja/action/brew-wound-medicine"><span class="wiki-icon">💊</span>キズ薬の調合</a> ・ <a href="#/ja/action/brew-cold-medicine"><span class="wiki-icon">💊</span>風邪薬の調合</a> ・ <a href="#/ja/action/brew-bubbling-medicine"><span class="wiki-icon">🧪</span>泡立つ薬の調合</a> ・ <a href="#/ja/action/brew-opium"><span class="wiki-icon">💊</span>阿片の調合</a> ・ <a href="#/ja/action/brew-glowing-medicine"><span class="wiki-icon">✨</span>発光する薬の調合</a> ・ <a href="#/ja/action/brew-ether"><span class="wiki-icon">🧪</span>エーテルの調合</a> ・ <a href="#/ja/action/brew-heat-pack"><span class="wiki-icon">🔥</span>カイロの調合</a> ・ <a href="#/ja/action/brew-eye-drops"><span class="wiki-icon">👁️</span>目薬の調合</a> ・ <a href="#/ja/action/brew-cold-pack"><span class="wiki-icon">🧊</span>保冷剤の調合</a> ・ <a href="#/ja/action/brew-painkiller"><span class="wiki-icon">💊</span>鎮痛剤の調合</a> ・ <a href="#/ja/action/brew-phoenix-tail"><span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合</a> ・ <a href="#/ja/action/brew-anti-drowsiness"><span class="wiki-icon">☕</span>眠気覚ましの調合</a> ・ <a href="#/ja/action/brew-tonic"><span class="wiki-icon">💊</span>滋養強壮剤の調合</a> ・ <a href="#/ja/action/brew-vaccine"><span class="wiki-icon">💉</span>ワクチンの調合</a> ・ <a href="#/ja/action/brew-laxative"><span class="wiki-icon">💊</span>下剤の調合</a> ・ <a href="#/ja/action/brew-laxative-for-gorilla"><span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合</a> ・ <a href="#/ja/action/brew-poison-vial"><span class="wiki-icon">🧪</span>毒瓶の調合</a> ・ <a href="#/ja/action/brew-lcl"><span class="wiki-icon">🧪</span>LCLの調合</a> ・ <a href="#/ja/action/brew-holy-water"><span class="wiki-icon">💧</span>聖水の調合</a> ・ <a href="#/ja/action/brew-bottled-spirit"><span class="wiki-icon">🧞</span>精霊の入ったビンの調合</a> ・ <a href="#/ja/action/brew-panacea"><span class="wiki-icon">💊</span>万能薬の調合</a> ・ <a href="#/ja/action/brew-revive-piece"><span class="wiki-icon">💊</span>げんきのかけらの調合</a> ・ <a href="#/ja/action/brew-elixir"><span class="wiki-icon">🧪</span>エリクサーの調合</a> ・ <a href="#/ja/action/brew-felix-felicis"><span class="wiki-icon">🍀</span>フェリックスフェリシスの調合</a></div></div>
 
 ## 開発者向け情報
 
@@ -55,10 +54,10 @@
 | `attribute` | （空） |
 | `group` | `brew` |
 | `unlocked` | `hidden` |
-| `level` | `12` |
-| `experience` | `60` |
-| `seconds` | `210` |
-| `chance` | `1` |
+| `level` | `23` |
+| `experience` | `189` |
+| `seconds` | `480` |
+| `chance` | `0.85` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 7 |
@@ -84,10 +83,10 @@
 	"attribute": "",
 	"group": "brew",
 	"unlocked": "hidden",
-	"level": 12,
-	"experience": 60,
-	"seconds": 210,
-	"chance": 1,
+	"level": 23,
+	"experience": 189,
+	"seconds": 480,
+	"chance": 0.85,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -100,21 +99,21 @@
 		{
 			"type": "item",
 			"id": "phoenix-ash",
-			"count": 1,
+			"count": 2,
 			"chance": 1,
 			"equipment": false
 		},
 		{
 			"type": "item",
 			"id": "feather",
-			"count": 1,
+			"count": 2,
 			"chance": 1,
 			"equipment": false
 		},
 		{
 			"type": "item",
 			"id": "dragon-scale",
-			"count": 1,
+			"count": 2,
 			"chance": 1,
 			"equipment": false
 		}
@@ -123,7 +122,7 @@
 		{
 			"type": "item",
 			"id": "phoenix-tail",
-			"count": 1,
+			"count": 73,
 			"chance": 1
 		}
 	],

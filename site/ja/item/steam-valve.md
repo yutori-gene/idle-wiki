@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 2 | 57.6% | 0.576 | 0.011 |
+| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 1 | 0.8% | 0.004 | 0.011 |
 | [<span class="wiki-icon">☣️</span>地下廃棄プラント](/ja/action/underground-disposal-plant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv40 | 1 | 25.9% | 0.259 | 0.086 |
 
 ## 用途
@@ -38,6 +38,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 2 |
@@ -67,6 +68,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

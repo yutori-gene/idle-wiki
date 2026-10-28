@@ -1,6 +1,6 @@
 # 温室
 
-<div class="wiki-infobox" style="--accent:#6fb07a"><div class="wiki-infobox-title">温室</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌱</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/base"><span class="wiki-icon">🏠</span>拠点</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>他と並行して進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>34種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6fb07a"><div class="wiki-infobox-title">温室</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌱</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/base"><span class="wiki-icon">🏠</span>拠点</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>他と並行して進む</td></tr><tr><th>アクション</th><td>18本</td></tr><tr><th>管理アイテム</th><td>31種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **生産型**の拠点（栽培）。種苗を植えて植物・食材を育てる。ほかのカテゴリと**並行して進む**（作業予定を使わない）ので、ダンジョンを回しながら放置できる。台所・地下室の材料の出どころ。
 
@@ -19,23 +19,24 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥕</span>ニンジンの栽培](/ja/action/grow-carrot) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv1 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🎃</span>カボチャの栽培](/ja/action/grow-pumpkin) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv1 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🧄</span>ニンニクの栽培](/ja/action/grow-garlic) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv1 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🌾</span>小麦の栽培](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv1 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🥬</span>サラダ菜の栽培](/ja/action/grow-lettuce) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv1 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🍌</span>バナナの栽培](/ja/action/grow-banana) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv5 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🍎</span>リンゴの栽培](/ja/action/grow-apple) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv5 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv5 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🦎</span>ウーパールーパーの繁殖](/ja/action/breed-axolotl) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv5 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🌿</span>薬草の栽培](/ja/action/grow-herb) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv5 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🌿</span>大麻の栽培](/ja/action/grow-hemp) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv5 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🥔</span>ジャガイモの栽培](/ja/action/grow-potato) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv9 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🍄</span>トリュフの栽培](/ja/action/grow-truffle) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv9 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🌶️</span>とうがらしの栽培](/ja/action/grow-chili) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv12 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">☠️</span>毒草の栽培](/ja/action/grow-poison-herb) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv16 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🌿</span>香草の栽培](/ja/action/grow-aromatic-herb) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv16 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🌳</span>世界樹の葉の栽培](/ja/action/grow-world-tree-leaf) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv20 | 30分 | 100% | 1,030 |
+| [<span class="wiki-icon">🥕</span>ニンジン](/ja/action/grow-carrot) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv1 | 30分 | 100% | 88 |
+| [<span class="wiki-icon">🪱</span>ミミズの切断](/ja/action/cut-earthworm) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv1 | 1分 | 100% | 60 |
+| [<span class="wiki-icon">🎃</span>カボチャ](/ja/action/grow-pumpkin) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv4 | 2時間 | 90% | 88 |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/action/grow-garlic) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv7 | 1時間 | 75% | 88 |
+| [<span class="wiki-icon">🌾</span>小麦](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv10 | 4時間 | 60% | 88 |
+| [<span class="wiki-icon">🥬</span>サラダ菜](/ja/action/grow-lettuce) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv13 | 1時間30分 | 95% | 88 |
+| [<span class="wiki-icon">🍌</span>バナナ](/ja/action/grow-banana) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv16 | 8時間 | 70% | 88 |
+| [<span class="wiki-icon">🍎</span>リンゴ](/ja/action/grow-apple) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv19 | 3時間 | 85% | 88 |
+| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv22 | 12時間 | 55% | 87 |
+| [<span class="wiki-icon">🦎</span>ウーパールーパー](/ja/action/breed-axolotl) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv25 | 6時間 | 80% | 88 |
+| [<span class="wiki-icon">🌿</span>薬草](/ja/action/grow-herb) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv28 | 20時間 | 65% | 87 |
+| [<span class="wiki-icon">🌿</span>大麻](/ja/action/grow-hemp) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv32 | 10時間 | 90% | 87 |
+| [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/action/grow-potato) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv35 | 1日6時間 | 50% | 87 |
+| [<span class="wiki-icon">🍄</span>トリュフ](/ja/action/grow-truffle) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv38 | 16時間 | 75% | 88 |
+| [<span class="wiki-icon">🌶️</span>とうがらし](/ja/action/grow-chili) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv41 | 1日12時間 | 60% | 87 |
+| [<span class="wiki-icon">☠️</span>毒草](/ja/action/grow-poison-herb) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv44 | 1日 | 85% | 88 |
+| [<span class="wiki-icon">🌿</span>香草](/ja/action/grow-aromatic-herb) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv47 | 2日 | 50% | 87 |
+| [<span class="wiki-icon">🌳</span>世界樹の葉](/ja/action/grow-world-tree-leaf) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv50 | 1日16時間 | 70% | 87 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
 
@@ -47,10 +48,7 @@
 
 | アイテム | グループ | 装備 | 売値 | 買値 |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥕</span>ニンジンの種](/ja/item/carrot-seed) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 1 | 2 |
-| [<span class="wiki-icon">🎃</span>カボチャの種](/ja/item/pumpkin-seed) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 1 | 2 |
 | [<span class="wiki-icon">🌾</span>小麦の種](/ja/item/wheat-seed) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 1 | 2 |
-| [<span class="wiki-icon">🧄</span>ニンニクの種球](/ja/item/garlic-bulb) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 1 | 2 |
 | [<span class="wiki-icon">🥬</span>サラダ菜の種](/ja/item/lettuce-seed) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 3 | 6 |
 | [<span class="wiki-icon">🌱</span>バナナの苗](/ja/item/banana-seedling) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 6 | 12 |
 | [<span class="wiki-icon">🌱</span>リンゴの苗](/ja/item/apple-seedling) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 6 | 12 |
@@ -58,13 +56,11 @@
 | [<span class="wiki-icon">🍯</span>蜂蜜の巣箱](/ja/item/honey-hive) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 18 | 36 |
 | [<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 18 | 36 |
 | [<span class="wiki-icon">🌿</span>大麻の種](/ja/item/hemp-seed) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 18 | 36 |
-| [<span class="wiki-icon">🥔</span>ジャガイモの種芋](/ja/item/potato-seed-tuber) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 3 | 6 |
 | [<span class="wiki-icon">🍄</span>トリュフの菌床](/ja/item/truffle-bed) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 81 | 162 |
 | [<span class="wiki-icon">🌶️</span>とうがらしの種](/ja/item/chili-seed) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 7 | 14 |
 | [<span class="wiki-icon">☠️</span>毒草の種](/ja/item/poison-herb-seed) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 24 | 48 |
 | [<span class="wiki-icon">🌿</span>香草の種](/ja/item/aromatic-herb-seed) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 24 | 48 |
 | [<span class="wiki-icon">🌳</span>世界樹の種](/ja/item/world-tree-seed) | [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | 装備不可 | 90 | 180 |
-| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 装備不可 | 1 | — |
 | [<span class="wiki-icon">🎃</span>カボチャ](/ja/item/pumpkin) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 装備不可 | 1 | — |
 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 装備不可 | 3 | — |
 | [<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 装備不可 | 3 | — |
@@ -81,12 +77,18 @@
 | [<span class="wiki-icon">☠️</span>毒草](/ja/item/poison-herb) | [<span class="wiki-icon">🌿</span>薬草](/ja/group/herb) | 装備不可 | 24 | — |
 | [<span class="wiki-icon">🌿</span>香草](/ja/item/aromatic-herb) | [<span class="wiki-icon">🌿</span>薬草](/ja/group/herb) | 装備不可 | 24 | — |
 | [<span class="wiki-icon">🍃</span>世界樹の葉](/ja/item/world-tree-leaf) | [<span class="wiki-icon">🌿</span>薬草](/ja/group/herb) | 装備不可 | 90 | — |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | [<span class="wiki-icon">🪱</span>畑の恵み](/ja/group/field-blessing) | 消費装備 | 1 | — |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) | [<span class="wiki-icon">🪱</span>畑の恵み](/ja/group/field-blessing) | 消費装備 | 1 | — |
 
 ## 効果を与えるアイテム
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+| アイテム | 装備 | 成功率 |
+| --- | --- | --- |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) | 消費装備 | +3 |
+
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -96,6 +98,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
@@ -177,16 +180,25 @@
 
 | レベル | 累計経験値 | 開くもの |
 | --- | --- | --- |
-| Lv1 | 0 | [<span class="wiki-icon">🥕</span>ニンジンの栽培](/ja/action/grow-carrot)（実行）<br>[<span class="wiki-icon">🎃</span>カボチャの栽培](/ja/action/grow-pumpkin)（実行）<br>[<span class="wiki-icon">🧄</span>ニンニクの栽培](/ja/action/grow-garlic)（実行）<br>[<span class="wiki-icon">🌾</span>小麦の栽培](/ja/action/grow-wheat)（実行）<br>[<span class="wiki-icon">🥬</span>サラダ菜の栽培](/ja/action/grow-lettuce)（実行）<br>[<span class="wiki-icon">🥕</span>ニンジンの種](/ja/item/carrot-seed)（解放）<br>[<span class="wiki-icon">🎃</span>カボチャの種](/ja/item/pumpkin-seed)（解放）<br>[<span class="wiki-icon">🌾</span>小麦の種](/ja/item/wheat-seed)（解放）<br>[<span class="wiki-icon">🧄</span>ニンニクの種球](/ja/item/garlic-bulb)（解放）<br>[<span class="wiki-icon">🥬</span>サラダ菜の種](/ja/item/lettuce-seed)（解放） |
-| Lv2 | 100 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic)（解放）<br>[<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad)（解放）<br>[<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana)（解放）<br>[<span class="wiki-icon">🍎</span>リンゴ](/ja/item/apple)（解放） |
-| Lv4 | 334 | [<span class="wiki-icon">🌱</span>バナナの苗](/ja/item/banana-seedling)（解放）<br>[<span class="wiki-icon">🌱</span>リンゴの苗](/ja/item/apple-seedling)（解放）<br>[<span class="wiki-icon">🌿</span>薬草の種](/ja/item/herb-seed)（解放）<br>[<span class="wiki-icon">🍯</span>蜂蜜の巣箱](/ja/item/honey-hive)（解放）<br>[<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg)（解放）<br>[<span class="wiki-icon">🌿</span>大麻の種](/ja/item/hemp-seed)（解放）<br>[<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey)（解放）<br>[<span class="wiki-icon">🍄</span>トリュフ](/ja/item/truffle)（解放） |
-| Lv5 | 471 | [<span class="wiki-icon">🍌</span>バナナの栽培](/ja/action/grow-banana)（実行）<br>[<span class="wiki-icon">🍎</span>リンゴの栽培](/ja/action/grow-apple)（実行）<br>[<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey)（実行）<br>[<span class="wiki-icon">🦎</span>ウーパールーパーの繁殖](/ja/action/breed-axolotl)（実行）<br>[<span class="wiki-icon">🌿</span>薬草の栽培](/ja/action/grow-herb)（実行）<br>[<span class="wiki-icon">🌿</span>大麻の栽培](/ja/action/grow-hemp)（実行） |
-| Lv6 | 623 | [<span class="wiki-icon">🥔</span>ジャガイモの種芋](/ja/item/potato-seed-tuber)（解放）<br>[<span class="wiki-icon">🍄</span>トリュフの菌床](/ja/item/truffle-bed)（解放） |
-| Lv9 | 1,186 | [<span class="wiki-icon">🥔</span>ジャガイモの栽培](/ja/action/grow-potato)（実行）<br>[<span class="wiki-icon">🍄</span>トリュフの栽培](/ja/action/grow-truffle)（実行） |
-| Lv12 | 1,956 | [<span class="wiki-icon">🌶️</span>とうがらしの栽培](/ja/action/grow-chili)（実行） |
-| Lv14 | 2,621 | [<span class="wiki-icon">🌶️</span>とうがらしの種](/ja/item/chili-seed)（解放） |
-| Lv16 | 3,441 | [<span class="wiki-icon">☠️</span>毒草の栽培](/ja/action/grow-poison-herb)（実行）<br>[<span class="wiki-icon">🌿</span>香草の栽培](/ja/action/grow-aromatic-herb)（実行）<br>[<span class="wiki-icon">☠️</span>毒草の種](/ja/item/poison-herb-seed)（解放）<br>[<span class="wiki-icon">🌿</span>香草の種](/ja/item/aromatic-herb-seed)（解放）<br>[<span class="wiki-icon">☠️</span>毒草](/ja/item/poison-herb)（解放）<br>[<span class="wiki-icon">🌿</span>香草](/ja/item/aromatic-herb)（解放） |
-| Lv20 | 5,694 | [<span class="wiki-icon">🌳</span>世界樹の葉の栽培](/ja/action/grow-world-tree-leaf)（実行）<br>[<span class="wiki-icon">🌳</span>世界樹の種](/ja/item/world-tree-seed)（解放） |
+| Lv1 | 0 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/action/grow-carrot)（実行）<br>[<span class="wiki-icon">🪱</span>ミミズの切断](/ja/action/cut-earthworm)（実行） |
+| Lv4 | 334 | [<span class="wiki-icon">🎃</span>カボチャ](/ja/action/grow-pumpkin)（実行）<br>[<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad)（解放）<br>[<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana)（解放）<br>[<span class="wiki-icon">🍎</span>リンゴ](/ja/item/apple)（解放） |
+| Lv7 | 791 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/action/grow-garlic)（実行） |
+| Lv9 | 1,186 | [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey)（解放）<br>[<span class="wiki-icon">🍄</span>トリュフ](/ja/item/truffle)（解放） |
+| Lv10 | 1,416 | [<span class="wiki-icon">🌾</span>小麦](/ja/action/grow-wheat)（実行）<br>[<span class="wiki-icon">🌾</span>小麦の種](/ja/item/wheat-seed)（解放） |
+| Lv13 | 2,271 | [<span class="wiki-icon">🥬</span>サラダ菜](/ja/action/grow-lettuce)（実行）<br>[<span class="wiki-icon">🥬</span>サラダ菜の種](/ja/item/lettuce-seed)（解放） |
+| Lv16 | 3,441 | [<span class="wiki-icon">🍌</span>バナナ](/ja/action/grow-banana)（実行）<br>[<span class="wiki-icon">🌱</span>バナナの苗](/ja/item/banana-seedling)（解放） |
+| Lv19 | 5,040 | [<span class="wiki-icon">🍎</span>リンゴ](/ja/action/grow-apple)（実行）<br>[<span class="wiki-icon">🌱</span>リンゴの苗](/ja/item/apple-seedling)（解放） |
+| Lv22 | 7,227 | [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey)（実行）<br>[<span class="wiki-icon">🍯</span>蜂蜜の巣箱](/ja/item/honey-hive)（解放） |
+| Lv25 | 10,217 | [<span class="wiki-icon">🦎</span>ウーパールーパー](/ja/action/breed-axolotl)（実行）<br>[<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg)（解放） |
+| Lv28 | 14,308 | [<span class="wiki-icon">🌿</span>薬草](/ja/action/grow-herb)（実行）<br>[<span class="wiki-icon">🌿</span>薬草の種](/ja/item/herb-seed)（解放） |
+| Lv32 | 22,191 | [<span class="wiki-icon">🌿</span>大麻](/ja/action/grow-hemp)（実行）<br>[<span class="wiki-icon">🌿</span>大麻の種](/ja/item/hemp-seed)（解放） |
+| Lv35 | 30,684 | [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/action/grow-potato)（実行） |
+| Lv38 | 42,298 | [<span class="wiki-icon">🍄</span>トリュフ](/ja/action/grow-truffle)（実行）<br>[<span class="wiki-icon">🍄</span>トリュフの菌床](/ja/item/truffle-bed)（解放） |
+| Lv40 | 52,327 | [<span class="wiki-icon">☠️</span>毒草](/ja/item/poison-herb)（解放）<br>[<span class="wiki-icon">🌿</span>香草](/ja/item/aromatic-herb)（解放） |
+| Lv41 | 58,183 | [<span class="wiki-icon">🌶️</span>とうがらし](/ja/action/grow-chili)（実行）<br>[<span class="wiki-icon">🌶️</span>とうがらしの種](/ja/item/chili-seed)（解放） |
+| Lv44 | 79,907 | [<span class="wiki-icon">☠️</span>毒草](/ja/action/grow-poison-herb)（実行）<br>[<span class="wiki-icon">☠️</span>毒草の種](/ja/item/poison-herb-seed)（解放） |
+| Lv47 | 109,617 | [<span class="wiki-icon">🌿</span>香草](/ja/action/grow-aromatic-herb)（実行）<br>[<span class="wiki-icon">🌿</span>香草の種](/ja/item/aromatic-herb-seed)（解放） |
+| Lv50 | 150,250 | [<span class="wiki-icon">🌳</span>世界樹の葉](/ja/action/grow-world-tree-leaf)（実行）<br>[<span class="wiki-icon">🌳</span>世界樹の種](/ja/item/world-tree-seed)（解放） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
@@ -325,6 +337,13 @@
 | 食材 | 11 | **栽培** | 台所の料理26本の主軸 |
 | 薬草 | 6 | **栽培** | 地下室の調合20本の主軸 |
 | 種苗 | 17 | **購入**（`buyingValue`）＋ダンジョンの**収集** | 温室の中では作れない。外から入れる |
+
+### 2026-10-28 の作り直し（[plan.md](../doc/plan.md)「温室の作り直し（2026-10-28）」）
+
+- アクション名から「の栽培」「の繁殖」を外した。Lv1〜50 に均等に並べ（tier 順）、30分〜48時間・成功率50〜100%でばらつかせた。経験値と収穫数は秒数÷成功率に比例し、乗り継いで約70日で Lv50
+- **ジャガイモ・カボチャ・ニンジン・ニンニクは種を無くし、作物そのものを植えて増やす**（種苗 17 → 13種）。初めの1個はダンジョンで拾う（ニンジン＝公園/花壇の手入れ・ジャガイモ＝街/ゴミ箱あさり・カボチャ＝公園/カタツムリ・ニンニク＝公園/自宅警備員）
+- **装備枠を1つ作った**（group `畑の恵み`）。`ニンニク`（消費・力＋3）と新アイテム `ミミズ`（消費・温室の成功率＋3）が取り合う。ミミズは土の栽培14本から50%、`ミミズの切断`（1分・1匹を0〜3匹に）でも増減する
+- 下の表と「この回で決めたこと」は Step 3-2 当時の記録
 
 ### この回で決めたこと
 

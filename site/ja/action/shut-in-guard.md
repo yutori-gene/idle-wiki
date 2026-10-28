@@ -1,6 +1,6 @@
 # 自宅警備員
 
-<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">自宅警備員</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏠</span></div><table><tr><th>場所</th><td><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv5</td></tr><tr><th>所要時間</th><td>1分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>35</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">自宅警備員</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏠</span></div><table><tr><th>場所</th><td><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv5</td></tr><tr><th>所要時間</th><td>2.2秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.26</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ホームガーディアン👮
 
@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv5以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) ×1（消費する）
+- [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) ×1（3.67%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,15 +18,16 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) ×10 | 成功時 | 100% | 5 | 29 |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) ×1 | 成功時 | 2.07% | 0.01 | 0.06 |
-| [<span class="wiki-icon">🔇</span>耳栓](/ja/item/earplug) ×1 | 成功時 | 8.64% | 0.043 | 0.251 |
-| [<span class="wiki-icon">🧮</span>電卓](/ja/item/calculator) ×1 | 成功時 | 1.19% | 0.006 | 0.035 |
-| [<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) ×2 | 成功時 | 48% | 0.48 | 2.8 |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) ×2 | 成功時 | 48% | 0.48 | 2.8 |
-| [<span class="wiki-icon">🥚</span>卵](/ja/item/egg) ×3 | 成功時 | 76.8% | 1.2 | 6.7 |
-| [<span class="wiki-icon">🍩</span>食べられる指輪](/ja/item/edible-ring) ×3 | 成功時 | 76.8% | 1.2 | 6.7 |
-| [<span class="wiki-icon">👛</span>財布](/ja/item/wallet) ×1 | 成功時 | 8.64% | 0.043 | 0.251 |
+| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) ×1 | 成功時 | 36.7% | 0.184 | 29.1 |
+| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) ×1 | 成功時 | 0.076% | 0 | 0.06 |
+| [<span class="wiki-icon">🔇</span>耳栓](/ja/item/earplug) ×1 | 成功時 | 0.317% | 0.002 | 0.251 |
+| [<span class="wiki-icon">🧮</span>電卓](/ja/item/calculator) ×1 | 成功時 | 0.044% | 0 | 0.035 |
+| [<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) ×1 | 成功時 | 3.52% | 0.018 | 2.8 |
+| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) ×1 | 成功時 | 3.52% | 0.018 | 2.8 |
+| [<span class="wiki-icon">🥚</span>卵](/ja/item/egg) ×1 | 成功時 | 8.45% | 0.042 | 6.7 |
+| [<span class="wiki-icon">🍩</span>食べられる指輪](/ja/item/edible-ring) ×1 | 成功時 | 8.45% | 0.042 | 6.7 |
+| [<span class="wiki-icon">👛</span>財布](/ja/item/wallet) ×1 | 成功時 | 0.317% | 0.002 | 0.251 |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) ×1 | 成功時 | 3.67% | 0.018 | 2.9 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -49,10 +50,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv5） | 16.3% | 4.5% | 75% | 23.1% | 14.3% | 9.3 | 32.3% | 10分20秒 | 連戦で少しずつ消耗する |
-| +10（Lv15） | 24.5% | 3.67% | 81.8% | 26.9% | 20% | 6.1 | 16.4% | 5分48秒 | 放置で連戦できる |
-| +20（Lv25） | 36.7% | 3% | 87.1% | 31.1% | 27.3% | 3.4 | 7.12% | 2分58秒 | 放置で連戦できる |
-| +30（Lv35） | 55.1% | 2.45% | 91% | 35.6% | 36% | 2.2 | 3.47% | 1分44秒 | 放置で連戦できる |
+| ±0（Lv5） | 16.3% | 4.5% | 75% | 23.1% | 14.3% | 9.3 | 32.3% | 22.7秒 | 連戦で少しずつ消耗する |
+| +10（Lv15） | 24.5% | 3.67% | 81.8% | 26.9% | 20% | 6.1 | 16.4% | 12.8秒 | 放置で連戦できる |
+| +20（Lv25） | 36.7% | 3% | 87.1% | 31.1% | 27.3% | 3.4 | 7.12% | 6.5秒 | 放置で連戦できる |
+| +30（Lv35） | 55.1% | 2.45% | 91% | 35.6% | 36% | 2.2 | 3.47% | 3.8秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -60,10 +61,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv5） | 1分 | 50% | 35 | 5.8 | 102 |
-| +10（Lv15） | 49秒 | 60% | 23.33 | 10.3 | 145 |
-| +20（Lv25） | 40秒 | 69.2% | 15.56 | 20.3 | 218 |
-| +30（Lv35） | 32.7秒 | 77.1% | 10.37 | 34.5 | 276 |
+| ±0（Lv5） | 2.2秒 | 50% | 1.26 | 158.4 | 100 |
+| +10（Lv15） | 1.8秒 | 60% | 0.84 | 281.8 | 142 |
+| +20（Lv25） | 1.5秒 | 69.2% | 0.56 | 552.3 | 214 |
+| +30（Lv35） | 1.2秒 | 77.1% | 0.37 | 940.2 | 271 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -71,7 +72,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 338 | 52 | 286 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 341 | 52 | 289 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -87,8 +88,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `5` |
-| `experience` | `35` |
-| `seconds` | `60` |
+| `experience` | `1.26` |
+| `seconds` | `2.2` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -117,8 +118,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 5,
-	"experience": 35,
-	"seconds": 60,
+	"experience": 1.26,
+	"seconds": 2.2,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -126,7 +127,7 @@
 			"type": "item",
 			"id": "cardboard",
 			"count": 1,
-			"chance": 1,
+			"chance": 0.0367,
 			"equipment": false
 		}
 	],
@@ -134,56 +135,62 @@
 		{
 			"type": "item",
 			"id": "cardboard",
-			"count": 10,
-			"chance": 1
+			"count": 1,
+			"chance": 0.367
 		},
 		{
 			"type": "item",
 			"id": "broom",
 			"count": 1,
-			"chance": 0.0207
+			"chance": 0.000759
 		},
 		{
 			"type": "item",
 			"id": "earplug",
 			"count": 1,
-			"chance": 0.0864
+			"chance": 0.00317
 		},
 		{
 			"type": "item",
 			"id": "calculator",
 			"count": 1,
-			"chance": 0.0119
+			"chance": 0.000436
 		},
 		{
 			"type": "item",
 			"id": "small-bone",
-			"count": 2,
-			"chance": 0.48
+			"count": 1,
+			"chance": 0.0352
 		},
 		{
 			"type": "item",
 			"id": "tank-top",
-			"count": 2,
-			"chance": 0.48
+			"count": 1,
+			"chance": 0.0352
 		},
 		{
 			"type": "item",
 			"id": "egg",
-			"count": 3,
-			"chance": 0.768
+			"count": 1,
+			"chance": 0.0845
 		},
 		{
 			"type": "item",
 			"id": "edible-ring",
-			"count": 3,
-			"chance": 0.768
+			"count": 1,
+			"chance": 0.0845
 		},
 		{
 			"type": "item",
 			"id": "wallet",
 			"count": 1,
-			"chance": 0.0864
+			"chance": 0.00317
+		},
+		{
+			"type": "item",
+			"id": "garlic",
+			"count": 1,
+			"chance": 0.0367
 		}
 	],
 	"progressType": "stamina",

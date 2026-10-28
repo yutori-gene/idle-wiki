@@ -11,15 +11,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍎</span>リンゴの栽培](/ja/action/grow-apple) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 3 | 100% | 3 | 6 |
+| [<span class="wiki-icon">🍎</span>リンゴ](/ja/action/grow-apple) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv19 | 21 | 100% | 17.8 | 5.9 |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv2以上
+- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv4以上
 
-<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">70件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -34,6 +34,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 1 |
@@ -63,11 +64,12 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",
 			"id": "greenhouse",
-			"count": 2,
+			"count": 4,
 			"chance": 1,
 			"equipment": false
 		}

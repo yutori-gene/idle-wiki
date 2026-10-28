@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 1 | 35.8% | 0.358 | 5.4 |
-| [<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 1 | 35.8% | 0.358 | 5.4 |
+| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv15 | 2 | 35.8% | 0.43 | 6.4 |
+| [<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv18 | 1 | 35.8% | 0.358 | 10.7 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 秘宝</div><div class="wiki-navbox-body"><a href="#/ja/item/fountain-coin"><span class="wiki-icon">⛲</span>噴水のコイン</a> ・ <a href="#/ja/item/golden-acorn"><span class="wiki-icon">🌰</span>金のドングリ</a> ・ <a href="#/ja/item/old-map-fragment"><span class="wiki-icon">🗺️</span>古い地図の断片</a> ・ <a href="#/ja/item/world-tree-sapling"><span class="wiki-icon">🌳</span>世界樹の苗木</a> ・ <a href="#/ja/item/forest-spirit-tear"><span class="wiki-icon">🧚</span>森の精霊の涙</a> ・ <a href="#/ja/item/park-guardian-statue"><span class="wiki-icon">🗿</span>公園の守り神の像</a> ・ <a href="#/ja/item/mayors-seal"><span class="wiki-icon">🖋️</span>市長印</a> ・ <a href="#/ja/item/beetle"><span class="wiki-icon">🪲</span>カブトムシ</a> ・ <a href="#/ja/item/sewer-key"><span class="wiki-icon">🗝️</span>下水道の鍵</a> ・ <a href="#/ja/item/forged-passport"><span class="wiki-icon">🛂</span>偽造パスポート</a> ・ <a href="#/ja/item/fairy-wing"><span class="wiki-icon">🧚</span>妖精の羽根</a> ・ <a href="#/ja/item/secret-ledger"><span class="wiki-icon">📒</span>裏帳簿</a> ・ <a href="#/ja/item/night-king-seal"><span class="wiki-icon">🖋️</span>夜の王の印章</a> ・ <a href="#/ja/item/urban-legend-fragment"><span class="wiki-icon">🌀</span>都市伝説の欠片</a> ・ <a href="#/ja/item/black-pearl"><span class="wiki-icon">⚫</span>黒真珠</a> ・ <a href="#/ja/item/deep-sea-crystal"><span class="wiki-icon">💠</span>深海の結晶</a> ・ <a href="#/ja/item/kraken-ink"><span class="wiki-icon">🦑</span>クラーケンの墨</a> ・ <a href="#/ja/item/frozen-amber"><span class="wiki-icon">🧊</span>凍った琥珀</a> ・ <a href="#/ja/item/plasma-core"><span class="wiki-icon">🔵</span>プラズマコア</a> ・ <a href="#/ja/item/volcano-god-tear"><span class="wiki-icon">😢</span>火山神の涙</a> ・ <a href="#/ja/item/blizzard-core"><span class="wiki-icon">🌨️</span>ブリザードの核</a> ・ <a href="#/ja/item/ice-dragon-scale"><span class="wiki-icon">🐉</span>氷竜の鱗</a> ・ <a href="#/ja/item/golden-crown"><span class="wiki-icon">👑</span>黄金の王冠</a> ・ <a href="#/ja/item/polaris-sand"><span class="wiki-icon">⭐</span>北極星の砂</a> ・ <a href="#/ja/item/throne-magic-stone"><span class="wiki-icon">🔮</span>玉座の魔石</a> ・ <a href="#/ja/item/kings-legacy"><span class="wiki-icon">👑</span>王の遺産</a> ・ <a href="#/ja/item/reaper-hourglass"><span class="wiki-icon">⏳</span>死神の砂時計</a> ・ <a href="#/ja/item/constellation-fragment"><span class="wiki-icon">✨</span>星座の欠片</a> ・ <a href="#/ja/item/underworld-gate-key"><span class="wiki-icon">🗝️</span>冥界の門の鍵</a> ・ <a href="#/ja/item/genesis-light"><span class="wiki-icon">✨</span>創世の光</a> ・ <a href="#/ja/item/sky-god-robe"><span class="wiki-icon">😇</span>天空神の羽衣</a></div></div>
 
@@ -29,6 +29,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 7 |
@@ -58,6 +59,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

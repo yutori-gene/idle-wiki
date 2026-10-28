@@ -13,7 +13,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧹</span>清掃活動](/ja/action/cleanup-activity) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv3 | 5 | 16% | 0.4 | 144 |
 | [<span class="wiki-icon">🪷</span>池のほとり](/ja/action/pond-side) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv14 | 1 | 16% | 0.08 | 28.8 |
-| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv7 | 7 | 100% | 3.5 | 27.4 |
+| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv7 | 1 | 28% | 0.14 | 27.4 |
 
 ### イベント
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 2 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

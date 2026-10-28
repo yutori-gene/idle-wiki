@@ -17,7 +17,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📖</span>絵本を読む](/ja/action/read-picture-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv1 | 1 | 100% |  |
+| [<span class="wiki-icon">📖</span>絵本を読む](/ja/action/read-picture-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv3 | 1 | 100% |  |
 
 ## 解放条件
 
@@ -40,6 +40,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 0 |
@@ -69,6 +70,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

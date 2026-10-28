@@ -1,6 +1,6 @@
 # ミュータント
 
-<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">ミュータント</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧟</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv32</td></tr><tr><th>所要時間</th><td>6分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>206</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">ミュータント</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧟</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv32</td></tr><tr><th>所要時間</th><td>2秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.14</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 科学の失敗作。何に変異するか予測不可。
 
@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv32以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) ×1（消費する）
+- [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) ×1（0.556%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,9 +18,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥩</span>培養肉](/ja/item/cultured-meat) ×3 | 成功時 | 92.2% | 1.4 | 0.027 |
-| [<span class="wiki-icon">🥩</span>ソイミート](/ja/item/soy-meat) ×2 | 成功時 | 57.6% | 0.576 | 0.011 |
-| [<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil) ×2 | 成功時 | 40% | 0.4 | 0.008 |
+| [<span class="wiki-icon">🥩</span>培養肉](/ja/item/cultured-meat) ×1 | 成功時 | 1.54% | 0.008 | 0.027 |
+| [<span class="wiki-icon">🥩</span>ソイミート](/ja/item/soy-meat) ×1 | 成功時 | 0.64% | 0.003 | 0.011 |
+| [<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil) ×1 | 成功時 | 0.444% | 0.002 | 0.008 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -40,8 +40,8 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv32） | 0.261% | 14.6% | 75% | 23.1% | 15.3% | 510.7 | 5,723.6% | 2日3時間 | 負ける見込みが高い |
-| +10（Lv42） | 0.392% | 11.9% | 81.8% | 26.9% | 21.3% | 312.9 | 2,721.8% | 1日1時間 | 負ける見込みが高い |
+| ±0（Lv32） | 0.261% | 14.6% | 75% | 23.1% | 15.3% | 510.7 | 5,723.6% | 17分3秒 | 負ける見込みが高い |
+| +10（Lv42） | 0.392% | 11.9% | 81.8% | 26.9% | 21.3% | 312.9 | 2,721.8% | 8分33秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -49,8 +49,8 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv32） | 6分 | 50% | 206 | 0 | 2 |
-| +10（Lv42） | 4分54秒 | 60% | 137.33 | 0 | 3 |
+| ±0（Lv32） | 2秒 | 50% | 1.14 | 3.5 | 2 |
+| +10（Lv42） | 1.6秒 | 60% | 0.76 | 7 | 3 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -74,8 +74,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `32` |
-| `experience` | `206` |
-| `seconds` | `360` |
+| `experience` | `1.14` |
+| `seconds` | `2` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -104,8 +104,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 32,
-	"experience": 206,
-	"seconds": 360,
+	"experience": 1.14,
+	"seconds": 2,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -113,7 +113,7 @@
 			"type": "item",
 			"id": "g-virus",
 			"count": 1,
-			"chance": 1,
+			"chance": 0.00556,
 			"equipment": false
 		}
 	],
@@ -121,20 +121,20 @@
 		{
 			"type": "item",
 			"id": "cultured-meat",
-			"count": 3,
-			"chance": 0.922
+			"count": 1,
+			"chance": 0.0154
 		},
 		{
 			"type": "item",
 			"id": "soy-meat",
-			"count": 2,
-			"chance": 0.576
+			"count": 1,
+			"chance": 0.0064
 		},
 		{
 			"type": "item",
 			"id": "waste-oil",
-			"count": 2,
-			"chance": 0.4
+			"count": 1,
+			"chance": 0.00444
 		}
 	],
 	"progressType": "stamina",

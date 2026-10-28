@@ -1,6 +1,6 @@
 # 歩くキノコ
 
-<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">歩くキノコ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍄</span></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>2分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>69</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">歩くキノコ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍄</span></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>2.7秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.54</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 自ら歩く菌類。胞子は危険。
 
@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv8以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) ×1（消費する）
+- [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) ×1（2.25%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,10 +18,10 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) ×3 | 成功時 | 92.2% | 1.4 | 1.2 |
-| [<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) ×7 | 成功時 | 80% | 2.8 | 2.4 |
-| [<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) ×5 | 成功時 | 56% | 1.4 | 1.2 |
-| [<span class="wiki-icon">🪪</span>社員証](/ja/item/employee-badge) ×2 | 成功時 | 57.6% | 0.576 | 0.484 |
+| [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) ×1 | 成功時 | 6.22% | 0.031 | 1.2 |
+| [<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) ×1 | 成功時 | 12.6% | 0.063 | 2.4 |
+| [<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) ×1 | 成功時 | 6.3% | 0.032 | 1.2 |
+| [<span class="wiki-icon">🪪</span>社員証](/ja/item/employee-badge) ×1 | 成功時 | 2.59% | 0.013 | 0.484 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,10 +41,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv8） | 3.95% | 7.17% | 75% | 24.2% | 22% | 34.7 | 188.4% | 1時間11分 | 負ける見込みが高い |
-| +10（Lv18） | 5.93% | 5.86% | 81.8% | 28.2% | 29.7% | 20.8 | 87.4% | 35分34秒 | 連戦で少しずつ消耗する |
-| +20（Lv28） | 8.89% | 4.78% | 87.1% | 32.4% | 38.8% | 13.8 | 44.5% | 19分42秒 | 連戦で少しずつ消耗する |
-| +30（Lv38） | 13.3% | 3.9% | 91% | 37% | 48.8% | 8.8 | 21.6% | 10分39秒 | 放置で連戦できる |
+| ±0（Lv8） | 3.95% | 7.17% | 75% | 24.2% | 22% | 34.7 | 188.4% | 1分36秒 | 負ける見込みが高い |
+| +10（Lv18） | 5.93% | 5.86% | 81.8% | 28.2% | 29.7% | 20.8 | 87.4% | 48秒 | 連戦で少しずつ消耗する |
+| +20（Lv28） | 8.89% | 4.78% | 87.1% | 32.4% | 38.8% | 13.8 | 44.5% | 26.6秒 | 連戦で少しずつ消耗する |
+| +30（Lv38） | 13.3% | 3.9% | 91% | 37% | 48.8% | 8.8 | 21.6% | 14.4秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -52,10 +52,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv8） | 2分 | 50% | 69 | 0.8 | 29 |
-| +10（Lv18） | 1分38秒 | 60% | 46 | 1.7 | 47 |
-| +20（Lv28） | 1分20秒 | 69.2% | 30.67 | 3 | 65 |
-| +30（Lv38） | 1分5秒 | 77.1% | 20.44 | 5.6 | 89 |
+| ±0（Lv8） | 2.7秒 | 50% | 1.54 | 37.4 | 29 |
+| +10（Lv18） | 2.2秒 | 60% | 1.03 | 75 | 46 |
+| +20（Lv28） | 1.8秒 | 69.2% | 0.68 | 135.3 | 64 |
+| +30（Lv38） | 1.5秒 | 77.1% | 0.46 | 250.2 | 88 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -79,8 +79,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `8` |
-| `experience` | `69` |
-| `seconds` | `120` |
+| `experience` | `1.54` |
+| `seconds` | `2.7` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -109,8 +109,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 8,
-	"experience": 69,
-	"seconds": 120,
+	"experience": 1.54,
+	"seconds": 2.7,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -118,7 +118,7 @@
 			"type": "item",
 			"id": "rotten-meat",
 			"count": 1,
-			"chance": 1,
+			"chance": 0.0225,
 			"equipment": false
 		}
 	],
@@ -126,26 +126,26 @@
 		{
 			"type": "item",
 			"id": "king-oyster-mushroom",
-			"count": 3,
-			"chance": 0.922
+			"count": 1,
+			"chance": 0.0622
 		},
 		{
 			"type": "item",
 			"id": "mushroom",
-			"count": 7,
-			"chance": 0.8
+			"count": 1,
+			"chance": 0.126
 		},
 		{
 			"type": "item",
 			"id": "leaf-mold",
-			"count": 5,
-			"chance": 0.56
+			"count": 1,
+			"chance": 0.063
 		},
 		{
 			"type": "item",
 			"id": "employee-badge",
-			"count": 2,
-			"chance": 0.576
+			"count": 1,
+			"chance": 0.0259
 		}
 	],
 	"progressType": "stamina",

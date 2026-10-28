@@ -1,6 +1,6 @@
 # 絆創膏
 
-<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">絆創膏</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🩹</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/potion"><span class="wiki-icon">🧪</span>ポーション</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/emergency-care"><span class="wiki-icon">🚑</span>応急処置</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">絆創膏</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🩹</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/potion"><span class="wiki-icon">🧪</span>ポーション</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>20%</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/emergency-care"><span class="wiki-icon">🚑</span>応急処置</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 貼ると安心する。剥がすとダメージを受ける。
 
@@ -15,7 +15,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 1 | 100% | 1 | 40 |
+| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 7 | 100% | 7 | 420 |
 
 ## 解放条件
 
@@ -38,6 +38,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `0.2` |
 | `skill` | `emergency-care` |
 | CSV `tier` | 3 |
 | CSV `rare` | 0 |
@@ -67,6 +68,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 0.2,
 	"requirements": [
 		{
 			"type": "category",

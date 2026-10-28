@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>軍用イワシ](/ja/action/make-military-sardine) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 1 | 100% |  |
+| [<span class="wiki-icon">🐟</span>軍用イワシ](/ja/action/make-military-sardine) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv30 | 1 | 100% |  |
 | [<span class="wiki-icon">💣</span>手榴弾を作る](/ja/action/craft-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 2 | 100% |  |
 | [<span class="wiki-icon">🧨</span>ダイナマイトを作る](/ja/action/craft-dynamite) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv35 | 3 | 100% |  |
 
@@ -38,6 +38,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 0 |
@@ -67,6 +68,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

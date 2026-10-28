@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 | 1 | 10.4% | 0.052 | 0.001 |
+| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 | 1 | 0.114% | 0.001 | 0.001 |
 | [<span class="wiki-icon">🐉</span>竜の巣穴](/ja/action/dragon-den) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv8 | 1 | 12.4% | 0.124 | 0.05 |
 
 ## 用途
@@ -20,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv6 | 1 | 100% |  |
+| [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv19 | 2 | 100% |  |
 | [<span class="wiki-icon">💔</span>ハートのカケラを繋ぐ](/ja/action/connect-heart-piece) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv24 | 3 | 100% |  |
 | [<span class="wiki-icon">❄️</span>スノードームを作る](/ja/action/craft-snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv25 | 1 | 100% |  |
 
@@ -39,6 +39,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 5 |
 | CSV `rare` | 4 |
@@ -68,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

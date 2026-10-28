@@ -19,28 +19,28 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐥</span>ヒヨコを遊ばせる](/ja/action/play-with-chick) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv1 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv1 | 30分 | 100% | 1,030 |
-| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv3 | 1時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv3 | 1時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1分 | 50% | 117 |
-| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv6 | 1時間30分 | 100% | 1,029 |
-| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv6 | 1時間30分 | 100% | 1,029 |
-| [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv6 | 1時間30分 | 100% | 1,029 |
-| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv8 | 2時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv8 | 2時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv8 | 2時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv10 | 2時間30分 | 100% | 1,029 |
-| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2分 | 50% | 115 |
-| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv13 | 3時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv15 | 3時間30分 | 100% | 1,029 |
-| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv15 | 3時間30分 | 100% | 1,029 |
-| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv18 | 4時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv18 | 4時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv20 | 5時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv20 | 5時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv20 | 5時間 | 100% | 1,029 |
+| [<span class="wiki-icon">🐥</span>ヒヨコを遊ばせる](/ja/action/play-with-chick) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv1 | 30分 | 100% | 92 |
+| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv4 | 1時間 | 65% | 92 |
+| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1.7秒 | 50% | 114 |
+| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv6 | 30分 | 50% | 92 |
+| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv9 | 1時間30分 | 90% | 91 |
+| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.6秒 | 50% | 114 |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2.2秒 | 50% | 115 |
+| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv12 | 30分 | 50% | 92 |
+| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv15 | 2時間 | 60% | 91 |
+| [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv17 | 45分 | 65% | 92 |
+| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv20 | 3時間 | 50% | 91 |
+| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv23 | 1時間30分 | 50% | 91 |
+| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv26 | 4時間 | 100% | 91 |
+| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv28 | 2時間 | 60% | 91 |
+| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv31 | 6時間 | 75% | 91 |
+| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv34 | 2時間30分 | 65% | 91 |
+| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv36 | 8時間 | 55% | 91 |
+| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv39 | 4時間 | 75% | 91 |
+| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv42 | 11時間 | 85% | 91 |
+| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv45 | 5時間 | 75% | 91 |
+| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv47 | 12時間 | 70% | 91 |
+| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv50 | 7時間 | 80% | 91 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
 
@@ -90,7 +90,7 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -100,6 +100,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
@@ -181,15 +182,25 @@
 
 | レベル | 累計経験値 | 開くもの |
 | --- | --- | --- |
-| Lv1 | 0 | [<span class="wiki-icon">🐥</span>ヒヨコを遊ばせる](/ja/action/play-with-chick)（実行）<br>[<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish)（実行）<br>[<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick)（解放） |
-| Lv3 | 211 | [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster)（実行）<br>[<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn)（実行） |
-| Lv6 | 623 | [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken)（実行）<br>[<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck)（実行）<br>[<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog)（実行） |
-| Lv8 | 978 | [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle)（実行）<br>[<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot)（実行）<br>[<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones)（実行） |
-| Lv10 | 1,416 | [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing)（実行） |
-| Lv13 | 2,271 | [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2)（実行） |
-| Lv15 | 3,009 | [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan)（実行）<br>[<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox)（実行） |
-| Lv18 | 4,450 | [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat)（実行）<br>[<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon)（実行） |
-| Lv20 | 5,694 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish)（実行）<br>[<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig)（実行）<br>[<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox)（実行） |
+| Lv1 | 0 | [<span class="wiki-icon">🐥</span>ヒヨコを遊ばせる](/ja/action/play-with-chick)（実行）<br>[<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick)（解放） |
+| Lv4 | 334 | [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish)（実行） |
+| Lv6 | 623 | [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster)（実行） |
+| Lv9 | 1,186 | [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn)（実行） |
+| Lv12 | 1,956 | [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken)（実行） |
+| Lv15 | 3,009 | [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck)（実行） |
+| Lv17 | 3,919 | [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog)（実行） |
+| Lv20 | 5,694 | [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle)（実行） |
+| Lv23 | 8,121 | [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot)（実行） |
+| Lv26 | 11,441 | [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones)（実行） |
+| Lv28 | 14,308 | [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing)（実行） |
+| Lv31 | 19,902 | [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2)（実行） |
+| Lv34 | 27,553 | [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan)（実行） |
+| Lv36 | 34,159 | [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox)（実行） |
+| Lv39 | 47,051 | [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat)（実行） |
+| Lv42 | 64,683 | [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon)（実行） |
+| Lv45 | 88,796 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish)（実行） |
+| Lv47 | 109,617 | [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig)（実行） |
+| Lv50 | 150,250 | [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox)（実行） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
@@ -365,6 +376,10 @@
 | 決定2段2 | 0 | **2** | ペットが落としていた `秘石`（装飾 tier4）を外したため、`北国/巨神兵`・`天空のお庭/大佐` が**繰り返せない素材を繰り返し消費する**形として顕在化した |
 
 **段2 の2件は、庭が二重経路で隠していたものが表に出ただけ。** `秘石` は tier4 の拾う装備なので海の収集・討伐に置けば繰り返せるようになる。北国の回で `聖書` に経路が付いて段2 が増えたのと同じ「分類が進んだ」型の増え方で、**次の「ダンジョンへの配り残し」の回で解く**。
+
+### 2026-10-28 の配り直し
+
+ペット19本を Lv1〜50 へ1本ずつ（討伐3本は武器の物差しのまま）。秒数30分〜12時間・成功率50〜100%・Lv50 まで約70日（独立レーン）。経緯と値は [plan.md](../doc/plan.md)「拠点6カテゴリの配り直し（2026-10-28）」。
 
 </details>
 

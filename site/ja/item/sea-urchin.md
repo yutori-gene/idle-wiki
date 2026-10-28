@@ -1,13 +1,13 @@
 # ウニ
 
-<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">ウニ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦔</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>135 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">ウニ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦔</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>50%</td></tr><tr><th>売値</th><td>135 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 刺さると痛い海のとげ球。
 
 
 ## 性能
 
-装備しているあいだ効く（同じグループで装備できるのは1つ）。使うたびに消費する。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
+装備しているあいだ効く（同じグループで装備できるのは1つ）。使うたびに 50% の確率で消費する。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
 | 効き先 | 攻撃 | 精度 |
 | --- | --- | --- |
@@ -27,7 +27,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 3 | 100% |  |
+| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv40 | 7 | 100% |  |
 | [<span class="wiki-icon">🦔</span>ウニを分解する](/ja/action/disassemble-sea-urchin) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv25 | 1 | 100% |  |
 
 ## 解放条件
@@ -51,6 +51,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `0.5` |
 | `skill` | （空） |
 | CSV `tier` | 5 |
 | CSV `rare` | 3 |
@@ -80,6 +81,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 0.5,
 	"requirements": [
 		{
 			"type": "category",

@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🏜️</span>熱砂の斜面](/ja/action/hot-sand-slope) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv1 | 7 | 91% | 3.2 | 164 |
-| [<span class="wiki-icon">🪱</span>マグマワーム](/ja/action/magma-worm) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 7 | 80% | 2.8 | 0.003 |
+| [<span class="wiki-icon">🪱</span>マグマワーム](/ja/action/magma-worm) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 1 | 2.8% | 0.014 | 0.003 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -29,6 +29,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 0 |
@@ -58,6 +59,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

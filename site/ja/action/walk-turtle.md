@@ -1,6 +1,6 @@
 # カメを散歩させる
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">カメを散歩させる</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐢</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>2時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>2,058</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">カメを散歩させる</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐢</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv20</td></tr><tr><th>所要時間</th><td>3時間</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>547</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 歩幅に合わせると一日が終わる。道すがら実を拾ってくる。
 
@@ -9,9 +9,9 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv8以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv20以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) ×1（消費しない）
-- [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) ×1（消費する）
+- [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) ×2（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,18 +19,18 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn) ×3 | 成功時 | 100% | 3 | 1.5 |
+| [<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn) ×9 | 成功時 | 100% | 4.5 | 1.5 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv8） | 2時間 | 100% | 2,058 | 0.5 | 1,029 |
-| +10（Lv18） | 1時間37分 | 100% | 1,372 | 0.6 | 840 |
-| +20（Lv28） | 1時間20分 | 100% | 914.67 | 0.8 | 686 |
-| +30（Lv38） | 1時間5分 | 100% | 609.78 | 0.9 | 560 |
+| ±0（Lv20） | 3時間 | 50% | 547 | 0.3 | 91 |
+| +10（Lv30） | 2時間26分 | 60% | 364.67 | 0.4 | 89 |
+| +20（Lv40） | 2時間 | 69.2% | 243.11 | 0.5 | 84 |
+| +30（Lv50） | 1時間37分 | 77.1% | 162.07 | 0.6 | 77 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -38,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 2 | 1 | 1 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 2 | 1 | 0 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -53,10 +53,10 @@
 | `attribute` | （空） |
 | `group` | `pet` |
 | `unlocked` | `hidden` |
-| `level` | `8` |
-| `experience` | `2058` |
-| `seconds` | `7200` |
-| `chance` | `1` |
+| `level` | `20` |
+| `experience` | `547` |
+| `seconds` | `10800` |
+| `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 4 |
@@ -82,10 +82,10 @@
 	"attribute": "",
 	"group": "pet",
 	"unlocked": "hidden",
-	"level": 8,
-	"experience": 2058,
-	"seconds": 7200,
-	"chance": 1,
+	"level": 20,
+	"experience": 547,
+	"seconds": 10800,
+	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -98,7 +98,7 @@
 		{
 			"type": "item",
 			"id": "nut",
-			"count": 1,
+			"count": 2,
 			"chance": 1,
 			"equipment": false
 		}
@@ -107,7 +107,7 @@
 		{
 			"type": "item",
 			"id": "acorn",
-			"count": 3,
+			"count": 9,
 			"chance": 1
 		}
 	],

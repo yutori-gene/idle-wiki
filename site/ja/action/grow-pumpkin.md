@@ -1,15 +1,16 @@
-# カボチャの栽培
+# カボチャ
 
-<div class="wiki-infobox" style="--accent:#6fb07a"><div class="wiki-infobox-title">カボチャの栽培</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎃</span></div><table><tr><th>場所</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cultivate"><span class="wiki-icon">🌱</span>栽培</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>515</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6fb07a"><div class="wiki-infobox-title">カボチャ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎃</span></div><table><tr><th>場所</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cultivate"><span class="wiki-icon">🌱</span>栽培</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv4</td></tr><tr><th>所要時間</th><td>2時間</td></tr><tr><th>成功率</th><td>90%</td></tr><tr><th>経験値</th><td>195</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
-> 種からカボチャを育てる。
+> カボチャを植えて増やす。
 
 
 **連続**: 時間で進み、止めるまで繰り返す。オフライン中も進む。
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🎃</span>カボチャの種](/ja/item/pumpkin-seed) ×1（80%で消費）
+- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv4以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🎃</span>カボチャ](/ja/item/pumpkin) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -17,19 +18,19 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎃</span>カボチャ](/ja/item/pumpkin) ×5 | 成功時 | 100% | 5 | 10 |
-| [<span class="wiki-icon">🎃</span>カボチャの種](/ja/item/pumpkin-seed) ×1 | 成功時 | 30% | 0.3 | 0.6 |
+| [<span class="wiki-icon">🎃</span>カボチャ](/ja/item/pumpkin) ×22 | 成功時 | 100% | 19.8 | 9.9 |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) ×1 | 成功時 | 50% | 0.45 | 0.225 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 90%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv1） | 30分 | 100% | 515 | 2 | 1,030 |
-| +10（Lv11） | 24分30秒 | 100% | 343.33 | 2.4 | 841 |
-| +20（Lv21） | 20分 | 100% | 228.89 | 3 | 687 |
-| +30（Lv31） | 16分20秒 | 100% | 152.59 | 3.7 | 561 |
+| ±0（Lv4） | 2時間 | 90% | 195 | 0.5 | 88 |
+| +10（Lv14） | 1時間37分 | 93.1% | 130 | 0.6 | 74 |
+| +20（Lv24） | 1時間20分 | 95.3% | 86.67 | 0.8 | 62 |
+| +30（Lv34） | 1時間5分 | 96.8% | 57.78 | 0.9 | 51 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -37,11 +38,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 11 | 2 | 9 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 10 | 1 | 10 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">温室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/grow-carrot"><span class="wiki-icon">🥕</span>ニンジンの栽培</a> ・ <a href="#/ja/action/grow-pumpkin"><span class="wiki-icon">🎃</span>カボチャの栽培</a> ・ <a href="#/ja/action/grow-garlic"><span class="wiki-icon">🧄</span>ニンニクの栽培</a> ・ <a href="#/ja/action/grow-wheat"><span class="wiki-icon">🌾</span>小麦の栽培</a> ・ <a href="#/ja/action/grow-lettuce"><span class="wiki-icon">🥬</span>サラダ菜の栽培</a> ・ <a href="#/ja/action/grow-banana"><span class="wiki-icon">🍌</span>バナナの栽培</a> ・ <a href="#/ja/action/grow-apple"><span class="wiki-icon">🍎</span>リンゴの栽培</a> ・ <a href="#/ja/action/harvest-honey"><span class="wiki-icon">🍯</span>蜂蜜の採取</a> ・ <a href="#/ja/action/breed-axolotl"><span class="wiki-icon">🦎</span>ウーパールーパーの繁殖</a> ・ <a href="#/ja/action/grow-herb"><span class="wiki-icon">🌿</span>薬草の栽培</a> ・ <a href="#/ja/action/grow-hemp"><span class="wiki-icon">🌿</span>大麻の栽培</a> ・ <a href="#/ja/action/grow-potato"><span class="wiki-icon">🥔</span>ジャガイモの栽培</a> ・ <a href="#/ja/action/grow-truffle"><span class="wiki-icon">🍄</span>トリュフの栽培</a> ・ <a href="#/ja/action/grow-chili"><span class="wiki-icon">🌶️</span>とうがらしの栽培</a> ・ <a href="#/ja/action/grow-poison-herb"><span class="wiki-icon">☠️</span>毒草の栽培</a> ・ <a href="#/ja/action/grow-aromatic-herb"><span class="wiki-icon">🌿</span>香草の栽培</a> ・ <a href="#/ja/action/grow-world-tree-leaf"><span class="wiki-icon">🌳</span>世界樹の葉の栽培</a></div></div>
+<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">温室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/grow-carrot"><span class="wiki-icon">🥕</span>ニンジン</a> ・ <a href="#/ja/action/cut-earthworm"><span class="wiki-icon">🪱</span>ミミズの切断</a> ・ <a href="#/ja/action/grow-pumpkin"><span class="wiki-icon">🎃</span>カボチャ</a> ・ <a href="#/ja/action/grow-garlic"><span class="wiki-icon">🧄</span>ニンニク</a> ・ <a href="#/ja/action/grow-wheat"><span class="wiki-icon">🌾</span>小麦</a> ・ <a href="#/ja/action/grow-lettuce"><span class="wiki-icon">🥬</span>サラダ菜</a> ・ <a href="#/ja/action/grow-banana"><span class="wiki-icon">🍌</span>バナナ</a> ・ <a href="#/ja/action/grow-apple"><span class="wiki-icon">🍎</span>リンゴ</a> ・ <a href="#/ja/action/harvest-honey"><span class="wiki-icon">🍯</span>蜂蜜の採取</a> ・ <a href="#/ja/action/breed-axolotl"><span class="wiki-icon">🦎</span>ウーパールーパー</a> ・ <a href="#/ja/action/grow-herb"><span class="wiki-icon">🌿</span>薬草</a> ・ <a href="#/ja/action/grow-hemp"><span class="wiki-icon">🌿</span>大麻</a> ・ <a href="#/ja/action/grow-potato"><span class="wiki-icon">🥔</span>ジャガイモ</a> ・ <a href="#/ja/action/grow-truffle"><span class="wiki-icon">🍄</span>トリュフ</a> ・ <a href="#/ja/action/grow-chili"><span class="wiki-icon">🌶️</span>とうがらし</a> ・ <a href="#/ja/action/grow-poison-herb"><span class="wiki-icon">☠️</span>毒草</a> ・ <a href="#/ja/action/grow-aromatic-herb"><span class="wiki-icon">🌿</span>香草</a> ・ <a href="#/ja/action/grow-world-tree-leaf"><span class="wiki-icon">🌳</span>世界樹の葉</a></div></div>
 
 ## 開発者向け情報
 
@@ -52,10 +53,10 @@
 | `attribute` | （空） |
 | `group` | `cultivate` |
 | `unlocked` | `hidden` |
-| `level` | `1` |
-| `experience` | `515` |
-| `seconds` | `1800` |
-| `chance` | `1` |
+| `level` | `4` |
+| `experience` | `195` |
+| `seconds` | `7200` |
+| `chance` | `0.9` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 1 |
@@ -68,8 +69,8 @@
 {
 	"information": {
 		"id": "grow-pumpkin",
-		"name": "カボチャの栽培",
-		"explanation": "種からカボチャを育てる。",
+		"name": "カボチャ",
+		"explanation": "カボチャを植えて増やす。",
 		"icon": {
 			"emoji": "🎃",
 			"iconify": "",
@@ -81,17 +82,17 @@
 	"attribute": "",
 	"group": "cultivate",
 	"unlocked": "hidden",
-	"level": 1,
-	"experience": 515,
-	"seconds": 1800,
-	"chance": 1,
+	"level": 4,
+	"experience": 195,
+	"seconds": 7200,
+	"chance": 0.9,
 	"maximum": 0,
 	"requirements": [
 		{
 			"type": "item",
-			"id": "pumpkin-seed",
+			"id": "pumpkin",
 			"count": 1,
-			"chance": 0.8,
+			"chance": 1,
 			"equipment": false
 		}
 	],
@@ -99,14 +100,14 @@
 		{
 			"type": "item",
 			"id": "pumpkin",
-			"count": 5,
+			"count": 22,
 			"chance": 1
 		},
 		{
 			"type": "item",
-			"id": "pumpkin-seed",
+			"id": "earthworm",
 			"count": 1,
-			"chance": 0.3
+			"chance": 0.5
 		}
 	],
 	"progressType": "persistent",

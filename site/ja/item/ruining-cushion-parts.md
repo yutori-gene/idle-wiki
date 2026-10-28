@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 1 | 100% | 1 | 15 |
+| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 1 | 100% | 1 | 30 |
 
 ## 用途
 
@@ -36,6 +36,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 6 |
@@ -65,6 +66,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

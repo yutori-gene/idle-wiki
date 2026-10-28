@@ -131,6 +131,8 @@ export interface Item {
 	coinId: string;
 	maximum: number;
 	equipmentType: Condition.EquipmentTypes;
+	// consumable のときに1回の実行で消費される確率（0〜1）。それ以外の装備タイプでは使わない
+	consumeChance: number;
 	requirements: Requirement[];
 	properties: Property[];
 	// 味方側のスキルID。実体はワールド直下のskillsで定義する

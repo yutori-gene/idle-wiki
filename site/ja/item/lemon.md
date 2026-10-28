@@ -29,13 +29,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 2 | 100% |  |
+| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 3 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる（購入もできるようになる）。
 
-- [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv4以上
+- [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -52,6 +52,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 0 |
@@ -81,11 +82,12 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",
 			"id": "kitchen",
-			"count": 4,
+			"count": 9,
 			"chance": 1,
 			"equipment": false
 		}

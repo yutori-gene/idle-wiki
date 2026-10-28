@@ -1,6 +1,6 @@
 # スターロッド
 
-<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">スターロッド</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪄</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>2,187 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/suppression"><span class="wiki-icon">🎯</span>制圧</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">スターロッド</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪄</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>2,187 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/suppression"><span class="wiki-icon">🎯</span>制圧</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 星の力を宿した魔法の杖。
 
@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪄</span>スターロッドを作る](/ja/action/craft-star-rod) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv46 | 1 | 100% | 1 | 0.222 |
+| [<span class="wiki-icon">🪄</span>スターロッドを作る](/ja/action/craft-star-rod) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv46 | 120 | 100% | 120 | 26.7 |
 
 ## 解放条件
 
@@ -45,6 +45,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `1` |
 | `skill` | `suppression` |
 | CSV `tier` | 9 |
 | CSV `rare` | 5 |
@@ -74,6 +75,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

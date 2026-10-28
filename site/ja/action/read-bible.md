@@ -1,6 +1,6 @@
 # 聖書を読む
 
-<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">聖書を読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📖</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>5時間35分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>5,748</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">聖書を読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📖</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv36</td></tr><tr><th>所要時間</th><td>1日</td></tr><tr><th>成功率</th><td>70%</td></tr><tr><th>経験値</th><td>2,580</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 人類最大のベストセラー。三つの徳が三角に組まれている。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv8以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv36以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">📖</span>聖書](/ja/item/bible) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -18,18 +18,16 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔺</span>トライフォース](/ja/item/triforce) ×1 | 成功時 | 100% | 1 | 0.179 |
+| [<span class="wiki-icon">🔺</span>トライフォース](/ja/item/triforce) ×1 | 成功時 | 100% | 0.7 | 0.029 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 70%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv8） | 5時間35分 | 100% | 5,748 | 0.2 | 1,029 |
-| +10（Lv18） | 4時間33分 | 100% | 3,832 | 0.2 | 840 |
-| +20（Lv28） | 3時間43分 | 100% | 2,554.67 | 0.3 | 686 |
-| +30（Lv38） | 3時間2分 | 100% | 1,703.11 | 0.3 | 560 |
+| ±0（Lv36） | 1日 | 70% | 2,580 | 0 | 75 |
+| +10（Lv46） | 19時間35分 | 77.8% | 1,720 | 0.1 | 68 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -37,7 +35,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 217 | -217 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 51 | -51 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -52,10 +50,10 @@
 | `attribute` | （空） |
 | `group` | `reading` |
 | `unlocked` | `hidden` |
-| `level` | `8` |
-| `experience` | `5748` |
-| `seconds` | `20115` |
-| `chance` | `1` |
+| `level` | `36` |
+| `experience` | `2580` |
+| `seconds` | `86400` |
+| `chance` | `0.7` |
 | `maximum` | `0` |
 | `progressType` | `single` |
 | CSV `tier` | 5 |
@@ -81,10 +79,10 @@
 	"attribute": "",
 	"group": "reading",
 	"unlocked": "hidden",
-	"level": 8,
-	"experience": 5748,
-	"seconds": 20115,
-	"chance": 1,
+	"level": 36,
+	"experience": 2580,
+	"seconds": 86400,
+	"chance": 0.7,
 	"maximum": 0,
 	"requirements": [
 		{

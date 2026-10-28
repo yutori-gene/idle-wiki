@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪱</span>マグマワーム](/ja/action/magma-worm) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 1 | 22.5% | 0.113 | 0 |
+| [<span class="wiki-icon">🪱</span>マグマワーム](/ja/action/magma-worm) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 1 | 0.113% | 0.001 | 0 |
 
 ### イベント
 
@@ -42,6 +42,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 3 |
@@ -71,6 +72,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

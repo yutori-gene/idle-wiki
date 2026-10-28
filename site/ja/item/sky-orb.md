@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🌫️</span>霞の林](/ja/action/haze-grove) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv3 | 2 | 25.9% | 0.259 | 9.3 |
-| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv48 | 1 | 30.2% | 0.151 | 0 |
+| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv48 | 1 | 0.146% | 0.001 | 0 |
 
 ## 用途
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
 | CSV `rare` | 2 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

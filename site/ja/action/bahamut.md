@@ -1,6 +1,6 @@
 # バハムート
 
-<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">バハムート</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐉</span></div><table><tr><th>場所</th><td><a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv27</td></tr><tr><th>所要時間</th><td>5分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>172</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">バハムート</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐉</span></div><table><tr><th>場所</th><td><a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv27</td></tr><tr><th>所要時間</th><td>3.5秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>2</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 龍の王。世界そのものを揺るがす。
 
@@ -15,10 +15,10 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×7 | 成功時 | 96% | 3.4 | 0.047 |
-| [<span class="wiki-icon">🌌</span>極光石](/ja/item/auroral-stone) ×1 | 成功時 | 22.5% | 0.113 | 0.002 |
-| [<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) ×1 | 成功時 | 18.7% | 0.094 | 0.001 |
-| [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) ×1 | 成功時 | 8.64% | 0.043 | 0.001 |
+| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×1 | 成功時 | 7.84% | 0.039 | 0.047 |
+| [<span class="wiki-icon">🌌</span>極光石](/ja/item/auroral-stone) ×1 | 成功時 | 0.262% | 0.001 | 0.002 |
+| [<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) ×1 | 成功時 | 0.218% | 0.001 | 0.001 |
+| [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) ×1 | 成功時 | 0.101% | 0.001 | 0.001 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,9 +41,9 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv27） | 0.154% | 11.4% | 75% | 22.1% | 19.3% | 865.3 | 7,709.6% | 3日 | 負ける見込みが高い |
-| +10（Lv37） | 0.231% | 9.34% | 81.8% | 25.8% | 26.5% | 529.2 | 3,667.8% | 1日12時間 | 負ける見込みが高い |
-| +20（Lv47） | 0.347% | 7.62% | 87.1% | 29.8% | 35% | 331.8 | 1,774.9% | 18時間29分 | 負ける見込みが高い |
+| ±0（Lv27） | 0.154% | 11.4% | 75% | 22.1% | 19.3% | 865.3 | 7,709.6% | 50分32秒 | 負ける見込みが高い |
+| +10（Lv37） | 0.231% | 9.34% | 81.8% | 25.8% | 26.5% | 529.2 | 3,667.8% | 25分15秒 | 負ける見込みが高い |
+| +20（Lv47） | 0.347% | 7.62% | 87.1% | 29.8% | 35% | 331.8 | 1,774.9% | 12分57秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -51,9 +51,9 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv27） | 5分 | 50% | 172 | 0 | 1 |
-| +10（Lv37） | 4分5秒 | 60% | 114.67 | 0 | 2 |
-| +20（Lv47） | 3分20秒 | 69.2% | 76.44 | 0.1 | 3 |
+| ±0（Lv27） | 3.5秒 | 50% | 2 | 1.2 | 1 |
+| +10（Lv37） | 2.9秒 | 60% | 1.33 | 2.4 | 2 |
+| +20（Lv47） | 2.3秒 | 69.2% | 0.89 | 4.6 | 3 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -77,8 +77,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `27` |
-| `experience` | `172` |
-| `seconds` | `300` |
+| `experience` | `2` |
+| `seconds` | `3.5` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -107,8 +107,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 27,
-	"experience": 172,
-	"seconds": 300,
+	"experience": 2,
+	"seconds": 3.5,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [],
@@ -116,26 +116,26 @@
 		{
 			"type": "item",
 			"id": "big-bone",
-			"count": 7,
-			"chance": 0.96
+			"count": 1,
+			"chance": 0.0784
 		},
 		{
 			"type": "item",
 			"id": "auroral-stone",
 			"count": 1,
-			"chance": 0.225
+			"chance": 0.00262
 		},
 		{
 			"type": "item",
 			"id": "laurel-crown",
 			"count": 1,
-			"chance": 0.187
+			"chance": 0.00218
 		},
 		{
 			"type": "item",
 			"id": "diamond",
 			"count": 1,
-			"chance": 0.0864
+			"chance": 0.00101
 		}
 	],
 	"progressType": "stamina",

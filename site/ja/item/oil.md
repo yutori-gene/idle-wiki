@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 3 | 76.8% | 1.2 | 0 |
+| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 0.853% | 0.004 | 0 |
 
 ### 購入
 
@@ -23,25 +23,25 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥫</span>マヨネーズを作る](/ja/action/craft-mayonnaise) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 3 | 100% |  |
-| [<span class="wiki-icon">🍞</span>フレンチトースト](/ja/action/cook-french-toast) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv4 | 2 | 100% |  |
-| [<span class="wiki-icon">🍅</span>トマトの卵とじ](/ja/action/cook-tomato-egg-drop) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 3 | 100% |  |
-| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 2 | 100% |  |
-| [<span class="wiki-icon">🍳</span>目玉焼き](/ja/action/cook-fried-egg) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 3 | 100% |  |
-| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 3 | 100% |  |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 2 | 100% |  |
-| [<span class="wiki-icon">🥩</span>ステーキ](/ja/action/cook-steak) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 2 | 100% |  |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 1 | 100% |  |
-| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
-| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
-| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 3 | 100% |  |
-| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 2 | 100% |  |
+| [<span class="wiki-icon">🥫</span>マヨネーズを作る](/ja/action/craft-mayonnaise) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv22 | 12 | 100% |  |
+| [<span class="wiki-icon">🍞</span>フレンチトースト](/ja/action/cook-french-toast) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv3 | 3 | 100% |  |
+| [<span class="wiki-icon">🍅</span>トマトの卵とじ](/ja/action/cook-tomato-egg-drop) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv8 | 2 | 100% |  |
+| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 3 | 100% |  |
+| [<span class="wiki-icon">🍳</span>目玉焼き](/ja/action/cook-fried-egg) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv11 | 2 | 100% |  |
+| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv14 | 3 | 100% |  |
+| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 2 | 100% |  |
+| [<span class="wiki-icon">🥩</span>ステーキ](/ja/action/cook-steak) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv26 | 6 | 100% |  |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv29 | 4 | 100% |  |
+| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv37 | 2 | 100% |  |
+| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv43 | 3 | 100% |  |
+| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv45 | 23 | 100% |  |
+| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv47 | 6 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる（購入もできるようになる）。
 
-- [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv4以上
+- [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -58,6 +58,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 1 |
@@ -88,11 +89,12 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",
 			"id": "kitchen",
-			"count": 4,
+			"count": 9,
 			"chance": 1,
 			"equipment": false
 		}

@@ -41,6 +41,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 5 |
 | CSV `rare` | 5 |
@@ -70,6 +71,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

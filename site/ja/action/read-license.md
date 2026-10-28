@@ -1,6 +1,6 @@
 # 免許証を読む
 
-<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">免許証を読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪪</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>1時間32分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>1,582</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">免許証を読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪪</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv11</td></tr><tr><th>所要時間</th><td>4時間</td></tr><tr><th>成功率</th><td>80%</td></tr><tr><th>経験値</th><td>377</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 更新のたびに、あの写真の自分と向き合う。深く息を吸ってから。
 
@@ -9,6 +9,7 @@
 
 ## 必要なもの
 
+- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv11以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🪪</span>免許証](/ja/item/license) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -17,18 +18,18 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌬️</span>呼吸の力](/ja/item/breathing-power) ×1 | 成功時 | 100% | 1 | 0.65 |
+| [<span class="wiki-icon">🌬️</span>呼吸の力](/ja/item/breathing-power) ×1 | 成功時 | 100% | 0.8 | 0.2 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 80%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv1） | 1時間32分 | 100% | 1,582 | 0.7 | 1,029 |
-| +10（Lv11） | 1時間15分 | 100% | 1,054.67 | 0.8 | 840 |
-| +20（Lv21） | 1時間1分 | 100% | 703.11 | 1 | 686 |
-| +30（Lv31） | 50分13秒 | 100% | 468.74 | 1.2 | 560 |
+| ±0（Lv11） | 4時間 | 80% | 377 | 0.3 | 75 |
+| +10（Lv21） | 3時間15分 | 85.7% | 251.33 | 0.3 | 66 |
+| +20（Lv31） | 2時間40分 | 90% | 167.56 | 0.4 | 57 |
+| +30（Lv41） | 2時間10分 | 93.1% | 111.7 | 0.5 | 48 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -51,10 +52,10 @@
 | `attribute` | （空） |
 | `group` | `reading` |
 | `unlocked` | `hidden` |
-| `level` | `1` |
-| `experience` | `1582` |
-| `seconds` | `5535` |
-| `chance` | `1` |
+| `level` | `11` |
+| `experience` | `377` |
+| `seconds` | `14400` |
+| `chance` | `0.8` |
 | `maximum` | `0` |
 | `progressType` | `single` |
 | CSV `tier` | 2 |
@@ -80,10 +81,10 @@
 	"attribute": "",
 	"group": "reading",
 	"unlocked": "hidden",
-	"level": 1,
-	"experience": 1582,
-	"seconds": 5535,
-	"chance": 1,
+	"level": 11,
+	"experience": 377,
+	"seconds": 14400,
+	"chance": 0.8,
 	"maximum": 0,
 	"requirements": [
 		{

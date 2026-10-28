@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv12 | 1 | 100% |  |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv23 | 2 | 100% |  |
 | [<span class="wiki-icon">⚔️</span>諸刃の剣を作る](/ja/action/craft-double-edged-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv37 | 2 | 100% |  |
 | [<span class="wiki-icon">👟</span>キック力増強シューズを作る](/ja/action/craft-kick-boost-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv33 | 2 | 100% |  |
 
@@ -38,6 +38,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 4 |
@@ -67,6 +68,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

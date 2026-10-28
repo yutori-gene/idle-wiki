@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🚢</span>沈没船探査](/ja/action/shipwreck-survey) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv12 | 2 | 41.8% | 0.836 | 0.418 |
-| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv8 | 1 | 100% | 1 | 0.5 |
+| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv26 | 2 | 100% | 2 | 0.5 |
 
 ## 用途
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 2 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

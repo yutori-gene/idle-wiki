@@ -1,6 +1,6 @@
 # 手榴弾
 
-<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">手榴弾</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💣</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>189 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/short-fuse"><span class="wiki-icon">⏱️</span>導火線を短く</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">手榴弾</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💣</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>189 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/short-fuse"><span class="wiki-icon">⏱️</span>導火線を短く</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ピンを抜いて投げるだけ。
 
@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>手榴弾を作る](/ja/action/craft-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 1 | 100% | 1 | 0.286 |
+| [<span class="wiki-icon">💣</span>手榴弾を作る](/ja/action/craft-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 93 | 100% | 93 | 26.6 |
 
 ## 用途
 
@@ -47,6 +47,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `1` |
 | `skill` | `short-fuse` |
 | CSV `tier` | 7 |
 | CSV `rare` | 3 |
@@ -76,6 +77,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

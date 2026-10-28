@@ -12,8 +12,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🏰</span>城壁の見回り](/ja/action/rampart-patrol) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv1 | 5 | 56% | 1.4 | 63 |
-| [<span class="wiki-icon">🗿</span>ゴーレム](/ja/action/golem) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv38 | 3 | 64% | 0.96 | 0 |
-| [<span class="wiki-icon">🗿</span>ガーゴイル](/ja/action/gargoyle) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv42 | 3 | 64% | 0.96 | 0 |
+| [<span class="wiki-icon">🗿</span>ゴーレム](/ja/action/golem) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv38 | 1 | 1% | 0.005 | 0 |
+| [<span class="wiki-icon">🗿</span>ガーゴイル](/ja/action/gargoyle) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv42 | 1 | 1.28% | 0.006 | 0 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -30,6 +30,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 8 |
 | CSV `rare` | 0 |
@@ -59,6 +60,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

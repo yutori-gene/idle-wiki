@@ -1,6 +1,6 @@
 # マッドサイエンティスト
 
-<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">マッドサイエンティスト</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧪</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv28</td></tr><tr><th>所要時間</th><td>6分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>206</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">マッドサイエンティスト</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧪</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv28</td></tr><tr><th>所要時間</th><td>3.1秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.77</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 倫理を捨てた天才。
 
@@ -15,10 +15,10 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔄</span>永久機関](/ja/item/perpetual-motion-machine) ×1 | 成功時 | 100% | 0.5 | 0.003 |
-| [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) ×1 | 成功時 | 22.5% | 0.113 | 0.001 |
-| [<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log) ×2 | 成功時 | 69.1% | 0.691 | 0.004 |
-| [<span class="wiki-icon">🔵</span>プラズマコア](/ja/item/plasma-core) ×1 | 成功時 | 10.4% | 0.052 | 0 |
+| [<span class="wiki-icon">🔄</span>永久機関](/ja/item/perpetual-motion-machine) ×1 | 成功時 | 0.861% | 0.004 | 0.003 |
+| [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) ×1 | 成功時 | 0.194% | 0.001 | 0.001 |
+| [<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log) ×1 | 成功時 | 1.19% | 0.006 | 0.004 |
+| [<span class="wiki-icon">🔵</span>プラズマコア](/ja/item/plasma-core) ×1 | 成功時 | 0.09% | 0 | 0 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,9 +41,9 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv28） | 0.069% | 15.8% | 75% | 22.1% | 19.3% | 1,946.7 | 23,989.2% | 8日2時間 | 負ける見込みが高い |
-| +10（Lv38） | 0.103% | 12.9% | 81.8% | 25.8% | 26.5% | 1,190.4 | 11,411.7% | 4日1時間 | 負ける見込みが高い |
-| +20（Lv48） | 0.154% | 10.5% | 87.1% | 29.8% | 35% | 745.1 | 5,513% | 2日1時間 | 負ける見込みが高い |
+| ±0（Lv28） | 0.069% | 15.8% | 75% | 22.1% | 19.3% | 1,946.7 | 23,989.2% | 1時間40分 | 負ける見込みが高い |
+| +10（Lv38） | 0.103% | 12.9% | 81.8% | 25.8% | 26.5% | 1,190.4 | 11,411.7% | 50分16秒 | 負ける見込みが高い |
+| +20（Lv48） | 0.154% | 10.5% | 87.1% | 29.8% | 35% | 745.1 | 5,513% | 25分42秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -51,9 +51,9 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv28） | 6分 | 50% | 206 | 0 | 1 |
-| +10（Lv38） | 4分54秒 | 60% | 137.33 | 0 | 1 |
-| +20（Lv48） | 4分 | 69.2% | 91.56 | 0 | 1 |
+| ±0（Lv28） | 3.1秒 | 50% | 1.77 | 0.6 | 1 |
+| +10（Lv38） | 2.5秒 | 60% | 1.18 | 1.2 | 1 |
+| +20（Lv48） | 2.1秒 | 69.2% | 0.79 | 2.3 | 1 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -77,8 +77,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `28` |
-| `experience` | `206` |
-| `seconds` | `360` |
+| `experience` | `1.77` |
+| `seconds` | `3.1` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -107,8 +107,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 28,
-	"experience": 206,
-	"seconds": 360,
+	"experience": 1.77,
+	"seconds": 3.1,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [],
@@ -117,25 +117,25 @@
 			"type": "item",
 			"id": "perpetual-motion-machine",
 			"count": 1,
-			"chance": 1
+			"chance": 0.00861
 		},
 		{
 			"type": "item",
 			"id": "g-virus",
 			"count": 1,
-			"chance": 0.225
+			"chance": 0.00194
 		},
 		{
 			"type": "item",
 			"id": "experiment-log",
-			"count": 2,
-			"chance": 0.691
+			"count": 1,
+			"chance": 0.0119
 		},
 		{
 			"type": "item",
 			"id": "plasma-core",
 			"count": 1,
-			"chance": 0.104
+			"chance": 0.000896
 		}
 	],
 	"progressType": "stamina",

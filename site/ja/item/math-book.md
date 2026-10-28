@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📐</span>数学書を読む](/ja/action/read-math-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv10 | 1 | 100% |  |
+| [<span class="wiki-icon">📐</span>数学書を読む](/ja/action/read-math-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv38 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#7b5a35"><div class="wiki-navbox-title">グループ: 本</div><div class="wiki-navbox-body"><a href="#/ja/item/art-book"><span class="wiki-icon">🎨</span>美術書</a> ・ <a href="#/ja/item/fairy-tale"><span class="wiki-icon">📙</span>童話</a> ・ <a href="#/ja/item/picture-book"><span class="wiki-icon">📖</span>絵本</a> ・ <a href="#/ja/item/diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/item/license"><span class="wiki-icon">🪪</span>免許証</a> ・ <a href="#/ja/item/self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/item/novel"><span class="wiki-icon">📗</span>小説</a> ・ <a href="#/ja/item/manga"><span class="wiki-icon">📚</span>漫画</a> ・ <a href="#/ja/item/newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/item/love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/item/encyclopedia"><span class="wiki-icon">📚</span>百科事典</a> ・ <a href="#/ja/item/ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/item/residence-certificate"><span class="wiki-icon">📄</span>住民票</a> ・ <a href="#/ja/item/beginner-thief-book"><span class="wiki-icon">📕</span>はじめての泥棒</a> ・ <a href="#/ja/item/recipe-book"><span class="wiki-icon">📗</span>レシピ本</a> ・ <a href="#/ja/item/chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/item/map"><span class="wiki-icon">🗺️</span>地図</a> ・ <a href="#/ja/item/history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/item/bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/item/math-book"><span class="wiki-icon">📐</span>数学書</a> ・ <a href="#/ja/item/anatomy-book"><span class="wiki-icon">📕</span>医学書「解体新書」</a> ・ <a href="#/ja/item/forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/item/death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/item/dead-sea-scrolls"><span class="wiki-icon">📜</span>死海文書</a> ・ <a href="#/ja/item/necronomicon"><span class="wiki-icon">📕</span>ネクロノミコン</a> ・ <a href="#/ja/item/catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
 
@@ -36,6 +36,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 4 |
@@ -65,6 +66,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

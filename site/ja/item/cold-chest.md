@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 18.7% | 0.094 | 0.011 |
-| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 1 | 30.2% | 0.151 | 0.018 |
+| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 0.156% | 0.001 | 0.011 |
+| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 1 | 0.181% | 0.001 | 0.018 |
 
 ## 用途
 
@@ -20,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv9 | 1 | 100% |  |
+| [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv21 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#a85c47"><div class="wiki-navbox-title">グループ: 宝箱</div><div class="wiki-navbox-body"><a href="#/ja/item/donation-box"><span class="wiki-icon">🗳️</span>募金箱</a> ・ <a href="#/ja/item/wallet"><span class="wiki-icon">👛</span>財布</a> ・ <a href="#/ja/item/wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱</a> ・ <a href="#/ja/item/time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/item/vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/item/iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱</a> ・ <a href="#/ja/item/great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/item/cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱</a> ・ <a href="#/ja/item/medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱</a> ・ <a href="#/ja/item/tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱</a> ・ <a href="#/ja/item/giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱</a> ・ <a href="#/ja/item/pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/item/ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/item/vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/item/sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/item/pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a> ・ <a href="#/ja/item/rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱</a> ・ <a href="#/ja/item/schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a></div></div>
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 5 |
 | CSV `rare` | 2 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

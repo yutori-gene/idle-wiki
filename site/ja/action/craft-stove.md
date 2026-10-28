@@ -1,13 +1,13 @@
 # かまどを作る
 
-<div class="wiki-infobox" style="--accent:#4f8a8a"><div class="wiki-infobox-title">かまどを作る</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/infrastructure"><span class="wiki-icon">🏗️</span>インフラ</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv20</td></tr><tr><th>所要時間</th><td>7時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>7,200</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4f8a8a"><div class="wiki-infobox-title">かまどを作る</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/infrastructure"><span class="wiki-icon">🏗️</span>インフラ</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv46</td></tr><tr><th>所要時間</th><td>1日</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>27,303</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 
 **単発**: 1回ずつ進む。100%になったら開封して報酬を受け取る。
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) Lv20以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) Lv46以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🔩</span>かまどの部品](/ja/item/stove-parts) ×100（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -16,7 +16,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) ×1 | 成功時 | 100% | 1 | 0.143 |
+| [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) ×1 | 成功時 | 100% | 1 | 0.042 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -24,10 +24,7 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv20） | 7時間 | 100% | 7,200 | 0.1 | 1,029 |
-| +10（Lv30） | 5時間42分 | 100% | 4,800 | 0.2 | 840 |
-| +20（Lv40） | 4時間40分 | 100% | 3,200 | 0.2 | 686 |
-| +30（Lv50） | 3時間48分 | 100% | 2,133.33 | 0.3 | 560 |
+| ±0（Lv46） | 1日 | 100% | 27,303 | 0 | 1,138 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -35,11 +32,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 72,900 | -72,900 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 21,263 | -21,263 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#4f8a8a"><div class="wiki-navbox-title">作業部屋のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/craft-ruining-cushion-parts"><span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る</a> ・ <a href="#/ja/action/craft-rabbit-hutch-parts"><span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る</a> ・ <a href="#/ja/action/craft-bookshelf-parts"><span class="wiki-icon">🔩</span>本棚の部品を作る</a> ・ <a href="#/ja/action/craft-well-parts"><span class="wiki-icon">🔩</span>井戸の部品を作る</a> ・ <a href="#/ja/action/craft-ruining-cushion"><span class="wiki-icon">🛋️</span>人をダメにするクッションを作る</a> ・ <a href="#/ja/action/craft-rabbit-hutch"><span class="wiki-icon">🐇</span>ウサギ小屋を作る</a> ・ <a href="#/ja/action/craft-bookshelf"><span class="wiki-icon">📚</span>本棚を作る</a> ・ <a href="#/ja/action/craft-well"><span class="wiki-icon">🪣</span>井戸を作る</a> ・ <a href="#/ja/action/assemble-lawn-mower-parts"><span class="wiki-icon">🔩</span>芝刈り機の部品を組む</a> ・ <a href="#/ja/action/craft-oven-parts"><span class="wiki-icon">🔩</span>オーブンの部品を作る</a> ・ <a href="#/ja/action/craft-dog-house-parts"><span class="wiki-icon">🔩</span>イヌ小屋の部品を作る</a> ・ <a href="#/ja/action/craft-weather-box-parts"><span class="wiki-icon">🔩</span>百葉箱の部品を作る</a> ・ <a href="#/ja/action/craft-refrigerator-parts"><span class="wiki-icon">🔩</span>冷蔵庫の部品を作る</a> ・ <a href="#/ja/action/craft-solar-panel-parts"><span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る</a> ・ <a href="#/ja/action/craft-generator-parts"><span class="wiki-icon">🔩</span>発電機の部品を作る</a> ・ <a href="#/ja/action/craft-hamster-wheel-parts"><span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る</a> ・ <a href="#/ja/action/assemble-lawn-mower"><span class="wiki-icon">🌾</span>芝刈り機を組む</a> ・ <a href="#/ja/action/craft-oven"><span class="wiki-icon">🍞</span>オーブンを作る</a> ・ <a href="#/ja/action/craft-dog-house"><span class="wiki-icon">🐕</span>イヌ小屋を作る</a> ・ <a href="#/ja/action/craft-weather-box"><span class="wiki-icon">🌡️</span>百葉箱を作る</a> ・ <a href="#/ja/action/craft-refrigerator"><span class="wiki-icon">🧊</span>冷蔵庫を作る</a> ・ <a href="#/ja/action/craft-solar-panel"><span class="wiki-icon">☀️</span>ソーラーパネルを作る</a> ・ <a href="#/ja/action/craft-generator"><span class="wiki-icon">🔌</span>発電機を作る</a> ・ <a href="#/ja/action/craft-hamster-wheel"><span class="wiki-icon">🐹</span>ハムスターの回車を作る</a> ・ <a href="#/ja/action/craft-stove-parts"><span class="wiki-icon">🔩</span>かまどの部品を作る</a> ・ <a href="#/ja/action/craft-fireplace-parts"><span class="wiki-icon">🔩</span>暖炉の部品を作る</a> ・ <a href="#/ja/action/craft-stove"><span class="wiki-icon">🔥</span>かまどを作る</a> ・ <a href="#/ja/action/craft-fireplace"><span class="wiki-icon">🔥</span>暖炉を作る</a></div></div>
+<div class="wiki-navbox" style="--accent:#4f8a8a"><div class="wiki-navbox-title">作業部屋のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/craft-ruining-cushion-parts"><span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る</a> ・ <a href="#/ja/action/craft-ruining-cushion"><span class="wiki-icon">🛋️</span>人をダメにするクッションを作る</a> ・ <a href="#/ja/action/craft-rabbit-hutch-parts"><span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る</a> ・ <a href="#/ja/action/craft-rabbit-hutch"><span class="wiki-icon">🐇</span>ウサギ小屋を作る</a> ・ <a href="#/ja/action/craft-bookshelf-parts"><span class="wiki-icon">🔩</span>本棚の部品を作る</a> ・ <a href="#/ja/action/craft-bookshelf"><span class="wiki-icon">📚</span>本棚を作る</a> ・ <a href="#/ja/action/craft-well-parts"><span class="wiki-icon">🔩</span>井戸の部品を作る</a> ・ <a href="#/ja/action/craft-well"><span class="wiki-icon">🪣</span>井戸を作る</a> ・ <a href="#/ja/action/assemble-lawn-mower-parts"><span class="wiki-icon">🔩</span>芝刈り機の部品を組む</a> ・ <a href="#/ja/action/assemble-lawn-mower"><span class="wiki-icon">🌾</span>芝刈り機を組む</a> ・ <a href="#/ja/action/craft-oven-parts"><span class="wiki-icon">🔩</span>オーブンの部品を作る</a> ・ <a href="#/ja/action/craft-oven"><span class="wiki-icon">🍞</span>オーブンを作る</a> ・ <a href="#/ja/action/craft-dog-house-parts"><span class="wiki-icon">🔩</span>イヌ小屋の部品を作る</a> ・ <a href="#/ja/action/craft-dog-house"><span class="wiki-icon">🐕</span>イヌ小屋を作る</a> ・ <a href="#/ja/action/craft-weather-box-parts"><span class="wiki-icon">🔩</span>百葉箱の部品を作る</a> ・ <a href="#/ja/action/craft-weather-box"><span class="wiki-icon">🌡️</span>百葉箱を作る</a> ・ <a href="#/ja/action/craft-refrigerator-parts"><span class="wiki-icon">🔩</span>冷蔵庫の部品を作る</a> ・ <a href="#/ja/action/craft-refrigerator"><span class="wiki-icon">🧊</span>冷蔵庫を作る</a> ・ <a href="#/ja/action/craft-solar-panel-parts"><span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る</a> ・ <a href="#/ja/action/craft-solar-panel"><span class="wiki-icon">☀️</span>ソーラーパネルを作る</a> ・ <a href="#/ja/action/craft-generator-parts"><span class="wiki-icon">🔩</span>発電機の部品を作る</a> ・ <a href="#/ja/action/craft-generator"><span class="wiki-icon">🔌</span>発電機を作る</a> ・ <a href="#/ja/action/craft-hamster-wheel-parts"><span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る</a> ・ <a href="#/ja/action/craft-hamster-wheel"><span class="wiki-icon">🐹</span>ハムスターの回車を作る</a> ・ <a href="#/ja/action/craft-stove-parts"><span class="wiki-icon">🔩</span>かまどの部品を作る</a> ・ <a href="#/ja/action/craft-stove"><span class="wiki-icon">🔥</span>かまどを作る</a> ・ <a href="#/ja/action/craft-fireplace-parts"><span class="wiki-icon">🔩</span>暖炉の部品を作る</a> ・ <a href="#/ja/action/craft-fireplace"><span class="wiki-icon">🔥</span>暖炉を作る</a></div></div>
 
 ## 開発者向け情報
 
@@ -50,9 +47,9 @@
 | `attribute` | （空） |
 | `group` | `infrastructure` |
 | `unlocked` | `hidden` |
-| `level` | `20` |
-| `experience` | `7200` |
-| `seconds` | `25200` |
+| `level` | `46` |
+| `experience` | `27303` |
+| `seconds` | `86400` |
 | `chance` | `1` |
 | `maximum` | `0` |
 | `progressType` | `single` |
@@ -79,9 +76,9 @@
 	"attribute": "",
 	"group": "infrastructure",
 	"unlocked": "hidden",
-	"level": 20,
-	"experience": 7200,
-	"seconds": 25200,
+	"level": 46,
+	"experience": 27303,
+	"seconds": 86400,
 	"chance": 1,
 	"maximum": 0,
 	"requirements": [

@@ -114,199 +114,200 @@
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥕</span>ニンジンの栽培](/ja/action/grow-carrot) |  | 1 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🎃</span>カボチャの栽培](/ja/action/grow-pumpkin) |  | 1 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🧄</span>ニンニクの栽培](/ja/action/grow-garlic) |  | 1 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🌾</span>小麦の栽培](/ja/action/grow-wheat) |  | 1 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🥬</span>サラダ菜の栽培](/ja/action/grow-lettuce) |  | 1 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🍌</span>バナナの栽培](/ja/action/grow-banana) |  | 5 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🍎</span>リンゴの栽培](/ja/action/grow-apple) |  | 5 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) |  | 5 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🦎</span>ウーパールーパーの繁殖](/ja/action/breed-axolotl) |  | 5 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🌿</span>薬草の栽培](/ja/action/grow-herb) |  | 5 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🌿</span>大麻の栽培](/ja/action/grow-hemp) |  | 5 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🥔</span>ジャガイモの栽培](/ja/action/grow-potato) |  | 9 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🍄</span>トリュフの栽培](/ja/action/grow-truffle) |  | 9 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🌶️</span>とうがらしの栽培](/ja/action/grow-chili) |  | 12 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">☠️</span>毒草の栽培](/ja/action/grow-poison-herb) |  | 16 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🌿</span>香草の栽培](/ja/action/grow-aromatic-herb) |  | 16 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🌳</span>世界樹の葉の栽培](/ja/action/grow-world-tree-leaf) |  | 20 | 連続 | 1,030 | 841 | 687 |
+| [<span class="wiki-icon">🥕</span>ニンジン](/ja/action/grow-carrot) |  | 1 | 連続 | 88 | 72 | 59 |
+| [<span class="wiki-icon">🪱</span>ミミズの切断](/ja/action/cut-earthworm) |  | 1 | 連続 | 60 | 49 | 40 |
+| [<span class="wiki-icon">🎃</span>カボチャ](/ja/action/grow-pumpkin) |  | 4 | 連続 | 88 | 74 | 62 |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/action/grow-garlic) |  | 7 | 連続 | 88 | 78 | 68 |
+| [<span class="wiki-icon">🌾</span>小麦](/ja/action/grow-wheat) |  | 10 | 連続 | 88 | 83 | 75 |
+| [<span class="wiki-icon">🥬</span>サラダ菜](/ja/action/grow-lettuce) |  | 13 | 連続 | 88 | 73 | 60 |
+| [<span class="wiki-icon">🍌</span>バナナ](/ja/action/grow-banana) |  | 16 | 連続 | 88 | 79 | 70 |
+| [<span class="wiki-icon">🍎</span>リンゴ](/ja/action/grow-apple) |  | 19 | 連続 | 88 | 75 | 64 |
+| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) |  | 22 | 連続 | 87 | 84 | 78 |
+| [<span class="wiki-icon">🦎</span>ウーパールーパー](/ja/action/breed-axolotl) |  | 25 | 連続 | 88 | 77 | 66 |
+| [<span class="wiki-icon">🌿</span>薬草](/ja/action/grow-herb) |  | 28 | 連続 | 87 | 81 | 72 |
+| [<span class="wiki-icon">🌿</span>大麻](/ja/action/grow-hemp) |  | 32 | 連続 | 87 | 74 | — |
+| [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/action/grow-potato) |  | 35 | 連続 | 87 | 86 | — |
+| [<span class="wiki-icon">🍄</span>トリュフ](/ja/action/grow-truffle) |  | 38 | 連続 | 88 | 78 | — |
+| [<span class="wiki-icon">🌶️</span>とうがらし](/ja/action/grow-chili) |  | 41 | 連続 | 87 | — | — |
+| [<span class="wiki-icon">☠️</span>毒草](/ja/action/grow-poison-herb) |  | 44 | 連続 | 88 | — | — |
+| [<span class="wiki-icon">🌿</span>香草](/ja/action/grow-aromatic-herb) |  | 47 | 連続 | 87 | — | — |
+| [<span class="wiki-icon">🌳</span>世界樹の葉](/ja/action/grow-world-tree-leaf) |  | 50 | 連続 | 87 | — | — |
 
 ## 🐾 庭
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐥</span>ヒヨコを遊ばせる](/ja/action/play-with-chick) |  | 1 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) |  | 1 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) |  | 3 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) |  | 3 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) |  | 6 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) |  | 6 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog) |  | 6 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) |  | 8 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) |  | 8 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) |  | 8 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) |  | 10 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) |  | 13 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) |  | 15 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) |  | 15 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) |  | 18 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) |  | 18 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) |  | 20 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) |  | 20 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) |  | 20 | 連続 | 1,029 | 840 | 686 |
+| [<span class="wiki-icon">🐥</span>ヒヨコを遊ばせる](/ja/action/play-with-chick) |  | 1 | 連続 | 92 | 75 | 61 |
+| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) |  | 4 | 連続 | 92 | 85 | 76 |
+| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) |  | 6 | 連続 | 92 | 90 | 85 |
+| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) |  | 9 | 連続 | 91 | 77 | 64 |
+| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) |  | 12 | 連続 | 92 | 90 | 85 |
+| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) |  | 15 | 連続 | 91 | 86 | 78 |
+| [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog) |  | 17 | 連続 | 92 | 85 | 76 |
+| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) |  | 20 | 連続 | 91 | 89 | 84 |
+| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) |  | 23 | 連続 | 91 | 89 | 84 |
+| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) |  | 26 | 連続 | 91 | 75 | 61 |
+| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) |  | 28 | 連続 | 91 | 86 | 78 |
+| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) |  | 31 | 連続 | 91 | 81 | — |
+| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) |  | 34 | 連続 | 91 | 84 | — |
+| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) |  | 36 | 連続 | 91 | 88 | — |
+| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) |  | 39 | 連続 | 91 | 81 | — |
+| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) |  | 42 | 連続 | 91 | — | — |
+| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) |  | 45 | 連続 | 91 | — | — |
+| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) |  | 47 | 連続 | 91 | — | — |
+| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) |  | 50 | 連続 | 91 | — | — |
 
 ## 🍳 台所
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) |  | 1 | 連続 | 1,080 | 882 | 720 |
-| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) |  | 4 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">🍞</span>フレンチトースト](/ja/action/cook-french-toast) |  | 4 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) |  | 4 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) |  | 6 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🧀</span>チーズを作る](/ja/action/craft-cheese) |  | 6 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🥫</span>マヨネーズを作る](/ja/action/craft-mayonnaise) |  | 6 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🍅</span>トマトの卵とじ](/ja/action/cook-tomato-egg-drop) |  | 6 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) |  | 6 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🍳</span>目玉焼き](/ja/action/cook-fried-egg) |  | 6 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) |  | 6 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) |  | 6 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🥗</span>ポテトサラダ](/ja/action/cook-potato-salad) |  | 6 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) |  | 6 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) |  | 9 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🥩</span>ステーキ](/ja/action/cook-steak) |  | 9 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) |  | 9 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) |  | 12 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">🐟</span>軍用イワシ](/ja/action/make-military-sardine) |  | 15 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) |  | 15 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) |  | 15 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) |  | 15 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) |  | 17 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) |  | 17 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🍚</span>ごはん](/ja/action/cook-cooked-rice) |  | 17 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) |  | 17 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🍙</span>おにぎり](/ja/action/cook-rice-ball) |  | 17 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) |  | 17 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) |  | 20 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) |  | 20 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) |  | 20 | 連続 | 1,032 | 843 | 688 |
+| [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) |  | 1 | 連続 | 1,200 | 980 | 800 |
+| [<span class="wiki-icon">🍞</span>フレンチトースト](/ja/action/cook-french-toast) |  | 3 | 連続 | 1,199 | 1,030 | 872 |
+| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) |  | 4 | 連続 | 1,188 | 1,003 | 839 |
+| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) |  | 6 | 連続 | 1,199 | 1,030 | 872 |
+| [<span class="wiki-icon">🍅</span>トマトの卵とじ](/ja/action/cook-tomato-egg-drop) |  | 8 | 連続 | 1,224 | 1,052 | 890 |
+| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) |  | 9 | 連続 | 1,188 | 1,003 | 839 |
+| [<span class="wiki-icon">🍳</span>目玉焼き](/ja/action/cook-fried-egg) |  | 11 | 連続 | 1,197 | 994 | 821 |
+| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) |  | 12 | 連続 | 1,190 | 1,099 | 984 |
+| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) |  | 14 | 連続 | 1,188 | 1,119 | 1,018 |
+| [<span class="wiki-icon">🥗</span>ポテトサラダ](/ja/action/cook-potato-salad) |  | 16 | 連続 | 1,188 | 1,003 | 839 |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) |  | 17 | 連続 | 1,199 | 1,030 | 872 |
+| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) |  | 19 | 連続 | 1,190 | 972 | 793 |
+| [<span class="wiki-icon">🧀</span>チーズを作る](/ja/action/craft-cheese) |  | 21 | 連続 | 1,197 | 994 | 821 |
+| [<span class="wiki-icon">🥫</span>マヨネーズを作る](/ja/action/craft-mayonnaise) |  | 22 | 連続 | 1,188 | 1,119 | 1,018 |
+| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) |  | 24 | 連続 | 1,188 | 1,141 | 1,056 |
+| [<span class="wiki-icon">🥩</span>ステーキ](/ja/action/cook-steak) |  | 26 | 連続 | 1,186 | 1,019 | 862 |
+| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) |  | 27 | 連続 | 1,186 | 1,076 | 949 |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) |  | 29 | 連続 | 1,185 | 1,116 | 1,016 |
+| [<span class="wiki-icon">🐟</span>軍用イワシ](/ja/action/make-military-sardine) |  | 30 | 連続 | 1,188 | 1,141 | 1,056 |
+| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) |  | 32 | 連続 | 1,184 | 1,000 | — |
+| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) |  | 34 | 連続 | 1,190 | 972 | — |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) |  | 35 | 連続 | 1,185 | 1,161 | — |
+| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) |  | 37 | 連続 | 1,190 | 988 | — |
+| [<span class="wiki-icon">🍚</span>ごはん](/ja/action/cook-cooked-rice) |  | 39 | 連続 | 1,186 | 1,037 | — |
+| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) |  | 40 | 連続 | 1,188 | 1,021 | — |
+| [<span class="wiki-icon">🍙</span>おにぎり](/ja/action/cook-rice-ball) |  | 42 | 連続 | 1,186 | — | — |
+| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) |  | 43 | 連続 | 1,188 | — | — |
+| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) |  | 45 | 連続 | 1,186 | — | — |
+| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) |  | 47 | 連続 | 1,186 | — | — |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) |  | 48 | 連続 | 1,186 | — | — |
+| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) |  | 50 | 連続 | 1,185 | — | — |
 
 ## 📚 書斎
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📙</span>童話を読む](/ja/action/read-fairy-tale) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📖</span>絵本を読む](/ja/action/read-picture-book) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📚</span>漫画を読む](/ja/action/read-manga) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📰</span>新聞を読む](/ja/action/read-newspaper) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🎓</span>卒業証書を読み返す](/ja/action/reread-diploma) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🪪</span>免許証を読む](/ja/action/read-license) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📗</span>小説を読む](/ja/action/read-novel) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📘</span>自己啓発本を読む](/ja/action/read-self-help-book) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">💌</span>ラブレターを読む](/ja/action/read-love-letter) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🎨</span>美術書を読む](/ja/action/read-art-book) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📚</span>百科事典を読む](/ja/action/read-encyclopedia) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📕</span>詐欺臨床学](/ja/action/fraud-clinical-studies) |  | 3 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🗳️</span>投票用紙を読む](/ja/action/read-ballot) |  | 3 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📗</span>レシピ本を読む](/ja/action/read-recipe-book) |  | 3 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">✉️</span>不幸の手紙を読む](/ja/action/read-chain-letter) |  | 3 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🗺️</span>地図を読む](/ja/action/read-map) |  | 6 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📜</span>歴史書を読む](/ja/action/read-history-book) |  | 6 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📖</span>聖書を読む](/ja/action/read-bible) |  | 8 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📐</span>数学書を読む](/ja/action/read-math-book) |  | 10 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📕</span>医学書を読む](/ja/action/read-anatomy-book) |  | 13 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📕</span>禁書を読む](/ja/action/read-forbidden-book) |  | 15 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📓</span>デスノートを読む](/ja/action/read-death-note) |  | 18 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📕</span>ネクロノミコンを読む](/ja/action/read-necronomicon) |  | 18 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🌌</span>宇宙真理学](/ja/action/cosmic-truth-studies) |  | 18 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📗</span>ライ麦畑でつかまえてを読む](/ja/action/read-catcher-in-the-rye) |  | 20 | 単発 | 1,029 | 840 | 686 |
+| [<span class="wiki-icon">📙</span>童話を読む](/ja/action/read-fairy-tale) |  | 1 | 単発 | 76 | 62 | 51 |
+| [<span class="wiki-icon">📖</span>絵本を読む](/ja/action/read-picture-book) |  | 3 | 単発 | 75 | 67 | 58 |
+| [<span class="wiki-icon">📚</span>漫画を読む](/ja/action/read-manga) |  | 5 | 単発 | 76 | 65 | 55 |
+| [<span class="wiki-icon">📰</span>新聞を読む](/ja/action/read-newspaper) |  | 7 | 単発 | 75 | 65 | 55 |
+| [<span class="wiki-icon">🎓</span>卒業証書を読み返す](/ja/action/reread-diploma) |  | 9 | 単発 | 76 | 69 | 60 |
+| [<span class="wiki-icon">🪪</span>免許証を読む](/ja/action/read-license) |  | 11 | 単発 | 75 | 66 | 57 |
+| [<span class="wiki-icon">📗</span>小説を読む](/ja/action/read-novel) |  | 13 | 単発 | 75 | 70 | 62 |
+| [<span class="wiki-icon">📘</span>自己啓発本を読む](/ja/action/read-self-help-book) |  | 15 | 単発 | 75 | 65 | 55 |
+| [<span class="wiki-icon">💌</span>ラブレターを読む](/ja/action/read-love-letter) |  | 17 | 単発 | 75 | 74 | 69 |
+| [<span class="wiki-icon">🎨</span>美術書を読む](/ja/action/read-art-book) |  | 19 | 単発 | 75 | 66 | 57 |
+| [<span class="wiki-icon">📚</span>百科事典を読む](/ja/action/read-encyclopedia) |  | 21 | 単発 | 75 | 62 | 50 |
+| [<span class="wiki-icon">📕</span>詐欺臨床学](/ja/action/fraud-clinical-studies) |  | 23 | 単発 | 75 | 68 | 60 |
+| [<span class="wiki-icon">🗳️</span>投票用紙を読む](/ja/action/read-ballot) |  | 26 | 単発 | 75 | 70 | 62 |
+| [<span class="wiki-icon">📗</span>レシピ本を読む](/ja/action/read-recipe-book) |  | 28 | 単発 | 75 | 61 | 50 |
+| [<span class="wiki-icon">✉️</span>不幸の手紙を読む](/ja/action/read-chain-letter) |  | 30 | 単発 | 75 | 70 | 62 |
+| [<span class="wiki-icon">🗺️</span>地図を読む](/ja/action/read-map) |  | 32 | 単発 | 75 | 74 | — |
+| [<span class="wiki-icon">📜</span>歴史書を読む](/ja/action/read-history-book) |  | 34 | 単発 | 75 | 68 | — |
+| [<span class="wiki-icon">📖</span>聖書を読む](/ja/action/read-bible) |  | 36 | 単発 | 75 | 68 | — |
+| [<span class="wiki-icon">📐</span>数学書を読む](/ja/action/read-math-book) |  | 38 | 単発 | 75 | 67 | — |
+| [<span class="wiki-icon">📕</span>医学書を読む](/ja/action/read-anatomy-book) |  | 40 | 単発 | 75 | 61 | — |
+| [<span class="wiki-icon">📕</span>禁書を読む](/ja/action/read-forbidden-book) |  | 42 | 単発 | 75 | — | — |
+| [<span class="wiki-icon">📓</span>デスノートを読む](/ja/action/read-death-note) |  | 44 | 単発 | 75 | — | — |
+| [<span class="wiki-icon">📕</span>ネクロノミコンを読む](/ja/action/read-necronomicon) |  | 46 | 単発 | 75 | — | — |
+| [<span class="wiki-icon">🌌</span>宇宙真理学](/ja/action/cosmic-truth-studies) |  | 48 | 単発 | 75 | — | — |
+| [<span class="wiki-icon">📗</span>ライ麦畑でつかまえてを読む](/ja/action/read-catcher-in-the-rye) |  | 50 | 単発 | 75 | — | — |
 
 ## 🗃️ ロフト
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👛</span>財布を開ける](/ja/action/open-wallet) |  | 1 | 連続 | 2,160 | 1,764 | 1,440 |
-| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) |  | 1 | 連続 | 2,160 | 1,764 | 1,440 |
-| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) |  | 3 | 連続 | 2,100 | 1,715 | 1,400 |
-| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) |  | 5 | 連続 | 2,080 | 1,698 | 1,387 |
-| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) |  | 5 | 連続 | 2,080 | 1,698 | 1,387 |
-| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) |  | 7 | 連続 | 2,070 | 1,690 | 1,380 |
-| [<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure) |  | 7 | 連続 | 2,070 | 1,690 | 1,380 |
-| [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest) |  | 9 | 連続 | 2,064 | 1,685 | 1,376 |
-| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) |  | 12 | 連続 | 2,060 | 1,682 | 1,373 |
-| [<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest) |  | 12 | 連続 | 2,060 | 1,682 | 1,373 |
-| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) |  | 14 | 連続 | 2,057 | 1,680 | 1,371 |
-| [<span class="wiki-icon">🕍</span>聖櫃を開ける](/ja/action/open-ark-of-covenant) |  | 16 | 連続 | 2,070 | 1,690 | 1,380 |
-| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) |  | 16 | 連続 | 2,070 | 1,690 | 1,380 |
-| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) |  | 18 | 連続 | 2,067 | 1,687 | 1,378 |
-| [<span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける](/ja/action/open-vampire-coffin) |  | 18 | 連続 | 2,067 | 1,687 | 1,378 |
-| [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest) |  | 20 | 連続 | 2,064 | 1,685 | 1,376 |
-| [<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box) |  | 20 | 連続 | 2,064 | 1,685 | 1,376 |
-| [<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box) |  | 20 | 連続 | 2,064 | 1,685 | 1,376 |
+| [<span class="wiki-icon">👛</span>財布を開ける](/ja/action/open-wallet) |  | 1 | 連続 | 1,200 | 980 | 800 |
+| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) |  | 4 | 連続 | 1,200 | 1,176 | 1,108 |
+| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) |  | 7 | 連続 | 1,218 | 1,105 | 974 |
+| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) |  | 10 | 連続 | 1,200 | 980 | 800 |
+| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) |  | 13 | 連続 | 1,200 | 980 | 800 |
+| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) |  | 15 | 連続 | 1,188 | 1,119 | 1,018 |
+| [<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure) |  | 18 | 連続 | 1,200 | 980 | 800 |
+| [<span class="wiki-icon">🧊</span>冷たい宝箱を開ける](/ja/action/open-cold-chest) |  | 21 | 連続 | 1,190 | 1,099 | 984 |
+| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) |  | 24 | 連続 | 1,200 | 980 | 800 |
+| [<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest) |  | 27 | 連続 | 1,188 | 1,119 | 1,018 |
+| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) |  | 30 | 連続 | 1,190 | 1,099 | 984 |
+| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) |  | 33 | 連続 | 1,188 | 970 | — |
+| [<span class="wiki-icon">🕍</span>聖櫃を開ける](/ja/action/open-ark-of-covenant) |  | 36 | 連続 | 1,194 | 1,125 | — |
+| [<span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける](/ja/action/open-vampire-coffin) |  | 38 | 連続 | 1,188 | 1,119 | — |
+| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) |  | 41 | 連続 | 1,188 | — | — |
+| [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest) |  | 44 | 連続 | 1,188 | — | — |
+| [<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box) |  | 47 | 連続 | 1,188 | — | — |
+| [<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box) |  | 50 | 連続 | 1,189 | — | — |
 
 ## ⚗️ 地下室
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine) |  | 1 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) |  | 1 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine) |  | 1 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium) |  | 1 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">🧪</span>泡立つ薬の調合](/ja/action/brew-bubbling-medicine) |  | 1 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops) |  | 4 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine) |  | 4 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) |  | 4 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🔥</span>カイロの調合](/ja/action/brew-heat-pack) |  | 4 | 連続 | 1,050 | 857 | 700 |
-| [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack) |  | 6 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller) |  | 9 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness) |  | 12 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) |  | 12 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) |  | 15 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla) |  | 15 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial) |  | 15 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic) |  | 15 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine) |  | 15 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl) |  | 17 | 連続 | 1,040 | 849 | 693 |
-| [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water) |  | 20 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) |  | 20 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea) |  | 20 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) |  | 20 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) |  | 20 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🍀</span>フェリックスフェリシスの調合](/ja/action/brew-felix-felicis) |  | 20 | 連続 | 1,032 | 843 | 688 |
+| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) |  | 1 | 連続 | 1,260 | 1,029 | 840 |
+| [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine) |  | 3 | 連続 | 1,224 | 1,052 | 890 |
+| [<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine) |  | 5 | 連続 | 1,218 | 1,105 | 974 |
+| [<span class="wiki-icon">🧪</span>泡立つ薬の調合](/ja/action/brew-bubbling-medicine) |  | 7 | 連続 | 1,230 | 1,004 | 820 |
+| [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium) |  | 9 | 連続 | 1,242 | 1,049 | 877 |
+| [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine) |  | 11 | 連続 | 1,220 | 996 | 813 |
+| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) |  | 13 | 連続 | 1,215 | 1,082 | 941 |
+| [<span class="wiki-icon">🔥</span>カイロの調合](/ja/action/brew-heat-pack) |  | 15 | 連続 | 1,206 | 1,136 | 1,034 |
+| [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops) |  | 17 | 連続 | 1,224 | 1,071 | 918 |
+| [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack) |  | 19 | 連続 | 1,205 | 1,181 | 1,112 |
+| [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller) |  | 21 | 連続 | 1,215 | 1,082 | 941 |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) |  | 23 | 連続 | 1,205 | 1,036 | 876 |
+| [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness) |  | 26 | 連続 | 1,204 | 1,092 | 963 |
+| [<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic) |  | 28 | 連続 | 1,206 | 985 | 804 |
+| [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine) |  | 30 | 連続 | 1,211 | 1,041 | 881 |
+| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) |  | 32 | 連続 | 1,207 | 1,002 | — |
+| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla) |  | 34 | 連続 | 1,203 | 1,112 | — |
+| [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial) |  | 36 | 連続 | 1,203 | 1,016 | — |
+| [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl) |  | 38 | 連続 | 1,204 | 1,179 | — |
+| [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water) |  | 40 | 連続 | 1,205 | 984 | — |
+| [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) |  | 42 | 連続 | 1,203 | — | — |
+| [<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea) |  | 44 | 連続 | 1,204 | — | — |
+| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) |  | 46 | 連続 | 1,204 | — | — |
+| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) |  | 48 | 連続 | 1,203 | — | — |
+| [<span class="wiki-icon">🍀</span>フェリックスフェリシスの調合](/ja/action/brew-felix-felicis) |  | 50 | 連続 | 1,204 | — | — |
 
 ## 🔧 作業部屋
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) |  | 1 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) |  | 1 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) |  | 1 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) |  | 1 | 連続 | 1,035 | 845 | 690 |
-| [<span class="wiki-icon">🛋️</span>人をダメにするクッションを作る](/ja/action/craft-ruining-cushion) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐇</span>ウサギ小屋を作る](/ja/action/craft-rabbit-hutch) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">📚</span>本棚を作る](/ja/action/craft-bookshelf) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🪣</span>井戸を作る](/ja/action/craft-well) |  | 1 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) |  | 10 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) |  | 10 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) |  | 10 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) |  | 10 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) |  | 10 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) |  | 10 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) |  | 10 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) |  | 10 | 連続 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🌾</span>芝刈り機を組む](/ja/action/assemble-lawn-mower) |  | 10 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🍞</span>オーブンを作る](/ja/action/craft-oven) |  | 10 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐕</span>イヌ小屋を作る](/ja/action/craft-dog-house) |  | 10 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🌡️</span>百葉箱を作る](/ja/action/craft-weather-box) |  | 10 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🧊</span>冷蔵庫を作る](/ja/action/craft-refrigerator) |  | 10 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">☀️</span>ソーラーパネルを作る](/ja/action/craft-solar-panel) |  | 10 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🔌</span>発電機を作る](/ja/action/craft-generator) |  | 10 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐹</span>ハムスターの回車を作る](/ja/action/craft-hamster-wheel) |  | 10 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) |  | 20 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) |  | 20 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🔥</span>かまどを作る](/ja/action/craft-stove) |  | 20 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🔥</span>暖炉を作る](/ja/action/craft-fireplace) |  | 20 | 単発 | 1,029 | 840 | 686 |
+| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) |  | 1 | 連続 | 1,140 | 931 | 760 |
+| [<span class="wiki-icon">🛋️</span>人をダメにするクッションを作る](/ja/action/craft-ruining-cushion) |  | 1 | 単発 | 1,138 | 929 | 759 |
+| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) |  | 5 | 連続 | 1,139 | 1,094 | 1,012 |
+| [<span class="wiki-icon">🐇</span>ウサギ小屋を作る](/ja/action/craft-rabbit-hutch) |  | 5 | 単発 | 1,138 | 929 | 758 |
+| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) |  | 9 | 連続 | 1,140 | 947 | 782 |
+| [<span class="wiki-icon">📚</span>本棚を作る](/ja/action/craft-bookshelf) |  | 9 | 単発 | 1,138 | 929 | 759 |
+| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) |  | 12 | 連続 | 1,140 | 931 | 760 |
+| [<span class="wiki-icon">🪣</span>井戸を作る](/ja/action/craft-well) |  | 12 | 単発 | 1,138 | 929 | 758 |
+| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) |  | 16 | 連続 | 1,152 | 973 | 813 |
+| [<span class="wiki-icon">🌾</span>芝刈り機を組む](/ja/action/assemble-lawn-mower) |  | 16 | 単発 | 1,138 | 929 | 758 |
+| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) |  | 20 | 連続 | 1,139 | 1,053 | 942 |
+| [<span class="wiki-icon">🍞</span>オーブンを作る](/ja/action/craft-oven) |  | 20 | 単発 | 1,138 | 929 | 758 |
+| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) |  | 24 | 連続 | 1,145 | 1,038 | 916 |
+| [<span class="wiki-icon">🐕</span>イヌ小屋を作る](/ja/action/craft-dog-house) |  | 24 | 単発 | 1,138 | 929 | 758 |
+| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) |  | 27 | 連続 | 1,140 | 1,034 | 912 |
+| [<span class="wiki-icon">🌡️</span>百葉箱を作る](/ja/action/craft-weather-box) |  | 27 | 単発 | 1,138 | 929 | 758 |
+| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) |  | 31 | 連続 | 1,141 | 1,035 | — |
+| [<span class="wiki-icon">🧊</span>冷蔵庫を作る](/ja/action/craft-refrigerator) |  | 31 | 単発 | 1,138 | 929 | — |
+| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) |  | 35 | 連続 | 1,139 | 1,094 | — |
+| [<span class="wiki-icon">☀️</span>ソーラーパネルを作る](/ja/action/craft-solar-panel) |  | 35 | 単発 | 1,138 | 929 | — |
+| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) |  | 39 | 連続 | 1,140 | 931 | — |
+| [<span class="wiki-icon">🔌</span>発電機を作る](/ja/action/craft-generator) |  | 39 | 単発 | 1,138 | 929 | — |
+| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) |  | 42 | 連続 | 1,138 | — | — |
+| [<span class="wiki-icon">🐹</span>ハムスターの回車を作る](/ja/action/craft-hamster-wheel) |  | 42 | 単発 | 1,138 | — | — |
+| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) |  | 46 | 連続 | 1,140 | — | — |
+| [<span class="wiki-icon">🔥</span>かまどを作る](/ja/action/craft-stove) |  | 46 | 単発 | 1,138 | — | — |
+| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) |  | 50 | 連続 | 1,139 | — | — |
+| [<span class="wiki-icon">🔥</span>暖炉を作る](/ja/action/craft-fireplace) |  | 50 | 単発 | 1,138 | — | — |
 
 ## ⚔️ 近接武器
 
@@ -314,33 +315,33 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🪵</span>木の棒を分解する](/ja/action/disassemble-wooden-stick) |  | 1 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🌱</span>ネギを分解する](/ja/action/disassemble-green-onion) |  | 3 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 5 | スタミナ（戦闘） | 137 | 175 | 218 |
-| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 5 | スタミナ（戦闘） | 102 | 145 | 218 |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 5 | スタミナ（戦闘） | 117 | 175 | 218 |
-| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 6 | スタミナ（戦闘） | 137 | 175 | 218 |
-| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 7 | スタミナ（戦闘） | 137 | 175 | 218 |
-| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 7 | スタミナ（戦闘） | 137 | 175 | 218 |
+| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 5 | スタミナ（戦闘） | 134 | 171 | 214 |
+| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 5 | スタミナ（戦闘） | 100 | 142 | 214 |
+| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 5 | スタミナ（戦闘） | 114 | 171 | 214 |
+| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 6 | スタミナ（戦闘） | 134 | 171 | 214 |
+| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 7 | スタミナ（戦闘） | 134 | 171 | 214 |
+| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 7 | スタミナ（戦闘） | 134 | 171 | 213 |
 | [<span class="wiki-icon">🎏</span>物干し竿を分解する](/ja/action/disassemble-laundry-pole) |  | 8 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 8 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 9 | スタミナ（戦闘） | 115 | 172 | 215 |
+| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 8 | スタミナ（戦闘） | 114 | 171 | 214 |
+| [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 9 | スタミナ（戦闘） | 114 | 171 | 213 |
 | [<span class="wiki-icon">🥖</span>フランスパンを分解する](/ja/action/disassemble-baguette) |  | 10 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 10 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">🧙</span>ドルイド](/ja/action/druid) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 11 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 11 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 115 | 172 | 215 |
-| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 89 | 143 | 171 |
+| [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 10 | スタミナ（戦闘） | 115 | 172 | 214 |
+| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
+| [<span class="wiki-icon">🧙</span>ドルイド](/ja/action/druid) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 114 | 171 | 214 |
+| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
+| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
+| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 11 | スタミナ（戦闘） | 114 | 171 | 214 |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
+| [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 114 | 171 | 213 |
+| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 114 | 171 | 214 |
+| [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 114 | 171 | 214 |
+| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 88 | 142 | 170 |
 | [<span class="wiki-icon">🐟</span>冷凍マグロを分解する](/ja/action/disassemble-frozen-tuna) |  | 13 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🗡️</span>山賊](/ja/action/bandit) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 14 | スタミナ（戦闘） | 79 | 121 | 170 |
 | [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 14 | スタミナ（戦闘） | 79 | 121 | 170 |
 | [<span class="wiki-icon">🔨</span>ハンマーを分解する](/ja/action/disassemble-hammer) |  | 15 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🧙</span>シャーマン](/ja/action/shaman) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 15 | スタミナ（戦闘） | 79 | 121 | 170 |
-| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 15 | スタミナ（戦闘） | 79 | 121 | 170 |
+| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 15 | スタミナ（戦闘） | 79 | 121 | 169 |
 | [<span class="wiki-icon">🔩</span>鉄の棒を分解する](/ja/action/disassemble-iron-rod) |  | 16 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🔩</span>鉄の棒を作る](/ja/action/craft-iron-rod) |  | 16 | 単発 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">🔨</span>ハンマーを作る](/ja/action/craft-hammer) |  | 16 | 単発 | 1,029 | 840 | 686 |
@@ -354,9 +355,9 @@
 | [<span class="wiki-icon">🏴‍☠️</span>海賊](/ja/action/pirate) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 19 | スタミナ（戦闘） | 18 | 28 | 40 |
 | [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 19 | スタミナ（戦闘） | 18 | 28 | 40 |
 | [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 18 | 28 | 40 |
-| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 18 | 28 | 40 |
+| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 18 | 28 | 39 |
 | [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 18 | 28 | 40 |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 21 | スタミナ（戦闘） | 18 | 28 | 40 |
+| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 21 | スタミナ（戦闘） | 18 | 28 | 39 |
 | [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 23 | スタミナ（戦闘） | 10 | 16 | 24 |
 | [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 25 | スタミナ（戦闘） | 10 | 16 | 24 |
 | [<span class="wiki-icon">🐲</span>ドラゴンキッズ](/ja/action/dragon-kid) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 25 | スタミナ（戦闘） | 10 | 16 | 24 |
@@ -412,19 +413,19 @@
 | [<span class="wiki-icon">🐝</span>ハチを分解する](/ja/action/disassemble-bee) |  | 1 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🌰</span>どんぐりショットを分解する](/ja/action/disassemble-acorn-shot) |  | 3 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🎯</span>ダーツを分解する](/ja/action/disassemble-dart) |  | 9 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🐰</span>ラビットガール](/ja/action/rabbit-girl) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 9 | スタミナ（戦闘） | 103 | 160 | 205 |
+| [<span class="wiki-icon">🐰</span>ラビットガール](/ja/action/rabbit-girl) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 9 | スタミナ（戦闘） | 103 | 159 | 204 |
 | [<span class="wiki-icon">🎯</span>吹き矢を分解する](/ja/action/disassemble-blowgun) |  | 11 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">👺</span>ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 103 | 160 | 205 |
+| [<span class="wiki-icon">👺</span>ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 103 | 159 | 203 |
 | [<span class="wiki-icon">🧱</span>レンガを作る](/ja/action/craft-brick) |  | 13 | 単発 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">🧱</span>レンガを分解する](/ja/action/disassemble-brick) |  | 14 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">⛄</span>雪玉を作る](/ja/action/craft-snowball) |  | 14 | 単発 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">⛄</span>雪玉を分解する](/ja/action/disassemble-snowball) |  | 16 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 16 | スタミナ（戦闘） | 85 | 127 | 199 |
-| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 17 | スタミナ（戦闘） | 85 | 127 | 199 |
+| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 17 | スタミナ（戦闘） | 85 | 127 | 198 |
 | [<span class="wiki-icon">🎯</span>スリングショットを分解する](/ja/action/disassemble-slingshot) |  | 18 | 連続 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">🎣</span>釣竿を分解する](/ja/action/disassemble-fishing-rod) |  | 18 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 78 | 130 | 160 |
-| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 22 | スタミナ（戦闘） | 78 | 130 | 160 |
+| [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 77 | 129 | 159 |
+| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 22 | スタミナ（戦闘） | 77 | 129 | 159 |
 | [<span class="wiki-icon">🦅</span>グリフィン](/ja/action/griffin) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 23 | スタミナ（戦闘） | 12 | 20 | 31 |
 | [<span class="wiki-icon">🐦‍🔥</span>フェニックス](/ja/action/phoenix) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 23 | スタミナ（戦闘） | 12 | 20 | 31 |
 | [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 24 | スタミナ（戦闘） | 12 | 20 | 31 |
@@ -472,7 +473,7 @@
 | [<span class="wiki-icon">🥚</span>卵を分解する](/ja/action/disassemble-egg) |  | 1 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🎈</span>水風船を分解する](/ja/action/disassemble-water-balloon) |  | 3 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🥧</span>パイを分解する](/ja/action/disassemble-pie) |  | 8 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 8 | スタミナ（戦闘） | 29 | 47 | 65 |
+| [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 8 | スタミナ（戦闘） | 29 | 46 | 64 |
 | [<span class="wiki-icon">🍅</span>トマトを分解する](/ja/action/disassemble-tomato) |  | 9 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🥤</span>メントス入りソーダを分解する](/ja/action/disassemble-mentos-soda) |  | 13 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🥤</span>メントス入りソーダを作る](/ja/action/craft-mentos-soda) |  | 13 | 単発 | 1,029 | 840 | 686 |
@@ -485,8 +486,8 @@
 | [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 21 | スタミナ（戦闘） | 3 | 5 | 7 |
 | [<span class="wiki-icon">✨</span>閃光弾を分解する](/ja/action/disassemble-flashbang) |  | 26 | 連続 | 1,030 | 841 | 686 |
 | [<span class="wiki-icon">🍾</span>火炎ビンを分解する](/ja/action/disassemble-molotov) |  | 27 | 連続 | 1,030 | 841 | 686 |
-| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 27 | スタミナ（戦闘） | 1 | 2 | 4 |
-| [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 27 | スタミナ（戦闘） | 1 | 2 | 4 |
+| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 27 | スタミナ（戦闘） | 1 | 2 | 3 |
+| [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 27 | スタミナ（戦闘） | 1 | 2 | 3 |
 | [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 27 | スタミナ（戦闘） | 1 | 2 | 3 |
 | [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | 28 | スタミナ（戦闘） | 1 | 1 | 1 |
 | [<span class="wiki-icon">🚰</span>蛇口のハンドルを分解する](/ja/action/disassemble-faucet-handle) |  | 29 | 連続 | 1,030 | 841 | 687 |

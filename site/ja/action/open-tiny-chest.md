@@ -1,6 +1,6 @@
 # 極小の宝箱を開ける
 
-<div class="wiki-infobox" style="--accent:#a85c47"><div class="wiki-infobox-title">極小の宝箱を開ける</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎁</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><span class="wiki-icon">🔓</span>開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv12</td></tr><tr><th>所要時間</th><td>6分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>206</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a85c47"><div class="wiki-infobox-title">極小の宝箱を開ける</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎁</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><span class="wiki-icon">🔓</span>開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv27</td></tr><tr><th>所要時間</th><td>10分</td></tr><tr><th>成功率</th><td>60%</td></tr><tr><th>経験値</th><td>330</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > メガネをかけてクリップで精密にピッキングする。
 
@@ -9,10 +9,10 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv12以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🎁</span>極小の宝箱](/ja/item/tiny-chest) ×1（消費する）
+- [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv27以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🎁</span>極小の宝箱](/ja/item/tiny-chest) ×2（消費する）
 - [<span class="wiki-icon">👓</span>メガネ](/ja/item/glasses) ×1（装備が必要・消費しない）
-- [<span class="wiki-icon">📎</span>クリップ](/ja/item/paper-clip) ×1（消費する）
+- [<span class="wiki-icon">📎</span>クリップ](/ja/item/paper-clip) ×2（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -20,21 +20,20 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💿</span>技マシン](/ja/item/tech-machine) ×1 | 成功時 | 89.6% | 0.896 | 9 |
-| [<span class="wiki-icon">🔵</span>アークリアクター](/ja/item/arc-reactor) ×1 | 成功時 | 49.8% | 0.498 | 5 |
-| [<span class="wiki-icon">💾</span>自律型AIチップ](/ja/item/autonomous-ai-chip) ×1 | 成功時 | 35.8% | 0.358 | 3.6 |
-| [<span class="wiki-icon">⚛️</span>反物質のかけら](/ja/item/antimatter-piece) ×1 | 成功時 | 21.5% | 0.215 | 2.2 |
+| [<span class="wiki-icon">💿</span>技マシン](/ja/item/tech-machine) ×3 | 成功時 | 89.6% | 1.6 | 9.7 |
+| [<span class="wiki-icon">🔵</span>アークリアクター](/ja/item/arc-reactor) ×3 | 成功時 | 49.8% | 0.896 | 5.4 |
+| [<span class="wiki-icon">💾</span>自律型AIチップ](/ja/item/autonomous-ai-chip) ×3 | 成功時 | 35.8% | 0.644 | 3.9 |
+| [<span class="wiki-icon">⚛️</span>反物質のかけら](/ja/item/antimatter-piece) ×3 | 成功時 | 21.5% | 0.387 | 2.3 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 60%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv12） | 6分 | 100% | 206 | 10 | 2,060 |
-| +10（Lv22） | 4分54秒 | 100% | 137.33 | 12.2 | 1,682 |
-| +20（Lv32） | 4分 | 100% | 91.56 | 15 | 1,373 |
-| +30（Lv42） | 3分16秒 | 100% | 61.04 | 18.4 | 1,121 |
+| ±0（Lv27） | 10分 | 60% | 330 | 6 | 1,188 |
+| +10（Lv37） | 8分10秒 | 69.2% | 220 | 7.3 | 1,119 |
+| +20（Lv47） | 6分40秒 | 77.1% | 146.67 | 9 | 1,018 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -42,11 +41,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 178,066 | 30 | 178,036 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 192,311 | 36 | 192,275 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#a85c47"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><span class="wiki-icon">👛</span>財布を開ける</a> ・ <a href="#/ja/action/open-donation-box"><span class="wiki-icon">🗳️</span>募金箱を開ける</a> ・ <a href="#/ja/action/open-wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱を開ける</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱を開ける</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセルを開ける</a> ・ <a href="#/ja/action/open-iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱を開ける</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝を開ける</a> ・ <a href="#/ja/action/open-cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱を開ける</a> ・ <a href="#/ja/action/open-medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱を開ける</a> ・ <a href="#/ja/action/open-tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱を開ける</a> ・ <a href="#/ja/action/open-giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱を開ける</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃を開ける</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱を開ける</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける</a> ・ <a href="#/ja/action/open-rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱を開ける</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱を開ける</a></div></div>
+<div class="wiki-navbox" style="--accent:#a85c47"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><span class="wiki-icon">👛</span>財布を開ける</a> ・ <a href="#/ja/action/open-donation-box"><span class="wiki-icon">🗳️</span>募金箱を開ける</a> ・ <a href="#/ja/action/open-wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱を開ける</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱を開ける</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセルを開ける</a> ・ <a href="#/ja/action/open-iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱を開ける</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝を開ける</a> ・ <a href="#/ja/action/open-cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱を開ける</a> ・ <a href="#/ja/action/open-medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱を開ける</a> ・ <a href="#/ja/action/open-tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱を開ける</a> ・ <a href="#/ja/action/open-giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱を開ける</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃を開ける</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱を開ける</a> ・ <a href="#/ja/action/open-rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱を開ける</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱を開ける</a></div></div>
 
 ## 開発者向け情報
 
@@ -57,10 +56,10 @@
 | `attribute` | （空） |
 | `group` | `unlock` |
 | `unlocked` | `hidden` |
-| `level` | `12` |
-| `experience` | `206` |
-| `seconds` | `360` |
-| `chance` | `1` |
+| `level` | `27` |
+| `experience` | `330` |
+| `seconds` | `600` |
+| `chance` | `0.6` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 6 |
@@ -86,16 +85,16 @@
 	"attribute": "",
 	"group": "unlock",
 	"unlocked": "hidden",
-	"level": 12,
-	"experience": 206,
-	"seconds": 360,
-	"chance": 1,
+	"level": 27,
+	"experience": 330,
+	"seconds": 600,
+	"chance": 0.6,
 	"maximum": 0,
 	"requirements": [
 		{
 			"type": "item",
 			"id": "tiny-chest",
-			"count": 1,
+			"count": 2,
 			"chance": 1,
 			"equipment": false
 		},
@@ -109,7 +108,7 @@
 		{
 			"type": "item",
 			"id": "paper-clip",
-			"count": 1,
+			"count": 2,
 			"chance": 1,
 			"equipment": false
 		}
@@ -118,25 +117,25 @@
 		{
 			"type": "item",
 			"id": "tech-machine",
-			"count": 1,
+			"count": 3,
 			"chance": 0.896
 		},
 		{
 			"type": "item",
 			"id": "arc-reactor",
-			"count": 1,
+			"count": 3,
 			"chance": 0.498
 		},
 		{
 			"type": "item",
 			"id": "autonomous-ai-chip",
-			"count": 1,
+			"count": 3,
 			"chance": 0.358
 		},
 		{
 			"type": "item",
 			"id": "antimatter-piece",
-			"count": 1,
+			"count": 3,
 			"chance": 0.215
 		}
 	],

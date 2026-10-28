@@ -12,9 +12,9 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">⛏️</span>鍾乳洞の鉱石掘り](/ja/action/limestone-cave-ore-digging) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv11 | 1 | 8.64% | 0.043 | 2.2 |
-| [<span class="wiki-icon">🗿</span>溶岩ゴーレム](/ja/action/lava-golem) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv33 | 2 | 57.6% | 0.576 | 0.001 |
-| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv34 | 2 | 57.6% | 0.576 | 0.001 |
-| [<span class="wiki-icon">🐦‍🔥</span>火喰い鳥](/ja/action/fire-eating-bird) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 | 1 | 30.2% | 0.151 | 0.011 |
+| [<span class="wiki-icon">🗿</span>溶岩ゴーレム](/ja/action/lava-golem) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv33 | 1 | 0.658% | 0.003 | 0.001 |
+| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv34 | 1 | 0.631% | 0.003 | 0.001 |
+| [<span class="wiki-icon">🐦‍🔥</span>火喰い鳥](/ja/action/fire-eating-bird) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 | 1 | 0.086% | 0 | 0.011 |
 
 ## 用途
 
@@ -39,6 +39,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 2 |
@@ -68,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

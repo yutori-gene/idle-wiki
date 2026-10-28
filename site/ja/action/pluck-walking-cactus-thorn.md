@@ -1,6 +1,6 @@
 # 歩くサボテンの棘を抜く
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">歩くサボテンの棘を抜く</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌵</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv3</td></tr><tr><th>所要時間</th><td>1時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>1,029</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">歩くサボテンの棘を抜く</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌵</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv9</td></tr><tr><th>所要時間</th><td>1時間30分</td></tr><tr><th>成功率</th><td>90%</td></tr><tr><th>経験値</th><td>152</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 水をやると機嫌よく棘を落とす。刺されないうちに集める。
 
@@ -9,9 +9,9 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv3以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv9以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) ×1（消費しない）
-- [<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water) ×1（消費する）
+- [<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water) ×2（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,19 +19,19 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) ×3 | 成功時 | 100% | 3 | 3 |
-| [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) ×2 | 成功時 | 100% | 2 | 2 |
+| [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) ×5 | 成功時 | 100% | 4.5 | 3 |
+| [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) ×3 | 成功時 | 100% | 2.7 | 1.8 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 90%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv3） | 1時間 | 100% | 1,029 | 1 | 1,029 |
-| +10（Lv13） | 48分59秒 | 100% | 686 | 1.2 | 840 |
-| +20（Lv23） | 40分 | 100% | 457.33 | 1.5 | 686 |
-| +30（Lv33） | 32分40秒 | 100% | 304.89 | 1.8 | 560 |
+| ±0（Lv9） | 1時間30分 | 90% | 152 | 0.7 | 91 |
+| +10（Lv19） | 1時間13分 | 93.1% | 101.33 | 0.8 | 77 |
+| +20（Lv29） | 1時間 | 95.3% | 67.56 | 1 | 64 |
+| +30（Lv39） | 48分59秒 | 96.8% | 45.04 | 1.2 | 53 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -39,7 +39,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 18 | 4 | 14 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 17 | 5 | 11 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -54,10 +54,10 @@
 | `attribute` | （空） |
 | `group` | `pet` |
 | `unlocked` | `hidden` |
-| `level` | `3` |
-| `experience` | `1029` |
-| `seconds` | `3600` |
-| `chance` | `1` |
+| `level` | `9` |
+| `experience` | `152` |
+| `seconds` | `5400` |
+| `chance` | `0.9` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 2 |
@@ -83,10 +83,10 @@
 	"attribute": "",
 	"group": "pet",
 	"unlocked": "hidden",
-	"level": 3,
-	"experience": 1029,
-	"seconds": 3600,
-	"chance": 1,
+	"level": 9,
+	"experience": 152,
+	"seconds": 5400,
+	"chance": 0.9,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -99,7 +99,7 @@
 		{
 			"type": "item",
 			"id": "fresh-water",
-			"count": 1,
+			"count": 2,
 			"chance": 1,
 			"equipment": false
 		}
@@ -108,13 +108,13 @@
 		{
 			"type": "item",
 			"id": "nut",
-			"count": 3,
+			"count": 5,
 			"chance": 1
 		},
 		{
 			"type": "item",
 			"id": "cloth",
-			"count": 2,
+			"count": 3,
 			"chance": 1
 		}
 	],

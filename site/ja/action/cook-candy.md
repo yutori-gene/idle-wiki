@@ -1,6 +1,6 @@
 # 飴
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">飴</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍬</span></div><table><tr><th>場所</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cooking"><span class="wiki-icon">🍽️</span>料理</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>1分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>18</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">飴</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍬</span></div><table><tr><th>場所</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cooking"><span class="wiki-icon">🍽️</span>料理</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>1分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>20</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 砂糖を焦がす手前で止める。止めそこねると炭になる。
 
@@ -19,7 +19,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍬</span>飴](/ja/item/candy) ×1 | 成功時 | 100% | 1 | 60 |
+| [<span class="wiki-icon">🍬</span>飴](/ja/item/candy) ×38 | 成功時 | 100% | 38 | 2,280 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -27,10 +27,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv1） | 1分 | 100% | 18 | 60 | 1,080 |
-| +10（Lv11） | 49秒 | 100% | 12 | 73.5 | 882 |
-| +20（Lv21） | 40秒 | 100% | 8 | 90 | 720 |
-| +30（Lv31） | 32.7秒 | 100% | 5.33 | 110.2 | 588 |
+| ±0（Lv1） | 1分 | 100% | 20 | 60 | 1,200 |
+| +10（Lv11） | 49秒 | 100% | 13.33 | 73.5 | 980 |
+| +20（Lv21） | 40秒 | 100% | 8.89 | 90 | 800 |
+| +30（Lv31） | 32.7秒 | 100% | 5.93 | 110.2 | 653 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -38,11 +38,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 360 | 1,380 | -1,020 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 13,680 | 1,380 | 12,300 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">台所のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-pot"><span class="wiki-icon">🍲</span>鍋を買う</a> ・ <a href="#/ja/action/buy-frying-pan"><span class="wiki-icon">🍳</span>フライパンを買う</a> ・ <a href="#/ja/action/buy-bowl"><span class="wiki-icon">🥣</span>ボウルを買う</a> ・ <a href="#/ja/action/buy-steamer"><span class="wiki-icon">🥟</span>蒸籠を買う</a> ・ <a href="#/ja/action/bake-bread"><span class="wiki-icon">🍞</span>パンを焼く</a> ・ <a href="#/ja/action/knead-bread-dough"><span class="wiki-icon">🍞</span>パン生地をこねる</a> ・ <a href="#/ja/action/craft-cheese"><span class="wiki-icon">🧀</span>チーズを作る</a> ・ <a href="#/ja/action/craft-mayonnaise"><span class="wiki-icon">🥫</span>マヨネーズを作る</a> ・ <a href="#/ja/action/make-military-sardine"><span class="wiki-icon">🐟</span>軍用イワシ</a> ・ <a href="#/ja/action/cook-candy"><span class="wiki-icon">🍬</span>飴</a> ・ <a href="#/ja/action/cook-french-toast"><span class="wiki-icon">🍞</span>フレンチトースト</a> ・ <a href="#/ja/action/cook-potion-bread"><span class="wiki-icon">🍞</span>ポーション入りパン</a> ・ <a href="#/ja/action/cook-tomato-egg-drop"><span class="wiki-icon">🍅</span>トマトの卵とじ</a> ・ <a href="#/ja/action/cook-sardine-confit"><span class="wiki-icon">🐟</span>イワシのコンフィ</a> ・ <a href="#/ja/action/cook-fried-egg"><span class="wiki-icon">🍳</span>目玉焼き</a> ・ <a href="#/ja/action/cook-yakitori"><span class="wiki-icon">🍗</span>焼き鳥</a> ・ <a href="#/ja/action/cook-escargot"><span class="wiki-icon">🐌</span>エスカルゴ</a> ・ <a href="#/ja/action/cook-potato-salad"><span class="wiki-icon">🥗</span>ポテトサラダ</a> ・ <a href="#/ja/action/cook-meat-bun"><span class="wiki-icon">🥟</span>肉まん</a> ・ <a href="#/ja/action/cook-stir-fried-vegetables"><span class="wiki-icon">🥘</span>野菜炒め</a> ・ <a href="#/ja/action/cook-steak"><span class="wiki-icon">🥩</span>ステーキ</a> ・ <a href="#/ja/action/cook-meat-bun-tomato-stew"><span class="wiki-icon">🥟</span>肉まんのトマト煮</a> ・ <a href="#/ja/action/cook-grilled-fish"><span class="wiki-icon">🐟</span>焼き魚</a> ・ <a href="#/ja/action/cook-burning-tofu"><span class="wiki-icon">🔥</span>燃える豆腐</a> ・ <a href="#/ja/action/cook-pizza"><span class="wiki-icon">🍕</span>ピザ</a> ・ <a href="#/ja/action/cook-beef-jerky"><span class="wiki-icon">🥩</span>ビーフジャーキー</a> ・ <a href="#/ja/action/cook-omelette"><span class="wiki-icon">🍳</span>オムレツ</a> ・ <a href="#/ja/action/cook-curry-rice"><span class="wiki-icon">🍛</span>カレー</a> ・ <a href="#/ja/action/cook-cooked-rice"><span class="wiki-icon">🍚</span>ごはん</a> ・ <a href="#/ja/action/cook-sushi"><span class="wiki-icon">🍣</span>寿司</a> ・ <a href="#/ja/action/cook-rice-ball"><span class="wiki-icon">🍙</span>おにぎり</a> ・ <a href="#/ja/action/cook-steamed-vegetables"><span class="wiki-icon">🥗</span>蒸し野菜</a> ・ <a href="#/ja/action/cook-organic-salad"><span class="wiki-icon">🥗</span>オーガニックサラダ</a> ・ <a href="#/ja/action/cook-bitter-dango"><span class="wiki-icon">🍡</span>苦い団子</a> ・ <a href="#/ja/action/cook-senzu-bean"><span class="wiki-icon">🫘</span>仙豆</a></div></div>
+<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">台所のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-pot"><span class="wiki-icon">🍲</span>鍋を買う</a> ・ <a href="#/ja/action/buy-frying-pan"><span class="wiki-icon">🍳</span>フライパンを買う</a> ・ <a href="#/ja/action/buy-bowl"><span class="wiki-icon">🥣</span>ボウルを買う</a> ・ <a href="#/ja/action/buy-steamer"><span class="wiki-icon">🥟</span>蒸籠を買う</a> ・ <a href="#/ja/action/bake-bread"><span class="wiki-icon">🍞</span>パンを焼く</a> ・ <a href="#/ja/action/knead-bread-dough"><span class="wiki-icon">🍞</span>パン生地をこねる</a> ・ <a href="#/ja/action/craft-cheese"><span class="wiki-icon">🧀</span>チーズを作る</a> ・ <a href="#/ja/action/craft-mayonnaise"><span class="wiki-icon">🥫</span>マヨネーズを作る</a> ・ <a href="#/ja/action/make-military-sardine"><span class="wiki-icon">🐟</span>軍用イワシ</a> ・ <a href="#/ja/action/cook-candy"><span class="wiki-icon">🍬</span>飴</a> ・ <a href="#/ja/action/cook-french-toast"><span class="wiki-icon">🍞</span>フレンチトースト</a> ・ <a href="#/ja/action/cook-potion-bread"><span class="wiki-icon">🍞</span>ポーション入りパン</a> ・ <a href="#/ja/action/cook-tomato-egg-drop"><span class="wiki-icon">🍅</span>トマトの卵とじ</a> ・ <a href="#/ja/action/cook-sardine-confit"><span class="wiki-icon">🐟</span>イワシのコンフィ</a> ・ <a href="#/ja/action/cook-fried-egg"><span class="wiki-icon">🍳</span>目玉焼き</a> ・ <a href="#/ja/action/cook-yakitori"><span class="wiki-icon">🍗</span>焼き鳥</a> ・ <a href="#/ja/action/cook-escargot"><span class="wiki-icon">🐌</span>エスカルゴ</a> ・ <a href="#/ja/action/cook-potato-salad"><span class="wiki-icon">🥗</span>ポテトサラダ</a> ・ <a href="#/ja/action/cook-meat-bun"><span class="wiki-icon">🥟</span>肉まん</a> ・ <a href="#/ja/action/cook-stir-fried-vegetables"><span class="wiki-icon">🥘</span>野菜炒め</a> ・ <a href="#/ja/action/cook-steak"><span class="wiki-icon">🥩</span>ステーキ</a> ・ <a href="#/ja/action/cook-meat-bun-tomato-stew"><span class="wiki-icon">🥟</span>肉まんのトマト煮</a> ・ <a href="#/ja/action/cook-grilled-fish"><span class="wiki-icon">🐟</span>焼き魚</a> ・ <a href="#/ja/action/cook-burning-tofu"><span class="wiki-icon">🔥</span>燃える豆腐</a> ・ <a href="#/ja/action/cook-pizza"><span class="wiki-icon">🍕</span>ピザ</a> ・ <a href="#/ja/action/cook-beef-jerky"><span class="wiki-icon">🥩</span>ビーフジャーキー</a> ・ <a href="#/ja/action/cook-omelette"><span class="wiki-icon">🍳</span>オムレツ</a> ・ <a href="#/ja/action/cook-cooked-rice"><span class="wiki-icon">🍚</span>ごはん</a> ・ <a href="#/ja/action/cook-sushi"><span class="wiki-icon">🍣</span>寿司</a> ・ <a href="#/ja/action/cook-rice-ball"><span class="wiki-icon">🍙</span>おにぎり</a> ・ <a href="#/ja/action/cook-curry-rice"><span class="wiki-icon">🍛</span>カレー</a> ・ <a href="#/ja/action/cook-steamed-vegetables"><span class="wiki-icon">🥗</span>蒸し野菜</a> ・ <a href="#/ja/action/cook-organic-salad"><span class="wiki-icon">🥗</span>オーガニックサラダ</a> ・ <a href="#/ja/action/cook-bitter-dango"><span class="wiki-icon">🍡</span>苦い団子</a> ・ <a href="#/ja/action/cook-senzu-bean"><span class="wiki-icon">🫘</span>仙豆</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,7 +54,7 @@
 | `group` | `cooking` |
 | `unlocked` | `hidden` |
 | `level` | `1` |
-| `experience` | `18` |
+| `experience` | `20` |
 | `seconds` | `60` |
 | `chance` | `1` |
 | `maximum` | `0` |
@@ -83,7 +83,7 @@
 	"group": "cooking",
 	"unlocked": "hidden",
 	"level": 1,
-	"experience": 18,
+	"experience": 20,
 	"seconds": 60,
 	"chance": 1,
 	"maximum": 0,
@@ -114,7 +114,7 @@
 		{
 			"type": "item",
 			"id": "candy",
-			"count": 1,
+			"count": 38,
 			"chance": 1
 		}
 	],

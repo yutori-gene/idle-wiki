@@ -1,6 +1,6 @@
 # ネクロノミコンを読む
 
-<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">ネクロノミコンを読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📕</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv18</td></tr><tr><th>所要時間</th><td>1日7時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>32,113</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">ネクロノミコンを読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📕</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv46</td></tr><tr><th>所要時間</th><td>20時間</td></tr><tr><th>成功率</th><td>70%</td></tr><tr><th>経験値</th><td>2,150</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 読めば狂気に近づく。近づいたぶんだけ、血が力に変わる。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv18以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv46以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">📕</span>ネクロノミコン](/ja/item/necronomicon) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -18,18 +18,15 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🩸</span>血鬼術](/ja/item/blood-demon-art) ×1 | 成功時 | 100% | 1 | 0.032 |
+| [<span class="wiki-icon">🩸</span>血鬼術](/ja/item/blood-demon-art) ×1 | 成功時 | 100% | 0.7 | 0.035 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 70%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv18） | 1日7時間 | 100% | 32,113 | 0 | 1,029 |
-| +10（Lv28） | 1日1時間 | 100% | 21,408.67 | 0 | 840 |
-| +20（Lv38） | 20時間48分 | 100% | 14,272.44 | 0 | 686 |
-| +30（Lv48） | 16時間59分 | 100% | 9,514.96 | 0.1 | 560 |
+| ±0（Lv46） | 20時間 | 70% | 2,150 | 0.1 | 75 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -37,7 +34,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 1,891 | -1,891 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 2,952 | -2,952 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -52,10 +49,10 @@
 | `attribute` | （空） |
 | `group` | `reading` |
 | `unlocked` | `hidden` |
-| `level` | `18` |
-| `experience` | `32113` |
-| `seconds` | `112393` |
-| `chance` | `1` |
+| `level` | `46` |
+| `experience` | `2150` |
+| `seconds` | `72000` |
+| `chance` | `0.7` |
 | `maximum` | `0` |
 | `progressType` | `single` |
 | CSV `tier` | 9 |
@@ -81,10 +78,10 @@
 	"attribute": "",
 	"group": "reading",
 	"unlocked": "hidden",
-	"level": 18,
-	"experience": 32113,
-	"seconds": 112393,
-	"chance": 1,
+	"level": 46,
+	"experience": 2150,
+	"seconds": 72000,
+	"chance": 0.7,
 	"maximum": 0,
 	"requirements": [
 		{

@@ -1,7 +1,7 @@
 
 # 用語集
 
-> idle リポジトリ `world/doc/terms.md` の写し（2f1ffe2 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
+> idle リポジトリ `world/doc/terms.md` の写し（0932eb8 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
 
 エンジン（型定義）とゲームコンテンツ両方の用語を定義する。
 

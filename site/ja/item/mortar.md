@@ -19,8 +19,8 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
 | [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
 | [<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
 | [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
 | [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
@@ -44,6 +44,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 0 |
@@ -73,6 +74,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

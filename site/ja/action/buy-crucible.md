@@ -1,6 +1,6 @@
 # るつぼを買う
 
-<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">るつぼを買う</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/purchase"><span class="wiki-icon">🛒</span>購入</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv10</td></tr><tr><th>所要時間</th><td>0秒</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>0</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">るつぼを買う</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/purchase"><span class="wiki-icon">🛒</span>購入</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv15</td></tr><tr><th>所要時間</th><td>0秒</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>0</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 何でも溶かす炉。値段も溶ける。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv10以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv15以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×10,000（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -26,10 +26,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv10） | 0.1秒 | 100% | 0 | 36,000 | 0 |
-| +10（Lv20） | 0.1秒 | 100% | 0 | 36,000 | 0 |
-| +20（Lv30） | 0.1秒 | 100% | 0 | 36,000 | 0 |
-| +30（Lv40） | 0.1秒 | 100% | 0 | 36,000 | 0 |
+| ±0（Lv15） | 0.1秒 | 100% | 0 | 36,000 | 0 |
+| +10（Lv25） | 0.1秒 | 100% | 0 | 36,000 | 0 |
+| +20（Lv35） | 0.1秒 | 100% | 0 | 36,000 | 0 |
+| +30（Lv45） | 0.1秒 | 100% | 0 | 36,000 | 0 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -41,7 +41,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6d4f9c"><div class="wiki-navbox-title">地下室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-mortar"><span class="wiki-icon">🥣</span>すり鉢を買う</a> ・ <a href="#/ja/action/buy-still"><span class="wiki-icon">⚗️</span>蒸留器を買う</a> ・ <a href="#/ja/action/buy-crucible"><span class="wiki-icon">⚗️</span>るつぼを買う</a> ・ <a href="#/ja/action/brew-wound-medicine"><span class="wiki-icon">💊</span>キズ薬の調合</a> ・ <a href="#/ja/action/brew-bandage"><span class="wiki-icon">🩹</span>絆創膏の調合</a> ・ <a href="#/ja/action/brew-cold-medicine"><span class="wiki-icon">💊</span>風邪薬の調合</a> ・ <a href="#/ja/action/brew-opium"><span class="wiki-icon">💊</span>阿片の調合</a> ・ <a href="#/ja/action/brew-bubbling-medicine"><span class="wiki-icon">🧪</span>泡立つ薬の調合</a> ・ <a href="#/ja/action/brew-eye-drops"><span class="wiki-icon">👁️</span>目薬の調合</a> ・ <a href="#/ja/action/brew-glowing-medicine"><span class="wiki-icon">✨</span>発光する薬の調合</a> ・ <a href="#/ja/action/brew-ether"><span class="wiki-icon">🧪</span>エーテルの調合</a> ・ <a href="#/ja/action/brew-heat-pack"><span class="wiki-icon">🔥</span>カイロの調合</a> ・ <a href="#/ja/action/brew-cold-pack"><span class="wiki-icon">🧊</span>保冷剤の調合</a> ・ <a href="#/ja/action/brew-painkiller"><span class="wiki-icon">💊</span>鎮痛剤の調合</a> ・ <a href="#/ja/action/brew-anti-drowsiness"><span class="wiki-icon">☕</span>眠気覚ましの調合</a> ・ <a href="#/ja/action/brew-phoenix-tail"><span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合</a> ・ <a href="#/ja/action/brew-laxative"><span class="wiki-icon">💊</span>下剤の調合</a> ・ <a href="#/ja/action/brew-laxative-for-gorilla"><span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合</a> ・ <a href="#/ja/action/brew-poison-vial"><span class="wiki-icon">🧪</span>毒瓶の調合</a> ・ <a href="#/ja/action/brew-tonic"><span class="wiki-icon">💊</span>滋養強壮剤の調合</a> ・ <a href="#/ja/action/brew-vaccine"><span class="wiki-icon">💉</span>ワクチンの調合</a> ・ <a href="#/ja/action/brew-lcl"><span class="wiki-icon">🧪</span>LCLの調合</a> ・ <a href="#/ja/action/brew-holy-water"><span class="wiki-icon">💧</span>聖水の調合</a> ・ <a href="#/ja/action/brew-bottled-spirit"><span class="wiki-icon">🧞</span>精霊の入ったビンの調合</a> ・ <a href="#/ja/action/brew-panacea"><span class="wiki-icon">💊</span>万能薬の調合</a> ・ <a href="#/ja/action/brew-revive-piece"><span class="wiki-icon">💊</span>げんきのかけらの調合</a> ・ <a href="#/ja/action/brew-elixir"><span class="wiki-icon">🧪</span>エリクサーの調合</a> ・ <a href="#/ja/action/brew-felix-felicis"><span class="wiki-icon">🍀</span>フェリックスフェリシスの調合</a></div></div>
+<div class="wiki-navbox" style="--accent:#6d4f9c"><div class="wiki-navbox-title">地下室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-mortar"><span class="wiki-icon">🥣</span>すり鉢を買う</a> ・ <a href="#/ja/action/buy-still"><span class="wiki-icon">⚗️</span>蒸留器を買う</a> ・ <a href="#/ja/action/buy-crucible"><span class="wiki-icon">⚗️</span>るつぼを買う</a> ・ <a href="#/ja/action/brew-bandage"><span class="wiki-icon">🩹</span>絆創膏の調合</a> ・ <a href="#/ja/action/brew-wound-medicine"><span class="wiki-icon">💊</span>キズ薬の調合</a> ・ <a href="#/ja/action/brew-cold-medicine"><span class="wiki-icon">💊</span>風邪薬の調合</a> ・ <a href="#/ja/action/brew-bubbling-medicine"><span class="wiki-icon">🧪</span>泡立つ薬の調合</a> ・ <a href="#/ja/action/brew-opium"><span class="wiki-icon">💊</span>阿片の調合</a> ・ <a href="#/ja/action/brew-glowing-medicine"><span class="wiki-icon">✨</span>発光する薬の調合</a> ・ <a href="#/ja/action/brew-ether"><span class="wiki-icon">🧪</span>エーテルの調合</a> ・ <a href="#/ja/action/brew-heat-pack"><span class="wiki-icon">🔥</span>カイロの調合</a> ・ <a href="#/ja/action/brew-eye-drops"><span class="wiki-icon">👁️</span>目薬の調合</a> ・ <a href="#/ja/action/brew-cold-pack"><span class="wiki-icon">🧊</span>保冷剤の調合</a> ・ <a href="#/ja/action/brew-painkiller"><span class="wiki-icon">💊</span>鎮痛剤の調合</a> ・ <a href="#/ja/action/brew-phoenix-tail"><span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合</a> ・ <a href="#/ja/action/brew-anti-drowsiness"><span class="wiki-icon">☕</span>眠気覚ましの調合</a> ・ <a href="#/ja/action/brew-tonic"><span class="wiki-icon">💊</span>滋養強壮剤の調合</a> ・ <a href="#/ja/action/brew-vaccine"><span class="wiki-icon">💉</span>ワクチンの調合</a> ・ <a href="#/ja/action/brew-laxative"><span class="wiki-icon">💊</span>下剤の調合</a> ・ <a href="#/ja/action/brew-laxative-for-gorilla"><span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合</a> ・ <a href="#/ja/action/brew-poison-vial"><span class="wiki-icon">🧪</span>毒瓶の調合</a> ・ <a href="#/ja/action/brew-lcl"><span class="wiki-icon">🧪</span>LCLの調合</a> ・ <a href="#/ja/action/brew-holy-water"><span class="wiki-icon">💧</span>聖水の調合</a> ・ <a href="#/ja/action/brew-bottled-spirit"><span class="wiki-icon">🧞</span>精霊の入ったビンの調合</a> ・ <a href="#/ja/action/brew-panacea"><span class="wiki-icon">💊</span>万能薬の調合</a> ・ <a href="#/ja/action/brew-revive-piece"><span class="wiki-icon">💊</span>げんきのかけらの調合</a> ・ <a href="#/ja/action/brew-elixir"><span class="wiki-icon">🧪</span>エリクサーの調合</a> ・ <a href="#/ja/action/brew-felix-felicis"><span class="wiki-icon">🍀</span>フェリックスフェリシスの調合</a></div></div>
 
 ## 開発者向け情報
 
@@ -52,7 +52,7 @@
 | `attribute` | （空） |
 | `group` | `purchase` |
 | `unlocked` | `hidden` |
-| `level` | `10` |
+| `level` | `15` |
 | `experience` | `0` |
 | `seconds` | `0` |
 | `chance` | `1` |
@@ -81,7 +81,7 @@
 	"attribute": "",
 	"group": "purchase",
 	"unlocked": "hidden",
-	"level": 10,
+	"level": 15,
 	"experience": 0,
 	"seconds": 0,
 	"chance": 1,

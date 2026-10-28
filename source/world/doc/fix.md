@@ -201,7 +201,7 @@
 - [ ] demoの武器/防具を attack/defence 込みで再設計するか検討（現在は武器=`experience`・防具/ポーション=`restore` で意味付けしてある）。
 - [ ] spiliProperties の `isPropertyType` 判定（[utilize.ts:9](../../player/control/dictionary/utilize.ts#L9) `restore===undefined`）は Combat 型も restore を持つため誤判定の可能性。要レビュー。
 - [ ] 戦闘難易度はデモ用に「死ににくい」寄り。歯ごたえを出すなら defaultCombat の defence↑/restore↓。
-- [ ] B-6: `Item.consumeChance` を追加する（~~変換フェーズ直前・worldtype-sync でまとめて~~ → **実プレイで消費率を調整したくなってから**に送った。2026-09-07・変換フェーズ 論点5）。`item.csv` の `consumeChance` 列は866行すべて空欄（＝1.0）なので、型を足しても world.json は変わらない。列は残し、変換では無視する。
+- [x] B-6: **完了（2026-10-25）。** `Item.consumeChance`（0〜1・既定1）を足し、`shouldConsumeEquipment` の末尾で確率判定する。値を持たない旧ワールドは `?? 1` で従来どおり必ず消費する。convert.ts は `item.csv` の `consumeChance` 列を読む（空欄＝1）。値は 投擲 0.5／ポーション（地下室）0.2／それ以外 1。討伐のターンを1〜3秒台にしたことで1戦あたりの消費が時間あたり20〜200倍になったのがきっかけ（plan.md「討伐のターンを1〜3秒台へ」節）。
 - [x] B-7: **完了（2026-09-07 の列追加で実体化）。** `action.csv` に `req-N-equipment` 列（10列）を追加し、道具を要求する75件を `chance=0`・`equipment=true` へ変えた。残る124件は**消費させたいもの**なので空欄のまま——分解110本（道具そのものを壊す）・料理7本（`ネギ`・`フランスパン` のように武器と食材を兼ねる）・討伐4本・未使用3本。
 - [x] B-8: **完了（Step 3）。** 調理器具は4種（`蒸籠`／`鍋`／`フライパン`／`ボウル`）、調合器具は3種（`すり鉢`／`蒸留器`／`るつぼ`）の計7種になり、すべて `necessary`・1種ごとに別グループ（蒸し／煮込み／炒め／混ぜ／粉砕／蒸留／溶解）。インフラ14種は `unnecessary` のまま。
 - [x] B-9: **完了（2026-09-11）。** changed イベント9本（`storage-*`・物置を計180ひろげる）を書き、前提3つをすべて満たした——`initialCount=30`（[world/basic.json](../basic.json)）・売却不可（`sellingValue=0`）・**入手の単発化（探索9本を `Action.maximum=1`）**。実エンジンで 30 → 210 になること、2回目の実行が弾かれることを確認済み。

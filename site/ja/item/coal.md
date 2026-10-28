@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🔩</span>廃材拾い](/ja/action/scrap-gathering) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv5 | 3 | 48% | 0.72 | 43.2 |
-| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv46 | 2 | 48% | 0.48 | 0 |
+| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv46 | 1 | 0.498% | 0.002 | 0 |
 
 ## 用途
 
@@ -20,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 10 | 100% |  |
+| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv50 | 43 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 1 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

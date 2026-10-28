@@ -1,6 +1,6 @@
 # 炎のキツネと遊ぶ
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">炎のキツネと遊ぶ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦊</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv15</td></tr><tr><th>所要時間</th><td>3時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,600</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">炎のキツネと遊ぶ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦊</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv36</td></tr><tr><th>所要時間</th><td>8時間</td></tr><tr><th>成功率</th><td>55%</td></tr><tr><th>経験値</th><td>1,325</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 尾を振るたびに火の粉が散る。焦げたぶんは炭になる。
 
@@ -9,9 +9,9 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv15以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv36以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) ×1（消費しない）
-- [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) ×1（消費する）
+- [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) ×2（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,19 +19,17 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦊</span>狐火](/ja/item/foxfire) ×1 | 成功時 | 100% | 1 | 0.286 |
-| [<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal) ×2 | 成功時 | 100% | 2 | 0.571 |
+| [<span class="wiki-icon">🦊</span>狐火](/ja/item/foxfire) ×4 | 成功時 | 100% | 2.2 | 0.275 |
+| [<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal) ×8 | 成功時 | 100% | 4.4 | 0.55 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 55%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv15） | 3時間30分 | 100% | 3,600 | 0.3 | 1,029 |
-| +10（Lv25） | 2時間51分 | 100% | 2,400 | 0.3 | 840 |
-| +20（Lv35） | 2時間20分 | 100% | 1,600 | 0.4 | 686 |
-| +30（Lv45） | 1時間54分 | 100% | 1,066.67 | 0.5 | 560 |
+| ±0（Lv36） | 8時間 | 55% | 1,325 | 0.1 | 91 |
+| +10（Lv46） | 6時間31分 | 64.7% | 883.33 | 0.2 | 88 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -39,7 +37,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 14 | 2 | 12 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 13 | 2 | 12 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -54,10 +52,10 @@
 | `attribute` | （空） |
 | `group` | `pet` |
 | `unlocked` | `hidden` |
-| `level` | `15` |
-| `experience` | `3600` |
-| `seconds` | `12600` |
-| `chance` | `1` |
+| `level` | `36` |
+| `experience` | `1325` |
+| `seconds` | `28800` |
+| `chance` | `0.55` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 7 |
@@ -83,10 +81,10 @@
 	"attribute": "",
 	"group": "pet",
 	"unlocked": "hidden",
-	"level": 15,
-	"experience": 3600,
-	"seconds": 12600,
-	"chance": 1,
+	"level": 36,
+	"experience": 1325,
+	"seconds": 28800,
+	"chance": 0.55,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -99,7 +97,7 @@
 		{
 			"type": "item",
 			"id": "raw-meat",
-			"count": 1,
+			"count": 2,
 			"chance": 1,
 			"equipment": false
 		}
@@ -108,13 +106,13 @@
 		{
 			"type": "item",
 			"id": "foxfire",
-			"count": 1,
+			"count": 4,
 			"chance": 1
 		},
 		{
 			"type": "item",
 			"id": "charcoal",
-			"count": 2,
+			"count": 8,
 			"chance": 1
 		}
 	],

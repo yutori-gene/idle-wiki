@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪱</span>マグマワーム](/ja/action/magma-worm) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 3 | 76.8% | 1.2 | 0.001 |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 3 | 76.8% | 1.2 | 0 |
+| [<span class="wiki-icon">🪱</span>マグマワーム](/ja/action/magma-worm) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 1 | 1.15% | 0.006 | 0.001 |
+| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 0.853% | 0.004 | 0 |
 
 ## 用途
 
@@ -38,6 +38,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 1 |
@@ -67,6 +68,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

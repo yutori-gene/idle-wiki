@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐱</span>化け猫](/ja/action/bakeneko) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 3 | 76.8% | 1.2 | 0.013 |
+| [<span class="wiki-icon">🐱</span>化け猫](/ja/action/bakeneko) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 1 | 0.512% | 0.003 | 0.013 |
 
 ### イベント
 
@@ -42,6 +42,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 9 |
 | CSV `rare` | 1 |
@@ -71,6 +72,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

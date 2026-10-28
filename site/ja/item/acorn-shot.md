@@ -53,6 +53,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | `many-blows` |
 | CSV `tier` | 1 |
 | CSV `rare` | 1 |
@@ -82,6 +83,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

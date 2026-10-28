@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 2 | 48% | 0.48 | 0 |
+| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 0.356% | 0.002 | 0 |
 
 ### 購入
 
@@ -23,13 +23,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv5 | 1 | 100% |  |
+| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 1 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる（購入もできるようになる）。
 
-- [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv4以上
+- [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv9以上
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -46,6 +46,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 1 |
@@ -75,11 +76,12 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",
 			"id": "loft",
-			"count": 4,
+			"count": 9,
 			"chance": 1,
 			"equipment": false
 		}

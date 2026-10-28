@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv34 | 1 | 22.5% | 0.113 | 0 |
+| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv34 | 1 | 0.123% | 0.001 | 0 |
 | [<span class="wiki-icon">🌋</span>古代の溶岩洞](/ja/action/ancient-lava-tube) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv8 | 1 | 31.1% | 0.311 | 0.089 |
 
 ## 用途
@@ -20,8 +20,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 2 | 100% |  |
-| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv46 | 4 | 100% |  |
+| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv50 | 13 | 100% |  |
 | [<span class="wiki-icon">🗡️</span>グラディウスを作る](/ja/action/craft-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv33 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
@@ -39,6 +39,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 3 |
@@ -68,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

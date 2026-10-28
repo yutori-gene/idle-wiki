@@ -15,7 +15,7 @@
 | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">🗺️</span>ダンジョン](/ja/group/dungeon) | あり | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) Lv20以上<br>[<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ×1 | 17 | 0 |
 | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | [<span class="wiki-icon">🗺️</span>ダンジョン](/ja/group/dungeon) | あり | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) Lv20以上<br>[<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) ×1 | 17 | 0 |
 | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | [<span class="wiki-icon">🏠</span>拠点](/ja/group/base) | なし | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv4以上 | 0 | 365 |
-| [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | [<span class="wiki-icon">🏠</span>拠点](/ja/group/base) | あり | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv8以上 | 17 | 34 |
+| [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | [<span class="wiki-icon">🏠</span>拠点](/ja/group/base) | あり | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv8以上 | 18 | 31 |
 | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | [<span class="wiki-icon">🏠</span>拠点](/ja/group/base) | あり | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv3以上 | 22 | 33 |
 | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🏠</span>拠点](/ja/group/base) | あり | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv5以上 | 35 | 89 |
 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | [<span class="wiki-icon">🏠</span>拠点](/ja/group/base) | あり | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv7以上 | 25 | 51 |

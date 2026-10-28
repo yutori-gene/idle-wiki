@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 18.7% | 0.094 | 0.312 |
+| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 0.343% | 0.002 | 0.312 |
 
 ## 用途
 
@@ -44,6 +44,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 2 |
@@ -73,6 +74,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

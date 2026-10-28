@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv3 | 5 | 56% | 1.4 | 56 |
-| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 7 | 80% | 2.8 | 0.031 |
+| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 1 | 1.87% | 0.009 | 0.031 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><span class="wiki-icon">🗑️</span>ごみ</a> を参照</div></div>
 
@@ -29,6 +29,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 9 |
 | CSV `rare` | 0 |
@@ -58,6 +59,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

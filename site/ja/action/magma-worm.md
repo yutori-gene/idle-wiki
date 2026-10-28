@@ -1,6 +1,6 @@
 # マグマワーム
 
-<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">マグマワーム</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪱</span></div><table><tr><th>場所</th><td><a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv35</td></tr><tr><th>所要時間</th><td>7分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>240</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">マグマワーム</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪱</span></div><table><tr><th>場所</th><td><a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv35</td></tr><tr><th>所要時間</th><td>2.1秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.2</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 地中を泳ぐ灼熱の蟲。
 
@@ -15,10 +15,10 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏜️</span>熱砂](/ja/item/hot-sand) ×7 | 成功時 | 80% | 2.8 | 0.003 |
-| [<span class="wiki-icon">🧔</span>ドワーフの髭](/ja/item/dwarf-beard) ×3 | 成功時 | 76.8% | 1.2 | 0.001 |
-| [<span class="wiki-icon">❤️‍🔥</span>溶岩の心臓](/ja/item/lava-heart) ×1 | 成功時 | 22.5% | 0.113 | 0 |
-| [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) ×1 | 成功時 | 0.896% | 0.004 | 0 |
+| [<span class="wiki-icon">🏜️</span>熱砂](/ja/item/hot-sand) ×1 | 成功時 | 2.8% | 0.014 | 0.003 |
+| [<span class="wiki-icon">🧔</span>ドワーフの髭](/ja/item/dwarf-beard) ×1 | 成功時 | 1.15% | 0.006 | 0.001 |
+| [<span class="wiki-icon">❤️‍🔥</span>溶岩の心臓](/ja/item/lava-heart) ×1 | 成功時 | 0.113% | 0.001 | 0 |
+| [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) ×1 | 成功時 | 0.004% | 0 | 0 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -39,8 +39,8 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv35） | 0.015% | 75.3% | 75% | 23.1% | 14.8% | 9,085.3 | 526,069.8% | 44日4時間 | 負ける見込みが高い |
-| +10（Lv45） | 0.022% | 61.5% | 81.8% | 26.9% | 20.6% | 5,552.6 | 249,530.8% | 22日1時間 | 負ける見込みが高い |
+| ±0（Lv35） | 0.015% | 75.3% | 75% | 23.1% | 14.8% | 9,085.3 | 526,069.8% | 5時間18分 | 負ける見込みが高い |
+| +10（Lv45） | 0.022% | 61.5% | 81.8% | 26.9% | 20.6% | 5,552.6 | 249,530.8% | 2時間38分 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -48,8 +48,8 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv35） | 7分 | 50% | 240 | 0 | 0 |
-| +10（Lv45） | 5分43秒 | 60% | 160 | 0 | 0 |
+| ±0（Lv35） | 2.1秒 | 50% | 1.2 | 0.2 | 0 |
+| +10（Lv45） | 1.7秒 | 60% | 0.8 | 0.4 | 0 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -73,8 +73,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `35` |
-| `experience` | `240` |
-| `seconds` | `420` |
+| `experience` | `1.2` |
+| `seconds` | `2.1` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -103,8 +103,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 35,
-	"experience": 240,
-	"seconds": 420,
+	"experience": 1.2,
+	"seconds": 2.1,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [],
@@ -112,26 +112,26 @@
 		{
 			"type": "item",
 			"id": "hot-sand",
-			"count": 7,
-			"chance": 0.8
+			"count": 1,
+			"chance": 0.028
 		},
 		{
 			"type": "item",
 			"id": "dwarf-beard",
-			"count": 3,
-			"chance": 0.768
+			"count": 1,
+			"chance": 0.0115
 		},
 		{
 			"type": "item",
 			"id": "lava-heart",
 			"count": 1,
-			"chance": 0.225
+			"chance": 0.00113
 		},
 		{
 			"type": "item",
 			"id": "kero-chan",
 			"count": 1,
-			"chance": 0.00896
+			"chance": 0.0000448
 		}
 	],
 	"progressType": "stamina",

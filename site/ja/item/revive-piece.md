@@ -1,6 +1,6 @@
 # げんきのかけら
 
-<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">げんきのかけら</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💊</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/potion"><span class="wiki-icon">🧪</span>ポーション</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>810 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">げんきのかけら</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💊</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/potion"><span class="wiki-icon">🧪</span>ポーション</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>20%</td></tr><tr><th>売値</th><td>810 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 瀕死の仲間を復活させる。
 
@@ -11,13 +11,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv20 | 1 | 100% | 1 | 12 |
+| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv46 | 134 | 100% | 114 | 456 |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv8以上
+- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv19以上
 
 <div class="wiki-navbox" style="--accent:#6d4f9c"><div class="wiki-navbox-title">グループ: ポーション</div><div class="wiki-navbox-body"><a href="#/ja/item/wound-medicine"><span class="wiki-icon">💊</span>キズ薬</a> ・ <a href="#/ja/item/bandage"><span class="wiki-icon">🩹</span>絆創膏</a> ・ <a href="#/ja/item/cold-medicine"><span class="wiki-icon">💊</span>風邪薬</a> ・ <a href="#/ja/item/bubbling-medicine"><span class="wiki-icon">🧪</span>泡立つ薬</a> ・ <a href="#/ja/item/opium"><span class="wiki-icon">💊</span>阿片</a> ・ <a href="#/ja/item/heat-pack"><span class="wiki-icon">🔥</span>カイロ</a> ・ <a href="#/ja/item/eye-drops"><span class="wiki-icon">👁️</span>目薬</a> ・ <a href="#/ja/item/glowing-medicine"><span class="wiki-icon">✨</span>発光する薬</a> ・ <a href="#/ja/item/ether"><span class="wiki-icon">🧪</span>エーテル</a> ・ <a href="#/ja/item/cold-pack"><span class="wiki-icon">🧊</span>保冷剤</a> ・ <a href="#/ja/item/insect-repellent"><span class="wiki-icon">🦟</span>むしよけスプレー</a> ・ <a href="#/ja/item/painkiller"><span class="wiki-icon">💊</span>鎮痛剤</a> ・ <a href="#/ja/item/anti-drowsiness"><span class="wiki-icon">☕</span>眠気覚まし</a> ・ <a href="#/ja/item/phoenix-tail"><span class="wiki-icon">🐦‍🔥</span>フェニックスの尾</a> ・ <a href="#/ja/item/laxative"><span class="wiki-icon">💊</span>下剤</a> ・ <a href="#/ja/item/poison-vial"><span class="wiki-icon">🧪</span>毒瓶</a> ・ <a href="#/ja/item/laxative-for-gorilla"><span class="wiki-icon">💊</span>下剤（ゴリラ用）</a> ・ <a href="#/ja/item/tonic"><span class="wiki-icon">💊</span>滋養強壮剤</a> ・ <a href="#/ja/item/vaccine"><span class="wiki-icon">💉</span>ワクチン</a> ・ <a href="#/ja/item/lcl"><span class="wiki-icon">🧪</span>LCL</a> ・ <a href="#/ja/item/holy-water"><span class="wiki-icon">💧</span>聖水</a> ・ <a href="#/ja/item/revive-piece"><span class="wiki-icon">💊</span>げんきのかけら</a> ・ <a href="#/ja/item/panacea"><span class="wiki-icon">💊</span>万能薬</a> ・ <a href="#/ja/item/bottled-spirit"><span class="wiki-icon">🧞</span>精霊の入ったビン</a> ・ <a href="#/ja/item/elixir"><span class="wiki-icon">🧪</span>エリクサー</a> ・ <a href="#/ja/item/felix-felicis"><span class="wiki-icon">🍀</span>フェリックスフェリシス</a></div></div>
 
@@ -34,6 +34,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `0.2` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
 | CSV `rare` | 4 |
@@ -63,11 +64,12 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 0.2,
 	"requirements": [
 		{
 			"type": "category",
 			"id": "basement",
-			"count": 8,
+			"count": 19,
 			"chance": 1,
 			"equipment": false
 		}

@@ -1,6 +1,6 @@
 # エレメンタリスト
 
-<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">エレメンタリスト</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧙</span></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv39</td></tr><tr><th>所要時間</th><td>8分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>275</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">エレメンタリスト</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧙</span></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv39</td></tr><tr><th>所要時間</th><td>2.8秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.6</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 四大元素を駆使する者。
 
@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv39以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🕯️</span>ロウソク](/ja/item/candle) ×1（消費する）
+- [<span class="wiki-icon">🕯️</span>ロウソク](/ja/item/candle) ×1（0.583%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,9 +18,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💎</span>王笏の宝玉](/ja/item/scepter-jewel) ×2 | 成功時 | 99.5% | 0.995 | 0 |
-| [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) ×1 | 成功時 | 22.5% | 0.113 | 0 |
-| [<span class="wiki-icon">🔺</span>令呪](/ja/item/command-spell) ×1 | 成功時 | 27% | 0.135 | 0 |
+| [<span class="wiki-icon">💎</span>王笏の宝玉](/ja/item/scepter-jewel) ×1 | 成功時 | 1.16% | 0.006 | 0 |
+| [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) ×1 | 成功時 | 0.131% | 0.001 | 0 |
+| [<span class="wiki-icon">🔺</span>令呪](/ja/item/command-spell) ×1 | 成功時 | 0.158% | 0.001 | 0 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -42,8 +42,8 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv39） | 0% | 81.7% | 75% | 22.4% | 22% | 21,841,645.3 | 1,384,264,833.6% | 121342日11時間 | 負ける見込みが高い |
-| +10（Lv49） | 0% | 66.7% | 81.8% | 26.2% | 29.7% | 13,347,672.6 | 657,552,819.4% | 60546日6時間 | 負ける見込みが高い |
+| ±0（Lv39） | 0% | 81.7% | 75% | 22.4% | 22% | 21,841,645.3 | 1,384,264,833.6% | 707日19時間 | 負ける見込みが高い |
+| +10（Lv49） | 0% | 66.7% | 81.8% | 26.2% | 29.7% | 13,347,672.6 | 657,552,819.4% | 353日4時間 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -51,8 +51,8 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv39） | 8分 | 50% | 275 | 0 | 0 |
-| +10（Lv49） | 6分32秒 | 60% | 183.33 | 0 | 0 |
+| ±0（Lv39） | 2.8秒 | 50% | 1.6 | 0 | 0 |
+| +10（Lv49） | 2.3秒 | 60% | 1.07 | 0 | 0 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -76,8 +76,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `39` |
-| `experience` | `275` |
-| `seconds` | `480` |
+| `experience` | `1.6` |
+| `seconds` | `2.8` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -106,8 +106,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 39,
-	"experience": 275,
-	"seconds": 480,
+	"experience": 1.6,
+	"seconds": 2.8,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -115,7 +115,7 @@
 			"type": "item",
 			"id": "candle",
 			"count": 1,
-			"chance": 1,
+			"chance": 0.00583,
 			"equipment": false
 		}
 	],
@@ -123,20 +123,20 @@
 		{
 			"type": "item",
 			"id": "scepter-jewel",
-			"count": 2,
-			"chance": 0.995
+			"count": 1,
+			"chance": 0.0116
 		},
 		{
 			"type": "item",
 			"id": "diamond",
 			"count": 1,
-			"chance": 0.225
+			"chance": 0.00131
 		},
 		{
 			"type": "item",
 			"id": "command-spell",
 			"count": 1,
-			"chance": 0.27
+			"chance": 0.00158
 		}
 	],
 	"progressType": "stamina",

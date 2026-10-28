@@ -11,22 +11,22 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 2 | 48% | 0.48 | 1.6 |
-| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 3 | 76.8% | 1.2 | 3.8 |
-| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 3 | 76.8% | 1.2 | 3.8 |
-| [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 2 | 48% | 0.48 | 1.6 |
-| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 2 | 48% | 0.48 | 1.6 |
-| [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 2 | 48% | 0.48 | 1.6 |
-| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 2 | 48% | 0.48 | 0.738 |
-| [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 2 | 48% | 0.48 | 0.123 |
-| [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv24 | 2 | 48% | 0.48 | 0.07 |
-| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 2 | 48% | 0.48 | 0.056 |
-| [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 3 | 76.8% | 1.2 | 0.135 |
-| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 3 | 76.8% | 1.2 | 0.135 |
-| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 | 2 | 48% | 0.48 | 0.056 |
-| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 3 | 76.8% | 1.2 | 0 |
-| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv44 | 3 | 76.8% | 1.2 | 0.013 |
-| [<span class="wiki-icon">📦</span>ミミック](/ja/action/mimic) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 3 | 76.8% | 1.2 | 0 |
+| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 1 | 1.44% | 0.007 | 1.6 |
+| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 4.22% | 0.021 | 3.8 |
+| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 4.22% | 0.021 | 3.8 |
+| [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 1 | 1.84% | 0.009 | 1.6 |
+| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 1 | 1.36% | 0.007 | 1.6 |
+| [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 1 | 1.28% | 0.006 | 1.6 |
+| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 1 | 0.853% | 0.004 | 0.738 |
+| [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 0.84% | 0.004 | 0.123 |
+| [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv24 | 1 | 0.48% | 0.002 | 0.07 |
+| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 1 | 0.544% | 0.003 | 0.056 |
+| [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 1 | 1.46% | 0.007 | 0.135 |
+| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 1 | 1.38% | 0.007 | 0.135 |
+| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 | 1 | 0.64% | 0.003 | 0.056 |
+| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 1.06% | 0.005 | 0 |
+| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv44 | 1 | 0.683% | 0.003 | 0.013 |
+| [<span class="wiki-icon">📦</span>ミミック](/ja/action/mimic) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 1 | 1.15% | 0.006 | 0 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -43,6 +43,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 1 |
@@ -73,6 +74,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

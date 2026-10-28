@@ -11,9 +11,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv1 | 2 | 100% | 2 | 4 |
-| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv10 | 3 | 100% | 3 | 1.2 |
-| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv15 | 3 | 100% | 3 | 0.857 |
+| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv4 | 6 | 100% | 3.9 | 3.9 |
+| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv28 | 4 | 100% | 2.4 | 1.2 |
+| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv34 | 3 | 100% | 2 | 0.78 |
 
 <div class="wiki-navbox" style="--accent:#c26a8e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -30,6 +30,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 0 |
@@ -59,6 +60,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

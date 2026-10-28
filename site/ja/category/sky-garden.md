@@ -29,16 +29,16 @@
 | [<span class="wiki-icon">📚</span>天空の図書館](/ja/action/sky-library) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv12 | 5時間 | 100% | 1,029 |
 | [<span class="wiki-icon">🏛️</span>神殿の最奥](/ja/action/temple-innermost) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv30 | 5時間 | 100% | 1,029 |
 | [<span class="wiki-icon">🌳</span>世界樹の根元](/ja/action/world-tree-root) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv40 | 5時間 | 100% | 1,029 |
-| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv48 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">👼</span>ヴァルキリー](/ja/action/valkyrie) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">🍝</span>スパゲッティモンスター](/ja/action/spaghetti-monster) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">🚗</span>ねこリムジン](/ja/action/cat-limousine) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">🦄</span>ペガサス](/ja/action/pegasus) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 10分 | 50% | 0 |
-| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 10分 | 50% | 0 |
+| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv48 | 2.9秒 | 50% | 0 |
+| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 2.2秒 | 50% | 0 |
+| [<span class="wiki-icon">👼</span>ヴァルキリー](/ja/action/valkyrie) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 1.5秒 | 50% | 0 |
+| [<span class="wiki-icon">🍝</span>スパゲッティモンスター](/ja/action/spaghetti-monster) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2.2秒 | 50% | 0 |
+| [<span class="wiki-icon">🚗</span>ねこリムジン](/ja/action/cat-limousine) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2.5秒 | 50% | 0 |
+| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2秒 | 50% | 0 |
+| [<span class="wiki-icon">🦄</span>ペガサス](/ja/action/pegasus) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 1.2秒 | 50% | 0 |
+| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 1.9秒 | 50% | 0 |
+| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 3.2秒 | 50% | 0 |
+| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2秒 | 50% | 0 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
 
@@ -50,7 +50,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">📖</span>読解力](/ja/item/reading-comprehension) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -60,6 +60,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |

@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">✨</span>星屑集め](/ja/action/stardust-gathering) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv1 | 5 | 56% | 1.4 | 50.4 |
-| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv48 | 3 | 64% | 0.96 | 0 |
+| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv48 | 1 | 0.928% | 0.005 | 0 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><span class="wiki-icon">🗑️</span>ごみ</a> を参照</div></div>
 
@@ -29,6 +29,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
 | CSV `rare` | 0 |
@@ -58,6 +59,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

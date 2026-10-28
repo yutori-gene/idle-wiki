@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 | 2 | 57.6% | 0.576 | 0.057 |
+| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 | 1 | 0.416% | 0.002 | 0.057 |
 | [<span class="wiki-icon">🖥️</span>中央制御室](/ja/action/central-control-room) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv8 | 2 | 41.8% | 0.836 | 0.279 |
 
 ## 用途
@@ -20,9 +20,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 5 | 100% |  |
+| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 11 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv35 | 17 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -39,6 +39,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 2 |
@@ -68,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

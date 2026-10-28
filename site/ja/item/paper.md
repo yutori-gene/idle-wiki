@@ -12,10 +12,10 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍂</span>落ち葉拾い](/ja/action/gather-fallen-leaves) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv1 | 5 | 56% | 1.4 | 504 |
-| [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 10 | 100% | 5 | 2.3 |
-| [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv16 | 7 | 80% | 2.8 | 4.6 |
-| [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 5 | 56% | 1.4 | 2.2 |
-| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 7 | 80% | 2.8 | 4.6 |
+| [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 1 | 17.8% | 0.089 | 2.3 |
+| [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv16 | 1 | 3.42% | 0.017 | 4.6 |
+| [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 3.27% | 0.016 | 2.2 |
+| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 3.11% | 0.016 | 4.6 |
 
 ## 用途
 
@@ -40,6 +40,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 0 |
@@ -69,6 +70,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

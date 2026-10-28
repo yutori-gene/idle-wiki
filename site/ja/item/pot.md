@@ -23,8 +23,8 @@
 | [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) ×1（装備が必要・消費しない） |
 | [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) ×1（装備が必要・消費しない） |
 | [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) ×1（装備が必要・消費しない） |
 | [<span class="wiki-icon">🍚</span>ごはん](/ja/action/cook-cooked-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) ×1（装備が必要・消費しない） |
 
 <div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 煮込み</div><div class="wiki-navbox-body"><a href="#/ja/item/pot"><span class="wiki-icon">🍲</span>鍋</a></div></div>
 
@@ -41,6 +41,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 0 |
@@ -70,6 +71,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

@@ -11,20 +11,20 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 3 | 76.8% | 1.2 | 3.8 |
-| [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv10 | 3 | 76.8% | 1.2 | 3.8 |
-| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 2 | 48% | 0.48 | 1.6 |
-| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 2 | 48% | 0.48 | 1.6 |
-| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 2 | 48% | 0.48 | 1.2 |
-| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 3 | 76.8% | 1.2 | 1.8 |
-| [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 3 | 76.8% | 1.2 | 0.296 |
-| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv23 | 2 | 48% | 0.48 | 0.056 |
-| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 2 | 48% | 0.48 | 0.056 |
-| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 2 | 48% | 0.48 | 0.056 |
-| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv41 | 3 | 76.8% | 1.2 | 0.034 |
-| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 3 | 76.8% | 1.2 | 0 |
-| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv3 | 2 | 100% | 2 | 2 |
-| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 1 | 100% | 1 | 0.667 |
+| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 1 | 3.46% | 0.017 | 3.8 |
+| [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv10 | 1 | 3.65% | 0.018 | 3.8 |
+| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 1.76% | 0.009 | 1.6 |
+| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 1.76% | 0.009 | 1.6 |
+| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 1 | 1.92% | 0.01 | 1.2 |
+| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 1 | 2.05% | 0.01 | 1.8 |
+| [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 2.02% | 0.01 | 0.297 |
+| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv23 | 1 | 0.768% | 0.004 | 0.056 |
+| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 0.8% | 0.004 | 0.056 |
+| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 1 | 0.544% | 0.003 | 0.056 |
+| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv41 | 1 | 0.48% | 0.002 | 0.034 |
+| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 1 | 1.02% | 0.005 | 0 |
+| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv9 | 3 | 100% | 2.7 | 1.8 |
+| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv15 | 2 | 100% | 1.2 | 0.6 |
 
 ### 購入
 
@@ -36,11 +36,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 2 | 100% |  |
+| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 1 | 100% |  |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯を織る](/ja/action/weave-flying-carpet) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv33 | 8 | 100% |  |
 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 8 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 12 | 100% |  |
-| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 12 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 13 | 100% |  |
+| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv9 | 11 | 100% |  |
 
 ## 解放条件
 
@@ -63,6 +63,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 1 |
@@ -92,6 +93,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

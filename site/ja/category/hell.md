@@ -25,20 +25,20 @@
 | [<span class="wiki-icon">🟡</span>硫黄の谷](/ja/action/sulfur-valley) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 1分30秒 | 50% | 1,040 |
 | [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 1分30秒 | 50% | 1,040 |
 | [<span class="wiki-icon">⚖️</span>閻魔の法廷](/ja/action/enma-court) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 4時間30分 | 100% | 1,029 |
-| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 9分 | 50% | 2 |
-| [<span class="wiki-icon">🔥</span>イフリート](/ja/action/ifrit) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv44 | 9分 | 50% | 2 |
-| [<span class="wiki-icon">🐱</span>化け猫](/ja/action/bakeneko) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 9分 | 50% | 2 |
-| [<span class="wiki-icon">🥶</span>フリーズ様](/ja/action/lord-freeze) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 9分 | 50% | 2 |
-| [<span class="wiki-icon">📦</span>ミミック](/ja/action/mimic) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 9分 | 50% | 0 |
-| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 9分 | 50% | 2 |
+| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 2.4秒 | 50% | 0 |
+| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 1.8秒 | 50% | 2 |
+| [<span class="wiki-icon">🔥</span>イフリート](/ja/action/ifrit) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 3秒 | 50% | 0 |
+| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv44 | 1.6秒 | 50% | 2 |
+| [<span class="wiki-icon">🐱</span>化け猫](/ja/action/bakeneko) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 1.2秒 | 50% | 2 |
+| [<span class="wiki-icon">🥶</span>フリーズ様](/ja/action/lord-freeze) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 3.5秒 | 50% | 0 |
+| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 1秒 | 50% | 2 |
+| [<span class="wiki-icon">📦</span>ミミック](/ja/action/mimic) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 2.7秒 | 50% | 0 |
+| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.5秒 | 50% | 0 |
+| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.4秒 | 50% | 0 |
+| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.8秒 | 50% | 0 |
+| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 2秒 | 50% | 0 |
+| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 1.7秒 | 50% | 0 |
+| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 1.7秒 | 50% | 2 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
 
@@ -50,7 +50,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🦊</span>悪知恵](/ja/item/cunning) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -60,6 +60,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |

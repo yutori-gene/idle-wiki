@@ -11,10 +11,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 10 | 100% | 5 | 16.7 |
+| [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 1 | 14.2% | 0.071 | 16.7 |
 | [<span class="wiki-icon">🏭</span>ベルトコンベア漁り](/ja/action/conveyor-scavenging) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv1 | 5 | 56% | 1.4 | 84 |
-| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv29 | 7 | 80% | 2.8 | 0.055 |
-| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv13 | 2 | 100% | 2 | 0.667 |
+| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv29 | 1 | 3.89% | 0.019 | 0.055 |
+| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv31 | 5 | 100% | 3.8 | 0.625 |
 
 ### 購入
 
@@ -26,9 +26,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 3 | 100% |  |
-| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 5 | 100% |  |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 2 | 100% |  |
+| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv9 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv12 | 10 | 100% |  |
+| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 6 | 100% |  |
 
 ## 解放条件
 
@@ -51,6 +51,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 0 |
@@ -80,6 +81,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

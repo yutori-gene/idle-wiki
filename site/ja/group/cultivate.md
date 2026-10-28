@@ -1,6 +1,6 @@
 # 栽培
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">栽培</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌱</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>17本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">栽培</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌱</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>18本</td></tr></table></div>
 
 
 ## アクション
@@ -9,23 +9,24 @@
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥕</span>ニンジンの栽培](/ja/action/grow-carrot) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 連続 |
-| [<span class="wiki-icon">🎃</span>カボチャの栽培](/ja/action/grow-pumpkin) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 連続 |
-| [<span class="wiki-icon">🧄</span>ニンニクの栽培](/ja/action/grow-garlic) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 連続 |
-| [<span class="wiki-icon">🌾</span>小麦の栽培](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 連続 |
-| [<span class="wiki-icon">🥬</span>サラダ菜の栽培](/ja/action/grow-lettuce) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 連続 |
-| [<span class="wiki-icon">🍌</span>バナナの栽培](/ja/action/grow-banana) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 連続 |
-| [<span class="wiki-icon">🍎</span>リンゴの栽培](/ja/action/grow-apple) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 連続 |
-| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 連続 |
-| [<span class="wiki-icon">🦎</span>ウーパールーパーの繁殖](/ja/action/breed-axolotl) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 連続 |
-| [<span class="wiki-icon">🌿</span>薬草の栽培](/ja/action/grow-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 連続 |
-| [<span class="wiki-icon">🌿</span>大麻の栽培](/ja/action/grow-hemp) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 連続 |
-| [<span class="wiki-icon">🥔</span>ジャガイモの栽培](/ja/action/grow-potato) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv9 | 連続 |
-| [<span class="wiki-icon">🍄</span>トリュフの栽培](/ja/action/grow-truffle) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv9 | 連続 |
-| [<span class="wiki-icon">🌶️</span>とうがらしの栽培](/ja/action/grow-chili) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv12 | 連続 |
-| [<span class="wiki-icon">☠️</span>毒草の栽培](/ja/action/grow-poison-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv16 | 連続 |
-| [<span class="wiki-icon">🌿</span>香草の栽培](/ja/action/grow-aromatic-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv16 | 連続 |
-| [<span class="wiki-icon">🌳</span>世界樹の葉の栽培](/ja/action/grow-world-tree-leaf) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv20 | 連続 |
+| [<span class="wiki-icon">🥕</span>ニンジン](/ja/action/grow-carrot) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 連続 |
+| [<span class="wiki-icon">🪱</span>ミミズの切断](/ja/action/cut-earthworm) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 連続 |
+| [<span class="wiki-icon">🎃</span>カボチャ](/ja/action/grow-pumpkin) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv4 | 連続 |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/action/grow-garlic) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv7 | 連続 |
+| [<span class="wiki-icon">🌾</span>小麦](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv10 | 連続 |
+| [<span class="wiki-icon">🥬</span>サラダ菜](/ja/action/grow-lettuce) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv13 | 連続 |
+| [<span class="wiki-icon">🍌</span>バナナ](/ja/action/grow-banana) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv16 | 連続 |
+| [<span class="wiki-icon">🍎</span>リンゴ](/ja/action/grow-apple) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv19 | 連続 |
+| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv22 | 連続 |
+| [<span class="wiki-icon">🦎</span>ウーパールーパー](/ja/action/breed-axolotl) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv25 | 連続 |
+| [<span class="wiki-icon">🌿</span>薬草](/ja/action/grow-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv28 | 連続 |
+| [<span class="wiki-icon">🌿</span>大麻](/ja/action/grow-hemp) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv32 | 連続 |
+| [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/action/grow-potato) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv35 | 連続 |
+| [<span class="wiki-icon">🍄</span>トリュフ](/ja/action/grow-truffle) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv38 | 連続 |
+| [<span class="wiki-icon">🌶️</span>とうがらし](/ja/action/grow-chili) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv41 | 連続 |
+| [<span class="wiki-icon">☠️</span>毒草](/ja/action/grow-poison-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv44 | 連続 |
+| [<span class="wiki-icon">🌿</span>香草](/ja/action/grow-aromatic-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv47 | 連続 |
+| [<span class="wiki-icon">🌳</span>世界樹の葉](/ja/action/grow-world-tree-leaf) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv50 | 連続 |
 
 ## 開発者向け情報
 

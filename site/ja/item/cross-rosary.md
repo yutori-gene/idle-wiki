@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv23 | 1 | 36.3% | 0.182 | 0.021 |
+| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv23 | 1 | 0.29% | 0.001 | 0.021 |
 
 ## 用途
 
@@ -27,7 +27,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv48 | 1 | 100% |  |
+| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv48 | 1 | 0.483% |  |
 | [<span class="wiki-icon">📿</span>十字架のロザリオを分解する](/ja/action/disassemble-cross-rosary) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv23 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
@@ -52,6 +52,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 5 |
 | CSV `rare` | 3 |
@@ -81,6 +82,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{

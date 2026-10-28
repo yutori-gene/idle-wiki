@@ -1,6 +1,6 @@
 # チーズ
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">チーズ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧀</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">チーズ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧀</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 熟成するほど深い味わい。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧀</span>チーズを作る](/ja/action/craft-cheese) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 1 | 100% | 1 | 30 |
+| [<span class="wiki-icon">🧀</span>チーズを作る](/ja/action/craft-cheese) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv21 | 80 | 100% | 76 | 2,280 |
 
 ## 用途
 
@@ -19,16 +19,16 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 2 | 100% |  |
-| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
+| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv34 | 3 | 100% |  |
+| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv37 | 2 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv3以上
+- [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv6以上
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">70件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -43,6 +43,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 1 |
@@ -72,11 +73,12 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",
 			"id": "kitchen",
-			"count": 3,
+			"count": 6,
 			"chance": 1,
 			"equipment": false
 		}

@@ -1,6 +1,6 @@
 # 下剤
 
-<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">下剤</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💊</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/potion"><span class="wiki-icon">🧪</span>ポーション</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>売値</th><td>8 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">下剤</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💊</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/potion"><span class="wiki-icon">🧪</span>ポーション</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>20%</td></tr><tr><th>売値</th><td>8 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 腸の大掃除用。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 1 | 100% | 1 | 15 |
+| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv32 | 95 | 100% | 90.3 | 451 |
 
 ## 用途
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 2 | 100% |  |
+| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv34 | 3 | 100% |  |
 
 ## 解放条件
 
@@ -42,6 +42,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
+| `consumeChance` | `0.2` |
 | `skill` | （空） |
 | CSV `tier` | 8 |
 | CSV `rare` | 0 |
@@ -71,6 +72,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
+	"consumeChance": 0.2,
 	"requirements": [
 		{
 			"type": "category",

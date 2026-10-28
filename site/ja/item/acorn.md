@@ -13,11 +13,11 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍂</span>落ち葉拾い](/ja/action/gather-fallen-leaves) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv1 | 5 | 56% | 1.4 | 504 |
 | [<span class="wiki-icon">🪷</span>池のほとり](/ja/action/pond-side) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv14 | 3 | 91% | 1.4 | 491 |
-| [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv9 | 7 | 80% | 2.8 | 9.3 |
-| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv41 | 7 | 80% | 2.8 | 0.082 |
-| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv49 | 7 | 80% | 2.8 | 0 |
-| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv8 | 3 | 100% | 3 | 1.5 |
-| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv11 | 7 | 100% | 3.5 | 11.7 |
+| [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv9 | 1 | 10.7% | 0.054 | 9.3 |
+| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv41 | 1 | 1.17% | 0.006 | 0.082 |
+| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv49 | 1 | 2.05% | 0.01 | 0 |
+| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv20 | 9 | 100% | 4.5 | 1.5 |
+| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv11 | 1 | 9.33% | 0.047 | 11.7 |
 
 ## 用途
 
@@ -25,9 +25,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv7 | 5 | 100% |  |
-| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv41 | 1 | 100% |  |
-| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv49 | 1 | 100% |  |
+| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv7 | 5 | 3% |  |
+| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv41 | 1 | 0.208% |  |
+| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv49 | 1 | 0.367% |  |
 
 ### 条件にしているもの
 
@@ -50,6 +50,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 0 |
@@ -80,6 +81,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

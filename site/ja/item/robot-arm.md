@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 | 1 | 22.5% | 0.113 | 0.002 |
+| [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 | 1 | 0.15% | 0.001 | 0.002 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">45件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 
@@ -28,6 +28,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 3 |
@@ -57,6 +58,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

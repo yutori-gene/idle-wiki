@@ -1,6 +1,6 @@
 # ヘビ
 
-<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">ヘビ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐍</span></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>2分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>69</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">ヘビ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐍</span></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>1.8秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.03</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 毒をその身に宿す。
 
@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv8以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🐌</span>カタツムリ](/ja/item/snail) ×2（消費する）
+- [<span class="wiki-icon">🐌</span>カタツムリ](/ja/item/snail) ×2（1.5%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,10 +18,10 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) ×3 | 成功時 | 76.8% | 1.2 | 3.8 |
-| [<span class="wiki-icon">🐸</span>カエル](/ja/item/frog) ×1 | 成功時 | 15.6% | 0.078 | 0.26 |
-| [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) ×2 | 成功時 | 48% | 0.48 | 1.6 |
-| [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) ×2 | 成功時 | 48% | 0.48 | 1.6 |
+| [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) ×1 | 成功時 | 3.46% | 0.017 | 3.8 |
+| [<span class="wiki-icon">🐸</span>カエル](/ja/item/frog) ×1 | 成功時 | 0.234% | 0.001 | 0.26 |
+| [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) ×1 | 成功時 | 1.44% | 0.007 | 1.6 |
+| [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) ×1 | 成功時 | 1.44% | 0.007 | 1.6 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,10 +41,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv8） | 17% | 4.07% | 75% | 24.2% | 16.9% | 8 | 24.6% | 18分 | 連戦で少しずつ消耗する |
-| +10（Lv18） | 25.5% | 3.32% | 81.8% | 28.2% | 23.4% | 4.9 | 11.7% | 9分37秒 | 放置で連戦できる |
-| +20（Lv28） | 38.3% | 2.71% | 87.1% | 32.4% | 31.5% | 3.4 | 6.31% | 5分56秒 | 放置で連戦できる |
-| +30（Lv38） | 57.4% | 2.21% | 91% | 37% | 40.8% | 2.2 | 3.06% | 3分29秒 | 放置で連戦できる |
+| ±0（Lv8） | 17% | 4.07% | 75% | 24.2% | 16.9% | 8 | 24.6% | 16.2秒 | 連戦で少しずつ消耗する |
+| +10（Lv18） | 25.5% | 3.32% | 81.8% | 28.2% | 23.4% | 4.9 | 11.7% | 8.7秒 | 放置で連戦できる |
+| +20（Lv28） | 38.3% | 2.71% | 87.1% | 32.4% | 31.5% | 3.4 | 6.31% | 5.3秒 | 放置で連戦できる |
+| +30（Lv38） | 57.4% | 2.21% | 91% | 37% | 40.8% | 2.2 | 3.06% | 3.1秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -52,10 +52,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv8） | 2分 | 50% | 69 | 3.3 | 115 |
-| +10（Lv18） | 1分38秒 | 60% | 46 | 6.2 | 172 |
-| +20（Lv28） | 1分20秒 | 69.2% | 30.67 | 10.1 | 215 |
-| +30（Lv38） | 1分5秒 | 77.1% | 20.44 | 17.2 | 272 |
+| ±0（Lv8） | 1.8秒 | 50% | 1.03 | 222.2 | 114 |
+| +10（Lv18） | 1.5秒 | 60% | 0.69 | 416 | 171 |
+| +20（Lv28） | 1.2秒 | 69.2% | 0.46 | 675 | 214 |
+| +30（Lv38） | 1秒 | 77.1% | 0.31 | 1,149.1 | 271 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -79,8 +79,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `8` |
-| `experience` | `69` |
-| `seconds` | `120` |
+| `experience` | `1.03` |
+| `seconds` | `1.8` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -109,8 +109,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 8,
-	"experience": 69,
-	"seconds": 120,
+	"experience": 1.03,
+	"seconds": 1.8,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -118,7 +118,7 @@
 			"type": "item",
 			"id": "snail",
 			"count": 2,
-			"chance": 1,
+			"chance": 0.015,
 			"equipment": false
 		}
 	],
@@ -126,26 +126,26 @@
 		{
 			"type": "item",
 			"id": "cloth",
-			"count": 3,
-			"chance": 0.768
+			"count": 1,
+			"chance": 0.0346
 		},
 		{
 			"type": "item",
 			"id": "frog",
 			"count": 1,
-			"chance": 0.156
+			"chance": 0.00234
 		},
 		{
 			"type": "item",
 			"id": "fang",
-			"count": 2,
-			"chance": 0.48
+			"count": 1,
+			"chance": 0.0144
 		},
 		{
 			"type": "item",
 			"id": "rubber-gloves",
-			"count": 2,
-			"chance": 0.48
+			"count": 1,
+			"chance": 0.0144
 		}
 	],
 	"progressType": "stamina",

@@ -12,8 +12,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🏰</span>城壁の見回り](/ja/action/rampart-patrol) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv1 | 5 | 56% | 1.4 | 63 |
-| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 7 | 80% | 2.8 | 0.001 |
-| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv40 | 2 | 40% | 0.4 | 0 |
+| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 2.57% | 0.013 | 0.001 |
+| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv40 | 1 | 0.383% | 0.002 | 0 |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><span class="wiki-icon">🗑️</span>ごみ</a> を参照</div></div>
 
@@ -30,6 +30,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 8 |
 | CSV `rare` | 0 |
@@ -59,6 +60,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

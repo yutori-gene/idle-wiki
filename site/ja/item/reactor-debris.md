@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🚜</span>無人フォークリフト](/ja/action/unmanned-forklift) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv30 | 2 | 69.1% | 0.691 | 0.004 |
+| [<span class="wiki-icon">🚜</span>無人フォークリフト](/ja/action/unmanned-forklift) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv30 | 1 | 1.07% | 0.005 | 0.004 |
 | [<span class="wiki-icon">☣️</span>地下廃棄プラント](/ja/action/underground-disposal-plant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv40 | 2 | 50.1% | 1 | 0.334 |
 
 ## 用途
@@ -43,6 +43,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 3 |
@@ -72,6 +73,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

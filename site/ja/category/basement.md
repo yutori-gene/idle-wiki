@@ -20,33 +20,33 @@
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🥣</span>すり鉢を買う](/ja/action/buy-mortar) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv1 | 0秒 | 100% | — |
-| [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv1 | 1分30秒 | 100% | 1,040 |
-| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv1 | 1分30秒 | 100% | 1,040 |
-| [<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv1 | 1分30秒 | 100% | 1,040 |
-| [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv1 | 1分30秒 | 100% | 1,040 |
-| [<span class="wiki-icon">🧪</span>泡立つ薬の調合](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv1 | 1分30秒 | 100% | 1,040 |
-| [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv4 | 2分 | 100% | 1,050 |
-| [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv4 | 2分 | 100% | 1,050 |
-| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv4 | 2分 | 100% | 1,050 |
-| [<span class="wiki-icon">🔥</span>カイロの調合](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv4 | 2分 | 100% | 1,050 |
-| [<span class="wiki-icon">⚗️</span>蒸留器を買う](/ja/action/buy-still) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv5 | 0秒 | 100% | — |
-| [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv6 | 2分30秒 | 100% | 1,032 |
-| [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv9 | 3分 | 100% | 1,040 |
-| [<span class="wiki-icon">⚗️</span>るつぼを買う](/ja/action/buy-crucible) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv10 | 0秒 | 100% | — |
-| [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv12 | 3分30秒 | 100% | 1,029 |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv12 | 3分30秒 | 100% | 1,029 |
-| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv15 | 4分 | 100% | 1,035 |
-| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv15 | 4分 | 100% | 1,035 |
-| [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv15 | 4分 | 100% | 1,035 |
-| [<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv15 | 4分 | 100% | 1,035 |
-| [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv15 | 4分 | 100% | 1,035 |
-| [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv17 | 4分30秒 | 100% | 1,040 |
-| [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv20 | 5分 | 100% | 1,032 |
-| [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv20 | 5分 | 100% | 1,032 |
-| [<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv20 | 5分 | 100% | 1,032 |
-| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv20 | 5分 | 100% | 1,032 |
-| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv20 | 5分 | 100% | 1,032 |
-| [<span class="wiki-icon">🍀</span>フェリックスフェリシスの調合](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv20 | 5分 | 100% | 1,032 |
+| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv1 | 1分 | 100% | 1,260 |
+| [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv3 | 2分 | 85% | 1,224 |
+| [<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv5 | 1分 | 70% | 1,218 |
+| [<span class="wiki-icon">⚗️</span>蒸留器を買う](/ja/action/buy-still) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv7 | 0秒 | 100% | — |
+| [<span class="wiki-icon">🧪</span>泡立つ薬の調合](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv7 | 2分 | 100% | 1,230 |
+| [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv9 | 1分 | 90% | 1,242 |
+| [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv11 | 3分 | 100% | 1,220 |
+| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv13 | 1分 | 75% | 1,215 |
+| [<span class="wiki-icon">⚗️</span>るつぼを買う](/ja/action/buy-crucible) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv15 | 0秒 | 100% | — |
+| [<span class="wiki-icon">🔥</span>カイロの調合](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv15 | 4分 | 60% | 1,206 |
+| [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv17 | 2分 | 80% | 1,224 |
+| [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv19 | 6分 | 50% | 1,205 |
+| [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv21 | 3分 | 75% | 1,215 |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv23 | 8分 | 85% | 1,205 |
+| [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv26 | 3分 | 70% | 1,204 |
+| [<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv28 | 10分 | 100% | 1,206 |
+| [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv30 | 4分 | 85% | 1,211 |
+| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv32 | 12分 | 95% | 1,207 |
+| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv34 | 6分 | 65% | 1,203 |
+| [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv36 | 18分 | 90% | 1,203 |
+| [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv38 | 8分 | 50% | 1,204 |
+| [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv40 | 25分 | 100% | 1,205 |
+| [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv42 | 10分 | 95% | 1,203 |
+| [<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv44 | 30分 | 60% | 1,204 |
+| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv46 | 15分 | 85% | 1,204 |
+| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv48 | 30分 | 75% | 1,203 |
+| [<span class="wiki-icon">🍀</span>フェリックスフェリシスの調合](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv50 | 18分 | 60% | 1,204 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
 
@@ -92,7 +92,7 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -102,6 +102,7 @@
 | [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
@@ -183,21 +184,38 @@
 
 | レベル | 累計経験値 | 開くもの |
 | --- | --- | --- |
-| Lv1 | 0 | [<span class="wiki-icon">🥣</span>すり鉢を買う](/ja/action/buy-mortar)（実行）<br>[<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine)（実行）<br>[<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage)（実行）<br>[<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine)（実行）<br>[<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium)（実行）<br>[<span class="wiki-icon">🧪</span>泡立つ薬の調合](/ja/action/brew-bubbling-medicine)（実行）<br>[<span class="wiki-icon">👁️</span>目薬](/ja/item/eye-drops)（解放）<br>[<span class="wiki-icon">💊</span>下剤](/ja/item/laxative)（解放） |
-| Lv2 | 100 | [<span class="wiki-icon">💊</span>風邪薬](/ja/item/cold-medicine)（解放） |
-| Lv3 | 211 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller)（解放）<br>[<span class="wiki-icon">☕</span>眠気覚まし](/ja/item/anti-drowsiness)（解放） |
-| Lv4 | 334 | [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops)（実行）<br>[<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine)（実行）<br>[<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether)（実行）<br>[<span class="wiki-icon">🔥</span>カイロの調合](/ja/action/brew-heat-pack)（実行） |
-| Lv5 | 471 | [<span class="wiki-icon">⚗️</span>蒸留器を買う](/ja/action/buy-still)（実行）<br>[<span class="wiki-icon">✨</span>発光する薬](/ja/item/glowing-medicine)（解放）<br>[<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/item/laxative-for-gorilla)（解放） |
-| Lv6 | 623 | [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack)（実行）<br>[<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit)（解放）<br>[<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber)（解放）<br>[<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)（解放）<br>[<span class="wiki-icon">🧪</span>泡立つ薬](/ja/item/bubbling-medicine)（解放）<br>[<span class="wiki-icon">🧪</span>毒瓶](/ja/item/poison-vial)（解放） |
-| Lv8 | 978 | [<span class="wiki-icon">💊</span>阿片](/ja/item/opium)（解放）<br>[<span class="wiki-icon">💊</span>滋養強壮剤](/ja/item/tonic)（解放）<br>[<span class="wiki-icon">💊</span>げんきのかけら](/ja/item/revive-piece)（解放） |
-| Lv9 | 1,186 | [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller)（実行）<br>[<span class="wiki-icon">🧪</span>エーテル](/ja/item/ether)（解放）<br>[<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water)（解放） |
-| Lv10 | 1,416 | [<span class="wiki-icon">⚗️</span>るつぼを買う](/ja/action/buy-crucible)（実行） |
-| Lv12 | 1,956 | [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness)（実行）<br>[<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail)（実行）<br>[<span class="wiki-icon">💊</span>万能薬](/ja/item/panacea)（解放） |
-| Lv13 | 2,271 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/item/phoenix-tail)（解放）<br>[<span class="wiki-icon">🧪</span>エリクサー](/ja/item/elixir)（解放） |
-| Lv14 | 2,621 | [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/item/bottled-spirit)（解放） |
-| Lv15 | 3,009 | [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative)（実行）<br>[<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla)（実行）<br>[<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial)（実行）<br>[<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic)（実行）<br>[<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine)（実行）<br>[<span class="wiki-icon">🧪</span>LCL](/ja/item/lcl)（解放） |
-| Lv17 | 3,919 | [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl)（実行）<br>[<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/item/felix-felicis)（解放） |
-| Lv20 | 5,694 | [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water)（実行）<br>[<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit)（実行）<br>[<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea)（実行）<br>[<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece)（実行）<br>[<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir)（実行）<br>[<span class="wiki-icon">🍀</span>フェリックスフェリシスの調合](/ja/action/brew-felix-felicis)（実行） |
+| Lv1 | 0 | [<span class="wiki-icon">🥣</span>すり鉢を買う](/ja/action/buy-mortar)（実行）<br>[<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage)（実行）<br>[<span class="wiki-icon">👁️</span>目薬](/ja/item/eye-drops)（解放）<br>[<span class="wiki-icon">💊</span>下剤](/ja/item/laxative)（解放） |
+| Lv3 | 211 | [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine)（実行） |
+| Lv4 | 334 | [<span class="wiki-icon">💊</span>風邪薬](/ja/item/cold-medicine)（解放） |
+| Lv5 | 471 | [<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine)（実行） |
+| Lv6 | 623 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller)（解放）<br>[<span class="wiki-icon">☕</span>眠気覚まし](/ja/item/anti-drowsiness)（解放） |
+| Lv7 | 791 | [<span class="wiki-icon">⚗️</span>蒸留器を買う](/ja/action/buy-still)（実行）<br>[<span class="wiki-icon">🧪</span>泡立つ薬の調合](/ja/action/brew-bubbling-medicine)（実行） |
+| Lv9 | 1,186 | [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium)（実行） |
+| Lv11 | 1,672 | [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine)（実行）<br>[<span class="wiki-icon">✨</span>発光する薬](/ja/item/glowing-medicine)（解放）<br>[<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/item/laxative-for-gorilla)（解放） |
+| Lv13 | 2,271 | [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether)（実行） |
+| Lv14 | 2,621 | [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit)（解放）<br>[<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber)（解放）<br>[<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)（解放）<br>[<span class="wiki-icon">🧪</span>泡立つ薬](/ja/item/bubbling-medicine)（解放）<br>[<span class="wiki-icon">🧪</span>毒瓶](/ja/item/poison-vial)（解放） |
+| Lv15 | 3,009 | [<span class="wiki-icon">⚗️</span>るつぼを買う](/ja/action/buy-crucible)（実行）<br>[<span class="wiki-icon">🔥</span>カイロの調合](/ja/action/brew-heat-pack)（実行） |
+| Lv17 | 3,919 | [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops)（実行） |
+| Lv19 | 5,040 | [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack)（実行）<br>[<span class="wiki-icon">💊</span>阿片](/ja/item/opium)（解放）<br>[<span class="wiki-icon">💊</span>滋養強壮剤](/ja/item/tonic)（解放）<br>[<span class="wiki-icon">💊</span>げんきのかけら](/ja/item/revive-piece)（解放） |
+| Lv21 | 6,420 | [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller)（実行） |
+| Lv22 | 7,227 | [<span class="wiki-icon">🧪</span>エーテル](/ja/item/ether)（解放）<br>[<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water)（解放） |
+| Lv23 | 8,121 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail)（実行） |
+| Lv26 | 11,441 | [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness)（実行） |
+| Lv28 | 14,308 | [<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic)（実行） |
+| Lv29 | 15,982 | [<span class="wiki-icon">💊</span>万能薬](/ja/item/panacea)（解放） |
+| Lv30 | 17,840 | [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine)（実行） |
+| Lv32 | 22,191 | [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative)（実行）<br>[<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/item/phoenix-tail)（解放）<br>[<span class="wiki-icon">🧪</span>エリクサー](/ja/item/elixir)（解放） |
+| Lv34 | 27,553 | [<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla)（実行） |
+| Lv35 | 30,684 | [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/item/bottled-spirit)（解放） |
+| Lv36 | 34,159 | [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial)（実行） |
+| Lv37 | 38,016 | [<span class="wiki-icon">🧪</span>LCL](/ja/item/lcl)（解放） |
+| Lv38 | 42,298 | [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl)（実行） |
+| Lv40 | 52,327 | [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water)（実行） |
+| Lv42 | 64,683 | [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit)（実行）<br>[<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/item/felix-felicis)（解放） |
+| Lv44 | 79,907 | [<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea)（実行） |
+| Lv46 | 98,664 | [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece)（実行） |
+| Lv48 | 121,775 | [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir)（実行） |
+| Lv50 | 150,250 | [<span class="wiki-icon">🍀</span>フェリックスフェリシスの調合](/ja/action/brew-felix-felicis)（実行） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
@@ -406,6 +424,10 @@
 ⚠️ **`灰` が供給待ちに増えた。** 廃止した `フェニックスの尾の分解` が唯一の出所だったため。これは想定内で、旧系統の掃除が「**`灰` は台所の加熱料理の副産物にする**（`acq` に `灰 x1` を chance 0.3 前後）」と先に決めている。`鎮痛剤の調合` が `灰 x3` を要るので、**台所の回とワンセット**。
 
 そもそも元の形が壊れていた —— `灰` の唯一の入手経路が `フェニックスの尾の分解` で、入力の `フェニックスの尾` は調合 lv20 の産物。**lv3 の薬を作るのに lv20 の産物を分解する**循環になっていた。
+
+### 2026-10-28 の配り直し
+
+25本を Lv1〜50 へ1本ずつ。秒数1〜30分・成功率50〜100%・Lv50 まで約146時間。入口は材料の早い `絆創膏の調合`。経緯と値は [plan.md](../doc/plan.md)「拠点6カテゴリの配り直し（2026-10-28）」。
 
 </details>
 

@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 2 | 57.6% | 0.576 | 0.148 |
-| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv22 | 2 | 57.6% | 0.576 | 0.648 |
+| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 1.1% | 0.006 | 0.148 |
+| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv22 | 1 | 0.72% | 0.004 | 0.648 |
 
 ### イベント
 
@@ -35,6 +35,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 4 |
 | CSV `rare` | 2 |
@@ -64,6 +65,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

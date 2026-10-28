@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv3 | 2 | 86.4% | 1.7 | 51.8 |
+| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 1 | 86.4% | 0.605 | 36.3 |
 
 ### 購入
 
@@ -23,7 +23,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 2 | 100% |  |
+| [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv9 | 1 | 100% |  |
 
 ### 条件にしているもの
 
@@ -52,6 +52,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 3 |
@@ -81,6 +82,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

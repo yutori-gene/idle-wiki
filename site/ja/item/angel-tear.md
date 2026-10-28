@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 22.5% | 0.113 | 0 |
+| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.12% | 0.001 | 0 |
 | [<span class="wiki-icon">📚</span>天空の図書館](/ja/action/sky-library) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv12 | 1 | 31.1% | 0.311 | 0.062 |
 
 ## 用途
@@ -20,8 +20,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv20 | 2 | 100% |  |
-| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv20 | 2 | 100% |  |
+| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv46 | 6 | 100% |  |
+| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv48 | 12 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 
@@ -38,6 +38,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
 | CSV `rare` | 3 |
@@ -67,6 +68,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

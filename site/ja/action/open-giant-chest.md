@@ -1,6 +1,6 @@
 # 巨大な宝箱を開ける
 
-<div class="wiki-infobox" style="--accent:#a85c47"><div class="wiki-infobox-title">巨大な宝箱を開ける</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎁</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><span class="wiki-icon">🔓</span>開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv14</td></tr><tr><th>所要時間</th><td>7分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>240</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a85c47"><div class="wiki-infobox-title">巨大な宝箱を開ける</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎁</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><span class="wiki-icon">🔓</span>開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv30</td></tr><tr><th>所要時間</th><td>4分</td></tr><tr><th>成功率</th><td>65%</td></tr><tr><th>経験値</th><td>122</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 巨大で頑丈な錠を根気よくこじ開ける。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv14以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv30以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🎁</span>巨大な宝箱](/ja/item/giant-chest) ×1（消費する）
 - [<span class="wiki-icon">🔨</span>ハンマー](/ja/item/hammer) ×1（装備が必要・消費しない）
 
@@ -19,20 +19,19 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🟠</span>オリハルコン](/ja/item/orichalcum) ×1 | 成功時 | 74.6% | 0.746 | 6.4 |
-| [<span class="wiki-icon">🐦‍🔥</span>不死鳥の灰](/ja/item/phoenix-ash) ×1 | 成功時 | 59.7% | 0.597 | 5.1 |
-| [<span class="wiki-icon">😢</span>火山神の涙](/ja/item/volcano-god-tear) ×1 | 成功時 | 35.8% | 0.358 | 3.1 |
+| [<span class="wiki-icon">🟠</span>オリハルコン](/ja/item/orichalcum) ×1 | 成功時 | 74.6% | 0.485 | 7.3 |
+| [<span class="wiki-icon">🐦‍🔥</span>不死鳥の灰](/ja/item/phoenix-ash) ×1 | 成功時 | 59.7% | 0.388 | 5.8 |
+| [<span class="wiki-icon">😢</span>火山神の涙](/ja/item/volcano-god-tear) ×1 | 成功時 | 35.8% | 0.233 | 3.5 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 65%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv14） | 7分 | 100% | 240 | 8.6 | 2,057 |
-| +10（Lv24） | 5分43秒 | 100% | 160 | 10.5 | 1,680 |
-| +20（Lv34） | 4分40秒 | 100% | 106.67 | 12.9 | 1,371 |
-| +30（Lv44） | 3分49秒 | 100% | 71.11 | 15.7 | 1,120 |
+| ±0（Lv30） | 4分 | 65% | 122 | 15 | 1,190 |
+| +10（Lv40） | 3分16秒 | 73.6% | 81.33 | 18.4 | 1,099 |
+| +20（Lv50） | 2分40秒 | 80.7% | 54.22 | 22.5 | 984 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -40,11 +39,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 36,989 | 0 | 36,989 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 42,076 | 0 | 42,076 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#a85c47"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><span class="wiki-icon">👛</span>財布を開ける</a> ・ <a href="#/ja/action/open-donation-box"><span class="wiki-icon">🗳️</span>募金箱を開ける</a> ・ <a href="#/ja/action/open-wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱を開ける</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱を開ける</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセルを開ける</a> ・ <a href="#/ja/action/open-iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱を開ける</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝を開ける</a> ・ <a href="#/ja/action/open-cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱を開ける</a> ・ <a href="#/ja/action/open-medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱を開ける</a> ・ <a href="#/ja/action/open-tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱を開ける</a> ・ <a href="#/ja/action/open-giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱を開ける</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃を開ける</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱を開ける</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける</a> ・ <a href="#/ja/action/open-rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱を開ける</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱を開ける</a></div></div>
+<div class="wiki-navbox" style="--accent:#a85c47"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><span class="wiki-icon">👛</span>財布を開ける</a> ・ <a href="#/ja/action/open-donation-box"><span class="wiki-icon">🗳️</span>募金箱を開ける</a> ・ <a href="#/ja/action/open-wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱を開ける</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱を開ける</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセルを開ける</a> ・ <a href="#/ja/action/open-iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱を開ける</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝を開ける</a> ・ <a href="#/ja/action/open-cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱を開ける</a> ・ <a href="#/ja/action/open-medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱を開ける</a> ・ <a href="#/ja/action/open-tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱を開ける</a> ・ <a href="#/ja/action/open-giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱を開ける</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃を開ける</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱を開ける</a> ・ <a href="#/ja/action/open-rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱を開ける</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱を開ける</a></div></div>
 
 ## 開発者向け情報
 
@@ -55,10 +54,10 @@
 | `attribute` | （空） |
 | `group` | `unlock` |
 | `unlocked` | `hidden` |
-| `level` | `14` |
-| `experience` | `240` |
-| `seconds` | `420` |
-| `chance` | `1` |
+| `level` | `30` |
+| `experience` | `122` |
+| `seconds` | `240` |
+| `chance` | `0.65` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 7 |
@@ -84,10 +83,10 @@
 	"attribute": "",
 	"group": "unlock",
 	"unlocked": "hidden",
-	"level": 14,
-	"experience": 240,
-	"seconds": 420,
-	"chance": 1,
+	"level": 30,
+	"experience": 122,
+	"seconds": 240,
+	"chance": 0.65,
 	"maximum": 0,
 	"requirements": [
 		{

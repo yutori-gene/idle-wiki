@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 2 | 100% | 2 | 4 |
+| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv22 | 87 | 100% | 47.9 | 4 |
 
 ### イベント
 
@@ -25,24 +25,24 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 2 | 100% |  |
-| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv18 | 1 | 100% |  |
-| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv18 | 1 | 100% |  |
+| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 2 | 1.83% |  |
+| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv39 | 1 | 100% |  |
+| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv42 | 3 | 100% |  |
 | [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 1 | 100% |  |
 | [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv4 | 1 | 100% |  |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 2 | 100% |  |
-| [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 1 | 100% |  |
-| [<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 3 | 100% |  |
-| [<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 2 | 100% |  |
-| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv20 | 3 | 100% |  |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv48 | 12 | 100% |  |
+| [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv3 | 1 | 100% |  |
+| [<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv5 | 2 | 100% |  |
+| [<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv28 | 5 | 100% |  |
+| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv48 | 18 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv4以上
+- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv9以上
 
-<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">70件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -57,6 +57,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 2 |
@@ -86,11 +87,12 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",
 			"id": "greenhouse",
-			"count": 4,
+			"count": 9,
 			"chance": 1,
 			"equipment": false
 		}

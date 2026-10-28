@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥣</span>ボウルを買う](/ja/action/buy-bowl) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv5 | 1 | 100% | 1 | 36,000 |
+| [<span class="wiki-icon">🥣</span>ボウルを買う](/ja/action/buy-bowl) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv4 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -43,6 +43,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `necessary` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
 | CSV `rare` | 0 |
@@ -72,6 +73,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "necessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

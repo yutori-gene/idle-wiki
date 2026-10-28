@@ -10,33 +10,33 @@
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 連続 |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 連続 |
-| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 連続 |
-| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 連続 |
 | [<span class="wiki-icon">🛋️</span>人をダメにするクッションを作る](/ja/action/craft-ruining-cushion) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 単発 |
-| [<span class="wiki-icon">🐇</span>ウサギ小屋を作る](/ja/action/craft-rabbit-hutch) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 単発 |
-| [<span class="wiki-icon">📚</span>本棚を作る](/ja/action/craft-bookshelf) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 単発 |
-| [<span class="wiki-icon">🪣</span>井戸を作る](/ja/action/craft-well) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 単発 |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 連続 |
-| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 連続 |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 連続 |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 連続 |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 連続 |
-| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 連続 |
-| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 連続 |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 連続 |
-| [<span class="wiki-icon">🌾</span>芝刈り機を組む](/ja/action/assemble-lawn-mower) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 単発 |
-| [<span class="wiki-icon">🍞</span>オーブンを作る](/ja/action/craft-oven) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 単発 |
-| [<span class="wiki-icon">🐕</span>イヌ小屋を作る](/ja/action/craft-dog-house) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 単発 |
-| [<span class="wiki-icon">🌡️</span>百葉箱を作る](/ja/action/craft-weather-box) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 単発 |
-| [<span class="wiki-icon">🧊</span>冷蔵庫を作る](/ja/action/craft-refrigerator) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 単発 |
-| [<span class="wiki-icon">☀️</span>ソーラーパネルを作る](/ja/action/craft-solar-panel) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 単発 |
-| [<span class="wiki-icon">🔌</span>発電機を作る](/ja/action/craft-generator) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 単発 |
-| [<span class="wiki-icon">🐹</span>ハムスターの回車を作る](/ja/action/craft-hamster-wheel) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv10 | 単発 |
-| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 連続 |
-| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 連続 |
-| [<span class="wiki-icon">🔥</span>かまどを作る](/ja/action/craft-stove) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 単発 |
-| [<span class="wiki-icon">🔥</span>暖炉を作る](/ja/action/craft-fireplace) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 単発 |
+| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 連続 |
+| [<span class="wiki-icon">🐇</span>ウサギ小屋を作る](/ja/action/craft-rabbit-hutch) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 単発 |
+| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv9 | 連続 |
+| [<span class="wiki-icon">📚</span>本棚を作る](/ja/action/craft-bookshelf) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv9 | 単発 |
+| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv12 | 連続 |
+| [<span class="wiki-icon">🪣</span>井戸を作る](/ja/action/craft-well) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv12 | 単発 |
+| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 連続 |
+| [<span class="wiki-icon">🌾</span>芝刈り機を組む](/ja/action/assemble-lawn-mower) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 単発 |
+| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 連続 |
+| [<span class="wiki-icon">🍞</span>オーブンを作る](/ja/action/craft-oven) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 単発 |
+| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 連続 |
+| [<span class="wiki-icon">🐕</span>イヌ小屋を作る](/ja/action/craft-dog-house) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 単発 |
+| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 連続 |
+| [<span class="wiki-icon">🌡️</span>百葉箱を作る](/ja/action/craft-weather-box) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 単発 |
+| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 連続 |
+| [<span class="wiki-icon">🧊</span>冷蔵庫を作る](/ja/action/craft-refrigerator) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 単発 |
+| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv35 | 連続 |
+| [<span class="wiki-icon">☀️</span>ソーラーパネルを作る](/ja/action/craft-solar-panel) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv35 | 単発 |
+| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv39 | 連続 |
+| [<span class="wiki-icon">🔌</span>発電機を作る](/ja/action/craft-generator) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv39 | 単発 |
+| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 連続 |
+| [<span class="wiki-icon">🐹</span>ハムスターの回車を作る](/ja/action/craft-hamster-wheel) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 単発 |
+| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv46 | 連続 |
+| [<span class="wiki-icon">🔥</span>かまどを作る](/ja/action/craft-stove) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv46 | 単発 |
+| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv50 | 連続 |
+| [<span class="wiki-icon">🔥</span>暖炉を作る](/ja/action/craft-fireplace) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv50 | 単発 |
 
 ## アイテム
 

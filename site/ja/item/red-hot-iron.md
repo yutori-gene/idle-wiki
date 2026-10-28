@@ -13,8 +13,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">⛏️</span>埋もれた鉱夫町](/ja/action/buried-miner-town) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv5 | 3 | 48% | 0.72 | 37 |
 | [<span class="wiki-icon">⛏️</span>溶岩の縁の採掘](/ja/action/lava-edge-mining) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv7 | 3 | 48% | 0.72 | 37 |
-| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv34 | 3 | 76.8% | 1.2 | 0.001 |
-| [<span class="wiki-icon">🐦‍🔥</span>火喰い鳥](/ja/action/fire-eating-bird) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 | 3 | 76.8% | 1.2 | 0.08 |
+| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv34 | 1 | 1.26% | 0.006 | 0.001 |
+| [<span class="wiki-icon">🐦‍🔥</span>火喰い鳥](/ja/action/fire-eating-bird) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 | 1 | 0.658% | 0.003 | 0.08 |
 
 ## 用途
 
@@ -39,6 +39,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 1 |
@@ -68,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

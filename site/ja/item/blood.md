@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">⛓️</span>地下牢の奥](/ja/action/deep-dungeon-cell) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv8 | 3 | 63.6% | 1.9 | 0.477 |
-| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 3 | 76.8% | 1.2 | 0.013 |
+| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 1 | 0.427% | 0.002 | 0.013 |
 
 ## 用途
 
@@ -20,8 +20,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 3 | 100% |  |
-| [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv17 | 1 | 100% |  |
+| [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv30 | 3 | 100% |  |
+| [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv38 | 2 | 100% |  |
 | [<span class="wiki-icon">📼</span>無限ループするビデオテープを複製する](/ja/action/copy-infinite-loop-videotape) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv42 | 4 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">222件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
@@ -39,6 +39,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 8 |
 | CSV `rare` | 1 |
@@ -68,6 +69,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

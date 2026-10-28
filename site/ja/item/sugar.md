@@ -18,8 +18,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 5 | 100% |  |
-| [<span class="wiki-icon">🍞</span>フレンチトースト](/ja/action/cook-french-toast) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv4 | 1 | 100% |  |
-| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 1 | 100% |  |
+| [<span class="wiki-icon">🍞</span>フレンチトースト](/ja/action/cook-french-toast) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv3 | 1 | 100% |  |
+| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv47 | 3 | 100% |  |
 
 ## 解放条件
 
@@ -42,6 +42,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 0 |
@@ -72,6 +73,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [
 		{
 			"type": "category",

@@ -1,6 +1,6 @@
 # 山賊
 
-<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">山賊</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗡️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv14</td></tr><tr><th>所要時間</th><td>3分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>103</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4e6a86"><div class="wiki-infobox-title">山賊</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗡️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv14</td></tr><tr><th>所要時間</th><td>1.9秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.09</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 金品を狙う危険な盗賊。
 
@@ -11,7 +11,7 @@
 
 - [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv14以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🔩</span>鉄の棒](/ja/item/iron-rod) ×1（装備が必要・消費しない）
-- [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×1（消費する）
+- [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×1（1.06%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,10 +19,10 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪢</span>ロープ](/ja/item/rope) ×7 | 成功時 | 80% | 2.8 | 4.3 |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×3 | 成功時 | 100% | 1.5 | 2.3 |
-| [<span class="wiki-icon">📰</span>新聞紙](/ja/item/newspaper-sheet) ×5 | 成功時 | 56% | 1.4 | 2.2 |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) ×1 | 成功時 | 1.19% | 0.006 | 0.009 |
+| [<span class="wiki-icon">🪢</span>ロープ](/ja/item/rope) ×1 | 成功時 | 5.91% | 0.03 | 4.3 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×1 | 成功時 | 3.17% | 0.016 | 2.3 |
+| [<span class="wiki-icon">📰</span>新聞紙](/ja/item/newspaper-sheet) ×1 | 成功時 | 2.96% | 0.015 | 2.2 |
+| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) ×1 | 成功時 | 0.013% | 0 | 0.009 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -42,10 +42,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv14） | 11.8% | 6.48% | 75% | 23.1% | 15.8% | 12 | 59.8% | 39分 | 連戦で少しずつ消耗する |
-| +10（Lv24） | 17.7% | 5.29% | 81.8% | 26.9% | 22% | 7.3 | 28.4% | 20分25秒 | 連戦で少しずつ消耗する |
-| +20（Lv34） | 26.6% | 4.32% | 87.1% | 31.1% | 29.7% | 4.6 | 13.7% | 11分11秒 | 放置で連戦できる |
-| +30（Lv44） | 39.8% | 3.53% | 91% | 35.6% | 38.8% | 3.3 | 7.49% | 7分1秒 | 放置で連戦できる |
+| ±0（Lv14） | 11.8% | 6.48% | 75% | 23.1% | 15.8% | 12 | 59.8% | 24.7秒 | 連戦で少しずつ消耗する |
+| +10（Lv24） | 17.7% | 5.29% | 81.8% | 26.9% | 22% | 7.3 | 28.4% | 12.9秒 | 連戦で少しずつ消耗する |
+| +20（Lv34） | 26.6% | 4.32% | 87.1% | 31.1% | 29.7% | 4.6 | 13.7% | 7.1秒 | 放置で連戦できる |
+| +30（Lv44） | 39.8% | 3.53% | 91% | 35.6% | 38.8% | 3.3 | 7.49% | 4.4秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -53,10 +53,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv14） | 3分 | 50% | 103 | 1.5 | 79 |
-| +10（Lv24） | 2分27秒 | 60% | 68.67 | 2.9 | 121 |
-| +20（Lv34） | 2分 | 69.2% | 45.78 | 5.4 | 170 |
-| +30（Lv44） | 1分38秒 | 77.1% | 30.52 | 8.6 | 201 |
+| ±0（Lv14） | 1.9秒 | 50% | 1.09 | 145.7 | 79 |
+| +10（Lv24） | 1.6秒 | 60% | 0.73 | 278.5 | 121 |
+| +20（Lv34） | 1.3秒 | 69.2% | 0.48 | 508.2 | 170 |
+| +30（Lv44） | 1秒 | 77.1% | 0.32 | 810.2 | 202 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -80,8 +80,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `14` |
-| `experience` | `103` |
-| `seconds` | `180` |
+| `experience` | `1.09` |
+| `seconds` | `1.9` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -110,8 +110,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 14,
-	"experience": 103,
-	"seconds": 180,
+	"experience": 1.09,
+	"seconds": 1.9,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -126,7 +126,7 @@
 			"type": "item",
 			"id": "coin",
 			"count": 1,
-			"chance": 1,
+			"chance": 0.0106,
 			"equipment": false
 		}
 	],
@@ -134,26 +134,26 @@
 		{
 			"type": "item",
 			"id": "rope",
-			"count": 7,
-			"chance": 0.8
+			"count": 1,
+			"chance": 0.0591
 		},
 		{
 			"type": "item",
 			"id": "coin",
-			"count": 3,
-			"chance": 1
+			"count": 1,
+			"chance": 0.0317
 		},
 		{
 			"type": "item",
 			"id": "newspaper-sheet",
-			"count": 5,
-			"chance": 0.56
+			"count": 1,
+			"chance": 0.0296
 		},
 		{
 			"type": "item",
 			"id": "chicken",
 			"count": 1,
-			"chance": 0.0119
+			"chance": 0.000126
 		}
 	],
 	"progressType": "stamina",

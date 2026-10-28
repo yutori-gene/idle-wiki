@@ -1,6 +1,6 @@
 # ヒヨコを遊ばせる
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">ヒヨコを遊ばせる</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>515</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">ヒヨコを遊ばせる</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>46</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 掌に乗せて転がすだけ。抜けた産毛が積もっていく。
 
@@ -23,10 +23,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv1） | 30分 | 100% | 515 | 2 | 1,030 |
-| +10（Lv11） | 24分30秒 | 100% | 343.33 | 2.4 | 841 |
-| +20（Lv21） | 20分 | 100% | 228.89 | 3 | 687 |
-| +30（Lv31） | 16分20秒 | 100% | 152.59 | 3.7 | 561 |
+| ±0（Lv1） | 30分 | 100% | 46 | 2 | 92 |
+| +10（Lv11） | 24分30秒 | 100% | 30.67 | 2.4 | 75 |
+| +20（Lv21） | 20分 | 100% | 20.44 | 3 | 61 |
+| +30（Lv31） | 16分20秒 | 100% | 13.63 | 3.7 | 50 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -50,7 +50,7 @@
 | `group` | `pet` |
 | `unlocked` | `hidden` |
 | `level` | `1` |
-| `experience` | `515` |
+| `experience` | `46` |
 | `seconds` | `1800` |
 | `chance` | `1` |
 | `maximum` | `0` |
@@ -79,7 +79,7 @@
 	"group": "pet",
 	"unlocked": "hidden",
 	"level": 1,
-	"experience": 515,
+	"experience": 46,
 	"seconds": 1800,
 	"chance": 1,
 	"maximum": 0,

@@ -1,6 +1,6 @@
 # 跳び箱を開ける
 
-<div class="wiki-infobox" style="--accent:#a85c47"><div class="wiki-infobox-title">跳び箱を開ける</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📦</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><span class="wiki-icon">🔓</span>開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv5</td></tr><tr><th>所要時間</th><td>3分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>104</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a85c47"><div class="wiki-infobox-title">跳び箱を開ける</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📦</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><span class="wiki-icon">🔓</span>開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv10</td></tr><tr><th>所要時間</th><td>3分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>60</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 上腕二頭筋で力ずくでこじ開ける。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv5以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv10以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">📦</span>跳び箱](/ja/item/vaulting-box) ×1（消費する）
 - [<span class="wiki-icon">💪</span>上腕二頭筋](/ja/item/biceps) ×1（消費する）
 
@@ -30,10 +30,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv5） | 3分 | 100% | 104 | 20 | 2,080 |
-| +10（Lv15） | 2分27秒 | 100% | 69.33 | 24.5 | 1,698 |
-| +20（Lv25） | 2分 | 100% | 46.22 | 30 | 1,387 |
-| +30（Lv35） | 1分38秒 | 100% | 30.81 | 36.7 | 1,132 |
+| ±0（Lv10） | 3分 | 100% | 60 | 20 | 1,200 |
+| +10（Lv20） | 2分27秒 | 100% | 40 | 24.5 | 980 |
+| +20（Lv30） | 2分 | 100% | 26.67 | 30 | 800 |
+| +30（Lv40） | 1分38秒 | 100% | 17.78 | 36.7 | 653 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -45,7 +45,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#a85c47"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><span class="wiki-icon">👛</span>財布を開ける</a> ・ <a href="#/ja/action/open-donation-box"><span class="wiki-icon">🗳️</span>募金箱を開ける</a> ・ <a href="#/ja/action/open-wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱を開ける</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱を開ける</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセルを開ける</a> ・ <a href="#/ja/action/open-iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱を開ける</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝を開ける</a> ・ <a href="#/ja/action/open-cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱を開ける</a> ・ <a href="#/ja/action/open-medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱を開ける</a> ・ <a href="#/ja/action/open-tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱を開ける</a> ・ <a href="#/ja/action/open-giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱を開ける</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃を開ける</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱を開ける</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける</a> ・ <a href="#/ja/action/open-rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱を開ける</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱を開ける</a></div></div>
+<div class="wiki-navbox" style="--accent:#a85c47"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><span class="wiki-icon">👛</span>財布を開ける</a> ・ <a href="#/ja/action/open-donation-box"><span class="wiki-icon">🗳️</span>募金箱を開ける</a> ・ <a href="#/ja/action/open-wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱を開ける</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱を開ける</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセルを開ける</a> ・ <a href="#/ja/action/open-iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱を開ける</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝を開ける</a> ・ <a href="#/ja/action/open-cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱を開ける</a> ・ <a href="#/ja/action/open-medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱を開ける</a> ・ <a href="#/ja/action/open-tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱を開ける</a> ・ <a href="#/ja/action/open-giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱を開ける</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃を開ける</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱を開ける</a> ・ <a href="#/ja/action/open-rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱を開ける</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱を開ける</a></div></div>
 
 ## 開発者向け情報
 
@@ -56,8 +56,8 @@
 | `attribute` | （空） |
 | `group` | `unlock` |
 | `unlocked` | `hidden` |
-| `level` | `5` |
-| `experience` | `104` |
+| `level` | `10` |
+| `experience` | `60` |
 | `seconds` | `180` |
 | `chance` | `1` |
 | `maximum` | `0` |
@@ -85,8 +85,8 @@
 	"attribute": "",
 	"group": "unlock",
 	"unlocked": "hidden",
-	"level": 5,
-	"experience": 104,
+	"level": 10,
+	"experience": 60,
 	"seconds": 180,
 	"chance": 1,
 	"maximum": 0,

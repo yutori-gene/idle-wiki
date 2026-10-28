@@ -15,7 +15,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💌</span>ラブレターを読む](/ja/action/read-love-letter) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv1 | 1 | 100% | 1 | 0.65 |
+| [<span class="wiki-icon">💌</span>ラブレターを読む](/ja/action/read-love-letter) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv17 | 1 | 100% | 0.5 | 0.25 |
 
 <div class="wiki-navbox" style="--accent:#7b5a35"><div class="wiki-navbox-title">グループ: 能力</div><div class="wiki-navbox-body"><a href="#/ja/item/sleep-anywhere"><span class="wiki-icon">😴</span>どこでも眠れる</a> ・ <a href="#/ja/item/breathing-power"><span class="wiki-icon">🌬️</span>呼吸の力</a> ・ <a href="#/ja/item/psychokinesis"><span class="wiki-icon">🔮</span>サイコキネシス</a> ・ <a href="#/ja/item/leadership"><span class="wiki-icon">🎖️</span>リーダーシップ</a> ・ <a href="#/ja/item/antibody"><span class="wiki-icon">🛡️</span>抗体</a> ・ <a href="#/ja/item/triforce"><span class="wiki-icon">🔺</span>トライフォース</a> ・ <a href="#/ja/item/attack-barrier"><span class="wiki-icon">🛡️</span>攻性防壁</a> ・ <a href="#/ja/item/newtype"><span class="wiki-icon">👁️</span>ニュータイプ</a> ・ <a href="#/ja/item/blood-demon-art"><span class="wiki-icon">🩸</span>血鬼術</a> ・ <a href="#/ja/item/force"><span class="wiki-icon">✨</span>フォース</a></div></div>
 
@@ -32,6 +32,7 @@
 | `coinId` | （空） |
 | `maximum` | `1` |
 | `equipmentType` | `unnecessary` |
+| `consumeChance` | `1` |
 | `skill` | `telekinesis` |
 | CSV `tier` | 2 |
 | CSV `rare` | 4 |
@@ -61,6 +62,7 @@
 	"coinId": "",
 	"maximum": 1,
 	"equipmentType": "unnecessary",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": "telekinesis"

@@ -1,8 +1,10 @@
 # ワールド構築ロードマップ
 
-> idle リポジトリ `world/doc/roadmap.md` の写し（2f1ffe2 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
+> idle リポジトリ `world/doc/roadmap.md` の写し（0932eb8 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
 
 `world/list` の CSV を「思っている形」にするまでの進め方。**この作業の計画の正本。**
+
+> ✅ **この計画は 2026-09-05 に完了した**（Step 1〜4 と完了条件をすべて満たした）。下の「この計画の対象外」に置いていた変換・id の割り振り・シミュレータ検証は、そのあと別の段階として済ませてある。**いまの現在地と次の一手は [session.md](/ja/dev/doc/session)** を見る。このファイルは CSV を作った段階の進め方の記録として残している。
 
 現在地と次の一手は [session.md](/ja/dev/doc/session)、ゲーム設計の方針は [plan.md](/ja/dev/doc/plan)、用語は [terms.md](/ja/dev/doc/terms)、エンジン側の罠は [fix.md](/ja/dev/doc/fix) が正本。
 
@@ -122,6 +124,7 @@ idle-world 側は `main` が「次に公開する内容」、`gh-pages` が「�
 | [plan.md](/ja/dev/doc/plan) | ゲーム設計方針の正本。Step 1 で決めるパターンもここへ | パターン・数値方針を決めるたび |
 | overview.md | 現状の実態一覧＋パターン適用の記入欄。**tool/overview.py の生成物**で、記入欄だけ手書き | CSV を触るたび再生成／カテゴリを1つ終えるたび記入 |
 | [session.md](/ja/dev/doc/session) | **現在地と次の一手**。新しい会話への引き継ぎ用 | 作業を止めるたび（毎回） |
+| [history.md](/ja/dev/doc/history) | 2026-09-15 までの経過の記録（旧 session.md の本文）。書き足さない | — |
 | [terms.md](/ja/dev/doc/terms) | 用語・グループ定義の正本 | 用語が増えたとき |
 | [fix.md](/ja/dev/doc/fix) | エンジン側の懸念・踏んだ罠 | 罠を踏んだとき |
 
@@ -227,7 +230,7 @@ skill.csv は0行なので完全に新規。`chance` と5つの戦闘プロパ�
 
 ## Step 4. 全カテゴリが揃ってから、まとめて（完了・2026-09-05）
 
-**6ラウンドに割って進めた。** 各ラウンドの決定は plan.md の「Step 4-N」節、経過は session.md が正本。
+**6ラウンドに割って進めた。** 各ラウンドの決定は plan.md の「Step 4-N」節、経過は [history.md](/ja/dev/doc/history)（旧 session.md）が正本。
 
 | # | ラウンド | 中身 |
 |--:|---|---|
@@ -241,7 +244,7 @@ skill.csv は0行なので完全に新規。`chance` と5つの戦闘プロパ�
 - **整合確認は check.py が全項目 0件**（当初の10項目＋Step 3 で足した2つ＋Step 4 で足した5つ）
 - **完了条件をすべて満たした** — 入手経路のないアイテム0・孤立0・重複定義0・空欄の数値列0
 - 最終規模: item **866種** / action **592本** / event **83本** / category **24** / skill 100
-- そのあとで、初めて world 変換の話に入る（**次はここ**）
+- そのあとで、初めて world 変換の話に入る（→ 2026-09-06〜09-11 に完了。以降は [session.md](/ja/dev/doc/session)）
 
 ---
 

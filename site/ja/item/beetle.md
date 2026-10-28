@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 1 | 100% | 1 | 60 |
+| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 4 | 100% | 2 | 60 |
 
 ### イベント
 
@@ -34,6 +34,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
 | CSV `rare` | 4 |
@@ -63,6 +64,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

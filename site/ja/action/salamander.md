@@ -1,6 +1,6 @@
 # サラマンダー
 
-<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">サラマンダー</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦎</span></div><table><tr><th>場所</th><td><a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv35</td></tr><tr><th>所要時間</th><td>7分／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>240</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6b7a4a"><div class="wiki-infobox-title">サラマンダー</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦎</span></div><table><tr><th>場所</th><td><a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv35</td></tr><tr><th>所要時間</th><td>1.3秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.74</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 火の妖精。その体は常に燃えている。
 
@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv35以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🪨</span>火打石](/ja/item/flint) ×1（消費する）
+- [<span class="wiki-icon">🪨</span>火打石](/ja/item/flint) ×1（0.31%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,10 +18,10 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit) ×3 | 成功時 | 76.8% | 1.2 | 0.08 |
-| [<span class="wiki-icon">🌺</span>炎の花](/ja/item/flame-flower) ×2 | 成功時 | 48% | 0.48 | 0.033 |
-| [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) ×1 | 成功時 | 8.64% | 0.043 | 0.003 |
-| [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) ×1 | 成功時 | 0.597% | 0.003 | 0 |
+| [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit) ×1 | 成功時 | 0.713% | 0.004 | 0.08 |
+| [<span class="wiki-icon">🌺</span>炎の花](/ja/item/flame-flower) ×1 | 成功時 | 0.297% | 0.001 | 0.033 |
+| [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) ×1 | 成功時 | 0.027% | 0 | 0.003 |
+| [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) ×1 | 成功時 | 0.002% | 0 | 0 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -42,8 +42,8 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv35） | 1.27% | 60.3% | 64.8% | 25% | 22% | 121.8 | 5,508.5% | 14時間19分 | 負ける見込みが高い |
-| +10（Lv45） | 1.9% | 49.2% | 73.4% | 29% | 29.7% | 72.2 | 2,522.1% | 6時間58分 | 負ける見込みが高い |
+| ±0（Lv35） | 1.27% | 60.3% | 64.8% | 25% | 22% | 121.8 | 5,508.5% | 2分40秒 | 負ける見込みが高い |
+| +10（Lv45） | 1.9% | 49.2% | 73.4% | 29% | 29.7% | 72.2 | 2,522.1% | 1分18秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -51,8 +51,8 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv35） | 7分 | 50% | 240 | 0.1 | 8 |
-| +10（Lv45） | 5分43秒 | 60% | 160 | 0.1 | 14 |
+| ±0（Lv35） | 1.3秒 | 50% | 0.74 | 22.5 | 8 |
+| +10（Lv45） | 1.1秒 | 60% | 0.5 | 46.4 | 14 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -76,8 +76,8 @@
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
 | `level` | `35` |
-| `experience` | `240` |
-| `seconds` | `420` |
+| `experience` | `0.743` |
+| `seconds` | `1.3` |
 | `chance` | `0.5` |
 | `maximum` | `0` |
 | `progressType` | `stamina` |
@@ -106,8 +106,8 @@
 	"group": "hunt",
 	"unlocked": "hidden",
 	"level": 35,
-	"experience": 240,
-	"seconds": 420,
+	"experience": 0.743,
+	"seconds": 1.3,
 	"chance": 0.5,
 	"maximum": 0,
 	"requirements": [
@@ -115,7 +115,7 @@
 			"type": "item",
 			"id": "flint",
 			"count": 1,
-			"chance": 1,
+			"chance": 0.0031,
 			"equipment": false
 		}
 	],
@@ -123,26 +123,26 @@
 		{
 			"type": "item",
 			"id": "spirit",
-			"count": 3,
-			"chance": 0.768
+			"count": 1,
+			"chance": 0.00713
 		},
 		{
 			"type": "item",
 			"id": "flame-flower",
-			"count": 2,
-			"chance": 0.48
+			"count": 1,
+			"chance": 0.00297
 		},
 		{
 			"type": "item",
 			"id": "diamond",
 			"count": 1,
-			"chance": 0.0864
+			"chance": 0.000267
 		},
 		{
 			"type": "item",
 			"id": "flame-fox",
 			"count": 1,
-			"chance": 0.00597
+			"chance": 0.0000185
 		}
 	],
 	"progressType": "stamina",

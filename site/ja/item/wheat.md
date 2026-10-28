@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌾</span>小麦の栽培](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 3 | 100% | 3 | 6 |
-| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv3 | 2 | 100% | 2 | 2 |
+| [<span class="wiki-icon">🌾</span>小麦](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv10 | 40 | 100% | 24 | 6 |
+| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 2 | 100% | 1 | 2 |
 
 ## 用途
 
@@ -20,12 +20,12 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 1 | 100% |  |
-| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 1 | 100% |  |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv5 | 1 | 100% |  |
-| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 3 | 100% |  |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 3 | 100% |  |
-| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv15 | 2 | 100% |  |
+| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv12 | 1 | 100% |  |
+| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv15 | 1 | 100% |  |
+| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv5 | 1 | 2.83% |  |
+| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv19 | 9 | 100% |  |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 3 | 100% |  |
+| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv34 | 3 | 100% |  |
 
 ### 条件にしているもの
 
@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🍳</span>料理番の窮地](/ja/event/cook-in-trouble) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) ×5 |
 
-<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">70件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#6fb07a"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -48,6 +48,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 1 |
@@ -78,6 +79,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

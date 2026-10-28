@@ -14,30 +14,30 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🏖️</span>砂場掘り](/ja/action/dig-sandbox) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 3 | 100% | 1.5 | 540 |
-| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv7 | 8 | 100% | 4 | 31.3 |
-| [<span class="wiki-icon">👺</span>ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 8 | 100% | 4 | 12 |
-| [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 3 | 100% | 1.5 | 0.68 |
-| [<span class="wiki-icon">🗡️</span>山賊](/ja/action/bandit) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 3 | 100% | 1.5 | 2.3 |
-| [<span class="wiki-icon">🤠</span>賞金稼ぎ](/ja/action/bounty-hunter) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 7 | 96% | 3.4 | 5.2 |
-| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 5 | 100% | 2.5 | 0.105 |
-| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 8 | 100% | 4 | 0.002 |
-| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 3 | 100% | 1.5 | 0 |
-| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv48 | 3 | 100% | 1.5 | 0 |
-| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 5 | 100% | 2.5 | 0 |
-| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 5 | 100% | 2.5 | 0 |
-| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv8 | 3 | 100% | 3 | 1.5 |
-| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv8 | 5 | 100% | 5 | 2.5 |
-| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv18 | 8 | 100% | 8 | 2 |
-| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv20 | 5 | 100% | 5 | 1 |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv20 | 5 | 100% | 5 | 1 |
+| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv7 | 1 | 24% | 0.12 | 31.3 |
+| [<span class="wiki-icon">👺</span>ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 8.67% | 0.043 | 12 |
+| [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 1 | 5.33% | 0.027 | 0.68 |
+| [<span class="wiki-icon">🗡️</span>山賊](/ja/action/bandit) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 1 | 3.17% | 0.016 | 2.3 |
+| [<span class="wiki-icon">🤠</span>賞金稼ぎ](/ja/action/bounty-hunter) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 6.72% | 0.034 | 5.2 |
+| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 7.29% | 0.036 | 0.105 |
+| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 3.5% | 0.018 | 0.002 |
+| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 1 | 1.33% | 0.007 | 0 |
+| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv48 | 1 | 1.45% | 0.007 | 0 |
+| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 1.67% | 0.008 | 0 |
+| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 2.67% | 0.013 | 0 |
+| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv23 | 5 | 100% | 2.5 | 1.7 |
+| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv26 | 10 | 100% | 10 | 2.5 |
+| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv39 | 11 | 100% | 8.3 | 2.1 |
+| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv45 | 7 | 100% | 5.3 | 1.1 |
+| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv47 | 17 | 100% | 11.9 | 0.992 |
 | [<span class="wiki-icon">👛</span>財布を開ける](/ja/action/open-wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 3 | 96% | 2.9 | 173 |
-| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 5 | 100% | 5 | 300 |
-| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv3 | 3 | 96% | 2.9 | 86.4 |
-| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv5 | 3 | 96% | 2.9 | 57.6 |
-| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv5 | 3 | 96% | 2.9 | 57.6 |
-| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 3 | 96% | 2.9 | 43.2 |
+| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 20 | 100% | 10 | 300 |
+| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 2 | 96% | 1.3 | 80.6 |
+| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 3 | 96% | 2.9 | 57.6 |
+| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv13 | 1 | 96% | 0.96 | 57.6 |
+| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv15 | 5 | 96% | 2.9 | 43.2 |
 
-アイテムを売ると手に入る（716種）。効率は [金策表](/ja/reference/money) を参照。
+アイテムを売ると手に入る（713種）。効率は [金策表](/ja/reference/money) を参照。
 
 ## この通貨で買えるもの
 
@@ -47,12 +47,9 @@
 
 | アイテム | 価格 | 解放条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🍋</span>レモン](/ja/item/lemon) | 2 | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv4以上 |
+| [<span class="wiki-icon">🍋</span>レモン](/ja/item/lemon) | 2 | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上 |
 | [<span class="wiki-icon">🍚</span>砂糖](/ja/item/sugar) | 2 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv2以上 |
-| [<span class="wiki-icon">🥕</span>ニンジンの種](/ja/item/carrot-seed) | 2 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv1以上 |
-| [<span class="wiki-icon">🎃</span>カボチャの種](/ja/item/pumpkin-seed) | 2 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv1以上 |
-| [<span class="wiki-icon">🌾</span>小麦の種](/ja/item/wheat-seed) | 2 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv1以上 |
-| [<span class="wiki-icon">🧄</span>ニンニクの種球](/ja/item/garlic-bulb) | 2 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv1以上 |
+| [<span class="wiki-icon">🌾</span>小麦の種](/ja/item/wheat-seed) | 2 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv10以上 |
 | [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) | 4 | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv2以上 |
 | [<span class="wiki-icon">🟫</span>革](/ja/item/leather) | 4 | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv2以上 |
 | [<span class="wiki-icon">🌿</span>苔](/ja/item/moss) | 4 | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv10以上 |
@@ -64,49 +61,48 @@
 | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) | 6 | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv5以上 |
 | [<span class="wiki-icon">📄</span>チラシ](/ja/item/flyer) | 6 | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv15以上 |
 | [<span class="wiki-icon">🛍️</span>ビニール袋](/ja/item/plastic-bag) | 6 | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv2以上 |
-| [<span class="wiki-icon">🥬</span>サラダ菜の種](/ja/item/lettuce-seed) | 6 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv1以上 |
-| [<span class="wiki-icon">🥔</span>ジャガイモの種芋](/ja/item/potato-seed-tuber) | 6 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv6以上 |
+| [<span class="wiki-icon">🥬</span>サラダ菜の種](/ja/item/lettuce-seed) | 6 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv13以上 |
 | [<span class="wiki-icon">🪵</span>木の棒](/ja/item/wooden-stick) | 6 | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv1以上 |
 | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) | 12 | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv10以上 |
-| [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit) | 12 | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv6以上 |
-| [<span class="wiki-icon">💪</span>上腕二頭筋](/ja/item/biceps) | 12 | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv4以上 |
-| [<span class="wiki-icon">🛢️</span>油](/ja/item/oil) | 12 | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv4以上 |
+| [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit) | 12 | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv14以上 |
+| [<span class="wiki-icon">💪</span>上腕二頭筋](/ja/item/biceps) | 12 | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv9以上 |
+| [<span class="wiki-icon">🛢️</span>油](/ja/item/oil) | 12 | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上 |
 | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) | 12 | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv2以上 |
-| [<span class="wiki-icon">🌱</span>バナナの苗](/ja/item/banana-seedling) | 12 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv4以上 |
-| [<span class="wiki-icon">🌱</span>リンゴの苗](/ja/item/apple-seedling) | 12 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv4以上 |
-| [<span class="wiki-icon">🌿</span>薬草の種](/ja/item/herb-seed) | 12 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv4以上 |
-| [<span class="wiki-icon">📘</span>自己啓発本](/ja/item/self-help-book) | 12 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv4以上 |
-| [<span class="wiki-icon">📗</span>小説](/ja/item/novel) | 12 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv4以上 |
-| [<span class="wiki-icon">📚</span>漫画](/ja/item/manga) | 12 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv4以上 |
-| [<span class="wiki-icon">📰</span>新聞](/ja/item/newspaper) | 12 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv4以上 |
-| [<span class="wiki-icon">🌶️</span>とうがらしの種](/ja/item/chili-seed) | 14 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv14以上 |
+| [<span class="wiki-icon">🌱</span>バナナの苗](/ja/item/banana-seedling) | 12 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv16以上 |
+| [<span class="wiki-icon">🌱</span>リンゴの苗](/ja/item/apple-seedling) | 12 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv19以上 |
+| [<span class="wiki-icon">🌿</span>薬草の種](/ja/item/herb-seed) | 12 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv28以上 |
+| [<span class="wiki-icon">📘</span>自己啓発本](/ja/item/self-help-book) | 12 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv9以上 |
+| [<span class="wiki-icon">📗</span>小説](/ja/item/novel) | 12 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv9以上 |
+| [<span class="wiki-icon">📚</span>漫画](/ja/item/manga) | 12 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv9以上 |
+| [<span class="wiki-icon">📰</span>新聞](/ja/item/newspaper) | 12 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv9以上 |
+| [<span class="wiki-icon">🌶️</span>とうがらしの種](/ja/item/chili-seed) | 14 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv41以上 |
 | [<span class="wiki-icon">📼</span>ガムテープ](/ja/item/duct-tape) | 18 | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv15以上 |
-| [<span class="wiki-icon">🗳️</span>投票用紙](/ja/item/ballot) | 18 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv6以上 |
-| [<span class="wiki-icon">📄</span>住民票](/ja/item/residence-certificate) | 18 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv6以上 |
+| [<span class="wiki-icon">🗳️</span>投票用紙](/ja/item/ballot) | 18 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv14以上 |
+| [<span class="wiki-icon">📄</span>住民票](/ja/item/residence-certificate) | 18 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv14以上 |
 | [<span class="wiki-icon">🍯</span>樹液](/ja/item/tree-sap) | 36 | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv2以上 |
-| [<span class="wiki-icon">🍯</span>蜂蜜の巣箱](/ja/item/honey-hive) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv4以上 |
-| [<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv4以上 |
-| [<span class="wiki-icon">🌿</span>大麻の種](/ja/item/hemp-seed) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv4以上 |
-| [<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | 36 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv2以上<br>[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv4以上 |
-| [<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | 36 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv1以上<br>[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv4以上 |
-| [<span class="wiki-icon">💌</span>ラブレター](/ja/item/love-letter) | 36 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv4以上 |
-| [<span class="wiki-icon">☠️</span>毒草の種](/ja/item/poison-herb-seed) | 48 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv16以上 |
-| [<span class="wiki-icon">🌿</span>香草の種](/ja/item/aromatic-herb-seed) | 48 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv16以上 |
-| [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron) | 54 | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv6以上 |
+| [<span class="wiki-icon">🍯</span>蜂蜜の巣箱](/ja/item/honey-hive) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv22以上 |
+| [<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv25以上 |
+| [<span class="wiki-icon">🌿</span>大麻の種](/ja/item/hemp-seed) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv32以上 |
+| [<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | 36 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv2以上<br>[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上 |
+| [<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | 36 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv1以上<br>[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上 |
+| [<span class="wiki-icon">💌</span>ラブレター](/ja/item/love-letter) | 36 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv9以上 |
+| [<span class="wiki-icon">☠️</span>毒草の種](/ja/item/poison-herb-seed) | 48 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv44以上 |
+| [<span class="wiki-icon">🌿</span>香草の種](/ja/item/aromatic-herb-seed) | 48 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv47以上 |
+| [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron) | 54 | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv14以上 |
 | [<span class="wiki-icon">🐈</span>野良猫の首輪](/ja/item/stray-cat-collar) | 54 | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv15以上 |
-| [<span class="wiki-icon">📕</span>はじめての泥棒](/ja/item/beginner-thief-book) | 54 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv6以上 |
-| [<span class="wiki-icon">📗</span>レシピ本](/ja/item/recipe-book) | 54 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv6以上 |
-| [<span class="wiki-icon">🗺️</span>地図](/ja/item/map) | 72 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv8以上 |
-| [<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber) | 108 | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv6以上 |
+| [<span class="wiki-icon">📕</span>はじめての泥棒](/ja/item/beginner-thief-book) | 54 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv14以上 |
+| [<span class="wiki-icon">📗</span>レシピ本](/ja/item/recipe-book) | 54 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv14以上 |
+| [<span class="wiki-icon">🗺️</span>地図](/ja/item/map) | 72 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv19以上 |
+| [<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber) | 108 | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv14以上 |
 | [<span class="wiki-icon">🍄</span>巨大キノコ](/ja/item/giant-mushroom) | 108 | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv2以上 |
 | [<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite) | 108 | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv10以上 |
 | [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) | 162 | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv2以上 |
 | [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 162 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv3以上 |
-| [<span class="wiki-icon">🍄</span>トリュフの菌床](/ja/item/truffle-bed) | 162 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv6以上 |
-| [<span class="wiki-icon">🌳</span>世界樹の種](/ja/item/world-tree-seed) | 180 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv20以上 |
+| [<span class="wiki-icon">🍄</span>トリュフの菌床](/ja/item/truffle-bed) | 162 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv38以上 |
+| [<span class="wiki-icon">🌳</span>世界樹の種](/ja/item/world-tree-seed) | 180 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv50以上 |
 | [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 1,458 | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv1以上 |
 
-<details><summary>この通貨で売れるアイテム（716種）</summary>
+<details><summary>この通貨で売れるアイテム（713種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -764,7 +760,6 @@
 | [<span class="wiki-icon">🪝</span>ハンガー](/ja/item/hanger) | 3 |
 | [<span class="wiki-icon">📎</span>洗濯バサミ](/ja/item/clothespin) | 3 |
 | [<span class="wiki-icon">🥬</span>サラダ菜の種](/ja/item/lettuce-seed) | 3 |
-| [<span class="wiki-icon">🥔</span>ジャガイモの種芋](/ja/item/potato-seed-tuber) | 3 |
 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | 3 |
 | [<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad) | 3 |
 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) | 3 |
@@ -822,12 +817,10 @@
 | [<span class="wiki-icon">🥫</span>空き缶](/ja/item/empty-can) | 1 |
 | [<span class="wiki-icon">🪢</span>ロープ](/ja/item/rope) | 1 |
 | [<span class="wiki-icon">🪨</span>小石](/ja/item/pebble) | 1 |
-| [<span class="wiki-icon">🥕</span>ニンジンの種](/ja/item/carrot-seed) | 1 |
-| [<span class="wiki-icon">🎃</span>カボチャの種](/ja/item/pumpkin-seed) | 1 |
 | [<span class="wiki-icon">🌾</span>小麦の種](/ja/item/wheat-seed) | 1 |
-| [<span class="wiki-icon">🧄</span>ニンニクの種球](/ja/item/garlic-bulb) | 1 |
-| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 1 |
 | [<span class="wiki-icon">🎃</span>カボチャ](/ja/item/pumpkin) | 1 |
+| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 1 |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) | 1 |
 
 </details>
 

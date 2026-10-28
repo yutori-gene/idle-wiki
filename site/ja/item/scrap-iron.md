@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🔩</span>廃材拾い](/ja/action/scrap-gathering) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv5 | 5 | 56% | 1.4 | 84 |
-| [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 | 7 | 80% | 2.8 | 0.055 |
+| [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 | 1 | 3.73% | 0.019 | 0.055 |
 
 ## 用途
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 6 |
 | CSV `rare` | 0 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""

@@ -1,6 +1,6 @@
 # 禁書を読む
 
-<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">禁書を読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📕</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv15</td></tr><tr><th>所要時間</th><td>20時間18分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>20,887</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#7b5a35"><div class="wiki-infobox-title">禁書を読む</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📕</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv42</td></tr><tr><th>所要時間</th><td>16時間</td></tr><tr><th>成功率</th><td>60%</td></tr><tr><th>経験値</th><td>2,007</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 読むと記憶が消される。消しにきた相手のほうが、先に焼ける。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv15以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv42以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">📕</span>禁書](/ja/item/forbidden-book) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -18,18 +18,15 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛡️</span>攻性防壁](/ja/item/attack-barrier) ×1 | 成功時 | 100% | 1 | 0.049 |
+| [<span class="wiki-icon">🛡️</span>攻性防壁](/ja/item/attack-barrier) ×1 | 成功時 | 100% | 0.6 | 0.038 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 60%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv15） | 20時間18分 | 100% | 20,887 | 0 | 1,029 |
-| +10（Lv25） | 16時間34分 | 100% | 13,924.67 | 0.1 | 840 |
-| +20（Lv35） | 13時間32分 | 100% | 9,283.11 | 0.1 | 686 |
-| +30（Lv45） | 11時間3分 | 100% | 6,188.74 | 0.1 | 560 |
+| ±0（Lv42） | 16時間 | 60% | 2,007 | 0.1 | 75 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -37,7 +34,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 287 | -287 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 365 | -365 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -52,10 +49,10 @@
 | `attribute` | （空） |
 | `group` | `reading` |
 | `unlocked` | `hidden` |
-| `level` | `15` |
-| `experience` | `20887` |
-| `seconds` | `73103` |
-| `chance` | `1` |
+| `level` | `42` |
+| `experience` | `2007` |
+| `seconds` | `57600` |
+| `chance` | `0.6` |
 | `maximum` | `0` |
 | `progressType` | `single` |
 | CSV `tier` | 8 |
@@ -81,10 +78,10 @@
 	"attribute": "",
 	"group": "reading",
 	"unlocked": "hidden",
-	"level": 15,
-	"experience": 20887,
-	"seconds": 73103,
-	"chance": 1,
+	"level": 42,
+	"experience": 2007,
+	"seconds": 57600,
+	"chance": 0.6,
 	"maximum": 0,
 	"requirements": [
 		{

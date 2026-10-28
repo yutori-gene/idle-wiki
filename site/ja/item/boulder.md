@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">⛏️</span>埋もれた鉱夫町](/ja/action/buried-miner-town) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv5 | 7 | 91% | 3.2 | 164 |
-| [<span class="wiki-icon">🗿</span>溶岩ゴーレム](/ja/action/lava-golem) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv33 | 7 | 80% | 2.8 | 0.003 |
+| [<span class="wiki-icon">🗿</span>溶岩ゴーレム](/ja/action/lava-golem) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv33 | 1 | 3.2% | 0.016 | 0.003 |
 
 ## 用途
 
@@ -37,6 +37,7 @@
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `impossible` |
+| `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 7 |
 | CSV `rare` | 0 |
@@ -66,6 +67,7 @@
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "impossible",
+	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],
 	"skill": ""
