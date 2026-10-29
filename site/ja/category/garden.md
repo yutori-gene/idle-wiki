@@ -17,32 +17,32 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐥</span>ヒヨコを遊ばせる](/ja/action/play-with-chick) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv1 | 30分 | 100% | 92 |
-| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv4 | 1時間 | 65% | 92 |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1.7秒 | 50% | 114 |
-| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv6 | 30分 | 50% | 92 |
-| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv9 | 1時間30分 | 90% | 91 |
-| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.6秒 | 50% | 114 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2.2秒 | 50% | 115 |
-| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv12 | 30分 | 50% | 92 |
-| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv15 | 2時間 | 60% | 91 |
-| [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv17 | 45分 | 65% | 92 |
-| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv20 | 3時間 | 50% | 91 |
-| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv23 | 1時間30分 | 50% | 91 |
-| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv26 | 4時間 | 100% | 91 |
-| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv28 | 2時間 | 60% | 91 |
-| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv31 | 6時間 | 75% | 91 |
-| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv34 | 2時間30分 | 65% | 91 |
-| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv36 | 8時間 | 55% | 91 |
-| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv39 | 4時間 | 75% | 91 |
-| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv42 | 11時間 | 85% | 91 |
-| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv45 | 5時間 | 75% | 91 |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv47 | 12時間 | 70% | 91 |
-| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv50 | 7時間 | 80% | 91 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [<span class="wiki-icon">🐥</span>ヒヨコを遊ばせる](/ja/action/play-with-chick) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv1 | 30分 | 100% | 92 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×3 |
+| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv4 | 1時間 | 65% | 92 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×2 | [<span class="wiki-icon">🐟</span>魚](/ja/item/fish)×6 |
+| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1.7秒 | 50% | 114 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) (2.83%) | [<span class="wiki-icon">🥚</span>卵](/ja/item/egg) (8.5%)<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (19.8%)<br>[<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (5.67%) |
+| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv6 | 30分 | 50% | 92 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat)×2 |
+| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv9 | 1時間30分 | 90% | 91 | [<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water)×2 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×5<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×3 |
+| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.6秒 | 50% | 114 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (13.3%)<br>[<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn) (9.33%)<br>[<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) (4%) |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 2.2秒 | 50% | 115 |  | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (5.5%)<br>[<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar) (3.67%)<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) (5.5%) |
+| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv12 | 30分 | 50% | 92 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | [<span class="wiki-icon">🥚</span>卵](/ja/item/egg)×2 |
+| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv15 | 2時間 | 60% | 91 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×7<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×2 |
+| [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv17 | 45分 | 65% | 92 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) | [<span class="wiki-icon">🦴</span>骨](/ja/item/bone)×2<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) |
+| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv20 | 3時間 | 50% | 91 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×2 | [<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn)×9 |
+| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv23 | 1時間30分 | 50% | 91 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×3<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×5 |
+| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv26 | 4時間 | 100% | 91 | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom)×2 | [<span class="wiki-icon">🗺️</span>海賊の地図](/ja/item/pirate-map)×2<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×10 |
+| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv28 | 2時間 | 60% | 91 | [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) | [<span class="wiki-icon">🐟</span>魚](/ja/item/fish)×4 |
+| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv31 | 6時間 | 75% | 91 | [<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium)×2 | [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×8<br>[<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×5 |
+| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv34 | 2時間30分 | 65% | 91 | [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab) | [<span class="wiki-icon">🐟</span>魚](/ja/item/fish)×3<br>[<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water)×2 |
+| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv36 | 8時間 | 55% | 91 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)×2 | [<span class="wiki-icon">🦊</span>狐火](/ja/item/foxfire)×4<br>[<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal)×8 |
+| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv39 | 4時間 | 75% | 91 | [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×11<br>[<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×4 |
+| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv42 | 11時間 | 85% | 91 | [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey)×3 | [<span class="wiki-icon">⭐</span>星のカケラ](/ja/item/star-piece)×3 |
+| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv45 | 5時間 | 75% | 91 | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×7 |
+| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv47 | 12時間 | 70% | 91 | [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab)×2 | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×17<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×17 |
+| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 連続 | Lv50 | 7時間 | 80% | 91 | [<span class="wiki-icon">🌸</span>天空の花](/ja/item/sky-flower) | [<span class="wiki-icon">🦊</span>狐火](/ja/item/foxfire)×3<br>[<span class="wiki-icon">⭐</span>星のカケラ](/ja/item/star-piece)×2 |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。
+経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

@@ -15,6 +15,9 @@ import {
 	referencesFor,
 	requirementList,
 	searchEntry,
+	SHORT_NOTE,
+	shortAcquisitions,
+	shortConsumptions,
 	type Context,
 	type Page,
 } from "./common.ts";
@@ -82,11 +85,16 @@ function actionSection(context: Context, heading: string, actions: Type.Action[]
 			action.progressType === "snap" ? "即時" : duration(action.seconds, units),
 			percent(action.chance),
 			stats.experiencePerHour !== undefined && stats.experience > 0 ? number(stats.experiencePerHour, 0) : model.label.none,
+			shortConsumptions(context, action),
+			shortAcquisitions(context, action),
 		];
 	});
 	return section(
 		heading,
-		join(table(["アクション", ...(showPlace ? ["場所"] : []), "グループ", "進行", "必要Lv", "時間", "成功率", "経験値/時"], rows, { filter: rows.length > 15 }), heading === "アクション" ? "経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。" : ""),
+		join(
+			table(["アクション", ...(showPlace ? ["場所"] : []), "グループ", "進行", "必要Lv", "時間", "成功率", "経験値/時", "消費物", "取得物"], rows, { filter: rows.length > 15 }),
+			heading === "アクション" ? `経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。${SHORT_NOTE}` : "",
+		),
 	);
 }
 

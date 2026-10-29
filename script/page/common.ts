@@ -95,6 +95,33 @@ export function acquisitionText(context: Context, acquisition: Type.Acquisition)
 	}
 }
 
+/** 表向けの短い個数・確率の表記（「×3 (30%)」。×1 と 100% は省く） */
+function shortSuffix(count: number, chance: number): string {
+	return `${count !== 1 ? `×${number(count)}` : ""}${chance < 1 ? ` (${percent(chance)})` : ""}`;
+}
+
+/** アクションの消費物（消費率>0 のアイテム要求）を表向けに短く */
+export function shortConsumptions(context: Context, action: Type.Action): string {
+	return action.requirements
+		.filter((requirement) => requirement.type === "item" && requirement.chance > 0)
+		.map((requirement) => link(context.model, "item", requirement.id) + shortSuffix(requirement.count, requirement.chance))
+		.join("<br>");
+}
+
+/** アクションの取得物を表向けに短く。失敗時のものは頭に「失敗:」 */
+export function shortAcquisitions(context: Context, action: Type.Action): string {
+	return action.acquisitions
+		.map((acquisition) => {
+			if (acquisition.type !== "item") return acquisitionText(context, acquisition);
+			const failure = acquisition.chance < 0 ? "失敗:" : "";
+			return failure + link(context.model, "item", acquisition.id) + shortSuffix(acquisition.count, Math.abs(acquisition.chance));
+		})
+		.join("<br>");
+}
+
+/** 消費物・取得物の短い表記の注記 */
+export const SHORT_NOTE = "消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。";
+
 /** 参照元の要素（アクション・イベント・カテゴリ・アイテム）へのリンク */
 export function referenceOwner(context: Context, reference: Reference): string {
 	const model = context.model;

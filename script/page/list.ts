@@ -1,7 +1,7 @@
 // 一覧ページ（list/<種別>）。種別ごとの全件表。どれも絞り込み欄付き
 import type * as Type from "../../source/type/worldType.ts";
 import { duration, join, link, number, percent, percentValue, section, signed, table } from "../lib/format.ts";
-import { acquisitionText, baseStats, requirementText, skillEffect, type Context, type Page } from "./common.ts";
+import { acquisitionText, baseStats, requirementText, SHORT_NOTE, shortAcquisitions, shortConsumptions, skillEffect, type Context, type Page } from "./common.ts";
 import { VERDICT } from "./action.ts";
 
 /** 一覧ページの見出し（サイドバーと共通） */
@@ -22,31 +22,6 @@ function page(context: Context, path: string, ...blocks: string[]): Page {
 }
 
 const filterNote = "表の上の欄に入力すると行を絞り込める。見出しをクリックすると並べ替えられる。";
-
-/** 一覧向けの短い個数・確率の表記（「×3 (30%)」。×1 と 100% は省く） */
-function shortSuffix(count: number, chance: number): string {
-	return `${count !== 1 ? `×${number(count)}` : ""}${chance < 1 ? ` (${percent(chance)})` : ""}`;
-}
-
-/** アクションの消費物（消費率>0 のアイテム要求）を一覧向けに短く */
-function shortConsumptions(context: Context, action: Type.Action): string {
-	return action.requirements
-		.filter((requirement) => requirement.type === "item" && requirement.chance > 0)
-		.map((requirement) => link(context.model, "item", requirement.id) + shortSuffix(requirement.count, requirement.chance))
-		.join("<br>");
-}
-
-/** アクションの取得物を一覧向けに短く。失敗時のものは頭に「失敗:」 */
-function shortAcquisitions(context: Context, action: Type.Action): string {
-	return action.acquisitions
-		.map((acquisition) => {
-			if (acquisition.type !== "item") return acquisitionText(context, acquisition);
-			const failure = acquisition.chance < 0 ? "失敗:" : "";
-			return failure + link(context.model, "item", acquisition.id) + shortSuffix(acquisition.count, Math.abs(acquisition.chance));
-		})
-		.join("<br>");
-}
-
 export function listPages(context: Context): Page[] {
 	const model = context.model;
 	const world = model.world;
@@ -72,7 +47,7 @@ export function listPages(context: Context): Page[] {
 	const actions = page(
 		context,
 		"list/actions",
-		"消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。",
+		SHORT_NOTE,
 		filterNote,
 		table(
 			["アクション", "場所", "グループ", "進行", "必要Lv", "時間", "成功率", "経験値/時", "消費物", "取得物"],
