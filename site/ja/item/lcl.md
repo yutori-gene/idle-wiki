@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv38 | 121 | 100% | 60.5 | 454 |
+| [<span class="wiki-icon">🧪</span>LCL](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv38 | 121 | 100% | 60.5 | 454 |
 
 ## 解放条件
 

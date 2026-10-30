@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⏰</span>麻酔時計を作る](/ja/action/craft-anesthetic-watch) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv34 | 2 | 100% |  |
-| [<span class="wiki-icon">🎃</span>パンプキンヘッドを作る](/ja/action/craft-pumpkin-head) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 2 | 100% |  |
-| [<span class="wiki-icon">🥋</span>鉄の胸当を作る](/ja/action/craft-iron-breastplate) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv37 | 2 | 100% |  |
+| [<span class="wiki-icon">⏰</span>麻酔時計](/ja/action/craft-anesthetic-watch) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv34 | 2 | 100% |  |
+| [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/action/craft-pumpkin-head) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 2 | 100% |  |
+| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/action/craft-iron-breastplate) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv37 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

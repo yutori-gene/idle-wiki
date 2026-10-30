@@ -15,7 +15,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv26 | 33 | 100% | 23.1 | 462 |
+| [<span class="wiki-icon">☕</span>眠気覚まし](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv26 | 33 | 100% | 23.1 | 462 |
 
 ## 解放条件
 

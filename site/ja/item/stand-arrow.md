@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏹</span>スタンドの矢を作る](/ja/action/craft-stand-arrow) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 133 | 100% | 133 | 26.6 |
+| [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/action/craft-stand-arrow) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 133 | 100% | 133 | 26.6 |
 
 ## 解放条件
 

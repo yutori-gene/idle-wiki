@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機を作る](/ja/action/craft-bowtie-voice-changer) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv30 | 1 | 100% | 1 | 0.333 |
+| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機](/ja/action/craft-bowtie-voice-changer) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv30 | 1 | 100% | 1 | 0.333 |
 
 ## 用途
 
@@ -27,7 +27,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機を分解する](/ja/action/disassemble-bowtie-voice-changer) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv31 | 1 | 100% |  |
+| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機（分解）](/ja/action/disassemble-bowtie-voice-changer) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv31 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: ブローチ</div><div class="wiki-navbox-body"><a href="#/ja/item/firefly"><span class="wiki-icon">✨</span>ホタル</a> ・ <a href="#/ja/item/pin-badge"><span class="wiki-icon">🎖️</span>ピンバッジ</a> ・ <a href="#/ja/item/heart-brooch"><span class="wiki-icon">💗</span>ハートブローチ</a> ・ <a href="#/ja/item/employee-badge"><span class="wiki-icon">🪪</span>社員証</a> ・ <a href="#/ja/item/gym-badge"><span class="wiki-icon">🎖️</span>ジムバッジ</a> ・ <a href="#/ja/item/verified-badge"><span class="wiki-icon">🪪</span>認証バッジ</a> ・ <a href="#/ja/item/police-badge"><span class="wiki-icon">👮</span>警察バッジ</a> ・ <a href="#/ja/item/hunter-license"><span class="wiki-icon">🪪</span>ハンターライセンス</a> ・ <a href="#/ja/item/cross-rosary"><span class="wiki-icon">📿</span>十字架のロザリオ</a> ・ <a href="#/ja/item/moon-emblem"><span class="wiki-icon">🌙</span>月の紋章</a> ・ <a href="#/ja/item/bowtie-voice-changer"><span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機</a> ・ <a href="#/ja/item/disguise-brooch"><span class="wiki-icon">🥸</span>変装ブローチ</a> ・ <a href="#/ja/item/medal"><span class="wiki-icon">🎖️</span>勲章</a> ・ <a href="#/ja/item/family-crest-brooch"><span class="wiki-icon">🎖️</span>家紋のブローチ</a> ・ <a href="#/ja/item/sos-brigade-badge"><span class="wiki-icon">🎖️</span>SOS団のバッジ</a> ・ <a href="#/ja/item/survey-corps-badge"><span class="wiki-icon">🎖️</span>調査兵団のバッジ</a> ・ <a href="#/ja/item/golden-spin"><span class="wiki-icon">🌀</span>黄金の回転</a> ・ <a href="#/ja/item/dark-matter"><span class="wiki-icon">🌑</span>暗黒物質</a> ・ <a href="#/ja/item/beast-rose"><span class="wiki-icon">🌹</span>獣の薔薧</a> ・ <a href="#/ja/item/at-field"><span class="wiki-icon">🔺</span>ATフィールド</a> ・ <a href="#/ja/item/s2-engine"><span class="wiki-icon">⚙️</span>S2機関</a></div></div>
 

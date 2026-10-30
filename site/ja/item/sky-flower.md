@@ -21,8 +21,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 3 | 0.317% |  |
 | [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv50 | 11 | 100% |  |
-| [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv40 | 15 | 100% |  |
-| [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv42 | 4 | 100% |  |
+| [<span class="wiki-icon">💧</span>聖水](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv40 | 15 | 100% |  |
+| [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv42 | 4 | 100% |  |
 
 ### 条件にしているもの
 

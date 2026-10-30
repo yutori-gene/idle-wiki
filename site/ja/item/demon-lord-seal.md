@@ -19,16 +19,16 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗡️</span>ムラマサを作る](/ja/action/craft-muramasa) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 1 | 100% |  |
-| [<span class="wiki-icon">⚔️</span>ビームサーベルを作る](/ja/action/craft-beam-saber) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv47 | 1 | 100% |  |
-| [<span class="wiki-icon">👘</span>神衣を作る](/ja/action/craft-god-robe) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv43 | 1 | 100% |  |
-| [<span class="wiki-icon">🥾</span>立体機動ブーツを作る](/ja/action/craft-odm-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv43 | 1 | 100% |  |
-| [<span class="wiki-icon">💚</span>翡翠のかんざしを作る](/ja/action/craft-jade-hairpin) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv43 | 1 | 100% |  |
-| [<span class="wiki-icon">🛡️</span>矛盾を作る](/ja/action/craft-contradiction) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv44 | 1 | 100% |  |
-| [<span class="wiki-icon">⚫</span>虚無のリングを作る](/ja/action/craft-void-ring) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv46 | 1 | 100% |  |
-| [<span class="wiki-icon">🅿️</span>プラグスーツを作る](/ja/action/craft-plug-suit) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv47 | 1 | 100% |  |
-| [<span class="wiki-icon">💍</span>一つの指輪を作る](/ja/action/craft-one-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv43 | 1 | 100% |  |
-| [<span class="wiki-icon">🪄</span>スターロッドを作る](/ja/action/craft-star-rod) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv46 | 1 | 100% |  |
+| [<span class="wiki-icon">🗡️</span>ムラマサ](/ja/action/craft-muramasa) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 1 | 100% |  |
+| [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/action/craft-beam-saber) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv47 | 1 | 100% |  |
+| [<span class="wiki-icon">👘</span>神衣](/ja/action/craft-god-robe) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv43 | 1 | 100% |  |
+| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/action/craft-odm-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv43 | 1 | 100% |  |
+| [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/action/craft-jade-hairpin) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv43 | 1 | 100% |  |
+| [<span class="wiki-icon">🛡️</span>矛盾](/ja/action/craft-contradiction) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv44 | 1 | 100% |  |
+| [<span class="wiki-icon">⚫</span>虚無のリング](/ja/action/craft-void-ring) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv46 | 1 | 100% |  |
+| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/action/craft-plug-suit) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv47 | 1 | 100% |  |
+| [<span class="wiki-icon">💍</span>一つの指輪](/ja/action/craft-one-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv43 | 1 | 100% |  |
+| [<span class="wiki-icon">🪄</span>スターロッド](/ja/action/craft-star-rod) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv46 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

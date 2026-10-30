@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv22 | 1 | 43.2% | 0.238 | 0.02 |
+| [<span class="wiki-icon">🍯</span>蜂蜜](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv22 | 1 | 43.2% | 0.238 | 0.02 |
 
 ### 購入
 
@@ -23,7 +23,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv22 | 1 | 80% |  |
+| [<span class="wiki-icon">🍯</span>蜂蜜](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv22 | 1 | 80% |  |
 
 ## 解放条件
 

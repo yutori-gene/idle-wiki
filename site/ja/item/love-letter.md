@@ -17,7 +17,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💌</span>ラブレターを読む](/ja/action/read-love-letter) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv17 | 1 | 100% |  |
+| [<span class="wiki-icon">💌</span>ラブレター](/ja/action/read-love-letter) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv17 | 1 | 100% |  |
 
 ## 解放条件
 

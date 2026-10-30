@@ -23,15 +23,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>鉄の棒を作る](/ja/action/craft-iron-rod) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 15 | 100% |  |
-| [<span class="wiki-icon">🔨</span>ハンマーを作る](/ja/action/craft-hammer) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 15 | 100% |  |
-| [<span class="wiki-icon">🐟</span>冷凍マグロを作る](/ja/action/craft-frozen-tuna) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv17 | 15 | 100% |  |
-| [<span class="wiki-icon">🧱</span>レンガを作る](/ja/action/craft-brick) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv13 | 15 | 100% |  |
-| [<span class="wiki-icon">⛄</span>雪玉を作る](/ja/action/craft-snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv14 | 15 | 100% |  |
-| [<span class="wiki-icon">🐾</span>ネコの手を作る](/ja/action/craft-cat-paw) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
-| [<span class="wiki-icon">👞</span>安全靴を作る](/ja/action/craft-safety-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 15 | 100% |  |
-| [<span class="wiki-icon">😷</span>マスクを作る](/ja/action/craft-mask) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv17 | 15 | 100% |  |
-| [<span class="wiki-icon">🥦</span>ブロッコリーを作る](/ja/action/craft-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv13 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>鉄の棒](/ja/action/craft-iron-rod) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 15 | 100% |  |
+| [<span class="wiki-icon">🔨</span>ハンマー](/ja/action/craft-hammer) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 15 | 100% |  |
+| [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/action/craft-frozen-tuna) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv17 | 15 | 100% |  |
+| [<span class="wiki-icon">🧱</span>レンガ](/ja/action/craft-brick) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv13 | 15 | 100% |  |
+| [<span class="wiki-icon">⛄</span>雪玉](/ja/action/craft-snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv14 | 15 | 100% |  |
+| [<span class="wiki-icon">🐾</span>ネコの手](/ja/action/craft-cat-paw) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
+| [<span class="wiki-icon">👞</span>安全靴](/ja/action/craft-safety-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 15 | 100% |  |
+| [<span class="wiki-icon">😷</span>マスク](/ja/action/craft-mask) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv17 | 15 | 100% |  |
+| [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/action/craft-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv13 | 3 | 100% |  |
 
 ### 条件にしているもの
 

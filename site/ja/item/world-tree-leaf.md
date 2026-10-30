@@ -19,8 +19,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv44 | 6 | 100% |  |
-| [<span class="wiki-icon">🍀</span>フェリックスフェリシスの調合](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv50 | 4 | 100% |  |
+| [<span class="wiki-icon">💊</span>万能薬](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv44 | 6 | 100% |  |
+| [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv50 | 4 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 薬草</div><div class="wiki-navbox-body"><a href="#/ja/item/hemp"><span class="wiki-icon">🌿</span>大麻</a> ・ <a href="#/ja/item/herb"><span class="wiki-icon">🌿</span>薬草</a> ・ <a href="#/ja/item/chili"><span class="wiki-icon">🌶️</span>とうがらし</a> ・ <a href="#/ja/item/poison-herb"><span class="wiki-icon">☠️</span>毒草</a> ・ <a href="#/ja/item/aromatic-herb"><span class="wiki-icon">🌿</span>香草</a> ・ <a href="#/ja/item/world-tree-leaf"><span class="wiki-icon">🍃</span>世界樹の葉</a></div></div>
 

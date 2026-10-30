@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv13 | 10 | 100% | 7.5 | 450 |
+| [<span class="wiki-icon">🧪</span>エーテル](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv13 | 10 | 100% | 7.5 | 450 |
 
 ## 用途
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv38 | 4 | 100% |  |
+| [<span class="wiki-icon">🧪</span>LCL](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv38 | 4 | 100% |  |
 
 ## 解放条件
 

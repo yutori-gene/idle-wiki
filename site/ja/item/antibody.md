@@ -15,7 +15,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">✉️</span>不幸の手紙を読む](/ja/action/read-chain-letter) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv30 | 1 | 100% | 0.65 | 0.108 |
+| [<span class="wiki-icon">✉️</span>不幸の手紙](/ja/action/read-chain-letter) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv30 | 1 | 100% | 0.65 | 0.108 |
 
 ## 用途
 
@@ -23,7 +23,7 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🛡️</span>抗体](/ja/item/antibody) ×1（消費しない） |
+| [<span class="wiki-icon">💉</span>ワクチン](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🛡️</span>抗体](/ja/item/antibody) ×1（消費しない） |
 
 <div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 能力</div><div class="wiki-navbox-body"><a href="#/ja/item/sleep-anywhere"><span class="wiki-icon">😴</span>どこでも眠れる</a> ・ <a href="#/ja/item/breathing-power"><span class="wiki-icon">🌬️</span>呼吸の力</a> ・ <a href="#/ja/item/psychokinesis"><span class="wiki-icon">🔮</span>サイコキネシス</a> ・ <a href="#/ja/item/leadership"><span class="wiki-icon">🎖️</span>リーダーシップ</a> ・ <a href="#/ja/item/antibody"><span class="wiki-icon">🛡️</span>抗体</a> ・ <a href="#/ja/item/triforce"><span class="wiki-icon">🔺</span>トライフォース</a> ・ <a href="#/ja/item/attack-barrier"><span class="wiki-icon">🛡️</span>攻性防壁</a> ・ <a href="#/ja/item/newtype"><span class="wiki-icon">👁️</span>ニュータイプ</a> ・ <a href="#/ja/item/blood-demon-art"><span class="wiki-icon">🩸</span>血鬼術</a> ・ <a href="#/ja/item/force"><span class="wiki-icon">✨</span>フォース</a></div></div>
 

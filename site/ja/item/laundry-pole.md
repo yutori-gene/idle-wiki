@@ -27,7 +27,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎏</span>物干し竿を分解する](/ja/action/disassemble-laundry-pole) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv8 | 1 | 100% |  |
+| [<span class="wiki-icon">🎏</span>物干し竿（分解）](/ja/action/disassemble-laundry-pole) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv8 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 

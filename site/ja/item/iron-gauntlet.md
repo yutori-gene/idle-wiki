@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧤</span>鉄の籠手を作る](/ja/action/craft-iron-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 1 | 100% | 1 | 0.286 |
+| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/action/craft-iron-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 1 | 100% | 1 | 0.286 |
 
 ## 用途
 
@@ -27,7 +27,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧤</span>鉄の籠手を分解する](/ja/action/disassemble-iron-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv34 | 1 | 100% |  |
+| [<span class="wiki-icon">🧤</span>鉄の籠手（分解）](/ja/action/disassemble-iron-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv34 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 腕部装備</div><div class="wiki-navbox-body"><a href="#/ja/item/mitten"><span class="wiki-icon">🧤</span>ミトン</a> ・ <a href="#/ja/item/cloth-gloves"><span class="wiki-icon">🧤</span>布の手袋</a> ・ <a href="#/ja/item/rubber-gloves"><span class="wiki-icon">🧤</span>ゴム手袋</a> ・ <a href="#/ja/item/back-scratcher"><span class="wiki-icon">🩱</span>孫の手</a> ・ <a href="#/ja/item/work-gloves"><span class="wiki-icon">🧤</span>軍手</a> ・ <a href="#/ja/item/cat-paw"><span class="wiki-icon">🐾</span>ネコの手</a> ・ <a href="#/ja/item/lantern"><span class="wiki-icon">🏮</span>ランタン</a> ・ <a href="#/ja/item/helping-hand"><span class="wiki-icon">🤲</span>救いの手</a> ・ <a href="#/ja/item/torch"><span class="wiki-icon">🔥</span>松明</a> ・ <a href="#/ja/item/six-finger-glove"><span class="wiki-icon">🧤</span>6本指の手袋</a> ・ <a href="#/ja/item/leather-gloves"><span class="wiki-icon">🧤</span>革の手袋</a> ・ <a href="#/ja/item/crab-claw"><span class="wiki-icon">🦀</span>カニのハサミ</a> ・ <a href="#/ja/item/iron-gauntlet"><span class="wiki-icon">🧤</span>鉄の籠手</a> ・ <a href="#/ja/item/anesthetic-watch"><span class="wiki-icon">⏰</span>麻酔時計</a> ・ <a href="#/ja/item/command-spell"><span class="wiki-icon">🔺</span>令呪</a> ・ <a href="#/ja/item/aegis"><span class="wiki-icon">🛡️</span>ゼウスの盾</a> ・ <a href="#/ja/item/contradiction"><span class="wiki-icon">🛡️</span>矛盾</a> ・ <a href="#/ja/item/infinity-gauntlet"><span class="wiki-icon">🧤</span>無限の手袋</a></div></div>
 

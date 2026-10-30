@@ -1,6 +1,6 @@
-# 認証バッジを作る
+# 認証バッジ
 
-<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">認証バッジを作る</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪪</span></div><table><tr><th>場所</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>1時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">認証バッジ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪪</span></div><table><tr><th>場所</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>1時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 透明な板に印を封じ込める。本物の証。
 
@@ -65,7 +65,7 @@
 {
 	"information": {
 		"id": "craft-verified-badge",
-		"name": "認証バッジを作る",
+		"name": "認証バッジ",
 		"explanation": "透明な板に印を封じ込める。本物の証。",
 		"icon": {
 			"emoji": "🪪",

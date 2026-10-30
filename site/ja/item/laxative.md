@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv32 | 95 | 100% | 90.3 | 451 |
+| [<span class="wiki-icon">💊</span>下剤](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv32 | 95 | 100% | 90.3 | 451 |
 
 ## 用途
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv34 | 3 | 100% |  |
+| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv34 | 3 | 100% |  |
 
 ## 解放条件
 

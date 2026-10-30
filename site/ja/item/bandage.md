@@ -15,7 +15,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 7 | 100% | 7 | 420 |
+| [<span class="wiki-icon">🩹</span>絆創膏](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 7 | 100% | 7 | 420 |
 
 ## 解放条件
 

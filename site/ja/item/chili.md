@@ -21,7 +21,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv39 | 13 | 100% |  |
 | [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv42 | 5 | 100% |  |
-| [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv26 | 1 | 100% |  |
+| [<span class="wiki-icon">☕</span>眠気覚まし](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv26 | 1 | 100% |  |
 
 ### 条件にしているもの
 

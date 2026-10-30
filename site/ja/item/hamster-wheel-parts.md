@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📦</span>シュレーディンガーの箱を開ける](/ja/action/open-schrodingers-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv47 | 2 | 36.1% | 0.469 | 1.9 |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 10 | 100% | 5 | 10 |
+| [<span class="wiki-icon">📦</span>シュレーディンガーの箱](/ja/action/open-schrodingers-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv47 | 2 | 36.1% | 0.469 | 1.9 |
+| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 10 | 100% | 5 | 10 |
 
 ## 用途
 
@@ -20,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐹</span>ハムスターの回車を作る](/ja/action/craft-hamster-wheel) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 100 | 100% |  |
+| [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/action/craft-hamster-wheel) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 100 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

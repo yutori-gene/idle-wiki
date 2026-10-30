@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👟</span>キック力増強シューズを作る](/ja/action/craft-kick-boost-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv33 | 1 | 100% | 1 | 0.286 |
+| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/action/craft-kick-boost-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv33 | 1 | 100% | 1 | 0.286 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👟</span>キック力増強シューズを分解する](/ja/action/disassemble-kick-boost-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv35 | 1 | 100% |  |
+| [<span class="wiki-icon">👟</span>キック力増強シューズ（分解）](/ja/action/disassemble-kick-boost-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv35 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 脚部装備</div><div class="wiki-navbox-body"><a href="#/ja/item/smelly-socks"><span class="wiki-icon">🧦</span>臭う靴下</a> ・ <a href="#/ja/item/slippers"><span class="wiki-icon">🩴</span>スリッパ</a> ・ <a href="#/ja/item/wooden-clogs"><span class="wiki-icon">👞</span>木靴</a> ・ <a href="#/ja/item/leg-warmer"><span class="wiki-icon">🧦</span>レッグウォーマー</a> ・ <a href="#/ja/item/cowboy-boots"><span class="wiki-icon">🥾</span>カウボーイブーツ</a> ・ <a href="#/ja/item/safety-shoes"><span class="wiki-icon">👞</span>安全靴</a> ・ <a href="#/ja/item/swim-ring"><span class="wiki-icon">🏊</span>浮き輪</a> ・ <a href="#/ja/item/squeaky-shoes"><span class="wiki-icon">👟</span>音が鳴る靴</a> ・ <a href="#/ja/item/ice-skate"><span class="wiki-icon">⛸️</span>アイススケート</a> ・ <a href="#/ja/item/silk-leggings"><span class="wiki-icon">🧦</span>絹の足袷</a> ・ <a href="#/ja/item/leather-boots"><span class="wiki-icon">🥾</span>革のブーツ</a> ・ <a href="#/ja/item/iron-greaves"><span class="wiki-icon">🦵</span>鉄の脇当て</a> ・ <a href="#/ja/item/high-heels"><span class="wiki-icon">👠</span>ハイヒール</a> ・ <a href="#/ja/item/kick-boost-shoes"><span class="wiki-icon">👟</span>キック力増強シューズ</a> ・ <a href="#/ja/item/glass-slipper"><span class="wiki-icon">👠</span>ガラスの靴</a> ・ <a href="#/ja/item/rabbit-tail"><span class="wiki-icon">🐇</span>ウサギ尻尾</a> ・ <a href="#/ja/item/odm-boots"><span class="wiki-icon">🥾</span>立体機動ブーツ</a> ・ <a href="#/ja/item/winged-shoes"><span class="wiki-icon">👟</span>羽のついた靴</a> ・ <a href="#/ja/item/warp-star"><span class="wiki-icon">⭐</span>ワープスター</a></div></div>
 

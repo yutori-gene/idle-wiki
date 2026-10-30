@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍞</span>オーブンを作る](/ja/action/craft-oven) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 1 | 100% | 1 | 0.1 |
+| [<span class="wiki-icon">🍞</span>オーブン](/ja/action/craft-oven) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 1 | 100% | 1 | 0.1 |
 
 ## 用途
 
@@ -27,7 +27,7 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍞</span>オーブン](/ja/item/oven) ×1（消費しない） |
+| [<span class="wiki-icon">🍞</span>パン](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍞</span>オーブン](/ja/item/oven) ×1（消費しない） |
 | [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍞</span>オーブン](/ja/item/oven) ×1（消費しない） |
 | [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍞</span>オーブン](/ja/item/oven) ×1（消費しない） |
 

@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥣</span>すり鉢を買う](/ja/action/buy-mortar) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 1 | 100% | 1 | 36,000 |
+| [<span class="wiki-icon">🥣</span>すり鉢](/ja/action/buy-mortar) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -19,15 +19,15 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>阿片の調合](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">☕</span>眠気覚ましの調合](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🩹</span>絆創膏](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💊</span>キズ薬](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💊</span>風邪薬](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💊</span>阿片](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💊</span>鎮痛剤](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">☕</span>眠気覚まし](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💊</span>下剤](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（装備が必要・消費しない） |
 
 <div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 粉砕</div><div class="wiki-navbox-body"><a href="#/ja/item/mortar"><span class="wiki-icon">🥣</span>すり鉢</a></div></div>
 

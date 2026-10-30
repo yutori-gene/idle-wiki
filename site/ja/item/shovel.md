@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | [<span class="wiki-icon">🪏</span>シャベル](/ja/item/shovel) ×1（消費しない） |
+| [<span class="wiki-icon">📦</span>タイムカプセル](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | [<span class="wiki-icon">🪏</span>シャベル](/ja/item/shovel) ×1（消費しない） |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">49件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 

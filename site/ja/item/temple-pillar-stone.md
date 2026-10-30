@@ -26,30 +26,30 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚔️</span>エクスカリバーを作る](/ja/action/craft-excalibur) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv49 | 1 | 100% |  |
-| [<span class="wiki-icon">🗝️</span>🔑ブレードを作る](/ja/action/craft-key-blade) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🪄</span>如意棒を作る](/ja/action/craft-ruyi-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">⚔️</span>マスターソードを作る](/ja/action/craft-master-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🏹</span>スタンドの矢を作る](/ja/action/craft-stand-arrow) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🚀</span>マグロケットを作る](/ja/action/craft-tuna-rocket) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🔱</span>ロンギヌスの槍を作る](/ja/action/craft-spear-of-longinus) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🤖</span>箱ガンダムを作る](/ja/action/craft-box-gundam) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv48 | 1 | 100% |  |
-| [<span class="wiki-icon">⭐</span>ワープスターを作る](/ja/action/craft-warp-star) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv48 | 1 | 100% |  |
-| [<span class="wiki-icon">👁️</span>写輪眼を作る](/ja/action/craft-sharingan) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv49 | 1 | 100% |  |
-| [<span class="wiki-icon">👘</span>聖衣を作る](/ja/action/craft-holy-cloth) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">👟</span>羽のついた靴を作る](/ja/action/craft-winged-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">👁️</span>六眼の瞳を作る](/ja/action/craft-six-eyes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">💀</span>クリスタルスカルを作る](/ja/action/craft-crystal-skull) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">😇</span>天使の輪を作る](/ja/action/craft-halo) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🧤</span>無限の手袋を作る](/ja/action/craft-infinity-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">⚙️</span>S2機関を作る](/ja/action/craft-s2-engine) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv49 | 1 | 100% |  |
-| [<span class="wiki-icon">🔺</span>ATフィールドを作る](/ja/action/craft-at-field) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">⏳</span>時を止める砂時計を作る](/ja/action/craft-time-stopping-hourglass) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">💣</span>N2爆雷を作る](/ja/action/craft-n2-mine) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🐴</span>トロイの木馬を作る](/ja/action/craft-trojan-horse) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🌕</span>元気玉を作る](/ja/action/craft-spirit-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">☢️</span>核爆弾を作る](/ja/action/craft-nuclear-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🐬</span>軍用イルカを作る](/ja/action/craft-military-dolphin) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/action/craft-excalibur) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv49 | 1 | 100% |  |
+| [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/action/craft-key-blade) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">🪄</span>如意棒](/ja/action/craft-ruyi-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">⚔️</span>マスターソード](/ja/action/craft-master-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/action/craft-stand-arrow) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">🚀</span>マグロケット](/ja/action/craft-tuna-rocket) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/action/craft-spear-of-longinus) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/action/craft-box-gundam) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv48 | 1 | 100% |  |
+| [<span class="wiki-icon">⭐</span>ワープスター](/ja/action/craft-warp-star) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv48 | 1 | 100% |  |
+| [<span class="wiki-icon">👁️</span>写輪眼](/ja/action/craft-sharingan) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv49 | 1 | 100% |  |
+| [<span class="wiki-icon">👘</span>聖衣](/ja/action/craft-holy-cloth) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/action/craft-winged-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">👁️</span>六眼の瞳](/ja/action/craft-six-eyes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/action/craft-crystal-skull) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">😇</span>天使の輪](/ja/action/craft-halo) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/action/craft-infinity-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">⚙️</span>S2機関](/ja/action/craft-s2-engine) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv49 | 1 | 100% |  |
+| [<span class="wiki-icon">🔺</span>ATフィールド](/ja/action/craft-at-field) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/action/craft-time-stopping-hourglass) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">💣</span>N2爆雷](/ja/action/craft-n2-mine) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">🐴</span>トロイの木馬](/ja/action/craft-trojan-horse) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">🌕</span>元気玉](/ja/action/craft-spirit-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">☢️</span>核爆弾](/ja/action/craft-nuclear-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% |  |
+| [<span class="wiki-icon">🐬</span>軍用イルカ](/ja/action/craft-military-dolphin) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

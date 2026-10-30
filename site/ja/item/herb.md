@@ -19,13 +19,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>キズ薬の調合](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv3 | 1 | 100% |  |
-| [<span class="wiki-icon">💊</span>風邪薬の調合](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv5 | 2 | 100% |  |
-| [<span class="wiki-icon">🧪</span>泡立つ薬の調合](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv7 | 4 | 100% |  |
-| [<span class="wiki-icon">👁️</span>目薬の調合](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv17 | 2 | 100% |  |
-| [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv21 | 2 | 100% |  |
-| [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv30 | 2 | 100% |  |
-| [<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv44 | 6 | 100% |  |
+| [<span class="wiki-icon">💊</span>キズ薬](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv3 | 1 | 100% |  |
+| [<span class="wiki-icon">💊</span>風邪薬](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv5 | 2 | 100% |  |
+| [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv7 | 4 | 100% |  |
+| [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv17 | 2 | 100% |  |
+| [<span class="wiki-icon">💊</span>鎮痛剤](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv21 | 2 | 100% |  |
+| [<span class="wiki-icon">💉</span>ワクチン](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv30 | 2 | 100% |  |
+| [<span class="wiki-icon">💊</span>万能薬](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv44 | 6 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 薬草</div><div class="wiki-navbox-body"><a href="#/ja/item/hemp"><span class="wiki-icon">🌿</span>大麻</a> ・ <a href="#/ja/item/herb"><span class="wiki-icon">🌿</span>薬草</a> ・ <a href="#/ja/item/chili"><span class="wiki-icon">🌶️</span>とうがらし</a> ・ <a href="#/ja/item/poison-herb"><span class="wiki-icon">☠️</span>毒草</a> ・ <a href="#/ja/item/aromatic-herb"><span class="wiki-icon">🌿</span>香草</a> ・ <a href="#/ja/item/world-tree-leaf"><span class="wiki-icon">🍃</span>世界樹の葉</a></div></div>
 

@@ -20,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv44 | 3 | 100% |  |
+| [<span class="wiki-icon">🌈</span>虹色の宝箱](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv44 | 3 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

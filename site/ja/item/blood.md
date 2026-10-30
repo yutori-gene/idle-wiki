@@ -20,8 +20,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv30 | 3 | 100% |  |
-| [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv38 | 2 | 100% |  |
+| [<span class="wiki-icon">💉</span>ワクチン](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv30 | 3 | 100% |  |
+| [<span class="wiki-icon">🧪</span>LCL](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv38 | 2 | 100% |  |
 | [<span class="wiki-icon">📼</span>無限ループするビデオテープを複製する](/ja/action/copy-infinite-loop-videotape) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv42 | 4 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>

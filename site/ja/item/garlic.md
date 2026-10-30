@@ -33,7 +33,7 @@
 | [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv16 | 5 | 100% |  |
 | [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv27 | 4 | 100% |  |
 | [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv31 | 5 | 100% |  |
-| [<span class="wiki-icon">⚰️</span>吸血鬼の棺を開ける](/ja/action/open-vampire-coffin) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv38 | 2 | 100% |  |
+| [<span class="wiki-icon">⚰️</span>吸血鬼の棺](/ja/action/open-vampire-coffin) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv38 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 畑の恵み</div><div class="wiki-navbox-body"><a href="#/ja/item/garlic"><span class="wiki-icon">🧄</span>ニンニク</a> ・ <a href="#/ja/item/earthworm"><span class="wiki-icon">🪱</span>ミミズ</a></div></div>
 

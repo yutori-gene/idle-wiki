@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📕</span>医学書を読む](/ja/action/read-anatomy-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv40 | 1 | 100% |  |
+| [<span class="wiki-icon">📕</span>医学書「解体新書」](/ja/action/read-anatomy-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv40 | 1 | 100% |  |
 
 ### 条件にしているもの
 

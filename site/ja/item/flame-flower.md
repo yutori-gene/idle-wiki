@@ -22,7 +22,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐦‍🔥</span>火喰い鳥](/ja/action/fire-eating-bird) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 | 1 | 0.286% |  |
 | [<span class="wiki-icon">🔥</span>熱い想いを受け継ぐ](/ja/action/inherit-burning-passion) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 5 | 100% |  |
-| [<span class="wiki-icon">💋</span>投げキッスを作る](/ja/action/craft-blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv37 | 2 | 100% |  |
+| [<span class="wiki-icon">💋</span>投げキッス](/ja/action/craft-blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv37 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

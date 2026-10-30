@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚫</span>シスの箱を開ける](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv41 | 2 | 35.8% | 0.394 | 2.4 |
-| [<span class="wiki-icon">📦</span>パンドラの箱を開ける](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv50 | 1 | 35.8% | 0.251 | 0.501 |
+| [<span class="wiki-icon">⚫</span>シスの箱](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv41 | 2 | 35.8% | 0.394 | 2.4 |
+| [<span class="wiki-icon">📦</span>パンドラの箱](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv50 | 1 | 35.8% | 0.251 | 0.501 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

@@ -1,6 +1,6 @@
-# 闇のペンダントを作る
+# 闇のペンダント
 
-<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">闇のペンダントを作る</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔮</span></div><table><tr><th>場所</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>3時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">闇のペンダント</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔮</span></div><table><tr><th>場所</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>3時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 黒曜石を薄く削って首に下げる。身につけた者は夜を纏う。
 
@@ -65,7 +65,7 @@
 {
 	"information": {
 		"id": "craft-dark-pendant",
-		"name": "闇のペンダントを作る",
+		"name": "闇のペンダント",
 		"explanation": "黒曜石を薄く削って首に下げる。身につけた者は夜を纏う。",
 		"icon": {
 			"emoji": "🔮",

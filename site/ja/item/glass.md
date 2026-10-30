@@ -24,14 +24,14 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 | 1 | 1.11% |  |
-| [<span class="wiki-icon">🔮</span>万華鏡を作る](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 3 | 100% |  |
-| [<span class="wiki-icon">🔨</span>ハンマーを作る](/ja/action/craft-hammer) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 3 | 100% |  |
-| [<span class="wiki-icon">🧤</span>軍手を作る](/ja/action/craft-work-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 3 | 100% |  |
-| [<span class="wiki-icon">🐾</span>ネコの手を作る](/ja/action/craft-cat-paw) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 3 | 100% |  |
-| [<span class="wiki-icon">👞</span>安全靴を作る](/ja/action/craft-safety-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 3 | 100% |  |
-| [<span class="wiki-icon">👨‍🍳</span>シェフハットを作る](/ja/action/craft-chef-hat) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 3 | 100% |  |
-| [<span class="wiki-icon">😷</span>マスクを作る](/ja/action/craft-mask) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv17 | 3 | 100% |  |
-| [<span class="wiki-icon">🔴</span>賢者の石を作る](/ja/action/craft-philosophers-stone) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv17 | 3 | 100% |  |
+| [<span class="wiki-icon">🔮</span>万華鏡](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 3 | 100% |  |
+| [<span class="wiki-icon">🔨</span>ハンマー](/ja/action/craft-hammer) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 3 | 100% |  |
+| [<span class="wiki-icon">🧤</span>軍手](/ja/action/craft-work-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 3 | 100% |  |
+| [<span class="wiki-icon">🐾</span>ネコの手](/ja/action/craft-cat-paw) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 3 | 100% |  |
+| [<span class="wiki-icon">👞</span>安全靴](/ja/action/craft-safety-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 3 | 100% |  |
+| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/action/craft-chef-hat) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 3 | 100% |  |
+| [<span class="wiki-icon">😷</span>マスク](/ja/action/craft-mask) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv17 | 3 | 100% |  |
+| [<span class="wiki-icon">🔴</span>賢者の石](/ja/action/craft-philosophers-stone) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv17 | 3 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><span class="wiki-icon">🗑️</span>ごみ</a> を参照</div></div>
 

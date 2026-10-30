@@ -17,7 +17,7 @@
 | [<span class="wiki-icon">🥬</span>サラダ菜](/ja/action/grow-lettuce) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv13 | 連続 |
 | [<span class="wiki-icon">🍌</span>バナナ](/ja/action/grow-banana) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv16 | 連続 |
 | [<span class="wiki-icon">🍎</span>リンゴ](/ja/action/grow-apple) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv19 | 連続 |
-| [<span class="wiki-icon">🍯</span>蜂蜜の採取](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv22 | 連続 |
+| [<span class="wiki-icon">🍯</span>蜂蜜](/ja/action/harvest-honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv22 | 連続 |
 | [<span class="wiki-icon">🦎</span>ウーパールーパー](/ja/action/breed-axolotl) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv25 | 連続 |
 | [<span class="wiki-icon">🌿</span>薬草](/ja/action/grow-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv28 | 連続 |
 | [<span class="wiki-icon">🌿</span>大麻](/ja/action/grow-hemp) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv32 | 連続 |

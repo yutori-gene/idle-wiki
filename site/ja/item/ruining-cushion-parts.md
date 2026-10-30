@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 1 | 100% | 1 | 30 |
+| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 1 | 100% | 1 | 30 |
 
 ## 用途
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛋️</span>人をダメにするクッションを作る](/ja/action/craft-ruining-cushion) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 100 | 100% |  |
+| [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/action/craft-ruining-cushion) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 100 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

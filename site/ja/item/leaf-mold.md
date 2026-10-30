@@ -26,7 +26,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥦</span>ブロッコリーを作る](/ja/action/craft-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv13 | 15 | 100% |  |
+| [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/action/craft-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv13 | 15 | 100% |  |
 
 ## 解放条件
 

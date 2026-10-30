@@ -36,11 +36,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🩹</span>絆創膏の調合](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 1 | 100% |  |
+| [<span class="wiki-icon">🩹</span>絆創膏](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 1 | 100% |  |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯を織る](/ja/action/weave-flying-carpet) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv33 | 8 | 100% |  |
-| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 8 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 13 | 100% |  |
-| [<span class="wiki-icon">🔩</span>本棚の部品を作る](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv9 | 11 | 100% |  |
+| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 8 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 13 | 100% |  |
+| [<span class="wiki-icon">🔩</span>本棚の部品](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv9 | 11 | 100% |  |
 
 ## 解放条件
 

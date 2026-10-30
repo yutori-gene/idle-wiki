@@ -30,12 +30,12 @@
 | [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv45 | 9 | 100% | 8.1 | 2 |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv48 | 6 | 100% | 5.4 | 1.1 |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv50 | 14 | 100% | 11.9 | 0.992 |
-| [<span class="wiki-icon">👛</span>財布を開ける](/ja/action/open-wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 3 | 96% | 2.9 | 173 |
-| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 20 | 100% | 10 | 300 |
-| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 2 | 96% | 1.3 | 80.6 |
-| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 3 | 96% | 2.9 | 57.6 |
-| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv13 | 1 | 96% | 0.96 | 57.6 |
-| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv15 | 5 | 96% | 2.9 | 43.2 |
+| [<span class="wiki-icon">👛</span>財布](/ja/action/open-wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 3 | 96% | 2.9 | 173 |
+| [<span class="wiki-icon">🗳️</span>募金箱](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 20 | 100% | 10 | 300 |
+| [<span class="wiki-icon">🪵</span>木の宝箱](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 2 | 96% | 1.3 | 80.6 |
+| [<span class="wiki-icon">📦</span>跳び箱](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 3 | 96% | 2.9 | 57.6 |
+| [<span class="wiki-icon">📦</span>タイムカプセル](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv13 | 1 | 96% | 0.96 | 57.6 |
+| [<span class="wiki-icon">🔩</span>鉄の宝箱](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv15 | 5 | 96% | 2.9 | 43.2 |
 
 アイテムを売ると手に入る（671種）。効率は [金策表](/ja/reference/money) を参照。
 

@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 1 | 84% | 0.84 | 16.8 |
+| [<span class="wiki-icon">🎁</span>中くらいの宝箱](/ja/action/open-medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 1 | 84% | 0.84 | 16.8 |
 
 ## 解放条件
 

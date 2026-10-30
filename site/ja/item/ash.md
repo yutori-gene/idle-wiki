@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 2 | 36% | 0.612 | 18.4 |
+| [<span class="wiki-icon">🍞</span>パン](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 2 | 36% | 0.612 | 18.4 |
 | [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv35 | 7 | 36% | 1.5 | 7.6 |
 | [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv42 | 10 | 36% | 1.8 | 6 |
 
@@ -21,7 +21,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>鎮痛剤の調合](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv21 | 3 | 100% |  |
+| [<span class="wiki-icon">💊</span>鎮痛剤](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv21 | 3 | 100% |  |
 
 ### 条件にしているもの
 

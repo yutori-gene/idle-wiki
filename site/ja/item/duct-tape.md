@@ -23,9 +23,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⌚</span>スマートリングを作る](/ja/action/craft-smart-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv14 | 15 | 100% |  |
-| [<span class="wiki-icon">💍</span>取れない指輪を作る](/ja/action/craft-stuck-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 15 | 100% |  |
-| [<span class="wiki-icon">🎉</span>パーティークラッカーを作る](/ja/action/craft-party-popper) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv17 | 3 | 100% |  |
+| [<span class="wiki-icon">⌚</span>スマートリング](/ja/action/craft-smart-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv14 | 15 | 100% |  |
+| [<span class="wiki-icon">💍</span>取れない指輪](/ja/action/craft-stuck-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 15 | 100% |  |
+| [<span class="wiki-icon">🎉</span>パーティークラッカー](/ja/action/craft-party-popper) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv17 | 3 | 100% |  |
 
 ## 解放条件
 

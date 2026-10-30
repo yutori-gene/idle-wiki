@@ -21,10 +21,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 2 | 100% |  |
-| [<span class="wiki-icon">🎁</span>極小の宝箱を開ける](/ja/action/open-tiny-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv27 | 2 | 100% |  |
-| [<span class="wiki-icon">🪪</span>認証バッジを作る](/ja/action/craft-verified-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv14 | 15 | 100% |  |
-| [<span class="wiki-icon">🎖️</span>ジムバッジを作る](/ja/action/craft-gym-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 15 | 100% |  |
+| [<span class="wiki-icon">🗳️</span>募金箱](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 2 | 100% |  |
+| [<span class="wiki-icon">🎁</span>極小の宝箱](/ja/action/open-tiny-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv27 | 2 | 100% |  |
+| [<span class="wiki-icon">🪪</span>認証バッジ](/ja/action/craft-verified-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv14 | 15 | 100% |  |
+| [<span class="wiki-icon">🎖️</span>ジムバッジ](/ja/action/craft-gym-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 15 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><span class="wiki-icon">🗑️</span>ごみ</a> を参照</div></div>
 

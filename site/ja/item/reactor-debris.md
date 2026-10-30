@@ -20,13 +20,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔱</span>さすまたを作る](/ja/action/craft-sasumata) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv29 | 2 | 100% |  |
-| [<span class="wiki-icon">👊</span>ロケットパンチを作る](/ja/action/craft-rocket-punch) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv28 | 2 | 100% |  |
-| [<span class="wiki-icon">🥾</span>革のブーツを作る](/ja/action/craft-leather-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv29 | 2 | 100% |  |
-| [<span class="wiki-icon">🧤</span>革の手袋を作る](/ja/action/craft-leather-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv29 | 2 | 100% |  |
-| [<span class="wiki-icon">🥽</span>スカウターを作る](/ja/action/craft-scouter) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv29 | 2 | 100% |  |
-| [<span class="wiki-icon">🦀</span>カニのハサミを作る](/ja/action/craft-crab-claw) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv30 | 2 | 100% |  |
-| [<span class="wiki-icon">🦵</span>鉄の脇当てを作る](/ja/action/craft-iron-greaves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv31 | 2 | 100% |  |
+| [<span class="wiki-icon">🔱</span>さすまた](/ja/action/craft-sasumata) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv29 | 2 | 100% |  |
+| [<span class="wiki-icon">👊</span>ロケットパンチ](/ja/action/craft-rocket-punch) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv28 | 2 | 100% |  |
+| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/action/craft-leather-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv29 | 2 | 100% |  |
+| [<span class="wiki-icon">🧤</span>革の手袋](/ja/action/craft-leather-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv29 | 2 | 100% |  |
+| [<span class="wiki-icon">🥽</span>スカウター](/ja/action/craft-scouter) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv29 | 2 | 100% |  |
+| [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/action/craft-crab-claw) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv30 | 2 | 100% |  |
+| [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/action/craft-iron-greaves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv31 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎉</span>パーティークラッカーを作る](/ja/action/craft-party-popper) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv17 | 40 | 100% | 40 | 26.7 |
+| [<span class="wiki-icon">🎉</span>パーティークラッカー](/ja/action/craft-party-popper) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv17 | 40 | 100% | 40 | 26.7 |
 
 ## 用途
 
@@ -27,7 +27,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎉</span>パーティークラッカーを分解する](/ja/action/disassemble-party-popper) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv14 | 1 | 100% |  |
+| [<span class="wiki-icon">🎉</span>パーティークラッカー（分解）](/ja/action/disassemble-party-popper) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv14 | 1 | 100% |  |
 
 ## 解放条件
 

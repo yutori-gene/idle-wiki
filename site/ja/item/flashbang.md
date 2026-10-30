@@ -28,7 +28,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">✨</span>閃光弾を分解する](/ja/action/disassemble-flashbang) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv26 | 1 | 100% |  |
+| [<span class="wiki-icon">✨</span>閃光弾（分解）](/ja/action/disassemble-flashbang) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv26 | 1 | 100% |  |
 
 ## 解放条件
 

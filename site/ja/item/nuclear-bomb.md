@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">☢️</span>核爆弾を作る](/ja/action/craft-nuclear-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 133 | 100% | 133 | 26.6 |
+| [<span class="wiki-icon">☢️</span>核爆弾](/ja/action/craft-nuclear-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 133 | 100% | 133 | 26.6 |
 
 ## 解放条件
 

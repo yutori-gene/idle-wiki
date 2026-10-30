@@ -42,10 +42,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👙</span>ビキニアーマーを作る](/ja/action/craft-bikini-armor) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv33 | 2 | 100% |  |
-| [<span class="wiki-icon">👠</span>ハイヒールを作る](/ja/action/craft-high-heels) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 2 | 100% |  |
-| [<span class="wiki-icon">🧤</span>鉄の籠手を作る](/ja/action/craft-iron-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 2 | 100% |  |
-| [<span class="wiki-icon">🎎</span>だるまを作る](/ja/action/craft-daruma) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv37 | 2 | 100% |  |
+| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/action/craft-bikini-armor) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv33 | 2 | 100% |  |
+| [<span class="wiki-icon">👠</span>ハイヒール](/ja/action/craft-high-heels) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 2 | 100% |  |
+| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/action/craft-iron-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 2 | 100% |  |
+| [<span class="wiki-icon">🎎</span>だるま](/ja/action/craft-daruma) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv37 | 2 | 100% |  |
 
 ## 解放条件
 

@@ -17,7 +17,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📙</span>童話を読む](/ja/action/read-fairy-tale) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv1 | 1 | 100% |  |
+| [<span class="wiki-icon">📙</span>童話](/ja/action/read-fairy-tale) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv1 | 1 | 100% |  |
 
 ## 解放条件
 

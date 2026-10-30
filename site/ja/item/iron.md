@@ -17,14 +17,14 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>カイロの調合](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 4 | 100% |  |
-| [<span class="wiki-icon">🕺</span>踊る銅像を作る](/ja/action/craft-dancing-statue) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv37 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 3 | 100% |  |
-| [<span class="wiki-icon">🔩</span>井戸の部品を作る](/ja/action/craft-well-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv12 | 8 | 100% |  |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 10 | 100% |  |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 2 | 100% |  |
+| [<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 4 | 100% |  |
+| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/action/craft-dancing-statue) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv37 | 4 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>井戸の部品](/ja/action/craft-well-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv12 | 8 | 100% |  |
+| [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 4 | 100% |  |
+| [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 10 | 100% |  |
+| [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 4 | 100% |  |
+| [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 2 | 100% |  |
 
 ## 解放条件
 

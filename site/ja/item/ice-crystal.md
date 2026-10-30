@@ -20,9 +20,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv19 | 2 | 100% |  |
+| [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv19 | 2 | 100% |  |
 | [<span class="wiki-icon">💔</span>ハートのカケラを繋ぐ](/ja/action/connect-heart-piece) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv24 | 3 | 100% |  |
-| [<span class="wiki-icon">❄️</span>スノードームを作る](/ja/action/craft-snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv25 | 1 | 100% |  |
+| [<span class="wiki-icon">❄️</span>スノードーム](/ja/action/craft-snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv25 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

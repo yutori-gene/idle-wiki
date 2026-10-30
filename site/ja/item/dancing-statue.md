@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🕺</span>踊る銅像を作る](/ja/action/craft-dancing-statue) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv37 | 1 | 100% | 1 | 0.143 |
+| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/action/craft-dancing-statue) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv37 | 1 | 100% | 1 | 0.143 |
 
 <div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 床</div><div class="wiki-navbox-body"><a href="#/ja/item/sand-castle"><span class="wiki-icon">🏖️</span>砂の城</a> ・ <a href="#/ja/item/dancing-statue"><span class="wiki-icon">🕺</span>踊る銅像</a> ・ <a href="#/ja/item/flying-carpet"><span class="wiki-icon">🧞</span>空飛ぶ絨毯</a> ・ <a href="#/ja/item/grandfather-clock"><span class="wiki-icon">🕰️</span>おじいさんの時計</a></div></div>
 

@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv46 | 134 | 100% | 114 | 456 |
+| [<span class="wiki-icon">💊</span>げんきのかけら](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv46 | 134 | 100% | 114 | 456 |
 
 ## 解放条件
 

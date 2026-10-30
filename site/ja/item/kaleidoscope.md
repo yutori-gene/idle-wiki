@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔮</span>万華鏡を作る](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 1 | 100% | 1 | 0.143 |
+| [<span class="wiki-icon">🔮</span>万華鏡](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 1 | 100% | 1 | 0.143 |
 
 <div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 棚</div><div class="wiki-navbox-body"><a href="#/ja/item/message-in-a-bottle"><span class="wiki-icon">✉️</span>ボトルメール</a> ・ <a href="#/ja/item/snow-globe"><span class="wiki-icon">❄️</span>スノードーム</a> ・ <a href="#/ja/item/kaleidoscope"><span class="wiki-icon">🔮</span>万華鏡</a> ・ <a href="#/ja/item/infinite-loop-videotape"><span class="wiki-icon">📼</span>無限ループするビデオテープ</a> ・ <a href="#/ja/item/golden-orb"><span class="wiki-icon">🟡</span>金の玉</a></div></div>
 

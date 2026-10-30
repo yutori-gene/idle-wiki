@@ -27,7 +27,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍀</span>-4葉のクローバーを分解する](/ja/action/disassemble-minus-four-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv25 | 1 | 100% |  |
+| [<span class="wiki-icon">🍀</span>-4葉のクローバー（分解）](/ja/action/disassemble-minus-four-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv25 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 

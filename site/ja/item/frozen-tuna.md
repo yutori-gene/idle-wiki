@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>冷凍マグロを作る](/ja/action/craft-frozen-tuna) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv17 | 1 | 100% | 1 | 0.667 |
+| [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/action/craft-frozen-tuna) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv17 | 1 | 100% | 1 | 0.667 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>冷凍マグロを分解する](/ja/action/disassemble-frozen-tuna) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv13 | 1 | 100% |  |
+| [<span class="wiki-icon">🐟</span>冷凍マグロ（分解）](/ja/action/disassemble-frozen-tuna) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv13 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 

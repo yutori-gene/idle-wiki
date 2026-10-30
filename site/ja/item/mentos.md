@@ -18,7 +18,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 1 | 100% |  |
-| [<span class="wiki-icon">🥤</span>メントス入りソーダを作る](/ja/action/craft-mentos-soda) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv13 | 5 | 100% |  |
+| [<span class="wiki-icon">🥤</span>メントス入りソーダ](/ja/action/craft-mentos-soda) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv13 | 5 | 100% |  |
 
 ## 解放条件
 

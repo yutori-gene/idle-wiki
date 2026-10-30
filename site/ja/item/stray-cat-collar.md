@@ -23,11 +23,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>鉄の棒を作る](/ja/action/craft-iron-rod) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 3 | 100% |  |
-| [<span class="wiki-icon">🐟</span>冷凍マグロを作る](/ja/action/craft-frozen-tuna) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv17 | 3 | 100% |  |
-| [<span class="wiki-icon">🎓</span>学ランを作る](/ja/action/craft-gakuran) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 3 | 100% |  |
-| [<span class="wiki-icon">🥾</span>カウボーイブーツを作る](/ja/action/craft-cowboy-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 3 | 100% |  |
-| [<span class="wiki-icon">⚓</span>セーラー服を作る](/ja/action/craft-sailor-uniform) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>鉄の棒](/ja/action/craft-iron-rod) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 3 | 100% |  |
+| [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/action/craft-frozen-tuna) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv17 | 3 | 100% |  |
+| [<span class="wiki-icon">🎓</span>学ラン](/ja/action/craft-gakuran) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 3 | 100% |  |
+| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/action/craft-cowboy-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 3 | 100% |  |
+| [<span class="wiki-icon">⚓</span>セーラー服](/ja/action/craft-sailor-uniform) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 3 | 100% |  |
 
 ## 解放条件
 

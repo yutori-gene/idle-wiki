@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚗️</span>るつぼを買う](/ja/action/buy-crucible) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 1 | 100% | 1 | 36,000 |
+| [<span class="wiki-icon">⚗️</span>るつぼ](/ja/action/buy-crucible) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -19,13 +19,13 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>カイロの調合](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💉</span>ワクチンの調合](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧪</span>LCLの調合](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🍀</span>フェリックスフェリシスの調合](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💉</span>ワクチン](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🧪</span>LCL](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💊</span>げんきのかけら](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🧪</span>エリクサー](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
 
 <div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 溶解</div><div class="wiki-navbox-body"><a href="#/ja/item/crucible"><span class="wiki-icon">⚗️</span>るつぼ</a></div></div>
 

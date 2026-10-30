@@ -19,8 +19,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv15 | 1 | 100% |  |
-| [<span class="wiki-icon">⛄</span>雪玉を作る](/ja/action/craft-snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv14 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>鉄の宝箱](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv15 | 1 | 100% |  |
+| [<span class="wiki-icon">⛄</span>雪玉](/ja/action/craft-snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv14 | 3 | 100% |  |
 
 ### 条件にしているもの
 

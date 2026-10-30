@@ -20,9 +20,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛓️</span>チェインメイルを作る](/ja/action/craft-chainmail) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv30 | 2 | 100% |  |
-| [<span class="wiki-icon">🦺</span>防弾チョッキを作る](/ja/action/craft-bulletproof-vest) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv31 | 2 | 100% |  |
-| [<span class="wiki-icon">⛑️</span>鉄の兜を作る](/ja/action/craft-iron-helmet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv32 | 2 | 100% |  |
+| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/action/craft-chainmail) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv30 | 2 | 100% |  |
+| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/action/craft-bulletproof-vest) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv31 | 2 | 100% |  |
+| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/action/craft-iron-helmet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv32 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

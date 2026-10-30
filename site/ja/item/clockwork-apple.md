@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍎</span>時計仕掛けのリンゴを作る](/ja/action/craft-clockwork-apple) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv43 | 120 | 100% | 120 | 26.7 |
+| [<span class="wiki-icon">🍎</span>時計仕掛けのリンゴ](/ja/action/craft-clockwork-apple) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv43 | 120 | 100% | 120 | 26.7 |
 
 ## 解放条件
 

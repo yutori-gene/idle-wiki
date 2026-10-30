@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪄</span>スターロッドを作る](/ja/action/craft-star-rod) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv46 | 120 | 100% | 120 | 26.7 |
+| [<span class="wiki-icon">🪄</span>スターロッド](/ja/action/craft-star-rod) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv46 | 120 | 100% | 120 | 26.7 |
 
 ## 解放条件
 

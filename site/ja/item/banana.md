@@ -21,7 +21,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 1 | 1.92% |  |
 | [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 0.833% |  |
-| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）の調合](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv34 | 4 | 100% |  |
+| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv34 | 4 | 100% |  |
 
 ## 解放条件
 

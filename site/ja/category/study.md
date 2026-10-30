@@ -19,31 +19,31 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📙</span>童話を読む](/ja/action/read-fairy-tale) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv1 | 1時間 | 100% | 76 | [<span class="wiki-icon">📙</span>童話](/ja/item/fairy-tale) | [<span class="wiki-icon">💭</span>想像力](/ja/item/imagination) |
-| [<span class="wiki-icon">📖</span>絵本を読む](/ja/action/read-picture-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv3 | 2時間 | 75% | 75 | [<span class="wiki-icon">📖</span>絵本](/ja/item/picture-book) | [<span class="wiki-icon">💗</span>感受性](/ja/item/sensitivity) |
-| [<span class="wiki-icon">📚</span>漫画を読む](/ja/action/read-manga) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv5 | 1時間 | 85% | 76 | [<span class="wiki-icon">📚</span>漫画](/ja/item/manga) | [<span class="wiki-icon">🎯</span>集中力](/ja/item/concentration) |
-| [<span class="wiki-icon">📰</span>新聞を読む](/ja/action/read-newspaper) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv7 | 3時間 | 85% | 75 | [<span class="wiki-icon">📰</span>新聞](/ja/item/newspaper) | [<span class="wiki-icon">📰</span>時事知識](/ja/item/current-affairs) |
-| [<span class="wiki-icon">🎓</span>卒業証書を読み返す](/ja/action/reread-diploma) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv9 | 1時間 | 70% | 76 | [<span class="wiki-icon">🎓</span>卒業証書](/ja/item/diploma) | [<span class="wiki-icon">😴</span>どこでも眠れる](/ja/item/sleep-anywhere) |
-| [<span class="wiki-icon">🪪</span>免許証を読む](/ja/action/read-license) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv11 | 4時間 | 80% | 75 | [<span class="wiki-icon">🪪</span>免許証](/ja/item/license) | [<span class="wiki-icon">🌬️</span>呼吸の力](/ja/item/breathing-power) |
-| [<span class="wiki-icon">📗</span>小説を読む](/ja/action/read-novel) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv13 | 1時間30分 | 65% | 75 | [<span class="wiki-icon">📗</span>小説](/ja/item/novel) | [<span class="wiki-icon">📖</span>読解力](/ja/item/reading-comprehension) |
-| [<span class="wiki-icon">📘</span>自己啓発本を読む](/ja/action/read-self-help-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv15 | 5時間 | 85% | 75 | [<span class="wiki-icon">📘</span>自己啓発本](/ja/item/self-help-book) | [<span class="wiki-icon">💪</span>自信](/ja/item/confidence) |
-| [<span class="wiki-icon">💌</span>ラブレターを読む](/ja/action/read-love-letter) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv17 | 2時間 | 50% | 75 | [<span class="wiki-icon">💌</span>ラブレター](/ja/item/love-letter) | [<span class="wiki-icon">🔮</span>サイコキネシス](/ja/item/psychokinesis) |
-| [<span class="wiki-icon">🎨</span>美術書を読む](/ja/action/read-art-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv19 | 6時間 | 80% | 75 | [<span class="wiki-icon">🎨</span>美術書](/ja/item/art-book) | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) |
-| [<span class="wiki-icon">📚</span>百科事典を読む](/ja/action/read-encyclopedia) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv21 | 3時間 | 100% | 75 | [<span class="wiki-icon">📚</span>百科事典](/ja/item/encyclopedia) | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) |
+| [<span class="wiki-icon">📙</span>童話](/ja/action/read-fairy-tale) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv1 | 1時間 | 100% | 76 | [<span class="wiki-icon">📙</span>童話](/ja/item/fairy-tale) | [<span class="wiki-icon">💭</span>想像力](/ja/item/imagination) |
+| [<span class="wiki-icon">📖</span>絵本](/ja/action/read-picture-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv3 | 2時間 | 75% | 75 | [<span class="wiki-icon">📖</span>絵本](/ja/item/picture-book) | [<span class="wiki-icon">💗</span>感受性](/ja/item/sensitivity) |
+| [<span class="wiki-icon">📚</span>漫画](/ja/action/read-manga) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv5 | 1時間 | 85% | 76 | [<span class="wiki-icon">📚</span>漫画](/ja/item/manga) | [<span class="wiki-icon">🎯</span>集中力](/ja/item/concentration) |
+| [<span class="wiki-icon">📰</span>新聞](/ja/action/read-newspaper) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv7 | 3時間 | 85% | 75 | [<span class="wiki-icon">📰</span>新聞](/ja/item/newspaper) | [<span class="wiki-icon">📰</span>時事知識](/ja/item/current-affairs) |
+| [<span class="wiki-icon">🎓</span>卒業証書](/ja/action/reread-diploma) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv9 | 1時間 | 70% | 76 | [<span class="wiki-icon">🎓</span>卒業証書](/ja/item/diploma) | [<span class="wiki-icon">😴</span>どこでも眠れる](/ja/item/sleep-anywhere) |
+| [<span class="wiki-icon">🪪</span>免許証](/ja/action/read-license) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv11 | 4時間 | 80% | 75 | [<span class="wiki-icon">🪪</span>免許証](/ja/item/license) | [<span class="wiki-icon">🌬️</span>呼吸の力](/ja/item/breathing-power) |
+| [<span class="wiki-icon">📗</span>小説](/ja/action/read-novel) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv13 | 1時間30分 | 65% | 75 | [<span class="wiki-icon">📗</span>小説](/ja/item/novel) | [<span class="wiki-icon">📖</span>読解力](/ja/item/reading-comprehension) |
+| [<span class="wiki-icon">📘</span>自己啓発本](/ja/action/read-self-help-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv15 | 5時間 | 85% | 75 | [<span class="wiki-icon">📘</span>自己啓発本](/ja/item/self-help-book) | [<span class="wiki-icon">💪</span>自信](/ja/item/confidence) |
+| [<span class="wiki-icon">💌</span>ラブレター](/ja/action/read-love-letter) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv17 | 2時間 | 50% | 75 | [<span class="wiki-icon">💌</span>ラブレター](/ja/item/love-letter) | [<span class="wiki-icon">🔮</span>サイコキネシス](/ja/item/psychokinesis) |
+| [<span class="wiki-icon">🎨</span>美術書](/ja/action/read-art-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv19 | 6時間 | 80% | 75 | [<span class="wiki-icon">🎨</span>美術書](/ja/item/art-book) | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) |
+| [<span class="wiki-icon">📚</span>百科事典](/ja/action/read-encyclopedia) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv21 | 3時間 | 100% | 75 | [<span class="wiki-icon">📚</span>百科事典](/ja/item/encyclopedia) | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) |
 | [<span class="wiki-icon">📕</span>詐欺臨床学](/ja/action/fraud-clinical-studies) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv23 | 10時間 | 70% | 75 | [<span class="wiki-icon">📕</span>はじめての泥棒](/ja/item/beginner-thief-book) | [<span class="wiki-icon">🦊</span>悪知恵](/ja/item/cunning) |
-| [<span class="wiki-icon">🗳️</span>投票用紙を読む](/ja/action/read-ballot) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv26 | 4時間 | 65% | 75 | [<span class="wiki-icon">🗳️</span>投票用紙](/ja/item/ballot) | [<span class="wiki-icon">🎖️</span>リーダーシップ](/ja/item/leadership) |
-| [<span class="wiki-icon">📗</span>レシピ本を読む](/ja/action/read-recipe-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv28 | 14時間 | 100% | 75 | [<span class="wiki-icon">📗</span>レシピ本](/ja/item/recipe-book) | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) |
-| [<span class="wiki-icon">✉️</span>不幸の手紙を読む](/ja/action/read-chain-letter) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv30 | 6時間 | 65% | 75 | [<span class="wiki-icon">✉️</span>不幸の手紙](/ja/item/chain-letter) | [<span class="wiki-icon">🛡️</span>抗体](/ja/item/antibody) |
-| [<span class="wiki-icon">🗺️</span>地図を読む](/ja/action/read-map) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv32 | 18時間 | 50% | 75 | [<span class="wiki-icon">🗺️</span>地図](/ja/item/map)<br>[<span class="wiki-icon">📄</span>住民票](/ja/item/residence-certificate) | [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) |
-| [<span class="wiki-icon">📜</span>歴史書を読む](/ja/action/read-history-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv34 | 8時間 | 70% | 75 | [<span class="wiki-icon">📜</span>歴史書](/ja/item/history-book) | [<span class="wiki-icon">📜</span>歴史知識](/ja/item/history-knowledge) |
-| [<span class="wiki-icon">📖</span>聖書を読む](/ja/action/read-bible) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv36 | 1日 | 70% | 75 | [<span class="wiki-icon">📖</span>聖書](/ja/item/bible) | [<span class="wiki-icon">🔺</span>トライフォース](/ja/item/triforce) |
-| [<span class="wiki-icon">📐</span>数学書を読む](/ja/action/read-math-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv38 | 10時間 | 75% | 75 | [<span class="wiki-icon">📐</span>数学書](/ja/item/math-book) | [<span class="wiki-icon">🧮</span>計算力](/ja/item/calculation) |
-| [<span class="wiki-icon">📕</span>医学書を読む](/ja/action/read-anatomy-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv40 | 1日12時間 | 100% | 75 | [<span class="wiki-icon">📕</span>医学書「解体新書」](/ja/item/anatomy-book) | [<span class="wiki-icon">⚕️</span>医学知識](/ja/item/medical-knowledge) |
-| [<span class="wiki-icon">📕</span>禁書を読む](/ja/action/read-forbidden-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv42 | 16時間 | 60% | 75 | [<span class="wiki-icon">📕</span>禁書](/ja/item/forbidden-book) | [<span class="wiki-icon">🛡️</span>攻性防壁](/ja/item/attack-barrier) |
-| [<span class="wiki-icon">📓</span>デスノートを読む](/ja/action/read-death-note) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv44 | 2日 | 95% | 75 | [<span class="wiki-icon">📓</span>デスノート](/ja/item/death-note) | [<span class="wiki-icon">👁️</span>ニュータイプ](/ja/item/newtype) |
-| [<span class="wiki-icon">📕</span>ネクロノミコンを読む](/ja/action/read-necronomicon) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv46 | 20時間 | 70% | 75 | [<span class="wiki-icon">📕</span>ネクロノミコン](/ja/item/necronomicon) | [<span class="wiki-icon">🩸</span>血鬼術](/ja/item/blood-demon-art) |
+| [<span class="wiki-icon">🗳️</span>投票用紙](/ja/action/read-ballot) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv26 | 4時間 | 65% | 75 | [<span class="wiki-icon">🗳️</span>投票用紙](/ja/item/ballot) | [<span class="wiki-icon">🎖️</span>リーダーシップ](/ja/item/leadership) |
+| [<span class="wiki-icon">📗</span>レシピ本](/ja/action/read-recipe-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv28 | 14時間 | 100% | 75 | [<span class="wiki-icon">📗</span>レシピ本](/ja/item/recipe-book) | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) |
+| [<span class="wiki-icon">✉️</span>不幸の手紙](/ja/action/read-chain-letter) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv30 | 6時間 | 65% | 75 | [<span class="wiki-icon">✉️</span>不幸の手紙](/ja/item/chain-letter) | [<span class="wiki-icon">🛡️</span>抗体](/ja/item/antibody) |
+| [<span class="wiki-icon">🗺️</span>地図](/ja/action/read-map) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv32 | 18時間 | 50% | 75 | [<span class="wiki-icon">🗺️</span>地図](/ja/item/map)<br>[<span class="wiki-icon">📄</span>住民票](/ja/item/residence-certificate) | [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) |
+| [<span class="wiki-icon">📜</span>歴史書](/ja/action/read-history-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv34 | 8時間 | 70% | 75 | [<span class="wiki-icon">📜</span>歴史書](/ja/item/history-book) | [<span class="wiki-icon">📜</span>歴史知識](/ja/item/history-knowledge) |
+| [<span class="wiki-icon">📖</span>聖書](/ja/action/read-bible) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv36 | 1日 | 70% | 75 | [<span class="wiki-icon">📖</span>聖書](/ja/item/bible) | [<span class="wiki-icon">🔺</span>トライフォース](/ja/item/triforce) |
+| [<span class="wiki-icon">📐</span>数学書](/ja/action/read-math-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv38 | 10時間 | 75% | 75 | [<span class="wiki-icon">📐</span>数学書](/ja/item/math-book) | [<span class="wiki-icon">🧮</span>計算力](/ja/item/calculation) |
+| [<span class="wiki-icon">📕</span>医学書「解体新書」](/ja/action/read-anatomy-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv40 | 1日12時間 | 100% | 75 | [<span class="wiki-icon">📕</span>医学書「解体新書」](/ja/item/anatomy-book) | [<span class="wiki-icon">⚕️</span>医学知識](/ja/item/medical-knowledge) |
+| [<span class="wiki-icon">📕</span>禁書](/ja/action/read-forbidden-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv42 | 16時間 | 60% | 75 | [<span class="wiki-icon">📕</span>禁書](/ja/item/forbidden-book) | [<span class="wiki-icon">🛡️</span>攻性防壁](/ja/item/attack-barrier) |
+| [<span class="wiki-icon">📓</span>デスノート](/ja/action/read-death-note) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv44 | 2日 | 95% | 75 | [<span class="wiki-icon">📓</span>デスノート](/ja/item/death-note) | [<span class="wiki-icon">👁️</span>ニュータイプ](/ja/item/newtype) |
+| [<span class="wiki-icon">📕</span>ネクロノミコン](/ja/action/read-necronomicon) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv46 | 20時間 | 70% | 75 | [<span class="wiki-icon">📕</span>ネクロノミコン](/ja/item/necronomicon) | [<span class="wiki-icon">🩸</span>血鬼術](/ja/item/blood-demon-art) |
 | [<span class="wiki-icon">🌌</span>宇宙真理学](/ja/action/cosmic-truth-studies) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv48 | 2日 | 50% | 75 | [<span class="wiki-icon">📜</span>死海文書](/ja/item/dead-sea-scrolls) | [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) |
-| [<span class="wiki-icon">📗</span>ライ麦畑でつかまえてを読む](/ja/action/read-catcher-in-the-rye) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv50 | 1日4時間 | 65% | 75 | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/item/catcher-in-the-rye) | [<span class="wiki-icon">✨</span>フォース](/ja/item/force) |
+| [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/action/read-catcher-in-the-rye) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv50 | 1日4時間 | 65% | 75 | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/item/catcher-in-the-rye) | [<span class="wiki-icon">✨</span>フォース](/ja/item/force) |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -202,33 +202,33 @@
 
 | レベル | 累計経験値 | 開くもの |
 | --- | --- | --- |
-| Lv1 | 0 | [<span class="wiki-icon">📙</span>童話を読む](/ja/action/read-fairy-tale)（実行）<br>[<span class="wiki-icon">📙</span>童話](/ja/item/fairy-tale)（解放）<br>[<span class="wiki-icon">📖</span>絵本](/ja/item/picture-book)（解放）<br>[<span class="wiki-icon">🎓</span>卒業証書](/ja/item/diploma)（解放）<br>[<span class="wiki-icon">🪪</span>免許証](/ja/item/license)（解放） |
-| Lv3 | 211 | [<span class="wiki-icon">📖</span>絵本を読む](/ja/action/read-picture-book)（実行） |
-| Lv5 | 471 | [<span class="wiki-icon">📚</span>漫画を読む](/ja/action/read-manga)（実行） |
-| Lv7 | 791 | [<span class="wiki-icon">📰</span>新聞を読む](/ja/action/read-newspaper)（実行） |
-| Lv9 | 1,186 | [<span class="wiki-icon">🎓</span>卒業証書を読み返す](/ja/action/reread-diploma)（実行）<br>[<span class="wiki-icon">📘</span>自己啓発本](/ja/item/self-help-book)（解放）<br>[<span class="wiki-icon">📗</span>小説](/ja/item/novel)（解放）<br>[<span class="wiki-icon">📚</span>漫画](/ja/item/manga)（解放）<br>[<span class="wiki-icon">📰</span>新聞](/ja/item/newspaper)（解放）<br>[<span class="wiki-icon">💌</span>ラブレター](/ja/item/love-letter)（解放） |
-| Lv11 | 1,672 | [<span class="wiki-icon">🪪</span>免許証を読む](/ja/action/read-license)（実行） |
-| Lv13 | 2,271 | [<span class="wiki-icon">📗</span>小説を読む](/ja/action/read-novel)（実行） |
+| Lv1 | 0 | [<span class="wiki-icon">📙</span>童話](/ja/action/read-fairy-tale)（実行）<br>[<span class="wiki-icon">📙</span>童話](/ja/item/fairy-tale)（解放）<br>[<span class="wiki-icon">📖</span>絵本](/ja/item/picture-book)（解放）<br>[<span class="wiki-icon">🎓</span>卒業証書](/ja/item/diploma)（解放）<br>[<span class="wiki-icon">🪪</span>免許証](/ja/item/license)（解放） |
+| Lv3 | 211 | [<span class="wiki-icon">📖</span>絵本](/ja/action/read-picture-book)（実行） |
+| Lv5 | 471 | [<span class="wiki-icon">📚</span>漫画](/ja/action/read-manga)（実行） |
+| Lv7 | 791 | [<span class="wiki-icon">📰</span>新聞](/ja/action/read-newspaper)（実行） |
+| Lv9 | 1,186 | [<span class="wiki-icon">🎓</span>卒業証書](/ja/action/reread-diploma)（実行）<br>[<span class="wiki-icon">📘</span>自己啓発本](/ja/item/self-help-book)（解放）<br>[<span class="wiki-icon">📗</span>小説](/ja/item/novel)（解放）<br>[<span class="wiki-icon">📚</span>漫画](/ja/item/manga)（解放）<br>[<span class="wiki-icon">📰</span>新聞](/ja/item/newspaper)（解放）<br>[<span class="wiki-icon">💌</span>ラブレター](/ja/item/love-letter)（解放） |
+| Lv11 | 1,672 | [<span class="wiki-icon">🪪</span>免許証](/ja/action/read-license)（実行） |
+| Lv13 | 2,271 | [<span class="wiki-icon">📗</span>小説](/ja/action/read-novel)（実行） |
 | Lv14 | 2,621 | [<span class="wiki-icon">🗳️</span>投票用紙](/ja/item/ballot)（解放）<br>[<span class="wiki-icon">📄</span>住民票](/ja/item/residence-certificate)（解放）<br>[<span class="wiki-icon">📕</span>はじめての泥棒](/ja/item/beginner-thief-book)（解放）<br>[<span class="wiki-icon">📗</span>レシピ本](/ja/item/recipe-book)（解放） |
-| Lv15 | 3,009 | [<span class="wiki-icon">📘</span>自己啓発本を読む](/ja/action/read-self-help-book)（実行） |
-| Lv17 | 3,919 | [<span class="wiki-icon">💌</span>ラブレターを読む](/ja/action/read-love-letter)（実行） |
-| Lv19 | 5,040 | [<span class="wiki-icon">🎨</span>美術書を読む](/ja/action/read-art-book)（実行）<br>[<span class="wiki-icon">✉️</span>不幸の手紙](/ja/item/chain-letter)（解放）<br>[<span class="wiki-icon">🗺️</span>地図](/ja/item/map)（解放） |
-| Lv21 | 6,420 | [<span class="wiki-icon">📚</span>百科事典を読む](/ja/action/read-encyclopedia)（実行） |
+| Lv15 | 3,009 | [<span class="wiki-icon">📘</span>自己啓発本](/ja/action/read-self-help-book)（実行） |
+| Lv17 | 3,919 | [<span class="wiki-icon">💌</span>ラブレター](/ja/action/read-love-letter)（実行） |
+| Lv19 | 5,040 | [<span class="wiki-icon">🎨</span>美術書](/ja/action/read-art-book)（実行）<br>[<span class="wiki-icon">✉️</span>不幸の手紙](/ja/item/chain-letter)（解放）<br>[<span class="wiki-icon">🗺️</span>地図](/ja/item/map)（解放） |
+| Lv21 | 6,420 | [<span class="wiki-icon">📚</span>百科事典](/ja/action/read-encyclopedia)（実行） |
 | Lv23 | 8,121 | [<span class="wiki-icon">📕</span>詐欺臨床学](/ja/action/fraud-clinical-studies)（実行） |
-| Lv26 | 11,441 | [<span class="wiki-icon">🗳️</span>投票用紙を読む](/ja/action/read-ballot)（実行） |
-| Lv28 | 14,308 | [<span class="wiki-icon">📗</span>レシピ本を読む](/ja/action/read-recipe-book)（実行） |
-| Lv30 | 17,840 | [<span class="wiki-icon">✉️</span>不幸の手紙を読む](/ja/action/read-chain-letter)（実行） |
-| Lv32 | 22,191 | [<span class="wiki-icon">🗺️</span>地図を読む](/ja/action/read-map)（実行） |
-| Lv34 | 27,553 | [<span class="wiki-icon">📜</span>歴史書を読む](/ja/action/read-history-book)（実行） |
-| Lv36 | 34,159 | [<span class="wiki-icon">📖</span>聖書を読む](/ja/action/read-bible)（実行） |
-| Lv38 | 42,298 | [<span class="wiki-icon">📐</span>数学書を読む](/ja/action/read-math-book)（実行） |
-| Lv40 | 52,327 | [<span class="wiki-icon">📕</span>医学書を読む](/ja/action/read-anatomy-book)（実行） |
-| Lv42 | 64,683 | [<span class="wiki-icon">📕</span>禁書を読む](/ja/action/read-forbidden-book)（実行） |
-| Lv44 | 79,907 | [<span class="wiki-icon">📓</span>デスノートを読む](/ja/action/read-death-note)（実行） |
-| Lv46 | 98,664 | [<span class="wiki-icon">📕</span>ネクロノミコンを読む](/ja/action/read-necronomicon)（実行） |
+| Lv26 | 11,441 | [<span class="wiki-icon">🗳️</span>投票用紙](/ja/action/read-ballot)（実行） |
+| Lv28 | 14,308 | [<span class="wiki-icon">📗</span>レシピ本](/ja/action/read-recipe-book)（実行） |
+| Lv30 | 17,840 | [<span class="wiki-icon">✉️</span>不幸の手紙](/ja/action/read-chain-letter)（実行） |
+| Lv32 | 22,191 | [<span class="wiki-icon">🗺️</span>地図](/ja/action/read-map)（実行） |
+| Lv34 | 27,553 | [<span class="wiki-icon">📜</span>歴史書](/ja/action/read-history-book)（実行） |
+| Lv36 | 34,159 | [<span class="wiki-icon">📖</span>聖書](/ja/action/read-bible)（実行） |
+| Lv38 | 42,298 | [<span class="wiki-icon">📐</span>数学書](/ja/action/read-math-book)（実行） |
+| Lv40 | 52,327 | [<span class="wiki-icon">📕</span>医学書「解体新書」](/ja/action/read-anatomy-book)（実行） |
+| Lv42 | 64,683 | [<span class="wiki-icon">📕</span>禁書](/ja/action/read-forbidden-book)（実行） |
+| Lv44 | 79,907 | [<span class="wiki-icon">📓</span>デスノート](/ja/action/read-death-note)（実行） |
+| Lv46 | 98,664 | [<span class="wiki-icon">📕</span>ネクロノミコン](/ja/action/read-necronomicon)（実行） |
 | Lv47 | 109,617 | [<span class="wiki-icon">📓</span>デスノート](/ja/item/death-note)（解放） |
 | Lv48 | 121,775 | [<span class="wiki-icon">🌌</span>宇宙真理学](/ja/action/cosmic-truth-studies)（実行） |
-| Lv50 | 150,250 | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえてを読む](/ja/action/read-catcher-in-the-rye)（実行） |
+| Lv50 | 150,250 | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/action/read-catcher-in-the-rye)（実行） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 

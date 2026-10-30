@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💍</span>取れない指輪を作る](/ja/action/craft-stuck-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 3 | 100% |  |
+| [<span class="wiki-icon">💍</span>取れない指輪](/ja/action/craft-stuck-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 3 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><span class="wiki-icon">🗑️</span>ごみ</a> を参照</div></div>
 

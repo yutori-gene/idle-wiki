@@ -21,13 +21,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎁</span>中くらいの宝箱を開ける](/ja/action/open-medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 1 | 100% |  |
+| [<span class="wiki-icon">🎁</span>中くらいの宝箱](/ja/action/open-medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 1 | 100% |  |
 | [<span class="wiki-icon">🕰️</span>おじいさんの時計を直す](/ja/action/repair-grandfather-clock) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv44 | 25 | 100% |  |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品を組む](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 2 | 100% |  |
-| [<span class="wiki-icon">🔩</span>オーブンの部品を作る](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 6 | 100% |  |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品を作る](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 1 | 100% |  |
-| [<span class="wiki-icon">🔩</span>発電機の部品を作る](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv39 | 6 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 25 | 100% |  |
+| [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 2 | 100% |  |
+| [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 6 | 100% |  |
+| [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 1 | 100% |  |
+| [<span class="wiki-icon">🔩</span>発電機の部品](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv39 | 6 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 25 | 100% |  |
 
 ### 条件にしているもの
 

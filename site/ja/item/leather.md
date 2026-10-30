@@ -24,11 +24,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎓</span>学ランを作る](/ja/action/craft-gakuran) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 15 | 100% |  |
-| [<span class="wiki-icon">🥾</span>カウボーイブーツを作る](/ja/action/craft-cowboy-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 15 | 100% |  |
-| [<span class="wiki-icon">⚓</span>セーラー服を作る](/ja/action/craft-sailor-uniform) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
-| [<span class="wiki-icon">🧤</span>軍手を作る](/ja/action/craft-work-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
-| [<span class="wiki-icon">👨‍🍳</span>シェフハットを作る](/ja/action/craft-chef-hat) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 15 | 100% |  |
+| [<span class="wiki-icon">🎓</span>学ラン](/ja/action/craft-gakuran) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 15 | 100% |  |
+| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/action/craft-cowboy-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 15 | 100% |  |
+| [<span class="wiki-icon">⚓</span>セーラー服](/ja/action/craft-sailor-uniform) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
+| [<span class="wiki-icon">🧤</span>軍手](/ja/action/craft-work-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
+| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/action/craft-chef-hat) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 15 | 100% |  |
 
 ## 解放条件
 

@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎸</span>ギターを作る](/ja/action/craft-guitar) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv31 | 1 | 100% | 1 | 0.333 |
+| [<span class="wiki-icon">🎸</span>ギター](/ja/action/craft-guitar) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv31 | 1 | 100% | 1 | 0.333 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎸</span>ギターを分解する](/ja/action/disassemble-guitar) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv29 | 1 | 100% |  |
+| [<span class="wiki-icon">🎸</span>ギター（分解）](/ja/action/disassemble-guitar) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv29 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#606a74"><div class="wiki-navbox-title">グループ: 近接武器</div><div class="wiki-navbox-body"><a href="#/ja/item/wooden-stick"><span class="wiki-icon">🪵</span>木の棒</a> ・ <a href="#/ja/item/green-onion"><span class="wiki-icon">🌱</span>ネギ</a> ・ <a href="#/ja/item/baguette"><span class="wiki-icon">🥖</span>フランスパン</a> ・ <a href="#/ja/item/laundry-pole"><span class="wiki-icon">🎏</span>物干し竿</a> ・ <a href="#/ja/item/frozen-tuna"><span class="wiki-icon">🐟</span>冷凍マグロ</a> ・ <a href="#/ja/item/iron-rod"><span class="wiki-icon">🔩</span>鉄の棒</a> ・ <a href="#/ja/item/hammer"><span class="wiki-icon">🔨</span>ハンマー</a> ・ <a href="#/ja/item/crutch"><span class="wiki-icon">🦯</span>松葉杖</a> ・ <a href="#/ja/item/nail-bat"><span class="wiki-icon">🏏</span>釘バット</a> ・ <a href="#/ja/item/pico-hammer"><span class="wiki-icon">🔨</span>ピコハンマー</a> ・ <a href="#/ja/item/attache-case"><span class="wiki-icon">💼</span>アタッシュケース</a> ・ <a href="#/ja/item/guitar"><span class="wiki-icon">🎸</span>ギター</a> ・ <a href="#/ja/item/sasumata"><span class="wiki-icon">🔱</span>さすまた</a> ・ <a href="#/ja/item/gladius"><span class="wiki-icon">🗡️</span>グラディウス</a> ・ <a href="#/ja/item/double-edged-sword"><span class="wiki-icon">⚔️</span>諸刃の剣</a> ・ <a href="#/ja/item/magical-girl-wand"><span class="wiki-icon">🪄</span>魔法少女のステッキ</a> ・ <a href="#/ja/item/swordfish"><span class="wiki-icon">🐟</span>メカジキ</a> ・ <a href="#/ja/item/sealing-staff"><span class="wiki-icon">🪄</span>封印の杖</a> ・ <a href="#/ja/item/muramasa"><span class="wiki-icon">🗡️</span>ムラマサ</a> ・ <a href="#/ja/item/beam-saber"><span class="wiki-icon">⚔️</span>ビームサーベル</a> ・ <a href="#/ja/item/excalibur"><span class="wiki-icon">⚔️</span>エクスカリバー</a> ・ <a href="#/ja/item/master-sword"><span class="wiki-icon">⚔️</span>マスターソード</a> ・ <a href="#/ja/item/ruyi-staff"><span class="wiki-icon">🪄</span>如意棒</a> ・ <a href="#/ja/item/key-blade"><span class="wiki-icon">🗝️</span>🔑ブレード</a></div></div>
 

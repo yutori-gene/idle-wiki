@@ -23,7 +23,7 @@
 | [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv18 | 1 | 100% |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv21 | 1 | 100% |  |
 | [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 1 | 100% |  |
-| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 9 | 100% |  |
+| [<span class="wiki-icon">🍞</span>パン生地](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 9 | 100% |  |
 | [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 3 | 100% |  |
 
 ### 条件にしているもの

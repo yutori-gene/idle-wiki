@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪢</span>愛の鞭を作る](/ja/action/craft-whip-of-love) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv34 | 1 | 100% | 1 | 0.286 |
+| [<span class="wiki-icon">🪢</span>愛の鞭](/ja/action/craft-whip-of-love) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv34 | 1 | 100% | 1 | 0.286 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪢</span>愛の鞭を分解する](/ja/action/disassemble-whip-of-love) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv33 | 1 | 100% |  |
+| [<span class="wiki-icon">🪢</span>愛の鞭（分解）](/ja/action/disassemble-whip-of-love) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv33 | 1 | 100% |  |
 
 ## 解放条件
 

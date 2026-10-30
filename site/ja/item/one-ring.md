@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💍</span>一つの指輪を作る](/ja/action/craft-one-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv43 | 1 | 100% | 1 | 0.222 |
+| [<span class="wiki-icon">💍</span>一つの指輪](/ja/action/craft-one-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv43 | 1 | 100% | 1 | 0.222 |
 
 <div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: 指輪</div><div class="wiki-navbox-body"><a href="#/ja/item/edible-ring"><span class="wiki-icon">🍩</span>食べられる指輪</a> ・ <a href="#/ja/item/silver-ring"><span class="wiki-icon">💍</span>銀の指輪</a> ・ <a href="#/ja/item/baumkuchen"><span class="wiki-icon">🍩</span>バウムクーヘン</a> ・ <a href="#/ja/item/wedding-ring"><span class="wiki-icon">💍</span>結婚指輪</a> ・ <a href="#/ja/item/stuck-ring"><span class="wiki-icon">💍</span>取れない指輪</a> ・ <a href="#/ja/item/smart-ring"><span class="wiki-icon">⌚</span>スマートリング</a> ・ <a href="#/ja/item/diamond-ring"><span class="wiki-icon">💍</span>ダイヤモンドの指輪</a> ・ <a href="#/ja/item/glowing-ring"><span class="wiki-icon">💍</span>光る指輪</a> ・ <a href="#/ja/item/spinning-ring"><span class="wiki-icon">💫</span>高速回転してる指輪</a> ・ <a href="#/ja/item/ring-of-power"><span class="wiki-icon">💍</span>力の指輪</a> ・ <a href="#/ja/item/red-string-of-fate"><span class="wiki-icon">🧵</span>運命の赤い糸</a> ・ <a href="#/ja/item/dragon-ring"><span class="wiki-icon">💍</span>ドラゴンの指輪</a> ・ <a href="#/ja/item/soul-gem"><span class="wiki-icon">💠</span>ソウルジェム</a> ・ <a href="#/ja/item/kryptonite"><span class="wiki-icon">🟢</span>クリプトナイト</a> ・ <a href="#/ja/item/one-ring"><span class="wiki-icon">💍</span>一つの指輪</a></div></div>
 

@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎼</span>時のリコーダーを作る](/ja/action/craft-recorder-of-time) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv45 | 120 | 100% | 120 | 26.7 |
+| [<span class="wiki-icon">🎼</span>時のリコーダー](/ja/action/craft-recorder-of-time) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv45 | 120 | 100% | 120 | 26.7 |
 
 ## 解放条件
 

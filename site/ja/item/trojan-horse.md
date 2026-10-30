@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐴</span>トロイの木馬を作る](/ja/action/craft-trojan-horse) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% | 1 | 0.2 |
+| [<span class="wiki-icon">🐴</span>トロイの木馬](/ja/action/craft-trojan-horse) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 1 | 100% | 1 | 0.2 |
 
 ## 解放条件
 

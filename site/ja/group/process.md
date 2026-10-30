@@ -7,8 +7,8 @@
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 連続 |
-| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 連続 |
+| [<span class="wiki-icon">🍞</span>パン](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 連続 |
+| [<span class="wiki-icon">🍞</span>パン生地](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 連続 |
 
 ## 開発者向け情報
 

@@ -1,6 +1,6 @@
-# スマートリングを作る
+# スマートリング
 
-<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">スマートリングを作る</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⌚</span></div><table><tr><th>場所</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>1時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">スマートリング</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⌚</span></div><table><tr><th>場所</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>1時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 小銭ほどの基板を輪にする。目指せ毎日１万歩。
 
@@ -65,7 +65,7 @@
 {
 	"information": {
 		"id": "craft-smart-ring",
-		"name": "スマートリングを作る",
+		"name": "スマートリング",
 		"explanation": "小銭ほどの基板を輪にする。目指せ毎日１万歩。",
 		"icon": {
 			"emoji": "⌚",

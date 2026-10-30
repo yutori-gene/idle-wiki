@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💋</span>投げキッスを作る](/ja/action/craft-blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv37 | 1 | 100% | 1 | 0.286 |
+| [<span class="wiki-icon">💋</span>投げキッス](/ja/action/craft-blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv37 | 1 | 100% | 1 | 0.286 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💋</span>投げキッスを分解する](/ja/action/disassemble-blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv37 | 1 | 100% |  |
+| [<span class="wiki-icon">💋</span>投げキッス（分解）](/ja/action/disassemble-blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv37 | 1 | 100% |  |
 
 ## 解放条件
 

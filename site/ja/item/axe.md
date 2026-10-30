@@ -21,7 +21,7 @@
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
 | [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">🪓</span>斧](/ja/item/axe) ×1（消費しない） |
-| [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | [<span class="wiki-icon">🪓</span>斧](/ja/item/axe) ×1（消費しない） |
+| [<span class="wiki-icon">🪵</span>木の宝箱](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | [<span class="wiki-icon">🪓</span>斧](/ja/item/axe) ×1（消費しない） |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">49件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 

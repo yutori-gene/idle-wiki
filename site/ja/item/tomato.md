@@ -28,7 +28,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv31 | 2 | 100% |  |
-| [<span class="wiki-icon">🍅</span>トマトを分解する](/ja/action/disassemble-tomato) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv9 | 1 | 100% |  |
+| [<span class="wiki-icon">🍅</span>トマト（分解）](/ja/action/disassemble-tomato) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv9 | 1 | 100% |  |
 
 ## 解放条件
 

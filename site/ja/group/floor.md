@@ -7,9 +7,9 @@
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏖️</span>砂の城を作る](/ja/action/craft-sand-castle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 | 単発 |
+| [<span class="wiki-icon">🏖️</span>砂の城](/ja/action/craft-sand-castle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 | 単発 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯を織る](/ja/action/weave-flying-carpet) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv33 | 単発 |
-| [<span class="wiki-icon">🕺</span>踊る銅像を作る](/ja/action/craft-dancing-statue) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv37 | 単発 |
+| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/action/craft-dancing-statue) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv37 | 単発 |
 | [<span class="wiki-icon">🕰️</span>おじいさんの時計を直す](/ja/action/repair-grandfather-clock) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv44 | 単発 |
 
 ## アイテム

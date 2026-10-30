@@ -29,13 +29,13 @@
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 0.833% |  |
 | [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 1 | 0.185% |  |
-| [<span class="wiki-icon">🔥</span>松明を分解する](/ja/action/disassemble-torch) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv27 | 1 | 100% |  |
+| [<span class="wiki-icon">🔥</span>松明（分解）](/ja/action/disassemble-torch) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv27 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🎃</span>かぼちゃの馬車](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) ×1（装備が必要・消費しない） |
 
 <div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 腕部装備</div><div class="wiki-navbox-body"><a href="#/ja/item/mitten"><span class="wiki-icon">🧤</span>ミトン</a> ・ <a href="#/ja/item/cloth-gloves"><span class="wiki-icon">🧤</span>布の手袋</a> ・ <a href="#/ja/item/rubber-gloves"><span class="wiki-icon">🧤</span>ゴム手袋</a> ・ <a href="#/ja/item/back-scratcher"><span class="wiki-icon">🩱</span>孫の手</a> ・ <a href="#/ja/item/work-gloves"><span class="wiki-icon">🧤</span>軍手</a> ・ <a href="#/ja/item/cat-paw"><span class="wiki-icon">🐾</span>ネコの手</a> ・ <a href="#/ja/item/lantern"><span class="wiki-icon">🏮</span>ランタン</a> ・ <a href="#/ja/item/helping-hand"><span class="wiki-icon">🤲</span>救いの手</a> ・ <a href="#/ja/item/torch"><span class="wiki-icon">🔥</span>松明</a> ・ <a href="#/ja/item/six-finger-glove"><span class="wiki-icon">🧤</span>6本指の手袋</a> ・ <a href="#/ja/item/leather-gloves"><span class="wiki-icon">🧤</span>革の手袋</a> ・ <a href="#/ja/item/crab-claw"><span class="wiki-icon">🦀</span>カニのハサミ</a> ・ <a href="#/ja/item/iron-gauntlet"><span class="wiki-icon">🧤</span>鉄の籠手</a> ・ <a href="#/ja/item/anesthetic-watch"><span class="wiki-icon">⏰</span>麻酔時計</a> ・ <a href="#/ja/item/command-spell"><span class="wiki-icon">🔺</span>令呪</a> ・ <a href="#/ja/item/aegis"><span class="wiki-icon">🛡️</span>ゼウスの盾</a> ・ <a href="#/ja/item/contradiction"><span class="wiki-icon">🛡️</span>矛盾</a> ・ <a href="#/ja/item/infinity-gauntlet"><span class="wiki-icon">🧤</span>無限の手袋</a></div></div>
 

@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛄</span>雪玉を作る](/ja/action/craft-snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv14 | 40 | 100% | 40 | 26.7 |
+| [<span class="wiki-icon">⛄</span>雪玉](/ja/action/craft-snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv14 | 40 | 100% | 40 | 26.7 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛄</span>雪玉を分解する](/ja/action/disassemble-snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv16 | 1 | 100% |  |
+| [<span class="wiki-icon">⛄</span>雪玉（分解）](/ja/action/disassemble-snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv16 | 1 | 100% |  |
 
 ## 解放条件
 

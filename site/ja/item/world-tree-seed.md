@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🌳</span>世界樹の葉](/ja/action/grow-world-tree-leaf) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv50 | 1 | 43.2% | 0.302 | 0.008 |
-| [<span class="wiki-icon">🌈</span>虹色の宝箱を開ける](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv44 | 3 | 14.4% | 0.389 | 0.778 |
+| [<span class="wiki-icon">🌈</span>虹色の宝箱](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv44 | 3 | 14.4% | 0.389 | 0.778 |
 
 ### 購入
 

@@ -25,9 +25,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👊</span>ロケットパンチを作る](/ja/action/craft-rocket-punch) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv28 | 3 | 100% |  |
-| [<span class="wiki-icon">💍</span>力の指輪を作る](/ja/action/craft-ring-of-power) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv29 | 3 | 100% |  |
-| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機を作る](/ja/action/craft-bowtie-voice-changer) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv30 | 2 | 100% |  |
+| [<span class="wiki-icon">👊</span>ロケットパンチ](/ja/action/craft-rocket-punch) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv28 | 3 | 100% |  |
+| [<span class="wiki-icon">💍</span>力の指輪](/ja/action/craft-ring-of-power) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv29 | 3 | 100% |  |
+| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機](/ja/action/craft-bowtie-voice-changer) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv30 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

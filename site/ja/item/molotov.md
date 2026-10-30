@@ -28,7 +28,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 | 1 | 0.444% |  |
-| [<span class="wiki-icon">🍾</span>火炎ビンを分解する](/ja/action/disassemble-molotov) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv27 | 1 | 100% |  |
+| [<span class="wiki-icon">🍾</span>火炎ビン（分解）](/ja/action/disassemble-molotov) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv27 | 1 | 100% |  |
 
 ## 解放条件
 

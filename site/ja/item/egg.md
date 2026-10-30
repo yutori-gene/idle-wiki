@@ -31,7 +31,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv10 | 1 | 1.58% |  |
 | [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 0.315% |  |
-| [<span class="wiki-icon">🥚</span>卵を分解する](/ja/action/disassemble-egg) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv1 | 1 | 100% |  |
+| [<span class="wiki-icon">🥚</span>卵（分解）](/ja/action/disassemble-egg) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv1 | 1 | 100% |  |
 
 ## 解放条件
 

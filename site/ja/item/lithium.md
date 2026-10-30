@@ -20,11 +20,11 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🤖</span>R2D2](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv35 | 2 | 100% |  |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 34 | 100% |  |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品を作る](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 8 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品を作る](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv35 | 40 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品を作る](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 50 | 100% |  |
-| [<span class="wiki-icon">🔋</span>リチウムバッテリーを作る](/ja/action/craft-lithium-battery) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv31 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 34 | 100% |  |
+| [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 8 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv35 | 40 | 100% |  |
+| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 50 | 100% |  |
+| [<span class="wiki-icon">🔋</span>リチウムバッテリー](/ja/action/craft-lithium-battery) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv31 | 3 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

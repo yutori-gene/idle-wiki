@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📚</span>漫画を読む](/ja/action/read-manga) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv5 | 1 | 100% | 0.85 | 0.85 |
+| [<span class="wiki-icon">📚</span>漫画](/ja/action/read-manga) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv5 | 1 | 100% | 0.85 | 0.85 |
 
 <div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 知識</div><div class="wiki-navbox-body"><a href="#/ja/item/imagination"><span class="wiki-icon">💭</span>想像力</a> ・ <a href="#/ja/item/concentration"><span class="wiki-icon">🎯</span>集中力</a> ・ <a href="#/ja/item/current-affairs"><span class="wiki-icon">📰</span>時事知識</a> ・ <a href="#/ja/item/sensitivity"><span class="wiki-icon">💗</span>感受性</a> ・ <a href="#/ja/item/reading-comprehension"><span class="wiki-icon">📖</span>読解力</a> ・ <a href="#/ja/item/confidence"><span class="wiki-icon">💪</span>自信</a> ・ <a href="#/ja/item/erudition"><span class="wiki-icon">🧠</span>博識</a> ・ <a href="#/ja/item/aesthetic-eye"><span class="wiki-icon">🎨</span>審美眼</a> ・ <a href="#/ja/item/cunning"><span class="wiki-icon">🦊</span>悪知恵</a> ・ <a href="#/ja/item/cooking-knowledge"><span class="wiki-icon">🍳</span>料理知識</a> ・ <a href="#/ja/item/geography-knowledge"><span class="wiki-icon">🗺️</span>地理知識</a> ・ <a href="#/ja/item/history-knowledge"><span class="wiki-icon">📜</span>歴史知識</a> ・ <a href="#/ja/item/calculation"><span class="wiki-icon">🧮</span>計算力</a> ・ <a href="#/ja/item/medical-knowledge"><span class="wiki-icon">⚕️</span>医学知識</a> ・ <a href="#/ja/item/law-of-all-things"><span class="wiki-icon">🌌</span>万物の理</a></div></div>
 

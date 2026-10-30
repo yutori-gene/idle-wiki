@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛑️</span>鉄の兜を作る](/ja/action/craft-iron-helmet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv32 | 1 | 100% | 1 | 0.333 |
+| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/action/craft-iron-helmet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv32 | 1 | 100% | 1 | 0.333 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛑️</span>鉄の兜を分解する](/ja/action/disassemble-iron-helmet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv31 | 1 | 100% |  |
+| [<span class="wiki-icon">⛑️</span>鉄の兜（分解）](/ja/action/disassemble-iron-helmet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv31 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 頭部防具</div><div class="wiki-navbox-body"><a href="#/ja/item/fake-beard"><span class="wiki-icon">🧔</span>つけ髭</a> ・ <a href="#/ja/item/pot-helmet"><span class="wiki-icon">🍲</span>鍋かぶと</a> ・ <a href="#/ja/item/red-hood"><span class="wiki-icon">🧕</span>赤ずきん</a> ・ <a href="#/ja/item/bunny-ears"><span class="wiki-icon">🐰</span>ウサミミ</a> ・ <a href="#/ja/item/chef-hat"><span class="wiki-icon">👨‍🍳</span>シェフハット</a> ・ <a href="#/ja/item/mask"><span class="wiki-icon">😷</span>マスク</a> ・ <a href="#/ja/item/glasses"><span class="wiki-icon">👓</span>メガネ</a> ・ <a href="#/ja/item/eyepatch"><span class="wiki-icon">🩹</span>アイパッチ</a> ・ <a href="#/ja/item/laurel-crown"><span class="wiki-icon">🏆</span>月桂冠</a> ・ <a href="#/ja/item/dentures"><span class="wiki-icon">🦷</span>入れ歯</a> ・ <a href="#/ja/item/scouter"><span class="wiki-icon">🥽</span>スカウター</a> ・ <a href="#/ja/item/iron-helmet"><span class="wiki-icon">⛑️</span>鉄の兜</a> ・ <a href="#/ja/item/daruma"><span class="wiki-icon">🎎</span>だるま</a> ・ <a href="#/ja/item/pumpkin-head"><span class="wiki-icon">🎃</span>パンプキンヘッド</a> ・ <a href="#/ja/item/wedding-veil"><span class="wiki-icon">👰</span>ウエディングベール</a> ・ <a href="#/ja/item/silk-hat"><span class="wiki-icon">🎩</span>絹の帽子</a> ・ <a href="#/ja/item/crown"><span class="wiki-icon">👑</span>王冠</a> ・ <a href="#/ja/item/jade-hairpin"><span class="wiki-icon">💚</span>翡翠のかんざし</a> ・ <a href="#/ja/item/void-ring"><span class="wiki-icon">⚫</span>虚無のリング</a> ・ <a href="#/ja/item/six-eyes"><span class="wiki-icon">👁️</span>六眼の瞳</a> ・ <a href="#/ja/item/crystal-skull"><span class="wiki-icon">💀</span>クリスタルスカル</a> ・ <a href="#/ja/item/sharingan"><span class="wiki-icon">👁️</span>写輪眼</a> ・ <a href="#/ja/item/halo"><span class="wiki-icon">😇</span>天使の輪</a></div></div>
 

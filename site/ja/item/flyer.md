@@ -24,7 +24,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎉</span>パーティークラッカーを作る](/ja/action/craft-party-popper) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv17 | 3 | 100% |  |
+| [<span class="wiki-icon">🎉</span>パーティークラッカー](/ja/action/craft-party-popper) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv17 | 3 | 100% |  |
 
 ### 条件にしているもの
 

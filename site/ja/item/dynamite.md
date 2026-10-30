@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧨</span>ダイナマイトを作る](/ja/action/craft-dynamite) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv35 | 93 | 100% | 93 | 26.6 |
+| [<span class="wiki-icon">🧨</span>ダイナマイト](/ja/action/craft-dynamite) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv35 | 93 | 100% | 93 | 26.6 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧨</span>ダイナマイトを分解する](/ja/action/disassemble-dynamite) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 1 | 100% |  |
+| [<span class="wiki-icon">🧨</span>ダイナマイト（分解）](/ja/action/disassemble-dynamite) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 1 | 100% |  |
 
 ## 解放条件
 

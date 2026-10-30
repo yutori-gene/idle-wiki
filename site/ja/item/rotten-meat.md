@@ -26,7 +26,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 1 | 2.25% |  |
-| [<span class="wiki-icon">🔴</span>賢者の石を作る](/ja/action/craft-philosophers-stone) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv17 | 15 | 100% |  |
+| [<span class="wiki-icon">🔴</span>賢者の石](/ja/action/craft-philosophers-stone) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv17 | 15 | 100% |  |
 
 ## 解放条件
 

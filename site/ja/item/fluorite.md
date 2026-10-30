@@ -25,8 +25,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 2 | 1.17% |  |
-| [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv11 | 3 | 100% |  |
-| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv13 | 2 | 100% |  |
+| [<span class="wiki-icon">✨</span>発光する薬](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv11 | 3 | 100% |  |
+| [<span class="wiki-icon">🧪</span>エーテル](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv13 | 2 | 100% |  |
 | [<span class="wiki-icon">🪶</span>孔雀の羽を束ねる](/ja/action/bundle-peacock-feather) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv21 | 2 | 100% |  |
 
 ## 解放条件

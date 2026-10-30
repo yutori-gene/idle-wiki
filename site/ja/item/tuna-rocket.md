@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🚀</span>マグロケットを作る](/ja/action/craft-tuna-rocket) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 133 | 100% | 133 | 26.6 |
+| [<span class="wiki-icon">🚀</span>マグロケット](/ja/action/craft-tuna-rocket) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 133 | 100% | 133 | 26.6 |
 
 ## 解放条件
 

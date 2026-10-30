@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥤</span>メントス入りソーダを作る](/ja/action/craft-mentos-soda) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv13 | 10 | 100% | 10 | 6.7 |
+| [<span class="wiki-icon">🥤</span>メントス入りソーダ](/ja/action/craft-mentos-soda) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv13 | 10 | 100% | 10 | 6.7 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥤</span>メントス入りソーダを分解する](/ja/action/disassemble-mentos-soda) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv13 | 1 | 100% |  |
+| [<span class="wiki-icon">🥤</span>メントス入りソーダ（分解）](/ja/action/disassemble-mentos-soda) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv13 | 1 | 100% |  |
 
 ## 解放条件
 

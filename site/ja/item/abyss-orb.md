@@ -21,8 +21,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔴</span>モンスターボールを作る](/ja/action/craft-monster-ball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv44 | 1 | 100% |  |
-| [<span class="wiki-icon">🍀</span>99葉のクローバーを作る](/ja/action/craft-ninety-nine-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv47 | 1 | 100% |  |
+| [<span class="wiki-icon">🔴</span>モンスターボール](/ja/action/craft-monster-ball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv44 | 1 | 100% |  |
+| [<span class="wiki-icon">🍀</span>99葉のクローバー](/ja/action/craft-ninety-nine-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv47 | 1 | 100% |  |
 
 ### 条件にしているもの
 

@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏖️</span>砂の城を作る](/ja/action/craft-sand-castle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 | 10 | 100% |  |
+| [<span class="wiki-icon">🏖️</span>砂の城](/ja/action/craft-sand-castle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 | 10 | 100% |  |
 | [<span class="wiki-icon">✉️</span>ボトルメールを封じる](/ja/action/seal-message-in-a-bottle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv18 | 5 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>

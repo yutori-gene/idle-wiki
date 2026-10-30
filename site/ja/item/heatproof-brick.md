@@ -20,9 +20,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>かまどの部品を作る](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv46 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>暖炉の部品を作る](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv50 | 13 | 100% |  |
-| [<span class="wiki-icon">🗡️</span>グラディウスを作る](/ja/action/craft-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv33 | 2 | 100% |  |
+| [<span class="wiki-icon">🔩</span>かまどの部品](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv46 | 4 | 100% |  |
+| [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv50 | 13 | 100% |  |
+| [<span class="wiki-icon">🗡️</span>グラディウス](/ja/action/craft-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv33 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv40 | 190 | 100% | 190 | 456 |
+| [<span class="wiki-icon">💧</span>聖水](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv40 | 190 | 100% | 190 | 456 |
 
 ## 用途
 
@@ -21,7 +21,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.317% |  |
 | [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.533% |  |
-| [<span class="wiki-icon">🕍</span>聖櫃を開ける](/ja/action/open-ark-of-covenant) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv36 | 1 | 100% |  |
+| [<span class="wiki-icon">🕍</span>聖櫃](/ja/action/open-ark-of-covenant) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv36 | 1 | 100% |  |
 
 ## 解放条件
 

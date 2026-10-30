@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌕</span>元気玉を作る](/ja/action/craft-spirit-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 133 | 100% | 133 | 26.6 |
+| [<span class="wiki-icon">🌕</span>元気玉](/ja/action/craft-spirit-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 133 | 100% | 133 | 26.6 |
 
 ## 解放条件
 

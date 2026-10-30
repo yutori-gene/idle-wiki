@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv23 | 2 | 100% |  |
-| [<span class="wiki-icon">⚔️</span>諸刃の剣を作る](/ja/action/craft-double-edged-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv37 | 2 | 100% |  |
-| [<span class="wiki-icon">👟</span>キック力増強シューズを作る](/ja/action/craft-kick-boost-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv33 | 2 | 100% |  |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv23 | 2 | 100% |  |
+| [<span class="wiki-icon">⚔️</span>諸刃の剣](/ja/action/craft-double-edged-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv37 | 2 | 100% |  |
+| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/action/craft-kick-boost-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv33 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

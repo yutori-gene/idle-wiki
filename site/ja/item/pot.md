@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍲</span>鍋を買う](/ja/action/buy-pot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 1 | 100% | 1 | 36,000 |
+| [<span class="wiki-icon">🍲</span>鍋](/ja/action/buy-pot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 

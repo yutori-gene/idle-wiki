@@ -34,7 +34,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪵</span>木の棒を分解する](/ja/action/disassemble-wooden-stick) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv1 | 1 | 100% |  |
+| [<span class="wiki-icon">🪵</span>木の棒（分解）](/ja/action/disassemble-wooden-stick) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv1 | 1 | 100% |  |
 
 ## 解放条件
 

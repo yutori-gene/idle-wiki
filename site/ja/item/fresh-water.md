@@ -21,7 +21,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv11 | 2 | 100% |  |
-| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 3 | 100% |  |
+| [<span class="wiki-icon">🍞</span>パン生地](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 3 | 100% |  |
 
 ## 解放条件
 

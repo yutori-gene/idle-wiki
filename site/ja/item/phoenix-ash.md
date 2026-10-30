@@ -12,8 +12,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/action/play-with-fire-bird) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv43 | 1 | 100% | 0.8 | 0.089 |
-| [<span class="wiki-icon">🎁</span>巨大な宝箱を開ける](/ja/action/open-giant-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv30 | 1 | 59.7% | 0.388 | 5.8 |
-| [<span class="wiki-icon">🎃</span>かぼちゃの馬車を開ける](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv33 | 2 | 59.7% | 1.2 | 4.8 |
+| [<span class="wiki-icon">🎁</span>巨大な宝箱](/ja/action/open-giant-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv30 | 1 | 59.7% | 0.388 | 5.8 |
+| [<span class="wiki-icon">🎃</span>かぼちゃの馬車](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv33 | 2 | 59.7% | 1.2 | 4.8 |
 
 ## 用途
 
@@ -21,7 +21,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv23 | 2 | 100% |  |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv23 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

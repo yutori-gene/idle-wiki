@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦺</span>防弾チョッキを作る](/ja/action/craft-bulletproof-vest) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv31 | 1 | 100% | 1 | 0.333 |
+| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/action/craft-bulletproof-vest) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv31 | 1 | 100% | 1 | 0.333 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦺</span>防弾チョッキを分解する](/ja/action/disassemble-bulletproof-vest) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv32 | 1 | 100% |  |
+| [<span class="wiki-icon">🦺</span>防弾チョッキ（分解）](/ja/action/disassemble-bulletproof-vest) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv32 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 胴体装備</div><div class="wiki-navbox-body"><a href="#/ja/item/apron"><span class="wiki-icon">🥼</span>エプロン</a> ・ <a href="#/ja/item/tank-top"><span class="wiki-icon">🎽</span>タンクトップ</a> ・ <a href="#/ja/item/farmer-work-clothes"><span class="wiki-icon">👨‍🌾</span>農夫の作業着</a> ・ <a href="#/ja/item/raincoat"><span class="wiki-icon">☂️</span>雨具</a> ・ <a href="#/ja/item/sailor-uniform"><span class="wiki-icon">⚓</span>セーラー服</a> ・ <a href="#/ja/item/gakuran"><span class="wiki-icon">🎓</span>学ラン</a> ・ <a href="#/ja/item/belly-warmer"><span class="wiki-icon">🩹</span>腹巻き</a> ・ <a href="#/ja/item/emperors-new-clothes"><span class="wiki-icon">👑</span>裸の王様の服</a> ・ <a href="#/ja/item/leather-breastplate"><span class="wiki-icon">🥋</span>革の胸当</a> ・ <a href="#/ja/item/silk-clothes"><span class="wiki-icon">👘</span>絹の服</a> ・ <a href="#/ja/item/chainmail"><span class="wiki-icon">⛓️</span>チェインメイル</a> ・ <a href="#/ja/item/bulletproof-vest"><span class="wiki-icon">🦺</span>防弾チョッキ</a> ・ <a href="#/ja/item/bikini-armor"><span class="wiki-icon">👙</span>ビキニアーマー</a> ・ <a href="#/ja/item/iron-breastplate"><span class="wiki-icon">🥋</span>鉄の胸当</a> ・ <a href="#/ja/item/scale-mail"><span class="wiki-icon">🥋</span>スケイルメイル</a> ・ <a href="#/ja/item/priest-robe"><span class="wiki-icon">👘</span>僧侶の法衣</a> ・ <a href="#/ja/item/royal-formal-dress"><span class="wiki-icon">👑</span>王族の正装</a> ・ <a href="#/ja/item/god-robe"><span class="wiki-icon">👘</span>神衣</a> ・ <a href="#/ja/item/plug-suit"><span class="wiki-icon">🅿️</span>プラグスーツ</a> ・ <a href="#/ja/item/holy-cloth"><span class="wiki-icon">👘</span>聖衣</a> ・ <a href="#/ja/item/box-gundam"><span class="wiki-icon">🤖</span>箱ガンダム</a></div></div>
 

@@ -1,6 +1,6 @@
-# ランタンを分解する
+# ランタン（分解）
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">ランタンを分解する</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏮</span></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>所要時間</th><td>20分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">ランタン（分解）</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏮</span></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>所要時間</th><td>20分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ランタンを解体して革に戻す。
 
@@ -64,7 +64,7 @@
 {
 	"information": {
 		"id": "disassemble-lantern",
-		"name": "ランタンを分解する",
+		"name": "ランタン（分解）",
 		"explanation": "ランタンを解体して革に戻す。",
 		"icon": {
 			"emoji": "🏮",

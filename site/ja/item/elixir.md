@@ -15,7 +15,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv48 | 304 | 100% | 228 | 456 |
+| [<span class="wiki-icon">🧪</span>エリクサー](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv48 | 304 | 100% | 228 | 456 |
 
 ## 用途
 
@@ -23,8 +23,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv44 | 12 | 100% |  |
-| [<span class="wiki-icon">🍀</span>フェリックスフェリシスの調合](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv50 | 7 | 100% |  |
+| [<span class="wiki-icon">💊</span>万能薬](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv44 | 12 | 100% |  |
+| [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv50 | 7 | 100% |  |
 
 ## 解放条件
 

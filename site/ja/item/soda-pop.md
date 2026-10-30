@@ -17,8 +17,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>泡立つ薬の調合](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv7 | 1 | 100% |  |
-| [<span class="wiki-icon">🥤</span>メントス入りソーダを作る](/ja/action/craft-mentos-soda) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv13 | 3 | 100% |  |
+| [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv7 | 1 | 100% |  |
+| [<span class="wiki-icon">🥤</span>メントス入りソーダ](/ja/action/craft-mentos-soda) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv13 | 3 | 100% |  |
 
 ## 解放条件
 

@@ -1,6 +1,6 @@
-# シェフハットを作る
+# シェフハット
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">シェフハットを作る</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👨‍🍳</span></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>1時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">シェフハット</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👨‍🍳</span></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>1時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 材料を組み合わせてシェフハットを作る。
 
@@ -65,7 +65,7 @@
 {
 	"information": {
 		"id": "craft-chef-hat",
-		"name": "シェフハットを作る",
+		"name": "シェフハット",
 		"explanation": "材料を組み合わせてシェフハットを作る。",
 		"icon": {
 			"emoji": "👨‍🍳",

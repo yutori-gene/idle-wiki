@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💰</span>大秘宝を開ける](/ja/action/open-great-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv18 | 1 | 60% | 0.6 | 18 |
+| [<span class="wiki-icon">💰</span>大秘宝](/ja/action/open-great-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv18 | 1 | 60% | 0.6 | 18 |
 
 ### イベント
 

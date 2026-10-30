@@ -47,9 +47,9 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧙</span>シャーマン](/ja/action/shaman) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 | 3 | 1.17% |  |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾の調合](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv23 | 2 | 100% |  |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv23 | 2 | 100% |  |
 | [<span class="wiki-icon">🪶</span>孔雀の羽を束ねる](/ja/action/bundle-peacock-feather) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv21 | 12 | 100% |  |
-| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品を作る](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 3 | 100% |  |
+| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv1 | 3 | 100% |  |
 
 ## 解放条件
 

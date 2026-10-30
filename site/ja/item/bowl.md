@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥣</span>ボウルを買う](/ja/action/buy-bowl) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv5 | 1 | 100% | 1 | 36,000 |
+| [<span class="wiki-icon">🥣</span>ボウル](/ja/action/buy-bowl) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv5 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（消費しない） |
+| [<span class="wiki-icon">🍞</span>パン生地](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（消費しない） |
 | [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（消費しない） |
 | [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（消費しない） |
 

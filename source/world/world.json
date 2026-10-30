@@ -12400,7 +12400,7 @@
 		{
 			"information": {
 				"id": "harvest-honey",
-				"name": "蜂蜜の採取",
+				"name": "蜂蜜",
 				"explanation": "巣箱から蜂蜜を採取する。",
 				"icon": {
 					"emoji": "🍯",
@@ -14195,7 +14195,7 @@
 		{
 			"information": {
 				"id": "buy-pot",
-				"name": "鍋を買う",
+				"name": "鍋",
 				"explanation": "煮る・茹でる・煮込む。深さがそのまま料理の幅になる。",
 				"icon": {
 					"emoji": "🍲",
@@ -14243,7 +14243,7 @@
 		{
 			"information": {
 				"id": "buy-bowl",
-				"name": "ボウルを買う",
+				"name": "ボウル",
 				"explanation": "混ぜる、盛る、顔を洗う。",
 				"icon": {
 					"emoji": "🥣",
@@ -14291,7 +14291,7 @@
 		{
 			"information": {
 				"id": "buy-frying-pan",
-				"name": "フライパンを買う",
+				"name": "フライパン",
 				"explanation": "料理も戦闘もこなす万能選手。台所はここから始まる。",
 				"icon": {
 					"emoji": "🍳",
@@ -14339,7 +14339,7 @@
 		{
 			"information": {
 				"id": "buy-steamer",
-				"name": "蒸籠を買う",
+				"name": "蒸籠",
 				"explanation": "湯気で料理を優しく仕上げる。",
 				"icon": {
 					"emoji": "🥟",
@@ -14387,7 +14387,7 @@
 		{
 			"information": {
 				"id": "bake-bread",
-				"name": "パンを焼く",
+				"name": "パン",
 				"explanation": "膨らむのを信じて扉を閉める。開けるのは焼き上がってから。",
 				"icon": {
 					"emoji": "🍞",
@@ -14455,7 +14455,7 @@
 		{
 			"information": {
 				"id": "knead-bread-dough",
-				"name": "パン生地をこねる",
+				"name": "パン生地",
 				"explanation": "小麦と水だけ。あとは寝かせて待つ。焼く前の可能性。",
 				"icon": {
 					"emoji": "🍞",
@@ -15455,7 +15455,7 @@
 		{
 			"information": {
 				"id": "read-fairy-tale",
-				"name": "童話を読む",
+				"name": "童話",
 				"explanation": "教訓の隠し場所を探しながら読む。見つかるとは限らない。",
 				"icon": {
 					"emoji": "📙",
@@ -15503,7 +15503,7 @@
 		{
 			"information": {
 				"id": "read-picture-book",
-				"name": "絵本を読む",
+				"name": "絵本",
 				"explanation": "字より先に絵が語る。大人になってから効いてくる。",
 				"icon": {
 					"emoji": "📖",
@@ -15551,7 +15551,7 @@
 		{
 			"information": {
 				"id": "read-manga",
-				"name": "漫画を読む",
+				"name": "漫画",
 				"explanation": "コマとコマのあいだを、目が勝手に埋めていく。",
 				"icon": {
 					"emoji": "📚",
@@ -15599,7 +15599,7 @@
 		{
 			"information": {
 				"id": "read-newspaper",
-				"name": "新聞を読む",
+				"name": "新聞",
 				"explanation": "昨日の出来事を今日知る。それでも知らないよりは早い。",
 				"icon": {
 					"emoji": "📰",
@@ -15647,7 +15647,7 @@
 		{
 			"information": {
 				"id": "reread-diploma",
-				"name": "卒業証書を読み返す",
+				"name": "卒業証書",
 				"explanation": "巣立った証を眺めていると、授業中の眠気まで思い出す。",
 				"icon": {
 					"emoji": "🎓",
@@ -15695,7 +15695,7 @@
 		{
 			"information": {
 				"id": "read-license",
-				"name": "免許証を読む",
+				"name": "免許証",
 				"explanation": "更新のたびに、あの写真の自分と向き合う。深く息を吸ってから。",
 				"icon": {
 					"emoji": "🪪",
@@ -15743,7 +15743,7 @@
 		{
 			"information": {
 				"id": "read-novel",
-				"name": "小説を読む",
+				"name": "小説",
 				"explanation": "他人の一生を一晩で通り抜ける。",
 				"icon": {
 					"emoji": "📗",
@@ -15791,7 +15791,7 @@
 		{
 			"information": {
 				"id": "read-self-help-book",
-				"name": "自己啓発本を読む",
+				"name": "自己啓発本",
 				"explanation": "書いてあることは実行しない。それでも自信だけは手に入る。",
 				"icon": {
 					"emoji": "📘",
@@ -15839,7 +15839,7 @@
 		{
 			"information": {
 				"id": "read-love-letter",
-				"name": "ラブレターを読む",
+				"name": "ラブレター",
 				"explanation": "宛名が自分でなくても、心は勝手に動かされる。",
 				"icon": {
 					"emoji": "💌",
@@ -15887,7 +15887,7 @@
 		{
 			"information": {
 				"id": "read-art-book",
-				"name": "美術書を読む",
+				"name": "美術書",
 				"explanation": "眺めているだけで、良し悪しの線が見えるようになる。",
 				"icon": {
 					"emoji": "🎨",
@@ -15935,7 +15935,7 @@
 		{
 			"information": {
 				"id": "read-encyclopedia",
-				"name": "百科事典を読む",
+				"name": "百科事典",
 				"explanation": "端から順に読む必要はない。開いた頁が今日の知識。",
 				"icon": {
 					"emoji": "📚",
@@ -16031,7 +16031,7 @@
 		{
 			"information": {
 				"id": "read-ballot",
-				"name": "投票用紙を読む",
+				"name": "投票用紙",
 				"explanation": "紙一枚に値段が付く仕組みを、裏側から理解する。",
 				"icon": {
 					"emoji": "🗳️",
@@ -16079,7 +16079,7 @@
 		{
 			"information": {
 				"id": "read-recipe-book",
-				"name": "レシピ本を読む",
+				"name": "レシピ本",
 				"explanation": "作らないまま何度も読む。腹だけが減っていく。",
 				"icon": {
 					"emoji": "📗",
@@ -16127,7 +16127,7 @@
 		{
 			"information": {
 				"id": "read-chain-letter",
-				"name": "不幸の手紙を読む",
+				"name": "不幸の手紙",
 				"explanation": "十人に送れと書いてある。送らずに読み返して、慣れる。",
 				"icon": {
 					"emoji": "✉️",
@@ -16175,7 +16175,7 @@
 		{
 			"information": {
 				"id": "read-map",
-				"name": "地図を読む",
+				"name": "地図",
 				"explanation": "地図と住民票を並べれば、その土地に誰がいるかまで分かる。",
 				"icon": {
 					"emoji": "🗺️",
@@ -16230,7 +16230,7 @@
 		{
 			"information": {
 				"id": "read-history-book",
-				"name": "歴史書を読む",
+				"name": "歴史書",
 				"explanation": "同じ失敗が何度も書いてある。だから先が読める。",
 				"icon": {
 					"emoji": "📜",
@@ -16278,7 +16278,7 @@
 		{
 			"information": {
 				"id": "read-bible",
-				"name": "聖書を読む",
+				"name": "聖書",
 				"explanation": "人類最大のベストセラー。三つの徳が三角に組まれている。",
 				"icon": {
 					"emoji": "📖",
@@ -16326,7 +16326,7 @@
 		{
 			"information": {
 				"id": "read-math-book",
-				"name": "数学書を読む",
+				"name": "数学書",
 				"explanation": "記号の森で迷い、抜けた先に近道がある。",
 				"icon": {
 					"emoji": "📐",
@@ -16374,7 +16374,7 @@
 		{
 			"information": {
 				"id": "read-anatomy-book",
-				"name": "医学書を読む",
+				"name": "医学書「解体新書」",
 				"explanation": "人の体を開いて描いた図。眺めるだけで手当てが変わる。",
 				"icon": {
 					"emoji": "📕",
@@ -16422,7 +16422,7 @@
 		{
 			"information": {
 				"id": "read-forbidden-book",
-				"name": "禁書を読む",
+				"name": "禁書",
 				"explanation": "読むと記憶が消される。消しにきた相手のほうが、先に焼ける。",
 				"icon": {
 					"emoji": "📕",
@@ -16470,7 +16470,7 @@
 		{
 			"information": {
 				"id": "read-death-note",
-				"name": "デスノートを読む",
+				"name": "デスノート",
 				"explanation": "死神の目で読む。名前の向こうに、その人の残りが見える。",
 				"icon": {
 					"emoji": "📓",
@@ -16518,7 +16518,7 @@
 		{
 			"information": {
 				"id": "read-necronomicon",
-				"name": "ネクロノミコンを読む",
+				"name": "ネクロノミコン",
 				"explanation": "読めば狂気に近づく。近づいたぶんだけ、血が力に変わる。",
 				"icon": {
 					"emoji": "📕",
@@ -16614,7 +16614,7 @@
 		{
 			"information": {
 				"id": "read-catcher-in-the-rye",
-				"name": "ライ麦畑でつかまえてを読む",
+				"name": "ライ麦畑でつかまえて",
 				"explanation": "掴めないものを掴もうとする話。読むと、掴めるようになる。",
 				"icon": {
 					"emoji": "📗",
@@ -16662,7 +16662,7 @@
 		{
 			"information": {
 				"id": "open-wallet",
-				"name": "財布を開ける",
+				"name": "財布",
 				"explanation": "チャックを開けて中身を確認する。",
 				"icon": {
 					"emoji": "👛",
@@ -16728,7 +16728,7 @@
 		{
 			"information": {
 				"id": "open-donation-box",
-				"name": "募金箱を開ける",
+				"name": "募金箱",
 				"explanation": "硬貨で詰まった蓋をこじ開ける。",
 				"icon": {
 					"emoji": "🗳️",
@@ -16808,7 +16808,7 @@
 		{
 			"information": {
 				"id": "open-wooden-chest",
-				"name": "木の宝箱を開ける",
+				"name": "木の宝箱",
 				"explanation": "木製の錠を斧で叩き割る。",
 				"icon": {
 					"emoji": "🪵",
@@ -16881,7 +16881,7 @@
 		{
 			"information": {
 				"id": "open-vaulting-box",
-				"name": "跳び箱を開ける",
+				"name": "跳び箱",
 				"explanation": "上腕二頭筋で力ずくでこじ開ける。",
 				"icon": {
 					"emoji": "📦",
@@ -16954,7 +16954,7 @@
 		{
 			"information": {
 				"id": "open-time-capsule",
-				"name": "タイムカプセルを開ける",
+				"name": "タイムカプセル",
 				"explanation": "シャベルで慎重に掘り起こす。",
 				"icon": {
 					"emoji": "📦",
@@ -17027,7 +17027,7 @@
 		{
 			"information": {
 				"id": "open-iron-chest",
-				"name": "鉄の宝箱を開ける",
+				"name": "鉄の宝箱",
 				"explanation": "錆びついた鉄の錠をピッキングする。",
 				"icon": {
 					"emoji": "🔩",
@@ -17100,7 +17100,7 @@
 		{
 			"information": {
 				"id": "open-great-treasure",
-				"name": "大秘宝を開ける",
+				"name": "大秘宝",
 				"explanation": "地図を頼りに鍵剣で最後の封印を解く。",
 				"icon": {
 					"emoji": "💰",
@@ -17180,7 +17180,7 @@
 		{
 			"information": {
 				"id": "open-cold-chest",
-				"name": "冷たい宝箱を開ける",
+				"name": "冷たい宝箱",
 				"explanation": "凍りついた錠を溶かして開ける。",
 				"icon": {
 					"emoji": "🧊",
@@ -17253,7 +17253,7 @@
 		{
 			"information": {
 				"id": "open-medium-chest",
-				"name": "中くらいの宝箱を開ける",
+				"name": "中くらいの宝箱",
 				"explanation": "機械仕掛けの錠を分析して解除する。",
 				"icon": {
 					"emoji": "🎁",
@@ -17326,7 +17326,7 @@
 		{
 			"information": {
 				"id": "open-tiny-chest",
-				"name": "極小の宝箱を開ける",
+				"name": "極小の宝箱",
 				"explanation": "メガネをかけてクリップで精密にピッキングする。",
 				"icon": {
 					"emoji": "🎁",
@@ -17406,7 +17406,7 @@
 		{
 			"information": {
 				"id": "open-giant-chest",
-				"name": "巨大な宝箱を開ける",
+				"name": "巨大な宝箱",
 				"explanation": "巨大で頑丈な錠を根気よくこじ開ける。",
 				"icon": {
 					"emoji": "🎁",
@@ -17473,7 +17473,7 @@
 		{
 			"information": {
 				"id": "open-pumpkin-carriage",
-				"name": "かぼちゃの馬車を開ける",
+				"name": "かぼちゃの馬車",
 				"explanation": "松明の炎で魔法の封印を焼き払う。",
 				"icon": {
 					"emoji": "🎃",
@@ -17546,7 +17546,7 @@
 		{
 			"information": {
 				"id": "open-ark-of-covenant",
-				"name": "聖櫃を開ける",
+				"name": "聖櫃",
 				"explanation": "聖なる封印を祈りで解く。",
 				"icon": {
 					"emoji": "🕍",
@@ -17613,7 +17613,7 @@
 		{
 			"information": {
 				"id": "open-vampire-coffin",
-				"name": "吸血鬼の棺を開ける",
+				"name": "吸血鬼の棺",
 				"explanation": "ニンニクとロザリオでバンパイヤを鎮めて蓋を開ける。",
 				"icon": {
 					"emoji": "⚰️",
@@ -17693,7 +17693,7 @@
 		{
 			"information": {
 				"id": "open-sith-box",
-				"name": "シスの箱を開ける",
+				"name": "シスの箱",
 				"explanation": "暗黒の力で封印を解除する。",
 				"icon": {
 					"emoji": "⚫",
@@ -17766,7 +17766,7 @@
 		{
 			"information": {
 				"id": "open-rainbow-chest",
-				"name": "虹色の宝箱を開ける",
+				"name": "虹色の宝箱",
 				"explanation": "七色の光で封印を一つずつ解除する。",
 				"icon": {
 					"emoji": "🌈",
@@ -17839,7 +17839,7 @@
 		{
 			"information": {
 				"id": "open-schrodingers-box",
-				"name": "シュレーディンガーの箱を開ける",
+				"name": "シュレーディンガーの箱",
 				"explanation": "量子力学の知識を総動員して観測する。",
 				"icon": {
 					"emoji": "📦",
@@ -17912,7 +17912,7 @@
 		{
 			"information": {
 				"id": "open-pandoras-box",
-				"name": "パンドラの箱を開ける",
+				"name": "パンドラの箱",
 				"explanation": "ロザリオで身を守りながら禁忌の封印を破る。",
 				"icon": {
 					"emoji": "📦",
@@ -17985,7 +17985,7 @@
 		{
 			"information": {
 				"id": "buy-mortar",
-				"name": "すり鉢を買う",
+				"name": "すり鉢",
 				"explanation": "薬草を潰すだけの鉢。地下室はここから始まる。",
 				"icon": {
 					"emoji": "🥣",
@@ -18033,7 +18033,7 @@
 		{
 			"information": {
 				"id": "buy-still",
-				"name": "蒸留器を買う",
+				"name": "蒸留器",
 				"explanation": "煮出して要るものだけを取り出す装置。",
 				"icon": {
 					"emoji": "⚗️",
@@ -18081,7 +18081,7 @@
 		{
 			"information": {
 				"id": "buy-crucible",
-				"name": "るつぼを買う",
+				"name": "るつぼ",
 				"explanation": "何でも溶かす炉。値段も溶ける。",
 				"icon": {
 					"emoji": "⚗️",
@@ -18129,7 +18129,7 @@
 		{
 			"information": {
 				"id": "brew-bandage",
-				"name": "絆創膏の調合",
+				"name": "絆創膏",
 				"explanation": "布を裁って樹液を塗る。貼ると安心し、剥がすと痛い。",
 				"icon": {
 					"emoji": "🩹",
@@ -18191,7 +18191,7 @@
 		{
 			"information": {
 				"id": "brew-wound-medicine",
-				"name": "キズ薬の調合",
+				"name": "キズ薬",
 				"explanation": "薬草を潰して蜂蜜で練る。塗ればすぐ治る、という触れ込みで。",
 				"icon": {
 					"emoji": "💊",
@@ -18253,7 +18253,7 @@
 		{
 			"information": {
 				"id": "brew-cold-medicine",
-				"name": "風邪薬の調合",
+				"name": "風邪薬",
 				"explanation": "薬草の苦みを蜂蜜で隠す。それでも苦い。",
 				"icon": {
 					"emoji": "💊",
@@ -18315,7 +18315,7 @@
 		{
 			"information": {
 				"id": "brew-bubbling-medicine",
-				"name": "泡立つ薬の調合",
+				"name": "泡立つ薬",
 				"explanation": "薬草をサイダーで煮出す。飲むと鼻から泡が出る。",
 				"icon": {
 					"emoji": "🧪",
@@ -18377,7 +18377,7 @@
 		{
 			"information": {
 				"id": "brew-opium",
-				"name": "阿片の調合",
+				"name": "阿片",
 				"explanation": "大麻と巨大キノコを念入りに潰す。使い道は考えないことにする。",
 				"icon": {
 					"emoji": "💊",
@@ -18439,7 +18439,7 @@
 		{
 			"information": {
 				"id": "brew-glowing-medicine",
-				"name": "発光する薬の調合",
+				"name": "発光する薬",
 				"explanation": "蛍石を煮出して光だけを取り出す。暗い場所ほど役に立つ。",
 				"icon": {
 					"emoji": "✨",
@@ -18501,7 +18501,7 @@
 		{
 			"information": {
 				"id": "brew-ether",
-				"name": "エーテルの調合",
+				"name": "エーテル",
 				"explanation": "精霊を蛍石ごと蒸留する。残った気配だけをビンに詰める。",
 				"icon": {
 					"emoji": "🧪",
@@ -18570,7 +18570,7 @@
 		{
 			"information": {
 				"id": "brew-heat-pack",
-				"name": "カイロの調合",
+				"name": "カイロ",
 				"explanation": "鉄粉と塩を炉で焼き合わせる。振れば温まる冬の味方。",
 				"icon": {
 					"emoji": "🔥",
@@ -18632,7 +18632,7 @@
 		{
 			"information": {
 				"id": "brew-eye-drops",
-				"name": "目薬の調合",
+				"name": "目薬",
 				"explanation": "薬草の汁だけを絞ってビンへ。濃すぎると沁みる。",
 				"icon": {
 					"emoji": "👁️",
@@ -18694,7 +18694,7 @@
 		{
 			"information": {
 				"id": "brew-cold-pack",
-				"name": "保冷剤の調合",
+				"name": "保冷剤",
 				"explanation": "氷の結晶を溶かさずにビンへ移す。溶けるスピードは3倍速。",
 				"icon": {
 					"emoji": "🧊",
@@ -18756,7 +18756,7 @@
 		{
 			"information": {
 				"id": "brew-painkiller",
-				"name": "鎮痛剤の調合",
+				"name": "鎮痛剤",
 				"explanation": "薬草と灰を混ぜて練る。痛みは消えるが、傷は残る。",
 				"icon": {
 					"emoji": "💊",
@@ -18818,7 +18818,7 @@
 		{
 			"information": {
 				"id": "brew-phoenix-tail",
-				"name": "フェニックスの尾の調合",
+				"name": "フェニックスの尾",
 				"explanation": "不死鳥の灰に竜の鱗を混ぜて焼く。羽根は形を保つためだけに入れる。",
 				"icon": {
 					"emoji": "🐦‍🔥",
@@ -18887,7 +18887,7 @@
 		{
 			"information": {
 				"id": "brew-anti-drowsiness",
-				"name": "眠気覚ましの調合",
+				"name": "眠気覚まし",
 				"explanation": "毒キノコととうがらしを一緒に挽く。目は確実に覚める。",
 				"icon": {
 					"emoji": "☕",
@@ -18949,7 +18949,7 @@
 		{
 			"information": {
 				"id": "brew-tonic",
-				"name": "滋養強壮剤の調合",
+				"name": "滋養強壮剤",
 				"explanation": "大麻と蜂蜜を酒で割る。効くかどうかより、効いた気になる。",
 				"icon": {
 					"emoji": "💊",
@@ -19018,7 +19018,7 @@
 		{
 			"information": {
 				"id": "brew-vaccine",
-				"name": "ワクチンの調合",
+				"name": "ワクチン",
 				"explanation": "抗体を持つ者だけが作れる。得るか苦しむかは、やはり神頼み。",
 				"icon": {
 					"emoji": "💉",
@@ -19087,7 +19087,7 @@
 		{
 			"information": {
 				"id": "brew-laxative",
-				"name": "下剤の調合",
+				"name": "下剤",
 				"explanation": "毒草をすり潰しただけの薬。効きすぎることで有名。",
 				"icon": {
 					"emoji": "💊",
@@ -19142,7 +19142,7 @@
 		{
 			"information": {
 				"id": "brew-laxative-for-gorilla",
-				"name": "下剤（ゴリラ用）の調合",
+				"name": "下剤（ゴリラ用）",
 				"explanation": "普通の下剤では効かない相手のために、骨ごと挽いて増量する。",
 				"icon": {
 					"emoji": "💊",
@@ -19211,7 +19211,7 @@
 		{
 			"information": {
 				"id": "brew-poison-vial",
-				"name": "毒瓶の調合",
+				"name": "毒瓶",
 				"explanation": "毒草の毒だけを丁寧に集める。投げる用。",
 				"icon": {
 					"emoji": "🧪",
@@ -19273,7 +19273,7 @@
 		{
 			"information": {
 				"id": "brew-lcl",
-				"name": "LCLの調合",
+				"name": "LCL",
 				"explanation": "使徒の残骸を血とエーテルで還す。人の形に戻れるとは限らない。",
 				"icon": {
 					"emoji": "🧪",
@@ -19342,7 +19342,7 @@
 		{
 			"information": {
 				"id": "brew-holy-water",
-				"name": "聖水の調合",
+				"name": "聖水",
 				"explanation": "天空の花を露で蒸す。地下室で作った水が、天の相手に効く。",
 				"icon": {
 					"emoji": "💧",
@@ -19404,7 +19404,7 @@
 		{
 			"information": {
 				"id": "brew-bottled-spirit",
-				"name": "精霊の入ったビンの調合",
+				"name": "精霊の入ったビン",
 				"explanation": "逃げる前に蒸留器で捕まえる。天空の花で機嫌を取っておく。",
 				"icon": {
 					"emoji": "🧞",
@@ -19473,7 +19473,7 @@
 		{
 			"information": {
 				"id": "brew-panacea",
-				"name": "万能薬の調合",
+				"name": "万能薬",
 				"explanation": "エリクサーを世界樹の葉で薄める。薄めたほうがよく効く。",
 				"icon": {
 					"emoji": "💊",
@@ -19542,7 +19542,7 @@
 		{
 			"information": {
 				"id": "brew-revive-piece",
-				"name": "げんきのかけらの調合",
+				"name": "げんきのかけら",
 				"explanation": "琥珀を天使の涙で溶かす。かけらのままでも効く。",
 				"icon": {
 					"emoji": "💊",
@@ -19604,7 +19604,7 @@
 		{
 			"information": {
 				"id": "brew-elixir",
-				"name": "エリクサーの調合",
+				"name": "エリクサー",
 				"explanation": "天使の涙を琥珀で受けて、蜂蜜で閉じる。",
 				"icon": {
 					"emoji": "🧪",
@@ -19673,7 +19673,7 @@
 		{
 			"information": {
 				"id": "brew-felix-felicis",
-				"name": "フェリックスフェリシスの調合",
+				"name": "フェリックスフェリシス",
 				"explanation": "エリクサーに進化の石を沈める。飲んだ日は、何をしても上手くいく。",
 				"icon": {
 					"emoji": "🍀",
@@ -19742,7 +19742,7 @@
 		{
 			"information": {
 				"id": "craft-sand-castle",
-				"name": "砂の城を作る",
+				"name": "砂の城",
 				"explanation": "珊瑚と錨を並べて、崩れない砂の城を築く。",
 				"icon": {
 					"emoji": "🏖️",
@@ -19859,7 +19859,7 @@
 		{
 			"information": {
 				"id": "craft-dancing-statue",
-				"name": "踊る銅像を作る",
+				"name": "踊る銅像",
 				"explanation": "溶けた金属を鋳直して、止まったままの踊り手を立たせる。",
 				"icon": {
 					"emoji": "🕺",
@@ -20334,7 +20334,7 @@
 		{
 			"information": {
 				"id": "craft-snow-globe",
-				"name": "スノードームを作る",
+				"name": "スノードーム",
 				"explanation": "ビンの中に北国の冬を閉じ込める。",
 				"icon": {
 					"emoji": "❄️",
@@ -20396,7 +20396,7 @@
 		{
 			"information": {
 				"id": "craft-kaleidoscope",
-				"name": "万華鏡を作る",
+				"name": "万華鏡",
 				"explanation": "宝石を刻んで筒に詰め、覗くたびに違う景色を。",
 				"icon": {
 					"emoji": "🔮",
@@ -20582,7 +20582,7 @@
 		{
 			"information": {
 				"id": "craft-ruining-cushion-parts",
-				"name": "人をダメにするクッションの部品を作る",
+				"name": "人をダメにするクッションの部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -20637,7 +20637,7 @@
 		{
 			"information": {
 				"id": "craft-ruining-cushion",
-				"name": "人をダメにするクッションを作る",
+				"name": "人をダメにするクッション",
 				"explanation": "",
 				"icon": {
 					"emoji": "🛋️",
@@ -20685,7 +20685,7 @@
 		{
 			"information": {
 				"id": "craft-rabbit-hutch-parts",
-				"name": "ウサギ小屋の部品を作る",
+				"name": "ウサギ小屋の部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -20740,7 +20740,7 @@
 		{
 			"information": {
 				"id": "craft-rabbit-hutch",
-				"name": "ウサギ小屋を作る",
+				"name": "ウサギ小屋",
 				"explanation": "",
 				"icon": {
 					"emoji": "🐇",
@@ -20788,7 +20788,7 @@
 		{
 			"information": {
 				"id": "craft-bookshelf-parts",
-				"name": "本棚の部品を作る",
+				"name": "本棚の部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -20843,7 +20843,7 @@
 		{
 			"information": {
 				"id": "craft-bookshelf",
-				"name": "本棚を作る",
+				"name": "本棚",
 				"explanation": "",
 				"icon": {
 					"emoji": "📚",
@@ -20891,7 +20891,7 @@
 		{
 			"information": {
 				"id": "craft-well-parts",
-				"name": "井戸の部品を作る",
+				"name": "井戸の部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -20946,7 +20946,7 @@
 		{
 			"information": {
 				"id": "craft-well",
-				"name": "井戸を作る",
+				"name": "井戸",
 				"explanation": "",
 				"icon": {
 					"emoji": "🪣",
@@ -20994,7 +20994,7 @@
 		{
 			"information": {
 				"id": "assemble-lawn-mower-parts",
-				"name": "芝刈り機の部品を組む",
+				"name": "芝刈り機の部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -21049,7 +21049,7 @@
 		{
 			"information": {
 				"id": "assemble-lawn-mower",
-				"name": "芝刈り機を組む",
+				"name": "芝刈り機",
 				"explanation": "",
 				"icon": {
 					"emoji": "🌾",
@@ -21097,7 +21097,7 @@
 		{
 			"information": {
 				"id": "craft-oven-parts",
-				"name": "オーブンの部品を作る",
+				"name": "オーブンの部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -21159,7 +21159,7 @@
 		{
 			"information": {
 				"id": "craft-oven",
-				"name": "オーブンを作る",
+				"name": "オーブン",
 				"explanation": "",
 				"icon": {
 					"emoji": "🍞",
@@ -21207,7 +21207,7 @@
 		{
 			"information": {
 				"id": "craft-dog-house-parts",
-				"name": "イヌ小屋の部品を作る",
+				"name": "イヌ小屋の部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -21269,7 +21269,7 @@
 		{
 			"information": {
 				"id": "craft-dog-house",
-				"name": "イヌ小屋を作る",
+				"name": "イヌ小屋",
 				"explanation": "",
 				"icon": {
 					"emoji": "🐕",
@@ -21317,7 +21317,7 @@
 		{
 			"information": {
 				"id": "craft-weather-box-parts",
-				"name": "百葉箱の部品を作る",
+				"name": "百葉箱の部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -21379,7 +21379,7 @@
 		{
 			"information": {
 				"id": "craft-weather-box",
-				"name": "百葉箱を作る",
+				"name": "百葉箱",
 				"explanation": "",
 				"icon": {
 					"emoji": "🌡️",
@@ -21427,7 +21427,7 @@
 		{
 			"information": {
 				"id": "craft-refrigerator-parts",
-				"name": "冷蔵庫の部品を作る",
+				"name": "冷蔵庫の部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -21489,7 +21489,7 @@
 		{
 			"information": {
 				"id": "craft-refrigerator",
-				"name": "冷蔵庫を作る",
+				"name": "冷蔵庫",
 				"explanation": "",
 				"icon": {
 					"emoji": "🧊",
@@ -21537,7 +21537,7 @@
 		{
 			"information": {
 				"id": "craft-solar-panel-parts",
-				"name": "ソーラーパネルの部品を作る",
+				"name": "ソーラーパネルの部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -21599,7 +21599,7 @@
 		{
 			"information": {
 				"id": "craft-solar-panel",
-				"name": "ソーラーパネルを作る",
+				"name": "ソーラーパネル",
 				"explanation": "",
 				"icon": {
 					"emoji": "☀️",
@@ -21647,7 +21647,7 @@
 		{
 			"information": {
 				"id": "craft-generator-parts",
-				"name": "発電機の部品を作る",
+				"name": "発電機の部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -21709,7 +21709,7 @@
 		{
 			"information": {
 				"id": "craft-generator",
-				"name": "発電機を作る",
+				"name": "発電機",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔌",
@@ -21757,7 +21757,7 @@
 		{
 			"information": {
 				"id": "craft-hamster-wheel-parts",
-				"name": "ハムスターの回車の部品を作る",
+				"name": "ハムスターの回車の部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -21819,7 +21819,7 @@
 		{
 			"information": {
 				"id": "craft-hamster-wheel",
-				"name": "ハムスターの回車を作る",
+				"name": "ハムスターの回車",
 				"explanation": "",
 				"icon": {
 					"emoji": "🐹",
@@ -21867,7 +21867,7 @@
 		{
 			"information": {
 				"id": "craft-stove-parts",
-				"name": "かまどの部品を作る",
+				"name": "かまどの部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -21922,7 +21922,7 @@
 		{
 			"information": {
 				"id": "craft-stove",
-				"name": "かまどを作る",
+				"name": "かまど",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔥",
@@ -21970,7 +21970,7 @@
 		{
 			"information": {
 				"id": "craft-fireplace-parts",
-				"name": "暖炉の部品を作る",
+				"name": "暖炉の部品",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔩",
@@ -22025,7 +22025,7 @@
 		{
 			"information": {
 				"id": "craft-fireplace",
-				"name": "暖炉を作る",
+				"name": "暖炉",
 				"explanation": "",
 				"icon": {
 					"emoji": "🔥",
@@ -22073,7 +22073,7 @@
 		{
 			"information": {
 				"id": "disassemble-wooden-stick",
-				"name": "木の棒を分解する",
+				"name": "木の棒（分解）",
 				"explanation": "木の棒を溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🪵",
@@ -22121,7 +22121,7 @@
 		{
 			"information": {
 				"id": "disassemble-green-onion",
-				"name": "ネギを分解する",
+				"name": "ネギ（分解）",
 				"explanation": "ネギを溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🌱",
@@ -22169,7 +22169,7 @@
 		{
 			"information": {
 				"id": "disassemble-laundry-pole",
-				"name": "物干し竿を分解する",
+				"name": "物干し竿（分解）",
 				"explanation": "物干し竿を溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🎏",
@@ -22217,7 +22217,7 @@
 		{
 			"information": {
 				"id": "disassemble-baguette",
-				"name": "フランスパンを分解する",
+				"name": "フランスパン（分解）",
 				"explanation": "フランスパンを溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🥖",
@@ -22265,7 +22265,7 @@
 		{
 			"information": {
 				"id": "disassemble-frozen-tuna",
-				"name": "冷凍マグロを分解する",
+				"name": "冷凍マグロ（分解）",
 				"explanation": "冷凍マグロを溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🐟",
@@ -22313,7 +22313,7 @@
 		{
 			"information": {
 				"id": "disassemble-hammer",
-				"name": "ハンマーを分解する",
+				"name": "ハンマー（分解）",
 				"explanation": "ハンマーを溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🔨",
@@ -22361,7 +22361,7 @@
 		{
 			"information": {
 				"id": "disassemble-iron-rod",
-				"name": "鉄の棒を分解する",
+				"name": "鉄の棒（分解）",
 				"explanation": "鉄の棒を溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🔩",
@@ -22409,7 +22409,7 @@
 		{
 			"information": {
 				"id": "disassemble-nail-bat",
-				"name": "釘バットを分解する",
+				"name": "釘バット（分解）",
 				"explanation": "釘バットを溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🏏",
@@ -22457,7 +22457,7 @@
 		{
 			"information": {
 				"id": "disassemble-crutch",
-				"name": "松葉杖を分解する",
+				"name": "松葉杖（分解）",
 				"explanation": "松葉杖を溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🦯",
@@ -22505,7 +22505,7 @@
 		{
 			"information": {
 				"id": "disassemble-attache-case",
-				"name": "アタッシュケースを分解する",
+				"name": "アタッシュケース（分解）",
 				"explanation": "アタッシュケースを溶かして金属に戻す。",
 				"icon": {
 					"emoji": "💼",
@@ -22553,7 +22553,7 @@
 		{
 			"information": {
 				"id": "disassemble-pico-hammer",
-				"name": "ピコハンマーを分解する",
+				"name": "ピコハンマー（分解）",
 				"explanation": "ピコハンマーを溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🔨",
@@ -22601,7 +22601,7 @@
 		{
 			"information": {
 				"id": "disassemble-guitar",
-				"name": "ギターを分解する",
+				"name": "ギター（分解）",
 				"explanation": "ギターを溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🎸",
@@ -22649,7 +22649,7 @@
 		{
 			"information": {
 				"id": "disassemble-sasumata",
-				"name": "さすまたを分解する",
+				"name": "さすまた（分解）",
 				"explanation": "さすまたを溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🔱",
@@ -22697,7 +22697,7 @@
 		{
 			"information": {
 				"id": "disassemble-double-edged-sword",
-				"name": "諸刃の剣を分解する",
+				"name": "諸刃の剣（分解）",
 				"explanation": "諸刃の剣を溶かして金属に戻す。",
 				"icon": {
 					"emoji": "⚔️",
@@ -22745,7 +22745,7 @@
 		{
 			"information": {
 				"id": "disassemble-gladius",
-				"name": "グラディウスを分解する",
+				"name": "グラディウス（分解）",
 				"explanation": "グラディウスを溶かして金属に戻す。",
 				"icon": {
 					"emoji": "🗡️",
@@ -22793,7 +22793,7 @@
 		{
 			"information": {
 				"id": "craft-iron-rod",
-				"name": "鉄の棒を作る",
+				"name": "鉄の棒",
 				"explanation": "材料を組み合わせて鉄の棒を作る。",
 				"icon": {
 					"emoji": "🔩",
@@ -22848,7 +22848,7 @@
 		{
 			"information": {
 				"id": "craft-hammer",
-				"name": "ハンマーを作る",
+				"name": "ハンマー",
 				"explanation": "材料を組み合わせてハンマーを作る。",
 				"icon": {
 					"emoji": "🔨",
@@ -22903,7 +22903,7 @@
 		{
 			"information": {
 				"id": "craft-frozen-tuna",
-				"name": "冷凍マグロを作る",
+				"name": "冷凍マグロ",
 				"explanation": "材料を組み合わせて冷凍マグロを作る。",
 				"icon": {
 					"emoji": "🐟",
@@ -22958,7 +22958,7 @@
 		{
 			"information": {
 				"id": "craft-sasumata",
-				"name": "さすまたを作る",
+				"name": "さすまた",
 				"explanation": "材料を組み合わせてさすまたを作る。",
 				"icon": {
 					"emoji": "🔱",
@@ -23013,7 +23013,7 @@
 		{
 			"information": {
 				"id": "craft-guitar",
-				"name": "ギターを作る",
+				"name": "ギター",
 				"explanation": "材料を組み合わせてギターを作る。",
 				"icon": {
 					"emoji": "🎸",
@@ -23068,7 +23068,7 @@
 		{
 			"information": {
 				"id": "craft-gladius",
-				"name": "グラディウスを作る",
+				"name": "グラディウス",
 				"explanation": "材料を組み合わせてグラディウスを作る。",
 				"icon": {
 					"emoji": "🗡️",
@@ -23123,7 +23123,7 @@
 		{
 			"information": {
 				"id": "craft-double-edged-sword",
-				"name": "諸刃の剣を作る",
+				"name": "諸刃の剣",
 				"explanation": "材料を組み合わせて諸刃の剣を作る。",
 				"icon": {
 					"emoji": "⚔️",
@@ -23178,7 +23178,7 @@
 		{
 			"information": {
 				"id": "craft-muramasa",
-				"name": "ムラマサを作る",
+				"name": "ムラマサ",
 				"explanation": "材料を組み合わせてムラマサを作る。",
 				"icon": {
 					"emoji": "🗡️",
@@ -23233,7 +23233,7 @@
 		{
 			"information": {
 				"id": "craft-sealing-staff",
-				"name": "封印の杖を作る",
+				"name": "封印の杖",
 				"explanation": "材料を組み合わせて封印の杖を作る。",
 				"icon": {
 					"emoji": "🪄",
@@ -23288,7 +23288,7 @@
 		{
 			"information": {
 				"id": "craft-beam-saber",
-				"name": "ビームサーベルを作る",
+				"name": "ビームサーベル",
 				"explanation": "材料を組み合わせてビームサーベルを作る。",
 				"icon": {
 					"emoji": "⚔️",
@@ -23343,7 +23343,7 @@
 		{
 			"information": {
 				"id": "craft-excalibur",
-				"name": "エクスカリバーを作る",
+				"name": "エクスカリバー",
 				"explanation": "材料を組み合わせてエクスカリバーを作る。",
 				"icon": {
 					"emoji": "⚔️",
@@ -23398,7 +23398,7 @@
 		{
 			"information": {
 				"id": "craft-key-blade",
-				"name": "🔑ブレードを作る",
+				"name": "🔑ブレード",
 				"explanation": "材料を組み合わせて🔑ブレードを作る。",
 				"icon": {
 					"emoji": "🗝️",
@@ -23453,7 +23453,7 @@
 		{
 			"information": {
 				"id": "craft-ruyi-staff",
-				"name": "如意棒を作る",
+				"name": "如意棒",
 				"explanation": "材料を組み合わせて如意棒を作る。",
 				"icon": {
 					"emoji": "🪄",
@@ -23508,7 +23508,7 @@
 		{
 			"information": {
 				"id": "craft-master-sword",
-				"name": "マスターソードを作る",
+				"name": "マスターソード",
 				"explanation": "材料を組み合わせてマスターソードを作る。",
 				"icon": {
 					"emoji": "⚔️",
@@ -23563,7 +23563,7 @@
 		{
 			"information": {
 				"id": "disassemble-bee",
-				"name": "ハチを分解する",
+				"name": "ハチ（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🐝",
@@ -23611,7 +23611,7 @@
 		{
 			"information": {
 				"id": "disassemble-acorn-shot",
-				"name": "どんぐりショットを分解する",
+				"name": "どんぐりショット（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🌰",
@@ -23659,7 +23659,7 @@
 		{
 			"information": {
 				"id": "disassemble-dart",
-				"name": "ダーツを分解する",
+				"name": "ダーツ（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🎯",
@@ -23707,7 +23707,7 @@
 		{
 			"information": {
 				"id": "disassemble-blowgun",
-				"name": "吹き矢を分解する",
+				"name": "吹き矢（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🎯",
@@ -23755,7 +23755,7 @@
 		{
 			"information": {
 				"id": "disassemble-brick",
-				"name": "レンガを分解する",
+				"name": "レンガ（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🧱",
@@ -23803,7 +23803,7 @@
 		{
 			"information": {
 				"id": "disassemble-snowball",
-				"name": "雪玉を分解する",
+				"name": "雪玉（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "⛄",
@@ -23851,7 +23851,7 @@
 		{
 			"information": {
 				"id": "disassemble-slingshot",
-				"name": "スリングショットを分解する",
+				"name": "スリングショット（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🎯",
@@ -23899,7 +23899,7 @@
 		{
 			"information": {
 				"id": "disassemble-fishing-rod",
-				"name": "釣竿を分解する",
+				"name": "釣竿（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🎣",
@@ -23947,7 +23947,7 @@
 		{
 			"information": {
 				"id": "disassemble-sea-urchin",
-				"name": "ウニを分解する",
+				"name": "ウニ（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🦔",
@@ -23995,7 +23995,7 @@
 		{
 			"information": {
 				"id": "disassemble-turtle-shell",
-				"name": "カメの甲羅を分解する",
+				"name": "カメの甲羅（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🐢",
@@ -24043,7 +24043,7 @@
 		{
 			"information": {
 				"id": "disassemble-rocket-punch",
-				"name": "ロケットパンチを分解する",
+				"name": "ロケットパンチ（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "👊",
@@ -24091,7 +24091,7 @@
 		{
 			"information": {
 				"id": "disassemble-dvd",
-				"name": "DVDを分解する",
+				"name": "DVD（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "💿",
@@ -24139,7 +24139,7 @@
 		{
 			"information": {
 				"id": "disassemble-tomahawk",
-				"name": "トマホークを分解する",
+				"name": "トマホーク（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🪓",
@@ -24187,7 +24187,7 @@
 		{
 			"information": {
 				"id": "disassemble-whip-of-love",
-				"name": "愛の鞭を分解する",
+				"name": "愛の鞭（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🪢",
@@ -24235,7 +24235,7 @@
 		{
 			"information": {
 				"id": "disassemble-blown-kiss",
-				"name": "投げキッスを分解する",
+				"name": "投げキッス（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "💋",
@@ -24283,7 +24283,7 @@
 		{
 			"information": {
 				"id": "craft-brick",
-				"name": "レンガを作る",
+				"name": "レンガ",
 				"explanation": "割れた看板の破片を固めて焼く。投げれば凶器、積めば壁。",
 				"icon": {
 					"emoji": "🧱",
@@ -24338,7 +24338,7 @@
 		{
 			"information": {
 				"id": "craft-snowball",
-				"name": "雪玉を作る",
+				"name": "雪玉",
 				"explanation": "握った雪に釘を一本仕込む。それだけで殺傷能力が跳ね上がる。",
 				"icon": {
 					"emoji": "⛄",
@@ -24393,7 +24393,7 @@
 		{
 			"information": {
 				"id": "craft-rocket-punch",
-				"name": "ロケットパンチを作る",
+				"name": "ロケットパンチ",
 				"explanation": "動力炉とモーターを腕に詰める。人型ロボットの標準装備。",
 				"icon": {
 					"emoji": "👊",
@@ -24455,7 +24455,7 @@
 		{
 			"information": {
 				"id": "craft-dvd",
-				"name": "DVDを作る",
+				"name": "DVD",
 				"explanation": "反りを取って縁を研ぐ。子供の頃に誰しも投げていた形。",
 				"icon": {
 					"emoji": "💿",
@@ -24510,7 +24510,7 @@
 		{
 			"information": {
 				"id": "craft-whip-of-love",
-				"name": "愛の鞭を作る",
+				"name": "愛の鞭",
 				"explanation": "ドワーフの髭を撚って一本の鞭にする。叩くほど絆が深まる。",
 				"icon": {
 					"emoji": "🪢",
@@ -24565,7 +24565,7 @@
 		{
 			"information": {
 				"id": "craft-tomahawk",
-				"name": "トマホークを作る",
+				"name": "トマホーク",
 				"explanation": "黒曜石を薄く割って柄に留める。投げて戻ってくる。",
 				"icon": {
 					"emoji": "🪓",
@@ -24620,7 +24620,7 @@
 		{
 			"information": {
 				"id": "craft-blown-kiss",
-				"name": "投げキッスを作る",
+				"name": "投げキッス",
 				"explanation": "炎の花を唇に乗せて吹く。当たれば敵もときめく。",
 				"icon": {
 					"emoji": "💋",
@@ -24675,7 +24675,7 @@
 		{
 			"information": {
 				"id": "craft-monster-ball",
-				"name": "モンスターボールを作る",
+				"name": "モンスターボール",
 				"explanation": "奈落の宝珠を球に収める。瀕死の相手なら押し込める。",
 				"icon": {
 					"emoji": "🔴",
@@ -24730,7 +24730,7 @@
 		{
 			"information": {
 				"id": "craft-russian-roulette",
-				"name": "ロシアンルーレットを作る",
+				"name": "ロシアンルーレット",
 				"explanation": "裁きの天秤を弾倉に組む。運命を六分の一に預ける。",
 				"icon": {
 					"emoji": "🔫",
@@ -24785,7 +24785,7 @@
 		{
 			"information": {
 				"id": "craft-recorder-of-time",
-				"name": "時のリコーダーを作る",
+				"name": "時のリコーダー",
 				"explanation": "死神の砂時計を管に通す。吹くと時間の進み方が変わる、らしい。",
 				"icon": {
 					"emoji": "🎼",
@@ -24840,7 +24840,7 @@
 		{
 			"information": {
 				"id": "craft-stand-arrow",
-				"name": "スタンドの矢を作る",
+				"name": "スタンドの矢",
 				"explanation": "柱石を鏃に削る。刺さった者の隠れた力が目を覚ます。",
 				"icon": {
 					"emoji": "🏹",
@@ -24895,7 +24895,7 @@
 		{
 			"information": {
 				"id": "craft-tuna-rocket",
-				"name": "マグロケットを作る",
+				"name": "マグロケット",
 				"explanation": "柱石を芯にして冷凍マグロを飛ばす。マグロだって空ぐらい飛ぶ。",
 				"icon": {
 					"emoji": "🚀",
@@ -24950,7 +24950,7 @@
 		{
 			"information": {
 				"id": "craft-spear-of-longinus",
-				"name": "ロンギヌスの槍を作る",
+				"name": "ロンギヌスの槍",
 				"explanation": "柱石を穂先に鋳込む。放てば、外れることを忘れて飛んでいく。",
 				"icon": {
 					"emoji": "🔱",
@@ -25005,7 +25005,7 @@
 		{
 			"information": {
 				"id": "disassemble-apron",
-				"name": "エプロンを分解する",
+				"name": "エプロン（分解）",
 				"explanation": "エプロンをほどいて布に戻す。",
 				"icon": {
 					"emoji": "🥼",
@@ -25053,7 +25053,7 @@
 		{
 			"information": {
 				"id": "disassemble-slippers",
-				"name": "スリッパを分解する",
+				"name": "スリッパ（分解）",
 				"explanation": "スリッパをほどいて布に戻す。",
 				"icon": {
 					"emoji": "🩴",
@@ -25101,7 +25101,7 @@
 		{
 			"information": {
 				"id": "disassemble-tank-top",
-				"name": "タンクトップを分解する",
+				"name": "タンクトップ（分解）",
 				"explanation": "タンクトップをほどいて布に戻す。",
 				"icon": {
 					"emoji": "🎽",
@@ -25149,7 +25149,7 @@
 		{
 			"information": {
 				"id": "disassemble-smelly-socks",
-				"name": "臭う靴下を分解する",
+				"name": "臭う靴下（分解）",
 				"explanation": "臭う靴下をほどいて布に戻す。",
 				"icon": {
 					"emoji": "🧦",
@@ -25197,7 +25197,7 @@
 		{
 			"information": {
 				"id": "disassemble-fake-beard",
-				"name": "つけ髭を分解する",
+				"name": "つけ髭（分解）",
 				"explanation": "つけ髭をほどいて布に戻す。",
 				"icon": {
 					"emoji": "🧔",
@@ -25245,7 +25245,7 @@
 		{
 			"information": {
 				"id": "disassemble-pot-helmet",
-				"name": "鍋かぶとを分解する",
+				"name": "鍋かぶと（分解）",
 				"explanation": "鍋をほどいて布に戻す。",
 				"icon": {
 					"emoji": "🍲",
@@ -25293,7 +25293,7 @@
 		{
 			"information": {
 				"id": "disassemble-mitten",
-				"name": "ミトンを分解する",
+				"name": "ミトン（分解）",
 				"explanation": "ミトンをほどいて布に戻す。",
 				"icon": {
 					"emoji": "🧤",
@@ -25341,7 +25341,7 @@
 		{
 			"information": {
 				"id": "disassemble-cloth-gloves",
-				"name": "布の手袋を分解する",
+				"name": "布の手袋（分解）",
 				"explanation": "布の手袋をほどいて布に戻す。",
 				"icon": {
 					"emoji": "🧤",
@@ -25389,7 +25389,7 @@
 		{
 			"information": {
 				"id": "disassemble-wooden-clogs",
-				"name": "木靴を分解する",
+				"name": "木靴（分解）",
 				"explanation": "木靴をほどいて布に戻す。",
 				"icon": {
 					"emoji": "👞",
@@ -25437,7 +25437,7 @@
 		{
 			"information": {
 				"id": "disassemble-rubber-gloves",
-				"name": "ゴム手袋を分解する",
+				"name": "ゴム手袋（分解）",
 				"explanation": "ゴム手袋をほどいて布に戻す。",
 				"icon": {
 					"emoji": "🧤",
@@ -25485,7 +25485,7 @@
 		{
 			"information": {
 				"id": "disassemble-raincoat",
-				"name": "雨具を分解する",
+				"name": "雨具（分解）",
 				"explanation": "雨具をほどいて布に戻す。",
 				"icon": {
 					"emoji": "☂️",
@@ -25533,7 +25533,7 @@
 		{
 			"information": {
 				"id": "disassemble-farmer-work-clothes",
-				"name": "農夫の作業着を分解する",
+				"name": "農夫の作業着（分解）",
 				"explanation": "農夫の作業着をほどいて布に戻す。",
 				"icon": {
 					"emoji": "👨‍🌾",
@@ -25581,7 +25581,7 @@
 		{
 			"information": {
 				"id": "disassemble-leg-warmer",
-				"name": "レッグウォーマーを分解する",
+				"name": "レッグウォーマー（分解）",
 				"explanation": "レッグウォーマーをほどいて布に戻す。",
 				"icon": {
 					"emoji": "🧦",
@@ -25629,7 +25629,7 @@
 		{
 			"information": {
 				"id": "disassemble-red-hood",
-				"name": "赤ずきんを分解する",
+				"name": "赤ずきん（分解）",
 				"explanation": "赤ずきんをほどいて布に戻す。",
 				"icon": {
 					"emoji": "🧕",
@@ -25677,7 +25677,7 @@
 		{
 			"information": {
 				"id": "disassemble-bunny-ears",
-				"name": "ウサミミを分解する",
+				"name": "ウサミミ（分解）",
 				"explanation": "ウサミミをほどいて布に戻す。",
 				"icon": {
 					"emoji": "🐰",
@@ -25725,7 +25725,7 @@
 		{
 			"information": {
 				"id": "disassemble-back-scratcher",
-				"name": "孫の手を分解する",
+				"name": "孫の手（分解）",
 				"explanation": "孫の手をほどいて布に戻す。",
 				"icon": {
 					"emoji": "🩱",
@@ -25773,7 +25773,7 @@
 		{
 			"information": {
 				"id": "disassemble-sailor-uniform",
-				"name": "セーラー服を分解する",
+				"name": "セーラー服（分解）",
 				"explanation": "セーラー服をほどいて布に戻す。",
 				"icon": {
 					"emoji": "⚓",
@@ -25821,7 +25821,7 @@
 		{
 			"information": {
 				"id": "disassemble-gakuran",
-				"name": "学ランを分解する",
+				"name": "学ラン（分解）",
 				"explanation": "学ランをほどいて布に戻す。",
 				"icon": {
 					"emoji": "🎓",
@@ -25869,7 +25869,7 @@
 		{
 			"information": {
 				"id": "disassemble-chef-hat",
-				"name": "シェフハットを分解する",
+				"name": "シェフハット（分解）",
 				"explanation": "シェフハットをほどいて布に戻す。",
 				"icon": {
 					"emoji": "👨‍🍳",
@@ -25917,7 +25917,7 @@
 		{
 			"information": {
 				"id": "disassemble-work-gloves",
-				"name": "軍手を分解する",
+				"name": "軍手（分解）",
 				"explanation": "軍手をほどいて布に戻す。",
 				"icon": {
 					"emoji": "🧤",
@@ -25965,7 +25965,7 @@
 		{
 			"information": {
 				"id": "disassemble-mask",
-				"name": "マスクを分解する",
+				"name": "マスク（分解）",
 				"explanation": "マスクをほどいて布に戻す。",
 				"icon": {
 					"emoji": "😷",
@@ -26013,7 +26013,7 @@
 		{
 			"information": {
 				"id": "disassemble-cowboy-boots",
-				"name": "カウボーイブーツを分解する",
+				"name": "カウボーイブーツ（分解）",
 				"explanation": "カウボーイブーツをほどいて布に戻す。",
 				"icon": {
 					"emoji": "🥾",
@@ -26061,7 +26061,7 @@
 		{
 			"information": {
 				"id": "disassemble-cat-paw",
-				"name": "ネコの手を分解する",
+				"name": "ネコの手（分解）",
 				"explanation": "ネコの手をほどいて布に戻す。",
 				"icon": {
 					"emoji": "🐾",
@@ -26109,7 +26109,7 @@
 		{
 			"information": {
 				"id": "disassemble-safety-shoes",
-				"name": "安全靴を分解する",
+				"name": "安全靴（分解）",
 				"explanation": "安全靴をほどいて布に戻す。",
 				"icon": {
 					"emoji": "👞",
@@ -26157,7 +26157,7 @@
 		{
 			"information": {
 				"id": "disassemble-belly-warmer",
-				"name": "腹巻きを分解する",
+				"name": "腹巻き（分解）",
 				"explanation": "腹巻きを解体して革に戻す。",
 				"icon": {
 					"emoji": "🩹",
@@ -26205,7 +26205,7 @@
 		{
 			"information": {
 				"id": "disassemble-emperors-new-clothes",
-				"name": "裸の王様の服を分解する",
+				"name": "裸の王様の服（分解）",
 				"explanation": "裸の王様の服を解体して革に戻す。",
 				"icon": {
 					"emoji": "👑",
@@ -26253,7 +26253,7 @@
 		{
 			"information": {
 				"id": "disassemble-glasses",
-				"name": "メガネを分解する",
+				"name": "メガネ（分解）",
 				"explanation": "メガネを解体して革に戻す。",
 				"icon": {
 					"emoji": "👓",
@@ -26301,7 +26301,7 @@
 		{
 			"information": {
 				"id": "disassemble-eyepatch",
-				"name": "アイパッチを分解する",
+				"name": "アイパッチ（分解）",
 				"explanation": "アイパッチを解体して革に戻す。",
 				"icon": {
 					"emoji": "🩹",
@@ -26349,7 +26349,7 @@
 		{
 			"information": {
 				"id": "disassemble-lantern",
-				"name": "ランタンを分解する",
+				"name": "ランタン（分解）",
 				"explanation": "ランタンを解体して革に戻す。",
 				"icon": {
 					"emoji": "🏮",
@@ -26397,7 +26397,7 @@
 		{
 			"information": {
 				"id": "disassemble-helping-hand",
-				"name": "救いの手を分解する",
+				"name": "救いの手（分解）",
 				"explanation": "救いの手を解体して革に戻す。",
 				"icon": {
 					"emoji": "🤲",
@@ -26445,7 +26445,7 @@
 		{
 			"information": {
 				"id": "disassemble-swim-ring",
-				"name": "浮き輪を分解する",
+				"name": "浮き輪（分解）",
 				"explanation": "浮き輪を解体して革に戻す。",
 				"icon": {
 					"emoji": "🏊",
@@ -26493,7 +26493,7 @@
 		{
 			"information": {
 				"id": "disassemble-squeaky-shoes",
-				"name": "音が鳴る靴を分解する",
+				"name": "音が鳴る靴（分解）",
 				"explanation": "音が鳴る靴を解体して革に戻す。",
 				"icon": {
 					"emoji": "👟",
@@ -26541,7 +26541,7 @@
 		{
 			"information": {
 				"id": "disassemble-six-finger-glove",
-				"name": "6本指の手袋を分解する",
+				"name": "6本指の手袋（分解）",
 				"explanation": "6本指の手袋を解体して革に戻す。",
 				"icon": {
 					"emoji": "🧤",
@@ -26589,7 +26589,7 @@
 		{
 			"information": {
 				"id": "disassemble-silk-leggings",
-				"name": "絹の足袷を分解する",
+				"name": "絹の足袷（分解）",
 				"explanation": "絹の足袷を解体して革に戻す。",
 				"icon": {
 					"emoji": "🧦",
@@ -26637,7 +26637,7 @@
 		{
 			"information": {
 				"id": "disassemble-dentures",
-				"name": "入れ歯を分解する",
+				"name": "入れ歯（分解）",
 				"explanation": "入れ歯を解体して革に戻す。",
 				"icon": {
 					"emoji": "🦷",
@@ -26685,7 +26685,7 @@
 		{
 			"information": {
 				"id": "disassemble-leather-breastplate",
-				"name": "革の胸当を分解する",
+				"name": "革の胸当（分解）",
 				"explanation": "革の胸当を解体して革に戻す。",
 				"icon": {
 					"emoji": "🥋",
@@ -26733,7 +26733,7 @@
 		{
 			"information": {
 				"id": "disassemble-ice-skate",
-				"name": "アイススケートを分解する",
+				"name": "アイススケート（分解）",
 				"explanation": "アイススケートを解体して革に戻す。",
 				"icon": {
 					"emoji": "⛸️",
@@ -26781,7 +26781,7 @@
 		{
 			"information": {
 				"id": "disassemble-silk-clothes",
-				"name": "絹の服を分解する",
+				"name": "絹の服（分解）",
 				"explanation": "絹の服を解体して革に戻す。",
 				"icon": {
 					"emoji": "👘",
@@ -26829,7 +26829,7 @@
 		{
 			"information": {
 				"id": "disassemble-laurel-crown",
-				"name": "月桂冠を分解する",
+				"name": "月桂冠（分解）",
 				"explanation": "月桂冠を解体して革に戻す。",
 				"icon": {
 					"emoji": "🏆",
@@ -26877,7 +26877,7 @@
 		{
 			"information": {
 				"id": "disassemble-torch",
-				"name": "松明を分解する",
+				"name": "松明（分解）",
 				"explanation": "松明を解体して革に戻す。",
 				"icon": {
 					"emoji": "🔥",
@@ -26925,7 +26925,7 @@
 		{
 			"information": {
 				"id": "disassemble-scouter",
-				"name": "スカウターを分解する",
+				"name": "スカウター（分解）",
 				"explanation": "スカウターを解体して革に戻す。",
 				"icon": {
 					"emoji": "🥽",
@@ -26973,7 +26973,7 @@
 		{
 			"information": {
 				"id": "disassemble-chainmail",
-				"name": "チェインメイルを分解する",
+				"name": "チェインメイル（分解）",
 				"explanation": "チェインメイルを解体して革に戻す。",
 				"icon": {
 					"emoji": "⛓️",
@@ -27021,7 +27021,7 @@
 		{
 			"information": {
 				"id": "disassemble-leather-boots",
-				"name": "革のブーツを分解する",
+				"name": "革のブーツ（分解）",
 				"explanation": "革のブーツを解体して革に戻す。",
 				"icon": {
 					"emoji": "🥾",
@@ -27069,7 +27069,7 @@
 		{
 			"information": {
 				"id": "disassemble-iron-greaves",
-				"name": "鉄の脇当てを分解する",
+				"name": "鉄の脇当て（分解）",
 				"explanation": "鉄の脇当てを解体して革に戻す。",
 				"icon": {
 					"emoji": "🦵",
@@ -27117,7 +27117,7 @@
 		{
 			"information": {
 				"id": "disassemble-leather-gloves",
-				"name": "革の手袋を分解する",
+				"name": "革の手袋（分解）",
 				"explanation": "革の手袋を解体して革に戻す。",
 				"icon": {
 					"emoji": "🧤",
@@ -27165,7 +27165,7 @@
 		{
 			"information": {
 				"id": "disassemble-iron-helmet",
-				"name": "鉄の兜を分解する",
+				"name": "鉄の兜（分解）",
 				"explanation": "鉄の兜を解体して革に戻す。",
 				"icon": {
 					"emoji": "⛑️",
@@ -27213,7 +27213,7 @@
 		{
 			"information": {
 				"id": "disassemble-bulletproof-vest",
-				"name": "防弾チョッキを分解する",
+				"name": "防弾チョッキ（分解）",
 				"explanation": "防弾チョッキを解体して革に戻す。",
 				"icon": {
 					"emoji": "🦺",
@@ -27261,7 +27261,7 @@
 		{
 			"information": {
 				"id": "disassemble-crab-claw",
-				"name": "カニのハサミを分解する",
+				"name": "カニのハサミ（分解）",
 				"explanation": "カニのハサミを解体して革に戻す。",
 				"icon": {
 					"emoji": "🦀",
@@ -27309,7 +27309,7 @@
 		{
 			"information": {
 				"id": "disassemble-iron-breastplate",
-				"name": "鉄の胸当を分解する",
+				"name": "鉄の胸当（分解）",
 				"explanation": "鉄の胸当を解体して革に戻す。",
 				"icon": {
 					"emoji": "🥋",
@@ -27357,7 +27357,7 @@
 		{
 			"information": {
 				"id": "disassemble-anesthetic-watch",
-				"name": "麻酔時計を分解する",
+				"name": "麻酔時計（分解）",
 				"explanation": "麻酔時計を解体して革に戻す。",
 				"icon": {
 					"emoji": "⏰",
@@ -27405,7 +27405,7 @@
 		{
 			"information": {
 				"id": "disassemble-iron-gauntlet",
-				"name": "鉄の籠手を分解する",
+				"name": "鉄の籠手（分解）",
 				"explanation": "鉄の籠手を解体して革に戻す。",
 				"icon": {
 					"emoji": "🧤",
@@ -27453,7 +27453,7 @@
 		{
 			"information": {
 				"id": "disassemble-bikini-armor",
-				"name": "ビキニアーマーを分解する",
+				"name": "ビキニアーマー（分解）",
 				"explanation": "ビキニアーマーを解体して革に戻す。",
 				"icon": {
 					"emoji": "👙",
@@ -27501,7 +27501,7 @@
 		{
 			"information": {
 				"id": "disassemble-high-heels",
-				"name": "ハイヒールを分解する",
+				"name": "ハイヒール（分解）",
 				"explanation": "ハイヒールを解体して革に戻す。",
 				"icon": {
 					"emoji": "👠",
@@ -27549,7 +27549,7 @@
 		{
 			"information": {
 				"id": "disassemble-kick-boost-shoes",
-				"name": "キック力増強シューズを分解する",
+				"name": "キック力増強シューズ（分解）",
 				"explanation": "キック力増強シューズを解体して革に戻す。",
 				"icon": {
 					"emoji": "👟",
@@ -27597,7 +27597,7 @@
 		{
 			"information": {
 				"id": "disassemble-daruma",
-				"name": "だるまを分解する",
+				"name": "だるま（分解）",
 				"explanation": "だるまを解体して革に戻す。",
 				"icon": {
 					"emoji": "🎎",
@@ -27645,7 +27645,7 @@
 		{
 			"information": {
 				"id": "disassemble-pumpkin-head",
-				"name": "パンプキンヘッドを分解する",
+				"name": "パンプキンヘッド（分解）",
 				"explanation": "パンプキンヘッドを解体して革に戻す。",
 				"icon": {
 					"emoji": "🎃",
@@ -27693,7 +27693,7 @@
 		{
 			"information": {
 				"id": "craft-gakuran",
-				"name": "学ランを作る",
+				"name": "学ラン",
 				"explanation": "材料を組み合わせて学ランを作る。",
 				"icon": {
 					"emoji": "🎓",
@@ -27748,7 +27748,7 @@
 		{
 			"information": {
 				"id": "craft-cowboy-boots",
-				"name": "カウボーイブーツを作る",
+				"name": "カウボーイブーツ",
 				"explanation": "材料を組み合わせてカウボーイブーツを作る。",
 				"icon": {
 					"emoji": "🥾",
@@ -27803,7 +27803,7 @@
 		{
 			"information": {
 				"id": "craft-sailor-uniform",
-				"name": "セーラー服を作る",
+				"name": "セーラー服",
 				"explanation": "材料を組み合わせてセーラー服を作る。",
 				"icon": {
 					"emoji": "⚓",
@@ -27858,7 +27858,7 @@
 		{
 			"information": {
 				"id": "craft-work-gloves",
-				"name": "軍手を作る",
+				"name": "軍手",
 				"explanation": "材料を組み合わせて軍手を作る。",
 				"icon": {
 					"emoji": "🧤",
@@ -27913,7 +27913,7 @@
 		{
 			"information": {
 				"id": "craft-cat-paw",
-				"name": "ネコの手を作る",
+				"name": "ネコの手",
 				"explanation": "材料を組み合わせてネコの手を作る。",
 				"icon": {
 					"emoji": "🐾",
@@ -27968,7 +27968,7 @@
 		{
 			"information": {
 				"id": "craft-safety-shoes",
-				"name": "安全靴を作る",
+				"name": "安全靴",
 				"explanation": "材料を組み合わせて安全靴を作る。",
 				"icon": {
 					"emoji": "👞",
@@ -28023,7 +28023,7 @@
 		{
 			"information": {
 				"id": "craft-chef-hat",
-				"name": "シェフハットを作る",
+				"name": "シェフハット",
 				"explanation": "材料を組み合わせてシェフハットを作る。",
 				"icon": {
 					"emoji": "👨‍🍳",
@@ -28078,7 +28078,7 @@
 		{
 			"information": {
 				"id": "craft-mask",
-				"name": "マスクを作る",
+				"name": "マスク",
 				"explanation": "材料を組み合わせてマスクを作る。",
 				"icon": {
 					"emoji": "😷",
@@ -28133,7 +28133,7 @@
 		{
 			"information": {
 				"id": "craft-leather-boots",
-				"name": "革のブーツを作る",
+				"name": "革のブーツ",
 				"explanation": "材料を組み合わせて革のブーツを作る。",
 				"icon": {
 					"emoji": "🥾",
@@ -28188,7 +28188,7 @@
 		{
 			"information": {
 				"id": "craft-leather-gloves",
-				"name": "革の手袋を作る",
+				"name": "革の手袋",
 				"explanation": "材料を組み合わせて革の手袋を作る。",
 				"icon": {
 					"emoji": "🧤",
@@ -28243,7 +28243,7 @@
 		{
 			"information": {
 				"id": "craft-scouter",
-				"name": "スカウターを作る",
+				"name": "スカウター",
 				"explanation": "材料を組み合わせてスカウターを作る。",
 				"icon": {
 					"emoji": "🥽",
@@ -28298,7 +28298,7 @@
 		{
 			"information": {
 				"id": "craft-chainmail",
-				"name": "チェインメイルを作る",
+				"name": "チェインメイル",
 				"explanation": "材料を組み合わせてチェインメイルを作る。",
 				"icon": {
 					"emoji": "⛓️",
@@ -28353,7 +28353,7 @@
 		{
 			"information": {
 				"id": "craft-crab-claw",
-				"name": "カニのハサミを作る",
+				"name": "カニのハサミ",
 				"explanation": "材料を組み合わせてカニのハサミを作る。",
 				"icon": {
 					"emoji": "🦀",
@@ -28408,7 +28408,7 @@
 		{
 			"information": {
 				"id": "craft-bulletproof-vest",
-				"name": "防弾チョッキを作る",
+				"name": "防弾チョッキ",
 				"explanation": "材料を組み合わせて防弾チョッキを作る。",
 				"icon": {
 					"emoji": "🦺",
@@ -28463,7 +28463,7 @@
 		{
 			"information": {
 				"id": "craft-iron-greaves",
-				"name": "鉄の脇当てを作る",
+				"name": "鉄の脇当て",
 				"explanation": "材料を組み合わせて鉄の脇当てを作る。",
 				"icon": {
 					"emoji": "🦵",
@@ -28518,7 +28518,7 @@
 		{
 			"information": {
 				"id": "craft-iron-helmet",
-				"name": "鉄の兜を作る",
+				"name": "鉄の兜",
 				"explanation": "材料を組み合わせて鉄の兜を作る。",
 				"icon": {
 					"emoji": "⛑️",
@@ -28573,7 +28573,7 @@
 		{
 			"information": {
 				"id": "craft-bikini-armor",
-				"name": "ビキニアーマーを作る",
+				"name": "ビキニアーマー",
 				"explanation": "材料を組み合わせてビキニアーマーを作る。",
 				"icon": {
 					"emoji": "👙",
@@ -28628,7 +28628,7 @@
 		{
 			"information": {
 				"id": "craft-kick-boost-shoes",
-				"name": "キック力増強シューズを作る",
+				"name": "キック力増強シューズ",
 				"explanation": "材料を組み合わせてキック力増強シューズを作る。",
 				"icon": {
 					"emoji": "👟",
@@ -28683,7 +28683,7 @@
 		{
 			"information": {
 				"id": "craft-anesthetic-watch",
-				"name": "麻酔時計を作る",
+				"name": "麻酔時計",
 				"explanation": "材料を組み合わせて麻酔時計を作る。",
 				"icon": {
 					"emoji": "⏰",
@@ -28738,7 +28738,7 @@
 		{
 			"information": {
 				"id": "craft-high-heels",
-				"name": "ハイヒールを作る",
+				"name": "ハイヒール",
 				"explanation": "材料を組み合わせてハイヒールを作る。",
 				"icon": {
 					"emoji": "👠",
@@ -28793,7 +28793,7 @@
 		{
 			"information": {
 				"id": "craft-iron-gauntlet",
-				"name": "鉄の籠手を作る",
+				"name": "鉄の籠手",
 				"explanation": "材料を組み合わせて鉄の籠手を作る。",
 				"icon": {
 					"emoji": "🧤",
@@ -28848,7 +28848,7 @@
 		{
 			"information": {
 				"id": "craft-pumpkin-head",
-				"name": "パンプキンヘッドを作る",
+				"name": "パンプキンヘッド",
 				"explanation": "材料を組み合わせてパンプキンヘッドを作る。",
 				"icon": {
 					"emoji": "🎃",
@@ -28903,7 +28903,7 @@
 		{
 			"information": {
 				"id": "craft-iron-breastplate",
-				"name": "鉄の胸当を作る",
+				"name": "鉄の胸当",
 				"explanation": "材料を組み合わせて鉄の胸当を作る。",
 				"icon": {
 					"emoji": "🥋",
@@ -28958,7 +28958,7 @@
 		{
 			"information": {
 				"id": "craft-daruma",
-				"name": "だるまを作る",
+				"name": "だるま",
 				"explanation": "材料を組み合わせてだるまを作る。",
 				"icon": {
 					"emoji": "🎎",
@@ -29013,7 +29013,7 @@
 		{
 			"information": {
 				"id": "craft-god-robe",
-				"name": "神衣を作る",
+				"name": "神衣",
 				"explanation": "材料を組み合わせて神衣を作る。",
 				"icon": {
 					"emoji": "👘",
@@ -29068,7 +29068,7 @@
 		{
 			"information": {
 				"id": "craft-odm-boots",
-				"name": "立体機動ブーツを作る",
+				"name": "立体機動ブーツ",
 				"explanation": "材料を組み合わせて立体機動ブーツを作る。",
 				"icon": {
 					"emoji": "🥾",
@@ -29123,7 +29123,7 @@
 		{
 			"information": {
 				"id": "craft-jade-hairpin",
-				"name": "翡翠のかんざしを作る",
+				"name": "翡翠のかんざし",
 				"explanation": "材料を組み合わせて翡翠のかんざしを作る。",
 				"icon": {
 					"emoji": "💚",
@@ -29178,7 +29178,7 @@
 		{
 			"information": {
 				"id": "craft-contradiction",
-				"name": "矛盾を作る",
+				"name": "矛盾",
 				"explanation": "材料を組み合わせて矛盾を作る。",
 				"icon": {
 					"emoji": "🛡️",
@@ -29233,7 +29233,7 @@
 		{
 			"information": {
 				"id": "craft-void-ring",
-				"name": "虚無のリングを作る",
+				"name": "虚無のリング",
 				"explanation": "材料を組み合わせて虚無のリングを作る。",
 				"icon": {
 					"emoji": "⚫",
@@ -29288,7 +29288,7 @@
 		{
 			"information": {
 				"id": "craft-plug-suit",
-				"name": "プラグスーツを作る",
+				"name": "プラグスーツ",
 				"explanation": "材料を組み合わせてプラグスーツを作る。",
 				"icon": {
 					"emoji": "🅿️",
@@ -29343,7 +29343,7 @@
 		{
 			"information": {
 				"id": "craft-box-gundam",
-				"name": "箱ガンダムを作る",
+				"name": "箱ガンダム",
 				"explanation": "材料を組み合わせて箱ガンダムを作る。",
 				"icon": {
 					"emoji": "🤖",
@@ -29398,7 +29398,7 @@
 		{
 			"information": {
 				"id": "craft-warp-star",
-				"name": "ワープスターを作る",
+				"name": "ワープスター",
 				"explanation": "材料を組み合わせてワープスターを作る。",
 				"icon": {
 					"emoji": "⭐",
@@ -29453,7 +29453,7 @@
 		{
 			"information": {
 				"id": "craft-sharingan",
-				"name": "写輪眼を作る",
+				"name": "写輪眼",
 				"explanation": "材料を組み合わせて写輪眼を作る。",
 				"icon": {
 					"emoji": "👁️",
@@ -29508,7 +29508,7 @@
 		{
 			"information": {
 				"id": "craft-holy-cloth",
-				"name": "聖衣を作る",
+				"name": "聖衣",
 				"explanation": "材料を組み合わせて聖衣を作る。",
 				"icon": {
 					"emoji": "👘",
@@ -29563,7 +29563,7 @@
 		{
 			"information": {
 				"id": "craft-winged-shoes",
-				"name": "羽のついた靴を作る",
+				"name": "羽のついた靴",
 				"explanation": "材料を組み合わせて羽のついた靴を作る。",
 				"icon": {
 					"emoji": "👟",
@@ -29618,7 +29618,7 @@
 		{
 			"information": {
 				"id": "craft-six-eyes",
-				"name": "六眼の瞳を作る",
+				"name": "六眼の瞳",
 				"explanation": "材料を組み合わせて六眼の瞳を作る。",
 				"icon": {
 					"emoji": "👁️",
@@ -29673,7 +29673,7 @@
 		{
 			"information": {
 				"id": "craft-crystal-skull",
-				"name": "クリスタルスカルを作る",
+				"name": "クリスタルスカル",
 				"explanation": "材料を組み合わせてクリスタルスカルを作る。",
 				"icon": {
 					"emoji": "💀",
@@ -29728,7 +29728,7 @@
 		{
 			"information": {
 				"id": "craft-halo",
-				"name": "天使の輪を作る",
+				"name": "天使の輪",
 				"explanation": "材料を組み合わせて天使の輪を作る。",
 				"icon": {
 					"emoji": "😇",
@@ -29783,7 +29783,7 @@
 		{
 			"information": {
 				"id": "craft-infinity-gauntlet",
-				"name": "無限の手袋を作る",
+				"name": "無限の手袋",
 				"explanation": "材料を組み合わせて無限の手袋を作る。",
 				"icon": {
 					"emoji": "🧤",
@@ -29838,7 +29838,7 @@
 		{
 			"information": {
 				"id": "disassemble-pin-badge",
-				"name": "ピンバッジを分解する",
+				"name": "ピンバッジ（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🎖️",
@@ -29886,7 +29886,7 @@
 		{
 			"information": {
 				"id": "disassemble-cowbell",
-				"name": "カウベルを分解する",
+				"name": "カウベル（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🔔",
@@ -29934,7 +29934,7 @@
 		{
 			"information": {
 				"id": "disassemble-dog-collar",
-				"name": "犬の首輪を分解する",
+				"name": "犬の首輪（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🐕",
@@ -29982,7 +29982,7 @@
 		{
 			"information": {
 				"id": "disassemble-one-leaf-clover",
-				"name": "1葉のクローバーを分解する",
+				"name": "1葉のクローバー（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🍀",
@@ -30030,7 +30030,7 @@
 		{
 			"information": {
 				"id": "disassemble-firefly",
-				"name": "ホタルを分解する",
+				"name": "ホタル（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "✨",
@@ -30078,7 +30078,7 @@
 		{
 			"information": {
 				"id": "disassemble-silver-ring",
-				"name": "銀の指輪を分解する",
+				"name": "銀の指輪（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "💍",
@@ -30126,7 +30126,7 @@
 		{
 			"information": {
 				"id": "disassemble-edible-ring",
-				"name": "食べられる指輪を分解する",
+				"name": "食べられる指輪（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🍩",
@@ -30174,7 +30174,7 @@
 		{
 			"information": {
 				"id": "disassemble-heart-brooch",
-				"name": "ハートブローチを分解する",
+				"name": "ハートブローチ（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "💗",
@@ -30222,7 +30222,7 @@
 		{
 			"information": {
 				"id": "disassemble-shark-tooth-necklace",
-				"name": "サメ歯ネックレスを分解する",
+				"name": "サメ歯ネックレス（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🦈",
@@ -30270,7 +30270,7 @@
 		{
 			"information": {
 				"id": "disassemble-employee-badge",
-				"name": "社員証を分解する",
+				"name": "社員証（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🪪",
@@ -30318,7 +30318,7 @@
 		{
 			"information": {
 				"id": "disassemble-baumkuchen",
-				"name": "バウムクーヘンを分解する",
+				"name": "バウムクーヘン（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🍩",
@@ -30366,7 +30366,7 @@
 		{
 			"information": {
 				"id": "disassemble-wedding-ring",
-				"name": "結婚指輪を分解する",
+				"name": "結婚指輪（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "💍",
@@ -30414,7 +30414,7 @@
 		{
 			"information": {
 				"id": "disassemble-smart-ring",
-				"name": "スマートリングを分解する",
+				"name": "スマートリング（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "⌚",
@@ -30462,7 +30462,7 @@
 		{
 			"information": {
 				"id": "disassemble-stuck-ring",
-				"name": "取れない指輪を分解する",
+				"name": "取れない指輪（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "💍",
@@ -30510,7 +30510,7 @@
 		{
 			"information": {
 				"id": "disassemble-philosophers-stone",
-				"name": "賢者の石を分解する",
+				"name": "賢者の石（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🔴",
@@ -30558,7 +30558,7 @@
 		{
 			"information": {
 				"id": "disassemble-broccoli",
-				"name": "ブロッコリーを分解する",
+				"name": "ブロッコリー（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🥦",
@@ -30606,7 +30606,7 @@
 		{
 			"information": {
 				"id": "disassemble-verified-badge",
-				"name": "認証バッジを分解する",
+				"name": "認証バッジ（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🪪",
@@ -30654,7 +30654,7 @@
 		{
 			"information": {
 				"id": "disassemble-gym-badge",
-				"name": "ジムバッジを分解する",
+				"name": "ジムバッジ（分解）",
 				"explanation": "砕いて色の褪せた石だけを拾う。",
 				"icon": {
 					"emoji": "🎖️",
@@ -30702,7 +30702,7 @@
 		{
 			"information": {
 				"id": "disassemble-secret-stone",
-				"name": "秘石を分解する",
+				"name": "秘石（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "💎",
@@ -30750,7 +30750,7 @@
 		{
 			"information": {
 				"id": "disassemble-hunter-license",
-				"name": "ハンターライセンスを分解する",
+				"name": "ハンターライセンス（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🪪",
@@ -30798,7 +30798,7 @@
 		{
 			"information": {
 				"id": "disassemble-diamond-ring",
-				"name": "ダイヤモンドの指輪を分解する",
+				"name": "ダイヤモンドの指輪（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "💍",
@@ -30846,7 +30846,7 @@
 		{
 			"information": {
 				"id": "disassemble-glowing-ring",
-				"name": "光る指輪を分解する",
+				"name": "光る指輪（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "💍",
@@ -30894,7 +30894,7 @@
 		{
 			"information": {
 				"id": "disassemble-crystal-pendant",
-				"name": "水晶のペンダントを分解する",
+				"name": "水晶のペンダント（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🔮",
@@ -30942,7 +30942,7 @@
 		{
 			"information": {
 				"id": "disassemble-police-badge",
-				"name": "警察バッジを分解する",
+				"name": "警察バッジ（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "👮",
@@ -30990,7 +30990,7 @@
 		{
 			"information": {
 				"id": "disassemble-cross-rosary",
-				"name": "十字架のロザリオを分解する",
+				"name": "十字架のロザリオ（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "📿",
@@ -31038,7 +31038,7 @@
 		{
 			"information": {
 				"id": "disassemble-moon-emblem",
-				"name": "月の紋章を分解する",
+				"name": "月の紋章（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🌙",
@@ -31086,7 +31086,7 @@
 		{
 			"information": {
 				"id": "disassemble-minus-four-leaf-clover",
-				"name": "-4葉のクローバーを分解する",
+				"name": "-4葉のクローバー（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🍀",
@@ -31134,7 +31134,7 @@
 		{
 			"information": {
 				"id": "disassemble-spinning-ring",
-				"name": "高速回転してる指輪を分解する",
+				"name": "高速回転してる指輪（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "💫",
@@ -31182,7 +31182,7 @@
 		{
 			"information": {
 				"id": "disassemble-ring-of-power",
-				"name": "力の指輪を分解する",
+				"name": "力の指輪（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "💍",
@@ -31230,7 +31230,7 @@
 		{
 			"information": {
 				"id": "disassemble-red-string-of-fate",
-				"name": "運命の赤い糸を分解する",
+				"name": "運命の赤い糸（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🧵",
@@ -31278,7 +31278,7 @@
 		{
 			"information": {
 				"id": "disassemble-hexagram-charm",
-				"name": "六芒星のお守りを分解する",
+				"name": "六芒星のお守り（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🔯",
@@ -31326,7 +31326,7 @@
 		{
 			"information": {
 				"id": "disassemble-bowtie-voice-changer",
-				"name": "蝶ネクタイ型変声機を分解する",
+				"name": "蝶ネクタイ型変声機（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🎙️",
@@ -31374,7 +31374,7 @@
 		{
 			"information": {
 				"id": "disassemble-disguise-brooch",
-				"name": "変装ブローチを分解する",
+				"name": "変装ブローチ（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🥸",
@@ -31422,7 +31422,7 @@
 		{
 			"information": {
 				"id": "disassemble-dragon-ring",
-				"name": "ドラゴンの指輪を分解する",
+				"name": "ドラゴンの指輪（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "💍",
@@ -31470,7 +31470,7 @@
 		{
 			"information": {
 				"id": "disassemble-medal",
-				"name": "勲章を分解する",
+				"name": "勲章（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🎖️",
@@ -31518,7 +31518,7 @@
 		{
 			"information": {
 				"id": "disassemble-family-crest-brooch",
-				"name": "家紋のブローチを分解する",
+				"name": "家紋のブローチ（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🎖️",
@@ -31566,7 +31566,7 @@
 		{
 			"information": {
 				"id": "disassemble-dark-pendant",
-				"name": "闇のペンダントを分解する",
+				"name": "闇のペンダント（分解）",
 				"explanation": "割り直して芯になる宝石を取り出す。",
 				"icon": {
 					"emoji": "🔮",
@@ -31614,7 +31614,7 @@
 		{
 			"information": {
 				"id": "craft-broccoli",
-				"name": "ブロッコリーを作る",
+				"name": "ブロッコリー",
 				"explanation": "苔を握って房の形に整える。振り回すと、祓い清められる。",
 				"icon": {
 					"emoji": "🥦",
@@ -31669,7 +31669,7 @@
 		{
 			"information": {
 				"id": "craft-smart-ring",
-				"name": "スマートリングを作る",
+				"name": "スマートリング",
 				"explanation": "小銭ほどの基板を輪にする。目指せ毎日１万歩。",
 				"icon": {
 					"emoji": "⌚",
@@ -31724,7 +31724,7 @@
 		{
 			"information": {
 				"id": "craft-verified-badge",
-				"name": "認証バッジを作る",
+				"name": "認証バッジ",
 				"explanation": "透明な板に印を封じ込める。本物の証。",
 				"icon": {
 					"emoji": "🪪",
@@ -31779,7 +31779,7 @@
 		{
 			"information": {
 				"id": "craft-gym-badge",
-				"name": "ジムバッジを作る",
+				"name": "ジムバッジ",
 				"explanation": "割れた看板を切り出して磨く。強者の証。",
 				"icon": {
 					"emoji": "🎖️",
@@ -31834,7 +31834,7 @@
 		{
 			"information": {
 				"id": "craft-stuck-ring",
-				"name": "取れない指輪を作る",
+				"name": "取れない指輪",
 				"explanation": "ハンガーを曲げてテープで留める。呪いのせいか太ったせいか、もう抜けない。",
 				"icon": {
 					"emoji": "💍",
@@ -31889,7 +31889,7 @@
 		{
 			"information": {
 				"id": "craft-philosophers-stone",
-				"name": "賢者の石を作る",
+				"name": "賢者の石",
 				"explanation": "ガラスの器で肉を煮詰め続ける。多くの犠牲に代えて永遠の命を得る。",
 				"icon": {
 					"emoji": "🔴",
@@ -31944,7 +31944,7 @@
 		{
 			"information": {
 				"id": "craft-disguise-brooch",
-				"name": "変装ブローチを作る",
+				"name": "変装ブローチ",
 				"explanation": "精密部品に月の力を溜める。戦士のコスプレに変装できる。",
 				"icon": {
 					"emoji": "🥸",
@@ -31999,7 +31999,7 @@
 		{
 			"information": {
 				"id": "craft-ring-of-power",
-				"name": "力の指輪を作る",
+				"name": "力の指輪",
 				"explanation": "モーターを指輪に埋める。はめれば筋力が跳ね上がる。",
 				"icon": {
 					"emoji": "💍",
@@ -32054,7 +32054,7 @@
 		{
 			"information": {
 				"id": "craft-hexagram-charm",
-				"name": "六芒星のお守りを作る",
+				"name": "六芒星のお守り",
 				"explanation": "鋼鉄板を六つに切って組む。邪気を払う古代の紋章。",
 				"icon": {
 					"emoji": "🔯",
@@ -32109,7 +32109,7 @@
 		{
 			"information": {
 				"id": "craft-bowtie-voice-changer",
-				"name": "蝶ネクタイ型変声機を作る",
+				"name": "蝶ネクタイ型変声機",
 				"explanation": "基板とモーターを蝶の形に収める。声を変えれば別人に。",
 				"icon": {
 					"emoji": "🎙️",
@@ -32171,7 +32171,7 @@
 		{
 			"information": {
 				"id": "craft-red-string-of-fate",
-				"name": "運命の赤い糸を作る",
+				"name": "運命の赤い糸",
 				"explanation": "針金を赤く焼いて撚る。一度切れたらもう戻らない。",
 				"icon": {
 					"emoji": "🧵",
@@ -32226,7 +32226,7 @@
 		{
 			"information": {
 				"id": "craft-medal",
-				"name": "勲章を作る",
+				"name": "勲章",
 				"explanation": "ミスリル銀に功績を刻む。誰の功績かは問われない。",
 				"icon": {
 					"emoji": "🎖️",
@@ -32281,7 +32281,7 @@
 		{
 			"information": {
 				"id": "craft-dragon-ring",
-				"name": "ドラゴンの指輪を作る",
+				"name": "ドラゴンの指輪",
 				"explanation": "竜の鱗を一枚だけ輪に嵌める。竜の加護を指先に。",
 				"icon": {
 					"emoji": "💍",
@@ -32336,7 +32336,7 @@
 		{
 			"information": {
 				"id": "craft-dark-pendant",
-				"name": "闇のペンダントを作る",
+				"name": "闇のペンダント",
 				"explanation": "黒曜石を薄く削って首に下げる。身につけた者は夜を纏う。",
 				"icon": {
 					"emoji": "🔮",
@@ -32391,7 +32391,7 @@
 		{
 			"information": {
 				"id": "craft-family-crest-brooch",
-				"name": "家紋のブローチを作る",
+				"name": "家紋のブローチ",
 				"explanation": "ドワーフの設計図から紋を起こす。一族の誇りを胸に。",
 				"icon": {
 					"emoji": "🎖️",
@@ -32446,7 +32446,7 @@
 		{
 			"information": {
 				"id": "craft-one-ring",
-				"name": "一つの指輪を作る",
+				"name": "一つの指輪",
 				"explanation": "魔王の印璽を鋳潰して輪にする。すべてを統べる禁断の輪。",
 				"icon": {
 					"emoji": "💍",
@@ -32501,7 +32501,7 @@
 		{
 			"information": {
 				"id": "craft-dark-matter",
-				"name": "暗黒物質を作る",
+				"name": "暗黒物質",
 				"explanation": "怨念の結晶を圧し潰す。負の感情の集合体。",
 				"icon": {
 					"emoji": "🌑",
@@ -32556,7 +32556,7 @@
 		{
 			"information": {
 				"id": "craft-beast-rose",
-				"name": "獣の薔薧を作る",
+				"name": "獣の薔薧",
 				"explanation": "魔獣の牙を花弁の形に並べる。愛されなければ獣のまま。",
 				"icon": {
 					"emoji": "🌹",
@@ -32611,7 +32611,7 @@
 		{
 			"information": {
 				"id": "craft-ninety-nine-leaf-clover",
-				"name": "99葉のクローバーを作る",
+				"name": "99葉のクローバー",
 				"explanation": "奈落の宝珠を核にして葉を増やす。幸運がカンストしている。",
 				"icon": {
 					"emoji": "🍀",
@@ -32666,7 +32666,7 @@
 		{
 			"information": {
 				"id": "craft-golden-spin",
-				"name": "黄金の回転を作る",
+				"name": "黄金の回転",
 				"explanation": "裁きの天秤を黄金比で組み直す。止まらない回転が生まれる。",
 				"icon": {
 					"emoji": "🌀",
@@ -32721,7 +32721,7 @@
 		{
 			"information": {
 				"id": "craft-s2-engine",
-				"name": "S2機関を作る",
+				"name": "S2機関",
 				"explanation": "柱石をそのまま炉心に据える。半永久的にエネルギーを生む。",
 				"icon": {
 					"emoji": "⚙️",
@@ -32776,7 +32776,7 @@
 		{
 			"information": {
 				"id": "craft-at-field",
-				"name": "ATフィールドを作る",
+				"name": "ATフィールド",
 				"explanation": "柱石を核に心の壁を展開する。物理的に、というのがこの世界の流儀。",
 				"icon": {
 					"emoji": "🔺",
@@ -32831,7 +32831,7 @@
 		{
 			"information": {
 				"id": "craft-time-stopping-hourglass",
-				"name": "時を止める砂時計を作る",
+				"name": "時を止める砂時計",
 				"explanation": "柱石を砕いて砂にする。止まった時間の中で、砂時計だけが永遠を生きる。",
 				"icon": {
 					"emoji": "⏳",
@@ -32886,7 +32886,7 @@
 		{
 			"information": {
 				"id": "disassemble-egg",
-				"name": "卵を分解する",
+				"name": "卵（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🥚",
@@ -32934,7 +32934,7 @@
 		{
 			"information": {
 				"id": "disassemble-water-balloon",
-				"name": "水風船を分解する",
+				"name": "水風船（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🎈",
@@ -32982,7 +32982,7 @@
 		{
 			"information": {
 				"id": "disassemble-pie",
-				"name": "パイを分解する",
+				"name": "パイ（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🥧",
@@ -33030,7 +33030,7 @@
 		{
 			"information": {
 				"id": "disassemble-tomato",
-				"name": "トマトを分解する",
+				"name": "トマト（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🍅",
@@ -33078,7 +33078,7 @@
 		{
 			"information": {
 				"id": "disassemble-mentos-soda",
-				"name": "メントス入りソーダを分解する",
+				"name": "メントス入りソーダ（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🥤",
@@ -33126,7 +33126,7 @@
 		{
 			"information": {
 				"id": "disassemble-party-popper",
-				"name": "パーティークラッカーを分解する",
+				"name": "パーティークラッカー（分解）",
 				"explanation": "炉に放り込んで低級の金属を回収する。",
 				"icon": {
 					"emoji": "🎉",
@@ -33174,7 +33174,7 @@
 		{
 			"information": {
 				"id": "disassemble-mandragora",
-				"name": "マンドラゴラを分解する",
+				"name": "マンドラゴラ（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🌱",
@@ -33222,7 +33222,7 @@
 		{
 			"information": {
 				"id": "disassemble-fire-flower",
-				"name": "ファイアフラワーを分解する",
+				"name": "ファイアフラワー（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🌼",
@@ -33270,7 +33270,7 @@
 		{
 			"information": {
 				"id": "disassemble-flashbang",
-				"name": "閃光弾を分解する",
+				"name": "閃光弾（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "✨",
@@ -33318,7 +33318,7 @@
 		{
 			"information": {
 				"id": "disassemble-molotov",
-				"name": "火炎ビンを分解する",
+				"name": "火炎ビン（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🍾",
@@ -33366,7 +33366,7 @@
 		{
 			"information": {
 				"id": "disassemble-faucet-handle",
-				"name": "蛇口のハンドルを分解する",
+				"name": "蛇口のハンドル（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🚰",
@@ -33414,7 +33414,7 @@
 		{
 			"information": {
 				"id": "disassemble-lithium-battery",
-				"name": "リチウムバッテリーを分解する",
+				"name": "リチウムバッテリー（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🔋",
@@ -33462,7 +33462,7 @@
 		{
 			"information": {
 				"id": "disassemble-dynamite",
-				"name": "ダイナマイトを分解する",
+				"name": "ダイナマイト（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "🧨",
@@ -33510,7 +33510,7 @@
 		{
 			"information": {
 				"id": "disassemble-grenade",
-				"name": "手榴弾を分解する",
+				"name": "手榴弾（分解）",
 				"explanation": "溶かし直して芯になる金属を取り出す。",
 				"icon": {
 					"emoji": "💣",
@@ -33558,7 +33558,7 @@
 		{
 			"information": {
 				"id": "craft-mentos-soda",
-				"name": "メントス入りソーダを作る",
+				"name": "メントス入りソーダ",
 				"explanation": "ソーダにメントスを沈めて栓をする。振るな危険。",
 				"icon": {
 					"emoji": "🥤",
@@ -33613,7 +33613,7 @@
 		{
 			"information": {
 				"id": "craft-party-popper",
-				"name": "パーティークラッカーを作る",
+				"name": "パーティークラッカー",
 				"explanation": "紙を巻いて筒にし、テープで留める。紐を引けば祝祭の始まり。",
 				"icon": {
 					"emoji": "🎉",
@@ -33675,7 +33675,7 @@
 		{
 			"information": {
 				"id": "craft-lithium-battery",
-				"name": "リチウムバッテリーを作る",
+				"name": "リチウムバッテリー",
 				"explanation": "リチウムを詰めすぎた電池。炎天下でないと爆発しないので要注意。",
 				"icon": {
 					"emoji": "🔋",
@@ -33730,7 +33730,7 @@
 		{
 			"information": {
 				"id": "craft-faucet-handle",
-				"name": "蛇口のハンドルを作る",
+				"name": "蛇口のハンドル",
 				"explanation": "蒸気バルブを削って刃を立てる。手裏剣の職人がいなくなった現代の代用品。",
 				"icon": {
 					"emoji": "🚰",
@@ -33785,7 +33785,7 @@
 		{
 			"information": {
 				"id": "craft-grenade",
-				"name": "手榴弾を作る",
+				"name": "手榴弾",
 				"explanation": "赤熱鉄の殻に火薬を詰める。ピンを抜いて投げるだけ。",
 				"icon": {
 					"emoji": "💣",
@@ -33847,7 +33847,7 @@
 		{
 			"information": {
 				"id": "craft-dynamite",
-				"name": "ダイナマイトを作る",
+				"name": "ダイナマイト",
 				"explanation": "火薬を紙で巻いて導火線を挿す。坑道の味方、敵の恐怖。",
 				"icon": {
 					"emoji": "🧨",
@@ -33902,7 +33902,7 @@
 		{
 			"information": {
 				"id": "craft-clockwork-apple",
-				"name": "時計仕掛けのリンゴを作る",
+				"name": "時計仕掛けのリンゴ",
 				"explanation": "輪廻の歯車を仕込む。時間ぴったりに炸裂する。",
 				"icon": {
 					"emoji": "🍎",
@@ -33957,7 +33957,7 @@
 		{
 			"information": {
 				"id": "craft-ghost-ward",
-				"name": "幽霊退治の札を作る",
+				"name": "幽霊退治の札",
 				"explanation": "閻魔帳の切れ端に一筆入れる。貼れば見えないものにも効く。",
 				"icon": {
 					"emoji": "🏷️",
@@ -34012,7 +34012,7 @@
 		{
 			"information": {
 				"id": "craft-star-rod",
-				"name": "スターロッドを作る",
+				"name": "スターロッド",
 				"explanation": "魔王の印璽を先端に据える。星の力かどうかは誰も確かめていない。",
 				"icon": {
 					"emoji": "🪄",
@@ -34067,7 +34067,7 @@
 		{
 			"information": {
 				"id": "craft-n2-mine",
-				"name": "N2爆雷を作る",
+				"name": "N2爆雷",
 				"explanation": "柱石を起爆芯に使う。通常兵器の最終手段。",
 				"icon": {
 					"emoji": "💣",
@@ -34122,7 +34122,7 @@
 		{
 			"information": {
 				"id": "craft-trojan-horse",
-				"name": "トロイの木馬を作る",
+				"name": "トロイの木馬",
 				"explanation": "柱石を腹に隠して木で覆う。贈り物には要注意。",
 				"icon": {
 					"emoji": "🐴",
@@ -34177,7 +34177,7 @@
 		{
 			"information": {
 				"id": "craft-spirit-bomb",
-				"name": "元気玉を作る",
+				"name": "元気玉",
 				"explanation": "柱石を核にして力を集める。集まるかどうかは信頼次第。",
 				"icon": {
 					"emoji": "🌕",
@@ -34232,7 +34232,7 @@
 		{
 			"information": {
 				"id": "craft-nuclear-bomb",
-				"name": "核爆弾を作る",
+				"name": "核爆弾",
 				"explanation": "柱石を臨界まで詰める。押すなよ、絶対押すなよ。",
 				"icon": {
 					"emoji": "☢️",
@@ -34287,7 +34287,7 @@
 		{
 			"information": {
 				"id": "craft-military-dolphin",
-				"name": "軍用イルカを作る",
+				"name": "軍用イルカ",
 				"explanation": "柱石を背負わせて海へ放つ。訓練された海の爆弾運び。",
 				"icon": {
 					"emoji": "🐬",

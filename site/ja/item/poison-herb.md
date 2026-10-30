@@ -19,8 +19,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>下剤の調合](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv32 | 9 | 100% |  |
-| [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv36 | 5 | 100% |  |
+| [<span class="wiki-icon">💊</span>下剤](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv32 | 9 | 100% |  |
+| [<span class="wiki-icon">🧪</span>毒瓶](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv36 | 5 | 100% |  |
 
 ## 解放条件
 

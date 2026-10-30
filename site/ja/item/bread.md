@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 89 | 100% | 75.6 | 2,269 |
-| [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv13 | 1 | 84% | 0.84 | 50.4 |
+| [<span class="wiki-icon">🍞</span>パン](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 89 | 100% | 75.6 | 2,269 |
+| [<span class="wiki-icon">📦</span>タイムカプセル](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv13 | 1 | 84% | 0.84 | 50.4 |
 
 ## 用途
 

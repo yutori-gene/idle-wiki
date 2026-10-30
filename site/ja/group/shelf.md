@@ -8,8 +8,8 @@
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">✉️</span>ボトルメールを封じる](/ja/action/seal-message-in-a-bottle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv18 | 単発 |
-| [<span class="wiki-icon">❄️</span>スノードームを作る](/ja/action/craft-snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv25 | 単発 |
-| [<span class="wiki-icon">🔮</span>万華鏡を作る](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 単発 |
+| [<span class="wiki-icon">❄️</span>スノードーム](/ja/action/craft-snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv25 | 単発 |
+| [<span class="wiki-icon">🔮</span>万華鏡](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 単発 |
 | [<span class="wiki-icon">📼</span>無限ループするビデオテープを複製する](/ja/action/copy-infinite-loop-videotape) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv42 | 単発 |
 | [<span class="wiki-icon">🟡</span>金の玉を磨く](/ja/action/polish-golden-orb) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv50 | 単発 |
 

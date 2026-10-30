@@ -11,31 +11,31 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏏</span>釘バットを分解する](/ja/action/disassemble-nail-bat) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv18 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">🦯</span>松葉杖を分解する](/ja/action/disassemble-crutch) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv19 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">💼</span>アタッシュケースを分解する](/ja/action/disassemble-attache-case) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv26 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🔨</span>ピコハンマーを分解する](/ja/action/disassemble-pico-hammer) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv26 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🎸</span>ギターを分解する](/ja/action/disassemble-guitar) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv29 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🔱</span>さすまたを分解する](/ja/action/disassemble-sasumata) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv32 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">⚔️</span>諸刃の剣を分解する](/ja/action/disassemble-double-edged-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv34 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🗡️</span>グラディウスを分解する](/ja/action/disassemble-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv37 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🎯</span>スリングショットを分解する](/ja/action/disassemble-slingshot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv18 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">🎣</span>釣竿を分解する](/ja/action/disassemble-fishing-rod) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv18 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">🦔</span>ウニを分解する](/ja/action/disassemble-sea-urchin) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv25 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🐢</span>カメの甲羅を分解する](/ja/action/disassemble-turtle-shell) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv27 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">👊</span>ロケットパンチを分解する](/ja/action/disassemble-rocket-punch) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv28 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">💿</span>DVDを分解する](/ja/action/disassemble-dvd) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv30 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🪓</span>トマホークを分解する](/ja/action/disassemble-tomahawk) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv33 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🪢</span>愛の鞭を分解する](/ja/action/disassemble-whip-of-love) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv33 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">💋</span>投げキッスを分解する](/ja/action/disassemble-blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv37 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🌱</span>マンドラゴラを分解する](/ja/action/disassemble-mandragora) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv20 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">🌼</span>ファイアフラワーを分解する](/ja/action/disassemble-fire-flower) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv21 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">✨</span>閃光弾を分解する](/ja/action/disassemble-flashbang) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv26 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🍾</span>火炎ビンを分解する](/ja/action/disassemble-molotov) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv27 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🚰</span>蛇口のハンドルを分解する](/ja/action/disassemble-faucet-handle) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv29 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🔋</span>リチウムバッテリーを分解する](/ja/action/disassemble-lithium-battery) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv32 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🧨</span>ダイナマイトを分解する](/ja/action/disassemble-dynamite) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">💣</span>手榴弾を分解する](/ja/action/disassemble-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🏏</span>釘バット（分解）](/ja/action/disassemble-nail-bat) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv18 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">🦯</span>松葉杖（分解）](/ja/action/disassemble-crutch) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv19 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">💼</span>アタッシュケース（分解）](/ja/action/disassemble-attache-case) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv26 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">🔨</span>ピコハンマー（分解）](/ja/action/disassemble-pico-hammer) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv26 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">🎸</span>ギター（分解）](/ja/action/disassemble-guitar) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv29 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">🔱</span>さすまた（分解）](/ja/action/disassemble-sasumata) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv32 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">⚔️</span>諸刃の剣（分解）](/ja/action/disassemble-double-edged-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv34 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🗡️</span>グラディウス（分解）](/ja/action/disassemble-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv37 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🎯</span>スリングショット（分解）](/ja/action/disassemble-slingshot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv18 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">🎣</span>釣竿（分解）](/ja/action/disassemble-fishing-rod) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv18 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">🦔</span>ウニ（分解）](/ja/action/disassemble-sea-urchin) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv25 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">🐢</span>カメの甲羅（分解）](/ja/action/disassemble-turtle-shell) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv27 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">👊</span>ロケットパンチ（分解）](/ja/action/disassemble-rocket-punch) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv28 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">💿</span>DVD（分解）](/ja/action/disassemble-dvd) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv30 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">🪓</span>トマホーク（分解）](/ja/action/disassemble-tomahawk) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv33 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🪢</span>愛の鞭（分解）](/ja/action/disassemble-whip-of-love) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv33 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">💋</span>投げキッス（分解）](/ja/action/disassemble-blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv37 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🌱</span>マンドラゴラ（分解）](/ja/action/disassemble-mandragora) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv20 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">🌼</span>ファイアフラワー（分解）](/ja/action/disassemble-fire-flower) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv21 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">✨</span>閃光弾（分解）](/ja/action/disassemble-flashbang) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv26 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">🍾</span>火炎ビン（分解）](/ja/action/disassemble-molotov) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv27 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">🚰</span>蛇口のハンドル（分解）](/ja/action/disassemble-faucet-handle) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv29 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">🔋</span>リチウムバッテリー（分解）](/ja/action/disassemble-lithium-battery) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv32 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">🧨</span>ダイナマイト（分解）](/ja/action/disassemble-dynamite) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">💣</span>手榴弾（分解）](/ja/action/disassemble-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 1 | 100% | 1 | 1.7 |
 
 ## 用途
 
@@ -43,27 +43,27 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗡️</span>ムラマサを作る](/ja/action/craft-muramasa) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 2 | 100% |  |
-| [<span class="wiki-icon">🪄</span>封印の杖を作る](/ja/action/craft-sealing-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 2 | 100% |  |
-| [<span class="wiki-icon">⚔️</span>ビームサーベルを作る](/ja/action/craft-beam-saber) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv47 | 2 | 100% |  |
-| [<span class="wiki-icon">⚔️</span>エクスカリバーを作る](/ja/action/craft-excalibur) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv49 | 2 | 100% |  |
-| [<span class="wiki-icon">🗝️</span>🔑ブレードを作る](/ja/action/craft-key-blade) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">🪄</span>如意棒を作る](/ja/action/craft-ruyi-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">⚔️</span>マスターソードを作る](/ja/action/craft-master-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">🔴</span>モンスターボールを作る](/ja/action/craft-monster-ball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv44 | 2 | 100% |  |
-| [<span class="wiki-icon">🔫</span>ロシアンルーレットを作る](/ja/action/craft-russian-roulette) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv45 | 2 | 100% |  |
-| [<span class="wiki-icon">🎼</span>時のリコーダーを作る](/ja/action/craft-recorder-of-time) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv45 | 2 | 100% |  |
-| [<span class="wiki-icon">🏹</span>スタンドの矢を作る](/ja/action/craft-stand-arrow) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">🚀</span>マグロケットを作る](/ja/action/craft-tuna-rocket) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">🔱</span>ロンギヌスの槍を作る](/ja/action/craft-spear-of-longinus) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">🍎</span>時計仕掛けのリンゴを作る](/ja/action/craft-clockwork-apple) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv43 | 2 | 100% |  |
-| [<span class="wiki-icon">🏷️</span>幽霊退治の札を作る](/ja/action/craft-ghost-ward) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv44 | 2 | 100% |  |
-| [<span class="wiki-icon">🪄</span>スターロッドを作る](/ja/action/craft-star-rod) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv46 | 2 | 100% |  |
-| [<span class="wiki-icon">💣</span>N2爆雷を作る](/ja/action/craft-n2-mine) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">🐴</span>トロイの木馬を作る](/ja/action/craft-trojan-horse) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">🌕</span>元気玉を作る](/ja/action/craft-spirit-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">☢️</span>核爆弾を作る](/ja/action/craft-nuclear-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">🐬</span>軍用イルカを作る](/ja/action/craft-military-dolphin) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🗡️</span>ムラマサ](/ja/action/craft-muramasa) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 2 | 100% |  |
+| [<span class="wiki-icon">🪄</span>封印の杖](/ja/action/craft-sealing-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 2 | 100% |  |
+| [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/action/craft-beam-saber) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv47 | 2 | 100% |  |
+| [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/action/craft-excalibur) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv49 | 2 | 100% |  |
+| [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/action/craft-key-blade) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🪄</span>如意棒](/ja/action/craft-ruyi-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">⚔️</span>マスターソード](/ja/action/craft-master-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🔴</span>モンスターボール](/ja/action/craft-monster-ball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv44 | 2 | 100% |  |
+| [<span class="wiki-icon">🔫</span>ロシアンルーレット](/ja/action/craft-russian-roulette) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv45 | 2 | 100% |  |
+| [<span class="wiki-icon">🎼</span>時のリコーダー](/ja/action/craft-recorder-of-time) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv45 | 2 | 100% |  |
+| [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/action/craft-stand-arrow) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🚀</span>マグロケット](/ja/action/craft-tuna-rocket) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/action/craft-spear-of-longinus) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🍎</span>時計仕掛けのリンゴ](/ja/action/craft-clockwork-apple) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv43 | 2 | 100% |  |
+| [<span class="wiki-icon">🏷️</span>幽霊退治の札](/ja/action/craft-ghost-ward) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv44 | 2 | 100% |  |
+| [<span class="wiki-icon">🪄</span>スターロッド](/ja/action/craft-star-rod) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv46 | 2 | 100% |  |
+| [<span class="wiki-icon">💣</span>N2爆雷](/ja/action/craft-n2-mine) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🐴</span>トロイの木馬](/ja/action/craft-trojan-horse) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🌕</span>元気玉](/ja/action/craft-spirit-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">☢️</span>核爆弾](/ja/action/craft-nuclear-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🐬</span>軍用イルカ](/ja/action/craft-military-dolphin) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv50 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: リサイクル素材</div><div class="wiki-navbox-body"><a href="#/ja/item/rusty-metal-piece"><span class="wiki-icon">🔩</span>錆びた金属片</a> ・ <a href="#/ja/item/frayed-cloth"><span class="wiki-icon">🧵</span>ほつれた布切れ</a> ・ <a href="#/ja/item/dull-stone"><span class="wiki-icon">🪨</span>くすんだ石</a> ・ <a href="#/ja/item/tanned-leather-piece"><span class="wiki-icon">🟫</span>なめし革の断片</a> ・ <a href="#/ja/item/forged-metal-ingot"><span class="wiki-icon">🔩</span>鍛えた金属塊</a> ・ <a href="#/ja/item/polished-gem-piece"><span class="wiki-icon">💎</span>磨かれた宝石片</a></div></div>
 

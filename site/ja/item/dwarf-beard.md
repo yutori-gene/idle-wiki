@@ -21,7 +21,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯を織る](/ja/action/weave-flying-carpet) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv33 | 10 | 100% |  |
-| [<span class="wiki-icon">🪢</span>愛の鞭を作る](/ja/action/craft-whip-of-love) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv34 | 3 | 100% |  |
+| [<span class="wiki-icon">🪢</span>愛の鞭](/ja/action/craft-whip-of-love) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv34 | 3 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

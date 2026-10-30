@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>鉄の棒を作る](/ja/action/craft-iron-rod) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 1 | 100% | 1 | 0.667 |
+| [<span class="wiki-icon">🔩</span>鉄の棒](/ja/action/craft-iron-rod) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 1 | 100% | 1 | 0.667 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>鉄の棒を分解する](/ja/action/disassemble-iron-rod) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 1 | 100% |  |
+| [<span class="wiki-icon">🔩</span>鉄の棒（分解）](/ja/action/disassemble-iron-rod) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 

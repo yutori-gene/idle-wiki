@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>手榴弾を作る](/ja/action/craft-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 93 | 100% | 93 | 26.6 |
+| [<span class="wiki-icon">💣</span>手榴弾](/ja/action/craft-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 93 | 100% | 93 | 26.6 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>手榴弾を分解する](/ja/action/disassemble-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 1 | 100% |  |
+| [<span class="wiki-icon">💣</span>手榴弾（分解）](/ja/action/disassemble-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#968358"><div class="wiki-navbox-title">グループ: 爆発武器</div><div class="wiki-navbox-body"><a href="#/ja/item/water-balloon"><span class="wiki-icon">🎈</span>水風船</a> ・ <a href="#/ja/item/egg"><span class="wiki-icon">🥚</span>卵</a> ・ <a href="#/ja/item/pie"><span class="wiki-icon">🥧</span>パイ</a> ・ <a href="#/ja/item/tomato"><span class="wiki-icon">🍅</span>トマト</a> ・ <a href="#/ja/item/party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー</a> ・ <a href="#/ja/item/mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ</a> ・ <a href="#/ja/item/mandragora"><span class="wiki-icon">🌱</span>マンドラゴラ</a> ・ <a href="#/ja/item/fire-flower"><span class="wiki-icon">🌼</span>ファイアフラワー</a> ・ <a href="#/ja/item/molotov"><span class="wiki-icon">🍾</span>火炎ビン</a> ・ <a href="#/ja/item/flashbang"><span class="wiki-icon">✨</span>閃光弾</a> ・ <a href="#/ja/item/lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー</a> ・ <a href="#/ja/item/faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル</a> ・ <a href="#/ja/item/grenade"><span class="wiki-icon">💣</span>手榴弾</a> ・ <a href="#/ja/item/dynamite"><span class="wiki-icon">🧨</span>ダイナマイト</a> ・ <a href="#/ja/item/duel-disk"><span class="wiki-icon">💿</span>デュエルディスク</a> ・ <a href="#/ja/item/clow-card"><span class="wiki-icon">🃏</span>クロウカード</a> ・ <a href="#/ja/item/clockwork-apple"><span class="wiki-icon">🍎</span>時計仕掛けのリンゴ</a> ・ <a href="#/ja/item/star-rod"><span class="wiki-icon">🪄</span>スターロッド</a> ・ <a href="#/ja/item/ghost-ward"><span class="wiki-icon">🏷️</span>幽霊退治の札</a> ・ <a href="#/ja/item/military-dolphin"><span class="wiki-icon">🐬</span>軍用イルカ</a> ・ <a href="#/ja/item/trojan-horse"><span class="wiki-icon">🐴</span>トロイの木馬</a> ・ <a href="#/ja/item/nuclear-bomb"><span class="wiki-icon">☢️</span>核爆弾</a> ・ <a href="#/ja/item/spirit-bomb"><span class="wiki-icon">🌕</span>元気玉</a> ・ <a href="#/ja/item/n2-mine"><span class="wiki-icon">💣</span>N2爆雷</a></div></div>
 

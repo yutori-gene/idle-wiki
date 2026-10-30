@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚔️</span>エクスカリバーを作る](/ja/action/craft-excalibur) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv49 | 1 | 100% | 1 | 0.2 |
+| [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/action/craft-excalibur) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv49 | 1 | 100% | 1 | 0.2 |
 
 ## 用途
 

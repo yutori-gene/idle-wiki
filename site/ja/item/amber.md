@@ -23,8 +23,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>げんきのかけらの調合](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv46 | 3 | 100% |  |
-| [<span class="wiki-icon">🧪</span>エリクサーの調合](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv48 | 12 | 100% |  |
+| [<span class="wiki-icon">💊</span>げんきのかけら](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv46 | 3 | 100% |  |
+| [<span class="wiki-icon">🧪</span>エリクサー](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv48 | 12 | 100% |  |
 | [<span class="wiki-icon">🪶</span>孔雀の羽を束ねる](/ja/action/bundle-peacock-feather) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv21 | 3 | 100% |  |
 
 ## 解放条件

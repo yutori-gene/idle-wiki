@@ -27,7 +27,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎯</span>ダーツを分解する](/ja/action/disassemble-dart) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv9 | 1 | 100% |  |
+| [<span class="wiki-icon">🎯</span>ダーツ（分解）](/ja/action/disassemble-dart) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv9 | 1 | 100% |  |
 
 ## 解放条件
 

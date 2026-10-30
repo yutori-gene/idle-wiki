@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚗️</span>蒸留器を買う](/ja/action/buy-still) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv7 | 1 | 100% | 1 | 36,000 |
+| [<span class="wiki-icon">⚗️</span>蒸留器](/ja/action/buy-still) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv7 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -19,15 +19,15 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>泡立つ薬の調合](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">✨</span>発光する薬の調合](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧪</span>エーテルの調合](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧊</span>保冷剤の調合](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>滋養強壮剤の調合](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧪</span>毒瓶の調合](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💧</span>聖水の調合](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">✨</span>発光する薬](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🧪</span>エーテル](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💊</span>滋養強壮剤](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🧪</span>毒瓶](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💧</span>聖水](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">💊</span>万能薬](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
 
 <div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 蒸留</div><div class="wiki-navbox-body"><a href="#/ja/item/still"><span class="wiki-icon">⚗️</span>蒸留器</a></div></div>
 

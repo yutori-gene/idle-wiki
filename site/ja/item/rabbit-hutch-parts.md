@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品を作る](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 2 | 100% | 1.1 | 16.5 |
+| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 2 | 100% | 1.1 | 16.5 |
 
 ## 用途
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐇</span>ウサギ小屋を作る](/ja/action/craft-rabbit-hutch) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 100 | 100% |  |
+| [<span class="wiki-icon">🐇</span>ウサギ小屋](/ja/action/craft-rabbit-hutch) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 100 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

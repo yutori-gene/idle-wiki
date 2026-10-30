@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗡️</span>グラディウスを作る](/ja/action/craft-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv33 | 1 | 100% | 1 | 0.286 |
+| [<span class="wiki-icon">🗡️</span>グラディウス](/ja/action/craft-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv33 | 1 | 100% | 1 | 0.286 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗡️</span>グラディウスを分解する](/ja/action/disassemble-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv37 | 1 | 100% |  |
+| [<span class="wiki-icon">🗡️</span>グラディウス（分解）](/ja/action/disassemble-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv37 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 

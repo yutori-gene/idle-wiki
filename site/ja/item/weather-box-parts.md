@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品を作る](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 4 | 100% | 2.8 | 11.2 |
+| [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 4 | 100% | 2.8 | 11.2 |
 
 ## 用途
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌡️</span>百葉箱を作る](/ja/action/craft-weather-box) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 100 | 100% |  |
+| [<span class="wiki-icon">🌡️</span>百葉箱](/ja/action/craft-weather-box) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv27 | 100 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

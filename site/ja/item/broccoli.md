@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥦</span>ブロッコリーを作る](/ja/action/craft-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv13 | 1 | 100% | 1 | 0.667 |
+| [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/action/craft-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv13 | 1 | 100% | 1 | 0.667 |
 
 ## 用途
 
@@ -28,7 +28,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv27 | 1 | 100% |  |
-| [<span class="wiki-icon">🥦</span>ブロッコリーを分解する](/ja/action/disassemble-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 1 | 100% |  |
+| [<span class="wiki-icon">🥦</span>ブロッコリー（分解）](/ja/action/disassemble-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 

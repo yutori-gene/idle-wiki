@@ -23,7 +23,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📦</span>跳び箱を開ける](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 1 | 100% |  |
+| [<span class="wiki-icon">📦</span>跳び箱](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 1 | 100% |  |
 
 ## 解放条件
 

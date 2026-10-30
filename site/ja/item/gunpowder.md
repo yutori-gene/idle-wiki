@@ -19,8 +19,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>手榴弾を作る](/ja/action/craft-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 2 | 100% |  |
-| [<span class="wiki-icon">🧨</span>ダイナマイトを作る](/ja/action/craft-dynamite) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv35 | 3 | 100% |  |
+| [<span class="wiki-icon">💣</span>手榴弾](/ja/action/craft-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 2 | 100% |  |
+| [<span class="wiki-icon">🧨</span>ダイナマイト](/ja/action/craft-dynamite) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv35 | 3 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
 

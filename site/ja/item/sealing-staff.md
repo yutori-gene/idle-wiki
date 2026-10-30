@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪄</span>封印の杖を作る](/ja/action/craft-sealing-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 1 | 100% | 1 | 0.222 |
+| [<span class="wiki-icon">🪄</span>封印の杖](/ja/action/craft-sealing-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 1 | 100% | 1 | 0.222 |
 
 ## 用途
 

@@ -11,25 +11,25 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💎</span>秘石を分解する](/ja/action/disassemble-secret-stone) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv18 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">🪪</span>ハンターライセンスを分解する](/ja/action/disassemble-hunter-license) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv20 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">💍</span>ダイヤモンドの指輪を分解する](/ja/action/disassemble-diamond-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv21 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">💍</span>光る指輪を分解する](/ja/action/disassemble-glowing-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv21 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">🔮</span>水晶のペンダントを分解する](/ja/action/disassemble-crystal-pendant) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv21 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">👮</span>警察バッジを分解する](/ja/action/disassemble-police-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv21 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">📿</span>十字架のロザリオを分解する](/ja/action/disassemble-cross-rosary) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv23 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🌙</span>月の紋章を分解する](/ja/action/disassemble-moon-emblem) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv23 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🍀</span>-4葉のクローバーを分解する](/ja/action/disassemble-minus-four-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv25 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">💫</span>高速回転してる指輪を分解する](/ja/action/disassemble-spinning-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv27 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">💍</span>力の指輪を分解する](/ja/action/disassemble-ring-of-power) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv29 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🧵</span>運命の赤い糸を分解する](/ja/action/disassemble-red-string-of-fate) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv30 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🔯</span>六芒星のお守りを分解する](/ja/action/disassemble-hexagram-charm) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv31 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機を分解する](/ja/action/disassemble-bowtie-voice-changer) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv31 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🥸</span>変装ブローチを分解する](/ja/action/disassemble-disguise-brooch) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv32 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">💍</span>ドラゴンの指輪を分解する](/ja/action/disassemble-dragon-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv33 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🎖️</span>勲章を分解する](/ja/action/disassemble-medal) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv34 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🎖️</span>家紋のブローチを分解する](/ja/action/disassemble-family-crest-brooch) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv36 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🔮</span>闇のペンダントを分解する](/ja/action/disassemble-dark-pendant) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv36 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">💎</span>秘石（分解）](/ja/action/disassemble-secret-stone) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv18 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">🪪</span>ハンターライセンス（分解）](/ja/action/disassemble-hunter-license) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv20 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">💍</span>ダイヤモンドの指輪（分解）](/ja/action/disassemble-diamond-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv21 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">💍</span>光る指輪（分解）](/ja/action/disassemble-glowing-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv21 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">🔮</span>水晶のペンダント（分解）](/ja/action/disassemble-crystal-pendant) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv21 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">👮</span>警察バッジ（分解）](/ja/action/disassemble-police-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv21 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">📿</span>十字架のロザリオ（分解）](/ja/action/disassemble-cross-rosary) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv23 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">🌙</span>月の紋章（分解）](/ja/action/disassemble-moon-emblem) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv23 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">🍀</span>-4葉のクローバー（分解）](/ja/action/disassemble-minus-four-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv25 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">💫</span>高速回転してる指輪（分解）](/ja/action/disassemble-spinning-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv27 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">💍</span>力の指輪（分解）](/ja/action/disassemble-ring-of-power) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv29 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">🧵</span>運命の赤い糸（分解）](/ja/action/disassemble-red-string-of-fate) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv30 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">🔯</span>六芒星のお守り（分解）](/ja/action/disassemble-hexagram-charm) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv31 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機（分解）](/ja/action/disassemble-bowtie-voice-changer) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv31 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">🥸</span>変装ブローチ（分解）](/ja/action/disassemble-disguise-brooch) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv32 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">💍</span>ドラゴンの指輪（分解）](/ja/action/disassemble-dragon-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv33 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🎖️</span>勲章（分解）](/ja/action/disassemble-medal) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv34 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🎖️</span>家紋のブローチ（分解）](/ja/action/disassemble-family-crest-brooch) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv36 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🔮</span>闇のペンダント（分解）](/ja/action/disassemble-dark-pendant) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv36 | 1 | 100% | 1 | 1.7 |
 
 ## 用途
 
@@ -37,14 +37,14 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💍</span>一つの指輪を作る](/ja/action/craft-one-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv43 | 2 | 100% |  |
-| [<span class="wiki-icon">🌑</span>暗黒物質を作る](/ja/action/craft-dark-matter) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv44 | 2 | 100% |  |
-| [<span class="wiki-icon">🌹</span>獣の薔薧を作る](/ja/action/craft-beast-rose) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv44 | 2 | 100% |  |
-| [<span class="wiki-icon">🍀</span>99葉のクローバーを作る](/ja/action/craft-ninety-nine-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv47 | 2 | 100% |  |
-| [<span class="wiki-icon">🌀</span>黄金の回転を作る](/ja/action/craft-golden-spin) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv47 | 2 | 100% |  |
-| [<span class="wiki-icon">⚙️</span>S2機関を作る](/ja/action/craft-s2-engine) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv49 | 2 | 100% |  |
-| [<span class="wiki-icon">🔺</span>ATフィールドを作る](/ja/action/craft-at-field) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">⏳</span>時を止める砂時計を作る](/ja/action/craft-time-stopping-hourglass) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">💍</span>一つの指輪](/ja/action/craft-one-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv43 | 2 | 100% |  |
+| [<span class="wiki-icon">🌑</span>暗黒物質](/ja/action/craft-dark-matter) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv44 | 2 | 100% |  |
+| [<span class="wiki-icon">🌹</span>獣の薔薧](/ja/action/craft-beast-rose) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv44 | 2 | 100% |  |
+| [<span class="wiki-icon">🍀</span>99葉のクローバー](/ja/action/craft-ninety-nine-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv47 | 2 | 100% |  |
+| [<span class="wiki-icon">🌀</span>黄金の回転](/ja/action/craft-golden-spin) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv47 | 2 | 100% |  |
+| [<span class="wiki-icon">⚙️</span>S2機関](/ja/action/craft-s2-engine) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv49 | 2 | 100% |  |
+| [<span class="wiki-icon">🔺</span>ATフィールド](/ja/action/craft-at-field) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/action/craft-time-stopping-hourglass) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv50 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: リサイクル素材</div><div class="wiki-navbox-body"><a href="#/ja/item/rusty-metal-piece"><span class="wiki-icon">🔩</span>錆びた金属片</a> ・ <a href="#/ja/item/frayed-cloth"><span class="wiki-icon">🧵</span>ほつれた布切れ</a> ・ <a href="#/ja/item/dull-stone"><span class="wiki-icon">🪨</span>くすんだ石</a> ・ <a href="#/ja/item/tanned-leather-piece"><span class="wiki-icon">🟫</span>なめし革の断片</a> ・ <a href="#/ja/item/forged-metal-ingot"><span class="wiki-icon">🔩</span>鍛えた金属塊</a> ・ <a href="#/ja/item/polished-gem-piece"><span class="wiki-icon">💎</span>磨かれた宝石片</a></div></div>
 
