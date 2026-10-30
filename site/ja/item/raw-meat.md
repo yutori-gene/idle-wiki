@@ -1,6 +1,6 @@
 # 生肉
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">生肉</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥩</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>6 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">生肉</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥩</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>6 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 焼かないと危険。
 
@@ -12,8 +12,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧟</span>ゾンビ](/ja/action/zombie) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 1.28% | 0.006 | 0.738 |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv5 | 1 | 5.67% | 0.028 | 6.7 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv11 | 1 | 5.5% | 0.028 | 5 |
+| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 2 | 100% | 1.5 | 0.75 |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv16 | 9 | 100% | 6.8 | 1.7 |
 
 ## 用途
 
@@ -25,18 +25,16 @@
 | [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 1.83% |  |
 | [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 1 | 1.33% |  |
 | [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 0.875% |  |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 0.958% |  |
+| [<span class="wiki-icon">🎩</span>漂流者](/ja/action/castaway) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 0.958% |  |
 | [<span class="wiki-icon">🦅</span>グリフィン](/ja/action/griffin) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv23 | 1 | 0.5% |  |
 | [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 1 | 0.567% |  |
 | [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 | 1 | 0.633% |  |
 | [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 0.315% |  |
-| [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv17 | 1 | 100% |  |
-| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv36 | 2 | 100% |  |
+| [<span class="wiki-icon">🐕</span>パブロフ](/ja/action/cheer-up-underdog) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv23 | 1 | 100% |  |
+| [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv40 | 2 | 100% |  |
 | [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 4 | 100% |  |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% |  |
-| [<span class="wiki-icon">🥩</span>ステーキ](/ja/action/cook-steak) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv26 | 6 | 100% |  |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv35 | 15 | 100% |  |
-| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv43 | 9 | 100% |  |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 1 | 100% |  |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv42 | 15 | 100% |  |
 
 ### 条件にしているもの
 
@@ -50,7 +48,7 @@
 
 - [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv4以上
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#9b7d61"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body"><a href="#/ja/item/pumpkin"><span class="wiki-icon">🎃</span>カボチャ</a> ・ <a href="#/ja/item/wheat"><span class="wiki-icon">🌾</span>小麦</a> ・ <a href="#/ja/item/salad"><span class="wiki-icon">🥗</span>サラダ</a> ・ <a href="#/ja/item/carrot"><span class="wiki-icon">🥕</span>ニンジン</a> ・ <a href="#/ja/item/banana"><span class="wiki-icon">🍌</span>バナナ</a> ・ <a href="#/ja/item/apple"><span class="wiki-icon">🍎</span>リンゴ</a> ・ <a href="#/ja/item/axolotl"><span class="wiki-icon">🦎</span>ウーパールーパー</a> ・ <a href="#/ja/item/honey"><span class="wiki-icon">🍯</span>蜂蜜</a> ・ <a href="#/ja/item/potato"><span class="wiki-icon">🥔</span>ジャガイモ</a> ・ <a href="#/ja/item/truffle"><span class="wiki-icon">🍄</span>トリュフ</a> ・ <a href="#/ja/item/snail"><span class="wiki-icon">🐌</span>カタツムリ</a> ・ <a href="#/ja/item/nut"><span class="wiki-icon">🌰</span>木の実</a> ・ <a href="#/ja/item/poison-mushroom"><span class="wiki-icon">🍄</span>毒キノコ</a> ・ <a href="#/ja/item/mushroom"><span class="wiki-icon">🍄</span>キノコ</a> ・ <a href="#/ja/item/frog"><span class="wiki-icon">🐸</span>カエル</a> ・ <a href="#/ja/item/raw-meat"><span class="wiki-icon">🥩</span>生肉</a> ・ <a href="#/ja/item/mentos"><span class="wiki-icon">💊</span>メントス</a> ・ <a href="#/ja/item/tadpole"><span class="wiki-icon">🐸</span>オタマジャクシ</a> ・ <a href="#/ja/item/bread"><span class="wiki-icon">🍞</span>パン</a> ・ <a href="#/ja/item/fresh-water"><span class="wiki-icon">💧</span>真水</a> ・ <a href="#/ja/item/sardine"><span class="wiki-icon">🐟</span>イワシ</a> ・ <a href="#/ja/item/electric-eel"><span class="wiki-icon">🐍</span>電気ウナギ</a> ・ <a href="#/ja/item/bread-dough"><span class="wiki-icon">🍞</span>パン生地</a> ・ <a href="#/ja/item/chinese-cabbage"><span class="wiki-icon">🥬</span>白菜</a> ・ <a href="#/ja/item/daikon"><span class="wiki-icon">🥕</span>大根</a> ・ <a href="#/ja/item/frozen-berry"><span class="wiki-icon">🫐</span>凍結ベリー</a> ・ <a href="#/ja/item/raw-rice"><span class="wiki-icon">🍚</span>生米</a> ・ <a href="#/ja/item/forbidden-fruit"><span class="wiki-icon">🍎</span>禁断の果実</a> ・ <a href="#/ja/item/sky-flower"><span class="wiki-icon">🌸</span>天空の花</a> ・ <a href="#/ja/item/laughing-mushroom"><span class="wiki-icon">🍄</span>ワライタケ</a> ・ <a href="#/ja/item/star-fruit"><span class="wiki-icon">🍇</span>星の果実</a> ・ <a href="#/ja/item/world-tree-fruit"><span class="wiki-icon">🌳</span>世界樹の実</a></div></div>
 
 ## 開発者向け情報
 

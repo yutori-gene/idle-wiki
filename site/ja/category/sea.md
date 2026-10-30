@@ -1,6 +1,6 @@
 # 海
 
-<div class="wiki-infobox" style="--accent:#1c62ab"><div class="wiki-infobox-title">海</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌊</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4a637d"><div class="wiki-infobox-title">海</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌊</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **4番目のダンジョン**（難易度 ★★★☆☆・冒険・未知）。収集は魚介・砂浜、討伐は海の生物、探索は難破船・洞窟が中心。
 
@@ -24,21 +24,21 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏖️</span>漂着物回収](/ja/action/flotsam-collecting) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 40秒 | 50% | 1,035 |  | [<span class="wiki-icon">🌊</span>海藻](/ja/item/seaweed)×7 (91%)<br>[<span class="wiki-icon">🪣</span>穴の空いたバケツ](/ja/item/holed-bucket)×5 (56%)<br>[<span class="wiki-icon">🫧</span>海泡](/ja/item/sea-foam)×5 (56%)<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) (21.6%)<br>[<span class="wiki-icon">🦯</span>松葉杖](/ja/item/crutch) (21.6%)<br>[<span class="wiki-icon">🏊</span>浮き輪](/ja/item/swim-ring) (8.64%)<br>[<span class="wiki-icon">🏄</span>サーフボード](/ja/item/surfboard) (7.2%)<br>[<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) (31.1%)<br>[<span class="wiki-icon">🎯</span>スリングショット](/ja/item/slingshot)×2 (25.9%)<br>[<span class="wiki-icon">👮</span>警察バッジ](/ja/item/police-badge)×2 (25.9%) |
-| [<span class="wiki-icon">🐚</span>磯の潮干狩り](/ja/action/tidal-flat-clamming) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 40秒 | 50% | 1,035 |  | [<span class="wiki-icon">🐟</span>小魚](/ja/item/small-fish)×7 (91%)<br>[<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water)×5 (56%)<br>[<span class="wiki-icon">🌊</span>ワカメ](/ja/item/wakame)×3 (48%)<br>[<span class="wiki-icon">🐟</span>アジ](/ja/item/horse-mackerel)×3 (48%)<br>[<span class="wiki-icon">🐟</span>サバ](/ja/item/mackerel)×3 (48%)<br>[<span class="wiki-icon">🦀</span>カニ](/ja/item/crab)×2 (25.9%)<br>[<span class="wiki-icon">🦐</span>エビ](/ja/item/shrimp)×2 (25.9%)<br>[<span class="wiki-icon">🐡</span>フグ](/ja/item/pufferfish)×3 (48%) |
+| [<span class="wiki-icon">🏖️</span>漂着物回収](/ja/action/flotsam-collecting) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 40秒 | 50% | 1,035 |  | [<span class="wiki-icon">🪣</span>穴の空いたバケツ](/ja/item/holed-bucket)×5 (56%)<br>[<span class="wiki-icon">🫧</span>海泡](/ja/item/sea-foam)×5 (56%)<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) (21.6%)<br>[<span class="wiki-icon">🦯</span>松葉杖](/ja/item/crutch) (21.6%)<br>[<span class="wiki-icon">🏊</span>浮き輪](/ja/item/swim-ring) (8.64%)<br>[<span class="wiki-icon">🏄</span>サーフボード](/ja/item/surfboard) (7.2%)<br>[<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) (31.1%)<br>[<span class="wiki-icon">🎯</span>スリングショット](/ja/item/slingshot)×2 (25.9%)<br>[<span class="wiki-icon">👮</span>警察バッジ](/ja/item/police-badge)×2 (25.9%) |
+| [<span class="wiki-icon">🐚</span>磯の潮干狩り](/ja/action/tidal-flat-clamming) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 40秒 | 50% | 1,035 |  | [<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water)×5 (56%)<br>[<span class="wiki-icon">🐟</span>アジ](/ja/item/horse-mackerel)×3 (48%)<br>[<span class="wiki-icon">🐟</span>サバ](/ja/item/mackerel)×3 (48%) |
 | [<span class="wiki-icon">🐚</span>浜辺の貝拾い](/ja/action/beach-shell-gathering) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv5 | 40秒 | 50% | 1,035 |  | [<span class="wiki-icon">🐚</span>貝殻](/ja/item/seashell)×7 (91%)<br>[<span class="wiki-icon">🏖️</span>砂](/ja/item/sand)×5 (56%)<br>[<span class="wiki-icon">🪵</span>流木](/ja/item/driftwood)×5 (56%)<br>[<span class="wiki-icon">🪨</span>砂浜の石](/ja/item/beach-stone)×5 (56%)<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×5 (56%)<br>[<span class="wiki-icon">🩹</span>腹巻き](/ja/item/belly-warmer) (8.64%)<br>[<span class="wiki-icon">🎣</span>釣竿](/ja/item/fishing-rod)×2 (25.9%) |
 | [<span class="wiki-icon">🏝️</span>無人島漂流](/ja/action/desert-island-drift) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 2時間 | 100% | 1,029 |  | [<span class="wiki-icon">🦘</span>カンガルーの袋](/ja/item/kangaroo-pouch)<br>[<span class="wiki-icon">🪸</span>珊瑚のかけら](/ja/item/coral-piece)×15<br>[<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes)<br>[<span class="wiki-icon">🌱</span>マンドラゴラ](/ja/item/mandragora)×2 |
 | [<span class="wiki-icon">🚢</span>沈没船探査](/ja/action/shipwreck-survey) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv12 | 2時間 | 100% | 1,029 |  | [<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident)<br>[<span class="wiki-icon">🗺️</span>海賊の地図](/ja/item/pirate-map)×2 (41.8%)<br>[<span class="wiki-icon">⚓</span>錆びた錨](/ja/item/rusty-anchor) (25.9%)<br>[<span class="wiki-icon">👟</span>音が鳴る靴](/ja/item/squeaky-shoes) (25.9%)<br>[<span class="wiki-icon">🪪</span>ハンターライセンス](/ja/item/hunter-license) (10.4%)<br>[<span class="wiki-icon">💍</span>ダイヤモンドの指輪](/ja/item/diamond-ring) (10.4%) |
 | [<span class="wiki-icon">🏴‍☠️</span>海賊](/ja/action/pirate) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 2秒 | 50% | 18 | [<span class="wiki-icon">❤️</span>ルビー](/ja/item/ruby) (0.833%) | [<span class="wiki-icon">🦪</span>真珠](/ja/item/pearl) (0.96%)<br>[<span class="wiki-icon">🎯</span>スリングショット](/ja/item/slingshot) (0.156%)<br>[<span class="wiki-icon">🏏</span>釘バット](/ja/item/nail-bat) (0.156%)<br>[<span class="wiki-icon">🩹</span>アイパッチ](/ja/item/eyepatch) (0.156%)<br>[<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) (0.01%) |
 | [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 2.1秒 | 50% | 18 | [<span class="wiki-icon">❤️</span>ルビー](/ja/item/ruby) (0.875%) | [<span class="wiki-icon">🪢</span>ロープ](/ja/item/rope) (4.9%)<br>[<span class="wiki-icon">🪙</span>呪いのコイン](/ja/item/cursed-coin) (0.076%)<br>[<span class="wiki-icon">💰</span>大秘宝](/ja/item/great-treasure) (0.036%) |
-| [<span class="wiki-icon">🐙</span>クトゥルフ](/ja/action/cthulhu) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 3.5秒 | 50% | 2 | [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) (1.46%) | [<span class="wiki-icon">🫧</span>海泡](/ja/item/sea-foam) (8.17%)<br>[<span class="wiki-icon">🐟</span>深海魚](/ja/item/deep-sea-fish) (0.328%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.126%)<br>[<span class="wiki-icon">🕸️</span>クモの糸](/ja/item/spider-thread) (0.03%) |
+| [<span class="wiki-icon">🐙</span>クトゥルフ](/ja/action/cthulhu) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 3.5秒 | 50% | 2 | [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) (1.46%) | [<span class="wiki-icon">🫧</span>海泡](/ja/item/sea-foam) (8.17%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.126%)<br>[<span class="wiki-icon">🕸️</span>クモの糸](/ja/item/spider-thread) (0.03%) |
 | [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 2.1秒 | 50% | 18 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.875%) | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (2.02%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.84%) |
-| [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 1.7秒 | 50% | 77 |  | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.68%)<br>[<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) (0.68%)<br>[<span class="wiki-icon">🐟</span>深海魚](/ja/item/deep-sea-fish) (0.159%)<br>[<span class="wiki-icon">⭐</span>海星](/ja/item/starfish) (0.159%) |
+| [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 1.7秒 | 50% | 77 |  | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.68%)<br>[<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) (0.68%)<br>[<span class="wiki-icon">⭐</span>海星](/ja/item/starfish) (0.159%) |
 | [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 2.3秒 | 50% | 18 |  | [<span class="wiki-icon">🦪</span>真珠](/ja/item/pearl) (1.1%)<br>[<span class="wiki-icon">🪸</span>サンゴ](/ja/item/coral) (1.1%)<br>[<span class="wiki-icon">🔩</span>鉄の宝箱](/ja/item/iron-chest) (0.083%) |
-| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 2.4秒 | 50% | 18 | [<span class="wiki-icon">🪢</span>ロープ](/ja/item/rope) (1%) | [<span class="wiki-icon">🦑</span>イカスミ](/ja/item/squid-ink) (2.3%)<br>[<span class="wiki-icon">🐙</span>タコ](/ja/item/octopus) (1.15%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.96%)<br>[<span class="wiki-icon">❤️</span>ルビー](/ja/item/ruby) (0.225%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.086%)<br>[<span class="wiki-icon">🕸️</span>クモの糸](/ja/item/spider-thread) (0.021%) |
-| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 3.5秒 | 50% | 3 |  | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) (10.2%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (7.29%)<br>[<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass) (0.306%)<br>[<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) (0.022%) |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 2.3秒 | 50% | 18 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.958%) | [<span class="wiki-icon">🦶</span>誰かの足](/ja/item/someones-leg) (5.37%)<br>[<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) (0.92%)<br>[<span class="wiki-icon">🦈</span>フカヒレ](/ja/item/shark-fin) (0.179%)<br>[<span class="wiki-icon">🦷</span>サメの歯](/ja/item/shark-tooth) (0.216%)<br>[<span class="wiki-icon">👓</span>メガネ](/ja/item/glasses) (0.179%)<br>[<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) (0.006%) |
-| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv22 | 1.5秒 | 50% | 77 |  | [<span class="wiki-icon">🌊</span>ワカメ](/ja/item/wakame) (1.44%)<br>[<span class="wiki-icon">🪸</span>サンゴ](/ja/item/coral) (0.72%)<br>[<span class="wiki-icon">🤲</span>救いの手](/ja/item/helping-hand) (0.117%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.086%) |
+| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 2.4秒 | 50% | 18 | [<span class="wiki-icon">🪢</span>ロープ](/ja/item/rope) (1%) | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.96%)<br>[<span class="wiki-icon">❤️</span>ルビー](/ja/item/ruby) (0.225%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.086%)<br>[<span class="wiki-icon">🕸️</span>クモの糸](/ja/item/spider-thread) (0.021%) |
+| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 3.5秒 | 50% | 3 |  | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) (10.2%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (7.29%)<br>[<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass) (0.306%)<br>[<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) (0.022%) |
+| [<span class="wiki-icon">🎩</span>漂流者](/ja/action/castaway) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 2.3秒 | 50% | 18 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.958%) | [<span class="wiki-icon">🦶</span>誰かの足](/ja/item/someones-leg) (5.37%)<br>[<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) (0.92%)<br>[<span class="wiki-icon">🦷</span>サメの歯](/ja/item/shark-tooth) (0.216%)<br>[<span class="wiki-icon">👓</span>メガネ](/ja/item/glasses) (0.179%)<br>[<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) (0.006%) |
+| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv22 | 1.5秒 | 50% | 77 |  | [<span class="wiki-icon">🪸</span>サンゴ](/ja/item/coral) (0.72%)<br>[<span class="wiki-icon">🤲</span>救いの手](/ja/item/helping-hand) (0.117%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.086%) |
 | [<span class="wiki-icon">🗼</span>灯台守の小屋](/ja/action/lighthouse-keeper-hut) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv30 | 2時間 | 100% | 1,029 |  | [<span class="wiki-icon">📜</span>歴史書](/ja/item/history-book)<br>[<span class="wiki-icon">🪨</span>砂浜の石](/ja/item/beach-stone)×3 (53%)<br>[<span class="wiki-icon">⭐</span>海星](/ja/item/starfish)×2 (50.1%)<br>[<span class="wiki-icon">🦪</span>真珠](/ja/item/pearl)×2 (41.8%)<br>[<span class="wiki-icon">💍</span>光る指輪](/ja/item/glowing-ring) (10.4%) |
 | [<span class="wiki-icon">🐚</span>海底洞窟](/ja/action/undersea-cave) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv40 | 2時間 | 100% | 1,029 |  | [<span class="wiki-icon">🧜</span>人魚の鱗](/ja/item/mermaid-scale)×2 (5.18%)<br>[<span class="wiki-icon">🪙</span>呪いのコイン](/ja/item/cursed-coin) (10.4%)<br>[<span class="wiki-icon">🏮</span>ランタン](/ja/item/lantern) (25.9%)<br>[<span class="wiki-icon">🌼</span>ファイアフラワー](/ja/item/fire-flower) (10.4%)<br>[<span class="wiki-icon">🔮</span>水晶のペンダント](/ja/item/crystal-pendant) (10.4%) |
 
@@ -52,7 +52,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">💗</span>感受性](/ja/item/sensitivity) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（79種）</summary>
+<details><summary>全カテゴリに効くアイテム（78種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -63,25 +63,24 @@
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐕</span>負け犬](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🦆</span>アヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐱</span>五毛猫](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🌙</span>ルナ](/ja/item/luna) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🦊</span>九尾の狐](/ja/item/nine-tailed-fox) | 装備不要 |  |  |  |  |  |  | +5 |  |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
@@ -149,8 +148,8 @@
 | Lv4 | 334 | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom)（解放）<br>[<span class="wiki-icon">🖼️</span>寝室で美術品を集めよう](/ja/event/collect-art-in-bedroom)（達成条件） |
 | Lv5 | 471 | [<span class="wiki-icon">🐚</span>浜辺の貝拾い](/ja/action/beach-shell-gathering)（実行） |
 | Lv6 | 623 | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop)（解放）<br>[<span class="wiki-icon">🔧</span>作業部屋でインフラを作ろう](/ja/event/build-infrastructure-in-workshop)（達成条件） |
-| Lv7 | 791 | [<span class="wiki-icon">🐟</span>小魚](/ja/item/small-fish)（解放）<br>[<span class="wiki-icon">🐟</span>アジ](/ja/item/horse-mackerel)（解放）<br>[<span class="wiki-icon">🐟</span>深海魚](/ja/item/deep-sea-fish)（解放） |
-| Lv8 | 978 | [<span class="wiki-icon">🏝️</span>無人島漂流](/ja/action/desert-island-drift)（実行）<br>[<span class="wiki-icon">🌊</span>海藻](/ja/item/seaweed)（解放）<br>[<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water)（解放）<br>[<span class="wiki-icon">🐟</span>サバ](/ja/item/mackerel)（解放）<br>[<span class="wiki-icon">🌊</span>ワカメ](/ja/item/wakame)（解放）<br>[<span class="wiki-icon">🦀</span>カニ](/ja/item/crab)（解放）<br>[<span class="wiki-icon">🦐</span>エビ](/ja/item/shrimp)（解放）<br>[<span class="wiki-icon">🐙</span>タコ](/ja/item/octopus)（解放） |
+| Lv7 | 791 | [<span class="wiki-icon">🐟</span>アジ](/ja/item/horse-mackerel)（解放） |
+| Lv8 | 978 | [<span class="wiki-icon">🏝️</span>無人島漂流](/ja/action/desert-island-drift)（実行）<br>[<span class="wiki-icon">🐟</span>サバ](/ja/item/mackerel)（解放）<br>[<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water)（解放） |
 | Lv10 | 1,416 | [<span class="wiki-icon">🌊</span>嵐の海域](/ja/event/stormy-waters)（達成条件） |
 | Lv12 | 1,956 | [<span class="wiki-icon">🚢</span>沈没船探査](/ja/action/shipwreck-survey)（実行） |
 | Lv20 | 5,694 | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland)（解放）<br>[<span class="wiki-icon">🏛️</span>海底の遺跡](/ja/event/undersea-ruins)（達成条件） |
@@ -159,7 +158,7 @@
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#1c62ab"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
+<div class="wiki-navbox" style="--accent:#4a637d"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
 
 ## 開発者向け情報
 
@@ -619,7 +618,7 @@ plan.md が言う「討伐の req が『消費する餌』と『装備してい�
 			"iconify": "",
 			"image": ""
 		},
-		"color": "#1c62ab"
+		"color": "#4a637d"
 	},
 	"group": "dungeon",
 	"unlocked": "hinted",

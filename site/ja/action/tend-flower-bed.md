@@ -1,6 +1,6 @@
 # 花壇の手入れ
 
-<div class="wiki-infobox" style="--accent:#6f9c2e"><div class="wiki-infobox-title">花壇の手入れ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌷</span></div><table><tr><th>場所</th><td><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><span class="wiki-icon">🧺</span>収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv7</td></tr><tr><th>所要時間</th><td>10秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>6</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#697852"><div class="wiki-infobox-title">花壇の手入れ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌷</span></div><table><tr><th>場所</th><td><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><span class="wiki-icon">🧺</span>収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv7</td></tr><tr><th>所要時間</th><td>10秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>6</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 花のお世話も立派な仕事。
 
@@ -23,8 +23,6 @@
 | [<span class="wiki-icon">⛏️</span>クワ](/ja/item/hoe) ×1 | 成功時 | 18% | 0.09 | 32.4 |
 | [<span class="wiki-icon">✂️</span>ハサミ](/ja/item/scissors) ×1 | 成功時 | 18% | 0.09 | 32.4 |
 | [<span class="wiki-icon">🍋</span>レモン](/ja/item/lemon) ×3 | 成功時 | 40% | 0.6 | 216 |
-| [<span class="wiki-icon">🍊</span>ミカン](/ja/item/mandarin) ×3 | 成功時 | 48% | 0.72 | 259 |
-| [<span class="wiki-icon">🍇</span>ぶどう](/ja/item/grape) ×3 | 成功時 | 48% | 0.72 | 259 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -43,11 +41,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 3,537 | 0 | 3,537 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 1,982 | 0 | 1,982 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6f9c2e"><div class="wiki-navbox-title">公園のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-fallen-leaves"><span class="wiki-icon">🍂</span>落ち葉拾い</a> ・ <a href="#/ja/action/cleanup-activity"><span class="wiki-icon">🧹</span>清掃活動</a> ・ <a href="#/ja/action/dig-sandbox"><span class="wiki-icon">🏖️</span>砂場掘り</a> ・ <a href="#/ja/action/tend-flower-bed"><span class="wiki-icon">🌷</span>花壇の手入れ</a> ・ <a href="#/ja/action/pond-side"><span class="wiki-icon">🪷</span>池のほとり</a> ・ <a href="#/ja/action/giant-spider"><span class="wiki-icon">🕷️</span>巨大なクモ</a> ・ <a href="#/ja/action/shut-in-guard"><span class="wiki-icon">🏠</span>自宅警備員</a> ・ <a href="#/ja/action/pavlovs-dog"><span class="wiki-icon">🐕</span>パブロフの犬</a> ・ <a href="#/ja/action/beetle"><span class="wiki-icon">🪲</span>カブトムシ</a> ・ <a href="#/ja/action/snail"><span class="wiki-icon">🐌</span>カタツムリ</a> ・ <a href="#/ja/action/deep-in-the-bushes"><span class="wiki-icon">🌳</span>茂みの奥</a> ・ <a href="#/ja/action/twilight-promenade"><span class="wiki-icon">🌇</span>夕暮れの散歩道</a> ・ <a href="#/ja/action/boathouse"><span class="wiki-icon">🛶</span>ボート小屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#697852"><div class="wiki-navbox-title">公園のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-fallen-leaves"><span class="wiki-icon">🍂</span>落ち葉拾い</a> ・ <a href="#/ja/action/cleanup-activity"><span class="wiki-icon">🧹</span>清掃活動</a> ・ <a href="#/ja/action/dig-sandbox"><span class="wiki-icon">🏖️</span>砂場掘り</a> ・ <a href="#/ja/action/tend-flower-bed"><span class="wiki-icon">🌷</span>花壇の手入れ</a> ・ <a href="#/ja/action/pond-side"><span class="wiki-icon">🪷</span>池のほとり</a> ・ <a href="#/ja/action/giant-spider"><span class="wiki-icon">🕷️</span>巨大なクモ</a> ・ <a href="#/ja/action/shut-in-guard"><span class="wiki-icon">🏠</span>自宅警備員</a> ・ <a href="#/ja/action/pavlovs-dog"><span class="wiki-icon">🐕</span>パブロフの犬</a> ・ <a href="#/ja/action/beetle"><span class="wiki-icon">🪲</span>カブトムシ</a> ・ <a href="#/ja/action/snail"><span class="wiki-icon">🐌</span>カタツムリ</a> ・ <a href="#/ja/action/deep-in-the-bushes"><span class="wiki-icon">🌳</span>茂みの奥</a> ・ <a href="#/ja/action/twilight-promenade"><span class="wiki-icon">🌇</span>夕暮れの散歩道</a> ・ <a href="#/ja/action/boathouse"><span class="wiki-icon">🛶</span>ボート小屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -141,18 +139,6 @@
 			"id": "lemon",
 			"count": 3,
 			"chance": 0.4
-		},
-		{
-			"type": "item",
-			"id": "mandarin",
-			"count": 3,
-			"chance": 0.48
-		},
-		{
-			"type": "item",
-			"id": "grape",
-			"count": 3,
-			"chance": 0.48
 		}
 	],
 	"progressType": "persistent",

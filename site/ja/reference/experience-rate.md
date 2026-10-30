@@ -137,60 +137,45 @@
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐥</span>ヒヨコを遊ばせる](/ja/action/play-with-chick) |  | 1 | 連続 | 92 | 75 | 61 |
-| [<span class="wiki-icon">🐟</span>メダカに餌をやる](/ja/action/feed-killifish) |  | 4 | 連続 | 92 | 85 | 76 |
-| [<span class="wiki-icon">🐹</span>ハムスターを走らせる](/ja/action/run-hamster) |  | 6 | 連続 | 92 | 90 | 85 |
-| [<span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く](/ja/action/pluck-walking-cactus-thorn) |  | 9 | 連続 | 91 | 77 | 64 |
-| [<span class="wiki-icon">🐔</span>ニワトリを世話する](/ja/action/care-for-chicken) |  | 12 | 連続 | 92 | 90 | 85 |
-| [<span class="wiki-icon">🦆</span>アヒルをお風呂に入れる](/ja/action/bathe-duck) |  | 15 | 連続 | 91 | 86 | 78 |
-| [<span class="wiki-icon">🐕</span>負け犬を励ます](/ja/action/cheer-up-underdog) |  | 17 | 連続 | 92 | 85 | 76 |
-| [<span class="wiki-icon">🐢</span>カメを散歩させる](/ja/action/walk-turtle) |  | 20 | 連続 | 91 | 89 | 84 |
-| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) |  | 23 | 連続 | 91 | 89 | 84 |
-| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) |  | 26 | 連続 | 91 | 75 | 61 |
-| [<span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる](/ja/action/pen-pen-fishing) |  | 28 | 連続 | 91 | 86 | 78 |
-| [<span class="wiki-icon">🤖</span>R2D2に偵察させる](/ja/action/scout-with-r2d2) |  | 31 | 連続 | 91 | 81 | — |
-| [<span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる](/ja/action/bathe-kero-chan) |  | 34 | 連続 | 91 | 84 | — |
-| [<span class="wiki-icon">🦊</span>炎のキツネと遊ぶ](/ja/action/play-with-flame-fox) |  | 36 | 連続 | 91 | 88 | — |
-| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) |  | 39 | 連続 | 91 | 81 | — |
-| [<span class="wiki-icon">🌙</span>ルナを月に連れていく](/ja/action/take-luna-to-moon) |  | 42 | 連続 | 91 | — | — |
-| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) |  | 45 | 連続 | 91 | — | — |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) |  | 47 | 連続 | 91 | — | — |
-| [<span class="wiki-icon">🦊</span>九尾の狐と契約する](/ja/action/contract-nine-tailed-fox) |  | 50 | 連続 | 91 | — | — |
+| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/action/play-with-chick) |  | 1 | 連続 | 92 | 75 | 61 |
+| [<span class="wiki-icon">🐟</span>メダカ](/ja/action/feed-killifish) |  | 3 | 連続 | 92 | 79 | 67 |
+| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) |  | 6 | スタミナ（戦闘） | 91 | 106 | 122 |
+| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/action/run-hamster) |  | 8 | 連続 | 92 | 82 | 71 |
+| [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/action/pluck-walking-cactus-thorn) |  | 11 | 連続 | 91 | 76 | 63 |
+| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) |  | 13 | スタミナ（戦闘） | 91 | 106 | 122 |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) |  | 16 | スタミナ（戦闘） | 91 | 106 | 122 |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/action/care-for-chicken) |  | 18 | 連続 | 92 | 82 | 71 |
+| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/action/bathe-duck) |  | 21 | 連続 | 91 | 80 | 68 |
+| [<span class="wiki-icon">🐕</span>パブロフ](/ja/action/cheer-up-underdog) |  | 23 | 連続 | 92 | 79 | 67 |
+| [<span class="wiki-icon">🐢</span>クッパ](/ja/action/walk-turtle) |  | 25 | 連続 | 91 | 81 | 71 |
+| [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/action/talk-with-parroting-parrot) |  | 28 | 連続 | 92 | 82 | 71 |
+| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/take-out-jones) |  | 30 | 連続 | 91 | 75 | 61 |
+| [<span class="wiki-icon">🐧</span>ペンペン](/ja/action/pen-pen-fishing) |  | 33 | 連続 | 91 | 80 | — |
+| [<span class="wiki-icon">🤖</span>R2D2](/ja/action/scout-with-r2d2) |  | 35 | 連続 | 91 | 77 | — |
+| [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/action/bathe-kero-chan) |  | 38 | 連続 | 91 | 78 | — |
+| [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/action/play-with-flame-fox) |  | 40 | 連続 | 91 | 80 | — |
+| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/action/play-with-fire-bird) |  | 43 | 連続 | 91 | — | — |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/action/ask-five-color-cat) |  | 45 | 連続 | 91 | — | — |
+| [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/action/feed-flying-goldfish) |  | 48 | 連続 | 91 | — | — |
+| [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/action/ride-flying-pig) |  | 50 | 連続 | 91 | — | — |
 
 ## 🍳 台所
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) |  | 1 | 連続 | 1,200 | 980 | 800 |
-| [<span class="wiki-icon">🍞</span>フレンチトースト](/ja/action/cook-french-toast) |  | 3 | 連続 | 1,199 | 1,030 | 872 |
-| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) |  | 4 | 連続 | 1,188 | 1,003 | 839 |
-| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) |  | 6 | 連続 | 1,199 | 1,030 | 872 |
-| [<span class="wiki-icon">🍅</span>トマトの卵とじ](/ja/action/cook-tomato-egg-drop) |  | 8 | 連続 | 1,224 | 1,052 | 890 |
-| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) |  | 9 | 連続 | 1,188 | 1,003 | 839 |
-| [<span class="wiki-icon">🍳</span>目玉焼き](/ja/action/cook-fried-egg) |  | 11 | 連続 | 1,197 | 994 | 821 |
+| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) |  | 5 | 連続 | 1,188 | 1,003 | 839 |
+| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) |  | 9 | 連続 | 1,199 | 1,030 | 872 |
 | [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) |  | 12 | 連続 | 1,190 | 1,099 | 984 |
-| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) |  | 14 | 連続 | 1,188 | 1,119 | 1,018 |
-| [<span class="wiki-icon">🥗</span>ポテトサラダ](/ja/action/cook-potato-salad) |  | 16 | 連続 | 1,188 | 1,003 | 839 |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) |  | 17 | 連続 | 1,199 | 1,030 | 872 |
-| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) |  | 19 | 連続 | 1,190 | 972 | 793 |
-| [<span class="wiki-icon">🧀</span>チーズを作る](/ja/action/craft-cheese) |  | 21 | 連続 | 1,197 | 994 | 821 |
-| [<span class="wiki-icon">🥫</span>マヨネーズを作る](/ja/action/craft-mayonnaise) |  | 22 | 連続 | 1,188 | 1,119 | 1,018 |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) |  | 24 | 連続 | 1,188 | 1,141 | 1,056 |
-| [<span class="wiki-icon">🥩</span>ステーキ](/ja/action/cook-steak) |  | 26 | 連続 | 1,186 | 1,019 | 862 |
-| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) |  | 27 | 連続 | 1,186 | 1,076 | 949 |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) |  | 29 | 連続 | 1,185 | 1,116 | 1,016 |
-| [<span class="wiki-icon">🐟</span>軍用イワシ](/ja/action/make-military-sardine) |  | 30 | 連続 | 1,188 | 1,141 | 1,056 |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) |  | 32 | 連続 | 1,184 | 1,000 | — |
-| [<span class="wiki-icon">🍕</span>ピザ](/ja/action/cook-pizza) |  | 34 | 連続 | 1,190 | 972 | — |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) |  | 35 | 連続 | 1,185 | 1,161 | — |
-| [<span class="wiki-icon">🍳</span>オムレツ](/ja/action/cook-omelette) |  | 37 | 連続 | 1,190 | 988 | — |
-| [<span class="wiki-icon">🍚</span>ごはん](/ja/action/cook-cooked-rice) |  | 39 | 連続 | 1,186 | 1,037 | — |
-| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) |  | 40 | 連続 | 1,188 | 1,021 | — |
-| [<span class="wiki-icon">🍙</span>おにぎり](/ja/action/cook-rice-ball) |  | 42 | 連続 | 1,186 | — | — |
-| [<span class="wiki-icon">🍛</span>カレー](/ja/action/cook-curry-rice) |  | 43 | 連続 | 1,188 | — | — |
-| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) |  | 45 | 連続 | 1,186 | — | — |
-| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) |  | 47 | 連続 | 1,186 | — | — |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) |  | 48 | 連続 | 1,186 | — | — |
+| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) |  | 16 | 連続 | 1,188 | 1,119 | 1,018 |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) |  | 20 | 連続 | 1,199 | 1,030 | 872 |
+| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) |  | 24 | 連続 | 1,190 | 972 | 793 |
+| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) |  | 27 | 連続 | 1,188 | 1,141 | 1,056 |
+| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) |  | 31 | 連続 | 1,186 | 1,076 | — |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) |  | 35 | 連続 | 1,185 | 1,116 | — |
+| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) |  | 39 | 連続 | 1,184 | 1,000 | — |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) |  | 42 | 連続 | 1,185 | — | — |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) |  | 46 | 連続 | 1,186 | — | — |
 | [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) |  | 50 | 連続 | 1,185 | — | — |
 
 ## 📚 書斎
@@ -317,7 +302,6 @@
 | [<span class="wiki-icon">🌱</span>ネギを分解する](/ja/action/disassemble-green-onion) |  | 3 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 5 | スタミナ（戦闘） | 134 | 171 | 214 |
 | [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 5 | スタミナ（戦闘） | 100 | 142 | 214 |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 5 | スタミナ（戦闘） | 114 | 171 | 214 |
 | [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 6 | スタミナ（戦闘） | 134 | 171 | 214 |
 | [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 7 | スタミナ（戦闘） | 134 | 171 | 214 |
 | [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 7 | スタミナ（戦闘） | 134 | 171 | 213 |
@@ -330,8 +314,6 @@
 | [<span class="wiki-icon">🧙</span>ドルイド](/ja/action/druid) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 114 | 171 | 214 |
 | [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
 | [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
-| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 11 | スタミナ（戦闘） | 114 | 171 | 214 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
 | [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 114 | 171 | 213 |
 | [<span class="wiki-icon">🐎</span>ケンタウロス](/ja/action/centaur) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 114 | 171 | 214 |
 | [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 12 | スタミナ（戦闘） | 114 | 171 | 214 |
@@ -357,7 +339,7 @@
 | [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 18 | 28 | 40 |
 | [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 18 | 28 | 39 |
 | [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 18 | 28 | 40 |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 21 | スタミナ（戦闘） | 18 | 28 | 39 |
+| [<span class="wiki-icon">🎩</span>漂流者](/ja/action/castaway) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 21 | スタミナ（戦闘） | 18 | 28 | 39 |
 | [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 23 | スタミナ（戦闘） | 10 | 16 | 24 |
 | [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 25 | スタミナ（戦闘） | 10 | 16 | 24 |
 | [<span class="wiki-icon">🐲</span>ドラゴンキッズ](/ja/action/dragon-kid) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 25 | スタミナ（戦闘） | 10 | 16 | 24 |

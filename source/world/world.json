@@ -114,6 +114,7 @@
 				"queue だけ購入通貨を秘宝メダルにした（coinId=treasure-medal）。10→20→40→80 の4回で枠1→5。容量枠はメイン通貨のまま無制限",
 				"design は淡いクリーム地×濃藍文字のデュオトーン。本文/バーのコントラストは10.79、faded は7.78（world-color-scheme スキルの目安 4.5 / 3.0 を満たす）",
 				"カテゴリ色の源泉は category.csv の color 列（2026-09-07 に追加）。world.json は生成物なので、エディタで塗っても次の world-convert で消える。アクション・アイテム・イベントは色を持たず、カテゴリの色を継承する",
+				"カテゴリ色は idle-icon の SVG アイコンを目立たせるため、2026-10-29 に HSL の彩度を元の35%まで下げた（色相・明度は据え置き）。バー地に対するコントラストは最低でも2.43",
 				"100日は completed（全 numeric カテゴリが上限）までの目安。story 33本の完了はもっと早く、10ダンジョンを解禁条件の Lv20 まで上げる時間の合計が約87時間なので、拠点と素材集めを足して150〜200時間が物語の決着の目安になる"
 			],
 			"errors": [],
@@ -136,7 +137,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#6f9c2e"
+				"color": "#697852"
 			},
 			"group": "dungeon",
 			"unlocked": "released",
@@ -155,7 +156,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#24804f"
+				"color": "#426251"
 			},
 			"group": "dungeon",
 			"unlocked": "hinted",
@@ -189,7 +190,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#b35a26"
+				"color": "#856654"
 			},
 			"group": "dungeon",
 			"unlocked": "hinted",
@@ -223,7 +224,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#1c62ab"
+				"color": "#4a637d"
 			},
 			"group": "dungeon",
 			"unlocked": "hinted",
@@ -257,7 +258,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#48a0b5"
+				"color": "#6b8a92"
 			},
 			"group": "dungeon",
 			"unlocked": "hinted",
@@ -291,7 +292,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#6b757c"
+				"color": "#717476"
 			},
 			"group": "dungeon",
 			"unlocked": "hinted",
@@ -325,7 +326,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#c23b26"
+				"color": "#8f6059"
 			},
 			"group": "dungeon",
 			"unlocked": "hinted",
@@ -359,7 +360,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#a37d1c"
+				"color": "#776a48"
 			},
 			"group": "dungeon",
 			"unlocked": "hinted",
@@ -393,7 +394,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#8e2c57"
+				"color": "#6e4c5b"
 			},
 			"group": "dungeon",
 			"unlocked": "hinted",
@@ -427,7 +428,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#8a76d4"
+				"color": "#9c95b5"
 			},
 			"group": "dungeon",
 			"unlocked": "hinted",
@@ -461,7 +462,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#8c8577"
+				"color": "#85837e"
 			},
 			"group": "base",
 			"unlocked": "hinted",
@@ -488,7 +489,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#6fb07a"
+				"color": "#849b88"
 			},
 			"group": "base",
 			"unlocked": "hinted",
@@ -515,7 +516,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#c26a8e"
+				"color": "#a58793"
 			},
 			"group": "base",
 			"unlocked": "hinted",
@@ -542,7 +543,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#d07c2c"
+				"color": "#9b7d61"
 			},
 			"group": "base",
 			"unlocked": "hinted",
@@ -569,7 +570,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#7b5a35"
+				"color": "#64594c"
 			},
 			"group": "base",
 			"unlocked": "hinted",
@@ -596,7 +597,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#a85c47"
+				"color": "#886e67"
 			},
 			"group": "base",
 			"unlocked": "hinted",
@@ -623,7 +624,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#6d4f9c"
+				"color": "#736883"
 			},
 			"group": "base",
 			"unlocked": "hinted",
@@ -650,7 +651,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#7a86c2"
+				"color": "#9196ab"
 			},
 			"group": "base",
 			"unlocked": "hinted",
@@ -677,7 +678,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#4f8a8a"
+				"color": "#627777"
 			},
 			"group": "base",
 			"unlocked": "hinted",
@@ -704,7 +705,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#4e6a86"
+				"color": "#606a74"
 			},
 			"group": "equipment",
 			"unlocked": "hinted",
@@ -731,7 +732,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#6b7a4a"
+				"color": "#656a5a"
 			},
 			"group": "equipment",
 			"unlocked": "hinted",
@@ -758,7 +759,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#2f3f52"
+				"color": "#3a4047"
 			},
 			"group": "equipment",
 			"unlocked": "hinted",
@@ -785,7 +786,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#a44f9e"
+				"color": "#886b86"
 			},
 			"group": "equipment",
 			"unlocked": "hinted",
@@ -812,7 +813,7 @@
 					"iconify": "",
 					"image": ""
 				},
-				"color": "#cf9a1f"
+				"color": "#968358"
 			},
 			"group": "equipment",
 			"unlocked": "hinted",
@@ -1001,12 +1002,6 @@
 					"id": "soap-bubble",
 					"count": 2,
 					"chance": 0.216
-				},
-				{
-					"type": "item",
-					"id": "carbonated-juice",
-					"count": 2,
-					"chance": 0.259
 				}
 			],
 			"progressType": "persistent",
@@ -1077,18 +1072,6 @@
 					"id": "stone",
 					"count": 7,
 					"chance": 0.91
-				},
-				{
-					"type": "item",
-					"id": "cotton-candy",
-					"count": 2,
-					"chance": 0.259
-				},
-				{
-					"type": "item",
-					"id": "ice-pop",
-					"count": 2,
-					"chance": 0.259
 				},
 				{
 					"type": "item",
@@ -1183,18 +1166,6 @@
 					"id": "lemon",
 					"count": 3,
 					"chance": 0.4
-				},
-				{
-					"type": "item",
-					"id": "mandarin",
-					"count": 3,
-					"chance": 0.48
-				},
-				{
-					"type": "item",
-					"id": "grape",
-					"count": 3,
-					"chance": 0.48
 				}
 			],
 			"progressType": "persistent",
@@ -1976,12 +1947,6 @@
 				},
 				{
 					"type": "item",
-					"id": "wild-vegetable",
-					"count": 5,
-					"chance": 0.672
-				},
-				{
-					"type": "item",
 					"id": "moss",
 					"count": 5,
 					"chance": 0.56
@@ -2374,12 +2339,6 @@
 				}
 			],
 			"acquisitions": [
-				{
-					"type": "item",
-					"id": "wild-vegetable",
-					"count": 1,
-					"chance": 0.0616
-				},
 				{
 					"type": "item",
 					"id": "butterfly",
@@ -3381,24 +3340,6 @@
 				},
 				{
 					"type": "item",
-					"id": "hamburger",
-					"count": 2,
-					"chance": 0.576
-				},
-				{
-					"type": "item",
-					"id": "cake",
-					"count": 2,
-					"chance": 0.576
-				},
-				{
-					"type": "item",
-					"id": "milk",
-					"count": 2,
-					"chance": 0.48
-				},
-				{
-					"type": "item",
 					"id": "potato",
 					"count": 1,
 					"chance": 0.336
@@ -4295,12 +4236,6 @@
 			"acquisitions": [
 				{
 					"type": "item",
-					"id": "seaweed",
-					"count": 7,
-					"chance": 0.91
-				},
-				{
-					"type": "item",
 					"id": "holed-bucket",
 					"count": 5,
 					"chance": 0.56
@@ -4389,21 +4324,9 @@
 			"acquisitions": [
 				{
 					"type": "item",
-					"id": "small-fish",
-					"count": 7,
-					"chance": 0.91
-				},
-				{
-					"type": "item",
 					"id": "fresh-water",
 					"count": 5,
 					"chance": 0.56
-				},
-				{
-					"type": "item",
-					"id": "wakame",
-					"count": 3,
-					"chance": 0.48
 				},
 				{
 					"type": "item",
@@ -4414,24 +4337,6 @@
 				{
 					"type": "item",
 					"id": "mackerel",
-					"count": 3,
-					"chance": 0.48
-				},
-				{
-					"type": "item",
-					"id": "crab",
-					"count": 2,
-					"chance": 0.259
-				},
-				{
-					"type": "item",
-					"id": "shrimp",
-					"count": 2,
-					"chance": 0.259
-				},
-				{
-					"type": "item",
-					"id": "pufferfish",
 					"count": 3,
 					"chance": 0.48
 				}
@@ -4705,12 +4610,6 @@
 				},
 				{
 					"type": "item",
-					"id": "deep-sea-fish",
-					"count": 1,
-					"chance": 0.00328
-				},
-				{
-					"type": "item",
 					"id": "diamond",
 					"count": 1,
 					"chance": 0.00126
@@ -4845,12 +4744,6 @@
 				},
 				{
 					"type": "item",
-					"id": "deep-sea-fish",
-					"count": 1,
-					"chance": 0.00159
-				},
-				{
-					"type": "item",
 					"id": "starfish",
 					"count": 1,
 					"chance": 0.00159
@@ -4978,18 +4871,6 @@
 			"acquisitions": [
 				{
 					"type": "item",
-					"id": "squid-ink",
-					"count": 1,
-					"chance": 0.023
-				},
-				{
-					"type": "item",
-					"id": "octopus",
-					"count": 1,
-					"chance": 0.0115
-				},
-				{
-					"type": "item",
 					"id": "big-bone",
 					"count": 1,
 					"chance": 0.0096
@@ -5096,8 +4977,8 @@
 		},
 		{
 			"information": {
-				"id": "jones",
-				"name": "ジョーンズ",
+				"id": "castaway",
+				"name": "漂流者",
 				"explanation": "沈んだ船と一緒に上がってくる。足だけが先に流れ着く。",
 				"icon": {
 					"emoji": "🎩",
@@ -5143,12 +5024,6 @@
 					"id": "sardine",
 					"count": 1,
 					"chance": 0.0092
-				},
-				{
-					"type": "item",
-					"id": "shark-fin",
-					"count": 1,
-					"chance": 0.00179
 				},
 				{
 					"type": "item",
@@ -5205,12 +5080,6 @@
 			"maximum": 0,
 			"requirements": [],
 			"acquisitions": [
-				{
-					"type": "item",
-					"id": "wakame",
-					"count": 1,
-					"chance": 0.0144
-				},
 				{
 					"type": "item",
 					"id": "coral",
@@ -6592,12 +6461,6 @@
 				},
 				{
 					"type": "item",
-					"id": "salmon",
-					"count": 1,
-					"chance": 0.00704
-				},
-				{
-					"type": "item",
 					"id": "big-bone",
 					"count": 1,
 					"chance": 0.00704
@@ -7712,7 +7575,7 @@
 			"acquisitions": [
 				{
 					"type": "item",
-					"id": "ferris-wheel-gondola",
+					"id": "shipping-container",
 					"count": 1,
 					"chance": 1
 				},
@@ -8531,6 +8394,12 @@
 					"id": "molten-metal-ingot",
 					"count": 1,
 					"chance": 0.000863
+				},
+				{
+					"type": "item",
+					"id": "fire-bird",
+					"count": 1,
+					"chance": 0.0000114
 				}
 			],
 			"progressType": "stamina",
@@ -9361,12 +9230,6 @@
 				},
 				{
 					"type": "item",
-					"id": "luna",
-					"count": 1,
-					"chance": 0.0000284
-				},
-				{
-					"type": "item",
 					"id": "soul-gem",
 					"count": 1,
 					"chance": 0.000197
@@ -9479,12 +9342,6 @@
 					"id": "old-key",
 					"count": 1,
 					"chance": 0.0268
-				},
-				{
-					"type": "item",
-					"id": "dried-meat",
-					"count": 1,
-					"chance": 0.011
 				},
 				{
 					"type": "item",
@@ -9680,12 +9537,6 @@
 				{
 					"type": "item",
 					"id": "wine-grape",
-					"count": 1,
-					"chance": 0.00816
-				},
-				{
-					"type": "item",
-					"id": "wine",
 					"count": 1,
 					"chance": 0.00816
 				},
@@ -11345,12 +11196,6 @@
 					"id": "glow-moss",
 					"count": 1,
 					"chance": 0.00352
-				},
-				{
-					"type": "item",
-					"id": "nine-tailed-fox",
-					"count": 1,
-					"chance": 0.0000315
 				}
 			],
 			"progressType": "stamina",
@@ -11965,12 +11810,6 @@
 				},
 				{
 					"type": "item",
-					"id": "sky-fruit",
-					"count": 2,
-					"chance": 0.418
-				},
-				{
-					"type": "item",
 					"id": "angel-tear",
 					"count": 1,
 					"chance": 0.311
@@ -12078,12 +11917,6 @@
 					"id": "evolution-stone",
 					"count": 2,
 					"chance": 0.418
-				},
-				{
-					"type": "item",
-					"id": "genesis-fruit",
-					"count": 1,
-					"chance": 0.311
 				},
 				{
 					"type": "item",
@@ -13143,7 +12976,7 @@
 		{
 			"information": {
 				"id": "play-with-chick",
-				"name": "ヒヨコを遊ばせる",
+				"name": "ピヨちゃん（ジュニア）",
 				"explanation": "掌に乗せて転がすだけ。抜けた産毛が積もっていく。",
 				"icon": {
 					"emoji": "🐥",
@@ -13154,7 +12987,7 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
 			"level": 1,
 			"experience": 46,
@@ -13191,7 +13024,7 @@
 		{
 			"information": {
 				"id": "feed-killifish",
-				"name": "メダカに餌をやる",
+				"name": "メダカ",
 				"explanation": "水面を叩くと寄ってくる。増えるぶんは分けてもらう。",
 				"icon": {
 					"emoji": "🐟",
@@ -13202,12 +13035,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 4,
-			"experience": 141,
+			"level": 3,
+			"experience": 108,
 			"seconds": 3600,
-			"chance": 0.65,
+			"chance": 0.85,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13229,7 +13062,7 @@
 				{
 					"type": "item",
 					"id": "fish",
-					"count": 6,
+					"count": 5,
 					"chance": 1
 				}
 			],
@@ -13246,7 +13079,7 @@
 		{
 			"information": {
 				"id": "run-hamster",
-				"name": "ハムスターを走らせる",
+				"name": "ハム右衛門",
 				"explanation": "回し車の回転で臼が回る。本人は走っているつもり。",
 				"icon": {
 					"emoji": "🐹",
@@ -13257,12 +13090,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 6,
-			"experience": 92,
+			"level": 8,
+			"experience": 61,
 			"seconds": 1800,
-			"chance": 0.5,
+			"chance": 0.75,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13285,7 +13118,7 @@
 					"type": "item",
 					"id": "wheat",
 					"count": 2,
-					"chance": 1
+					"chance": 0.667
 				}
 			],
 			"progressType": "persistent",
@@ -13301,7 +13134,7 @@
 		{
 			"information": {
 				"id": "pluck-walking-cactus-thorn",
-				"name": "歩くサボテンの棘を抜く",
+				"name": "歩くサボテン",
 				"explanation": "水をやると機嫌よく棘を落とす。刺されないうちに集める。",
 				"icon": {
 					"emoji": "🌵",
@@ -13312,12 +13145,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 9,
-			"experience": 152,
+			"level": 11,
+			"experience": 144,
 			"seconds": 5400,
-			"chance": 0.9,
+			"chance": 0.95,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13362,7 +13195,7 @@
 		{
 			"information": {
 				"id": "care-for-chicken",
-				"name": "ニワトリを世話する",
+				"name": "ピヨちゃん",
 				"explanation": "毎朝きっかり同じ時刻に起こされる。対価は卵。",
 				"icon": {
 					"emoji": "🐔",
@@ -13373,12 +13206,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 12,
-			"experience": 92,
+			"level": 18,
+			"experience": 61,
 			"seconds": 1800,
-			"chance": 0.5,
+			"chance": 0.75,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13401,7 +13234,7 @@
 					"type": "item",
 					"id": "egg",
 					"count": 2,
-					"chance": 1
+					"chance": 0.667
 				}
 			],
 			"progressType": "persistent",
@@ -13417,7 +13250,7 @@
 		{
 			"information": {
 				"id": "bathe-duck",
-				"name": "アヒルをお風呂に入れる",
+				"name": "醜いアヒル",
 				"explanation": "本人は嫌がるが、上がったあとの羽づくろいで羽根が落ちる。",
 				"icon": {
 					"emoji": "🦆",
@@ -13428,12 +13261,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 15,
-			"experience": 304,
+			"level": 21,
+			"experience": 228,
 			"seconds": 7200,
-			"chance": 0.6,
+			"chance": 0.8,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13455,14 +13288,14 @@
 				{
 					"type": "item",
 					"id": "feather",
-					"count": 7,
+					"count": 5,
 					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "cloth",
 					"count": 2,
-					"chance": 1
+					"chance": 0.75
 				}
 			],
 			"progressType": "persistent",
@@ -13478,7 +13311,7 @@
 		{
 			"information": {
 				"id": "cheer-up-underdog",
-				"name": "負け犬を励ます",
+				"name": "パブロフ",
 				"explanation": "褒めると掘りに行く。埋めた場所は自分でも覚えていない。",
 				"icon": {
 					"emoji": "🐕",
@@ -13489,12 +13322,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 17,
-			"experience": 106,
+			"level": 23,
+			"experience": 81,
 			"seconds": 2700,
-			"chance": 0.65,
+			"chance": 0.85,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13517,13 +13350,13 @@
 					"type": "item",
 					"id": "bone",
 					"count": 2,
-					"chance": 1
+					"chance": 0.765
 				},
 				{
 					"type": "item",
 					"id": "big-bone",
 					"count": 1,
-					"chance": 1
+					"chance": 0.765
 				}
 			],
 			"progressType": "persistent",
@@ -13539,7 +13372,7 @@
 		{
 			"information": {
 				"id": "walk-turtle",
-				"name": "カメを散歩させる",
+				"name": "クッパ",
 				"explanation": "歩幅に合わせると一日が終わる。道すがら実を拾ってくる。",
 				"icon": {
 					"emoji": "🐢",
@@ -13550,12 +13383,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 20,
-			"experience": 547,
+			"level": 25,
+			"experience": 365,
 			"seconds": 10800,
-			"chance": 0.5,
+			"chance": 0.75,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13577,7 +13410,7 @@
 				{
 					"type": "item",
 					"id": "acorn",
-					"count": 9,
+					"count": 6,
 					"chance": 1
 				}
 			],
@@ -13594,7 +13427,7 @@
 		{
 			"information": {
 				"id": "talk-with-parroting-parrot",
-				"name": "オウム返しするオウムと話す",
+				"name": "オウム返しするオウム",
 				"explanation": "こちらの言葉しか返さないが、街で聞いた噂も混ざる。小銭になる。",
 				"icon": {
 					"emoji": "🦜",
@@ -13605,12 +13438,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 23,
-			"experience": 274,
+			"level": 28,
+			"experience": 183,
 			"seconds": 5400,
-			"chance": 0.5,
+			"chance": 0.75,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13632,14 +13465,14 @@
 				{
 					"type": "item",
 					"id": "feather",
-					"count": 3,
+					"count": 2,
 					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "coin",
 					"count": 5,
-					"chance": 1
+					"chance": 0.667
 				}
 			],
 			"progressType": "persistent",
@@ -13655,7 +13488,7 @@
 		{
 			"information": {
 				"id": "take-out-jones",
-				"name": "ジョーンズを連れ出す",
+				"name": "ジョーンズ",
 				"explanation": "鞭も帽子も無いが、掘り出す嗅覚だけは本物。",
 				"icon": {
 					"emoji": "🎩",
@@ -13666,9 +13499,9 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 26,
+			"level": 30,
 			"experience": 365,
 			"seconds": 14400,
 			"chance": 1,
@@ -13716,7 +13549,7 @@
 		{
 			"information": {
 				"id": "pen-pen-fishing",
-				"name": "ペンペンに魚を獲らせる",
+				"name": "ペンペン",
 				"explanation": "氷を割ってやると勝手に潜る。取り分の交渉は毎回もめる。",
 				"icon": {
 					"emoji": "🐧",
@@ -13727,12 +13560,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 28,
-			"experience": 304,
+			"level": 33,
+			"experience": 228,
 			"seconds": 7200,
-			"chance": 0.6,
+			"chance": 0.8,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13754,7 +13587,7 @@
 				{
 					"type": "item",
 					"id": "fish",
-					"count": 4,
+					"count": 3,
 					"chance": 1
 				}
 			],
@@ -13771,7 +13604,7 @@
 		{
 			"information": {
 				"id": "scout-with-r2d2",
-				"name": "R2D2に偵察させる",
+				"name": "R2D2",
 				"explanation": "行き先を伝えると勝手に帰ってくる。部品を落としながら。",
 				"icon": {
 					"emoji": "🤖",
@@ -13782,12 +13615,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 31,
-			"experience": 729,
+			"level": 35,
+			"experience": 608,
 			"seconds": 21600,
-			"chance": 0.75,
+			"chance": 0.9,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13809,13 +13642,13 @@
 				{
 					"type": "item",
 					"id": "gear",
-					"count": 8,
+					"count": 7,
 					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "wire",
-					"count": 5,
+					"count": 4,
 					"chance": 1
 				}
 			],
@@ -13832,7 +13665,7 @@
 		{
 			"information": {
 				"id": "bathe-kero-chan",
-				"name": "ケロちゃんを水浴びさせる",
+				"name": "ケロちゃん",
 				"explanation": "池に放つと勝手に狩ってくる。水も汲んできてくれる。",
 				"icon": {
 					"emoji": "🐸",
@@ -13843,12 +13676,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 34,
-			"experience": 351,
+			"level": 38,
+			"experience": 268,
 			"seconds": 9000,
-			"chance": 0.65,
+			"chance": 0.85,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13871,13 +13704,13 @@
 					"type": "item",
 					"id": "fish",
 					"count": 3,
-					"chance": 1
+					"chance": 0.765
 				},
 				{
 					"type": "item",
 					"id": "fresh-water",
 					"count": 2,
-					"chance": 1
+					"chance": 0.765
 				}
 			],
 			"progressType": "persistent",
@@ -13893,7 +13726,7 @@
 		{
 			"information": {
 				"id": "play-with-flame-fox",
-				"name": "炎のキツネと遊ぶ",
+				"name": "炎のキツネ",
 				"explanation": "尾を振るたびに火の粉が散る。焦げたぶんは炭になる。",
 				"icon": {
 					"emoji": "🦊",
@@ -13904,12 +13737,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 36,
-			"experience": 1325,
+			"level": 40,
+			"experience": 911,
 			"seconds": 28800,
-			"chance": 0.55,
+			"chance": 0.8,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13931,13 +13764,74 @@
 				{
 					"type": "item",
 					"id": "foxfire",
-					"count": 4,
+					"count": 3,
 					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "charcoal",
-					"count": 8,
+					"count": 6,
+					"chance": 1
+				}
+			],
+			"progressType": "persistent",
+			"property": {
+				"attack": 0,
+				"defence": 0,
+				"accuracy": 0,
+				"evasion": 0,
+				"restore": 0
+			},
+			"skills": []
+		},
+		{
+			"information": {
+				"id": "play-with-fire-bird",
+				"name": "炎の鳥",
+				"explanation": "炭をくべると機嫌よく燃え上がる。燃え尽きたあとの灰は大事に取っておく。",
+				"icon": {
+					"emoji": "🐦‍🔥",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "garden",
+			"attribute": "",
+			"group": "play",
+			"unlocked": "hidden",
+			"level": 43,
+			"experience": 1025,
+			"seconds": 32400,
+			"chance": 0.8,
+			"maximum": 0,
+			"requirements": [
+				{
+					"type": "item",
+					"id": "fire-bird",
+					"count": 1,
+					"chance": 0,
+					"equipment": false
+				},
+				{
+					"type": "item",
+					"id": "charcoal",
+					"count": 2,
+					"chance": 1,
+					"equipment": false
+				}
+			],
+			"acquisitions": [
+				{
+					"type": "item",
+					"id": "phoenix-ash",
+					"count": 1,
+					"chance": 1
+				},
+				{
+					"type": "item",
+					"id": "feather",
+					"count": 4,
 					"chance": 1
 				}
 			],
@@ -13954,7 +13848,7 @@
 		{
 			"information": {
 				"id": "ask-five-color-cat",
-				"name": "五毛猫に頼みごとをする",
+				"name": "シュレーディンガー",
 				"explanation": "五色の毛を撫でて頼むと、どこからか持ってくる。出所は聞かない。",
 				"icon": {
 					"emoji": "🐱",
@@ -13965,12 +13859,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 39,
-			"experience": 486,
+			"level": 45,
+			"experience": 405,
 			"seconds": 14400,
-			"chance": 0.75,
+			"chance": 0.9,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -13992,67 +13886,12 @@
 				{
 					"type": "item",
 					"id": "coin",
-					"count": 11,
+					"count": 9,
 					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "nut",
-					"count": 4,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "take-luna-to-moon",
-				"name": "ルナを月に連れていく",
-				"explanation": "月まで送り届けて、こぼれた欠片を持ち帰る。",
-				"icon": {
-					"emoji": "🌙",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "garden",
-			"attribute": "",
-			"group": "pet",
-			"unlocked": "hidden",
-			"level": 42,
-			"experience": 1179,
-			"seconds": 39600,
-			"chance": 0.85,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "luna",
-					"count": 1,
-					"chance": 0,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "honey",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "star-piece",
 					"count": 3,
 					"chance": 1
 				}
@@ -14070,7 +13909,7 @@
 		{
 			"information": {
 				"id": "feed-flying-goldfish",
-				"name": "空飛ぶ金魚にエサをやる",
+				"name": "空飛ぶ金魚",
 				"explanation": "宙を泳ぎながら食べる。落としたぶんが下に溜まる。",
 				"icon": {
 					"emoji": "🐠",
@@ -14081,12 +13920,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 45,
-			"experience": 608,
+			"level": 48,
+			"experience": 506,
 			"seconds": 18000,
-			"chance": 0.75,
+			"chance": 0.9,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -14108,7 +13947,7 @@
 				{
 					"type": "item",
 					"id": "coin",
-					"count": 7,
+					"count": 6,
 					"chance": 1
 				}
 			],
@@ -14125,7 +13964,7 @@
 		{
 			"information": {
 				"id": "ride-flying-pig",
-				"name": "空飛ぶブタを乗りこなす",
+				"name": "空飛ぶブタ",
 				"explanation": "飛べると分かった日から、落ちる心配だけが残った。",
 				"icon": {
 					"emoji": "🐷",
@@ -14136,12 +13975,12 @@
 			},
 			"category": "garden",
 			"attribute": "",
-			"group": "pet",
+			"group": "play",
 			"unlocked": "hidden",
-			"level": 47,
-			"experience": 1562,
+			"level": 50,
+			"experience": 1286,
 			"seconds": 43200,
-			"chance": 0.7,
+			"chance": 0.85,
 			"maximum": 0,
 			"requirements": [
 				{
@@ -14163,74 +14002,13 @@
 				{
 					"type": "item",
 					"id": "feather",
-					"count": 17,
+					"count": 14,
 					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "coin",
-					"count": 17,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "contract-nine-tailed-fox",
-				"name": "九尾の狐と契約する",
-				"explanation": "対価は天空の花。九つの尾がそれぞれ別のものを持ち帰る。",
-				"icon": {
-					"emoji": "🦊",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "garden",
-			"attribute": "",
-			"group": "pet",
-			"unlocked": "hidden",
-			"level": 50,
-			"experience": 797,
-			"seconds": 25200,
-			"chance": 0.8,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "nine-tailed-fox",
-					"count": 1,
-					"chance": 0,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "sky-flower",
-					"count": 1,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "foxfire",
-					"count": 3,
-					"chance": 1
-				},
-				{
-					"type": "item",
-					"id": "star-piece",
-					"count": 2,
+					"count": 14,
 					"chance": 1
 				}
 			],
@@ -14257,20 +14035,20 @@
 				"color": ""
 			},
 			"category": "garden",
-			"attribute": "melee-weapon",
-			"group": "hunt",
+			"attribute": "",
+			"group": "discipline",
 			"unlocked": "hidden",
-			"level": 5,
-			"experience": 0.971,
-			"seconds": 1.7,
-			"chance": 0.5,
+			"level": 6,
+			"experience": 243,
+			"seconds": 939,
+			"chance": 0.75,
 			"maximum": 0,
 			"requirements": [
 				{
 					"type": "item",
 					"id": "wheat",
 					"count": 1,
-					"chance": 0.0283,
+					"chance": 1,
 					"equipment": false
 				}
 			],
@@ -14278,29 +14056,29 @@
 				{
 					"type": "item",
 					"id": "egg",
-					"count": 1,
-					"chance": 0.085
+					"count": 3,
+					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "feather",
-					"count": 1,
-					"chance": 0.198
+					"count": 7,
+					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "raw-meat",
-					"count": 1,
-					"chance": 0.0567
+					"count": 2,
+					"chance": 1
 				}
 			],
 			"progressType": "stamina",
 			"property": {
-				"attack": 15,
-				"defence": 4,
-				"accuracy": 2,
+				"attack": 0,
+				"defence": 0,
+				"accuracy": 0,
 				"evasion": 0,
-				"restore": 8
+				"restore": 0
 			},
 			"skills": [
 				"second-strike"
@@ -14319,42 +14097,42 @@
 				"color": ""
 			},
 			"category": "garden",
-			"attribute": "melee-weapon",
-			"group": "hunt",
+			"attribute": "",
+			"group": "discipline",
 			"unlocked": "hidden",
-			"level": 11,
-			"experience": 0.914,
-			"seconds": 1.6,
-			"chance": 0.5,
+			"level": 13,
+			"experience": 365,
+			"seconds": 1408,
+			"chance": 0.75,
 			"maximum": 0,
 			"requirements": [],
 			"acquisitions": [
 				{
 					"type": "item",
 					"id": "feather",
-					"count": 1,
-					"chance": 0.133
+					"count": 9,
+					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "acorn",
-					"count": 1,
-					"chance": 0.0933
+					"count": 6,
+					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "nut",
-					"count": 1,
-					"chance": 0.04
+					"count": 3,
+					"chance": 1
 				}
 			],
 			"progressType": "stamina",
 			"property": {
-				"attack": 15,
-				"defence": 4,
-				"accuracy": 2,
+				"attack": 0,
+				"defence": 0,
+				"accuracy": 0,
 				"evasion": 0,
-				"restore": 8
+				"restore": 0
 			},
 			"skills": [
 				"charm"
@@ -14373,42 +14151,42 @@
 				"color": ""
 			},
 			"category": "garden",
-			"attribute": "melee-weapon",
-			"group": "hunt",
+			"attribute": "",
+			"group": "discipline",
 			"unlocked": "hidden",
-			"level": 11,
-			"experience": 1.26,
-			"seconds": 2.2,
-			"chance": 0.5,
+			"level": 16,
+			"experience": 486,
+			"seconds": 1877,
+			"chance": 0.75,
 			"maximum": 0,
 			"requirements": [],
 			"acquisitions": [
 				{
 					"type": "item",
 					"id": "raw-meat",
-					"count": 1,
-					"chance": 0.055
+					"count": 9,
+					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "caterpillar",
-					"count": 1,
-					"chance": 0.0367
+					"count": 6,
+					"chance": 1
 				},
 				{
 					"type": "item",
 					"id": "leaf-mold",
-					"count": 1,
-					"chance": 0.055
+					"count": 9,
+					"chance": 1
 				}
 			],
 			"progressType": "stamina",
 			"property": {
-				"attack": 15,
-				"defence": 4,
-				"accuracy": 2,
+				"attack": 0,
+				"defence": 0,
+				"accuracy": 0,
 				"evasion": 0,
-				"restore": 8
+				"restore": 0
 			},
 			"skills": [
 				"healing-power"
@@ -14464,54 +14242,6 @@
 		},
 		{
 			"information": {
-				"id": "buy-frying-pan",
-				"name": "フライパンを買う",
-				"explanation": "料理も戦闘もこなす万能選手。台所はここから始まる。",
-				"icon": {
-					"emoji": "🍳",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "purchase",
-			"unlocked": "hidden",
-			"level": 3,
-			"experience": 0,
-			"seconds": 0,
-			"chance": 1,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "coin",
-					"count": 50,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "frying-pan",
-					"count": 1,
-					"chance": 1
-				}
-			],
-			"progressType": "single",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
 				"id": "buy-bowl",
 				"name": "ボウルを買う",
 				"explanation": "混ぜる、盛る、顔を洗う。",
@@ -14526,7 +14256,7 @@
 			"attribute": "",
 			"group": "purchase",
 			"unlocked": "hidden",
-			"level": 4,
+			"level": 5,
 			"experience": 0,
 			"seconds": 0,
 			"chance": 1,
@@ -14560,6 +14290,54 @@
 		},
 		{
 			"information": {
+				"id": "buy-frying-pan",
+				"name": "フライパンを買う",
+				"explanation": "料理も戦闘もこなす万能選手。台所はここから始まる。",
+				"icon": {
+					"emoji": "🍳",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "kitchen",
+			"attribute": "",
+			"group": "purchase",
+			"unlocked": "hidden",
+			"level": 12,
+			"experience": 0,
+			"seconds": 0,
+			"chance": 1,
+			"maximum": 0,
+			"requirements": [
+				{
+					"type": "item",
+					"id": "coin",
+					"count": 50,
+					"chance": 1,
+					"equipment": false
+				}
+			],
+			"acquisitions": [
+				{
+					"type": "item",
+					"id": "frying-pan",
+					"count": 1,
+					"chance": 1
+				}
+			],
+			"progressType": "single",
+			"property": {
+				"attack": 0,
+				"defence": 0,
+				"accuracy": 0,
+				"evasion": 0,
+				"restore": 0
+			},
+			"skills": []
+		},
+		{
+			"information": {
 				"id": "buy-steamer",
 				"name": "蒸籠を買う",
 				"explanation": "湯気で料理を優しく仕上げる。",
@@ -14574,7 +14352,7 @@
 			"attribute": "",
 			"group": "purchase",
 			"unlocked": "hidden",
-			"level": 17,
+			"level": 20,
 			"experience": 0,
 			"seconds": 0,
 			"chance": 1,
@@ -14622,7 +14400,7 @@
 			"attribute": "",
 			"group": "process",
 			"unlocked": "hidden",
-			"level": 6,
+			"level": 9,
 			"experience": 47,
 			"seconds": 120,
 			"chance": 0.85,
@@ -14690,7 +14468,7 @@
 			"attribute": "",
 			"group": "process",
 			"unlocked": "hidden",
-			"level": 19,
+			"level": 24,
 			"experience": 119,
 			"seconds": 360,
 			"chance": 1,
@@ -14701,7 +14479,7 @@
 					"id": "bowl",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -14723,192 +14501,6 @@
 					"type": "item",
 					"id": "bread-dough",
 					"count": 228,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "craft-cheese",
-				"name": "チーズを作る",
-				"explanation": "牛乳を温めて固め、あとは待つ。熟成するほど深い味わい。",
-				"icon": {
-					"emoji": "🧀",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "process",
-			"unlocked": "hidden",
-			"level": 21,
-			"experience": 42,
-			"seconds": 120,
-			"chance": 0.95,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "pot",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "milk",
-					"count": 5,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "cheese",
-					"count": 80,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "craft-mayonnaise",
-				"name": "マヨネーズを作る",
-				"explanation": "卵と油を延々と混ぜる。分離したら最初からやり直し。",
-				"icon": {
-					"emoji": "🥫",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "process",
-			"unlocked": "hidden",
-			"level": 22,
-			"experience": 264,
-			"seconds": 480,
-			"chance": 0.6,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "bowl",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "egg",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "oil",
-					"count": 12,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 4,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "mayonnaise",
-					"count": 507,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "make-military-sardine",
-				"name": "軍用イワシ",
-				"explanation": "",
-				"icon": {
-					"emoji": "🐟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "process",
-			"unlocked": "hidden",
-			"level": 30,
-			"experience": 180,
-			"seconds": 300,
-			"chance": 0.55,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "sardine",
-					"count": 4,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "gunpowder",
-					"count": 1,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "military-sardine",
-					"count": 345,
 					"chance": 1
 				}
 			],
@@ -14949,7 +14541,7 @@
 					"id": "pot",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -14960,7 +14552,7 @@
 				},
 				{
 					"type": "item",
-					"id": "honey",
+					"id": "mentos",
 					"count": 1,
 					"chance": 1,
 					"equipment": false
@@ -14970,90 +14562,7 @@
 				{
 					"type": "item",
 					"id": "candy",
-					"count": 38,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "cook-french-toast",
-				"name": "フレンチトースト",
-				"explanation": "硬くて殴れるパンを、卵液に浸して柔らかくする。武器がおやつになる。",
-				"icon": {
-					"emoji": "🍞",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 3,
-			"experience": 47,
-			"seconds": 120,
-			"chance": 0.85,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "frying-pan",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "baguette",
-					"count": 4,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "egg",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "sugar",
-					"count": 1,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "oil",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "milk",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "french-toast",
-					"count": 89,
+					"count": 7,
 					"chance": 1
 				}
 			],
@@ -15083,7 +14592,7 @@
 			"attribute": "",
 			"group": "cooking",
 			"unlocked": "hidden",
-			"level": 4,
+			"level": 5,
 			"experience": 22,
 			"seconds": 60,
 			"chance": 0.9,
@@ -15094,7 +14603,7 @@
 					"id": "bowl",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -15138,241 +14647,6 @@
 		},
 		{
 			"information": {
-				"id": "cook-tomato-egg-drop",
-				"name": "トマトの卵とじ",
-				"explanation": "崩したトマトに卵を回し入れる。火を止めるのが早いほど旨い。",
-				"icon": {
-					"emoji": "🍅",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 8,
-			"experience": 24,
-			"seconds": 60,
-			"chance": 0.85,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "frying-pan",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "tomato",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "egg",
-					"count": 1,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "oil",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "wild-vegetable",
-					"count": 1,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "tomato-egg-drop",
-					"count": 45,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "cook-sardine-confit",
-				"name": "イワシのコンフィ",
-				"explanation": "低温の油に沈めて待つ。名前が長いぶん、時間もかかる。",
-				"icon": {
-					"emoji": "🐟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 9,
-			"experience": 66,
-			"seconds": 180,
-			"chance": 0.9,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "frying-pan",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "sardine",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "garlic",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "lemon",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "oil",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "sardine-confit",
-					"count": 127,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "cook-fried-egg",
-				"name": "目玉焼き",
-				"explanation": "黄身を割るか割らないかで、その日の機嫌が分かる。",
-				"icon": {
-					"emoji": "🍳",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 11,
-			"experience": 21,
-			"seconds": 60,
-			"chance": 0.95,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "frying-pan",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "egg",
-					"count": 1,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "oil",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "fried-egg",
-					"count": 40,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
 				"id": "cook-yakitori",
 				"name": "焼き鳥",
 				"explanation": "串に刺して炙る。上を向いて歩こう。",
@@ -15398,7 +14672,7 @@
 					"id": "frying-pan",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -15417,6 +14691,20 @@
 				{
 					"type": "item",
 					"id": "salt",
+					"count": 2,
+					"chance": 1,
+					"equipment": false
+				},
+				{
+					"type": "item",
+					"id": "frog",
+					"count": 1,
+					"chance": 1,
+					"equipment": false
+				},
+				{
+					"type": "item",
+					"id": "tadpole",
 					"count": 2,
 					"chance": 1,
 					"equipment": false
@@ -15456,7 +14744,7 @@
 			"attribute": "",
 			"group": "cooking",
 			"unlocked": "hidden",
-			"level": 14,
+			"level": 16,
 			"experience": 66,
 			"seconds": 120,
 			"chance": 0.6,
@@ -15467,7 +14755,7 @@
 					"id": "frying-pan",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -15518,89 +14806,6 @@
 		},
 		{
 			"information": {
-				"id": "cook-potato-salad",
-				"name": "ポテトサラダ",
-				"explanation": "潰しすぎない。形が残っているほうが手作りに見える。",
-				"icon": {
-					"emoji": "🥗",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 16,
-			"experience": 88,
-			"seconds": 240,
-			"chance": 0.9,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "bowl",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "potato",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "carrot",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "egg",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "mayonnaise",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "potato-salad",
-					"count": 169,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
 				"id": "cook-meat-bun",
 				"name": "肉まん",
 				"explanation": "生地で餡を包んで蒸す。割ったときの湯気までが料理。",
@@ -15615,7 +14820,7 @@
 			"attribute": "",
 			"group": "cooking",
 			"unlocked": "hidden",
-			"level": 17,
+			"level": 20,
 			"experience": 47,
 			"seconds": 120,
 			"chance": 0.85,
@@ -15626,7 +14831,7 @@
 					"id": "steamer",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -15698,7 +14903,7 @@
 			"attribute": "",
 			"group": "cooking",
 			"unlocked": "hidden",
-			"level": 24,
+			"level": 27,
 			"experience": 108,
 			"seconds": 180,
 			"chance": 0.55,
@@ -15709,7 +14914,7 @@
 					"id": "frying-pan",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -15755,7 +14960,7 @@
 				},
 				{
 					"type": "item",
-					"id": "king-oyster-mushroom",
+					"id": "poison-mushroom",
 					"count": 1,
 					"chance": 1,
 					"equipment": false
@@ -15766,89 +14971,6 @@
 					"type": "item",
 					"id": "stir-fried-vegetables",
 					"count": 207,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "cook-steak",
-				"name": "ステーキ",
-				"explanation": "片面を焼いたら、あとは触らない。",
-				"icon": {
-					"emoji": "🥩",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 26,
-			"experience": 186,
-			"seconds": 480,
-			"chance": 0.85,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "frying-pan",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "raw-meat",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 10,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "oil",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "garlic",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "daikon",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "steak",
-					"count": 358,
 					"chance": 1
 				}
 			],
@@ -15878,7 +15000,7 @@
 			"attribute": "",
 			"group": "cooking",
 			"unlocked": "hidden",
-			"level": 27,
+			"level": 31,
 			"experience": 113,
 			"seconds": 240,
 			"chance": 0.7,
@@ -15889,7 +15011,7 @@
 					"id": "pot",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -15961,7 +15083,7 @@
 			"attribute": "",
 			"group": "cooking",
 			"unlocked": "hidden",
-			"level": 29,
+			"level": 35,
 			"experience": 395,
 			"seconds": 720,
 			"chance": 0.6,
@@ -15997,8 +15119,8 @@
 				},
 				{
 					"type": "item",
-					"id": "salmon",
-					"count": 4,
+					"id": "electric-eel",
+					"count": 1,
 					"chance": 1,
 					"equipment": false
 				},
@@ -16050,7 +15172,7 @@
 			"attribute": "",
 			"group": "cooking",
 			"unlocked": "hidden",
-			"level": 32,
+			"level": 39,
 			"experience": 329,
 			"seconds": 900,
 			"chance": 0.9,
@@ -16061,7 +15183,7 @@
 					"id": "pot",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -16112,95 +15234,6 @@
 		},
 		{
 			"information": {
-				"id": "cook-pizza",
-				"name": "ピザ",
-				"explanation": "生地に載せて焼くだけ。載せすぎると生焼けになる。",
-				"icon": {
-					"emoji": "🍕",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 34,
-			"experience": 119,
-			"seconds": 360,
-			"chance": 1,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "oven",
-					"count": 1,
-					"chance": 0,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "wheat",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "beef-jerky",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "cheese",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "tomato",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "king-oyster-mushroom",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "pizza",
-					"count": 228,
-					"chance": 1
-				},
-				{
-					"type": "item",
-					"id": "ash",
-					"count": 2,
-					"chance": 0.36
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
 				"id": "cook-beef-jerky",
 				"name": "ビーフジャーキー",
 				"explanation": "低温で長時間。水分が抜けるほど味が濃くなる。",
@@ -16215,7 +15248,7 @@
 			"attribute": "",
 			"group": "cooking",
 			"unlocked": "hidden",
-			"level": 35,
+			"level": 42,
 			"experience": 711,
 			"seconds": 1080,
 			"chance": 0.5,
@@ -16276,650 +15309,6 @@
 		},
 		{
 			"information": {
-				"id": "cook-omelette",
-				"name": "オムレツ",
-				"explanation": "包めなかったぶんは、上から掛ければ分からない。",
-				"icon": {
-					"emoji": "🍳",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 37,
-			"experience": 167,
-			"seconds": 480,
-			"chance": 0.95,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "frying-pan",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "egg",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "raw-rice",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "tomato",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "oil",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "cheese",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "milk",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "omelette",
-					"count": 320,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "cook-cooked-rice",
-				"name": "ごはん",
-				"explanation": "水加減がすべて。日本人の心はここで決まる。",
-				"icon": {
-					"emoji": "🍚",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 39,
-			"experience": 494,
-			"seconds": 1200,
-			"chance": 0.8,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "pot",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "raw-rice",
-					"count": 15,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "fresh-water",
-					"count": 10,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "cooked-rice",
-					"count": 950,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "cook-sushi",
-				"name": "寿司",
-				"explanation": "酢飯を切るように混ぜて、あとは載せるだけ。ネタの格が全部。",
-				"icon": {
-					"emoji": "🍣",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 40,
-			"experience": 233,
-			"seconds": 600,
-			"chance": 0.85,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "bowl",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "frozen-tuna",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "raw-rice",
-					"count": 5,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "sardine",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "sea-urchin",
-					"count": 7,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "mackerel",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "wakame",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "sushi",
-					"count": 447,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "cook-rice-ball",
-				"name": "おにぎり",
-				"explanation": "握りすぎない。三角になればそれでいい。",
-				"icon": {
-					"emoji": "🍙",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 42,
-			"experience": 494,
-			"seconds": 1500,
-			"chance": 1,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "bowl",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "raw-rice",
-					"count": 13,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 13,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "wakame",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salmon",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "rice-ball",
-					"count": 950,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "cook-curry-rice",
-				"name": "カレー",
-				"explanation": "悩んだ時はこれ。煮込むほど悩みが減る。",
-				"icon": {
-					"emoji": "🍛",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 43,
-			"experience": 250,
-			"seconds": 720,
-			"chance": 0.95,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "pot",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "carrot",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "potato",
-					"count": 9,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "raw-meat",
-					"count": 9,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "raw-rice",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "oil",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "garlic",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "chili",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "curry-rice",
-					"count": 480,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "cook-steamed-vegetables",
-				"name": "蒸し野菜",
-				"explanation": "湯気だけで火を通す。味付けは最後にまとめて。",
-				"icon": {
-					"emoji": "🥗",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 45,
-			"experience": 593,
-			"seconds": 1800,
-			"chance": 1,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "steamer",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "carrot",
-					"count": 23,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "broccoli",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "pumpkin",
-					"count": 15,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "oil",
-					"count": 23,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 23,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "chili",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "liquor",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "chinese-cabbage",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "steamed-vegetables",
-					"count": 1140,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
-				"id": "cook-organic-salad",
-				"name": "オーガニックサラダ",
-				"explanation": "世界樹の葉が一枚入るだけで、ただの野菜が高級品になる。",
-				"icon": {
-					"emoji": "🥗",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"attribute": "",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"level": 47,
-			"experience": 494,
-			"seconds": 900,
-			"chance": 0.6,
-			"maximum": 0,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "bowl",
-					"count": 1,
-					"chance": 0,
-					"equipment": true
-				},
-				{
-					"type": "item",
-					"id": "world-tree-leaf",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "carrot",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "tomato",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "broccoli",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salt",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "oil",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "sugar",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "salad",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "item",
-					"id": "wild-vegetable",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"acquisitions": [
-				{
-					"type": "item",
-					"id": "organic-salad",
-					"count": 950,
-					"chance": 1
-				}
-			],
-			"progressType": "persistent",
-			"property": {
-				"attack": 0,
-				"defence": 0,
-				"accuracy": 0,
-				"evasion": 0,
-				"restore": 0
-			},
-			"skills": []
-		},
-		{
-			"information": {
 				"id": "cook-bitter-dango",
 				"name": "苦い団子",
 				"explanation": "ワライタケを練り込む。意外な隠し味、で済むかは食べた人次第。",
@@ -16934,7 +15323,7 @@
 			"attribute": "",
 			"group": "cooking",
 			"unlocked": "hidden",
-			"level": 48,
+			"level": 46,
 			"experience": 624,
 			"seconds": 1800,
 			"chance": 0.95,
@@ -16945,7 +15334,7 @@
 					"id": "bowl",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -17014,7 +15403,7 @@
 					"id": "steamer",
 					"count": 1,
 					"chance": 0,
-					"equipment": true
+					"equipment": false
 				},
 				{
 					"type": "item",
@@ -17034,6 +15423,13 @@
 					"type": "item",
 					"id": "sky-flower",
 					"count": 11,
+					"chance": 1,
+					"equipment": false
+				},
+				{
+					"type": "item",
+					"id": "forbidden-fruit",
+					"count": 1,
 					"chance": 1,
 					"equipment": false
 				}
@@ -18171,7 +16567,7 @@
 			"information": {
 				"id": "cosmic-truth-studies",
 				"name": "宇宙真理学",
-				"explanation": "宇宙の真理を学ぶ講座。なぜかヒヨコとニワトリが付いてくる。",
+				"explanation": "宇宙の真理を学ぶ講座。なぜかピヨちゃん親子が付いてくる。",
 				"icon": {
 					"emoji": "🌌",
 					"iconify": "",
@@ -36818,6 +35214,79 @@
 		},
 		{
 			"information": {
+				"id": "soda-pop",
+				"name": "サイダー",
+				"explanation": "飲むとスッキリした気分になる水。",
+				"icon": {
+					"emoji": "🥤",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "warehouse",
+			"group": "material",
+			"unlocked": "hidden",
+			"buyingValue": 36,
+			"sellingValue": 18,
+			"coinId": "",
+			"maximum": 0,
+			"equipmentType": "impossible",
+			"consumeChance": 1,
+			"requirements": [
+				{
+					"type": "category",
+					"id": "park",
+					"count": 2,
+					"chance": 1,
+					"equipment": false
+				},
+				{
+					"type": "category",
+					"id": "kitchen",
+					"count": 9,
+					"chance": 1,
+					"equipment": false
+				}
+			],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
+				"id": "king-oyster-mushroom",
+				"name": "エリンギ",
+				"explanation": "大きさも形も似ている。",
+				"icon": {
+					"emoji": "🍄",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "warehouse",
+			"group": "material",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 18,
+			"coinId": "",
+			"maximum": 0,
+			"equipmentType": "impossible",
+			"consumeChance": 1,
+			"requirements": [
+				{
+					"type": "category",
+					"id": "forest",
+					"count": 4,
+					"chance": 1,
+					"equipment": false
+				}
+			],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
 				"id": "wolf-pelt",
 				"name": "狼の毛皮",
 				"explanation": "もふもふで暖かい。",
@@ -36838,6 +35307,39 @@
 			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
+				"id": "matsutake",
+				"name": "マツタケ",
+				"explanation": "香り高き秋の王様。",
+				"icon": {
+					"emoji": "🍄",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "warehouse",
+			"group": "material",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 18,
+			"coinId": "",
+			"maximum": 0,
+			"equipmentType": "impossible",
+			"consumeChance": 1,
+			"requirements": [
+				{
+					"type": "category",
+					"id": "forest",
+					"count": 3,
+					"chance": 1,
+					"equipment": false
+				}
+			],
 			"properties": [],
 			"skill": ""
 		},
@@ -37473,6 +35975,72 @@
 		},
 		{
 			"information": {
+				"id": "horse-mackerel",
+				"name": "アジ",
+				"explanation": "庶民的で美味しい魚。",
+				"icon": {
+					"emoji": "🐟",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "warehouse",
+			"group": "material",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 12,
+			"coinId": "",
+			"maximum": 0,
+			"equipmentType": "impossible",
+			"consumeChance": 1,
+			"requirements": [
+				{
+					"type": "category",
+					"id": "sea",
+					"count": 7,
+					"chance": 1,
+					"equipment": false
+				}
+			],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
+				"id": "mackerel",
+				"name": "サバ",
+				"explanation": "締めるほど味が深まる。",
+				"icon": {
+					"emoji": "🐟",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "warehouse",
+			"group": "material",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 12,
+			"coinId": "",
+			"maximum": 0,
+			"equipmentType": "impossible",
+			"consumeChance": 1,
+			"requirements": [
+				{
+					"type": "category",
+					"id": "sea",
+					"count": 8,
+					"chance": 1,
+					"equipment": false
+				}
+			],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
 				"id": "pirate-map",
 				"name": "海賊の地図",
 				"explanation": "×印の場所に秘宝が眠る。",
@@ -37723,6 +36291,31 @@
 		},
 		{
 			"information": {
+				"id": "ice",
+				"name": "氷",
+				"explanation": "水の固体状態。",
+				"icon": {
+					"emoji": "🧊",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "warehouse",
+			"group": "material",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 5,
+			"coinId": "",
+			"maximum": 0,
+			"equipmentType": "impossible",
+			"consumeChance": 1,
+			"requirements": [],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
 				"id": "ice-pillar",
 				"name": "氷柱",
 				"explanation": "屋根から落ちると危険。",
@@ -37918,6 +36511,39 @@
 			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
+				"id": "cod",
+				"name": "タラ",
+				"explanation": "鍋に欠かせない白身。",
+				"icon": {
+					"emoji": "🐟",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "warehouse",
+			"group": "material",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 15,
+			"coinId": "",
+			"maximum": 0,
+			"equipmentType": "impossible",
+			"consumeChance": 1,
+			"requirements": [
+				{
+					"type": "category",
+					"id": "northland",
+					"count": 10,
+					"chance": 1,
+					"equipment": false
+				}
+			],
 			"properties": [],
 			"skill": ""
 		},
@@ -39073,6 +37699,39 @@
 		},
 		{
 			"information": {
+				"id": "lava-crab",
+				"name": "溶岩ガニ",
+				"explanation": "炎の中で茹で上がった蟹。",
+				"icon": {
+					"emoji": "🦀",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "warehouse",
+			"group": "material",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 21,
+			"coinId": "",
+			"maximum": 0,
+			"equipmentType": "impossible",
+			"consumeChance": 1,
+			"requirements": [
+				{
+					"type": "category",
+					"id": "volcano",
+					"count": 14,
+					"chance": 1,
+					"equipment": false
+				}
+			],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
 				"id": "magma-fragment",
 				"name": "マグマの欠片",
 				"explanation": "冷える前に扱えば武器に。",
@@ -39768,6 +38427,39 @@
 			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
+				"id": "wine-grape",
+				"name": "葡萄",
+				"explanation": "ワインにも食卓にも。",
+				"icon": {
+					"emoji": "🍇",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "warehouse",
+			"group": "material",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 24,
+			"coinId": "",
+			"maximum": 0,
+			"equipmentType": "impossible",
+			"consumeChance": 1,
+			"requirements": [
+				{
+					"type": "category",
+					"id": "castle",
+					"count": 17,
+					"chance": 1,
+					"equipment": false
+				}
+			],
 			"properties": [],
 			"skill": ""
 		},
@@ -40543,6 +39235,39 @@
 			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
+				"id": "devil-fruit",
+				"name": "悪魔の実",
+				"explanation": "悪魔からの贈り物。何かしらの能力を得ることができる。",
+				"icon": {
+					"emoji": "😈",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "warehouse",
+			"group": "material",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 6561,
+			"coinId": "",
+			"maximum": 1,
+			"equipmentType": "impossible",
+			"consumeChance": 1,
+			"requirements": [
+				{
+					"type": "category",
+					"id": "hell",
+					"count": 17,
+					"chance": 1,
+					"equipment": false
+				}
+			],
 			"properties": [],
 			"skill": ""
 		},
@@ -46304,8 +45029,8 @@
 		{
 			"information": {
 				"id": "chick",
-				"name": "ヒヨコ",
-				"explanation": "ヒヨコが成長するとニワトリになる。",
+				"name": "ピヨちゃん（ジュニア）",
+				"explanation": "成長するとピヨちゃんになる。",
 				"icon": {
 					"emoji": "🐥",
 					"iconify": "",
@@ -46386,7 +45111,7 @@
 		{
 			"information": {
 				"id": "hamster",
-				"name": "ハムスター",
+				"name": "ハム右衛門",
 				"explanation": "頬袋にすべてを詰め込む。",
 				"icon": {
 					"emoji": "🐹",
@@ -46460,8 +45185,8 @@
 		{
 			"information": {
 				"id": "chicken",
-				"name": "ニワトリ",
-				"explanation": "ニワトリはヒヨコを産む。",
+				"name": "ピヨちゃん",
+				"explanation": "ピヨちゃん（ジュニア）の親。毎朝きっかり同じ時刻に起こしてくる。",
 				"icon": {
 					"emoji": "🐔",
 					"iconify": "",
@@ -46497,8 +45222,8 @@
 		{
 			"information": {
 				"id": "underdog",
-				"name": "負け犬",
-				"explanation": "今日も吠えずに尻尾を振る。",
+				"name": "パブロフ",
+				"explanation": "ベルが鳴ると、よだれが出る。",
 				"icon": {
 					"emoji": "🐕",
 					"iconify": "",
@@ -46534,8 +45259,8 @@
 		{
 			"information": {
 				"id": "duck",
-				"name": "アヒル",
-				"explanation": "水面で優雅、水中では必死。",
+				"name": "醜いアヒル",
+				"explanation": "いつか白鳥になると信じている。",
 				"icon": {
 					"emoji": "🦆",
 					"iconify": "",
@@ -46608,8 +45333,8 @@
 		{
 			"information": {
 				"id": "turtle",
-				"name": "カメ",
-				"explanation": "遅いが着実に勝つ。",
+				"name": "クッパ",
+				"explanation": "トゲの甲羅を背負った大物。歩みは遅い。",
 				"icon": {
 					"emoji": "🐢",
 					"iconify": "",
@@ -46829,11 +45554,11 @@
 		},
 		{
 			"information": {
-				"id": "five-color-cat",
-				"name": "五毛猫",
-				"explanation": "招くと幸運が五倍になる。",
+				"id": "fire-bird",
+				"name": "炎の鳥",
+				"explanation": "燃え尽きるたびに、灰の中から生まれ直す。",
 				"icon": {
-					"emoji": "🐱",
+					"emoji": "🐦‍🔥",
 					"iconify": "",
 					"image": ""
 				},
@@ -46866,11 +45591,11 @@
 		},
 		{
 			"information": {
-				"id": "luna",
-				"name": "ルナ",
-				"explanation": "月のような瞳を持つ。",
+				"id": "five-color-cat",
+				"name": "シュレーディンガー",
+				"explanation": "箱の中にいるのか、いないのか。開けるまで分からない。",
 				"icon": {
-					"emoji": "🌙",
+					"emoji": "🐱",
 					"iconify": "",
 					"image": ""
 				},
@@ -46977,43 +45702,6 @@
 		},
 		{
 			"information": {
-				"id": "nine-tailed-fox",
-				"name": "九尾の狐",
-				"explanation": "尾が増えるほど妖力が強い。",
-				"icon": {
-					"emoji": "🦊",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "garden",
-			"group": "pet",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 0,
-			"coinId": "",
-			"maximum": 1,
-			"equipmentType": "unnecessary",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [
-				{
-					"category": "*",
-					"attack": 0,
-					"defence": 0,
-					"accuracy": 0,
-					"evasion": 0,
-					"restore": 0,
-					"speed": 0,
-					"chance": 5,
-					"experience": 0
-				}
-			],
-			"skill": ""
-		},
-		{
-			"information": {
 				"id": "fish",
 				"name": "魚",
 				"explanation": "泳ぐ食材の代表格。",
@@ -47089,31 +45777,6 @@
 		},
 		{
 			"information": {
-				"id": "star-piece",
-				"name": "星のカケラ",
-				"explanation": "流れ星の置き土産。",
-				"icon": {
-					"emoji": "⭐",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "garden",
-			"group": "material",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 8,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "impossible",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
 				"id": "eco-bag",
 				"name": "エコバッグ",
 				"explanation": "地球にやさしい持ち物袋。",
@@ -47131,7 +45794,7 @@
 			"sellingValue": 0,
 			"coinId": "",
 			"maximum": 1,
-			"equipmentType": "unnecessary",
+			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
 			"properties": [],
@@ -47156,7 +45819,7 @@
 			"sellingValue": 0,
 			"coinId": "",
 			"maximum": 1,
-			"equipmentType": "unnecessary",
+			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
 			"properties": [],
@@ -47181,7 +45844,7 @@
 			"sellingValue": 0,
 			"coinId": "",
 			"maximum": 1,
-			"equipmentType": "unnecessary",
+			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
 			"properties": [],
@@ -47206,7 +45869,7 @@
 			"sellingValue": 0,
 			"coinId": "",
 			"maximum": 1,
-			"equipmentType": "unnecessary",
+			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
 			"properties": [],
@@ -47231,7 +45894,7 @@
 			"sellingValue": 0,
 			"coinId": "",
 			"maximum": 1,
-			"equipmentType": "unnecessary",
+			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
 			"properties": [],
@@ -47256,7 +45919,7 @@
 			"sellingValue": 0,
 			"coinId": "",
 			"maximum": 1,
-			"equipmentType": "unnecessary",
+			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
 			"properties": [],
@@ -47264,11 +45927,11 @@
 		},
 		{
 			"information": {
-				"id": "ferris-wheel-gondola",
-				"name": "観覧車のゴンドラ",
-				"explanation": "限られた時間、限られた空間で、感情が逃げ場を失う場所。",
+				"id": "shipping-container",
+				"name": "コンテナ",
+				"explanation": "鉄の大きな箱。中身より、入る量が大事。",
 				"icon": {
-					"emoji": "🎡",
+					"emoji": "📦",
 					"iconify": "",
 					"image": ""
 				},
@@ -47281,7 +45944,7 @@
 			"sellingValue": 0,
 			"coinId": "",
 			"maximum": 1,
-			"equipmentType": "unnecessary",
+			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
 			"properties": [],
@@ -47331,7 +45994,7 @@
 			"sellingValue": 0,
 			"coinId": "",
 			"maximum": 1,
-			"equipmentType": "unnecessary",
+			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
 			"properties": [],
@@ -47356,274 +46019,9 @@
 			"sellingValue": 0,
 			"coinId": "",
 			"maximum": 1,
-			"equipmentType": "unnecessary",
+			"equipmentType": "impossible",
 			"consumeChance": 1,
 			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "bowl",
-				"name": "ボウル",
-				"explanation": "混ぜる、盛る、顔を洗う。",
-				"icon": {
-					"emoji": "🥣",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "mixing",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 0,
-			"coinId": "",
-			"maximum": 1,
-			"equipmentType": "necessary",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "frying-pan",
-				"name": "フライパン",
-				"explanation": "料理も戦闘もこなす万能選手。",
-				"icon": {
-					"emoji": "🍳",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "stir-frying",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 0,
-			"coinId": "",
-			"maximum": 1,
-			"equipmentType": "necessary",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "pot",
-				"name": "鍋",
-				"explanation": "かぶれば即席ヘルメット。",
-				"icon": {
-					"emoji": "🍲",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "stewing",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 0,
-			"coinId": "",
-			"maximum": 1,
-			"equipmentType": "necessary",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "steamer",
-				"name": "蒸籠",
-				"explanation": "湯気で料理を優しく仕上げる。",
-				"icon": {
-					"emoji": "🥟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "steaming",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 0,
-			"coinId": "",
-			"maximum": 1,
-			"equipmentType": "necessary",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "mandarin",
-				"name": "ミカン",
-				"explanation": "冬のこたつの相棒。",
-				"icon": {
-					"emoji": "🍊",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 3,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "park",
-					"count": 1,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "grape",
-				"name": "ぶどう",
-				"explanation": "粒揃いが自慢の果実。",
-				"icon": {
-					"emoji": "🍇",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 3,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "park",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "carbonated-juice",
-				"name": "炭酸ジュース",
-				"explanation": "シュワッとはじける爽快感。",
-				"icon": {
-					"emoji": "🥤",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 9,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "park",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "cotton-candy",
-				"name": "綿あめ",
-				"explanation": "口の中でふわっと溶ける。",
-				"icon": {
-					"emoji": "🍬",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 9,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "park",
-					"count": 3,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "ice-pop",
-				"name": "アイスキャンディー",
-				"explanation": "夏の定番、舌が青くなる。",
-				"icon": {
-					"emoji": "🍧",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 9,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "park",
-					"count": 1,
-					"chance": 1,
-					"equipment": false
-				}
-			],
 			"properties": [],
 			"skill": ""
 		},
@@ -47811,112 +46209,6 @@
 		},
 		{
 			"information": {
-				"id": "wild-vegetable",
-				"name": "山菜",
-				"explanation": "春の山が育む旬の味。",
-				"icon": {
-					"emoji": "🌿",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 6,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "forest",
-					"count": 5,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "soda-pop",
-				"name": "サイダー",
-				"explanation": "飲むとスッキリした気分になる水。",
-				"icon": {
-					"emoji": "🥤",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 36,
-			"sellingValue": 18,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "park",
-					"count": 2,
-					"chance": 1,
-					"equipment": false
-				},
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 9,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "king-oyster-mushroom",
-				"name": "エリンギ",
-				"explanation": "大きさも形も似ている。",
-				"icon": {
-					"emoji": "🍄",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 18,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "forest",
-					"count": 4,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
 				"id": "mentos",
 				"name": "メントス",
 				"explanation": "清涼感がクセになるキャンディー。",
@@ -47947,40 +46239,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 9,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "matsutake",
-				"name": "マツタケ",
-				"explanation": "香り高き秋の王様。",
-				"icon": {
-					"emoji": "🍄",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 18,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "forest",
-					"count": 3,
+					"count": 1,
 					"chance": 1,
 					"equipment": false
 				}
@@ -48048,171 +46307,6 @@
 		},
 		{
 			"information": {
-				"id": "milk",
-				"name": "牛乳",
-				"explanation": "カルシウムの代名詞。",
-				"icon": {
-					"emoji": "🥛",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 9,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "town",
-					"count": 5,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "cake",
-				"name": "ケーキ",
-				"explanation": "祝いの日の定番。",
-				"icon": {
-					"emoji": "🍰",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 27,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "town",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "hamburger",
-				"name": "ハンバーガー",
-				"explanation": "片手で食べる幸福。",
-				"icon": {
-					"emoji": "🍔",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 27,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "town",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "seaweed",
-				"name": "海藻",
-				"explanation": "海のサラダ。",
-				"icon": {
-					"emoji": "🌊",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 4,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sea",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "small-fish",
-				"name": "小魚",
-				"explanation": "群れで泳ぐ海のキラキラ。",
-				"icon": {
-					"emoji": "🐟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 4,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sea",
-					"count": 7,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
 				"id": "fresh-water",
 				"name": "真水",
 				"explanation": "命を繋ぐ清らかな水。",
@@ -48237,39 +46331,6 @@
 					"type": "category",
 					"id": "sea",
 					"count": 8,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "cheese",
-				"name": "チーズ",
-				"explanation": "熟成するほど深い味わい。",
-				"icon": {
-					"emoji": "🧀",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 12,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 6,
 					"chance": 1,
 					"equipment": false
 				}
@@ -48329,188 +46390,6 @@
 		},
 		{
 			"information": {
-				"id": "squid-ink",
-				"name": "イカスミ",
-				"explanation": "黒くて濃厚な魚醤油。",
-				"icon": {
-					"emoji": "🦑",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 12,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "pufferfish",
-				"name": "フグ",
-				"explanation": "毒を抜けば極上の味。",
-				"icon": {
-					"emoji": "🐡",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 12,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "mayonnaise",
-				"name": "マヨネーズ",
-				"explanation": "かけすぎ注意。",
-				"icon": {
-					"emoji": "🥫",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 12,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 6,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "horse-mackerel",
-				"name": "アジ",
-				"explanation": "庶民的で美味しい魚。",
-				"icon": {
-					"emoji": "🐟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 12,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sea",
-					"count": 7,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "mackerel",
-				"name": "サバ",
-				"explanation": "締めるほど味が深まる。",
-				"icon": {
-					"emoji": "🐟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 12,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sea",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "wakame",
-				"name": "ワカメ",
-				"explanation": "味噌汁の定番具材。",
-				"icon": {
-					"emoji": "🌊",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 12,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sea",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
 				"id": "bread-dough",
 				"name": "パン生地",
 				"explanation": "焼く前の可能性。",
@@ -48535,254 +46414,6 @@
 					"type": "category",
 					"id": "castle",
 					"count": 16,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "shark-fin",
-				"name": "フカヒレ",
-				"explanation": "高級中華の代名詞。",
-				"icon": {
-					"emoji": "🦈",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 36,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "crab",
-				"name": "カニ",
-				"explanation": "茹でれば赤くなる横歩き。",
-				"icon": {
-					"emoji": "🦀",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 36,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sea",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "shrimp",
-				"name": "エビ",
-				"explanation": "縮めば丸くなる海の珍味。",
-				"icon": {
-					"emoji": "🦐",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 36,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sea",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "octopus",
-				"name": "タコ",
-				"explanation": "八本の腕で逃げる知恵者。",
-				"icon": {
-					"emoji": "🐙",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 36,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sea",
-					"count": 8,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "deep-sea-fish",
-				"name": "深海魚",
-				"explanation": "光の届かぬ闇の住人。",
-				"icon": {
-					"emoji": "🐟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 108,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sea",
-					"count": 7,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "ice",
-				"name": "氷",
-				"explanation": "水の固体状態。",
-				"icon": {
-					"emoji": "🧊",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 5,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "salmon",
-				"name": "鮭",
-				"explanation": "川を遡る赤身の魚。",
-				"icon": {
-					"emoji": "🐟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 15,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "northland",
-					"count": 10,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "cod",
-				"name": "タラ",
-				"explanation": "鍋に欠かせない白身。",
-				"icon": {
-					"emoji": "🐟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 15,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "northland",
-					"count": 10,
 					"chance": 1,
 					"equipment": false
 				}
@@ -48891,64 +46522,6 @@
 		},
 		{
 			"information": {
-				"id": "military-sardine",
-				"name": "軍用イワシ",
-				"explanation": "訓練された海の特攻隊。",
-				"icon": {
-					"emoji": "🐟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 7,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "lava-crab",
-				"name": "溶岩ガニ",
-				"explanation": "炎の中で茹で上がった蟹。",
-				"icon": {
-					"emoji": "🦀",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 21,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "volcano",
-					"count": 14,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
 				"id": "raw-rice",
 				"name": "生米",
 				"explanation": "炊けばご飯、研げば砥石。",
@@ -48969,105 +46542,6 @@
 			"equipmentType": "consumable",
 			"consumeChance": 1,
 			"requirements": [],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "wine",
-				"name": "ワイン",
-				"explanation": "年月を重ねるほど味わい深く。",
-				"icon": {
-					"emoji": "🍷",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 24,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "castle",
-					"count": 15,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "wine-grape",
-				"name": "葡萄",
-				"explanation": "ワインにも食卓にも。",
-				"icon": {
-					"emoji": "🍇",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 24,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "castle",
-					"count": 17,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "dried-meat",
-				"name": "干し肉",
-				"explanation": "保存食の王道。",
-				"icon": {
-					"emoji": "🥓",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 24,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "castle",
-					"count": 14,
-					"chance": 1,
-					"equipment": false
-				}
-			],
 			"properties": [],
 			"skill": ""
 		},
@@ -49097,39 +46571,6 @@
 					"type": "category",
 					"id": "castle",
 					"count": 16,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "devil-fruit",
-				"name": "悪魔の実",
-				"explanation": "悪魔からの贈り物。何かしらの能力を得ることができる。",
-				"icon": {
-					"emoji": "😈",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 6561,
-			"coinId": "",
-			"maximum": 1,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "hell",
-					"count": 17,
 					"chance": 1,
 					"equipment": false
 				}
@@ -49238,72 +46679,6 @@
 		},
 		{
 			"information": {
-				"id": "sky-fruit",
-				"name": "天空の果実",
-				"explanation": "一口で満ち足りる神聖な実。",
-				"icon": {
-					"emoji": "🍑",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 90,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sky-garden",
-					"count": 19,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "genesis-fruit",
-				"name": "創世の果実",
-				"explanation": "食せば世界を創造する力に。",
-				"icon": {
-					"emoji": "🍈",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "ingredient",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 270,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "sky-garden",
-					"count": 20,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
 				"id": "world-tree-fruit",
 				"name": "世界樹の実",
 				"explanation": "食せば永遠の命を得る。",
@@ -49360,40 +46735,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 4,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "french-toast",
-				"name": "フレンチトースト",
-				"explanation": "卵液に浸すほど美味しい。",
-				"icon": {
-					"emoji": "🍞",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 27,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 9,
+					"count": 1,
 					"chance": 1,
 					"equipment": false
 				}
@@ -49426,7 +46768,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 32,
+					"count": 5,
 					"chance": 1,
 					"equipment": false
 				}
@@ -49459,106 +46801,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 4,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "fried-egg",
-				"name": "目玉焼き",
-				"explanation": "醤油かソースかケチャップか。",
-				"icon": {
-					"emoji": "🍳",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 12,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 4,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "tomato-egg-drop",
-				"name": "トマトの卵とじ",
-				"explanation": "家庭の味。",
-				"icon": {
-					"emoji": "🍅",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 12,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 9,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "potato-salad",
-				"name": "ポテトサラダ",
-				"explanation": "具材で家庭の個性が出る。",
-				"icon": {
-					"emoji": "🥗",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 12,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 11,
+					"count": 12,
 					"chance": 1,
 					"equipment": false
 				}
@@ -49591,7 +46834,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 6,
+					"count": 20,
 					"chance": 1,
 					"equipment": false
 				}
@@ -49624,40 +46867,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 29,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "sardine-confit",
-				"name": "イワシのコンフィ〜芳醇ガーリック〜",
-				"explanation": "長い名前ほど高級に感じる。",
-				"icon": {
-					"emoji": "🐟",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 972,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "item",
-					"id": "daikon",
-					"count": 2,
+					"count": 16,
 					"chance": 1,
 					"equipment": false
 				}
@@ -49690,40 +46900,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 1,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "steak",
-				"name": "ステーキ",
-				"explanation": "焼き加減は永遠の議論。",
-				"icon": {
-					"emoji": "🥩",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 135,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 14,
+					"count": 27,
 					"chance": 1,
 					"equipment": false
 				}
@@ -49756,7 +46933,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 14,
+					"count": 31,
 					"chance": 1,
 					"equipment": false
 				}
@@ -49789,7 +46966,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 19,
+					"count": 35,
 					"chance": 1,
 					"equipment": false
 				},
@@ -49829,40 +47006,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 9,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "pizza",
-				"name": "ピザ",
-				"explanation": "ピザは野菜。",
-				"icon": {
-					"emoji": "🍕",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 63,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 9,
+					"count": 42,
 					"chance": 1,
 					"equipment": false
 				}
@@ -49895,7 +47039,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 29,
+					"count": 39,
 					"chance": 1,
 					"equipment": false
 				},
@@ -49903,237 +47047,6 @@
 					"type": "item",
 					"id": "frozen-berry",
 					"count": 2,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "rice-ball",
-				"name": "おにぎり",
-				"explanation": "片手で食べられる万能食。",
-				"icon": {
-					"emoji": "🍙",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 8,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 4,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "cooked-rice",
-				"name": "ごはん",
-				"explanation": "日本人の心。",
-				"icon": {
-					"emoji": "🍚",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 8,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 4,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "steamed-vegetables",
-				"name": "蒸し野菜",
-				"explanation": "ヘルシーで罪悪感ゼロ。",
-				"icon": {
-					"emoji": "🥗",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 24,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 1,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "omelette",
-				"name": "オムレツ",
-				"explanation": "ふわとろが理想の形。",
-				"icon": {
-					"emoji": "🍳",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 24,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 11,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "curry-rice",
-				"name": "カレーライス",
-				"explanation": "悩んだ時はこれ。",
-				"icon": {
-					"emoji": "🍛",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 72,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 11,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "sushi",
-				"name": "寿司",
-				"explanation": "ネタとシャリの絶妙な調和。",
-				"icon": {
-					"emoji": "🍣",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 216,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 14,
-					"chance": 1,
-					"equipment": false
-				}
-			],
-			"properties": [],
-			"skill": ""
-		},
-		{
-			"information": {
-				"id": "organic-salad",
-				"name": "オーガニックサラダ",
-				"explanation": "健康と引き換えの満足感。",
-				"icon": {
-					"emoji": "🥗",
-					"iconify": "",
-					"image": ""
-				},
-				"color": ""
-			},
-			"category": "kitchen",
-			"group": "cooking",
-			"unlocked": "hidden",
-			"buyingValue": 0,
-			"sellingValue": 90,
-			"coinId": "",
-			"maximum": 0,
-			"equipmentType": "consumable",
-			"consumeChance": 1,
-			"requirements": [
-				{
-					"type": "category",
-					"id": "kitchen",
-					"count": 6,
 					"chance": 1,
 					"equipment": false
 				}
@@ -50166,7 +47079,7 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 27,
+					"count": 46,
 					"chance": 1,
 					"equipment": false
 				}
@@ -50199,11 +47112,111 @@
 				{
 					"type": "category",
 					"id": "kitchen",
-					"count": 47,
+					"count": 50,
 					"chance": 1,
 					"equipment": false
 				}
 			],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
+				"id": "pot",
+				"name": "鍋",
+				"explanation": "かぶれば即席ヘルメット。",
+				"icon": {
+					"emoji": "🍲",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "kitchen",
+			"group": "tool",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 0,
+			"coinId": "",
+			"maximum": 1,
+			"equipmentType": "unnecessary",
+			"consumeChance": 1,
+			"requirements": [],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
+				"id": "frying-pan",
+				"name": "フライパン",
+				"explanation": "料理も戦闘もこなす万能選手。",
+				"icon": {
+					"emoji": "🍳",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "kitchen",
+			"group": "tool",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 0,
+			"coinId": "",
+			"maximum": 1,
+			"equipmentType": "unnecessary",
+			"consumeChance": 1,
+			"requirements": [],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
+				"id": "bowl",
+				"name": "ボウル",
+				"explanation": "混ぜる、盛る、顔を洗う。",
+				"icon": {
+					"emoji": "🥣",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "kitchen",
+			"group": "tool",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 0,
+			"coinId": "",
+			"maximum": 1,
+			"equipmentType": "unnecessary",
+			"consumeChance": 1,
+			"requirements": [],
+			"properties": [],
+			"skill": ""
+		},
+		{
+			"information": {
+				"id": "steamer",
+				"name": "蒸籠",
+				"explanation": "湯気で料理を優しく仕上げる。",
+				"icon": {
+					"emoji": "🥟",
+					"iconify": "",
+					"image": ""
+				},
+				"color": ""
+			},
+			"category": "kitchen",
+			"group": "tool",
+			"unlocked": "hidden",
+			"buyingValue": 0,
+			"sellingValue": 0,
+			"coinId": "",
+			"maximum": 1,
+			"equipmentType": "unnecessary",
+			"consumeChance": 1,
+			"requirements": [],
 			"properties": [],
 			"skill": ""
 		},
@@ -64740,6 +61753,28 @@
 			"color": ""
 		},
 		{
+			"id": "play",
+			"name": "遊ぶ",
+			"explanation": "",
+			"icon": {
+				"emoji": "🎾",
+				"iconify": "",
+				"image": ""
+			},
+			"color": ""
+		},
+		{
+			"id": "discipline",
+			"name": "しつけ",
+			"explanation": "",
+			"icon": {
+				"emoji": "🦴",
+				"iconify": "",
+				"image": ""
+			},
+			"color": ""
+		},
+		{
 			"id": "gather",
 			"name": "収集",
 			"explanation": "",
@@ -64899,50 +61934,6 @@
 			"explanation": "",
 			"icon": {
 				"emoji": "🌰",
-				"iconify": "",
-				"image": ""
-			},
-			"color": ""
-		},
-		{
-			"id": "mixing",
-			"name": "混ぜ",
-			"explanation": "",
-			"icon": {
-				"emoji": "🥣",
-				"iconify": "",
-				"image": ""
-			},
-			"color": ""
-		},
-		{
-			"id": "stir-frying",
-			"name": "炒め",
-			"explanation": "",
-			"icon": {
-				"emoji": "🍳",
-				"iconify": "",
-				"image": ""
-			},
-			"color": ""
-		},
-		{
-			"id": "stewing",
-			"name": "煮込み",
-			"explanation": "",
-			"icon": {
-				"emoji": "🍲",
-				"iconify": "",
-				"image": ""
-			},
-			"color": ""
-		},
-		{
-			"id": "steaming",
-			"name": "蒸し",
-			"explanation": "",
-			"icon": {
-				"emoji": "♨️",
 				"iconify": "",
 				"image": ""
 			},
@@ -67341,14 +64332,8 @@
 				"acquisitions": [
 					{
 						"type": "item",
-						"id": "shrimp",
-						"count": 3,
-						"chance": 1
-					},
-					{
-						"type": "item",
-						"id": "crab",
-						"count": 2,
+						"id": "electric-eel",
+						"count": 1,
 						"chance": 1
 					}
 				],
@@ -67687,12 +64672,6 @@
 						"id": "bread-dough",
 						"count": 3,
 						"chance": 1
-					},
-					{
-						"type": "item",
-						"id": "wine",
-						"count": 2,
-						"chance": 1
 					}
 				],
 				"group": "request"
@@ -67874,12 +64853,6 @@
 				],
 				"requiringGroup": false,
 				"acquisitions": [
-					{
-						"type": "item",
-						"id": "genesis-fruit",
-						"count": 1,
-						"chance": 1
-					},
 					{
 						"type": "item",
 						"id": "sky-key",
@@ -68418,11 +65391,11 @@
 			},
 			{
 				"information": {
-					"id": "storage-ferris-wheel-gondola",
-					"name": "観覧車のゴンドラを手に入れた",
-					"explanation": "動かないゴンドラは、ただの大きな箱になった。",
+					"id": "storage-shipping-container",
+					"name": "コンテナを手に入れた",
+					"explanation": "廃棄プラントに置き去りの鉄の箱。物置がひと回り広くなった。",
 					"icon": {
-						"emoji": "🎡",
+						"emoji": "📦",
 						"iconify": "",
 						"image": ""
 					},
@@ -68434,7 +65407,7 @@
 				"requirements": [
 					{
 						"type": "item",
-						"id": "ferris-wheel-gondola",
+						"id": "shipping-container",
 						"count": 1,
 						"chance": 1,
 						"equipment": false

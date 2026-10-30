@@ -1,6 +1,6 @@
 # 爆発武器
 
-<div class="wiki-infobox" style="--accent:#cf9a1f"><div class="wiki-infobox-title">爆発武器</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💣</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/equipment"><span class="wiki-icon">🛠️</span>装備管理</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>28本</td></tr><tr><th>管理アイテム</th><td>24種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#968358"><div class="wiki-infobox-title">爆発武器</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💣</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/equipment"><span class="wiki-icon">🛠️</span>装備管理</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>28本</td></tr><tr><th>管理アイテム</th><td>24種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **装備管理型**のカテゴリ（武器）。爆発武器の合成・分解と装備をする。爆発武器は消費装備。爆発武器を使う討伐の経験値はここに入る。**一撃型**で、攻撃が最も高い。
 
@@ -58,8 +58,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 2.7秒 | 50% | 29 | [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) (2.25%) | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) (6.22%)<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) (12.6%)<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) (6.3%)<br>[<span class="wiki-icon">🪪</span>社員証](/ja/item/employee-badge) (2.59%) |
 | [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 3.2秒 | 50% | 23 |  | [<span class="wiki-icon">📄</span>紙](/ja/item/paper) (17.8%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (5.33%)<br>[<span class="wiki-icon">📒</span>裏帳簿](/ja/item/secret-ledger) (0.005%) |
-| [<span class="wiki-icon">🐙</span>クトゥルフ](/ja/action/cthulhu) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 3.5秒 | 50% | 2 | [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) (1.46%) | [<span class="wiki-icon">🫧</span>海泡](/ja/item/sea-foam) (8.17%)<br>[<span class="wiki-icon">🐟</span>深海魚](/ja/item/deep-sea-fish) (0.328%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.126%)<br>[<span class="wiki-icon">🕸️</span>クモの糸](/ja/item/spider-thread) (0.03%) |
-| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 3.5秒 | 50% | 3 |  | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) (10.2%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (7.29%)<br>[<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass) (0.306%)<br>[<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) (0.022%) |
+| [<span class="wiki-icon">🐙</span>クトゥルフ](/ja/action/cthulhu) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv19 | 3.5秒 | 50% | 2 | [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) (1.46%) | [<span class="wiki-icon">🫧</span>海泡](/ja/item/sea-foam) (8.17%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.126%)<br>[<span class="wiki-icon">🕸️</span>クモの糸](/ja/item/spider-thread) (0.03%) |
+| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv21 | 3.5秒 | 50% | 3 |  | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) (10.2%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (7.29%)<br>[<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass) (0.306%)<br>[<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) (0.022%) |
 | [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.3秒 | 50% | 1 |  | [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) (6.16%)<br>[<span class="wiki-icon">❄️</span>霜](/ja/item/frost) (2.11%)<br>[<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal) (0.114%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.152%)<br>[<span class="wiki-icon">💫</span>高速回転してる指輪](/ja/item/spinning-ring) (0.399%)<br>[<span class="wiki-icon">✨</span>閃光弾](/ja/item/flashbang) (0.247%) |
 | [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.4秒 | 50% | 1 | [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) (1.13%) | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (2.61%)<br>[<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) (0.212%)<br>[<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) (0.098%) |
 | [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.5秒 | 50% | 1 |  | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (7.84%)<br>[<span class="wiki-icon">🌌</span>極光石](/ja/item/auroral-stone) (0.262%)<br>[<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) (0.218%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.101%) |
@@ -169,7 +169,7 @@
 | [<span class="wiki-icon">🌕</span>元気玉](/ja/item/spirit-bomb) | 消費装備 | +166 |  |  |  |  |
 | [<span class="wiki-icon">💣</span>N2爆雷](/ja/item/n2-mine) | 消費装備 | +170 |  |  |  |  |
 
-<details><summary>全カテゴリに効くアイテム（79種）</summary>
+<details><summary>全カテゴリに効くアイテム（78種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -180,25 +180,24 @@
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐕</span>負け犬](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🦆</span>アヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐱</span>五毛猫](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🌙</span>ルナ](/ja/item/luna) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🦊</span>九尾の狐](/ja/item/nine-tailed-fox) | 装備不要 |  |  |  |  |  |  | +5 |  |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
@@ -302,7 +301,7 @@
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#cf9a1f"><div class="wiki-navbox-title">装備管理</div><div class="wiki-navbox-body"><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a> ・ <a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a> ・ <a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a> ・ <a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a> ・ <a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></div></div>
+<div class="wiki-navbox" style="--accent:#968358"><div class="wiki-navbox-title">装備管理</div><div class="wiki-navbox-body"><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a> ・ <a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a> ・ <a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a> ・ <a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a> ・ <a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></div></div>
 
 ## 開発者向け情報
 
@@ -585,7 +584,7 @@
 			"iconify": "",
 			"image": ""
 		},
-		"color": "#cf9a1f"
+		"color": "#968358"
 	},
 	"group": "equipment",
 	"unlocked": "hinted",

@@ -25,11 +25,11 @@
 | [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv48 | 1 | 1.45% | 0.007 | 0 |
 | [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 1.67% | 0.008 | 0 |
 | [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 2.67% | 0.013 | 0 |
-| [<span class="wiki-icon">🦜</span>オウム返しするオウムと話す](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv23 | 5 | 100% | 2.5 | 1.7 |
-| [<span class="wiki-icon">🎩</span>ジョーンズを連れ出す](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv26 | 10 | 100% | 10 | 2.5 |
-| [<span class="wiki-icon">🐱</span>五毛猫に頼みごとをする](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv39 | 11 | 100% | 8.3 | 2.1 |
-| [<span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv45 | 7 | 100% | 5.3 | 1.1 |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv47 | 17 | 100% | 11.9 | 0.992 |
+| [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv28 | 5 | 66.7% | 2.5 | 1.7 |
+| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv30 | 10 | 100% | 10 | 2.5 |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv45 | 9 | 100% | 8.1 | 2 |
+| [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv48 | 6 | 100% | 5.4 | 1.1 |
+| [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv50 | 14 | 100% | 11.9 | 0.992 |
 | [<span class="wiki-icon">👛</span>財布を開ける](/ja/action/open-wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 3 | 96% | 2.9 | 173 |
 | [<span class="wiki-icon">🗳️</span>募金箱を開ける](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 20 | 100% | 10 | 300 |
 | [<span class="wiki-icon">🪵</span>木の宝箱を開ける](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 2 | 96% | 1.3 | 80.6 |
@@ -37,7 +37,7 @@
 | [<span class="wiki-icon">📦</span>タイムカプセルを開ける](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv13 | 1 | 96% | 0.96 | 57.6 |
 | [<span class="wiki-icon">🔩</span>鉄の宝箱を開ける](/ja/action/open-iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv15 | 5 | 96% | 2.9 | 43.2 |
 
-アイテムを売ると手に入る（713種）。効率は [金策表](/ja/reference/money) を参照。
+アイテムを売ると手に入る（671種）。効率は [金策表](/ja/reference/money) を参照。
 
 ## この通貨で買えるもの
 
@@ -79,12 +79,12 @@
 | [<span class="wiki-icon">📼</span>ガムテープ](/ja/item/duct-tape) | 18 | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv15以上 |
 | [<span class="wiki-icon">🗳️</span>投票用紙](/ja/item/ballot) | 18 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv14以上 |
 | [<span class="wiki-icon">📄</span>住民票](/ja/item/residence-certificate) | 18 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv14以上 |
+| [<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | 36 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv2以上<br>[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上 |
 | [<span class="wiki-icon">🍯</span>樹液](/ja/item/tree-sap) | 36 | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv2以上 |
 | [<span class="wiki-icon">🍯</span>蜂蜜の巣箱](/ja/item/honey-hive) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv22以上 |
 | [<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv25以上 |
 | [<span class="wiki-icon">🌿</span>大麻の種](/ja/item/hemp-seed) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv32以上 |
-| [<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | 36 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv2以上<br>[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上 |
-| [<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | 36 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv1以上<br>[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上 |
+| [<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | 36 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv1以上<br>[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv1以上 |
 | [<span class="wiki-icon">💌</span>ラブレター](/ja/item/love-letter) | 36 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv9以上 |
 | [<span class="wiki-icon">☠️</span>毒草の種](/ja/item/poison-herb-seed) | 48 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv44以上 |
 | [<span class="wiki-icon">🌿</span>香草の種](/ja/item/aromatic-herb-seed) | 48 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv47以上 |
@@ -100,9 +100,9 @@
 | [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 162 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv3以上 |
 | [<span class="wiki-icon">🍄</span>トリュフの菌床](/ja/item/truffle-bed) | 162 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv38以上 |
 | [<span class="wiki-icon">🌳</span>世界樹の種](/ja/item/world-tree-seed) | 180 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv50以上 |
-| [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 1,458 | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv1以上 |
+| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 1,458 | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv1以上 |
 
-<details><summary>この通貨で売れるアイテム（713種）</summary>
+<details><summary>この通貨で売れるアイテム（671種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -203,7 +203,6 @@
 | [<span class="wiki-icon">📖</span>聖書](/ja/item/bible) | 1,215 |
 | [<span class="wiki-icon">🔱</span>海神の三叉矛の欠片](/ja/item/sea-god-trident-fragment) | 972 |
 | [<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) | 972 |
-| [<span class="wiki-icon">🐟</span>イワシのコンフィ〜芳醇ガーリック〜](/ja/item/sardine-confit) | 972 |
 | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/item/catcher-in-the-rye) | 810 |
 | [<span class="wiki-icon">💊</span>げんきのかけら](/ja/item/revive-piece) | 810 |
 | [<span class="wiki-icon">⚖️</span>裁きの天秤](/ja/item/scale-of-judgment) | 729 |
@@ -263,7 +262,6 @@
 | [<span class="wiki-icon">🗝️</span>天空の鍵](/ja/item/sky-key) | 270 |
 | [<span class="wiki-icon">👑</span>女神の冠](/ja/item/goddess-crown) | 270 |
 | [<span class="wiki-icon">📜</span>金色の石板](/ja/item/golden-tablet) | 270 |
-| [<span class="wiki-icon">🍈</span>創世の果実](/ja/item/genesis-fruit) | 270 |
 | [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango) | 270 |
 | [<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water) | 270 |
 | [<span class="wiki-icon">🔥</span>地獄の業火の種](/ja/item/hellfire-seed) | 243 |
@@ -282,7 +280,6 @@
 | [<span class="wiki-icon">💎</span>玉座の宝石](/ja/item/throne-jewel) | 216 |
 | [<span class="wiki-icon">👑</span>王笏](/ja/item/scepter) | 216 |
 | [<span class="wiki-icon">📜</span>古書](/ja/item/old-book) | 216 |
-| [<span class="wiki-icon">🍣</span>寿司](/ja/item/sushi) | 216 |
 | [<span class="wiki-icon">💊</span>滋養強壮剤](/ja/item/tonic) | 216 |
 | [<span class="wiki-icon">🪄</span>魔法少女のステッキ](/ja/item/magical-girl-wand) | 216 |
 | [<span class="wiki-icon">⚽</span>サッカーボール](/ja/item/soccer-ball) | 216 |
@@ -331,7 +328,6 @@
 | [<span class="wiki-icon">🌌</span>極光石](/ja/item/auroral-stone) | 135 |
 | [<span class="wiki-icon">❄️</span>凍土の根](/ja/item/frozen-soil-root) | 135 |
 | [<span class="wiki-icon">🗡️</span>氷の剣](/ja/item/ice-sword) | 135 |
-| [<span class="wiki-icon">🥩</span>ステーキ](/ja/item/steak) | 135 |
 | [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/item/meat-bun-tomato-stew) | 135 |
 | [<span class="wiki-icon">💼</span>アタッシュケース](/ja/item/attache-case) | 135 |
 | [<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) | 135 |
@@ -349,7 +345,6 @@
 | [<span class="wiki-icon">🧜</span>人魚の鱗](/ja/item/mermaid-scale) | 108 |
 | [<span class="wiki-icon">🦷</span>サメの歯](/ja/item/shark-tooth) | 108 |
 | [<span class="wiki-icon">⭐</span>海星](/ja/item/starfish) | 108 |
-| [<span class="wiki-icon">🐟</span>深海魚](/ja/item/deep-sea-fish) | 108 |
 | [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) | 108 |
 | [<span class="wiki-icon">🔮</span>水晶のペンダント](/ja/item/crystal-pendant) | 108 |
 | [<span class="wiki-icon">🪪</span>ハンターライセンス](/ja/item/hunter-license) | 108 |
@@ -364,8 +359,6 @@
 | [<span class="wiki-icon">🍃</span>神樹の葉](/ja/item/divine-tree-leaf) | 90 |
 | [<span class="wiki-icon">🌳</span>世界樹の種](/ja/item/world-tree-seed) | 90 |
 | [<span class="wiki-icon">🍃</span>世界樹の葉](/ja/item/world-tree-leaf) | 90 |
-| [<span class="wiki-icon">🍑</span>天空の果実](/ja/item/sky-fruit) | 90 |
-| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/item/organic-salad) | 90 |
 | [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) | 81 |
 | [<span class="wiki-icon">👑</span>ネズミの王冠](/ja/item/rat-crown) | 81 |
 | [<span class="wiki-icon">📕</span>閻魔帳の切れ端](/ja/item/enma-ledger-scrap) | 81 |
@@ -389,7 +382,6 @@
 | [<span class="wiki-icon">🍴</span>銀の食器](/ja/item/silver-tableware) | 72 |
 | [<span class="wiki-icon">🛡️</span>王家の紋章](/ja/item/royal-crest) | 72 |
 | [<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit) | 72 |
-| [<span class="wiki-icon">🍛</span>カレーライス](/ja/item/curry-rice) | 72 |
 | [<span class="wiki-icon">🧪</span>毒瓶](/ja/item/poison-vial) | 72 |
 | [<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/item/laxative-for-gorilla) | 72 |
 | [<span class="wiki-icon">💚</span>エメラルド](/ja/item/emerald) | 63 |
@@ -401,7 +393,6 @@
 | [<span class="wiki-icon">🐉</span>溶岩の鱗](/ja/item/lava-scale) | 63 |
 | [<span class="wiki-icon">🔥</span>燃える宝玉](/ja/item/burning-orb) | 63 |
 | [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/item/beef-jerky) | 63 |
-| [<span class="wiki-icon">🍕</span>ピザ](/ja/item/pizza) | 63 |
 | [<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber) | 54 |
 | [<span class="wiki-icon">🍄</span>巨大キノコ](/ja/item/giant-mushroom) | 54 |
 | [<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite) | 54 |
@@ -436,10 +427,6 @@
 | [<span class="wiki-icon">🪸</span>サンゴ](/ja/item/coral) | 36 |
 | [<span class="wiki-icon">🦪</span>真珠](/ja/item/pearl) | 36 |
 | [<span class="wiki-icon">🏄</span>サーフボード](/ja/item/surfboard) | 36 |
-| [<span class="wiki-icon">🦈</span>フカヒレ](/ja/item/shark-fin) | 36 |
-| [<span class="wiki-icon">🦀</span>カニ](/ja/item/crab) | 36 |
-| [<span class="wiki-icon">🦐</span>エビ](/ja/item/shrimp) | 36 |
-| [<span class="wiki-icon">🐙</span>タコ](/ja/item/octopus) | 36 |
 | [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun) | 36 |
 | [<span class="wiki-icon">🗺️</span>地図](/ja/item/map) | 36 |
 | [<span class="wiki-icon">✨</span>発光する薬](/ja/item/glowing-medicine) | 36 |
@@ -487,9 +474,6 @@
 | [<span class="wiki-icon">🚦</span>信号機](/ja/item/traffic-light) | 27 |
 | [<span class="wiki-icon">📮</span>ポスト](/ja/item/mailbox) | 27 |
 | [<span class="wiki-icon">🐌</span>カタツムリ](/ja/item/snail) | 27 |
-| [<span class="wiki-icon">🍰</span>ケーキ](/ja/item/cake) | 27 |
-| [<span class="wiki-icon">🍔</span>ハンバーガー](/ja/item/hamburger) | 27 |
-| [<span class="wiki-icon">🍞</span>フレンチトースト](/ja/item/french-toast) | 27 |
 | [<span class="wiki-icon">📕</span>はじめての泥棒](/ja/item/beginner-thief-book) | 27 |
 | [<span class="wiki-icon">📗</span>レシピ本](/ja/item/recipe-book) | 27 |
 | [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/item/bubbling-medicine) | 27 |
@@ -507,26 +491,25 @@
 | [<span class="wiki-icon">🥤</span>メントス入りソーダ](/ja/item/mentos-soda) | 27 |
 | [<span class="wiki-icon">🩸</span>血液](/ja/item/blood) | 24 |
 | [<span class="wiki-icon">🍶</span>酒](/ja/item/liquor) | 24 |
+| [<span class="wiki-icon">🍇</span>葡萄](/ja/item/wine-grape) | 24 |
 | [<span class="wiki-icon">☠️</span>毒草の種](/ja/item/poison-herb-seed) | 24 |
 | [<span class="wiki-icon">🌿</span>香草の種](/ja/item/aromatic-herb-seed) | 24 |
 | [<span class="wiki-icon">☠️</span>毒草](/ja/item/poison-herb) | 24 |
 | [<span class="wiki-icon">🌿</span>香草](/ja/item/aromatic-herb) | 24 |
-| [<span class="wiki-icon">🍷</span>ワイン](/ja/item/wine) | 24 |
-| [<span class="wiki-icon">🍇</span>葡萄](/ja/item/wine-grape) | 24 |
-| [<span class="wiki-icon">🥓</span>干し肉](/ja/item/dried-meat) | 24 |
-| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/item/steamed-vegetables) | 24 |
-| [<span class="wiki-icon">🍳</span>オムレツ](/ja/item/omelette) | 24 |
 | [<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal) | 21 |
 | [<span class="wiki-icon">🧔</span>ドワーフの髭](/ja/item/dwarf-beard) | 21 |
+| [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab) | 21 |
 | [<span class="wiki-icon">🌋</span>マグマの欠片](/ja/item/magma-fragment) | 21 |
 | [<span class="wiki-icon">🌺</span>炎の花](/ja/item/flame-flower) | 21 |
 | [<span class="wiki-icon">🔥</span>赤熱鉄](/ja/item/red-hot-iron) | 21 |
 | [<span class="wiki-icon">🦎</span>火トカゲ](/ja/item/fire-lizard) | 21 |
 | [<span class="wiki-icon">⛏️</span>ツルハシ](/ja/item/pickaxe) | 21 |
 | [<span class="wiki-icon">🌶️</span>とうがらし](/ja/item/chili) | 21 |
-| [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab) | 21 |
 | [<span class="wiki-icon">☕</span>眠気覚まし](/ja/item/anti-drowsiness) | 21 |
+| [<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | 18 |
+| [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) | 18 |
 | [<span class="wiki-icon">🐺</span>狼の毛皮](/ja/item/wolf-pelt) | 18 |
+| [<span class="wiki-icon">🍄</span>マツタケ](/ja/item/matsutake) | 18 |
 | [<span class="wiki-icon">🍯</span>樹液](/ja/item/tree-sap) | 18 |
 | [<span class="wiki-icon">🐿️</span>リス](/ja/item/squirrel) | 18 |
 | [<span class="wiki-icon">⚫</span>石炭](/ja/item/coal) | 18 |
@@ -548,10 +531,7 @@
 | [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) | 18 |
 | [<span class="wiki-icon">🌿</span>大麻](/ja/item/hemp) | 18 |
 | [<span class="wiki-icon">🌿</span>薬草](/ja/item/herb) | 18 |
-| [<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | 18 |
-| [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) | 18 |
 | [<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | 18 |
-| [<span class="wiki-icon">🍄</span>マツタケ](/ja/item/matsutake) | 18 |
 | [<span class="wiki-icon">💌</span>ラブレター](/ja/item/love-letter) | 18 |
 | [<span class="wiki-icon">🦟</span>むしよけスプレー](/ja/item/insect-repellent) | 18 |
 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller) | 18 |
@@ -566,29 +546,20 @@
 | [<span class="wiki-icon">🍅</span>トマト](/ja/item/tomato) | 18 |
 | [<span class="wiki-icon">❄️</span>霜のかけら](/ja/item/frost-piece) | 15 |
 | [<span class="wiki-icon">🐻</span>毛皮](/ja/item/fur) | 15 |
-| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマの爪](/ja/item/polar-bear-claw) | 15 |
-| [<span class="wiki-icon">🐟</span>鮭](/ja/item/salmon) | 15 |
 | [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod) | 15 |
+| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマの爪](/ja/item/polar-bear-claw) | 15 |
 | [<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage) | 15 |
 | [<span class="wiki-icon">🥕</span>大根](/ja/item/daikon) | 15 |
 | [<span class="wiki-icon">🥘</span>野菜炒め](/ja/item/stir-fried-vegetables) | 15 |
 | [<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) | 12 |
 | [<span class="wiki-icon">🦈</span>サメ](/ja/item/shark) | 12 |
 | [<span class="wiki-icon">🪸</span>珊瑚のかけら](/ja/item/coral-piece) | 12 |
-| [<span class="wiki-icon">🧀</span>チーズ](/ja/item/cheese) | 12 |
-| [<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) | 12 |
-| [<span class="wiki-icon">🐍</span>電気ウナギ](/ja/item/electric-eel) | 12 |
-| [<span class="wiki-icon">🦑</span>イカスミ](/ja/item/squid-ink) | 12 |
-| [<span class="wiki-icon">🐡</span>フグ](/ja/item/pufferfish) | 12 |
-| [<span class="wiki-icon">🥫</span>マヨネーズ](/ja/item/mayonnaise) | 12 |
 | [<span class="wiki-icon">🐟</span>アジ](/ja/item/horse-mackerel) | 12 |
 | [<span class="wiki-icon">🐟</span>サバ](/ja/item/mackerel) | 12 |
-| [<span class="wiki-icon">🌊</span>ワカメ](/ja/item/wakame) | 12 |
+| [<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) | 12 |
+| [<span class="wiki-icon">🐍</span>電気ウナギ](/ja/item/electric-eel) | 12 |
 | [<span class="wiki-icon">🍞</span>パン生地](/ja/item/bread-dough) | 12 |
 | [<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori) | 12 |
-| [<span class="wiki-icon">🍳</span>目玉焼き](/ja/item/fried-egg) | 12 |
-| [<span class="wiki-icon">🍅</span>トマトの卵とじ](/ja/item/tomato-egg-drop) | 12 |
-| [<span class="wiki-icon">🥗</span>ポテトサラダ](/ja/item/potato-salad) | 12 |
 | [<span class="wiki-icon">🦯</span>松葉杖](/ja/item/crutch) | 12 |
 | [<span class="wiki-icon">🌈</span>虹色の露](/ja/item/rainbow-dew) | 10 |
 | [<span class="wiki-icon">⭐</span>星の砂](/ja/item/star-sand) | 10 |
@@ -625,11 +596,7 @@
 | [<span class="wiki-icon">🪨</span>地獄の小石](/ja/item/hell-pebble) | 9 |
 | [<span class="wiki-icon">🧵</span>亡者の布切れ](/ja/item/undead-cloth) | 9 |
 | [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/item/potato) | 9 |
-| [<span class="wiki-icon">🥤</span>炭酸ジュース](/ja/item/carbonated-juice) | 9 |
-| [<span class="wiki-icon">🍬</span>綿あめ](/ja/item/cotton-candy) | 9 |
-| [<span class="wiki-icon">🍧</span>アイスキャンディー](/ja/item/ice-pop) | 9 |
 | [<span class="wiki-icon">🍞</span>パン](/ja/item/bread) | 9 |
-| [<span class="wiki-icon">🥛</span>牛乳](/ja/item/milk) | 9 |
 | [<span class="wiki-icon">🗳️</span>投票用紙](/ja/item/ballot) | 9 |
 | [<span class="wiki-icon">📄</span>住民票](/ja/item/residence-certificate) | 9 |
 | [<span class="wiki-icon">💊</span>風邪薬](/ja/item/cold-medicine) | 9 |
@@ -653,10 +620,7 @@
 | [<span class="wiki-icon">⛓️</span>鎖の切れ端](/ja/item/chain-scrap) | 8 |
 | [<span class="wiki-icon">🦴</span>ネズミの骨](/ja/item/rat-bone) | 8 |
 | [<span class="wiki-icon">🧱</span>砕けたレンガ](/ja/item/crushed-brick) | 8 |
-| [<span class="wiki-icon">⭐</span>星のカケラ](/ja/item/star-piece) | 8 |
 | [<span class="wiki-icon">🍚</span>生米](/ja/item/raw-rice) | 8 |
-| [<span class="wiki-icon">🍙</span>おにぎり](/ja/item/rice-ball) | 8 |
-| [<span class="wiki-icon">🍚</span>ごはん](/ja/item/cooked-rice) | 8 |
 | [<span class="wiki-icon">💊</span>下剤](/ja/item/laxative) | 8 |
 | [<span class="wiki-icon">🧨</span>火薬](/ja/item/gunpowder) | 7 |
 | [<span class="wiki-icon">🟡</span>硫黄](/ja/item/sulfur) | 7 |
@@ -670,7 +634,6 @@
 | [<span class="wiki-icon">🌋</span>溶岩石](/ja/item/lava-stone) | 7 |
 | [<span class="wiki-icon">🌶️</span>とうがらしの種](/ja/item/chili-seed) | 7 |
 | [<span class="wiki-icon">🦊</span>狐火](/ja/item/foxfire) | 7 |
-| [<span class="wiki-icon">🐟</span>軍用イワシ](/ja/item/military-sardine) | 7 |
 | [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) | 6 |
 | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) | 6 |
 | [<span class="wiki-icon">🎈</span>風船](/ja/item/balloon) | 6 |
@@ -700,7 +663,6 @@
 | [<span class="wiki-icon">🍎</span>リンゴ](/ja/item/apple) | 6 |
 | [<span class="wiki-icon">🐸</span>カエル](/ja/item/frog) | 6 |
 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) | 6 |
-| [<span class="wiki-icon">🌿</span>山菜](/ja/item/wild-vegetable) | 6 |
 | [<span class="wiki-icon">🍬</span>飴](/ja/item/candy) | 6 |
 | [<span class="wiki-icon">📘</span>自己啓発本](/ja/item/self-help-book) | 6 |
 | [<span class="wiki-icon">📗</span>小説](/ja/item/novel) | 6 |
@@ -716,6 +678,7 @@
 | [<span class="wiki-icon">💗</span>ハートブローチ](/ja/item/heart-brooch) | 6 |
 | [<span class="wiki-icon">🍩</span>バウムクーヘン](/ja/item/baumkuchen) | 6 |
 | [<span class="wiki-icon">🥧</span>パイ](/ja/item/pie) | 6 |
+| [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) | 5 |
 | [<span class="wiki-icon">🧊</span>氷柱](/ja/item/ice-pillar) | 5 |
 | [<span class="wiki-icon">🧊</span>つらら](/ja/item/icicle) | 5 |
 | [<span class="wiki-icon">🐻‍❄️</span>白い毛皮](/ja/item/white-fur) | 5 |
@@ -725,7 +688,6 @@
 | [<span class="wiki-icon">🪨</span>漬物石](/ja/item/pickling-stone) | 5 |
 | [<span class="wiki-icon">❄️</span>雪の塊](/ja/item/snow-chunk) | 5 |
 | [<span class="wiki-icon">🌨️</span>凍った枝](/ja/item/frozen-branch) | 5 |
-| [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) | 5 |
 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack) | 5 |
 | [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) | 4 |
 | [<span class="wiki-icon">🪨</span>砂浜の石](/ja/item/beach-stone) | 4 |
@@ -735,8 +697,6 @@
 | [<span class="wiki-icon">🐚</span>貝殻](/ja/item/seashell) | 4 |
 | [<span class="wiki-icon">🪵</span>流木](/ja/item/driftwood) | 4 |
 | [<span class="wiki-icon">🏖️</span>砂](/ja/item/sand) | 4 |
-| [<span class="wiki-icon">🌊</span>海藻](/ja/item/seaweed) | 4 |
-| [<span class="wiki-icon">🐟</span>小魚](/ja/item/small-fish) | 4 |
 | [<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water) | 4 |
 | [<span class="wiki-icon">🔥</span>カイロ](/ja/item/heat-pack) | 4 |
 | [<span class="wiki-icon">👁️</span>目薬](/ja/item/eye-drops) | 4 |
@@ -764,8 +724,6 @@
 | [<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad) | 3 |
 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) | 3 |
 | [<span class="wiki-icon">🦴</span>骨](/ja/item/bone) | 3 |
-| [<span class="wiki-icon">🍊</span>ミカン](/ja/item/mandarin) | 3 |
-| [<span class="wiki-icon">🍇</span>ぶどう](/ja/item/grape) | 3 |
 | [<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine) | 3 |
 | [<span class="wiki-icon">🩹</span>絆創膏](/ja/item/bandage) | 3 |
 | [<span class="wiki-icon">🪵</span>木の棒](/ja/item/wooden-stick) | 3 |

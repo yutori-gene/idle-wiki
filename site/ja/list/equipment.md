@@ -14,25 +14,24 @@
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備必須 | 全カテゴリ | +2 |  |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | [<span class="wiki-icon">🪱</span>畑の恵み](/ja/group/field-blessing) | 消費装備 | 全カテゴリ | +3 |  |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) | [<span class="wiki-icon">🪱</span>畑の恵み](/ja/group/field-blessing) | 消費装備 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) |  |  |  |  |  |  | +3 |  |  |
-| [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +2 |  |  |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🐕</span>負け犬](/ja/item/underdog) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +2 |  |  |
-| [<span class="wiki-icon">🦆</span>アヒル](/ja/item/duck) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +2 |  |  |
+| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +3 |  |  |
-| [<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +1 |  |  |
 | [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +2 |  |  |
 | [<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +2 |  |  |
 | [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +3 |  |  |
-| [<span class="wiki-icon">🐱</span>五毛猫](/ja/item/five-color-cat) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +4 |  |  |
-| [<span class="wiki-icon">🌙</span>ルナ](/ja/item/luna) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +4 |  |  |
+| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +4 |  |  |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +3 |  |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +3 |  |  |
-| [<span class="wiki-icon">🦊</span>九尾の狐](/ja/item/nine-tailed-fox) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | 全カテゴリ |  |  |  |  |  |  | +5 |  |  |
 | [<span class="wiki-icon">💭</span>想像力](/ja/item/imagination) | [<span class="wiki-icon">🧠</span>知識](/ja/group/knowledge) | 装備不要 | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) |  |  |  | +1 |  |  |  |  |  |
 | [<span class="wiki-icon">🎯</span>集中力](/ja/item/concentration) | [<span class="wiki-icon">🧠</span>知識](/ja/group/knowledge) | 装備不要 | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) |  |  | +1 |  |  |  |  |  |  |
 | [<span class="wiki-icon">📰</span>時事知識](/ja/item/current-affairs) | [<span class="wiki-icon">🧠</span>知識](/ja/group/knowledge) | 装備不要 | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) |  |  |  |  |  |  | +1 |  |  |

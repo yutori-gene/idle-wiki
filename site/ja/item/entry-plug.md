@@ -1,6 +1,6 @@
 # エントリープラグ
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">エントリープラグ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔌</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/container"><span class="wiki-icon">🎒</span>容器</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">エントリープラグ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔌</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/container"><span class="wiki-icon">🎒</span>容器</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 同期率が高いほど危険。
 
@@ -21,7 +21,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🔌</span>エントリープラグを手に入れた](/ja/event/storage-entry-plug) | イベントの条件（変化時（隠し）） | [<span class="wiki-icon">🔌</span>エントリープラグ](/ja/item/entry-plug) ×1 |
 
-<div class="wiki-navbox" style="--accent:#c26a8e"><div class="wiki-navbox-title">グループ: 容器</div><div class="wiki-navbox-body"><a href="#/ja/item/eco-bag"><span class="wiki-icon">🛍️</span>エコバッグ</a> ・ <a href="#/ja/item/picnic-basket"><span class="wiki-icon">🧺</span>ピクニックバスケット</a> ・ <a href="#/ja/item/jar"><span class="wiki-icon">🏺</span>壺</a> ・ <a href="#/ja/item/backpack"><span class="wiki-icon">🎒</span>リュックサック</a> ・ <a href="#/ja/item/kangaroo-pouch"><span class="wiki-icon">🦘</span>カンガルーの袋</a> ・ <a href="#/ja/item/hoi-poi-capsule"><span class="wiki-icon">💊</span>ホイポイカプセル</a> ・ <a href="#/ja/item/ferris-wheel-gondola"><span class="wiki-icon">🎡</span>観覧車のゴンドラ</a> ・ <a href="#/ja/item/coffin"><span class="wiki-icon">⚰️</span>棺桶</a> ・ <a href="#/ja/item/3d-pocket"><span class="wiki-icon">🌀</span>3次元ポケット</a> ・ <a href="#/ja/item/entry-plug"><span class="wiki-icon">🔌</span>エントリープラグ</a></div></div>
+<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">グループ: 容器</div><div class="wiki-navbox-body"><a href="#/ja/item/eco-bag"><span class="wiki-icon">🛍️</span>エコバッグ</a> ・ <a href="#/ja/item/picnic-basket"><span class="wiki-icon">🧺</span>ピクニックバスケット</a> ・ <a href="#/ja/item/jar"><span class="wiki-icon">🏺</span>壺</a> ・ <a href="#/ja/item/backpack"><span class="wiki-icon">🎒</span>リュックサック</a> ・ <a href="#/ja/item/kangaroo-pouch"><span class="wiki-icon">🦘</span>カンガルーの袋</a> ・ <a href="#/ja/item/hoi-poi-capsule"><span class="wiki-icon">💊</span>ホイポイカプセル</a> ・ <a href="#/ja/item/shipping-container"><span class="wiki-icon">📦</span>コンテナ</a> ・ <a href="#/ja/item/coffin"><span class="wiki-icon">⚰️</span>棺桶</a> ・ <a href="#/ja/item/3d-pocket"><span class="wiki-icon">🌀</span>3次元ポケット</a> ・ <a href="#/ja/item/entry-plug"><span class="wiki-icon">🔌</span>エントリープラグ</a></div></div>
 
 ## 開発者向け情報
 
@@ -35,7 +35,7 @@
 | `sellingValue` | `0` |
 | `coinId` | （空） |
 | `maximum` | `1` |
-| `equipmentType` | `unnecessary` |
+| `equipmentType` | `impossible` |
 | `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 10 |
@@ -65,7 +65,7 @@
 	"sellingValue": 0,
 	"coinId": "",
 	"maximum": 1,
-	"equipmentType": "unnecessary",
+	"equipmentType": "impossible",
 	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],

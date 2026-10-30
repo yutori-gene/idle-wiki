@@ -1,6 +1,6 @@
 # 作業部屋
 
-<div class="wiki-infobox" style="--accent:#4f8a8a"><div class="wiki-infobox-title">作業部屋</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔧</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/base"><span class="wiki-icon">🏠</span>拠点</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>28本</td></tr><tr><th>管理アイテム</th><td>28種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#627777"><div class="wiki-infobox-title">作業部屋</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔧</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/base"><span class="wiki-icon">🏠</span>拠点</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>28本</td></tr><tr><th>管理アイテム</th><td>28種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **拠点育成型**の拠点。インフラを作る。インフラは持っているだけで効き（装備不要）、アクションを速くする。
 
@@ -91,7 +91,7 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（79種）</summary>
+<details><summary>全カテゴリに効くアイテム（78種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -102,25 +102,24 @@
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐕</span>負け犬](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🦆</span>アヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐱</span>五毛猫](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🌙</span>ルナ](/ja/item/luna) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🦊</span>九尾の狐](/ja/item/nine-tailed-fox) | 装備不要 |  |  |  |  |  |  | +5 |  |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
@@ -200,7 +199,7 @@
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#4f8a8a"><div class="wiki-navbox-title">拠点</div><div class="wiki-navbox-body"><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a> ・ <a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a> ・ <a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a> ・ <a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a> ・ <a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a> ・ <a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a> ・ <a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a> ・ <a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a> ・ <a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">拠点</div><div class="wiki-navbox-body"><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a> ・ <a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a> ・ <a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a> ・ <a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a> ・ <a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a> ・ <a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a> ・ <a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a> ・ <a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a> ・ <a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -363,7 +362,7 @@
 			"iconify": "",
 			"image": ""
 		},
-		"color": "#4f8a8a"
+		"color": "#627777"
 	},
 	"group": "base",
 	"unlocked": "hinted",

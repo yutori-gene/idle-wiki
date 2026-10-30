@@ -4,4 +4,4 @@
 
 ?> **次のダンジョン [[category:volcano]] の開け方**: このカテゴリのレベルと [[item:perpetual-motion-machine]] が要る。[[item:perpetual-motion-machine]] は [[action:mad-scientist]]（討伐）で手に入る。詳しくは [進行チャート](/ja/reference/progression)。
 
-**容器**: [[item:ferris-wheel-gondola]] を手に入れると物置（[[item:capacity]]）が広がる。どれも探索の単発アクションで1回だけ手に入る。
+**容器**: [[item:shipping-container]] を手に入れると物置（[[item:capacity]]）が広がる。どれも探索の単発アクションで1回だけ手に入る。

@@ -1,6 +1,6 @@
 # 道具
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">道具</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧰</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>45種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">道具</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧰</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>49種</td></tr></table></div>
 
 
 ## アイテム
@@ -54,6 +54,10 @@
 | [<span class="wiki-icon">🗝️</span>天空の鍵](/ja/item/sky-key) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 270 |
 | [<span class="wiki-icon">👑</span>女神の冠](/ja/item/goddess-crown) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 270 |
 | [<span class="wiki-icon">📜</span>金色の石板](/ja/item/golden-tablet) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 270 |
+| [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 装備不要 | — |
+| [<span class="wiki-icon">🍳</span>フライパン](/ja/item/frying-pan) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 装備不要 | — |
+| [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 装備不要 | — |
+| [<span class="wiki-icon">🥟</span>蒸籠](/ja/item/steamer) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 装備不要 | — |
 
 ## 開発者向け情報
 

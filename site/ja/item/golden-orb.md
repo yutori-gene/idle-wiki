@@ -1,6 +1,6 @@
 # 金の玉
 
-<div class="wiki-infobox" style="--accent:#7a86c2"><div class="wiki-infobox-title">金の玉</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🟡</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/shelf"><span class="wiki-icon">📚</span>棚</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">金の玉</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🟡</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/shelf"><span class="wiki-icon">📚</span>棚</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > おじさんの金の玉だからね！棚に飾ると、すべてのカテゴリの経験値が増える。
 
@@ -21,7 +21,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🟡</span>金の玉を磨く](/ja/action/polish-golden-orb) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv50 | 1 | 100% | 1 | 0.1 |
 
-<div class="wiki-navbox" style="--accent:#7a86c2"><div class="wiki-navbox-title">グループ: 棚</div><div class="wiki-navbox-body"><a href="#/ja/item/message-in-a-bottle"><span class="wiki-icon">✉️</span>ボトルメール</a> ・ <a href="#/ja/item/snow-globe"><span class="wiki-icon">❄️</span>スノードーム</a> ・ <a href="#/ja/item/kaleidoscope"><span class="wiki-icon">🔮</span>万華鏡</a> ・ <a href="#/ja/item/infinite-loop-videotape"><span class="wiki-icon">📼</span>無限ループするビデオテープ</a> ・ <a href="#/ja/item/golden-orb"><span class="wiki-icon">🟡</span>金の玉</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 棚</div><div class="wiki-navbox-body"><a href="#/ja/item/message-in-a-bottle"><span class="wiki-icon">✉️</span>ボトルメール</a> ・ <a href="#/ja/item/snow-globe"><span class="wiki-icon">❄️</span>スノードーム</a> ・ <a href="#/ja/item/kaleidoscope"><span class="wiki-icon">🔮</span>万華鏡</a> ・ <a href="#/ja/item/infinite-loop-videotape"><span class="wiki-icon">📼</span>無限ループするビデオテープ</a> ・ <a href="#/ja/item/golden-orb"><span class="wiki-icon">🟡</span>金の玉</a></div></div>
 
 ## 開発者向け情報
 

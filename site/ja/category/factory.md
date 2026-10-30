@@ -1,6 +1,6 @@
 # 工場
 
-<div class="wiki-infobox" style="--accent:#6b757c"><div class="wiki-infobox-title">工場</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏭</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#717476"><div class="wiki-infobox-title">工場</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏭</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **6番目のダンジョン**（難易度 ★★★★☆・機械的・無機質）。収集は金属・部品、討伐は機械系、探索は廃棄ラインが中心。
 
@@ -8,7 +8,7 @@
 
 ?> **次のダンジョン [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) の開け方**: このカテゴリのレベルと [<span class="wiki-icon">🔄</span>永久機関](/ja/item/perpetual-motion-machine) が要る。[<span class="wiki-icon">🔄</span>永久機関](/ja/item/perpetual-motion-machine) は [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist)（討伐）で手に入る。詳しくは [進行チャート](/ja/reference/progression)。
 
-**容器**: [<span class="wiki-icon">🎡</span>観覧車のゴンドラ](/ja/item/ferris-wheel-gondola) を手に入れると物置（[<span class="wiki-icon">📦</span>物置](/ja/item/capacity)）が広がる。どれも探索の単発アクションで1回だけ手に入る。
+**容器**: [<span class="wiki-icon">📦</span>コンテナ](/ja/item/shipping-container) を手に入れると物置（[<span class="wiki-icon">📦</span>物置](/ja/item/capacity)）が広がる。どれも探索の単発アクションで1回だけ手に入る。
 
 
 ## 解放条件
@@ -40,7 +40,7 @@
 | [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2秒 | 50% | 2 | [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) (0.556%) | [<span class="wiki-icon">🥩</span>培養肉](/ja/item/cultured-meat) (1.54%)<br>[<span class="wiki-icon">🥩</span>ソイミート](/ja/item/soy-meat) (0.64%)<br>[<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil) (0.444%) |
 | [<span class="wiki-icon">🤖</span>暴走ロボット](/ja/action/rampaging-robot) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 1.9秒 | 50% | 2 |  | [<span class="wiki-icon">🔪</span>カッター](/ja/item/cutter) (5.28%)<br>[<span class="wiki-icon">🔋</span>乾電池](/ja/item/dry-cell) (2.96%)<br>[<span class="wiki-icon">⚙️</span>モーター](/ja/item/motor) (0.608%)<br>[<span class="wiki-icon">⚙️</span>精密部品](/ja/item/precision-part) (0.119%)<br>[<span class="wiki-icon">🤖</span>ロボットの心臓](/ja/item/robot-heart) (0.055%) |
 | [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2.5秒 | 50% | 2 |  | [<span class="wiki-icon">🔌</span>針金](/ja/item/wire-rod) (1.33%)<br>[<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) (0.8%)<br>[<span class="wiki-icon">🔩</span>鋼鉄板](/ja/item/steel-plate) (0.156%) |
-| [<span class="wiki-icon">☣️</span>地下廃棄プラント](/ja/action/underground-disposal-plant) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv40 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">🎡</span>観覧車のゴンドラ](/ja/item/ferris-wheel-gondola)<br>[<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris)×2 (50.1%)<br>[<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) (25.9%) |
+| [<span class="wiki-icon">☣️</span>地下廃棄プラント](/ja/action/underground-disposal-plant) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv40 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">📦</span>コンテナ](/ja/item/shipping-container)<br>[<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris)×2 (50.1%)<br>[<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) (25.9%) |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -52,7 +52,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🧮</span>計算力](/ja/item/calculation) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（79種）</summary>
+<details><summary>全カテゴリに効くアイテム（78種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -63,25 +63,24 @@
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐕</span>負け犬](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🦆</span>アヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐱</span>五毛猫](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🌙</span>ルナ](/ja/item/luna) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🦊</span>九尾の狐](/ja/item/nine-tailed-fox) | 装備不要 |  |  |  |  |  |  | +5 |  |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
@@ -157,7 +156,7 @@
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#6b757c"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
+<div class="wiki-navbox" style="--accent:#717476"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
 
 ## 開発者向け情報
 
@@ -602,7 +601,7 @@ Step 3-A2 の「供給待ちは Step 3 を一周してからまとめて割り�
 			"iconify": "",
 			"image": ""
 		},
-		"color": "#6b757c"
+		"color": "#717476"
 	},
 	"group": "dungeon",
 	"unlocked": "hinted",

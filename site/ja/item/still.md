@@ -1,6 +1,6 @@
 # 蒸留器
 
-<div class="wiki-infobox" style="--accent:#6d4f9c"><div class="wiki-infobox-title">蒸留器</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/distilling"><span class="wiki-icon">🧫</span>蒸留</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">蒸留器</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/distilling"><span class="wiki-icon">🧫</span>蒸留</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 液体系ポーションの精製に使う。
 
@@ -29,7 +29,7 @@
 | [<span class="wiki-icon">🧞</span>精霊の入ったビンの調合](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
 | [<span class="wiki-icon">💊</span>万能薬の調合](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
 
-<div class="wiki-navbox" style="--accent:#6d4f9c"><div class="wiki-navbox-title">グループ: 蒸留</div><div class="wiki-navbox-body"><a href="#/ja/item/still"><span class="wiki-icon">⚗️</span>蒸留器</a></div></div>
+<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 蒸留</div><div class="wiki-navbox-body"><a href="#/ja/item/still"><span class="wiki-icon">⚗️</span>蒸留器</a></div></div>
 
 ## 開発者向け情報
 

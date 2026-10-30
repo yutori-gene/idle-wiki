@@ -1,6 +1,6 @@
 # 秘宝の鑑定
 
-<div class="wiki-infobox" style="--accent:#8c8577"><div class="wiki-infobox-title">秘宝の鑑定</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔍</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>条件の数え方</th><td>グループの合計</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">秘宝の鑑定</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔍</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>条件の数え方</th><td>グループの合計</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 手に入れた秘宝を鑑定し、秘宝メダルに換える
 

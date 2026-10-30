@@ -1,6 +1,6 @@
 # ワールド構築ロードマップ
 
-> idle リポジトリ `world/doc/roadmap.md` の写し（0932eb8 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
+> idle リポジトリ `world/doc/roadmap.md` の写し（9f7e998 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
 
 `world/list` の CSV を「思っている形」にするまでの進め方。**この作業の計画の正本。**
 

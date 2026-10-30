@@ -1,6 +1,6 @@
 # カンガルーの袋を手に入れた
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">カンガルーの袋を手に入れた</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦘</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">カンガルーの袋を手に入れた</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦘</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 伸び縮みする袋は、見た目より多くを飲み込む。
 

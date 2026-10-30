@@ -1,15 +1,15 @@
-# 観覧車のゴンドラを手に入れた
+# コンテナを手に入れた
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">観覧車のゴンドラを手に入れた</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎡</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">コンテナを手に入れた</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📦</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
-> 動かないゴンドラは、ただの大きな箱になった。
+> 廃棄プラントに置き去りの鉄の箱。物置がひと回り広くなった。
 
 
 ## 発生条件
 
 数量が変化したとき、**その1回で増えた量**が次の値以上なら発動する（何度でも繰り返す）。画面には表示されない。
 
-- [<span class="wiki-icon">🎡</span>観覧車のゴンドラ](/ja/item/ferris-wheel-gondola) ×1
+- [<span class="wiki-icon">📦</span>コンテナ](/ja/item/shipping-container) ×1
 
 ## 報酬
 
@@ -19,7 +19,7 @@
 
 | 項目 | 値 |
 | --- | --- |
-| id | `storage-ferris-wheel-gondola` |
+| id | `storage-shipping-container` |
 | `category` | `garden` |
 | `timing` | `changed` |
 | `unlocked` | `hinted` |
@@ -35,11 +35,11 @@
 ```json
 {
 	"information": {
-		"id": "storage-ferris-wheel-gondola",
-		"name": "観覧車のゴンドラを手に入れた",
-		"explanation": "動かないゴンドラは、ただの大きな箱になった。",
+		"id": "storage-shipping-container",
+		"name": "コンテナを手に入れた",
+		"explanation": "廃棄プラントに置き去りの鉄の箱。物置がひと回り広くなった。",
 		"icon": {
-			"emoji": "🎡",
+			"emoji": "📦",
 			"iconify": "",
 			"image": ""
 		},
@@ -51,7 +51,7 @@
 	"requirements": [
 		{
 			"type": "item",
-			"id": "ferris-wheel-gondola",
+			"id": "shipping-container",
 			"count": 1,
 			"chance": 1,
 			"equipment": false

@@ -1,6 +1,6 @@
 # 経過の記録（2026-08-30〜2026-09-15）
 
-> idle リポジトリ `world/doc/history.md` の写し（0932eb8 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
+> idle リポジトリ `world/doc/history.md` の写し（9f7e998 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
 
 このファイルは**作業の経過の記録**で、2026-10-25 まで session.md に書き足していた本文をそのまま移したもの。**現在地と次の一手は [session.md](/ja/dev/doc/session)**、決めたことの理由は [plan.md](/ja/dev/doc/plan) が正本。
 

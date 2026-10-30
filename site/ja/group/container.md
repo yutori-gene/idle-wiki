@@ -7,16 +7,16 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛍️</span>エコバッグ](/ja/item/eco-bag) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
-| [<span class="wiki-icon">🧺</span>ピクニックバスケット](/ja/item/picnic-basket) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
-| [<span class="wiki-icon">🏺</span>壺](/ja/item/jar) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
-| [<span class="wiki-icon">🎒</span>リュックサック](/ja/item/backpack) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
-| [<span class="wiki-icon">🦘</span>カンガルーの袋](/ja/item/kangaroo-pouch) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
-| [<span class="wiki-icon">💊</span>ホイポイカプセル](/ja/item/hoi-poi-capsule) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
-| [<span class="wiki-icon">🎡</span>観覧車のゴンドラ](/ja/item/ferris-wheel-gondola) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
+| [<span class="wiki-icon">🛍️</span>エコバッグ](/ja/item/eco-bag) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
+| [<span class="wiki-icon">🧺</span>ピクニックバスケット](/ja/item/picnic-basket) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
+| [<span class="wiki-icon">🏺</span>壺](/ja/item/jar) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
+| [<span class="wiki-icon">🎒</span>リュックサック](/ja/item/backpack) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
+| [<span class="wiki-icon">🦘</span>カンガルーの袋](/ja/item/kangaroo-pouch) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
+| [<span class="wiki-icon">💊</span>ホイポイカプセル](/ja/item/hoi-poi-capsule) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
+| [<span class="wiki-icon">📦</span>コンテナ](/ja/item/shipping-container) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
 | [<span class="wiki-icon">⚰️</span>棺桶](/ja/item/coffin) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
-| [<span class="wiki-icon">🌀</span>3次元ポケット](/ja/item/3d-pocket) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
-| [<span class="wiki-icon">🔌</span>エントリープラグ](/ja/item/entry-plug) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
+| [<span class="wiki-icon">🌀</span>3次元ポケット](/ja/item/3d-pocket) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
+| [<span class="wiki-icon">🔌</span>エントリープラグ](/ja/item/entry-plug) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
 
 ## 開発者向け情報
 

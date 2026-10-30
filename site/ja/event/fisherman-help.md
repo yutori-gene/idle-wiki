@@ -13,8 +13,7 @@
 
 ## 報酬
 
-- [<span class="wiki-icon">🦐</span>エビ](/ja/item/shrimp) ×3
-- [<span class="wiki-icon">🦀</span>カニ](/ja/item/crab) ×2
+- [<span class="wiki-icon">🐍</span>電気ウナギ](/ja/item/electric-eel) ×1
 
 <div class="wiki-navbox" style="--accent:#b8862b"><div class="wiki-navbox-title">依頼</div><div class="wiki-navbox-body"><a href="#/ja/event/acorn-pile"><span class="wiki-icon">🌰</span>どんぐりの小山</a> ・ <a href="#/ja/event/lost-bird"><span class="wiki-icon">🐦</span>迷子の小鳥</a> ・ <a href="#/ja/event/alley-merchant"><span class="wiki-icon">🧙</span>路地裏の商人</a> ・ <a href="#/ja/event/mushroom-master"><span class="wiki-icon">🍄</span>きのこ採り名人</a> ・ <a href="#/ja/event/lost-path"><span class="wiki-icon">🧭</span>迷い道</a> ・ <a href="#/ja/event/mysterious-flyer"><span class="wiki-icon">📄</span>謎のチラシ</a> ・ <a href="#/ja/event/knight-training"><span class="wiki-icon">🛡️</span>騎士の修練</a> ・ <a href="#/ja/event/drifted-bottle"><span class="wiki-icon">🍾</span>漂着ボトル</a> ・ <a href="#/ja/event/fisherman-help"><span class="wiki-icon">🎣</span>漁師の手伝い</a> ・ <a href="#/ja/event/snowman-making"><span class="wiki-icon">⛄</span>雪だるま作り</a> ・ <a href="#/ja/event/herb-gift"><span class="wiki-icon">🌿</span>薬草の贈り物</a> ・ <a href="#/ja/event/screw-pickup"><span class="wiki-icon">🔩</span>ネジ拾い</a> ・ <a href="#/ja/event/broken-robot"><span class="wiki-icon">🤖</span>壊れたロボ</a> ・ <a href="#/ja/event/miner-feast"><span class="wiki-icon">⛏️</span>鉱夫の酒盛り</a> ・ <a href="#/ja/event/lost-fire-dragon"><span class="wiki-icon">🐉</span>迷子の火竜</a> ・ <a href="#/ja/event/cook-in-trouble"><span class="wiki-icon">🍳</span>料理番の窮地</a> ・ <a href="#/ja/event/undead-plea"><span class="wiki-icon">👻</span>亡者の嘆願</a> ・ <a href="#/ja/event/flame-trial"><span class="wiki-icon">🔥</span>火焔の試練</a> ・ <a href="#/ja/event/angel-song"><span class="wiki-icon">😇</span>天使の歌</a> ・ <a href="#/ja/event/priest-blessing"><span class="wiki-icon">🙏</span>神官の祝福</a></div></div>
 
@@ -77,14 +76,8 @@
 	"acquisitions": [
 		{
 			"type": "item",
-			"id": "shrimp",
-			"count": 3,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "crab",
-			"count": 2,
+			"id": "electric-eel",
+			"count": 1,
 			"chance": 1
 		}
 	],

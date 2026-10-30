@@ -1,6 +1,6 @@
 # 森
 
-<div class="wiki-infobox" style="--accent:#24804f"><div class="wiki-infobox-title">森</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌲</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#426251"><div class="wiki-infobox-title">森</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌲</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **2番目のダンジョン**（難易度 ★★☆☆☆・ほのぼの・自然）。収集は木材・キノコ、討伐は獣・虫、探索は洞窟・木の洞が中心。
 
@@ -24,13 +24,13 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌰</span>木の実採り](/ja/action/gather-nuts) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 20秒 | 50% | 1,080 |  | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×7 (91%)<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom)×5 (56%)<br>[<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom)×5 (56%)<br>[<span class="wiki-icon">🌿</span>山菜](/ja/item/wild-vegetable)×5 (67.2%)<br>[<span class="wiki-icon">🌿</span>苔](/ja/item/moss)×5 (56%)<br>[<span class="wiki-icon">🪲</span>クワガタ](/ja/item/stag-beetle)×2 (48%)<br>[<span class="wiki-icon">🍄</span>マツタケ](/ja/item/matsutake)×2 (57.6%)<br>[<span class="wiki-icon">🐿️</span>リス](/ja/item/squirrel) (18.7%)<br>[<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) (21.6%)<br>[<span class="wiki-icon">🐸</span>オタマジャクシ](/ja/item/tadpole)×2 (50.1%) |
+| [<span class="wiki-icon">🌰</span>木の実採り](/ja/action/gather-nuts) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 20秒 | 50% | 1,080 |  | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×7 (91%)<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom)×5 (56%)<br>[<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom)×5 (56%)<br>[<span class="wiki-icon">🌿</span>苔](/ja/item/moss)×5 (56%)<br>[<span class="wiki-icon">🪲</span>クワガタ](/ja/item/stag-beetle)×2 (48%)<br>[<span class="wiki-icon">🍄</span>マツタケ](/ja/item/matsutake)×2 (57.6%)<br>[<span class="wiki-icon">🐿️</span>リス](/ja/item/squirrel) (18.7%)<br>[<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) (21.6%)<br>[<span class="wiki-icon">🐸</span>オタマジャクシ](/ja/item/tadpole)×2 (50.1%) |
 | [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 20秒 | 50% | 1,080 |  | [<span class="wiki-icon">🟫</span>革](/ja/item/leather)×7 (91%)<br>[<span class="wiki-icon">🥀</span>枯れ枝](/ja/item/dead-branch)×7 (91%)<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold)×5 (56%)<br>[<span class="wiki-icon">🪨</span>岩](/ja/item/rock)×5 (56%)<br>[<span class="wiki-icon">🌿</span>シダ](/ja/item/fern)×5 (56%)<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×5 (67.2%)<br>[<span class="wiki-icon">🪓</span>斧](/ja/item/axe) (6%)<br>[<span class="wiki-icon">🪨</span>森の精霊石](/ja/item/forest-spirit-stone)<br>[<span class="wiki-icon">🎏</span>物干し竿](/ja/item/laundry-pole) (8.64%)<br>[<span class="wiki-icon">👞</span>木靴](/ja/item/wooden-clogs) (21.6%) |
 | [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 1.8秒 | 50% | 114 | [<span class="wiki-icon">🐌</span>カタツムリ](/ja/item/snail)×2 (1.5%) | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (3.46%)<br>[<span class="wiki-icon">🐸</span>カエル](/ja/item/frog) (0.234%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (1.44%)<br>[<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) (1.44%) |
 | [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 2.7秒 | 50% | 29 | [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) (2.25%) | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) (6.22%)<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) (12.6%)<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) (6.3%)<br>[<span class="wiki-icon">🪪</span>社員証](/ja/item/employee-badge) (2.59%) |
 | [<span class="wiki-icon">⛩️</span>古い祠の調査](/ja/action/investigate-old-shrine) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 1時間 | 100% | 1,029 |  | [<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber)×2 (17.3%)<br>[<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite) (17.3%)<br>[<span class="wiki-icon">📚</span>百科事典](/ja/item/encyclopedia)×2<br>[<span class="wiki-icon">🏺</span>壺](/ja/item/jar)<br>[<span class="wiki-icon">🗺️</span>古い地図の断片](/ja/item/old-map-fragment)<br>[<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat)<br>[<span class="wiki-icon">🪵</span>木の宝箱](/ja/item/wooden-chest) (41.8%)<br>[<span class="wiki-icon">🔭</span>双眼鏡](/ja/item/binoculars)<br>[<span class="wiki-icon">🎯</span>ダーツ](/ja/item/dart)×2 |
 | [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 2.3秒 | 50% | 114 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (1.92%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (19.2%)<br>[<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn) (10.7%)<br>[<span class="wiki-icon">🌿</span>シダ](/ja/item/fern) (5.37%)<br>[<span class="wiki-icon">🕸️</span>クモの巣](/ja/item/spider-web) (1.53%)<br>[<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) (0.021%)<br>[<span class="wiki-icon">🍅</span>トマト](/ja/item/tomato) (2.21%)<br>[<span class="wiki-icon">💍</span>結婚指輪](/ja/item/wedding-ring) (2.21%) |
-| [<span class="wiki-icon">🐰</span>ラビットガール](/ja/action/rabbit-girl) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1.1秒 | 50% | 103 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) (0.917%) | [<span class="wiki-icon">🌿</span>山菜](/ja/item/wild-vegetable) (6.16%)<br>[<span class="wiki-icon">🦋</span>チョウ](/ja/item/butterfly) (0.143%)<br>[<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) (0.171%)<br>[<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) (0.013%)<br>[<span class="wiki-icon">🥧</span>パイ](/ja/item/pie) (2.11%)<br>[<span class="wiki-icon">💗</span>ハートブローチ](/ja/item/heart-brooch) (2.11%) |
+| [<span class="wiki-icon">🐰</span>ラビットガール](/ja/action/rabbit-girl) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1.1秒 | 50% | 103 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) (0.917%) | [<span class="wiki-icon">🦋</span>チョウ](/ja/item/butterfly) (0.143%)<br>[<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) (0.171%)<br>[<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) (0.013%)<br>[<span class="wiki-icon">🥧</span>パイ](/ja/item/pie) (2.11%)<br>[<span class="wiki-icon">💗</span>ハートブローチ](/ja/item/heart-brooch) (2.11%) |
 | [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv10 | 1.9秒 | 50% | 115 | [<span class="wiki-icon">🥚</span>卵](/ja/item/egg) (1.58%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (10.6%)<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (3.65%)<br>[<span class="wiki-icon">🪨</span>火打石](/ja/item/flint) (1.52%) |
 | [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.9秒 | 50% | 115 |  | [<span class="wiki-icon">🟫</span>革](/ja/item/leather) (15.8%)<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) (4.43%)<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) (3.04%)<br>[<span class="wiki-icon">🦈</span>サメ歯ネックレス](/ja/item/shark-tooth-necklace) (3.65%) |
 | [<span class="wiki-icon">👺</span>ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.3秒 | 50% | 103 | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×5 (1.08%) | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (8.67%)<br>[<span class="wiki-icon">🔋</span>乾電池](/ja/item/dry-cell) (6.07%)<br>[<span class="wiki-icon">🥖</span>フランスパン](/ja/item/baguette) (1.04%)<br>[<span class="wiki-icon">🎯</span>吹き矢](/ja/item/blowgun) (2.5%) |
@@ -52,7 +52,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🎯</span>集中力](/ja/item/concentration) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（79種）</summary>
+<details><summary>全カテゴリに効くアイテム（78種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -63,25 +63,24 @@
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐕</span>負け犬](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🦆</span>アヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐱</span>五毛猫](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🌙</span>ルナ](/ja/item/luna) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🦊</span>九尾の狐](/ja/item/nine-tailed-fox) | 装備不要 |  |  |  |  |  |  | +5 |  |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
@@ -147,8 +146,8 @@
 | Lv1 | 0 | [<span class="wiki-icon">🌰</span>木の実採り](/ja/action/gather-nuts)（実行） |
 | Lv2 | 100 | [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)（解放）<br>[<span class="wiki-icon">🟫</span>革](/ja/item/leather)（解放）<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold)（解放）<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth)（解放）<br>[<span class="wiki-icon">🍯</span>樹液](/ja/item/tree-sap)（解放）<br>[<span class="wiki-icon">🍄</span>巨大キノコ](/ja/item/giant-mushroom)（解放） |
 | Lv3 | 211 | [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree)（実行）<br>[<span class="wiki-icon">🐾</span>庭](/ja/category/garden)（解放）<br>[<span class="wiki-icon">🍄</span>マツタケ](/ja/item/matsutake)（解放）<br>[<span class="wiki-icon">🍄</span>ワライタケ](/ja/item/laughing-mushroom)（解放）<br>[<span class="wiki-icon">🐾</span>庭を広げよう](/ja/event/expand-garden)（達成条件） |
-| Lv4 | 334 | [<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom)（解放）<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom)（解放）<br>[<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom)（解放） |
-| Lv5 | 471 | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen)（解放）<br>[<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)（解放）<br>[<span class="wiki-icon">🌿</span>山菜](/ja/item/wild-vegetable)（解放）<br>[<span class="wiki-icon">🍳</span>台所で調理しよう](/ja/event/cook-in-kitchen)（達成条件） |
+| Lv4 | 334 | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom)（解放）<br>[<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom)（解放）<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom)（解放） |
+| Lv5 | 471 | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen)（解放）<br>[<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)（解放）<br>[<span class="wiki-icon">🍳</span>台所で調理しよう](/ja/event/cook-in-kitchen)（達成条件） |
 | Lv7 | 791 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study)（解放）<br>[<span class="wiki-icon">📚</span>書斎で学ぼう](/ja/event/learn-in-study)（達成条件） |
 | Lv8 | 978 | [<span class="wiki-icon">⛩️</span>古い祠の調査](/ja/action/investigate-old-shrine)（実行） |
 | Lv9 | 1,186 | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft)（解放）<br>[<span class="wiki-icon">🗃️</span>ロフトを使おう](/ja/event/use-loft)（達成条件） |
@@ -158,7 +157,7 @@
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#24804f"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
+<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
 
 ## 開発者向け情報
 
@@ -574,7 +573,7 @@ CSV に置かれたまま入手経路が無かった森テーマの素材が、�
 			"iconify": "",
 			"image": ""
 		},
-		"color": "#24804f"
+		"color": "#426251"
 	},
 	"group": "dungeon",
 	"unlocked": "hinted",

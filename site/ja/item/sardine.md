@@ -1,6 +1,6 @@
 # イワシ
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">イワシ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐟</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">イワシ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐟</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 群れで海を渡る小魚。
 
@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 | 1 | 0.68% | 0.003 | 0.54 |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/jones) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 0.92% | 0.005 | 0.123 |
+| [<span class="wiki-icon">🎩</span>漂流者](/ja/action/castaway) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 0.92% | 0.005 | 0.123 |
 | [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 1 | 0.178% | 0.001 | 0.005 |
 
 ## 用途
@@ -21,10 +21,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>軍用イワシ](/ja/action/make-military-sardine) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv30 | 4 | 100% |  |
-| [<span class="wiki-icon">🐟</span>イワシのコンフィ](/ja/action/cook-sardine-confit) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 3 | 100% |  |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv29 | 8 | 100% |  |
-| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv40 | 2 | 100% |  |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv35 | 8 | 100% |  |
 
 ### 条件にしているもの
 
@@ -32,7 +29,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🎣</span>漁師の手伝い](/ja/event/fisherman-help) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) ×2 |
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body">69件。一覧は <a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#9b7d61"><div class="wiki-navbox-title">グループ: 食材</div><div class="wiki-navbox-body"><a href="#/ja/item/pumpkin"><span class="wiki-icon">🎃</span>カボチャ</a> ・ <a href="#/ja/item/wheat"><span class="wiki-icon">🌾</span>小麦</a> ・ <a href="#/ja/item/salad"><span class="wiki-icon">🥗</span>サラダ</a> ・ <a href="#/ja/item/carrot"><span class="wiki-icon">🥕</span>ニンジン</a> ・ <a href="#/ja/item/banana"><span class="wiki-icon">🍌</span>バナナ</a> ・ <a href="#/ja/item/apple"><span class="wiki-icon">🍎</span>リンゴ</a> ・ <a href="#/ja/item/axolotl"><span class="wiki-icon">🦎</span>ウーパールーパー</a> ・ <a href="#/ja/item/honey"><span class="wiki-icon">🍯</span>蜂蜜</a> ・ <a href="#/ja/item/potato"><span class="wiki-icon">🥔</span>ジャガイモ</a> ・ <a href="#/ja/item/truffle"><span class="wiki-icon">🍄</span>トリュフ</a> ・ <a href="#/ja/item/snail"><span class="wiki-icon">🐌</span>カタツムリ</a> ・ <a href="#/ja/item/nut"><span class="wiki-icon">🌰</span>木の実</a> ・ <a href="#/ja/item/poison-mushroom"><span class="wiki-icon">🍄</span>毒キノコ</a> ・ <a href="#/ja/item/mushroom"><span class="wiki-icon">🍄</span>キノコ</a> ・ <a href="#/ja/item/frog"><span class="wiki-icon">🐸</span>カエル</a> ・ <a href="#/ja/item/raw-meat"><span class="wiki-icon">🥩</span>生肉</a> ・ <a href="#/ja/item/mentos"><span class="wiki-icon">💊</span>メントス</a> ・ <a href="#/ja/item/tadpole"><span class="wiki-icon">🐸</span>オタマジャクシ</a> ・ <a href="#/ja/item/bread"><span class="wiki-icon">🍞</span>パン</a> ・ <a href="#/ja/item/fresh-water"><span class="wiki-icon">💧</span>真水</a> ・ <a href="#/ja/item/sardine"><span class="wiki-icon">🐟</span>イワシ</a> ・ <a href="#/ja/item/electric-eel"><span class="wiki-icon">🐍</span>電気ウナギ</a> ・ <a href="#/ja/item/bread-dough"><span class="wiki-icon">🍞</span>パン生地</a> ・ <a href="#/ja/item/chinese-cabbage"><span class="wiki-icon">🥬</span>白菜</a> ・ <a href="#/ja/item/daikon"><span class="wiki-icon">🥕</span>大根</a> ・ <a href="#/ja/item/frozen-berry"><span class="wiki-icon">🫐</span>凍結ベリー</a> ・ <a href="#/ja/item/raw-rice"><span class="wiki-icon">🍚</span>生米</a> ・ <a href="#/ja/item/forbidden-fruit"><span class="wiki-icon">🍎</span>禁断の果実</a> ・ <a href="#/ja/item/sky-flower"><span class="wiki-icon">🌸</span>天空の花</a> ・ <a href="#/ja/item/laughing-mushroom"><span class="wiki-icon">🍄</span>ワライタケ</a> ・ <a href="#/ja/item/star-fruit"><span class="wiki-icon">🍇</span>星の果実</a> ・ <a href="#/ja/item/world-tree-fruit"><span class="wiki-icon">🌳</span>世界樹の実</a></div></div>
 
 ## 開発者向け情報
 

@@ -6,76 +6,76 @@
 flowchart TD
   c_park["🌳 公園"]
   click c_park "#/ja/category/park"
-  style c_park fill:#6f9c2e,color:#fff,stroke:#0003
+  style c_park fill:#697852,color:#fff,stroke:#0003
   c_forest["🌲 森"]
   click c_forest "#/ja/category/forest"
-  style c_forest fill:#24804f,color:#fff,stroke:#0003
+  style c_forest fill:#426251,color:#fff,stroke:#0003
   c_town["🏙️ 街"]
   click c_town "#/ja/category/town"
-  style c_town fill:#b35a26,color:#fff,stroke:#0003
+  style c_town fill:#856654,color:#fff,stroke:#0003
   c_sea["🌊 海"]
   click c_sea "#/ja/category/sea"
-  style c_sea fill:#1c62ab,color:#fff,stroke:#0003
+  style c_sea fill:#4a637d,color:#fff,stroke:#0003
   c_northland["❄️ 北国"]
   click c_northland "#/ja/category/northland"
-  style c_northland fill:#48a0b5,color:#fff,stroke:#0003
+  style c_northland fill:#6b8a92,color:#fff,stroke:#0003
   c_factory["🏭 工場"]
   click c_factory "#/ja/category/factory"
-  style c_factory fill:#6b757c,color:#fff,stroke:#0003
+  style c_factory fill:#717476,color:#fff,stroke:#0003
   c_volcano["🌋 火山"]
   click c_volcano "#/ja/category/volcano"
-  style c_volcano fill:#c23b26,color:#fff,stroke:#0003
+  style c_volcano fill:#8f6059,color:#fff,stroke:#0003
   c_castle["🏰 城"]
   click c_castle "#/ja/category/castle"
-  style c_castle fill:#a37d1c,color:#fff,stroke:#0003
+  style c_castle fill:#776a48,color:#fff,stroke:#0003
   c_hell["🔥 地獄"]
   click c_hell "#/ja/category/hell"
-  style c_hell fill:#8e2c57,color:#fff,stroke:#0003
+  style c_hell fill:#6e4c5b,color:#fff,stroke:#0003
   c_sky_garden["☁️ 天空のお庭"]
   click c_sky_garden "#/ja/category/sky-garden"
-  style c_sky_garden fill:#8a76d4,color:#fff,stroke:#0003
+  style c_sky_garden fill:#9c95b5,color:#fff,stroke:#0003
   c_warehouse["📦 倉庫"]
   click c_warehouse "#/ja/category/warehouse"
-  style c_warehouse fill:#8c8577,color:#fff,stroke:#0003
+  style c_warehouse fill:#85837e,color:#fff,stroke:#0003
   c_greenhouse["🌱 温室"]
   click c_greenhouse "#/ja/category/greenhouse"
-  style c_greenhouse fill:#6fb07a,color:#fff,stroke:#0003
+  style c_greenhouse fill:#849b88,color:#fff,stroke:#0003
   c_garden["🐾 庭"]
   click c_garden "#/ja/category/garden"
-  style c_garden fill:#c26a8e,color:#fff,stroke:#0003
+  style c_garden fill:#a58793,color:#fff,stroke:#0003
   c_kitchen["🍳 台所"]
   click c_kitchen "#/ja/category/kitchen"
-  style c_kitchen fill:#d07c2c,color:#fff,stroke:#0003
+  style c_kitchen fill:#9b7d61,color:#fff,stroke:#0003
   c_study["📚 書斎"]
   click c_study "#/ja/category/study"
-  style c_study fill:#7b5a35,color:#fff,stroke:#0003
+  style c_study fill:#64594c,color:#fff,stroke:#0003
   c_loft["🗃️ ロフト"]
   click c_loft "#/ja/category/loft"
-  style c_loft fill:#a85c47,color:#fff,stroke:#0003
+  style c_loft fill:#886e67,color:#fff,stroke:#0003
   c_basement["⚗️ 地下室"]
   click c_basement "#/ja/category/basement"
-  style c_basement fill:#6d4f9c,color:#fff,stroke:#0003
+  style c_basement fill:#736883,color:#fff,stroke:#0003
   c_bedroom["🛏️ 寝室"]
   click c_bedroom "#/ja/category/bedroom"
-  style c_bedroom fill:#7a86c2,color:#fff,stroke:#0003
+  style c_bedroom fill:#9196ab,color:#fff,stroke:#0003
   c_workshop["🔧 作業部屋"]
   click c_workshop "#/ja/category/workshop"
-  style c_workshop fill:#4f8a8a,color:#fff,stroke:#0003
+  style c_workshop fill:#627777,color:#fff,stroke:#0003
   c_melee_weapon["⚔️ 近接武器"]
   click c_melee_weapon "#/ja/category/melee-weapon"
-  style c_melee_weapon fill:#4e6a86,color:#fff,stroke:#0003
+  style c_melee_weapon fill:#606a74,color:#fff,stroke:#0003
   c_throwing_weapon["🎯 投擲武器"]
   click c_throwing_weapon "#/ja/category/throwing-weapon"
-  style c_throwing_weapon fill:#6b7a4a,color:#fff,stroke:#0003
+  style c_throwing_weapon fill:#656a5a,color:#fff,stroke:#0003
   c_armor["🛡️ 防具"]
   click c_armor "#/ja/category/armor"
-  style c_armor fill:#2f3f52,color:#fff,stroke:#0003
+  style c_armor fill:#3a4047,color:#fff,stroke:#0003
   c_accessory["💍 装飾"]
   click c_accessory "#/ja/category/accessory"
-  style c_accessory fill:#a44f9e,color:#fff,stroke:#0003
+  style c_accessory fill:#886b86,color:#fff,stroke:#0003
   c_explosive_weapon["💣 爆発武器"]
   click c_explosive_weapon "#/ja/category/explosive-weapon"
-  style c_explosive_weapon fill:#cf9a1f,color:#fff,stroke:#0003
+  style c_explosive_weapon fill:#968358,color:#fff,stroke:#0003
   c_park -->|Lv20| c_forest
   i_legendary_ball(["⚽ 伝説のボール"])
   click i_legendary_ball "#/ja/item/legendary-ball"

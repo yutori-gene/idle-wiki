@@ -1,6 +1,6 @@
 # ボウル
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">ボウル</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥣</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/mixing"><span class="wiki-icon">🥣</span>混ぜ</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">ボウル</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥣</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 混ぜる、盛る、顔を洗う。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥣</span>ボウルを買う](/ja/action/buy-bowl) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv4 | 1 | 100% | 1 | 36,000 |
+| [<span class="wiki-icon">🥣</span>ボウルを買う](/ja/action/buy-bowl) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv5 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -19,16 +19,11 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🥫</span>マヨネーズを作る](/ja/action/craft-mayonnaise) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🥗</span>ポテトサラダ](/ja/action/cook-potato-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🍣</span>寿司](/ja/action/cook-sushi) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🍙</span>おにぎり](/ja/action/cook-rice-ball) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🥗</span>オーガニックサラダ](/ja/action/cook-organic-salad) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（消費しない） |
+| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（消費しない） |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) ×1（消費しない） |
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 混ぜ</div><div class="wiki-navbox-body"><a href="#/ja/item/bowl"><span class="wiki-icon">🥣</span>ボウル</a></div></div>
+<div class="wiki-navbox" style="--accent:#9b7d61"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">49件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -36,13 +31,13 @@
 | --- | --- |
 | id | `bowl` |
 | `category` | `kitchen` |
-| `group` | `mixing` |
+| `group` | `tool` |
 | `unlocked` | `hidden` |
 | `buyingValue` | `0` |
 | `sellingValue` | `0` |
 | `coinId` | （空） |
 | `maximum` | `1` |
-| `equipmentType` | `necessary` |
+| `equipmentType` | `unnecessary` |
 | `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
@@ -66,13 +61,13 @@
 		"color": ""
 	},
 	"category": "kitchen",
-	"group": "mixing",
+	"group": "tool",
 	"unlocked": "hidden",
 	"buyingValue": 0,
 	"sellingValue": 0,
 	"coinId": "",
 	"maximum": 1,
-	"equipmentType": "necessary",
+	"equipmentType": "unnecessary",
 	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],

@@ -1,6 +1,6 @@
-# R2D2に偵察させる
+# R2D2
 
-<div class="wiki-infobox" style="--accent:#c26a8e"><div class="wiki-infobox-title">R2D2に偵察させる</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🤖</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv31</td></tr><tr><th>所要時間</th><td>6時間</td></tr><tr><th>成功率</th><td>75%</td></tr><tr><th>経験値</th><td>729</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">R2D2</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🤖</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/play"><span class="wiki-icon">🎾</span>遊ぶ</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv35</td></tr><tr><th>所要時間</th><td>6時間</td></tr><tr><th>成功率</th><td>90%</td></tr><tr><th>経験値</th><td>608</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 行き先を伝えると勝手に帰ってくる。部品を落としながら。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv31以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv35以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) ×1（消費しない）
 - [<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium) ×2（消費する）
 
@@ -19,17 +19,17 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear) ×8 | 成功時 | 100% | 6 | 1 |
-| [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) ×5 | 成功時 | 100% | 3.8 | 0.625 |
+| [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear) ×7 | 成功時 | 100% | 6.3 | 1 |
+| [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) ×4 | 成功時 | 100% | 3.6 | 0.6 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 75%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 90%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv31） | 6時間 | 75% | 729 | 0.2 | 91 |
-| +10（Lv41） | 4時間53分 | 81.8% | 486 | 0.2 | 81 |
+| ±0（Lv35） | 6時間 | 90% | 608 | 0.2 | 91 |
+| +10（Lv45） | 4時間53分 | 93.1% | 405.33 | 0.2 | 77 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
 
@@ -37,11 +37,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 7 | 6 | 1 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 8 | 6 | 2 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#c26a8e"><div class="wiki-navbox-title">庭のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/play-with-chick"><span class="wiki-icon">🐥</span>ヒヨコを遊ばせる</a> ・ <a href="#/ja/action/feed-killifish"><span class="wiki-icon">🐟</span>メダカに餌をやる</a> ・ <a href="#/ja/action/run-hamster"><span class="wiki-icon">🐹</span>ハムスターを走らせる</a> ・ <a href="#/ja/action/pluck-walking-cactus-thorn"><span class="wiki-icon">🌵</span>歩くサボテンの棘を抜く</a> ・ <a href="#/ja/action/care-for-chicken"><span class="wiki-icon">🐔</span>ニワトリを世話する</a> ・ <a href="#/ja/action/bathe-duck"><span class="wiki-icon">🦆</span>アヒルをお風呂に入れる</a> ・ <a href="#/ja/action/cheer-up-underdog"><span class="wiki-icon">🐕</span>負け犬を励ます</a> ・ <a href="#/ja/action/walk-turtle"><span class="wiki-icon">🐢</span>カメを散歩させる</a> ・ <a href="#/ja/action/talk-with-parroting-parrot"><span class="wiki-icon">🦜</span>オウム返しするオウムと話す</a> ・ <a href="#/ja/action/take-out-jones"><span class="wiki-icon">🎩</span>ジョーンズを連れ出す</a> ・ <a href="#/ja/action/pen-pen-fishing"><span class="wiki-icon">🐧</span>ペンペンに魚を獲らせる</a> ・ <a href="#/ja/action/scout-with-r2d2"><span class="wiki-icon">🤖</span>R2D2に偵察させる</a> ・ <a href="#/ja/action/bathe-kero-chan"><span class="wiki-icon">🐸</span>ケロちゃんを水浴びさせる</a> ・ <a href="#/ja/action/play-with-flame-fox"><span class="wiki-icon">🦊</span>炎のキツネと遊ぶ</a> ・ <a href="#/ja/action/ask-five-color-cat"><span class="wiki-icon">🐱</span>五毛猫に頼みごとをする</a> ・ <a href="#/ja/action/take-luna-to-moon"><span class="wiki-icon">🌙</span>ルナを月に連れていく</a> ・ <a href="#/ja/action/feed-flying-goldfish"><span class="wiki-icon">🐠</span>空飛ぶ金魚にエサをやる</a> ・ <a href="#/ja/action/ride-flying-pig"><span class="wiki-icon">🐷</span>空飛ぶブタを乗りこなす</a> ・ <a href="#/ja/action/contract-nine-tailed-fox"><span class="wiki-icon">🦊</span>九尾の狐と契約する</a> ・ <a href="#/ja/action/chicken"><span class="wiki-icon">🐔</span>ニワトリ</a> ・ <a href="#/ja/action/pansy"><span class="wiki-icon">🐈</span>パンシー</a> ・ <a href="#/ja/action/earthworm"><span class="wiki-icon">🪱</span>ミミズ</a></div></div>
+<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">庭のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/play-with-chick"><span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）</a> ・ <a href="#/ja/action/feed-killifish"><span class="wiki-icon">🐟</span>メダカ</a> ・ <a href="#/ja/action/run-hamster"><span class="wiki-icon">🐹</span>ハム右衛門</a> ・ <a href="#/ja/action/pluck-walking-cactus-thorn"><span class="wiki-icon">🌵</span>歩くサボテン</a> ・ <a href="#/ja/action/care-for-chicken"><span class="wiki-icon">🐔</span>ピヨちゃん</a> ・ <a href="#/ja/action/bathe-duck"><span class="wiki-icon">🦆</span>醜いアヒル</a> ・ <a href="#/ja/action/cheer-up-underdog"><span class="wiki-icon">🐕</span>パブロフ</a> ・ <a href="#/ja/action/walk-turtle"><span class="wiki-icon">🐢</span>クッパ</a> ・ <a href="#/ja/action/talk-with-parroting-parrot"><span class="wiki-icon">🦜</span>オウム返しするオウム</a> ・ <a href="#/ja/action/take-out-jones"><span class="wiki-icon">🎩</span>ジョーンズ</a> ・ <a href="#/ja/action/pen-pen-fishing"><span class="wiki-icon">🐧</span>ペンペン</a> ・ <a href="#/ja/action/scout-with-r2d2"><span class="wiki-icon">🤖</span>R2D2</a> ・ <a href="#/ja/action/bathe-kero-chan"><span class="wiki-icon">🐸</span>ケロちゃん</a> ・ <a href="#/ja/action/play-with-flame-fox"><span class="wiki-icon">🦊</span>炎のキツネ</a> ・ <a href="#/ja/action/play-with-fire-bird"><span class="wiki-icon">🐦‍🔥</span>炎の鳥</a> ・ <a href="#/ja/action/ask-five-color-cat"><span class="wiki-icon">🐱</span>シュレーディンガー</a> ・ <a href="#/ja/action/feed-flying-goldfish"><span class="wiki-icon">🐠</span>空飛ぶ金魚</a> ・ <a href="#/ja/action/ride-flying-pig"><span class="wiki-icon">🐷</span>空飛ぶブタ</a> ・ <a href="#/ja/action/chicken"><span class="wiki-icon">🐔</span>ニワトリ</a> ・ <a href="#/ja/action/pansy"><span class="wiki-icon">🐈</span>パンシー</a> ・ <a href="#/ja/action/earthworm"><span class="wiki-icon">🪱</span>ミミズ</a></div></div>
 
 ## 開発者向け情報
 
@@ -50,12 +50,12 @@
 | id | `scout-with-r2d2` |
 | `category` | `garden` |
 | `attribute` | （空） |
-| `group` | `pet` |
+| `group` | `play` |
 | `unlocked` | `hidden` |
-| `level` | `31` |
-| `experience` | `729` |
+| `level` | `35` |
+| `experience` | `608` |
 | `seconds` | `21600` |
-| `chance` | `0.75` |
+| `chance` | `0.9` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 6 |
@@ -68,7 +68,7 @@
 {
 	"information": {
 		"id": "scout-with-r2d2",
-		"name": "R2D2に偵察させる",
+		"name": "R2D2",
 		"explanation": "行き先を伝えると勝手に帰ってくる。部品を落としながら。",
 		"icon": {
 			"emoji": "🤖",
@@ -79,12 +79,12 @@
 	},
 	"category": "garden",
 	"attribute": "",
-	"group": "pet",
+	"group": "play",
 	"unlocked": "hidden",
-	"level": 31,
-	"experience": 729,
+	"level": 35,
+	"experience": 608,
 	"seconds": 21600,
-	"chance": 0.75,
+	"chance": 0.9,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -106,13 +106,13 @@
 		{
 			"type": "item",
 			"id": "gear",
-			"count": 8,
+			"count": 7,
 			"chance": 1
 		},
 		{
 			"type": "item",
 			"id": "wire",
-			"count": 5,
+			"count": 4,
 			"chance": 1
 		}
 	],

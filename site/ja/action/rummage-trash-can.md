@@ -1,6 +1,6 @@
 # ゴミ箱あさり
 
-<div class="wiki-infobox" style="--accent:#b35a26"><div class="wiki-infobox-title">ゴミ箱あさり</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗑️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><span class="wiki-icon">🧺</span>収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv5</td></tr><tr><th>所要時間</th><td>30秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>18</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#856654"><div class="wiki-infobox-title">ゴミ箱あさり</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗑️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><span class="wiki-icon">🧺</span>収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv5</td></tr><tr><th>所要時間</th><td>30秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>18</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 誰かのゴミは誰かの宝。
 
@@ -20,9 +20,6 @@
 | [<span class="wiki-icon">🧻</span>トイレットペーパー](/ja/item/toilet-paper) ×5 | 成功時 | 56% | 1.4 | 168 |
 | [<span class="wiki-icon">🧽</span>雑巾](/ja/item/rag) ×5 | 成功時 | 56% | 1.4 | 168 |
 | [<span class="wiki-icon">🛍️</span>ビニール袋](/ja/item/plastic-bag) ×5 | 成功時 | 56% | 1.4 | 168 |
-| [<span class="wiki-icon">🍔</span>ハンバーガー](/ja/item/hamburger) ×2 | 成功時 | 57.6% | 0.576 | 69.1 |
-| [<span class="wiki-icon">🍰</span>ケーキ](/ja/item/cake) ×2 | 成功時 | 57.6% | 0.576 | 69.1 |
-| [<span class="wiki-icon">🥛</span>牛乳](/ja/item/milk) ×2 | 成功時 | 48% | 0.48 | 57.6 |
 | [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/item/potato) ×1 | 成功時 | 33.6% | 0.168 | 20.2 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
@@ -42,11 +39,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 8,238 | 0 | 8,238 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 3,987 | 0 | 3,987 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#b35a26"><div class="wiki-navbox-title">街のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/alley-search"><span class="wiki-icon">🔦</span>路地裏の探し物</a> ・ <a href="#/ja/action/midnight-street"><span class="wiki-icon">🌃</span>深夜の路上</a> ・ <a href="#/ja/action/rummage-trash-can"><span class="wiki-icon">🗑️</span>ゴミ箱あさり</a> ・ <a href="#/ja/action/cult-leader"><span class="wiki-icon">🙏</span>教祖</a> ・ <a href="#/ja/action/bandit"><span class="wiki-icon">🗡️</span>山賊</a> ・ <a href="#/ja/action/stray-dog-pack"><span class="wiki-icon">🐕</span>野良犬の群れ</a> ・ <a href="#/ja/action/shaman"><span class="wiki-icon">🧙</span>シャーマン</a> ・ <a href="#/ja/action/doppelganger"><span class="wiki-icon">👥</span>ドッペルゲンガー</a> ・ <a href="#/ja/action/gremlin"><span class="wiki-icon">👺</span>グレムリン</a> ・ <a href="#/ja/action/zombie"><span class="wiki-icon">🧟</span>ゾンビ</a> ・ <a href="#/ja/action/wizard"><span class="wiki-icon">🧙</span>魔法使い</a> ・ <a href="#/ja/action/thief"><span class="wiki-icon">🥷</span>盗賊</a> ・ <a href="#/ja/action/bounty-hunter"><span class="wiki-icon">🤠</span>賞金稼ぎ</a> ・ <a href="#/ja/action/sewer-rat"><span class="wiki-icon">🐀</span>ドブネズミ</a> ・ <a href="#/ja/action/condemned-building"><span class="wiki-icon">🏚️</span>取り壊し前の廃ビル</a> ・ <a href="#/ja/action/sewer-rumor"><span class="wiki-icon">🕳️</span>地下水路の噂</a> ・ <a href="#/ja/action/backstreet-informant"><span class="wiki-icon">🕵️</span>裏通りの情報屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#856654"><div class="wiki-navbox-title">街のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/alley-search"><span class="wiki-icon">🔦</span>路地裏の探し物</a> ・ <a href="#/ja/action/midnight-street"><span class="wiki-icon">🌃</span>深夜の路上</a> ・ <a href="#/ja/action/rummage-trash-can"><span class="wiki-icon">🗑️</span>ゴミ箱あさり</a> ・ <a href="#/ja/action/cult-leader"><span class="wiki-icon">🙏</span>教祖</a> ・ <a href="#/ja/action/bandit"><span class="wiki-icon">🗡️</span>山賊</a> ・ <a href="#/ja/action/stray-dog-pack"><span class="wiki-icon">🐕</span>野良犬の群れ</a> ・ <a href="#/ja/action/shaman"><span class="wiki-icon">🧙</span>シャーマン</a> ・ <a href="#/ja/action/doppelganger"><span class="wiki-icon">👥</span>ドッペルゲンガー</a> ・ <a href="#/ja/action/gremlin"><span class="wiki-icon">👺</span>グレムリン</a> ・ <a href="#/ja/action/zombie"><span class="wiki-icon">🧟</span>ゾンビ</a> ・ <a href="#/ja/action/wizard"><span class="wiki-icon">🧙</span>魔法使い</a> ・ <a href="#/ja/action/thief"><span class="wiki-icon">🥷</span>盗賊</a> ・ <a href="#/ja/action/bounty-hunter"><span class="wiki-icon">🤠</span>賞金稼ぎ</a> ・ <a href="#/ja/action/sewer-rat"><span class="wiki-icon">🐀</span>ドブネズミ</a> ・ <a href="#/ja/action/condemned-building"><span class="wiki-icon">🏚️</span>取り壊し前の廃ビル</a> ・ <a href="#/ja/action/sewer-rumor"><span class="wiki-icon">🕳️</span>地下水路の噂</a> ・ <a href="#/ja/action/backstreet-informant"><span class="wiki-icon">🕵️</span>裏通りの情報屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -122,24 +119,6 @@
 			"id": "plastic-bag",
 			"count": 5,
 			"chance": 0.56
-		},
-		{
-			"type": "item",
-			"id": "hamburger",
-			"count": 2,
-			"chance": 0.576
-		},
-		{
-			"type": "item",
-			"id": "cake",
-			"count": 2,
-			"chance": 0.576
-		},
-		{
-			"type": "item",
-			"id": "milk",
-			"count": 2,
-			"chance": 0.48
 		},
 		{
 			"type": "item",

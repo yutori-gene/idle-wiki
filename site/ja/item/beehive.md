@@ -1,6 +1,6 @@
 # ハチの巣
 
-<div class="wiki-infobox" style="--accent:#8c8577"><div class="wiki-infobox-title">ハチの巣</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐝</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/special"><span class="wiki-icon">💎</span>特別品</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>15 <a href="#/ja/item/treasure-medal"><span class="wiki-icon">🏅</span>秘宝メダル</a></td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>解放済み</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ハチの巣</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐝</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/special"><span class="wiki-icon">💎</span>特別品</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>15 <a href="#/ja/item/treasure-medal"><span class="wiki-icon">🏅</span>秘宝メダル</a></td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>解放済み</td></tr></table></div>
 
 > うっかり触ると大惨事。
 
@@ -11,7 +11,7 @@
 
 15 <a href="#/ja/item/treasure-medal"><span class="wiki-icon">🏅</span>秘宝メダル</a> で購入できる。
 
-<div class="wiki-navbox" style="--accent:#8c8577"><div class="wiki-navbox-title">グループ: 特別品</div><div class="wiki-navbox-body"><a href="#/ja/item/paper-plane"><span class="wiki-icon">✈️</span>紙飛行機</a> ・ <a href="#/ja/item/spray-bottle"><span class="wiki-icon">💦</span>霧吹き</a> ・ <a href="#/ja/item/apology-stone"><span class="wiki-icon">🙏</span>詫び石</a> ・ <a href="#/ja/item/beehive"><span class="wiki-icon">🐝</span>ハチの巣</a> ・ <a href="#/ja/item/youth"><span class="wiki-icon">🌸</span>青春</a> ・ <a href="#/ja/item/roach-trap"><span class="wiki-icon">🪳</span>ゴキブリホイホイ</a> ・ <a href="#/ja/item/correction-fluid"><span class="wiki-icon">🖊️</span>修正液</a> ・ <a href="#/ja/item/forbidden-button"><span class="wiki-icon">🔴</span>絶対に押しては行けないボタン</a> ・ <a href="#/ja/item/synthetic-diamond-tiara"><span class="wiki-icon">👑</span>人工ダイアモンドのティアラ</a></div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 特別品</div><div class="wiki-navbox-body"><a href="#/ja/item/paper-plane"><span class="wiki-icon">✈️</span>紙飛行機</a> ・ <a href="#/ja/item/spray-bottle"><span class="wiki-icon">💦</span>霧吹き</a> ・ <a href="#/ja/item/apology-stone"><span class="wiki-icon">🙏</span>詫び石</a> ・ <a href="#/ja/item/beehive"><span class="wiki-icon">🐝</span>ハチの巣</a> ・ <a href="#/ja/item/youth"><span class="wiki-icon">🌸</span>青春</a> ・ <a href="#/ja/item/roach-trap"><span class="wiki-icon">🪳</span>ゴキブリホイホイ</a> ・ <a href="#/ja/item/correction-fluid"><span class="wiki-icon">🖊️</span>修正液</a> ・ <a href="#/ja/item/forbidden-button"><span class="wiki-icon">🔴</span>絶対に押しては行けないボタン</a> ・ <a href="#/ja/item/synthetic-diamond-tiara"><span class="wiki-icon">👑</span>人工ダイアモンドのティアラ</a></div></div>
 
 ## 開発者向け情報
 

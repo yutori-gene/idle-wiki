@@ -5,7 +5,9 @@ equipment,装備管理,🛠️,category
 tutorial,チュートリアル,🔰,event
 story,ストーリー,📜,event
 request,依頼,📋,event
-pet,ペット,🐾,"action,item"
+pet,ペット,🐾,item
+play,遊ぶ,🎾,action
+discipline,しつけ,🦴,action
 gather,収集,🧺,action
 hunt,討伐,⚔️,action
 explore,探索,🔦,action
@@ -21,10 +23,6 @@ produce,生産,🏭,action
 craft,製作,🔨,action
 event,イベント,🎬,action
 seedling,種苗,🌰,item
-mixing,混ぜ,🥣,item
-stir-frying,炒め,🍳,item
-stewing,煮込み,🍲,item
-steaming,蒸し,♨️,item
 crushing,粉砕,⚒️,item
 distilling,蒸留,🧫,item
 melting,溶解,🧫,item

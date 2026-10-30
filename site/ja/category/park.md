@@ -1,6 +1,6 @@
 # 公園
 
-<div class="wiki-infobox" style="--accent:#6f9c2e"><div class="wiki-infobox-title">公園</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌳</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>13本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>解放済み</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#697852"><div class="wiki-infobox-title">公園</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌳</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>13本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>解放済み</td></tr></table></div>
 
 **1番目のダンジョン**（難易度 ★☆☆☆☆・ほのぼの・日常）。収集は植物・石、討伐は小動物・スライム、探索はベンチ・茂みが中心。
 
@@ -20,12 +20,12 @@
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍂</span>落ち葉拾い](/ja/action/gather-fallen-leaves) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 10秒 | 50% | 1,080 |  | [<span class="wiki-icon">🪨</span>小石](/ja/item/pebble)×7 (91%)<br>[<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn)×5 (56%)<br>[<span class="wiki-icon">📄</span>紙](/ja/item/paper)×5 (56%)<br>[<span class="wiki-icon">🪵</span>木の棒](/ja/item/wooden-stick) (21.6%)<br>[<span class="wiki-icon">🧤</span>布の手袋](/ja/item/cloth-gloves) (21.6%)<br>[<span class="wiki-icon">🍂</span>落ち葉](/ja/item/fallen-leaf)×7 (91%)<br>[<span class="wiki-icon">🌿</span>雑草](/ja/item/weed)×5 (56%)<br>[<span class="wiki-icon">🪑</span>ベンチ](/ja/item/bench) (8.64%)<br>[<span class="wiki-icon">🎢</span>ブランコ](/ja/item/swing) (10.4%)<br>[<span class="wiki-icon">🛝</span>すべり台](/ja/item/slide) (10.4%) |
-| [<span class="wiki-icon">🧹</span>清掃活動](/ja/action/cleanup-activity) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 10秒 | 50% | 1,080 |  | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard)×7 (16%)<br>[<span class="wiki-icon">🫧</span>バブルワンド](/ja/item/bubble-wand) (8.64%)<br>[<span class="wiki-icon">🌼</span>タンポポ](/ja/item/dandelion)×5 (16%)<br>[<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass) (6%)<br>[<span class="wiki-icon">🪵</span>枝](/ja/item/branch) (21.6%)<br>[<span class="wiki-icon">🥫</span>空き缶](/ja/item/empty-can)×5 (56%)<br>[<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) (10.4%)<br>[<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) (21.6%)<br>[<span class="wiki-icon">🫧</span>シャボン玉](/ja/item/soap-bubble)×2 (21.6%)<br>[<span class="wiki-icon">🥤</span>炭酸ジュース](/ja/item/carbonated-juice)×2 (25.9%) |
-| [<span class="wiki-icon">🏖️</span>砂場掘り](/ja/action/dig-sandbox) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv5 | 10秒 | 50% | 1,080 |  | [<span class="wiki-icon">🪨</span>小石](/ja/item/pebble)×7 (91%)<br>[<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) (21.6%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×3<br>[<span class="wiki-icon">🧦</span>臭う靴下](/ja/item/smelly-socks) (21.6%)<br>[<span class="wiki-icon">🪏</span>シャベル](/ja/item/shovel) (18%)<br>[<span class="wiki-icon">🪨</span>石ころ](/ja/item/stone)×7 (91%)<br>[<span class="wiki-icon">🍬</span>綿あめ](/ja/item/cotton-candy)×2 (25.9%)<br>[<span class="wiki-icon">🍧</span>アイスキャンディー](/ja/item/ice-pop)×2 (25.9%)<br>[<span class="wiki-icon">🎈</span>水風船](/ja/item/water-balloon)×3 (48%)<br>[<span class="wiki-icon">🎖️</span>ピンバッジ](/ja/item/pin-badge)×3 (48%) |
-| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1.8秒 | 50% | 134 |  | [<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar) (6.91%)<br>[<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) (2.88%)<br>[<span class="wiki-icon">🕸️</span>クモの糸](/ja/item/spider-thread) (0.062%)<br>[<span class="wiki-icon">🪵</span>枝](/ja/item/branch) (2.88%)<br>[<span class="wiki-icon">🪶</span>鳥の羽根](/ja/item/bird-feather) (3.46%)<br>[<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) (0.036%) |
+| [<span class="wiki-icon">🧹</span>清掃活動](/ja/action/cleanup-activity) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 10秒 | 50% | 1,080 |  | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard)×7 (16%)<br>[<span class="wiki-icon">🫧</span>バブルワンド](/ja/item/bubble-wand) (8.64%)<br>[<span class="wiki-icon">🌼</span>タンポポ](/ja/item/dandelion)×5 (16%)<br>[<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass) (6%)<br>[<span class="wiki-icon">🪵</span>枝](/ja/item/branch) (21.6%)<br>[<span class="wiki-icon">🥫</span>空き缶](/ja/item/empty-can)×5 (56%)<br>[<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) (10.4%)<br>[<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) (21.6%)<br>[<span class="wiki-icon">🫧</span>シャボン玉](/ja/item/soap-bubble)×2 (21.6%) |
+| [<span class="wiki-icon">🏖️</span>砂場掘り](/ja/action/dig-sandbox) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv5 | 10秒 | 50% | 1,080 |  | [<span class="wiki-icon">🪨</span>小石](/ja/item/pebble)×7 (91%)<br>[<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) (21.6%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×3<br>[<span class="wiki-icon">🧦</span>臭う靴下](/ja/item/smelly-socks) (21.6%)<br>[<span class="wiki-icon">🪏</span>シャベル](/ja/item/shovel) (18%)<br>[<span class="wiki-icon">🪨</span>石ころ](/ja/item/stone)×7 (91%)<br>[<span class="wiki-icon">🎈</span>水風船](/ja/item/water-balloon)×3 (48%)<br>[<span class="wiki-icon">🎖️</span>ピンバッジ](/ja/item/pin-badge)×3 (48%) |
+| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1.8秒 | 50% | 134 |  | [<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar) (6.91%)<br>[<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) (2.88%)<br>[<span class="wiki-icon">🕸️</span>クモの糸](/ja/item/spider-thread) (0.062%)<br>[<span class="wiki-icon">🪵</span>枝](/ja/item/branch) (2.88%)<br>[<span class="wiki-icon">🪶</span>鳥の羽根](/ja/item/bird-feather) (3.46%)<br>[<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) (0.036%) |
 | [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 2.2秒 | 50% | 100 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) (3.67%) | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) (36.7%)<br>[<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) (0.076%)<br>[<span class="wiki-icon">🔇</span>耳栓](/ja/item/earplug) (0.317%)<br>[<span class="wiki-icon">🧮</span>電卓](/ja/item/calculator) (0.044%)<br>[<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) (3.52%)<br>[<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) (3.52%)<br>[<span class="wiki-icon">🥚</span>卵](/ja/item/egg) (8.45%)<br>[<span class="wiki-icon">🍩</span>食べられる指輪](/ja/item/edible-ring) (8.45%)<br>[<span class="wiki-icon">👛</span>財布](/ja/item/wallet) (0.317%)<br>[<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) (3.67%) |
 | [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv6 | 1.7秒 | 50% | 134 | [<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) (2.83%) | [<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) (6.53%)<br>[<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) (0.53%)<br>[<span class="wiki-icon">🐕</span>犬の首輪](/ja/item/dog-collar) (0.53%)<br>[<span class="wiki-icon">🪢</span>ロープ](/ja/item/rope) (15.9%)<br>[<span class="wiki-icon">🍲</span>鍋かぶと](/ja/item/pot-helmet) (2.72%) |
-| [<span class="wiki-icon">🌷</span>花壇の手入れ](/ja/action/tend-flower-bed) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv7 | 10秒 | 50% | 1,080 |  | [<span class="wiki-icon">🍀</span>四つ葉のクローバー](/ja/item/four-leaf-clover)×7 (91%)<br>[<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar) (21.6%)<br>[<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) (33.6%)<br>[<span class="wiki-icon">🌱</span>ネギ](/ja/item/green-onion) (8.64%)<br>[<span class="wiki-icon">🧤</span>ミトン](/ja/item/mitten) (21.6%)<br>[<span class="wiki-icon">⛏️</span>クワ](/ja/item/hoe) (18%)<br>[<span class="wiki-icon">✂️</span>ハサミ](/ja/item/scissors) (18%)<br>[<span class="wiki-icon">🍋</span>レモン](/ja/item/lemon)×3 (40%)<br>[<span class="wiki-icon">🍊</span>ミカン](/ja/item/mandarin)×3 (48%)<br>[<span class="wiki-icon">🍇</span>ぶどう](/ja/item/grape)×3 (48%) |
+| [<span class="wiki-icon">🌷</span>花壇の手入れ](/ja/action/tend-flower-bed) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv7 | 10秒 | 50% | 1,080 |  | [<span class="wiki-icon">🍀</span>四つ葉のクローバー](/ja/item/four-leaf-clover)×7 (91%)<br>[<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar) (21.6%)<br>[<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) (33.6%)<br>[<span class="wiki-icon">🌱</span>ネギ](/ja/item/green-onion) (8.64%)<br>[<span class="wiki-icon">🧤</span>ミトン](/ja/item/mitten) (21.6%)<br>[<span class="wiki-icon">⛏️</span>クワ](/ja/item/hoe) (18%)<br>[<span class="wiki-icon">✂️</span>ハサミ](/ja/item/scissors) (18%)<br>[<span class="wiki-icon">🍋</span>レモン](/ja/item/lemon)×3 (40%) |
 | [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv7 | 1.8秒 | 50% | 134 | [<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn)×5 (3%) | [<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar) (6.91%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (24%)<br>[<span class="wiki-icon">🐝</span>ハチ](/ja/item/bee) (3.46%)<br>[<span class="wiki-icon">💐</span>花束](/ja/item/bouquet) (3.46%) |
 | [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv7 | 2.4秒 | 50% | 134 |  | [<span class="wiki-icon">🐌</span>カタツムリ](/ja/item/snail) (0.552%)<br>[<span class="wiki-icon">🌼</span>タンポポ](/ja/item/dandelion) (28%)<br>[<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) (0.043%)<br>[<span class="wiki-icon">🎃</span>カボチャ](/ja/item/pumpkin) (4%) |
 | [<span class="wiki-icon">🌳</span>茂みの奥](/ja/action/deep-in-the-bushes) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 30分 | 100% | 1,030 |  | [<span class="wiki-icon">🎨</span>美術書](/ja/item/art-book)<br>[<span class="wiki-icon">🛍️</span>エコバッグ](/ja/item/eco-bag)<br>[<span class="wiki-icon">🌰</span>金のドングリ](/ja/item/golden-acorn) (24.9%)<br>[<span class="wiki-icon">🧔</span>つけ髭](/ja/item/fake-beard)×3<br>[<span class="wiki-icon">👛</span>財布](/ja/item/wallet) (50.1%)<br>[<span class="wiki-icon">🌰</span>どんぐりショット](/ja/item/acorn-shot)×3<br>[<span class="wiki-icon">🍀</span>1葉のクローバー](/ja/item/one-leaf-clover)×3<br>[<span class="wiki-icon">✨</span>ホタル](/ja/item/firefly)×3 |
@@ -43,7 +43,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">💭</span>想像力](/ja/item/imagination) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（79種）</summary>
+<details><summary>全カテゴリに効くアイテム（78種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -54,25 +54,24 @@
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐕</span>負け犬](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🦆</span>アヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐱</span>五毛猫](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🌙</span>ルナ](/ja/item/luna) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🦊</span>九尾の狐](/ja/item/nine-tailed-fox) | 装備不要 |  |  |  |  |  |  | +5 |  |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
@@ -135,9 +134,9 @@
 
 | レベル | 累計経験値 | 開くもの |
 | --- | --- | --- |
-| Lv1 | 0 | [<span class="wiki-icon">🍂</span>落ち葉拾い](/ja/action/gather-fallen-leaves)（実行）<br>[<span class="wiki-icon">🍊</span>ミカン](/ja/item/mandarin)（解放）<br>[<span class="wiki-icon">🍧</span>アイスキャンディー](/ja/item/ice-pop)（解放）<br>[<span class="wiki-icon">💊</span>メントス](/ja/item/mentos)（解放）<br>[<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine)（解放） |
-| Lv2 | 100 | [<span class="wiki-icon">🍚</span>砂糖](/ja/item/sugar)（解放）<br>[<span class="wiki-icon">🪵</span>枝](/ja/item/branch)（解放）<br>[<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat)（解放）<br>[<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom)（解放）<br>[<span class="wiki-icon">🥤</span>炭酸ジュース](/ja/item/carbonated-juice)（解放）<br>[<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop)（解放）<br>[<span class="wiki-icon">🚶</span>序章・旅立ち](/ja/event/prologue-departure)（達成条件） |
-| Lv3 | 211 | [<span class="wiki-icon">🧹</span>清掃活動](/ja/action/cleanup-activity)（実行）<br>[<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net)（解放）<br>[<span class="wiki-icon">🍇</span>ぶどう](/ja/item/grape)（解放）<br>[<span class="wiki-icon">🍬</span>綿あめ](/ja/item/cotton-candy)（解放）<br>[<span class="wiki-icon">🛒</span>買い物をしてみよう](/ja/event/try-shopping)（達成条件） |
+| Lv1 | 0 | [<span class="wiki-icon">🍂</span>落ち葉拾い](/ja/action/gather-fallen-leaves)（実行）<br>[<span class="wiki-icon">💊</span>メントス](/ja/item/mentos)（解放）<br>[<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine)（解放） |
+| Lv2 | 100 | [<span class="wiki-icon">🍚</span>砂糖](/ja/item/sugar)（解放）<br>[<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop)（解放）<br>[<span class="wiki-icon">🪵</span>枝](/ja/item/branch)（解放）<br>[<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat)（解放）<br>[<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom)（解放）<br>[<span class="wiki-icon">🚶</span>序章・旅立ち](/ja/event/prologue-departure)（達成条件） |
+| Lv3 | 211 | [<span class="wiki-icon">🧹</span>清掃活動](/ja/action/cleanup-activity)（実行）<br>[<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net)（解放）<br>[<span class="wiki-icon">🛒</span>買い物をしてみよう](/ja/event/try-shopping)（達成条件） |
 | Lv4 | 334 | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse)（解放）<br>[<span class="wiki-icon">📦</span>倉庫を整理しよう](/ja/event/organize-warehouse)（達成条件） |
 | Lv5 | 471 | [<span class="wiki-icon">🏖️</span>砂場掘り](/ja/action/dig-sandbox)（実行） |
 | Lv6 | 623 | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon)（解放）<br>[<span class="wiki-icon">🗡️</span>装備を使ってみよう](/ja/event/try-equipment)（達成条件）<br>[<span class="wiki-icon">⚔️</span>近接武器を試そう](/ja/event/try-melee-weapon)（達成条件） |
@@ -152,7 +151,7 @@
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#6f9c2e"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
+<div class="wiki-navbox" style="--accent:#697852"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
 
 ## 開発者向け情報
 
@@ -495,7 +494,7 @@ Step 3-A2 の「供給待ちは Step 3 を一周してからまとめて割り�
 			"iconify": "",
 			"image": ""
 		},
-		"color": "#6f9c2e"
+		"color": "#697852"
 	},
 	"group": "dungeon",
 	"unlocked": "released",

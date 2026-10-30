@@ -1,6 +1,6 @@
 # 蒸籠
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">蒸籠</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥟</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/steaming"><span class="wiki-icon">♨️</span>蒸し</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">蒸籠</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥟</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 湯気で料理を優しく仕上げる。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥟</span>蒸籠を買う](/ja/action/buy-steamer) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 1 | 100% | 1 | 36,000 |
+| [<span class="wiki-icon">🥟</span>蒸籠を買う](/ja/action/buy-steamer) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -19,11 +19,10 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥟</span>蒸籠](/ja/item/steamer) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🥗</span>蒸し野菜](/ja/action/cook-steamed-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥟</span>蒸籠](/ja/item/steamer) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥟</span>蒸籠](/ja/item/steamer) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥟</span>蒸籠](/ja/item/steamer) ×1（消費しない） |
+| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🥟</span>蒸籠](/ja/item/steamer) ×1（消費しない） |
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 蒸し</div><div class="wiki-navbox-body"><a href="#/ja/item/steamer"><span class="wiki-icon">🥟</span>蒸籠</a></div></div>
+<div class="wiki-navbox" style="--accent:#9b7d61"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">49件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -31,13 +30,13 @@
 | --- | --- |
 | id | `steamer` |
 | `category` | `kitchen` |
-| `group` | `steaming` |
+| `group` | `tool` |
 | `unlocked` | `hidden` |
 | `buyingValue` | `0` |
 | `sellingValue` | `0` |
 | `coinId` | （空） |
 | `maximum` | `1` |
-| `equipmentType` | `necessary` |
+| `equipmentType` | `unnecessary` |
 | `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
@@ -61,13 +60,13 @@
 		"color": ""
 	},
 	"category": "kitchen",
-	"group": "steaming",
+	"group": "tool",
 	"unlocked": "hidden",
 	"buyingValue": 0,
 	"sellingValue": 0,
 	"coinId": "",
 	"maximum": 1,
-	"equipmentType": "necessary",
+	"equipmentType": "unnecessary",
 	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],

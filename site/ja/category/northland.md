@@ -1,6 +1,6 @@
 # 北国
 
-<div class="wiki-infobox" style="--accent:#48a0b5"><div class="wiki-infobox-title">北国</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">❄️</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6b8a92"><div class="wiki-infobox-title">北国</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">❄️</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **5番目のダンジョン**（難易度 ★★★☆☆・静謐・幻想）。収集は氷・毛皮・薬草、討伐は雪獣・氷系、探索は雪原の遺跡が中心。
 
@@ -38,7 +38,7 @@
 | [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.4秒 | 50% | 1 | [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) (1.13%) | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (2.61%)<br>[<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) (0.212%)<br>[<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) (0.098%) |
 | [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2秒 | 50% | 10 |  | [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) (0.768%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.64%)<br>[<span class="wiki-icon">🪵</span>枝](/ja/item/branch) (0.64%)<br>[<span class="wiki-icon">❄️</span>凍土の根](/ja/item/frozen-soil-root) (0.15%)<br>[<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) (0.014%) |
 | [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.5秒 | 50% | 1 |  | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (7.84%)<br>[<span class="wiki-icon">🌌</span>極光石](/ja/item/auroral-stone) (0.262%)<br>[<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) (0.218%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.101%) |
-| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2.2秒 | 50% | 10 | [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod) (0.733%) | [<span class="wiki-icon">🐻‍❄️</span>白い毛皮](/ja/item/white-fur) (4.11%)<br>[<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマの爪](/ja/item/polar-bear-claw) (1.69%)<br>[<span class="wiki-icon">🐟</span>鮭](/ja/item/salmon) (0.704%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.704%)<br>[<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) (0.009%)<br>[<span class="wiki-icon">🐾</span>雪男の足跡](/ja/item/yeti-track) (0.266%) |
+| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2.2秒 | 50% | 10 | [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod) (0.733%) | [<span class="wiki-icon">🐻‍❄️</span>白い毛皮](/ja/item/white-fur) (4.11%)<br>[<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマの爪](/ja/item/polar-bear-claw) (1.69%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.704%)<br>[<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) (0.009%)<br>[<span class="wiki-icon">🐾</span>雪男の足跡](/ja/item/yeti-track) (0.266%) |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -50,7 +50,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">💪</span>自信](/ja/item/confidence) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（79種）</summary>
+<details><summary>全カテゴリに効くアイテム（78種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -61,25 +61,24 @@
 | [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ヒヨコ](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐹</span>ハムスター](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐕</span>負け犬](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🦆</span>アヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐢</span>カメ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐱</span>五毛猫](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🌙</span>ルナ](/ja/item/luna) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🦊</span>九尾の狐](/ja/item/nine-tailed-fox) | 装備不要 |  |  |  |  |  |  | +5 |  |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
@@ -145,12 +144,12 @@
 | Lv1 | 0 | [<span class="wiki-icon">🏛️</span>雪原の遺跡](/ja/action/snowfield-ruins)（実行） |
 | Lv3 | 211 | [<span class="wiki-icon">🧊</span>凍った湖畔](/ja/action/frozen-lakeside)（実行） |
 | Lv8 | 978 | [<span class="wiki-icon">🐉</span>竜の巣穴](/ja/action/dragon-den)（実行）<br>[<span class="wiki-icon">🥕</span>大根](/ja/item/daikon)（解放）<br>[<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack)（解放） |
-| Lv10 | 1,416 | [<span class="wiki-icon">🐟</span>鮭](/ja/item/salmon)（解放）<br>[<span class="wiki-icon">🐟</span>タラ](/ja/item/cod)（解放）<br>[<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage)（解放）<br>[<span class="wiki-icon">🫐</span>凍結ベリー](/ja/item/frozen-berry)（解放）<br>[<span class="wiki-icon">🧊</span>氷結の試練](/ja/event/frozen-trial)（達成条件） |
+| Lv10 | 1,416 | [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod)（解放）<br>[<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage)（解放）<br>[<span class="wiki-icon">🫐</span>凍結ベリー](/ja/item/frozen-berry)（解放）<br>[<span class="wiki-icon">🧊</span>氷結の試練](/ja/event/frozen-trial)（達成条件） |
 | Lv20 | 5,694 | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory)（解放）<br>[<span class="wiki-icon">👸</span>北国の女王](/ja/event/northland-queen)（達成条件） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#48a0b5"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
+<div class="wiki-navbox" style="--accent:#6b8a92"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
 
 ## 開発者向け情報
 
@@ -596,7 +595,7 @@ Step 3-A2 の「供給待ちは Step 3 を一周してからまとめて割り�
 			"iconify": "",
 			"image": ""
 		},
-		"color": "#48a0b5"
+		"color": "#6b8a92"
 	},
 	"group": "dungeon",
 	"unlocked": "hinted",

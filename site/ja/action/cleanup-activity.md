@@ -1,6 +1,6 @@
 # 清掃活動
 
-<div class="wiki-infobox" style="--accent:#6f9c2e"><div class="wiki-infobox-title">清掃活動</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧹</span></div><table><tr><th>場所</th><td><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><span class="wiki-icon">🧺</span>収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv3</td></tr><tr><th>所要時間</th><td>10秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>6</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#697852"><div class="wiki-infobox-title">清掃活動</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧹</span></div><table><tr><th>場所</th><td><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><span class="wiki-icon">🧺</span>収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv3</td></tr><tr><th>所要時間</th><td>10秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>6</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 
 **連続**: 時間で進み、止めるまで繰り返す。オフライン中も進む。
@@ -22,7 +22,6 @@
 | [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) ×1 | 成功時 | 10.4% | 0.052 | 18.7 |
 | [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
 | [<span class="wiki-icon">🫧</span>シャボン玉](/ja/item/soap-bubble) ×2 | 成功時 | 21.6% | 0.216 | 77.8 |
-| [<span class="wiki-icon">🥤</span>炭酸ジュース](/ja/item/carbonated-juice) ×2 | 成功時 | 25.9% | 0.259 | 93.2 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,11 +40,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 6,587 | 0 | 6,587 |
+| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 5,748 | 0 | 5,748 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6f9c2e"><div class="wiki-navbox-title">公園のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-fallen-leaves"><span class="wiki-icon">🍂</span>落ち葉拾い</a> ・ <a href="#/ja/action/cleanup-activity"><span class="wiki-icon">🧹</span>清掃活動</a> ・ <a href="#/ja/action/dig-sandbox"><span class="wiki-icon">🏖️</span>砂場掘り</a> ・ <a href="#/ja/action/tend-flower-bed"><span class="wiki-icon">🌷</span>花壇の手入れ</a> ・ <a href="#/ja/action/pond-side"><span class="wiki-icon">🪷</span>池のほとり</a> ・ <a href="#/ja/action/giant-spider"><span class="wiki-icon">🕷️</span>巨大なクモ</a> ・ <a href="#/ja/action/shut-in-guard"><span class="wiki-icon">🏠</span>自宅警備員</a> ・ <a href="#/ja/action/pavlovs-dog"><span class="wiki-icon">🐕</span>パブロフの犬</a> ・ <a href="#/ja/action/beetle"><span class="wiki-icon">🪲</span>カブトムシ</a> ・ <a href="#/ja/action/snail"><span class="wiki-icon">🐌</span>カタツムリ</a> ・ <a href="#/ja/action/deep-in-the-bushes"><span class="wiki-icon">🌳</span>茂みの奥</a> ・ <a href="#/ja/action/twilight-promenade"><span class="wiki-icon">🌇</span>夕暮れの散歩道</a> ・ <a href="#/ja/action/boathouse"><span class="wiki-icon">🛶</span>ボート小屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#697852"><div class="wiki-navbox-title">公園のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-fallen-leaves"><span class="wiki-icon">🍂</span>落ち葉拾い</a> ・ <a href="#/ja/action/cleanup-activity"><span class="wiki-icon">🧹</span>清掃活動</a> ・ <a href="#/ja/action/dig-sandbox"><span class="wiki-icon">🏖️</span>砂場掘り</a> ・ <a href="#/ja/action/tend-flower-bed"><span class="wiki-icon">🌷</span>花壇の手入れ</a> ・ <a href="#/ja/action/pond-side"><span class="wiki-icon">🪷</span>池のほとり</a> ・ <a href="#/ja/action/giant-spider"><span class="wiki-icon">🕷️</span>巨大なクモ</a> ・ <a href="#/ja/action/shut-in-guard"><span class="wiki-icon">🏠</span>自宅警備員</a> ・ <a href="#/ja/action/pavlovs-dog"><span class="wiki-icon">🐕</span>パブロフの犬</a> ・ <a href="#/ja/action/beetle"><span class="wiki-icon">🪲</span>カブトムシ</a> ・ <a href="#/ja/action/snail"><span class="wiki-icon">🐌</span>カタツムリ</a> ・ <a href="#/ja/action/deep-in-the-bushes"><span class="wiki-icon">🌳</span>茂みの奥</a> ・ <a href="#/ja/action/twilight-promenade"><span class="wiki-icon">🌇</span>夕暮れの散歩道</a> ・ <a href="#/ja/action/boathouse"><span class="wiki-icon">🛶</span>ボート小屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -145,12 +144,6 @@
 			"id": "soap-bubble",
 			"count": 2,
 			"chance": 0.216
-		},
-		{
-			"type": "item",
-			"id": "carbonated-juice",
-			"count": 2,
-			"chance": 0.259
 		}
 	],
 	"progressType": "persistent",

@@ -1,6 +1,6 @@
 # 仙豆
 
-<div class="wiki-infobox" style="--accent:#d07c2c"><div class="wiki-infobox-title">仙豆</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🫘</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cooking"><span class="wiki-icon">🍽️</span>料理</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>65,610 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">仙豆</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🫘</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cooking"><span class="wiki-icon">🍽️</span>料理</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>65,610 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 食べると回復して腹も満たされる（1粒で10日分）。完全食の元祖。
 
@@ -17,9 +17,9 @@
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv47以上
+- [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv50以上
 
-<div class="wiki-navbox" style="--accent:#d07c2c"><div class="wiki-navbox-title">グループ: 料理</div><div class="wiki-navbox-body"><a href="#/ja/item/candy"><span class="wiki-icon">🍬</span>飴</a> ・ <a href="#/ja/item/french-toast"><span class="wiki-icon">🍞</span>フレンチトースト</a> ・ <a href="#/ja/item/potion-bread"><span class="wiki-icon">🍞</span>ポーション入りパン</a> ・ <a href="#/ja/item/yakitori"><span class="wiki-icon">🍗</span>焼き鳥</a> ・ <a href="#/ja/item/fried-egg"><span class="wiki-icon">🍳</span>目玉焼き</a> ・ <a href="#/ja/item/tomato-egg-drop"><span class="wiki-icon">🍅</span>トマトの卵とじ</a> ・ <a href="#/ja/item/potato-salad"><span class="wiki-icon">🥗</span>ポテトサラダ</a> ・ <a href="#/ja/item/meat-bun"><span class="wiki-icon">🥟</span>肉まん</a> ・ <a href="#/ja/item/escargot"><span class="wiki-icon">🐌</span>エスカルゴ</a> ・ <a href="#/ja/item/sardine-confit"><span class="wiki-icon">🐟</span>イワシのコンフィ〜芳醇ガーリック〜</a> ・ <a href="#/ja/item/stir-fried-vegetables"><span class="wiki-icon">🥘</span>野菜炒め</a> ・ <a href="#/ja/item/steak"><span class="wiki-icon">🥩</span>ステーキ</a> ・ <a href="#/ja/item/meat-bun-tomato-stew"><span class="wiki-icon">🥟</span>肉まんのトマト煮</a> ・ <a href="#/ja/item/grilled-fish"><span class="wiki-icon">🐟</span>焼き魚</a> ・ <a href="#/ja/item/beef-jerky"><span class="wiki-icon">🥩</span>ビーフジャーキー</a> ・ <a href="#/ja/item/pizza"><span class="wiki-icon">🍕</span>ピザ</a> ・ <a href="#/ja/item/burning-tofu"><span class="wiki-icon">🔥</span>燃える豆腐</a> ・ <a href="#/ja/item/rice-ball"><span class="wiki-icon">🍙</span>おにぎり</a> ・ <a href="#/ja/item/cooked-rice"><span class="wiki-icon">🍚</span>ごはん</a> ・ <a href="#/ja/item/steamed-vegetables"><span class="wiki-icon">🥗</span>蒸し野菜</a> ・ <a href="#/ja/item/omelette"><span class="wiki-icon">🍳</span>オムレツ</a> ・ <a href="#/ja/item/curry-rice"><span class="wiki-icon">🍛</span>カレーライス</a> ・ <a href="#/ja/item/sushi"><span class="wiki-icon">🍣</span>寿司</a> ・ <a href="#/ja/item/organic-salad"><span class="wiki-icon">🥗</span>オーガニックサラダ</a> ・ <a href="#/ja/item/bitter-dango"><span class="wiki-icon">🍡</span>苦い団子</a> ・ <a href="#/ja/item/senzu-bean"><span class="wiki-icon">🫘</span>仙豆</a></div></div>
+<div class="wiki-navbox" style="--accent:#9b7d61"><div class="wiki-navbox-title">グループ: 料理</div><div class="wiki-navbox-body"><a href="#/ja/item/candy"><span class="wiki-icon">🍬</span>飴</a> ・ <a href="#/ja/item/potion-bread"><span class="wiki-icon">🍞</span>ポーション入りパン</a> ・ <a href="#/ja/item/yakitori"><span class="wiki-icon">🍗</span>焼き鳥</a> ・ <a href="#/ja/item/meat-bun"><span class="wiki-icon">🥟</span>肉まん</a> ・ <a href="#/ja/item/escargot"><span class="wiki-icon">🐌</span>エスカルゴ</a> ・ <a href="#/ja/item/stir-fried-vegetables"><span class="wiki-icon">🥘</span>野菜炒め</a> ・ <a href="#/ja/item/meat-bun-tomato-stew"><span class="wiki-icon">🥟</span>肉まんのトマト煮</a> ・ <a href="#/ja/item/grilled-fish"><span class="wiki-icon">🐟</span>焼き魚</a> ・ <a href="#/ja/item/beef-jerky"><span class="wiki-icon">🥩</span>ビーフジャーキー</a> ・ <a href="#/ja/item/burning-tofu"><span class="wiki-icon">🔥</span>燃える豆腐</a> ・ <a href="#/ja/item/bitter-dango"><span class="wiki-icon">🍡</span>苦い団子</a> ・ <a href="#/ja/item/senzu-bean"><span class="wiki-icon">🫘</span>仙豆</a></div></div>
 
 ## 開発者向け情報
 
@@ -69,7 +69,7 @@
 		{
 			"type": "category",
 			"id": "kitchen",
-			"count": 47,
+			"count": 50,
 			"chance": 1,
 			"equipment": false
 		}

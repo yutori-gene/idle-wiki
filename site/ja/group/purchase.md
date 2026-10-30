@@ -8,9 +8,9 @@
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍲</span>鍋を買う](/ja/action/buy-pot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 単発 |
-| [<span class="wiki-icon">🍳</span>フライパンを買う](/ja/action/buy-frying-pan) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv3 | 単発 |
-| [<span class="wiki-icon">🥣</span>ボウルを買う](/ja/action/buy-bowl) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv4 | 単発 |
-| [<span class="wiki-icon">🥟</span>蒸籠を買う](/ja/action/buy-steamer) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv17 | 単発 |
+| [<span class="wiki-icon">🥣</span>ボウルを買う](/ja/action/buy-bowl) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv5 | 単発 |
+| [<span class="wiki-icon">🍳</span>フライパンを買う](/ja/action/buy-frying-pan) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 単発 |
+| [<span class="wiki-icon">🥟</span>蒸籠を買う](/ja/action/buy-steamer) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 単発 |
 | [<span class="wiki-icon">🥣</span>すり鉢を買う](/ja/action/buy-mortar) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 単発 |
 | [<span class="wiki-icon">⚗️</span>蒸留器を買う](/ja/action/buy-still) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv7 | 単発 |
 | [<span class="wiki-icon">⚗️</span>るつぼを買う](/ja/action/buy-crucible) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 単発 |

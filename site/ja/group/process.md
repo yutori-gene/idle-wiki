@@ -1,17 +1,14 @@
 # 加工
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">加工</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔧</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>5本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">加工</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔧</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>2本</td></tr></table></div>
 
 
 ## アクション
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv6 | 連続 |
-| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv19 | 連続 |
-| [<span class="wiki-icon">🧀</span>チーズを作る](/ja/action/craft-cheese) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv21 | 連続 |
-| [<span class="wiki-icon">🥫</span>マヨネーズを作る](/ja/action/craft-mayonnaise) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv22 | 連続 |
-| [<span class="wiki-icon">🐟</span>軍用イワシ](/ja/action/make-military-sardine) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv30 | 連続 |
+| [<span class="wiki-icon">🍞</span>パンを焼く](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 連続 |
+| [<span class="wiki-icon">🍞</span>パン生地をこねる](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 連続 |
 
 ## 開発者向け情報
 
