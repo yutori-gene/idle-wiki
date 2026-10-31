@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布](/ja/action/open-wallet) | [<img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠](/ja/group/unlock) | 連続 | Lv1 | 1分 | 100% | 1,200 | [<img class="wiki-icon" src="assets/icon/2a12bcdb457a4a71.svg" alt="">財布](/ja/item/wallet) | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×3 (96%)<br>[<span class="wiki-icon">🎈</span>風船](/ja/item/balloon)×3 (96%)<br>[<span class="wiki-icon">🍉</span>スイカ](/ja/item/watermelon) (82.9%)<br>[<span class="wiki-icon">🗿</span>公園の守り神の像](/ja/item/park-guardian-statue) (35.8%) |
 | [<img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱](/ja/action/open-donation-box) | [<img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠](/ja/group/unlock) | 連続 | Lv4 | 2分 | 50% | 1,200 | [<img class="wiki-icon" src="assets/icon/5676c877b5bc47f0.svg" alt="">募金箱](/ja/item/donation-box)×2<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×2<br>[<span class="wiki-icon">📎</span>クリップ](/ja/item/paper-clip)×2 | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×20<br>[<img class="wiki-icon" src="assets/icon/4aece76562383688.svg" alt="">カブトムシ](/ja/item/beetle)×4<br>[<img class="wiki-icon" src="assets/icon/041e1672ebae2974.svg" alt="">金のドングリ](/ja/item/golden-acorn)×4 (49.8%)<br>[<span class="wiki-icon">🧚</span>妖精の羽根](/ja/item/fairy-wing)×4 (29.9%) |
@@ -38,7 +38,7 @@
 | [<span class="wiki-icon">📦</span>シュレーディンガーの箱](/ja/action/open-schrodingers-box) | [<img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠](/ja/group/unlock) | 連続 | Lv47 | 15分 | 65% | 1,188 | [<span class="wiki-icon">📦</span>シュレーディンガーの箱](/ja/item/schrodingers-box) | [<span class="wiki-icon">✨</span>創世の光](/ja/item/genesis-light)×2 (74.6%)<br>[<span class="wiki-icon">😇</span>天空神の羽衣](/ja/item/sky-god-robe)×2 (53.7%)<br>[<span class="wiki-icon">🌟</span>始まりの星](/ja/item/first-star)×2 (25.8%)<br>[<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/item/hamster-wheel-parts)×2 (36.1%) |
 | [<span class="wiki-icon">📦</span>パンドラの箱](/ja/action/open-pandoras-box) | [<img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠](/ja/group/unlock) | 連続 | Lv50 | 30分 | 70% | 1,189 | [<span class="wiki-icon">📦</span>パンドラの箱](/ja/item/pandoras-box) | [<span class="wiki-icon">⏳</span>死神の砂時計](/ja/item/reaper-hourglass) (62.2%)<br>[<span class="wiki-icon">🗝️</span>冥界の門の鍵](/ja/item/underworld-gate-key) (59.7%)<br>[<span class="wiki-icon">👁️</span>深淵の瞳](/ja/item/abyss-eye) (35.8%)<br>[<span class="wiki-icon">⚙️</span>輪廻の歯車](/ja/item/samsara-gear) (21.5%) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

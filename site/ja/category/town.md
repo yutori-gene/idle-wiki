@@ -22,7 +22,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🔦</span>路地裏の探し物](/ja/action/alley-search) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 30秒 | 50% | 1,080 |  | [<span class="wiki-icon">🔩</span>釘](/ja/item/nail)×7 (91%)<br>[<span class="wiki-icon">🪙</span>小銭](/ja/item/small-change)×7 (91%)<br>[<span class="wiki-icon">📰</span>新聞紙](/ja/item/newspaper-sheet)×5 (56%)<br>[<span class="wiki-icon">🪝</span>ハンガー](/ja/item/hanger)×5 (56%)<br>[<span class="wiki-icon">📎</span>洗濯バサミ](/ja/item/clothespin)×5 (56%)<br>[<span class="wiki-icon">📼</span>ガムテープ](/ja/item/duct-tape) (21.6%)<br>[<span class="wiki-icon">🚲</span>自転車](/ja/item/bicycle) (8.64%) |
 | [<span class="wiki-icon">🌃</span>深夜の路上](/ja/action/midnight-street) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 30秒 | 50% | 1,080 |  | [<span class="wiki-icon">💡</span>街灯](/ja/item/street-light)×5 (6.4%)<br>[<span class="wiki-icon">🚏</span>バス停](/ja/item/bus-stop)×3 (6.4%)<br>[<span class="wiki-icon">🚦</span>信号機](/ja/item/traffic-light)×3 (16%)<br>[<span class="wiki-icon">📮</span>ポスト](/ja/item/mailbox)×3 (16%)<br>[<span class="wiki-icon">🐈</span>野良猫の首輪](/ja/item/stray-cat-collar)×2 (57.6%)<br>[<span class="wiki-icon">⚡</span>電柱](/ja/item/utility-pole) (2.56%) |
@@ -42,7 +42,7 @@
 | [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 1.5秒 | 50% | 79 |  | [<span class="wiki-icon">🪙</span>小銭](/ja/item/small-change) (5.31%)<br>[<span class="wiki-icon">🛍️</span>ビニール袋](/ja/item/plastic-bag) (2.33%)<br>[<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) (0.96%)<br>[<span class="wiki-icon">👑</span>ネズミの王冠](/ja/item/rat-crown) (0.144%) |
 | [<span class="wiki-icon">🕵️</span>裏通りの情報屋](/ja/action/backstreet-informant) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv30 | 1時間30分 | 100% | 1,029 |  | [<span class="wiki-icon">✉️</span>不幸の手紙](/ja/item/chain-letter)<br>[<span class="wiki-icon">🛂</span>偽造パスポート](/ja/item/forged-passport) (20.7%)<br>[<span class="wiki-icon">💳</span>キャッシュカード](/ja/item/cash-card) (31.1%)<br>[<span class="wiki-icon">👑</span>ネズミの王冠](/ja/item/rat-crown)×2 (17.3%) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 効果を与えるアイテム
 

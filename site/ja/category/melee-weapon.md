@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/ed150292d05a82bb.svg" alt="">木の棒（分解）](/ja/action/disassemble-wooden-stick) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv1 | 5分 | 100% | 1,032 | [<img class="wiki-icon" src="assets/icon/a853f3f0e7b15e1c.svg" alt="">木の棒](/ja/item/wooden-stick) | [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) |
 | [<img class="wiki-icon" src="assets/icon/5273f1d36753f2b1.svg" alt="">ネギ（分解）](/ja/action/disassemble-green-onion) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv3 | 5分 | 100% | 1,032 | [<img class="wiki-icon" src="assets/icon/038883e27a6d1f09.svg" alt="">ネギ](/ja/item/green-onion) | [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) |
@@ -49,13 +49,13 @@
 | [<span class="wiki-icon">🪄</span>如意棒](/ja/action/craft-ruyi-staff) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | 1,029 | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">🔩</span>鍛えた金属塊](/ja/item/forged-metal-ingot)×2 | [<span class="wiki-icon">🪄</span>如意棒](/ja/item/ruyi-staff)×200 |
 | [<span class="wiki-icon">⚔️</span>マスターソード](/ja/action/craft-master-sword) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | 1,029 | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">🔩</span>鍛えた金属塊](/ja/item/forged-metal-ingot)×2 | [<span class="wiki-icon">⚔️</span>マスターソード](/ja/item/master-sword) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## よそのカテゴリから経験値が入るアクション
 
 <div class="wiki-filter"></div>
 
-| アクション | 場所 | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | 場所 | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/f4a063e2ef801314.svg" alt="">巨大なクモ](/ja/action/giant-spider) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 1.8秒 | 50% | 134 |  | [<img class="wiki-icon" src="assets/icon/b9c2295c04c97dd4.svg" alt="">毛虫](/ja/item/caterpillar) (6.91%)<br>[<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) (2.88%)<br>[<img class="wiki-icon" src="assets/icon/5917c2eb05add9f6.svg" alt="">クモの糸](/ja/item/spider-thread) (0.062%)<br>[<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) (2.88%)<br>[<img class="wiki-icon" src="assets/icon/7827b4614a197e69.svg" alt="">鳥の羽根](/ja/item/bird-feather) (3.46%)<br>[<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) (0.036%) |
 | [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv5 | 2.2秒 | 50% | 100 | [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) (3.67%) | [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) (36.7%)<br>[<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) (0.076%)<br>[<img class="wiki-icon" src="assets/icon/263d98048a36520b.svg" alt="">耳栓](/ja/item/earplug) (0.317%)<br>[<img class="wiki-icon" src="assets/icon/9527ad02ab385f84.svg" alt="">電卓](/ja/item/calculator) (0.044%)<br>[<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) (3.52%)<br>[<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) (3.52%)<br>[<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg) (8.45%)<br>[<img class="wiki-icon" src="assets/icon/eea6ffe630b18ce9.svg" alt="">食べられる指輪](/ja/item/edible-ring) (8.45%)<br>[<img class="wiki-icon" src="assets/icon/2a12bcdb457a4a71.svg" alt="">財布](/ja/item/wallet) (0.317%)<br>[<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) (3.67%) |

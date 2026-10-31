@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🥣</span>すり鉢](/ja/action/buy-mortar) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv1 | 0秒 | 100% | — | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×100 | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) |
 | [<span class="wiki-icon">🩹</span>絆創膏](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv1 | 1分 | 100% | 1,260 | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth)<br>[<span class="wiki-icon">🍯</span>樹液](/ja/item/tree-sap) | [<span class="wiki-icon">🩹</span>絆創膏](/ja/item/bandage)×7 |
@@ -48,7 +48,7 @@
 | [<span class="wiki-icon">🧪</span>エリクサー](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv48 | 30分 | 75% | 1,203 | [<span class="wiki-icon">😇</span>天使の涙](/ja/item/angel-tear)×12<br>[<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber)×12<br>[<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey)×18 | [<span class="wiki-icon">🧪</span>エリクサー](/ja/item/elixir)×304 |
 | [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv50 | 18分 | 60% | 1,204 | [<span class="wiki-icon">🧪</span>エリクサー](/ja/item/elixir)×7<br>[<span class="wiki-icon">🔮</span>進化の石](/ja/item/evolution-stone)×4<br>[<span class="wiki-icon">🍃</span>世界樹の葉](/ja/item/world-tree-leaf)×4 | [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/item/felix-felicis)×228 |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

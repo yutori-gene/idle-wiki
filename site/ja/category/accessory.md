@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/a46ce7305a3c8299.svg" alt="">ピンバッジ（分解）](/ja/action/disassemble-pin-badge) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv3 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/5f67ad53a251b7d6.svg" alt="">ピンバッジ](/ja/item/pin-badge) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
 | [<img class="wiki-icon" src="assets/icon/4bc0485b779ba337.svg" alt="">カウベル（分解）](/ja/action/disassemble-cowbell) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv5 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル](/ja/item/cowbell) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
@@ -80,7 +80,7 @@
 | [<span class="wiki-icon">🔺</span>ATフィールド](/ja/action/craft-at-field) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | — | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">🔺</span>ATフィールド](/ja/item/at-field) |
 | [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/action/craft-time-stopping-hourglass) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | — | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

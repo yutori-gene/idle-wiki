@@ -22,7 +22,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🏭</span>ベルトコンベア漁り](/ja/action/conveyor-scavenging) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 1分 | 50% | 1,050 |  | [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×7 (91%)<br>[<span class="wiki-icon">🔩</span>ネジ](/ja/item/screw)×5 (56%)<br>[<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt)×5 (56%)<br>[<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×5 (56%)<br>[<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber)×5 (56%)<br>[<span class="wiki-icon">💾</span>壊れた基板](/ja/item/broken-circuit-board)×3 (48%) |
 | [<span class="wiki-icon">🧰</span>工具室の棚卸し](/ja/action/tool-room-inventory) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 1分 | 50% | 1,050 |  | [<span class="wiki-icon">🪛</span>ドライバー](/ja/item/screwdriver)×3 (48%)<br>[<span class="wiki-icon">🔧</span>レンチ](/ja/item/wrench)×3 (48%)<br>[<span class="wiki-icon">🥼</span>作業着](/ja/item/work-clothes)×3 (48%)<br>[<span class="wiki-icon">⛑️</span>安全帽](/ja/item/safety-helmet)×3 (48%)<br>[<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×3 (48%)<br>[<span class="wiki-icon">🔧</span>溶接棒](/ja/item/welding-rod)×2 (25.9%)<br>[<span class="wiki-icon">🧰</span>工具箱](/ja/item/toolbox)×2 (21.6%) |
@@ -42,7 +42,7 @@
 | [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2.5秒 | 50% | 2 |  | [<span class="wiki-icon">🔌</span>針金](/ja/item/wire-rod) (1.33%)<br>[<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) (0.8%)<br>[<span class="wiki-icon">🔩</span>鋼鉄板](/ja/item/steel-plate) (0.156%) |
 | [<span class="wiki-icon">☣️</span>地下廃棄プラント](/ja/action/underground-disposal-plant) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv40 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">📦</span>コンテナ](/ja/item/shipping-container)<br>[<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris)×2 (50.1%)<br>[<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) (25.9%) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 効果を与えるアイテム
 

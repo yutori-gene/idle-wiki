@@ -22,7 +22,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🌰</span>木の実採り](/ja/action/gather-nuts) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 20秒 | 50% | 1,080 |  | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×7 (91%)<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom)×5 (56%)<br>[<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom)×5 (56%)<br>[<span class="wiki-icon">🌿</span>苔](/ja/item/moss)×5 (56%)<br>[<span class="wiki-icon">🪲</span>クワガタ](/ja/item/stag-beetle)×2 (48%)<br>[<span class="wiki-icon">🍄</span>マツタケ](/ja/item/matsutake)×2 (57.6%)<br>[<span class="wiki-icon">🐿️</span>リス](/ja/item/squirrel) (18.7%)<br>[<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) (21.6%)<br>[<span class="wiki-icon">🐸</span>オタマジャクシ](/ja/item/tadpole)×2 (50.1%) |
 | [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 20秒 | 50% | 1,080 |  | [<span class="wiki-icon">🟫</span>革](/ja/item/leather)×7 (91%)<br>[<span class="wiki-icon">🥀</span>枯れ枝](/ja/item/dead-branch)×7 (91%)<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold)×5 (56%)<br>[<span class="wiki-icon">🪨</span>岩](/ja/item/rock)×5 (56%)<br>[<span class="wiki-icon">🌿</span>シダ](/ja/item/fern)×5 (56%)<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×5 (67.2%)<br>[<span class="wiki-icon">🪓</span>斧](/ja/item/axe) (6%)<br>[<span class="wiki-icon">🪨</span>森の精霊石](/ja/item/forest-spirit-stone)<br>[<span class="wiki-icon">🎏</span>物干し竿](/ja/item/laundry-pole) (8.64%)<br>[<span class="wiki-icon">👞</span>木靴](/ja/item/wooden-clogs) (21.6%) |
@@ -42,7 +42,7 @@
 | [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 1.6秒 | 50% | 114 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (1.33%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (1.33%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (13.3%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (1.28%)<br>[<span class="wiki-icon">🧕</span>赤ずきん](/ja/item/red-hood) (1.28%)<br>[<span class="wiki-icon">🐺</span>狼の毛皮](/ja/item/wolf-pelt) (1.54%) |
 | [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2.4秒 | 50% | 88 | [<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom)×3 (2%) | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (4.61%)<br>[<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom) (5.6%)<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (1.92%)<br>[<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite) (0.173%) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 効果を与えるアイテム
 

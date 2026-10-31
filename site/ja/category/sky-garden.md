@@ -20,7 +20,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">✨</span>星屑集め](/ja/action/stardust-gathering) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 1分40秒 | 50% | 1,044 |  | [<span class="wiki-icon">⭐</span>星の砂](/ja/item/star-sand)×7 (91%)<br>[<span class="wiki-icon">😇</span>天使の落とし物](/ja/item/angels-lost-item)×5 (56%)<br>[<span class="wiki-icon">✨</span>星屑](/ja/item/stardust)×5 (56%)<br>[<span class="wiki-icon">🌙</span>月の雫](/ja/item/moon-drop)×3 (48%)<br>[<span class="wiki-icon">🌌</span>銀河の種](/ja/item/galaxy-seed)×3 (48%) |
 | [<span class="wiki-icon">🌫️</span>霞の林](/ja/action/haze-grove) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 1分40秒 | 50% | 1,044 |  | [<span class="wiki-icon">✨</span>光の砂](/ja/item/light-sand)×7 (91%)<br>[<span class="wiki-icon">🌈</span>虹の雫](/ja/item/rainbow-drop)×5 (56%)<br>[<span class="wiki-icon">🌫️</span>霞](/ja/item/haze)×3 (48%)<br>[<span class="wiki-icon">✨</span>光苔](/ja/item/glow-moss)×3 (48%)<br>[<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) (21.6%)<br>[<span class="wiki-icon">💎</span>天空の宝玉](/ja/item/sky-orb)×2 (25.9%)<br>[<span class="wiki-icon">🍃</span>神樹の葉](/ja/item/divine-tree-leaf) (8.64%) |
@@ -40,7 +40,7 @@
 | [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 3.2秒 | 50% | 0 | [<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water) (0.533%) | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone) (0.027%)<br>[<span class="wiki-icon">😇</span>天使の涙](/ja/item/angel-tear) (0.12%)<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (2.67%) |
 | [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2秒 | 50% | 0 | [<span class="wiki-icon">🗝️</span>天空の鍵](/ja/item/sky-key) (0.333%) | [<span class="wiki-icon">🪨</span>浮遊石](/ja/item/floating-stone) (0.768%)<br>[<span class="wiki-icon">🦋</span>光る蝶](/ja/item/glowing-butterfly) (0.768%)<br>[<span class="wiki-icon">😇</span>天空神の羽衣](/ja/item/sky-god-robe) (0.024%)<br>[<span class="wiki-icon">📜</span>金色の石板](/ja/item/golden-tablet) (0.333%) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 効果を与えるアイテム
 

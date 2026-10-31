@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">📙</span>グリム童話](/ja/action/read-fairy-tale) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv1 | 1時間 | 100% | — | [<span class="wiki-icon">📙</span>グリム童話](/ja/item/fairy-tale) | [<span class="wiki-icon">🔪</span>残忍な心](/ja/item/cruel-heart) |
 | [<img class="wiki-icon" src="assets/icon/00c8d9e334dcf056.svg" alt="">飛び出す絵本](/ja/action/read-picture-book) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv1 | 2時間 | 100% | — | [<img class="wiki-icon" src="assets/icon/3e442c2141244790.svg" alt="">飛び出す絵本](/ja/item/picture-book) | [<span class="wiki-icon">🦁</span>度胸](/ja/item/nerve) |
@@ -43,7 +43,7 @@
 | [<span class="wiki-icon">📜</span>死海文書](/ja/action/cosmic-truth-studies) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv1 | 2日 | 100% | — | [<span class="wiki-icon">📜</span>死海文書](/ja/item/dead-sea-scrolls) | [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) |
 | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/action/read-catcher-in-the-rye) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv1 | 1日4時間 | 100% | — | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/item/catcher-in-the-rye) | [<span class="wiki-icon">🌾</span>ライ麦](/ja/item/rye) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

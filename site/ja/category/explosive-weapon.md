@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/95ee8d9d6ccf791f.svg" alt="">卵（分解）](/ja/action/disassemble-egg) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv1 | 5分 | 100% | 1,032 | [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg) | [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) |
 | [<img class="wiki-icon" src="assets/icon/8f458c2a40439e96.svg" alt="">水風船（分解）](/ja/action/disassemble-water-balloon) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv3 | 5分 | 100% | 1,032 | [<img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船](/ja/item/water-balloon) | [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) |
@@ -48,13 +48,13 @@
 | [<span class="wiki-icon">☢️</span>核爆弾](/ja/action/craft-nuclear-bomb) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | 1,029 | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">🔩</span>鍛えた金属塊](/ja/item/forged-metal-ingot)×2 | [<span class="wiki-icon">☢️</span>核爆弾](/ja/item/nuclear-bomb)×133 |
 | [<span class="wiki-icon">🐬</span>軍用イルカ](/ja/action/craft-military-dolphin) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | 1,029 | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">🔩</span>鍛えた金属塊](/ja/item/forged-metal-ingot)×2 | [<span class="wiki-icon">🐬</span>軍用イルカ](/ja/item/military-dolphin)×133 |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## よそのカテゴリから経験値が入るアクション
 
 <div class="wiki-filter"></div>
 
-| アクション | 場所 | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | 場所 | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 2.7秒 | 50% | 29 | [<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) (2.25%) | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) (6.22%)<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) (12.6%)<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) (6.3%)<br>[<span class="wiki-icon">🪪</span>社員証](/ja/item/employee-badge) (2.59%) |
 | [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv14 | 3.2秒 | 50% | 23 |  | [<img class="wiki-icon" src="assets/icon/47721c74865bab5f.svg" alt="">紙](/ja/item/paper) (17.8%)<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (5.33%)<br>[<span class="wiki-icon">📒</span>裏帳簿](/ja/item/secret-ledger) (0.005%) |

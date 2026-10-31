@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/d9e4de07acf12198.svg" alt="">エプロン（分解）](/ja/action/disassemble-apron) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv5 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
 | [<img class="wiki-icon" src="assets/icon/d6b08579f018191e.svg" alt="">スリッパ（分解）](/ja/action/disassemble-slippers) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv5 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/85a5eb144a623cc8.svg" alt="">スリッパ](/ja/item/slippers) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
@@ -115,7 +115,7 @@
 | [<span class="wiki-icon">😇</span>天使の輪](/ja/action/craft-halo) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | — | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece)×2 | [<span class="wiki-icon">😇</span>天使の輪](/ja/item/halo) |
 | [<span class="wiki-icon">🧤</span>無限の手袋](/ja/action/craft-infinity-gauntlet) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | — | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece)×2 | [<span class="wiki-icon">🧤</span>無限の手袋](/ja/item/infinity-gauntlet) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/b64bebb17d7e4142.svg" alt="">ハチ（分解）](/ja/action/disassemble-bee) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv1 | 5分 | 100% | 1,032 | [<img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ](/ja/item/bee) | [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) |
 | [<img class="wiki-icon" src="assets/icon/985f799d5f99660a.svg" alt="">どんぐりショット（分解）](/ja/action/disassemble-acorn-shot) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv3 | 5分 | 100% | 1,032 | [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) |
@@ -48,13 +48,13 @@
 | [<span class="wiki-icon">🚀</span>マグロケット](/ja/action/craft-tuna-rocket) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | 1,029 | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">🔩</span>鍛えた金属塊](/ja/item/forged-metal-ingot)×2 | [<span class="wiki-icon">🚀</span>マグロケット](/ja/item/tuna-rocket)×133 |
 | [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/action/craft-spear-of-longinus) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | 1,029 | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">🔩</span>鍛えた金属塊](/ja/item/forged-metal-ingot)×2 | [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/item/spear-of-longinus)×133 |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## よそのカテゴリから経験値が入るアクション
 
 <div class="wiki-filter"></div>
 
-| アクション | 場所 | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | 場所 | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐰</span>ラビットガール](/ja/action/rabbit-girl) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1.1秒 | 50% | 103 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) (0.917%) | [<span class="wiki-icon">🦋</span>チョウ](/ja/item/butterfly) (0.143%)<br>[<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) (0.171%)<br>[<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) (0.013%)<br>[<span class="wiki-icon">🥧</span>パイ](/ja/item/pie) (2.11%)<br>[<span class="wiki-icon">💗</span>ハートブローチ](/ja/item/heart-brooch) (2.11%) |
 | [<img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.3秒 | 50% | 103 | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×5 (1.08%) | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (8.67%)<br>[<span class="wiki-icon">🔋</span>乾電池](/ja/item/dry-cell) (6.07%)<br>[<span class="wiki-icon">🥖</span>フランスパン](/ja/item/baguette) (1.04%)<br>[<span class="wiki-icon">🎯</span>吹き矢](/ja/item/blowgun) (2.5%) |

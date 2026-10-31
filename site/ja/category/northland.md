@@ -21,7 +21,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🏛️</span>雪原の遺跡](/ja/action/snowfield-ruins) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 50秒 | 50% | 1,044 |  | [<span class="wiki-icon">🪵</span>雪](/ja/item/snow)×7 (91%)<br>[<span class="wiki-icon">❄️</span>霜](/ja/item/frost)×5 (56%)<br>[<span class="wiki-icon">🪵</span>白樺の皮](/ja/item/birch-bark)×5 (56%)<br>[<span class="wiki-icon">🪨</span>漬物石](/ja/item/pickling-stone)×5 (56%)<br>[<span class="wiki-icon">🧊</span>氷柱](/ja/item/ice-pillar)×5 (56%)<br>[<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage)×3 (48%)<br>[<span class="wiki-icon">🥕</span>大根](/ja/item/daikon)×3 (48%)<br>[<span class="wiki-icon">⛄</span>雪だるま](/ja/item/snowman)×2 (25.9%)<br>[<span class="wiki-icon">🧥</span>防寒着](/ja/item/winter-coat) (25.9%)<br>[<span class="wiki-icon">🐢</span>カメの甲羅](/ja/item/turtle-shell)×2 (25.9%) |
 | [<span class="wiki-icon">🧊</span>凍った湖畔](/ja/action/frozen-lakeside) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 50秒 | 50% | 1,044 |  | [<span class="wiki-icon">🧊</span>氷](/ja/item/ice)×7 (91%)<br>[<span class="wiki-icon">❄️</span>雪の塊](/ja/item/snow-chunk)×5 (56%)<br>[<span class="wiki-icon">🧊</span>つらら](/ja/item/icicle)×5 (56%)<br>[<span class="wiki-icon">🌨️</span>凍った枝](/ja/item/frozen-branch)×5 (56%)<br>[<span class="wiki-icon">❄️</span>霜のかけら](/ja/item/frost-piece)×3 (48%)<br>[<span class="wiki-icon">🐟</span>タラ](/ja/item/cod)×3 (48%)<br>[<span class="wiki-icon">🌌</span>極夜の結晶](/ja/item/polar-night-crystal)<br>[<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) (8.64%)<br>[<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) (10.4%)<br>[<span class="wiki-icon">🐾</span>雪うさぎの足跡](/ja/item/snow-rabbit-track)×3 (57.6%) |
@@ -41,7 +41,7 @@
 | [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.5秒 | 50% | 1 |  | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (7.84%)<br>[<span class="wiki-icon">🌌</span>極光石](/ja/item/auroral-stone) (0.262%)<br>[<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) (0.218%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.101%) |
 | [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2.2秒 | 50% | 10 | [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod) (0.733%) | [<span class="wiki-icon">🐻‍❄️</span>白い毛皮](/ja/item/white-fur) (4.11%)<br>[<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマの爪](/ja/item/polar-bear-claw) (1.69%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.704%)<br>[<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) (0.009%)<br>[<span class="wiki-icon">🐾</span>雪男の足跡](/ja/item/yeti-track) (0.266%) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 効果を与えるアイテム
 

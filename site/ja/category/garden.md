@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/action/play-with-chick) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv1 | 30分 | 100% | 92 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×3 |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/action/feed-killifish) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv3 | 1時間 | 85% | 92 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×2 | [<span class="wiki-icon">🐟</span>魚](/ja/item/fish)×5 |
@@ -41,7 +41,7 @@
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv48 | 5時間 | 90% | 91 | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×6 |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv50 | 12時間 | 85% | 91 | [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab)×2 | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×14<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×14 |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

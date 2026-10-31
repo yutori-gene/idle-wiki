@@ -20,7 +20,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🟡</span>硫黄の谷](/ja/action/sulfur-valley) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 1分30秒 | 50% | 1,040 |  | [<span class="wiki-icon">🟡</span>硫黄石](/ja/item/sulfur-stone)×7 (91%)<br>[<span class="wiki-icon">🔥</span>焦げ土](/ja/item/scorched-soil)×5 (56%)<br>[<span class="wiki-icon">⚫</span>煤](/ja/item/soot)×5 (56%)<br>[<span class="wiki-icon">⚫</span>黒い砂](/ja/item/black-sand)×5 (56%)<br>[<span class="wiki-icon">⛓️</span>鎖](/ja/item/chain)×3 (48%) |
 | [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 1分30秒 | 50% | 1,040 |  | [<span class="wiki-icon">💀</span>骸骨の指](/ja/item/skeleton-finger)×7 (91%)<br>[<span class="wiki-icon">🦴</span>骨片](/ja/item/bone-fragment)×5 (56%)<br>[<span class="wiki-icon">🏖️</span>三途の川の砂](/ja/item/sanzu-river-sand)×5 (56%)<br>[<span class="wiki-icon">🧵</span>亡者の布切れ](/ja/item/undead-cloth)×5 (56%)<br>[<span class="wiki-icon">🪨</span>地獄の小石](/ja/item/hell-pebble)×5 (56%)<br>[<span class="wiki-icon">🪢</span>朽ち縄](/ja/item/rotten-rope)×5 (56%)<br>[<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) |
@@ -40,7 +40,7 @@
 | [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 1.7秒 | 50% | 0 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.315%) | [<span class="wiki-icon">🦶</span>誰かの足](/ja/item/someones-leg) (1.76%)<br>[<span class="wiki-icon">😈</span>鬼の角の欠片](/ja/item/ogre-horn-piece) (0.725%)<br>[<span class="wiki-icon">🗝️</span>地獄の門の鍵](/ja/item/hell-gate-key) (0.071%) |
 | [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 1.7秒 | 50% | 2 | [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg) (0.315%) | [<span class="wiki-icon">🪨</span>地獄の小石](/ja/item/hell-pebble) (1.76%)<br>[<span class="wiki-icon">🦷</span>黒曜の牙](/ja/item/obsidian-fang) (0.725%) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 効果を与えるアイテム
 

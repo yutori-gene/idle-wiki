@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍲</span>鍋](/ja/action/buy-pot) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv1 | 0秒 | 100% | — | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×300 | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) |
 | [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv1 | 1分 | 100% | 1,200 | [<span class="wiki-icon">🍚</span>砂糖](/ja/item/sugar)×5<br>[<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | [<span class="wiki-icon">🍬</span>飴](/ja/item/candy)×7 |
@@ -38,7 +38,7 @@
 | [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv46 | 30分 | 95% | 1,186 | [<span class="wiki-icon">🍚</span>生米](/ja/item/raw-rice)×12<br>[<span class="wiki-icon">🍄</span>ワライタケ](/ja/item/laughing-mushroom)×6<br>[<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey)×12 | [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango)×1,200 |
 | [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv50 | 18分 | 50% | 1,185 | [<span class="wiki-icon">🌳</span>世界樹の実](/ja/item/world-tree-fruit)×4<br>[<span class="wiki-icon">🍇</span>星の果実](/ja/item/star-fruit)×7<br>[<span class="wiki-icon">🌸</span>天空の花](/ja/item/sky-flower)×11<br>[<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit) | [<span class="wiki-icon">🫘</span>仙豆](/ja/item/senzu-bean)×1,368 |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

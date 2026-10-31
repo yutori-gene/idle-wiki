@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv1 | 2分 | 100% | 1,140 | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×8<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×3 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/item/ruining-cushion-parts) |
 | [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/action/craft-ruining-cushion) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv1 | 2時間 | 100% | 1,138 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/item/ruining-cushion-parts)×100 | [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/item/ruining-cushion) |
@@ -48,7 +48,7 @@
 | [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv50 | 30分 | 85% | 1,139 | [<img class="wiki-icon" src="assets/icon/0e603d9eeb962681.svg" alt="">耐熱レンガ](/ja/item/heatproof-brick)×13<br>[<span class="wiki-icon">⚫</span>石炭](/ja/item/coal)×43 | [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/item/fireplace-parts)×5 |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/action/craft-fireplace) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv50 | 2日 | 100% | 1,138 | [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/item/fireplace-parts)×100 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

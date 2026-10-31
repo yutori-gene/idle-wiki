@@ -179,7 +179,7 @@ function statsSection(context: Context, action: Type.Action): string {
 	const note = numeric
 		? "レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。"
 		: "経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。";
-	return section("計算値", join(table(["レベル差", "所要時間", "成功率", "経験値/成功", "実行回数/時", "経験値/時"], rows), note));
+	return section("計算値", join(table(["レベル差", "所要時間", "成功率", "経験値/成功", "実行回数/時", "経験値%/時"], rows), note));
 }
 
 function economySection(context: Context, action: Type.Action, stats: ActionStats): string {

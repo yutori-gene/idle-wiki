@@ -17,7 +17,7 @@
 
 <div class="wiki-filter"></div>
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/action/grow-carrot) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv1 | 30分 | 100% | 88 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) | [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot)×3<br>[<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) (50%) |
 | [<span class="wiki-icon">🪱</span>ミミズの切断](/ja/action/cut-earthworm) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv1 | 1分 | 100% | 60 | [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) | [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) (30%)<br>[<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) (30%)<br>[<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) (30%) |
@@ -38,7 +38,7 @@
 | [<span class="wiki-icon">🌿</span>香草](/ja/action/grow-aromatic-herb) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv47 | 2日 | 50% | 87 | [<span class="wiki-icon">🌿</span>香草の種](/ja/item/aromatic-herb-seed) (80%) | [<span class="wiki-icon">🌿</span>香草](/ja/item/aromatic-herb)×576<br>[<span class="wiki-icon">🌿</span>香草の種](/ja/item/aromatic-herb-seed) (36%)<br>[<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) (50%) |
 | [<span class="wiki-icon">🌳</span>世界樹の葉](/ja/action/grow-world-tree-leaf) | [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | 連続 | Lv50 | 1日16時間 | 70% | 87 | [<span class="wiki-icon">🌳</span>世界樹の種](/ja/item/world-tree-seed) (80%) | [<span class="wiki-icon">🍃</span>世界樹の葉](/ja/item/world-tree-leaf)×229<br>[<span class="wiki-icon">🌳</span>世界樹の種](/ja/item/world-tree-seed) (43.2%)<br>[<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) (50%) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

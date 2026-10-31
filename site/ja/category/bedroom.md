@@ -17,7 +17,7 @@
 
 ## アクション
 
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
+| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">✉️</span>ボトルメールを封じる](/ja/action/seal-message-in-a-bottle) | [<span class="wiki-icon">📚</span>棚](/ja/group/shelf) | 単発 | Lv18 | 4時間 | 100% | — | [<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle)×10<br>[<span class="wiki-icon">🪸</span>珊瑚のかけら](/ja/item/coral-piece)×5<br>[<span class="wiki-icon">🗺️</span>海賊の地図](/ja/item/pirate-map) | [<span class="wiki-icon">✉️</span>ボトルメール](/ja/item/message-in-a-bottle) |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/action/craft-sand-castle) | [<span class="wiki-icon">🟫</span>床](/ja/group/floor) | 単発 | Lv20 | 4時間 | 100% | — | [<span class="wiki-icon">🪸</span>珊瑚のかけら](/ja/item/coral-piece)×10<br>[<span class="wiki-icon">⚓</span>錆びた錨](/ja/item/rusty-anchor)×4 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) |
@@ -34,7 +34,7 @@
 | [<span class="wiki-icon">🧩</span>千年パズルを組む](/ja/action/assemble-millennium-puzzle) | [<span class="wiki-icon">🖼️</span>壁](/ja/group/wall) | 単発 | Lv50 | 10時間 | 100% | — | [<span class="wiki-icon">⚙️</span>輪廻の歯車](/ja/item/samsara-gear)×2<br>[<span class="wiki-icon">🌟</span>始まりの星](/ja/item/first-star) | [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) |
 | [<span class="wiki-icon">🟡</span>金の玉を磨く](/ja/action/polish-golden-orb) | [<span class="wiki-icon">📚</span>棚](/ja/group/shelf) | 単発 | Lv50 | 10時間 | 100% | — | [<span class="wiki-icon">✨</span>星座の欠片](/ja/item/constellation-fragment)×2<br>[<span class="wiki-icon">💎</span>天空の宝玉](/ja/item/sky-orb)×5<br>[<span class="wiki-icon">✨</span>光の砂](/ja/item/light-sand)×20 | [<span class="wiki-icon">🟡</span>金の玉](/ja/item/golden-orb) |
 
-経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

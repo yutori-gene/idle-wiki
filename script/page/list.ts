@@ -50,7 +50,7 @@ export function listPages(context: Context): Page[] {
 		SHORT_NOTE,
 		filterNote,
 		table(
-			["アクション", "場所", "グループ", "進行", "必要Lv", "時間", "成功率", "経験値/時", "消費物", "取得物"],
+			["アクション", "場所", "グループ", "進行", "必要Lv", "時間", "成功率", "経験値%/時", "消費物", "取得物"],
 			world.actions.map((action) => {
 				const stats = baseStats(context, action);
 				return [

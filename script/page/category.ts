@@ -92,8 +92,8 @@ function actionSection(context: Context, heading: string, actions: Type.Action[]
 	return section(
 		heading,
 		join(
-			table(["アクション", ...(showPlace ? ["場所"] : []), "グループ", "進行", "必要Lv", "時間", "成功率", "経験値/時", "消費物", "取得物"], rows, { filter: rows.length > 15 }),
-			heading === "アクション" ? `経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。${SHORT_NOTE}` : "",
+			table(["アクション", ...(showPlace ? ["場所"] : []), "グループ", "進行", "必要Lv", "時間", "成功率", "経験値%/時", "消費物", "取得物"], rows, { filter: rows.length > 15 }),
+			heading === "アクション" ? `経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。${SHORT_NOTE}` : "",
 		),
 	);
 }
