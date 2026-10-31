@@ -19,13 +19,13 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 |
 | [<span class="wiki-icon">🗿</span>ゴーレム](/ja/action/golem) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv38 |
-| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv49 |
+| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv49 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔮</span>サイコキネシス](/ja/item/psychokinesis) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<span class="wiki-icon">🫣</span>黒歴史](/ja/item/dark-past) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 

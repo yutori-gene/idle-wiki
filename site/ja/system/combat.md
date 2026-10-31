@@ -30,7 +30,7 @@
 
 ## 力尽きたとき
 
-実行中のアクションと作業予定がすべて止まり、[<span class="wiki-icon">💀</span>力尽きた](/ja/event/gameover) が出る。進行（レベル・アイテム）は失われない。
+実行中のアクションと作業予定がすべて止まり、[<img class="wiki-icon" src="assets/icon/860af3a53df05fde.svg" alt="">力尽きた](/ja/event/gameover) が出る。進行（レベル・アイテム）は失われない。
 
 ## 「戦闘の見込み」の読み方
 

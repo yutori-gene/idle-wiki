@@ -1,17 +1,16 @@
-# 地図
+# 古びた地図
 
-<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">地図</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗺️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv32</td></tr><tr><th>所要時間</th><td>18時間</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>2,709</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">古びた地図</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗺️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>18時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>1回</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
-> 地図と住民票を並べれば、その土地に誰がいるかまで分かる。
+> 海図の端に、北へ抜ける細い道が書き込まれている。
 
 
 **単発**: 1回ずつ進む。100%になったら開封して報酬を受け取る。
 
 ## 必要なもの
 
-- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv32以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🗺️</span>地図](/ja/item/map) ×1（消費する）
-- [<span class="wiki-icon">📄</span>住民票](/ja/item/residence-certificate) ×1（消費する）
+- [<span class="wiki-icon">🗺️</span>古びた地図](/ja/item/map) ×1（消費する）
+- [<span class="wiki-icon">🌊</span>海](/ja/category/sea) Lv7以上
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,28 +18,27 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) ×1 | 成功時 | 100% | 0.5 | 0.028 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) ×1 | 成功時 | 100% | 1 | 0.056 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv32） | 18時間 | 50% | 2,709 | 0.1 | 75 |
-| +10（Lv42） | 14時間41分 | 60% | 1,806 | 0.1 | 74 |
+| — | 18時間 | 100% | — | 0.1 | — |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
+経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
 
 ## 収支（1時間あたり）
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 3 | -3 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 0 | 2 | -2 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">書斎のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/read-fairy-tale"><span class="wiki-icon">📙</span>童話</a> ・ <a href="#/ja/action/read-picture-book"><span class="wiki-icon">📖</span>絵本</a> ・ <a href="#/ja/action/read-manga"><span class="wiki-icon">📚</span>漫画</a> ・ <a href="#/ja/action/read-newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/action/reread-diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/action/read-license"><span class="wiki-icon">🪪</span>免許証</a> ・ <a href="#/ja/action/read-novel"><span class="wiki-icon">📗</span>小説</a> ・ <a href="#/ja/action/read-self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/action/read-love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/action/read-art-book"><span class="wiki-icon">🎨</span>美術書</a> ・ <a href="#/ja/action/read-encyclopedia"><span class="wiki-icon">📚</span>百科事典</a> ・ <a href="#/ja/action/fraud-clinical-studies"><span class="wiki-icon">📕</span>詐欺臨床学</a> ・ <a href="#/ja/action/read-ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/action/read-recipe-book"><span class="wiki-icon">📗</span>レシピ本</a> ・ <a href="#/ja/action/read-chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/action/read-map"><span class="wiki-icon">🗺️</span>地図</a> ・ <a href="#/ja/action/read-history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/action/read-bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/action/read-math-book"><span class="wiki-icon">📐</span>数学書</a> ・ <a href="#/ja/action/read-anatomy-book"><span class="wiki-icon">📕</span>医学書「解体新書」</a> ・ <a href="#/ja/action/read-forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/action/read-death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/action/read-necronomicon"><span class="wiki-icon">📕</span>ネクロノミコン</a> ・ <a href="#/ja/action/cosmic-truth-studies"><span class="wiki-icon">🌌</span>宇宙真理学</a> ・ <a href="#/ja/action/read-catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
+<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">書斎のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/read-fairy-tale"><span class="wiki-icon">📙</span>グリム童話</a> ・ <a href="#/ja/action/read-picture-book"><img class="wiki-icon" src="assets/icon/00c8d9e334dcf056.svg" alt="">飛び出す絵本</a> ・ <a href="#/ja/action/read-manga"><span class="wiki-icon">📚</span>不健全図書</a> ・ <a href="#/ja/action/read-newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/action/reread-diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/action/read-novel"><span class="wiki-icon">📗</span>探偵小説</a> ・ <a href="#/ja/action/read-self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/action/read-love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/action/read-gossip-magazine"><span class="wiki-icon">🗞️</span>ゴシップ誌</a> ・ <a href="#/ja/action/read-art-book"><img class="wiki-icon" src="assets/icon/ee7e33f0999701d6.svg" alt="">美術書</a> ・ <a href="#/ja/action/read-encyclopedia"><span class="wiki-icon">📚</span>百科事典</a> ・ <a href="#/ja/action/fraud-clinical-studies"><span class="wiki-icon">📒</span>裏帳簿</a> ・ <a href="#/ja/action/read-ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/action/read-recipe-book"><span class="wiki-icon">📗</span>今夜のおかず🎶レシピ集</a> ・ <a href="#/ja/action/read-chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/action/read-map"><span class="wiki-icon">🗺️</span>古びた地図</a> ・ <a href="#/ja/action/read-history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/action/read-bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/action/read-anatomy-book"><span class="wiki-icon">📕</span>解剖学書</a> ・ <a href="#/ja/action/read-forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/action/read-death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/action/cosmic-truth-studies"><span class="wiki-icon">📜</span>死海文書</a> ・ <a href="#/ja/action/read-catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
 
 ## 開発者向け情報
 
@@ -51,11 +49,11 @@
 | `attribute` | （空） |
 | `group` | `reading` |
 | `unlocked` | `hidden` |
-| `level` | `32` |
-| `experience` | `2709` |
+| `level` | `1` |
+| `experience` | `0` |
 | `seconds` | `64800` |
-| `chance` | `0.5` |
-| `maximum` | `0` |
+| `chance` | `1` |
+| `maximum` | `1` |
 | `progressType` | `single` |
 | CSV `tier` | 4 |
 
@@ -67,8 +65,8 @@
 {
 	"information": {
 		"id": "read-map",
-		"name": "地図",
-		"explanation": "地図と住民票を並べれば、その土地に誰がいるかまで分かる。",
+		"name": "古びた地図",
+		"explanation": "海図の端に、北へ抜ける細い道が書き込まれている。",
 		"icon": {
 			"emoji": "🗺️",
 			"iconify": "",
@@ -80,11 +78,11 @@
 	"attribute": "",
 	"group": "reading",
 	"unlocked": "hidden",
-	"level": 32,
-	"experience": 2709,
+	"level": 1,
+	"experience": 0,
 	"seconds": 64800,
-	"chance": 0.5,
-	"maximum": 0,
+	"chance": 1,
+	"maximum": 1,
 	"requirements": [
 		{
 			"type": "item",
@@ -94,9 +92,9 @@
 			"equipment": false
 		},
 		{
-			"type": "item",
-			"id": "residence-certificate",
-			"count": 1,
+			"type": "category",
+			"id": "sea",
+			"count": 7,
 			"chance": 1,
 			"equipment": false
 		}
@@ -104,7 +102,7 @@
 	"acquisitions": [
 		{
 			"type": "item",
-			"id": "geography-knowledge",
+			"id": "hidden-path-to-northland",
 			"count": 1,
 			"chance": 1
 		}

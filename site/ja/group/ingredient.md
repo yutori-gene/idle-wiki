@@ -19,11 +19,11 @@
 | [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 18 |
 | [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/item/potato) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 9 |
 | [<span class="wiki-icon">🍄</span>トリュフ](/ja/item/truffle) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 243 |
-| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/item/snail) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 27 |
+| [<img class="wiki-icon" src="assets/icon/50dbac7e9c9b6a33.svg" alt="">カタツムリ](/ja/item/snail) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 27 |
 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 2 |
 | [<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 2 |
 | [<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 2 |
-| [<span class="wiki-icon">🐸</span>カエル](/ja/item/frog) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 6 |
+| [<img class="wiki-icon" src="assets/icon/dedb91fd5c627f14.svg" alt="">カエル](/ja/item/frog) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 6 |
 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 6 |
 | [<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 18 |
 | [<span class="wiki-icon">🐸</span>オタマジャクシ](/ja/item/tadpole) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 54 |

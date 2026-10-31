@@ -1,6 +1,6 @@
 # ピクニックバスケット
 
-<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">ピクニックバスケット</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧺</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/container"><span class="wiki-icon">🎒</span>容器</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">ピクニックバスケット</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/6d83bc87fd0524a2.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/container"><span class="wiki-icon">🎒</span>容器</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 大家族向けの特大のかご。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛶</span>ボート小屋](/ja/action/boathouse) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv16 | 1 | 100% | 1 | 2 |
+| [<img class="wiki-icon" src="assets/icon/1aee9dfc0a917e5f.svg" alt="">ボート小屋](/ja/action/boathouse) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv16 | 1 | 100% | 1 | 2 |
 
 ## 用途
 
@@ -19,9 +19,9 @@
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧺</span>ピクニックバスケットを手に入れた](/ja/event/storage-picnic-basket) | イベントの条件（変化時（隠し）） | [<span class="wiki-icon">🧺</span>ピクニックバスケット](/ja/item/picnic-basket) ×1 |
+| [<span class="wiki-icon">🧺</span>ピクニックバスケットを手に入れた](/ja/event/storage-picnic-basket) | イベントの条件（変化時（隠し）） | [<img class="wiki-icon" src="assets/icon/6d83bc87fd0524a2.svg" alt="">ピクニックバスケット](/ja/item/picnic-basket) ×1 |
 
-<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">グループ: 容器</div><div class="wiki-navbox-body"><a href="#/ja/item/eco-bag"><span class="wiki-icon">🛍️</span>エコバッグ</a> ・ <a href="#/ja/item/picnic-basket"><span class="wiki-icon">🧺</span>ピクニックバスケット</a> ・ <a href="#/ja/item/jar"><span class="wiki-icon">🏺</span>壺</a> ・ <a href="#/ja/item/backpack"><span class="wiki-icon">🎒</span>リュックサック</a> ・ <a href="#/ja/item/kangaroo-pouch"><span class="wiki-icon">🦘</span>カンガルーの袋</a> ・ <a href="#/ja/item/hoi-poi-capsule"><span class="wiki-icon">💊</span>ホイポイカプセル</a> ・ <a href="#/ja/item/shipping-container"><span class="wiki-icon">📦</span>コンテナ</a> ・ <a href="#/ja/item/coffin"><span class="wiki-icon">⚰️</span>棺桶</a> ・ <a href="#/ja/item/3d-pocket"><span class="wiki-icon">🌀</span>3次元ポケット</a> ・ <a href="#/ja/item/entry-plug"><span class="wiki-icon">🔌</span>エントリープラグ</a></div></div>
+<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">グループ: 容器</div><div class="wiki-navbox-body"><a href="#/ja/item/eco-bag"><img class="wiki-icon" src="assets/icon/1573065dab7cb0f0.svg" alt="">エコバッグ</a> ・ <a href="#/ja/item/picnic-basket"><img class="wiki-icon" src="assets/icon/6d83bc87fd0524a2.svg" alt="">ピクニックバスケット</a> ・ <a href="#/ja/item/jar"><span class="wiki-icon">🏺</span>壺</a> ・ <a href="#/ja/item/backpack"><span class="wiki-icon">🎒</span>リュックサック</a> ・ <a href="#/ja/item/kangaroo-pouch"><span class="wiki-icon">🦘</span>カンガルーの袋</a> ・ <a href="#/ja/item/hoi-poi-capsule"><span class="wiki-icon">💊</span>ホイポイカプセル</a> ・ <a href="#/ja/item/shipping-container"><span class="wiki-icon">📦</span>コンテナ</a> ・ <a href="#/ja/item/coffin"><span class="wiki-icon">⚰️</span>棺桶</a> ・ <a href="#/ja/item/3d-pocket"><span class="wiki-icon">🌀</span>3次元ポケット</a> ・ <a href="#/ja/item/entry-plug"><span class="wiki-icon">🔌</span>エントリープラグ</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,7 +54,7 @@
 		"icon": {
 			"emoji": "🧺",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/6d83bc87fd0524a2.svg）"
 		},
 		"color": ""
 	},

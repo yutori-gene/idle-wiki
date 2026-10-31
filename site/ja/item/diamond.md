@@ -1,6 +1,6 @@
 # ダイヤモンド
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ダイヤモンド</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💎</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>81 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>162 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ダイヤモンド</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💎</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>81 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>162 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 世界一硬い炭素。
 
@@ -27,14 +27,14 @@
 | [<span class="wiki-icon">🐉</span>火山竜](/ja/action/volcano-dragon) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 1 | 0.051% | 0 | 0 |
 | [<span class="wiki-icon">🧙</span>エレメンタリスト](/ja/action/elementalist) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 0.131% | 0.001 | 0 |
 | [<span class="wiki-icon">🪞</span>魔法の鏡](/ja/action/magic-mirror) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 0.141% | 0.001 | 0 |
-| [<span class="wiki-icon">📦</span>ミミック](/ja/action/mimic) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv45 | 1 | 0.113% | 0.001 | 0 |
-| [<span class="wiki-icon">👼</span>ヴァルキリー](/ja/action/valkyrie) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv49 | 1 | 0.056% | 0 | 0 |
-| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.075% | 0 | 0 |
-| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.071% | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv45 | 1 | 0.113% | 0.001 | 0 |
+| [<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv49 | 1 | 0.056% | 0 | 0 |
+| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.075% | 0 | 0 |
+| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.071% | 0 | 0 |
 
 ### 購入
 
-162 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a> で購入できる（下記の解放条件を満たしてから）。
+162 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a> で購入できる（下記の解放条件を満たしてから）。
 
 ## 用途
 
@@ -42,10 +42,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/action/craft-bikini-armor) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv33 | 2 | 100% |  |
-| [<span class="wiki-icon">👠</span>ハイヒール](/ja/action/craft-high-heels) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 2 | 100% |  |
-| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/action/craft-iron-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 2 | 100% |  |
-| [<span class="wiki-icon">🎎</span>だるま](/ja/action/craft-daruma) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv37 | 2 | 100% |  |
+| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/action/craft-bikini-armor) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv33 | 2 | 100% |  |
+| [<span class="wiki-icon">👠</span>ハイヒール](/ja/action/craft-high-heels) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv36 | 2 | 100% |  |
+| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/action/craft-iron-gauntlet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv36 | 2 | 100% |  |
+| [<span class="wiki-icon">🎎</span>だるま](/ja/action/craft-daruma) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv37 | 2 | 100% |  |
 
 ## 解放条件
 
@@ -53,7 +53,7 @@
 
 - [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv2以上
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

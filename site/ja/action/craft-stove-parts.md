@@ -8,7 +8,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) Lv46以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🧱</span>耐熱レンガ](/ja/item/heatproof-brick) ×4（消費する）
+- [<img class="wiki-icon" src="assets/icon/0e603d9eeb962681.svg" alt="">耐熱レンガ](/ja/item/heatproof-brick) ×4（消費する）
 - [<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal) ×25（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -33,7 +33,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 42,865 | 5,124 | 37,741 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 42,865 | 5,124 | 37,741 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

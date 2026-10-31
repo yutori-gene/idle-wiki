@@ -18,8 +18,8 @@
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
 | [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv24 |
-| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 |
-| [<span class="wiki-icon">👼</span>ヴァルキリー](/ja/action/valkyrie) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv49 |
+| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv47 |
+| [<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv49 |
 
 ## このスキルを持つ装備
 

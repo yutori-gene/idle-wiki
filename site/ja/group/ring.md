@@ -7,8 +7,8 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍩</span>食べられる指輪](/ja/item/edible-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 3 |
-| [<span class="wiki-icon">💍</span>銀の指輪](/ja/item/silver-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 9 |
+| [<img class="wiki-icon" src="assets/icon/eea6ffe630b18ce9.svg" alt="">食べられる指輪](/ja/item/edible-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 3 |
+| [<img class="wiki-icon" src="assets/icon/aba9e6b62053c166.svg" alt="">銀の指輪](/ja/item/silver-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 9 |
 | [<span class="wiki-icon">🍩</span>バウムクーヘン](/ja/item/baumkuchen) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 消費装備 | 6 |
 | [<span class="wiki-icon">💍</span>結婚指輪](/ja/item/wedding-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 18 |
 | [<span class="wiki-icon">💍</span>取れない指輪](/ja/item/stuck-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 27 |

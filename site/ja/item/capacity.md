@@ -1,6 +1,6 @@
 # 物置
 
-<div class="wiki-infobox" style="--accent:#8a5a2b"><div class="wiki-infobox-title">物置</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📦</span></div><table><tr><th>種類</th><td>所持枠（アイテムの種類数）</td></tr><tr><th>初期の枠</th><td>30</td></tr><tr><th>購入</th><td><a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a>で購入（上限なし）</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#8a5a2b"><div class="wiki-infobox-title">物置</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📦</span></div><table><tr><th>種類</th><td>所持枠（アイテムの種類数）</td></tr><tr><th>初期の枠</th><td>30</td></tr><tr><th>購入</th><td><a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a>で購入（上限なし）</td></tr></table></div>
 
 > 同時に置いておけるアイテムの種類数。コインで枠を買えるほか、ダンジョンで容器を見つけると増える
 

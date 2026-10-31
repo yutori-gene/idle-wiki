@@ -7,9 +7,9 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔔</span>カウベル](/ja/item/cowbell) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 3 |
-| [<span class="wiki-icon">🍀</span>1葉のクローバー](/ja/item/one-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 3 |
-| [<span class="wiki-icon">🐕</span>犬の首輪](/ja/item/dog-collar) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 9 |
+| [<img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル](/ja/item/cowbell) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 3 |
+| [<img class="wiki-icon" src="assets/icon/7bb40479a17528a9.svg" alt="">1葉のクローバー](/ja/item/one-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 3 |
+| [<img class="wiki-icon" src="assets/icon/57382b8c9d69e156.svg" alt="">犬の首輪](/ja/item/dog-collar) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 9 |
 | [<span class="wiki-icon">🦈</span>サメ歯ネックレス](/ja/item/shark-tooth-necklace) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 6 |
 | [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/item/broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 27 |
 | [<span class="wiki-icon">🔴</span>賢者の石](/ja/item/philosophers-stone) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 81 |

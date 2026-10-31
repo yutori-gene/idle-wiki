@@ -1,14 +1,15 @@
 // source/ と notes/ から site/ の Markdown を作る。
 // 実行: npm run wiki-generate
 //
-// site/<lang>/ と site/search/、site/README.md・_404.md・assets/config.js はこのスクリプトの生成物（言語ディレクトリは作り直すたびに消してから書く）。
+// site/<lang>/ と site/search/、site/README.md・_404.md・assets/config.js・assets/icon/ はこのスクリプトの生成物（言語ディレクトリと assets/icon/ は作り直すたびに消してから書く）。
 // 手で直したいときは notes/ に書く（RULES.md「手書きの追記」）
 import * as FS from "fs";
 import * as path from "path";
 import { siteDirectory } from "./lib/path.ts";
 import { build } from "./lib/build.ts";
+import { imageDirectory } from "./lib/image.ts";
 
-function write(file: string, body: string): void {
+function write(file: string, body: string | Buffer): void {
 	FS.mkdirSync(path.dirname(file), { recursive: true });
 	FS.writeFileSync(file, body);
 }
@@ -24,6 +25,9 @@ function main(): void {
 		for (const warning of warnings) console.warn(`  ⚠️ ${warning}`);
 	}
 	for (const { file, body } of result.rootFiles) write(path.join(siteDirectory, file), body);
+	FS.rmSync(path.join(siteDirectory, imageDirectory), { recursive: true, force: true });
+	for (const { file, data } of result.images) write(path.join(siteDirectory, file), data);
+	console.log(`画像: ${result.images.length} 件`);
 }
 
 main();

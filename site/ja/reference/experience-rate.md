@@ -6,14 +6,14 @@
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍂</span>落ち葉拾い](/ja/action/gather-fallen-leaves) |  | 1 | 連続 | 1,080 | 1,058 | 997 |
-| [<span class="wiki-icon">🧹</span>清掃活動](/ja/action/cleanup-activity) |  | 3 | 連続 | 1,080 | 1,058 | 997 |
-| [<span class="wiki-icon">🏖️</span>砂場掘り](/ja/action/dig-sandbox) |  | 5 | 連続 | 1,080 | 1,058 | 997 |
-| [<span class="wiki-icon">🌷</span>花壇の手入れ](/ja/action/tend-flower-bed) |  | 7 | 連続 | 1,080 | 1,058 | 997 |
-| [<span class="wiki-icon">🌳</span>茂みの奥](/ja/action/deep-in-the-bushes) |  | 8 | 単発 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🌇</span>夕暮れの散歩道](/ja/action/twilight-promenade) |  | 12 | 単発 | 1,030 | 841 | 687 |
-| [<span class="wiki-icon">🪷</span>池のほとり](/ja/action/pond-side) |  | 14 | 連続 | 1,080 | 1,058 | 997 |
-| [<span class="wiki-icon">🛶</span>ボート小屋](/ja/action/boathouse) |  | 16 | 単発 | 1,030 | 841 | 687 |
+| [<img class="wiki-icon" src="assets/icon/732665ba6a1aee85.svg" alt="">落ち葉拾い](/ja/action/gather-fallen-leaves) |  | 1 | 連続 | 1,080 | 1,058 | 997 |
+| [<img class="wiki-icon" src="assets/icon/dc1ff4797b8cfa39.svg" alt="">清掃活動](/ja/action/cleanup-activity) |  | 3 | 連続 | 1,080 | 1,058 | 997 |
+| [<img class="wiki-icon" src="assets/icon/eee8a2d4f6796b24.svg" alt="">砂場掘り](/ja/action/dig-sandbox) |  | 5 | 連続 | 1,080 | 1,058 | 997 |
+| [<img class="wiki-icon" src="assets/icon/b9f2fd9a42b74ce8.svg" alt="">花壇の手入れ](/ja/action/tend-flower-bed) |  | 7 | 連続 | 1,080 | 1,058 | 997 |
+| [<img class="wiki-icon" src="assets/icon/ffc8dfbf2e954eb8.svg" alt="">茂みの奥](/ja/action/deep-in-the-bushes) |  | 8 | 単発 | 1,030 | 841 | 687 |
+| [<img class="wiki-icon" src="assets/icon/849075a43bb2d535.svg" alt="">夕暮れの散歩道](/ja/action/twilight-promenade) |  | 12 | 単発 | 1,030 | 841 | 687 |
+| [<img class="wiki-icon" src="assets/icon/8037b426178499e5.svg" alt="">池のほとり](/ja/action/pond-side) |  | 14 | 連続 | 1,080 | 1,058 | 997 |
+| [<img class="wiki-icon" src="assets/icon/1aee9dfc0a917e5f.svg" alt="">ボート小屋](/ja/action/boathouse) |  | 16 | 単発 | 1,030 | 841 | 687 |
 
 ## 🌲 森
 
@@ -42,7 +42,7 @@
 | [<span class="wiki-icon">🐚</span>磯の潮干狩り](/ja/action/tidal-flat-clamming) |  | 3 | 連続 | 1,035 | 1,014 | 955 |
 | [<span class="wiki-icon">🐚</span>浜辺の貝拾い](/ja/action/beach-shell-gathering) |  | 5 | 連続 | 1,035 | 1,014 | 955 |
 | [<span class="wiki-icon">🏝️</span>無人島漂流](/ja/action/desert-island-drift) |  | 8 | 単発 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🚢</span>沈没船探査](/ja/action/shipwreck-survey) |  | 12 | 単発 | 1,029 | 840 | 686 |
+| [<img class="wiki-icon" src="assets/icon/eb3d79c11d7eaf0a.svg" alt="">沈没船探査](/ja/action/shipwreck-survey) |  | 12 | 単発 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">🗼</span>灯台守の小屋](/ja/action/lighthouse-keeper-hut) |  | 30 | 単発 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">🐚</span>海底洞窟](/ja/action/undersea-cave) |  | 40 | 単発 | 1,029 | 840 | — |
 
@@ -139,7 +139,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/action/play-with-chick) |  | 1 | 連続 | 92 | 75 | 61 |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/action/feed-killifish) |  | 3 | 連続 | 92 | 79 | 67 |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) |  | 6 | スタミナ（戦闘） | 91 | 106 | 122 |
+| [<img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ](/ja/action/chicken) |  | 6 | スタミナ（戦闘） | 91 | 106 | 122 |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/action/run-hamster) |  | 8 | 連続 | 92 | 82 | 71 |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/action/pluck-walking-cactus-thorn) |  | 11 | 連続 | 91 | 76 | 63 |
 | [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) |  | 13 | スタミナ（戦闘） | 91 | 106 | 122 |
@@ -178,42 +178,12 @@
 | [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) |  | 46 | 連続 | 1,186 | — | — |
 | [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) |  | 50 | 連続 | 1,185 | — | — |
 
-## 📚 書斎
-
-| アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📙</span>童話](/ja/action/read-fairy-tale) |  | 1 | 単発 | 76 | 62 | 51 |
-| [<span class="wiki-icon">📖</span>絵本](/ja/action/read-picture-book) |  | 3 | 単発 | 75 | 67 | 58 |
-| [<span class="wiki-icon">📚</span>漫画](/ja/action/read-manga) |  | 5 | 単発 | 76 | 65 | 55 |
-| [<span class="wiki-icon">📰</span>新聞](/ja/action/read-newspaper) |  | 7 | 単発 | 75 | 65 | 55 |
-| [<span class="wiki-icon">🎓</span>卒業証書](/ja/action/reread-diploma) |  | 9 | 単発 | 76 | 69 | 60 |
-| [<span class="wiki-icon">🪪</span>免許証](/ja/action/read-license) |  | 11 | 単発 | 75 | 66 | 57 |
-| [<span class="wiki-icon">📗</span>小説](/ja/action/read-novel) |  | 13 | 単発 | 75 | 70 | 62 |
-| [<span class="wiki-icon">📘</span>自己啓発本](/ja/action/read-self-help-book) |  | 15 | 単発 | 75 | 65 | 55 |
-| [<span class="wiki-icon">💌</span>ラブレター](/ja/action/read-love-letter) |  | 17 | 単発 | 75 | 74 | 69 |
-| [<span class="wiki-icon">🎨</span>美術書](/ja/action/read-art-book) |  | 19 | 単発 | 75 | 66 | 57 |
-| [<span class="wiki-icon">📚</span>百科事典](/ja/action/read-encyclopedia) |  | 21 | 単発 | 75 | 62 | 50 |
-| [<span class="wiki-icon">📕</span>詐欺臨床学](/ja/action/fraud-clinical-studies) |  | 23 | 単発 | 75 | 68 | 60 |
-| [<span class="wiki-icon">🗳️</span>投票用紙](/ja/action/read-ballot) |  | 26 | 単発 | 75 | 70 | 62 |
-| [<span class="wiki-icon">📗</span>レシピ本](/ja/action/read-recipe-book) |  | 28 | 単発 | 75 | 61 | 50 |
-| [<span class="wiki-icon">✉️</span>不幸の手紙](/ja/action/read-chain-letter) |  | 30 | 単発 | 75 | 70 | 62 |
-| [<span class="wiki-icon">🗺️</span>地図](/ja/action/read-map) |  | 32 | 単発 | 75 | 74 | — |
-| [<span class="wiki-icon">📜</span>歴史書](/ja/action/read-history-book) |  | 34 | 単発 | 75 | 68 | — |
-| [<span class="wiki-icon">📖</span>聖書](/ja/action/read-bible) |  | 36 | 単発 | 75 | 68 | — |
-| [<span class="wiki-icon">📐</span>数学書](/ja/action/read-math-book) |  | 38 | 単発 | 75 | 67 | — |
-| [<span class="wiki-icon">📕</span>医学書「解体新書」](/ja/action/read-anatomy-book) |  | 40 | 単発 | 75 | 61 | — |
-| [<span class="wiki-icon">📕</span>禁書](/ja/action/read-forbidden-book) |  | 42 | 単発 | 75 | — | — |
-| [<span class="wiki-icon">📓</span>デスノート](/ja/action/read-death-note) |  | 44 | 単発 | 75 | — | — |
-| [<span class="wiki-icon">📕</span>ネクロノミコン](/ja/action/read-necronomicon) |  | 46 | 単発 | 75 | — | — |
-| [<span class="wiki-icon">🌌</span>宇宙真理学](/ja/action/cosmic-truth-studies) |  | 48 | 単発 | 75 | — | — |
-| [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/action/read-catcher-in-the-rye) |  | 50 | 単発 | 75 | — | — |
-
 ## 🗃️ ロフト
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👛</span>財布](/ja/action/open-wallet) |  | 1 | 連続 | 1,200 | 980 | 800 |
-| [<span class="wiki-icon">🗳️</span>募金箱](/ja/action/open-donation-box) |  | 4 | 連続 | 1,200 | 1,176 | 1,108 |
+| [<img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布](/ja/action/open-wallet) |  | 1 | 連続 | 1,200 | 980 | 800 |
+| [<img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱](/ja/action/open-donation-box) |  | 4 | 連続 | 1,200 | 1,176 | 1,108 |
 | [<span class="wiki-icon">🪵</span>木の宝箱](/ja/action/open-wooden-chest) |  | 7 | 連続 | 1,218 | 1,105 | 974 |
 | [<span class="wiki-icon">📦</span>跳び箱](/ja/action/open-vaulting-box) |  | 10 | 連続 | 1,200 | 980 | 800 |
 | [<span class="wiki-icon">📦</span>タイムカプセル](/ja/action/open-time-capsule) |  | 13 | 連続 | 1,200 | 980 | 800 |
@@ -241,7 +211,7 @@
 | [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/action/brew-bubbling-medicine) |  | 7 | 連続 | 1,230 | 1,004 | 820 |
 | [<span class="wiki-icon">💊</span>阿片](/ja/action/brew-opium) |  | 9 | 連続 | 1,242 | 1,049 | 877 |
 | [<span class="wiki-icon">✨</span>発光する薬](/ja/action/brew-glowing-medicine) |  | 11 | 連続 | 1,220 | 996 | 813 |
-| [<span class="wiki-icon">🧪</span>エーテル](/ja/action/brew-ether) |  | 13 | 連続 | 1,215 | 1,082 | 941 |
+| [<img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル](/ja/action/brew-ether) |  | 13 | 連続 | 1,215 | 1,082 | 941 |
 | [<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack) |  | 15 | 連続 | 1,206 | 1,136 | 1,034 |
 | [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops) |  | 17 | 連続 | 1,224 | 1,071 | 918 |
 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack) |  | 19 | 連続 | 1,205 | 1,181 | 1,112 |
@@ -298,19 +268,19 @@
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪵</span>木の棒（分解）](/ja/action/disassemble-wooden-stick) |  | 1 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🌱</span>ネギ（分解）](/ja/action/disassemble-green-onion) |  | 3 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🕷️</span>巨大なクモ](/ja/action/giant-spider) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 5 | スタミナ（戦闘） | 134 | 171 | 214 |
-| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 5 | スタミナ（戦闘） | 100 | 142 | 214 |
-| [<span class="wiki-icon">🐕</span>パブロフの犬](/ja/action/pavlovs-dog) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 6 | スタミナ（戦闘） | 134 | 171 | 214 |
-| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 7 | スタミナ（戦闘） | 134 | 171 | 214 |
-| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 7 | スタミナ（戦闘） | 134 | 171 | 213 |
+| [<img class="wiki-icon" src="assets/icon/ed150292d05a82bb.svg" alt="">木の棒（分解）](/ja/action/disassemble-wooden-stick) |  | 1 | 連続 | 1,032 | 843 | 688 |
+| [<img class="wiki-icon" src="assets/icon/5273f1d36753f2b1.svg" alt="">ネギ（分解）](/ja/action/disassemble-green-onion) |  | 3 | 連続 | 1,032 | 843 | 688 |
+| [<img class="wiki-icon" src="assets/icon/f4a063e2ef801314.svg" alt="">巨大なクモ](/ja/action/giant-spider) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 5 | スタミナ（戦闘） | 134 | 171 | 214 |
+| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 5 | スタミナ（戦闘） | 100 | 142 | 214 |
+| [<img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬](/ja/action/pavlovs-dog) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 6 | スタミナ（戦闘） | 134 | 171 | 214 |
+| [<img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ](/ja/action/beetle) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 7 | スタミナ（戦闘） | 134 | 171 | 214 |
+| [<img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ](/ja/action/snail) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 7 | スタミナ（戦闘） | 134 | 171 | 213 |
 | [<span class="wiki-icon">🎏</span>物干し竿（分解）](/ja/action/disassemble-laundry-pole) |  | 8 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 8 | スタミナ（戦闘） | 114 | 171 | 214 |
 | [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 9 | スタミナ（戦闘） | 114 | 171 | 213 |
 | [<span class="wiki-icon">🥖</span>フランスパン（分解）](/ja/action/disassemble-baguette) |  | 10 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 10 | スタミナ（戦闘） | 115 | 172 | 214 |
-| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
+| [<img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
 | [<span class="wiki-icon">🧙</span>ドルイド](/ja/action/druid) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 114 | 171 | 214 |
 | [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
 | [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 115 | 172 | 214 |
@@ -334,7 +304,7 @@
 | [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 17 | スタミナ（戦闘） | 79 | 121 | 170 |
 | [<span class="wiki-icon">🏏</span>釘バット（分解）](/ja/action/disassemble-nail-bat) |  | 18 | 連続 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">🦯</span>松葉杖（分解）](/ja/action/disassemble-crutch) |  | 19 | 連続 | 1,029 | 840 | 686 |
-| [<span class="wiki-icon">🏴‍☠️</span>海賊](/ja/action/pirate) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 19 | スタミナ（戦闘） | 18 | 28 | 40 |
+| [<img class="wiki-icon" src="assets/icon/5d2bd39c66257c15.svg" alt="">海賊](/ja/action/pirate) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 19 | スタミナ（戦闘） | 18 | 28 | 40 |
 | [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 19 | スタミナ（戦闘） | 18 | 28 | 40 |
 | [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 18 | 28 | 40 |
 | [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 18 | 28 | 39 |
@@ -351,10 +321,10 @@
 | [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 27 | スタミナ（戦闘） | 10 | 16 | 24 |
 | [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | 27 | スタミナ（戦闘） | 10 | 16 | 24 |
 | [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | 28 | スタミナ（戦闘） | 2 | 3 | 5 |
-| [<span class="wiki-icon">🎸</span>ギター（分解）](/ja/action/disassemble-guitar) |  | 29 | 連続 | 1,030 | 841 | 687 |
+| [<img class="wiki-icon" src="assets/icon/2340975207585dcd.svg" alt="">ギター（分解）](/ja/action/disassemble-guitar) |  | 29 | 連続 | 1,030 | 841 | 687 |
 | [<span class="wiki-icon">🔱</span>さすまた](/ja/action/craft-sasumata) |  | 29 | 単発 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | 29 | スタミナ（戦闘） | 2 | 3 | 5 |
-| [<span class="wiki-icon">🎸</span>ギター](/ja/action/craft-guitar) |  | 31 | 単発 | 1,029 | 840 | — |
+| [<img class="wiki-icon" src="assets/icon/67e01eae26cd6f03.svg" alt="">ギター](/ja/action/craft-guitar) |  | 31 | 単発 | 1,029 | 840 | — |
 | [<span class="wiki-icon">🔱</span>さすまた（分解）](/ja/action/disassemble-sasumata) |  | 32 | 連続 | 1,030 | 841 | — |
 | [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | 32 | スタミナ（戦闘） | 2 | 3 | — |
 | [<span class="wiki-icon">🤖</span>暴走ロボット](/ja/action/rampaging-robot) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | 32 | スタミナ（戦闘） | 2 | 3 | — |
@@ -371,40 +341,40 @@
 | [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | 39 | スタミナ（戦闘） | 0 | 0 | — |
 | [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | 39 | スタミナ（戦闘） | 0 | 0 | — |
 | [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | 40 | スタミナ（戦闘） | 0 | 0 | — |
-| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 43 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 43 | スタミナ（戦闘） | 0 | — | — |
 | [<span class="wiki-icon">🗡️</span>ムラマサ](/ja/action/craft-muramasa) |  | 44 | 単発 | 1,029 | — | — |
 | [<span class="wiki-icon">🪄</span>封印の杖](/ja/action/craft-sealing-staff) |  | 44 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 46 | スタミナ（戦闘） | 0 | — | — |
-| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 46 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 46 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 46 | スタミナ（戦闘） | 0 | — | — |
 | [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/action/craft-beam-saber) |  | 47 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 47 | スタミナ（戦闘） | 0 | — | — |
-| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 47 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 47 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 47 | スタミナ（戦闘） | 0 | — | — |
 | [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/action/craft-excalibur) |  | 49 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | 49 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 49 | スタミナ（戦闘） | 0 | — | — |
 | [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/action/craft-key-blade) |  | 50 | 単発 | 1,029 | — | — |
 | [<span class="wiki-icon">🪄</span>如意棒](/ja/action/craft-ruyi-staff) |  | 50 | 単発 | 1,029 | — | — |
 | [<span class="wiki-icon">⚔️</span>マスターソード](/ja/action/craft-master-sword) |  | 50 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">🍝</span>スパゲッティモンスター](/ja/action/spaghetti-monster) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
-| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
-| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🍝</span>スパゲッティモンスター](/ja/action/spaghetti-monster) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
 
 ## 🎯 投擲武器
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐝</span>ハチ（分解）](/ja/action/disassemble-bee) |  | 1 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🌰</span>どんぐりショット（分解）](/ja/action/disassemble-acorn-shot) |  | 3 | 連続 | 1,032 | 843 | 688 |
+| [<img class="wiki-icon" src="assets/icon/b64bebb17d7e4142.svg" alt="">ハチ（分解）](/ja/action/disassemble-bee) |  | 1 | 連続 | 1,032 | 843 | 688 |
+| [<img class="wiki-icon" src="assets/icon/985f799d5f99660a.svg" alt="">どんぐりショット（分解）](/ja/action/disassemble-acorn-shot) |  | 3 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🎯</span>ダーツ（分解）](/ja/action/disassemble-dart) |  | 9 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🐰</span>ラビットガール](/ja/action/rabbit-girl) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 9 | スタミナ（戦闘） | 103 | 159 | 204 |
 | [<span class="wiki-icon">🎯</span>吹き矢（分解）](/ja/action/disassemble-blowgun) |  | 11 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">👺</span>ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 103 | 159 | 203 |
+| [<img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 11 | スタミナ（戦闘） | 103 | 159 | 203 |
 | [<span class="wiki-icon">🧱</span>レンガ](/ja/action/craft-brick) |  | 13 | 単発 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">🧱</span>レンガ（分解）](/ja/action/disassemble-brick) |  | 14 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">⛄</span>雪玉](/ja/action/craft-snowball) |  | 14 | 単発 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">⛄</span>雪玉（分解）](/ja/action/disassemble-snowball) |  | 16 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 16 | スタミナ（戦闘） | 85 | 127 | 199 |
 | [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | 17 | スタミナ（戦闘） | 85 | 127 | 198 |
-| [<span class="wiki-icon">🎯</span>スリングショット（分解）](/ja/action/disassemble-slingshot) |  | 18 | 連続 | 1,029 | 840 | 686 |
+| [<img class="wiki-icon" src="assets/icon/544e8847b2df524b.svg" alt="">スリングショット（分解）](/ja/action/disassemble-slingshot) |  | 18 | 連続 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">🎣</span>釣竿（分解）](/ja/action/disassemble-fishing-rod) |  | 18 | 連続 | 1,029 | 840 | 686 |
 | [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 20 | スタミナ（戦闘） | 77 | 129 | 159 |
 | [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | 22 | スタミナ（戦闘） | 77 | 129 | 159 |
@@ -433,27 +403,27 @@
 | [<span class="wiki-icon">🧚</span>妖精](/ja/action/fairy) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | 40 | スタミナ（戦闘） | 4 | 7 | — |
 | [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | 41 | スタミナ（戦闘） | 4 | — | — |
 | [<span class="wiki-icon">👻</span>宴の亡霊](/ja/action/banquet-ghost) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | 42 | スタミナ（戦闘） | 4 | — | — |
-| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 43 | スタミナ（戦闘） | 2 | — | — |
+| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 43 | スタミナ（戦闘） | 2 | — | — |
 | [<span class="wiki-icon">🔴</span>モンスターボール](/ja/action/craft-monster-ball) |  | 44 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 44 | スタミナ（戦闘） | 2 | — | — |
+| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 44 | スタミナ（戦闘） | 2 | — | — |
 | [<span class="wiki-icon">🔫</span>ロシアンルーレット](/ja/action/craft-russian-roulette) |  | 45 | 単発 | 1,029 | — | — |
 | [<span class="wiki-icon">🎼</span>時のリコーダー](/ja/action/craft-recorder-of-time) |  | 45 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">🐱</span>化け猫](/ja/action/bakeneko) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 45 | スタミナ（戦闘） | 2 | — | — |
-| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 45 | スタミナ（戦闘） | 2 | — | — |
-| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 47 | スタミナ（戦闘） | 2 | — | — |
-| [<span class="wiki-icon">👼</span>ヴァルキリー](/ja/action/valkyrie) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | 49 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🐱</span>化け猫](/ja/action/bakeneko) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 45 | スタミナ（戦闘） | 2 | — | — |
+| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 45 | スタミナ（戦闘） | 2 | — | — |
+| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 47 | スタミナ（戦闘） | 2 | — | — |
+| [<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 49 | スタミナ（戦闘） | 0 | — | — |
 | [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/action/craft-stand-arrow) |  | 50 | 単発 | 1,029 | — | — |
 | [<span class="wiki-icon">🚀</span>マグロケット](/ja/action/craft-tuna-rocket) |  | 50 | 単発 | 1,029 | — | — |
 | [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/action/craft-spear-of-longinus) |  | 50 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">🦄</span>ペガサス](/ja/action/pegasus) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
-| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🦄</span>ペガサス](/ja/action/pegasus) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
 
 ## 💣 爆発武器
 
 | アクション | 場所 | 必要Lv | 進行 | ±0 | +10 | +20 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥚</span>卵（分解）](/ja/action/disassemble-egg) |  | 1 | 連続 | 1,032 | 843 | 688 |
-| [<span class="wiki-icon">🎈</span>水風船（分解）](/ja/action/disassemble-water-balloon) |  | 3 | 連続 | 1,032 | 843 | 688 |
+| [<img class="wiki-icon" src="assets/icon/95ee8d9d6ccf791f.svg" alt="">卵（分解）](/ja/action/disassemble-egg) |  | 1 | 連続 | 1,032 | 843 | 688 |
+| [<img class="wiki-icon" src="assets/icon/8f458c2a40439e96.svg" alt="">水風船（分解）](/ja/action/disassemble-water-balloon) |  | 3 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🥧</span>パイ（分解）](/ja/action/disassemble-pie) |  | 8 | 連続 | 1,032 | 843 | 688 |
 | [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | 8 | スタミナ（戦闘） | 29 | 46 | 64 |
 | [<span class="wiki-icon">🍅</span>トマト（分解）](/ja/action/disassemble-tomato) |  | 9 | 連続 | 1,032 | 843 | 688 |
@@ -487,17 +457,17 @@
 | [<span class="wiki-icon">🪞</span>魔法の鏡](/ja/action/magic-mirror) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | 39 | スタミナ（戦闘） | 0 | 0 | — |
 | [<span class="wiki-icon">🗿</span>ガーゴイル](/ja/action/gargoyle) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | 42 | スタミナ（戦闘） | 0 | — | — |
 | [<span class="wiki-icon">🍎</span>時計仕掛けのリンゴ](/ja/action/craft-clockwork-apple) |  | 43 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">🔥</span>イフリート](/ja/action/ifrit) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 43 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🔥</span>イフリート](/ja/action/ifrit) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 43 | スタミナ（戦闘） | 0 | — | — |
 | [<span class="wiki-icon">🏷️</span>幽霊退治の札](/ja/action/craft-ghost-ward) |  | 44 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">🥶</span>フリーズ様](/ja/action/lord-freeze) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 45 | スタミナ（戦闘） | 0 | — | — |
-| [<span class="wiki-icon">📦</span>ミミック](/ja/action/mimic) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 45 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🥶</span>フリーズ様](/ja/action/lord-freeze) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 45 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 45 | スタミナ（戦闘） | 0 | — | — |
 | [<span class="wiki-icon">🪄</span>スターロッド](/ja/action/craft-star-rod) |  | 46 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | 46 | スタミナ（戦闘） | 0 | — | — |
-| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | 48 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 46 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/300032c34ac7363c.svg" alt="">司祭](/ja/action/priest) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 48 | スタミナ（戦闘） | 0 | — | — |
 | [<span class="wiki-icon">💣</span>N2爆雷](/ja/action/craft-n2-mine) |  | 50 | 単発 | 1,029 | — | — |
 | [<span class="wiki-icon">🐴</span>トロイの木馬](/ja/action/craft-trojan-horse) |  | 50 | 単発 | 1,029 | — | — |
 | [<span class="wiki-icon">🌕</span>元気玉](/ja/action/craft-spirit-bomb) |  | 50 | 単発 | 1,029 | — | — |
 | [<span class="wiki-icon">☢️</span>核爆弾](/ja/action/craft-nuclear-bomb) |  | 50 | 単発 | 1,029 | — | — |
 | [<span class="wiki-icon">🐬</span>軍用イルカ](/ja/action/craft-military-dolphin) |  | 50 | 単発 | 1,029 | — | — |
-| [<span class="wiki-icon">🚗</span>ねこリムジン](/ja/action/cat-limousine) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
-| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🚗</span>ねこリムジン](/ja/action/cat-limousine) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 50 | スタミナ（戦闘） | 0 | — | — |

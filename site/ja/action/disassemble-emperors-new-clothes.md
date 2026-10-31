@@ -1,6 +1,6 @@
 # 裸の王様の服（分解）
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">裸の王様の服（分解）</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👑</span></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>所要時間</th><td>20分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">裸の王様の服（分解）</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👑</span></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>所要時間</th><td>20分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 裸の王様の服を解体して革に戻す。
 
@@ -33,11 +33,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 729 | 108 | 621 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 729 | 108 | 621 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">防具のアクション</div><div class="wiki-navbox-body">95件。一覧は <a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">防具のアクション</div><div class="wiki-navbox-body">95件。一覧は <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> を参照</div></div>
 
 ## 開発者向け情報
 

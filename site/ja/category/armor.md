@@ -1,6 +1,6 @@
 # 防具
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">防具</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🛡️</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/equipment"><span class="wiki-icon">🛠️</span>装備管理</a></td></tr><tr><th>レベル</th><td>なし</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>95本</td></tr><tr><th>管理アイテム</th><td>81種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">防具</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/4b6c89254dce0737.svg" alt=""></div><table><tr><th>グループ</th><td><a href="#/ja/group/equipment"><span class="wiki-icon">🛠️</span>装備管理</a></td></tr><tr><th>レベル</th><td>なし</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>95本</td></tr><tr><th>管理アイテム</th><td>81種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **装備管理型**のカテゴリ。頭部・胴体・腕部・脚部の4部位の防具を合成・分解して装備する。レベルを持たない（numeric=false）。
 
@@ -19,14 +19,14 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥼</span>エプロン（分解）](/ja/action/disassemble-apron) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv5 | 5分 | 100% | — | [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
-| [<span class="wiki-icon">🩴</span>スリッパ（分解）](/ja/action/disassemble-slippers) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv5 | 5分 | 100% | — | [<span class="wiki-icon">🩴</span>スリッパ](/ja/item/slippers) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
-| [<span class="wiki-icon">🎽</span>タンクトップ（分解）](/ja/action/disassemble-tank-top) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv6 | 5分 | 100% | — | [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
-| [<span class="wiki-icon">🧦</span>臭う靴下（分解）](/ja/action/disassemble-smelly-socks) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv6 | 5分 | 100% | — | [<span class="wiki-icon">🧦</span>臭う靴下](/ja/item/smelly-socks) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
-| [<span class="wiki-icon">🧔</span>つけ髭（分解）](/ja/action/disassemble-fake-beard) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv6 | 5分 | 100% | — | [<span class="wiki-icon">🧔</span>つけ髭](/ja/item/fake-beard) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
-| [<span class="wiki-icon">🍲</span>鍋かぶと（分解）](/ja/action/disassemble-pot-helmet) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv6 | 5分 | 100% | — | [<span class="wiki-icon">🍲</span>鍋かぶと](/ja/item/pot-helmet) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
-| [<span class="wiki-icon">🧤</span>ミトン（分解）](/ja/action/disassemble-mitten) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv7 | 5分 | 100% | — | [<span class="wiki-icon">🧤</span>ミトン](/ja/item/mitten) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
-| [<span class="wiki-icon">🧤</span>布の手袋（分解）](/ja/action/disassemble-cloth-gloves) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv7 | 5分 | 100% | — | [<span class="wiki-icon">🧤</span>布の手袋](/ja/item/cloth-gloves) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
+| [<img class="wiki-icon" src="assets/icon/d9e4de07acf12198.svg" alt="">エプロン（分解）](/ja/action/disassemble-apron) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv5 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
+| [<img class="wiki-icon" src="assets/icon/d6b08579f018191e.svg" alt="">スリッパ（分解）](/ja/action/disassemble-slippers) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv5 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/85a5eb144a623cc8.svg" alt="">スリッパ](/ja/item/slippers) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
+| [<img class="wiki-icon" src="assets/icon/59fe73b8c8afe116.svg" alt="">タンクトップ（分解）](/ja/action/disassemble-tank-top) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv6 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
+| [<img class="wiki-icon" src="assets/icon/5d819758de705b7b.svg" alt="">臭う靴下（分解）](/ja/action/disassemble-smelly-socks) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv6 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/da012127f6ed247b.svg" alt="">臭う靴下](/ja/item/smelly-socks) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
+| [<img class="wiki-icon" src="assets/icon/f96dc60e3dc7469c.svg" alt="">つけ髭（分解）](/ja/action/disassemble-fake-beard) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv6 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭](/ja/item/fake-beard) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
+| [<img class="wiki-icon" src="assets/icon/e3d81aef816d4892.svg" alt="">鍋かぶと（分解）](/ja/action/disassemble-pot-helmet) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv6 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/21c4e6a062160394.svg" alt="">鍋かぶと](/ja/item/pot-helmet) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
+| [<img class="wiki-icon" src="assets/icon/16a1a38b54ec46a2.svg" alt="">ミトン（分解）](/ja/action/disassemble-mitten) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv7 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/57b5c51acdb68045.svg" alt="">ミトン](/ja/item/mitten) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
+| [<img class="wiki-icon" src="assets/icon/759ec964a1c1d3c4.svg" alt="">布の手袋（分解）](/ja/action/disassemble-cloth-gloves) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv7 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/16359e1fba4a9c16.svg" alt="">布の手袋](/ja/item/cloth-gloves) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
 | [<span class="wiki-icon">👞</span>木靴（分解）](/ja/action/disassemble-wooden-clogs) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv8 | 10分 | 100% | — | [<span class="wiki-icon">👞</span>木靴](/ja/item/wooden-clogs) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
 | [<span class="wiki-icon">🧤</span>ゴム手袋（分解）](/ja/action/disassemble-rubber-gloves) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv8 | 10分 | 100% | — | [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
 | [<span class="wiki-icon">☂️</span>雨具（分解）](/ja/action/disassemble-raincoat) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv9 | 10分 | 100% | — | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
@@ -43,14 +43,14 @@
 | [<span class="wiki-icon">🧤</span>軍手（分解）](/ja/action/disassemble-work-gloves) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv14 | 15分 | 100% | — | [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
 | [<span class="wiki-icon">😷</span>マスク（分解）](/ja/action/disassemble-mask) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv14 | 15分 | 100% | — | [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/action/craft-sailor-uniform) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv15 | 1時間30分 | 100% | — | [<span class="wiki-icon">🐈</span>野良猫の首輪](/ja/item/stray-cat-collar)×3<br>[<span class="wiki-icon">🟫</span>革](/ja/item/leather)×15 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) |
-| [<span class="wiki-icon">🧤</span>軍手](/ja/action/craft-work-gloves) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv15 | 1時間30分 | 100% | — | [<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">🟫</span>革](/ja/item/leather)×15 | [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) |
-| [<span class="wiki-icon">🐾</span>ネコの手](/ja/action/craft-cat-paw) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv15 | 1時間30分 | 100% | — | [<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">🌿</span>苔](/ja/item/moss)×15 | [<span class="wiki-icon">🐾</span>ネコの手](/ja/item/cat-paw) |
+| [<span class="wiki-icon">🧤</span>軍手](/ja/action/craft-work-gloves) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv15 | 1時間30分 | 100% | — | [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">🟫</span>革](/ja/item/leather)×15 | [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) |
+| [<span class="wiki-icon">🐾</span>ネコの手](/ja/action/craft-cat-paw) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv15 | 1時間30分 | 100% | — | [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">🌿</span>苔](/ja/item/moss)×15 | [<span class="wiki-icon">🐾</span>ネコの手](/ja/item/cat-paw) |
 | [<span class="wiki-icon">🥾</span>カウボーイブーツ（分解）](/ja/action/disassemble-cowboy-boots) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv16 | 15分 | 100% | — | [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/item/cowboy-boots) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
 | [<span class="wiki-icon">🐾</span>ネコの手（分解）](/ja/action/disassemble-cat-paw) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv16 | 15分 | 100% | — | [<span class="wiki-icon">🐾</span>ネコの手](/ja/item/cat-paw) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
-| [<span class="wiki-icon">👞</span>安全靴](/ja/action/craft-safety-shoes) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv16 | 1時間30分 | 100% | — | [<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">🌿</span>苔](/ja/item/moss)×15 | [<span class="wiki-icon">👞</span>安全靴](/ja/item/safety-shoes) |
-| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/action/craft-chef-hat) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv16 | 1時間30分 | 100% | — | [<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">🟫</span>革](/ja/item/leather)×15 | [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/item/chef-hat) |
+| [<span class="wiki-icon">👞</span>安全靴](/ja/action/craft-safety-shoes) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv16 | 1時間30分 | 100% | — | [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">🌿</span>苔](/ja/item/moss)×15 | [<span class="wiki-icon">👞</span>安全靴](/ja/item/safety-shoes) |
+| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/action/craft-chef-hat) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv16 | 1時間30分 | 100% | — | [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">🟫</span>革](/ja/item/leather)×15 | [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/item/chef-hat) |
 | [<span class="wiki-icon">👞</span>安全靴（分解）](/ja/action/disassemble-safety-shoes) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv17 | 15分 | 100% | — | [<span class="wiki-icon">👞</span>安全靴](/ja/item/safety-shoes) | [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) |
-| [<span class="wiki-icon">😷</span>マスク](/ja/action/craft-mask) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv17 | 1時間30分 | 100% | — | [<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">🌿</span>苔](/ja/item/moss)×15 | [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) |
+| [<span class="wiki-icon">😷</span>マスク](/ja/action/craft-mask) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv17 | 1時間30分 | 100% | — | [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">🌿</span>苔](/ja/item/moss)×15 | [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) |
 | [<span class="wiki-icon">🩹</span>腹巻き（分解）](/ja/action/disassemble-belly-warmer) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv18 | 20分 | 100% | — | [<span class="wiki-icon">🩹</span>腹巻き](/ja/item/belly-warmer) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
 | [<span class="wiki-icon">👑</span>裸の王様の服（分解）](/ja/action/disassemble-emperors-new-clothes) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv18 | 20分 | 100% | — | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
 | [<span class="wiki-icon">👓</span>メガネ（分解）](/ja/action/disassemble-glasses) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv18 | 20分 | 100% | — | [<span class="wiki-icon">👓</span>メガネ](/ja/item/glasses) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
@@ -68,14 +68,14 @@
 | [<span class="wiki-icon">🏆</span>月桂冠（分解）](/ja/action/disassemble-laurel-crown) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv26 | 25分 | 100% | — | [<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
 | [<span class="wiki-icon">🔥</span>松明（分解）](/ja/action/disassemble-torch) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv27 | 25分 | 100% | — | [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
 | [<span class="wiki-icon">🥽</span>スカウター（分解）](/ja/action/disassemble-scouter) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv28 | 30分 | 100% | — | [<span class="wiki-icon">🥽</span>スカウター](/ja/item/scouter) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
-| [<span class="wiki-icon">⛓️</span>チェインメイル（分解）](/ja/action/disassemble-chainmail) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv29 | 30分 | 100% | — | [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
+| [<img class="wiki-icon" src="assets/icon/9d3ba59baf84e670.svg" alt="">チェインメイル（分解）](/ja/action/disassemble-chainmail) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv29 | 30分 | 100% | — | [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
 | [<span class="wiki-icon">🥾</span>革のブーツ](/ja/action/craft-leather-boots) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv29 | 3時間 | 100% | — | [<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris)×2<br>[<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth)×10 | [<span class="wiki-icon">🥾</span>革のブーツ](/ja/item/leather-boots) |
 | [<span class="wiki-icon">🧤</span>革の手袋](/ja/action/craft-leather-gloves) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv29 | 3時間 | 100% | — | [<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris)×2<br>[<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth)×10 | [<span class="wiki-icon">🧤</span>革の手袋](/ja/item/leather-gloves) |
 | [<span class="wiki-icon">🥽</span>スカウター](/ja/action/craft-scouter) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv29 | 3時間 | 100% | — | [<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris)×2<br>[<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth)×10 | [<span class="wiki-icon">🥽</span>スカウター](/ja/item/scouter) |
 | [<span class="wiki-icon">🥾</span>革のブーツ（分解）](/ja/action/disassemble-leather-boots) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv30 | 30分 | 100% | — | [<span class="wiki-icon">🥾</span>革のブーツ](/ja/item/leather-boots) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
 | [<span class="wiki-icon">🦵</span>鉄の脇当て（分解）](/ja/action/disassemble-iron-greaves) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv30 | 30分 | 100% | — | [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/item/iron-greaves) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
 | [<span class="wiki-icon">🧤</span>革の手袋（分解）](/ja/action/disassemble-leather-gloves) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv30 | 30分 | 100% | — | [<span class="wiki-icon">🧤</span>革の手袋](/ja/item/leather-gloves) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/action/craft-chainmail) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv30 | 3時間 | 100% | — | [<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log)×2<br>[<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth)×10 | [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) |
+| [<img class="wiki-icon" src="assets/icon/6accad515defd7f8.svg" alt="">チェインメイル](/ja/action/craft-chainmail) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv30 | 3時間 | 100% | — | [<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log)×2<br>[<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth)×10 | [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) |
 | [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/action/craft-crab-claw) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv30 | 3時間 | 100% | — | [<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris)×2<br>[<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth)×10 | [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/item/crab-claw) |
 | [<span class="wiki-icon">⛑️</span>鉄の兜（分解）](/ja/action/disassemble-iron-helmet) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv31 | 30分 | 100% | — | [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/item/iron-helmet) | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/action/craft-bulletproof-vest) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv31 | 3時間 | 100% | — | [<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log)×2<br>[<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth)×10 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) |
@@ -125,8 +125,8 @@
 
 | アイテム | グループ | 装備 | 売値 | 買値 |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧔</span>つけ髭](/ja/item/fake-beard) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 3 | — |
-| [<span class="wiki-icon">🍲</span>鍋かぶと](/ja/item/pot-helmet) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭](/ja/item/fake-beard) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/21c4e6a062160394.svg" alt="">鍋かぶと](/ja/item/pot-helmet) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 3 | — |
 | [<span class="wiki-icon">🧕</span>赤ずきん](/ja/item/red-hood) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 6 | — |
 | [<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 18 | — |
 | [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/item/chef-hat) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 9 | — |
@@ -140,7 +140,7 @@
 | [<span class="wiki-icon">🎎</span>だるま](/ja/item/daruma) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 189 | — |
 | [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/item/pumpkin-head) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 567 | — |
 | [<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 648 | — |
-| [<span class="wiki-icon">🎩</span>絹の帽子](/ja/item/silk-hat) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 648 | — |
+| [<img class="wiki-icon" src="assets/icon/89b6e6d7412928e1.svg" alt="">絹の帽子](/ja/item/silk-hat) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 648 | — |
 | [<span class="wiki-icon">👑</span>王冠](/ja/item/crown) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 1,944 | — |
 | [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/item/jade-hairpin) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 2,187 | — |
 | [<span class="wiki-icon">⚫</span>虚無のリング](/ja/item/void-ring) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 2,187 | — |
@@ -148,8 +148,8 @@
 | [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/item/crystal-skull) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 7,290 | — |
 | [<span class="wiki-icon">👁️</span>写輪眼](/ja/item/sharingan) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 7,290 | — |
 | [<span class="wiki-icon">😇</span>天使の輪](/ja/item/halo) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 | 21,870 | — |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 3 | — |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 3 | — |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 6 | — |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 18 | — |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 9 | — |
@@ -158,7 +158,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 36 | — |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 45 | — |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 135 | — |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 162 | — |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 162 | — |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 162 | — |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 189 | — |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 567 | — |
@@ -169,8 +169,8 @@
 | [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 2,187 | — |
 | [<span class="wiki-icon">👘</span>聖衣](/ja/item/holy-cloth) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 2,430 | — |
 | [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/item/box-gundam) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 | 21,870 | — |
-| [<span class="wiki-icon">🧤</span>ミトン](/ja/item/mitten) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 | 3 | — |
-| [<span class="wiki-icon">🧤</span>布の手袋](/ja/item/cloth-gloves) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/57b5c51acdb68045.svg" alt="">ミトン](/ja/item/mitten) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/16359e1fba4a9c16.svg" alt="">布の手袋](/ja/item/cloth-gloves) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 | 3 | — |
 | [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 | 6 | — |
 | [<span class="wiki-icon">🩱</span>孫の手](/ja/item/back-scratcher) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 | 18 | — |
 | [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 | 9 | — |
@@ -187,8 +187,8 @@
 | [<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/item/aegis) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 | 1,944 | — |
 | [<span class="wiki-icon">🛡️</span>矛盾](/ja/item/contradiction) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 | 2,187 | — |
 | [<span class="wiki-icon">🧤</span>無限の手袋](/ja/item/infinity-gauntlet) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 | 7,290 | — |
-| [<span class="wiki-icon">🧦</span>臭う靴下](/ja/item/smelly-socks) | [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | 装備必須 | 3 | — |
-| [<span class="wiki-icon">🩴</span>スリッパ](/ja/item/slippers) | [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | 装備必須 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/da012127f6ed247b.svg" alt="">臭う靴下](/ja/item/smelly-socks) | [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | 装備必須 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/85a5eb144a623cc8.svg" alt="">スリッパ](/ja/item/slippers) | [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | 装備必須 | 3 | — |
 | [<span class="wiki-icon">👞</span>木靴](/ja/item/wooden-clogs) | [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | 装備必須 | 6 | — |
 | [<span class="wiki-icon">🧦</span>レッグウォーマー](/ja/item/leg-warmer) | [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | 装備必須 | 18 | — |
 | [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/item/cowboy-boots) | [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | 装備必須 | 9 | — |
@@ -211,22 +211,22 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -243,8 +243,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -273,8 +274,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -283,7 +284,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
@@ -298,7 +299,7 @@
 
 </details>
 
-<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">装備管理</div><div class="wiki-navbox-body"><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a> ・ <a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a> ・ <a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a> ・ <a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a> ・ <a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></div></div>
+<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">装備管理</div><div class="wiki-navbox-body"><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a> ・ <a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a> ・ <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> ・ <a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a> ・ <a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></div></div>
 
 ## 開発者向け情報
 
@@ -600,7 +601,7 @@ tier に対応する period のダンジョンへ、題材の合うアクショ�
 		"icon": {
 			"emoji": "🛡️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/4b6c89254dce0737.svg）"
 		},
 		"color": "#3a4047"
 	},

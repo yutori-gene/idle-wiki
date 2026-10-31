@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv18以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) ×1（消費しない）
+- [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) ×1（消費しない）
 - [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -19,7 +19,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥚</span>卵](/ja/item/egg) ×2 | 成功時 | 66.7% | 1 | 2 |
+| [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg) ×2 | 成功時 | 66.7% | 1 | 2 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 75%（レベル差0・装備なし）で按分した値。
 
@@ -38,11 +38,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 6 | 6 | 0 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 6 | 6 | 0 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">庭のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/play-with-chick"><span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）</a> ・ <a href="#/ja/action/feed-killifish"><span class="wiki-icon">🐟</span>メダカ</a> ・ <a href="#/ja/action/run-hamster"><span class="wiki-icon">🐹</span>ハム右衛門</a> ・ <a href="#/ja/action/pluck-walking-cactus-thorn"><span class="wiki-icon">🌵</span>歩くサボテン</a> ・ <a href="#/ja/action/care-for-chicken"><span class="wiki-icon">🐔</span>ピヨちゃん</a> ・ <a href="#/ja/action/bathe-duck"><span class="wiki-icon">🦆</span>醜いアヒル</a> ・ <a href="#/ja/action/cheer-up-underdog"><span class="wiki-icon">🐕</span>パブロフ</a> ・ <a href="#/ja/action/walk-turtle"><span class="wiki-icon">🐢</span>クッパ</a> ・ <a href="#/ja/action/talk-with-parroting-parrot"><span class="wiki-icon">🦜</span>オウム返しするオウム</a> ・ <a href="#/ja/action/take-out-jones"><span class="wiki-icon">🎩</span>ジョーンズ</a> ・ <a href="#/ja/action/pen-pen-fishing"><span class="wiki-icon">🐧</span>ペンペン</a> ・ <a href="#/ja/action/scout-with-r2d2"><span class="wiki-icon">🤖</span>R2D2</a> ・ <a href="#/ja/action/bathe-kero-chan"><span class="wiki-icon">🐸</span>ケロちゃん</a> ・ <a href="#/ja/action/play-with-flame-fox"><span class="wiki-icon">🦊</span>炎のキツネ</a> ・ <a href="#/ja/action/play-with-fire-bird"><span class="wiki-icon">🐦‍🔥</span>炎の鳥</a> ・ <a href="#/ja/action/ask-five-color-cat"><span class="wiki-icon">🐱</span>シュレーディンガー</a> ・ <a href="#/ja/action/feed-flying-goldfish"><span class="wiki-icon">🐠</span>空飛ぶ金魚</a> ・ <a href="#/ja/action/ride-flying-pig"><span class="wiki-icon">🐷</span>空飛ぶブタ</a> ・ <a href="#/ja/action/chicken"><span class="wiki-icon">🐔</span>ニワトリ</a> ・ <a href="#/ja/action/pansy"><span class="wiki-icon">🐈</span>パンシー</a> ・ <a href="#/ja/action/earthworm"><span class="wiki-icon">🪱</span>ミミズ</a></div></div>
+<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">庭のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/play-with-chick"><span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）</a> ・ <a href="#/ja/action/feed-killifish"><span class="wiki-icon">🐟</span>メダカ</a> ・ <a href="#/ja/action/run-hamster"><span class="wiki-icon">🐹</span>ハム右衛門</a> ・ <a href="#/ja/action/pluck-walking-cactus-thorn"><span class="wiki-icon">🌵</span>歩くサボテン</a> ・ <a href="#/ja/action/care-for-chicken"><span class="wiki-icon">🐔</span>ピヨちゃん</a> ・ <a href="#/ja/action/bathe-duck"><span class="wiki-icon">🦆</span>醜いアヒル</a> ・ <a href="#/ja/action/cheer-up-underdog"><span class="wiki-icon">🐕</span>パブロフ</a> ・ <a href="#/ja/action/walk-turtle"><span class="wiki-icon">🐢</span>クッパ</a> ・ <a href="#/ja/action/talk-with-parroting-parrot"><span class="wiki-icon">🦜</span>オウム返しするオウム</a> ・ <a href="#/ja/action/take-out-jones"><span class="wiki-icon">🎩</span>ジョーンズ</a> ・ <a href="#/ja/action/pen-pen-fishing"><span class="wiki-icon">🐧</span>ペンペン</a> ・ <a href="#/ja/action/scout-with-r2d2"><span class="wiki-icon">🤖</span>R2D2</a> ・ <a href="#/ja/action/bathe-kero-chan"><span class="wiki-icon">🐸</span>ケロちゃん</a> ・ <a href="#/ja/action/play-with-flame-fox"><span class="wiki-icon">🦊</span>炎のキツネ</a> ・ <a href="#/ja/action/play-with-fire-bird"><span class="wiki-icon">🐦‍🔥</span>炎の鳥</a> ・ <a href="#/ja/action/ask-five-color-cat"><span class="wiki-icon">🐱</span>シュレーディンガー</a> ・ <a href="#/ja/action/feed-flying-goldfish"><span class="wiki-icon">🐠</span>空飛ぶ金魚</a> ・ <a href="#/ja/action/ride-flying-pig"><span class="wiki-icon">🐷</span>空飛ぶブタ</a> ・ <a href="#/ja/action/chicken"><img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ</a> ・ <a href="#/ja/action/pansy"><span class="wiki-icon">🐈</span>パンシー</a> ・ <a href="#/ja/action/earthworm"><span class="wiki-icon">🪱</span>ミミズ</a></div></div>
 
 ## 開発者向け情報
 

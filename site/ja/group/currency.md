@@ -1,6 +1,6 @@
 # 通貨
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">通貨</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪙</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">通貨</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/01163b1df7b4d2b2.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr></table></div>
 
 
 ## 開発者向け情報
@@ -25,7 +25,7 @@
 	"icon": {
 		"emoji": "🪙",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/01163b1df7b4d2b2.svg）"
 	},
 	"color": ""
 }

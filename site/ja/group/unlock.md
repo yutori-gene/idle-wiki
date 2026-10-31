@@ -1,6 +1,6 @@
 # 開錠
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">開錠</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔓</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>18本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">開錠</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f19b8946f7da57a2.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>18本</td></tr></table></div>
 
 
 ## アクション
@@ -9,8 +9,8 @@
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">👛</span>財布](/ja/action/open-wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 連続 |
-| [<span class="wiki-icon">🗳️</span>募金箱](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布](/ja/action/open-wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 連続 |
 | [<span class="wiki-icon">🪵</span>木の宝箱](/ja/action/open-wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 連続 |
 | [<span class="wiki-icon">📦</span>跳び箱](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 連続 |
 | [<span class="wiki-icon">📦</span>タイムカプセル](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv13 | 連続 |
@@ -50,7 +50,7 @@
 	"icon": {
 		"emoji": "🔓",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/f19b8946f7da57a2.svg）"
 	},
 	"color": ""
 }

@@ -1,6 +1,6 @@
 # 財布
 
-<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">財布</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👛</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/treasure-chest"><span class="wiki-icon">🎁</span>宝箱</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">財布</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/2a12bcdb457a4a71.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/treasure-chest"><span class="wiki-icon">🎁</span>宝箱</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 中身がないほど軽くなる。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 1 | 0.317% | 0.002 | 0.251 |
-| [<span class="wiki-icon">🌳</span>茂みの奥](/ja/action/deep-in-the-bushes) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv8 | 1 | 50.1% | 0.501 | 1 |
+| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 | 1 | 0.317% | 0.002 | 0.251 |
+| [<img class="wiki-icon" src="assets/icon/ffc8dfbf2e954eb8.svg" alt="">茂みの奥](/ja/action/deep-in-the-bushes) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv8 | 1 | 50.1% | 0.501 | 1 |
 
 ## 用途
 
@@ -20,9 +20,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👛</span>財布](/ja/action/open-wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布](/ja/action/open-wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 1 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">グループ: 宝箱</div><div class="wiki-navbox-body"><a href="#/ja/item/donation-box"><span class="wiki-icon">🗳️</span>募金箱</a> ・ <a href="#/ja/item/wallet"><span class="wiki-icon">👛</span>財布</a> ・ <a href="#/ja/item/wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱</a> ・ <a href="#/ja/item/time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/item/vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/item/iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱</a> ・ <a href="#/ja/item/great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/item/cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱</a> ・ <a href="#/ja/item/medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱</a> ・ <a href="#/ja/item/tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱</a> ・ <a href="#/ja/item/giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱</a> ・ <a href="#/ja/item/pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/item/ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/item/vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/item/sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/item/pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a> ・ <a href="#/ja/item/rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱</a> ・ <a href="#/ja/item/schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a></div></div>
+<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">グループ: 宝箱</div><div class="wiki-navbox-body"><a href="#/ja/item/donation-box"><img class="wiki-icon" src="assets/icon/5676c877b5bc47f0.svg" alt="">募金箱</a> ・ <a href="#/ja/item/wallet"><img class="wiki-icon" src="assets/icon/2a12bcdb457a4a71.svg" alt="">財布</a> ・ <a href="#/ja/item/wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱</a> ・ <a href="#/ja/item/time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/item/vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/item/iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱</a> ・ <a href="#/ja/item/great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/item/cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱</a> ・ <a href="#/ja/item/medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱</a> ・ <a href="#/ja/item/tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱</a> ・ <a href="#/ja/item/giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱</a> ・ <a href="#/ja/item/pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/item/ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/item/vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/item/sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/item/pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a> ・ <a href="#/ja/item/rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱</a> ・ <a href="#/ja/item/schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a></div></div>
 
 ## 開発者向け情報
 
@@ -55,7 +55,7 @@
 		"icon": {
 			"emoji": "👛",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/2a12bcdb457a4a71.svg）"
 		},
 		"color": ""
 	},

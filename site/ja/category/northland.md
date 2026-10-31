@@ -1,6 +1,6 @@
 # 北国
 
-<div class="wiki-infobox" style="--accent:#6b8a92"><div class="wiki-infobox-title">北国</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">❄️</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6b8a92"><div class="wiki-infobox-title">北国</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">❄️</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><img class="wiki-icon" src="assets/icon/d951ade1a5f324ab.svg" alt="">ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **5番目のダンジョン**（難易度 ★★★☆☆・静謐・幻想）。収集は氷・毛皮・薬草、討伐は雪獣・氷系、探索は雪原の遺跡が中心。
 
@@ -15,6 +15,7 @@
 
 - [<span class="wiki-icon">🌊</span>海](/ja/category/sea) Lv20以上
 - [<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) ×1
+- [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) ×1
 
 ## アクション
 
@@ -22,23 +23,23 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏛️</span>雪原の遺跡](/ja/action/snowfield-ruins) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 50秒 | 50% | 1,044 |  | [<span class="wiki-icon">🪵</span>雪](/ja/item/snow)×7 (91%)<br>[<span class="wiki-icon">❄️</span>霜](/ja/item/frost)×5 (56%)<br>[<span class="wiki-icon">🪵</span>白樺の皮](/ja/item/birch-bark)×5 (56%)<br>[<span class="wiki-icon">🪨</span>漬物石](/ja/item/pickling-stone)×5 (56%)<br>[<span class="wiki-icon">🧊</span>氷柱](/ja/item/ice-pillar)×5 (56%)<br>[<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage)×3 (48%)<br>[<span class="wiki-icon">🥕</span>大根](/ja/item/daikon)×3 (48%)<br>[<span class="wiki-icon">⛄</span>雪だるま](/ja/item/snowman)×2 (25.9%)<br>[<span class="wiki-icon">🧥</span>防寒着](/ja/item/winter-coat) (25.9%)<br>[<span class="wiki-icon">🐢</span>カメの甲羅](/ja/item/turtle-shell)×2 (25.9%) |
-| [<span class="wiki-icon">🧊</span>凍った湖畔](/ja/action/frozen-lakeside) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 50秒 | 50% | 1,044 |  | [<span class="wiki-icon">🧊</span>氷](/ja/item/ice)×7 (91%)<br>[<span class="wiki-icon">❄️</span>雪の塊](/ja/item/snow-chunk)×5 (56%)<br>[<span class="wiki-icon">🧊</span>つらら](/ja/item/icicle)×5 (56%)<br>[<span class="wiki-icon">🌨️</span>凍った枝](/ja/item/frozen-branch)×5 (56%)<br>[<span class="wiki-icon">❄️</span>霜のかけら](/ja/item/frost-piece)×3 (48%)<br>[<span class="wiki-icon">🐟</span>タラ](/ja/item/cod)×3 (48%)<br>[<span class="wiki-icon">🌌</span>極夜の結晶](/ja/item/polar-night-crystal)<br>[<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) (8.64%)<br>[<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) (10.4%)<br>[<span class="wiki-icon">🐾</span>雪うさぎの足跡](/ja/item/snow-rabbit-track)×3 (57.6%) |
-| [<span class="wiki-icon">🐉</span>竜の巣穴](/ja/action/dragon-den) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 2時間30分 | 100% | 1,029 |  | [<span class="wiki-icon">📖</span>聖書](/ja/item/bible)<br>[<span class="wiki-icon">💊</span>ホイポイカプセル](/ja/item/hoi-poi-capsule)<br>[<span class="wiki-icon">🧊</span>永久凍土のかけら](/ja/item/permafrost-piece)×2<br>[<span class="wiki-icon">🧊</span>凍った琥珀](/ja/item/frozen-amber)<br>[<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal) (12.4%)<br>[<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes)<br>[<span class="wiki-icon">🧦</span>絹の足袷](/ja/item/silk-leggings)<br>[<span class="wiki-icon">💼</span>アタッシュケース](/ja/item/attache-case)<br>[<span class="wiki-icon">✨</span>閃光弾](/ja/item/flashbang)<br>[<span class="wiki-icon">🍀</span>-4葉のクローバー](/ja/item/minus-four-leaf-clover) |
-| [<span class="wiki-icon">🦅</span>グリフィン](/ja/action/griffin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 1.5秒 | 50% | 12 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.5%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (5%)<br>[<span class="wiki-icon">🦊</span>銀狐の尾](/ja/item/silver-fox-tail) (0.576%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.48%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.043%)<br>[<span class="wiki-icon">🌌</span>オーロラの欠片](/ja/item/aurora-fragment) (0.182%) |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックス](/ja/action/phoenix) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 1.4秒 | 50% | 12 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (3.14%)<br>[<span class="wiki-icon">🔥</span>松明](/ja/item/torch) (0.087%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.04%) |
-| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 2.4秒 | 50% | 10 |  | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (1.84%)<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (0.768%)<br>[<span class="wiki-icon">🗡️</span>氷の剣](/ja/item/ice-sword) (0.18%)<br>[<span class="wiki-icon">🧊</span>永久凍土の心臓](/ja/item/permafrost-heart) (0.083%)<br>[<span class="wiki-icon">🍾</span>火炎ビン](/ja/item/molotov) (0.922%)<br>[<span class="wiki-icon">📿</span>十字架のロザリオ](/ja/item/cross-rosary) (0.29%) |
-| [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv24 | 1.5秒 | 50% | 12 | [<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom)×3 (0.5%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (5%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.48%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.043%)<br>[<span class="wiki-icon">🌙</span>月の紋章](/ja/item/moon-emblem) (0.182%) |
-| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 2.5秒 | 50% | 10 | [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) (0.833%)<br>[<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana) (0.833%) | [<span class="wiki-icon">🦣</span>マンモスの牙](/ja/item/mammoth-tusk) (2.3%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (1.92%)<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (0.8%)<br>[<span class="wiki-icon">🧊</span>冷たい宝箱](/ja/item/cold-chest) (0.156%)<br>[<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) (0.156%) |
-| [<span class="wiki-icon">🐲</span>ドラゴンキッズ](/ja/action/dragon-kid) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 1.6秒 | 50% | 10 |  | [<span class="wiki-icon">🫐</span>凍結ベリー](/ja/item/frozen-berry) (0.614%)<br>[<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar) (0.512%)<br>[<span class="wiki-icon">🔨</span>ピコハンマー](/ja/item/pico-hammer) (0.1%) |
-| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.7秒 | 50% | 10 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.567%) | [<span class="wiki-icon">🐻</span>毛皮](/ja/item/fur) (1.31%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.544%)<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (0.544%) |
-| [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.9秒 | 50% | 10 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.633%) | [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (1.46%)<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (4.26%)<br>[<span class="wiki-icon">🦷</span>入れ歯](/ja/item/dentures) (0.142%) |
-| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.8秒 | 50% | 10 | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (0.6%) | [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (1.38%)<br>[<span class="wiki-icon">🧊</span>冷たい宝箱](/ja/item/cold-chest) (0.181%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.052%) |
-| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.3秒 | 50% | 1 |  | [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) (6.16%)<br>[<span class="wiki-icon">❄️</span>霜](/ja/item/frost) (2.11%)<br>[<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal) (0.114%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.152%)<br>[<span class="wiki-icon">💫</span>高速回転してる指輪](/ja/item/spinning-ring) (0.399%)<br>[<span class="wiki-icon">✨</span>閃光弾](/ja/item/flashbang) (0.247%) |
-| [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.4秒 | 50% | 1 | [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) (1.13%) | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (2.61%)<br>[<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) (0.212%)<br>[<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) (0.098%) |
-| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2秒 | 50% | 10 |  | [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) (0.768%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.64%)<br>[<span class="wiki-icon">🪵</span>枝](/ja/item/branch) (0.64%)<br>[<span class="wiki-icon">❄️</span>凍土の根](/ja/item/frozen-soil-root) (0.15%)<br>[<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) (0.014%) |
-| [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.5秒 | 50% | 1 |  | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (7.84%)<br>[<span class="wiki-icon">🌌</span>極光石](/ja/item/auroral-stone) (0.262%)<br>[<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) (0.218%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.101%) |
-| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2.2秒 | 50% | 10 | [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod) (0.733%) | [<span class="wiki-icon">🐻‍❄️</span>白い毛皮](/ja/item/white-fur) (4.11%)<br>[<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマの爪](/ja/item/polar-bear-claw) (1.69%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.704%)<br>[<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) (0.009%)<br>[<span class="wiki-icon">🐾</span>雪男の足跡](/ja/item/yeti-track) (0.266%) |
+| [<span class="wiki-icon">🏛️</span>雪原の遺跡](/ja/action/snowfield-ruins) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 50秒 | 50% | 1,044 |  | [<span class="wiki-icon">🪵</span>雪](/ja/item/snow)×7 (91%)<br>[<span class="wiki-icon">❄️</span>霜](/ja/item/frost)×5 (56%)<br>[<span class="wiki-icon">🪵</span>白樺の皮](/ja/item/birch-bark)×5 (56%)<br>[<span class="wiki-icon">🪨</span>漬物石](/ja/item/pickling-stone)×5 (56%)<br>[<span class="wiki-icon">🧊</span>氷柱](/ja/item/ice-pillar)×5 (56%)<br>[<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage)×3 (48%)<br>[<span class="wiki-icon">🥕</span>大根](/ja/item/daikon)×3 (48%)<br>[<span class="wiki-icon">⛄</span>雪だるま](/ja/item/snowman)×2 (25.9%)<br>[<span class="wiki-icon">🧥</span>防寒着](/ja/item/winter-coat) (25.9%)<br>[<span class="wiki-icon">🐢</span>カメの甲羅](/ja/item/turtle-shell)×2 (25.9%) |
+| [<span class="wiki-icon">🧊</span>凍った湖畔](/ja/action/frozen-lakeside) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 50秒 | 50% | 1,044 |  | [<span class="wiki-icon">🧊</span>氷](/ja/item/ice)×7 (91%)<br>[<span class="wiki-icon">❄️</span>雪の塊](/ja/item/snow-chunk)×5 (56%)<br>[<span class="wiki-icon">🧊</span>つらら](/ja/item/icicle)×5 (56%)<br>[<span class="wiki-icon">🌨️</span>凍った枝](/ja/item/frozen-branch)×5 (56%)<br>[<span class="wiki-icon">❄️</span>霜のかけら](/ja/item/frost-piece)×3 (48%)<br>[<span class="wiki-icon">🐟</span>タラ](/ja/item/cod)×3 (48%)<br>[<span class="wiki-icon">🌌</span>極夜の結晶](/ja/item/polar-night-crystal)<br>[<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) (8.64%)<br>[<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) (10.4%)<br>[<span class="wiki-icon">🐾</span>雪うさぎの足跡](/ja/item/snow-rabbit-track)×3 (57.6%) |
+| [<span class="wiki-icon">🐉</span>竜の巣穴](/ja/action/dragon-den) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv8 | 2時間30分 | 100% | 1,029 |  | [<span class="wiki-icon">📖</span>聖書](/ja/item/bible)<br>[<span class="wiki-icon">💊</span>ホイポイカプセル](/ja/item/hoi-poi-capsule)<br>[<span class="wiki-icon">🧊</span>永久凍土のかけら](/ja/item/permafrost-piece)×2<br>[<span class="wiki-icon">🧊</span>凍った琥珀](/ja/item/frozen-amber)<br>[<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal) (12.4%)<br>[<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes)<br>[<span class="wiki-icon">🧦</span>絹の足袷](/ja/item/silk-leggings)<br>[<span class="wiki-icon">💼</span>アタッシュケース](/ja/item/attache-case)<br>[<span class="wiki-icon">✨</span>閃光弾](/ja/item/flashbang)<br>[<span class="wiki-icon">🍀</span>-4葉のクローバー](/ja/item/minus-four-leaf-clover) |
+| [<span class="wiki-icon">🦅</span>グリフィン](/ja/action/griffin) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 1.5秒 | 50% | 12 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.5%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (5%)<br>[<span class="wiki-icon">🦊</span>銀狐の尾](/ja/item/silver-fox-tail) (0.576%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.48%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.043%)<br>[<span class="wiki-icon">🌌</span>オーロラの欠片](/ja/item/aurora-fragment) (0.182%) |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックス](/ja/action/phoenix) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 1.4秒 | 50% | 12 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (3.14%)<br>[<span class="wiki-icon">🔥</span>松明](/ja/item/torch) (0.087%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.04%) |
+| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 2.4秒 | 50% | 10 |  | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (1.84%)<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (0.768%)<br>[<span class="wiki-icon">🗡️</span>氷の剣](/ja/item/ice-sword) (0.18%)<br>[<span class="wiki-icon">🧊</span>永久凍土の心臓](/ja/item/permafrost-heart) (0.083%)<br>[<span class="wiki-icon">🍾</span>火炎ビン](/ja/item/molotov) (0.922%)<br>[<span class="wiki-icon">📿</span>十字架のロザリオ](/ja/item/cross-rosary) (0.29%) |
+| [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv24 | 1.5秒 | 50% | 12 | [<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom)×3 (0.5%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (5%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.48%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.043%)<br>[<span class="wiki-icon">🌙</span>月の紋章](/ja/item/moon-emblem) (0.182%) |
+| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 2.5秒 | 50% | 10 | [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) (0.833%)<br>[<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana) (0.833%) | [<span class="wiki-icon">🦣</span>マンモスの牙](/ja/item/mammoth-tusk) (2.3%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (1.92%)<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (0.8%)<br>[<span class="wiki-icon">🧊</span>冷たい宝箱](/ja/item/cold-chest) (0.156%)<br>[<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) (0.156%) |
+| [<span class="wiki-icon">🐲</span>ドラゴンキッズ](/ja/action/dragon-kid) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv25 | 1.6秒 | 50% | 10 |  | [<span class="wiki-icon">🫐</span>凍結ベリー](/ja/item/frozen-berry) (0.614%)<br>[<img class="wiki-icon" src="assets/icon/b9c2295c04c97dd4.svg" alt="">毛虫](/ja/item/caterpillar) (0.512%)<br>[<span class="wiki-icon">🔨</span>ピコハンマー](/ja/item/pico-hammer) (0.1%) |
+| [<span class="wiki-icon">🐯</span>トラ](/ja/action/tiger) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.7秒 | 50% | 10 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.567%) | [<span class="wiki-icon">🐻</span>毛皮](/ja/item/fur) (1.31%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.544%)<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (0.544%) |
+| [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.9秒 | 50% | 10 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.633%) | [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (1.46%)<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (4.26%)<br>[<span class="wiki-icon">🦷</span>入れ歯](/ja/item/dentures) (0.142%) |
+| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv26 | 1.8秒 | 50% | 10 | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (0.6%) | [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (1.38%)<br>[<span class="wiki-icon">🧊</span>冷たい宝箱](/ja/item/cold-chest) (0.181%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.052%) |
+| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.3秒 | 50% | 1 |  | [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) (6.16%)<br>[<span class="wiki-icon">❄️</span>霜](/ja/item/frost) (2.11%)<br>[<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal) (0.114%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.152%)<br>[<span class="wiki-icon">💫</span>高速回転してる指輪](/ja/item/spinning-ring) (0.399%)<br>[<span class="wiki-icon">✨</span>閃光弾](/ja/item/flashbang) (0.247%) |
+| [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.4秒 | 50% | 1 | [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) (1.13%) | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (2.61%)<br>[<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) (0.212%)<br>[<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) (0.098%) |
+| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2秒 | 50% | 10 |  | [<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) (0.768%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.64%)<br>[<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) (0.64%)<br>[<span class="wiki-icon">❄️</span>凍土の根](/ja/item/frozen-soil-root) (0.15%)<br>[<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) (0.014%) |
+| [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 3.5秒 | 50% | 1 |  | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (7.84%)<br>[<span class="wiki-icon">🌌</span>極光石](/ja/item/auroral-stone) (0.262%)<br>[<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) (0.218%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.101%) |
+| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv27 | 2.2秒 | 50% | 10 | [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod) (0.733%) | [<span class="wiki-icon">🐻‍❄️</span>白い毛皮](/ja/item/white-fur) (4.11%)<br>[<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマの爪](/ja/item/polar-bear-claw) (1.69%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.704%)<br>[<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) (0.009%)<br>[<span class="wiki-icon">🐾</span>雪男の足跡](/ja/item/yeti-track) (0.266%) |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -46,26 +47,22 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-| アイテム | 装備 | 攻撃 |
-| --- | --- | --- |
-| [<span class="wiki-icon">💪</span>自信](/ja/item/confidence) | 装備不要 | +1 |
-
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -82,8 +79,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -112,8 +110,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -122,7 +120,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
@@ -143,13 +141,13 @@
 | --- | --- | --- |
 | Lv1 | 0 | [<span class="wiki-icon">🏛️</span>雪原の遺跡](/ja/action/snowfield-ruins)（実行） |
 | Lv3 | 211 | [<span class="wiki-icon">🧊</span>凍った湖畔](/ja/action/frozen-lakeside)（実行） |
-| Lv8 | 978 | [<span class="wiki-icon">🐉</span>竜の巣穴](/ja/action/dragon-den)（実行）<br>[<span class="wiki-icon">🥕</span>大根](/ja/item/daikon)（解放）<br>[<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack)（解放） |
+| Lv8 | 978 | [<span class="wiki-icon">🐉</span>竜の巣穴](/ja/action/dragon-den)（実行）<br>[<span class="wiki-icon">📖</span>聖書](/ja/action/read-bible)（実行条件）<br>[<span class="wiki-icon">🥕</span>大根](/ja/item/daikon)（解放）<br>[<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack)（解放） |
 | Lv10 | 1,416 | [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod)（解放）<br>[<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage)（解放）<br>[<span class="wiki-icon">🫐</span>凍結ベリー](/ja/item/frozen-berry)（解放）<br>[<span class="wiki-icon">🧊</span>氷結の試練](/ja/event/frozen-trial)（達成条件） |
 | Lv20 | 5,694 | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory)（解放）<br>[<span class="wiki-icon">👸</span>北国の女王](/ja/event/northland-queen)（達成条件） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#6b8a92"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
+<div class="wiki-navbox" style="--accent:#6b8a92"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄</a> ・ <a href="#/ja/category/sky-garden"><img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭</a></div></div>
 
 ## 開発者向け情報
 
@@ -610,6 +608,13 @@ Step 3-A2 の「供給待ちは Step 3 を一周してからまとめて割り�
 		{
 			"type": "item",
 			"id": "sea-god-trident",
+			"count": 1,
+			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "hidden-path-to-northland",
 			"count": 1,
 			"chance": 1,
 			"equipment": false

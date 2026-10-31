@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass) ×3（消費する）
+- [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass) ×3（消費する）
 - [<span class="wiki-icon">❤️</span>ルビー](/ja/item/ruby) ×2（消費する）
 - [<span class="wiki-icon">💚</span>エメラルド](/ja/item/emerald) ×4（消費する）
 
@@ -35,7 +35,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 67 | -67 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 0 | 67 | -67 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

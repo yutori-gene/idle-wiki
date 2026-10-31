@@ -1,6 +1,6 @@
 # ピヨちゃん
 
-<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">ピヨちゃん</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐔</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">ピヨちゃん</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/a3c1b5f50f712b2e.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/pet"><span class="wiki-icon">🐾</span>ペット</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ピヨちゃん（ジュニア）の親。毎朝きっかり同じ時刻に起こしてくる。
 
@@ -27,9 +27,9 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) ×1（消費しない） |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) ×1（消費しない） |
 
-<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">グループ: ペット</div><div class="wiki-navbox-body"><a href="#/ja/item/chick"><span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）</a> ・ <a href="#/ja/item/killifish"><span class="wiki-icon">🐟</span>メダカ</a> ・ <a href="#/ja/item/hamster"><span class="wiki-icon">🐹</span>ハム右衛門</a> ・ <a href="#/ja/item/walking-cactus"><span class="wiki-icon">🌵</span>歩くサボテン</a> ・ <a href="#/ja/item/chicken"><span class="wiki-icon">🐔</span>ピヨちゃん</a> ・ <a href="#/ja/item/underdog"><span class="wiki-icon">🐕</span>パブロフ</a> ・ <a href="#/ja/item/duck"><span class="wiki-icon">🦆</span>醜いアヒル</a> ・ <a href="#/ja/item/jones"><span class="wiki-icon">🎩</span>ジョーンズ</a> ・ <a href="#/ja/item/turtle"><span class="wiki-icon">🐢</span>クッパ</a> ・ <a href="#/ja/item/parroting-parrot"><span class="wiki-icon">🦜</span>オウム返しするオウム</a> ・ <a href="#/ja/item/pen-pen"><span class="wiki-icon">🐧</span>ペンペン</a> ・ <a href="#/ja/item/r2d2"><span class="wiki-icon">🤖</span>R2D2</a> ・ <a href="#/ja/item/flame-fox"><span class="wiki-icon">🦊</span>炎のキツネ</a> ・ <a href="#/ja/item/kero-chan"><span class="wiki-icon">🐸</span>ケロちゃん</a> ・ <a href="#/ja/item/fire-bird"><span class="wiki-icon">🐦‍🔥</span>炎の鳥</a> ・ <a href="#/ja/item/five-color-cat"><span class="wiki-icon">🐱</span>シュレーディンガー</a> ・ <a href="#/ja/item/flying-goldfish"><span class="wiki-icon">🐠</span>空飛ぶ金魚</a> ・ <a href="#/ja/item/flying-pig"><span class="wiki-icon">🐷</span>空飛ぶブタ</a></div></div>
+<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">グループ: ペット</div><div class="wiki-navbox-body"><a href="#/ja/item/chick"><img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）</a> ・ <a href="#/ja/item/killifish"><img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ</a> ・ <a href="#/ja/item/hamster"><span class="wiki-icon">🐹</span>ハム右衛門</a> ・ <a href="#/ja/item/walking-cactus"><span class="wiki-icon">🌵</span>歩くサボテン</a> ・ <a href="#/ja/item/chicken"><img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん</a> ・ <a href="#/ja/item/underdog"><span class="wiki-icon">🐕</span>パブロフ</a> ・ <a href="#/ja/item/duck"><span class="wiki-icon">🦆</span>醜いアヒル</a> ・ <a href="#/ja/item/jones"><span class="wiki-icon">🎩</span>ジョーンズ</a> ・ <a href="#/ja/item/turtle"><span class="wiki-icon">🐢</span>クッパ</a> ・ <a href="#/ja/item/parroting-parrot"><span class="wiki-icon">🦜</span>オウム返しするオウム</a> ・ <a href="#/ja/item/pen-pen"><span class="wiki-icon">🐧</span>ペンペン</a> ・ <a href="#/ja/item/r2d2"><span class="wiki-icon">🤖</span>R2D2</a> ・ <a href="#/ja/item/flame-fox"><span class="wiki-icon">🦊</span>炎のキツネ</a> ・ <a href="#/ja/item/kero-chan"><span class="wiki-icon">🐸</span>ケロちゃん</a> ・ <a href="#/ja/item/fire-bird"><span class="wiki-icon">🐦‍🔥</span>炎の鳥</a> ・ <a href="#/ja/item/five-color-cat"><span class="wiki-icon">🐱</span>シュレーディンガー</a> ・ <a href="#/ja/item/flying-goldfish"><span class="wiki-icon">🐠</span>空飛ぶ金魚</a> ・ <a href="#/ja/item/flying-pig"><span class="wiki-icon">🐷</span>空飛ぶブタ</a></div></div>
 
 ## 開発者向け情報
 
@@ -62,7 +62,7 @@
 		"icon": {
 			"emoji": "🐔",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/a3c1b5f50f712b2e.svg）"
 		},
 		"color": ""
 	},

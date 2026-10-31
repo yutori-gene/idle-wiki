@@ -7,7 +7,7 @@
 
 次をすべて満たすと達成になり、報酬を受け取れる。条件のアイテムは消費しない。一度達成したら、あとで条件を失っても達成のまま。
 
-- [<span class="wiki-icon">🪢</span>ロープ](/ja/item/rope) ×5
+- [<img class="wiki-icon" src="assets/icon/5824a7cabeddd7b5.svg" alt="">ロープ](/ja/item/rope) ×5
 - [<span class="wiki-icon">🔩</span>釘](/ja/item/nail) ×5
 
 ## 報酬

@@ -23,7 +23,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎸</span>ギター](/ja/item/guitar) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/ba24921e1a11094c.svg" alt="">ギター](/ja/item/guitar) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 

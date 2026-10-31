@@ -1,6 +1,6 @@
 # 工場
 
-<div class="wiki-infobox" style="--accent:#717476"><div class="wiki-infobox-title">工場</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏭</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#717476"><div class="wiki-infobox-title">工場</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏭</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><img class="wiki-icon" src="assets/icon/d951ade1a5f324ab.svg" alt="">ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **6番目のダンジョン**（難易度 ★★★★☆・機械的・無機質）。収集は金属・部品、討伐は機械系、探索は廃棄ラインが中心。
 
@@ -24,23 +24,23 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏭</span>ベルトコンベア漁り](/ja/action/conveyor-scavenging) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 1分 | 50% | 1,050 |  | [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×7 (91%)<br>[<span class="wiki-icon">🔩</span>ネジ](/ja/item/screw)×5 (56%)<br>[<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt)×5 (56%)<br>[<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×5 (56%)<br>[<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber)×5 (56%)<br>[<span class="wiki-icon">💾</span>壊れた基板](/ja/item/broken-circuit-board)×3 (48%) |
-| [<span class="wiki-icon">🧰</span>工具室の棚卸し](/ja/action/tool-room-inventory) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 1分 | 50% | 1,050 |  | [<span class="wiki-icon">🪛</span>ドライバー](/ja/item/screwdriver)×3 (48%)<br>[<span class="wiki-icon">🔧</span>レンチ](/ja/item/wrench)×3 (48%)<br>[<span class="wiki-icon">🥼</span>作業着](/ja/item/work-clothes)×3 (48%)<br>[<span class="wiki-icon">⛑️</span>安全帽](/ja/item/safety-helmet)×3 (48%)<br>[<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×3 (48%)<br>[<span class="wiki-icon">🔧</span>溶接棒](/ja/item/welding-rod)×2 (25.9%)<br>[<span class="wiki-icon">🧰</span>工具箱](/ja/item/toolbox)×2 (21.6%) |
-| [<span class="wiki-icon">🔩</span>廃材拾い](/ja/action/scrap-gathering) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv5 | 1分 | 50% | 1,050 |  | [<span class="wiki-icon">🔩</span>錆びたパイプ](/ja/item/rusty-pipe)×7 (91%)<br>[<span class="wiki-icon">🔩</span>鉄くず](/ja/item/scrap-iron)×5 (56%)<br>[<span class="wiki-icon">🚰</span>パイプ](/ja/item/pipe)×5 (56%)<br>[<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil)×5 (56%)<br>[<span class="wiki-icon">🔌</span>針金](/ja/item/wire-rod)×5 (56%)<br>[<span class="wiki-icon">🔩</span>ボルトとナット](/ja/item/bolt-and-nut)×5 (56%)<br>[<span class="wiki-icon">⚫</span>石炭](/ja/item/coal)×3 (48%) |
-| [<span class="wiki-icon">🖥️</span>中央制御室](/ja/action/central-control-room) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip)×2 (41.8%)<br>[<span class="wiki-icon">🔵</span>プラズマコア](/ja/item/plasma-core) (12.4%)<br>[<span class="wiki-icon">🎛️</span>制御盤](/ja/item/control-panel) (31.1%) |
-| [<span class="wiki-icon">🏢</span>封鎖された研究棟](/ja/action/sealed-research-wing) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv12 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">📐</span>数学書](/ja/item/math-book)<br>[<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log)×2 (50.1%)<br>[<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) (10.4%) |
-| [<span class="wiki-icon">💣</span>ボム](/ja/action/bomb) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 1.8秒 | 50% | 10 | [<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil)×3 (0.5%) | [<span class="wiki-icon">🔩</span>ネジ](/ja/item/screw) (2.8%)<br>[<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt) (0.96%)<br>[<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber) (0.4%) |
-| [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 3.1秒 | 50% | 1 |  | [<span class="wiki-icon">🔄</span>永久機関](/ja/item/perpetual-motion-machine) (0.861%)<br>[<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) (0.194%)<br>[<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log) (1.19%)<br>[<span class="wiki-icon">🔵</span>プラズマコア](/ja/item/plasma-core) (0.09%) |
-| [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 2.4秒 | 50% | 2 |  | [<span class="wiki-icon">🔩</span>鉄くず](/ja/item/scrap-iron) (3.73%)<br>[<span class="wiki-icon">🦾</span>ロボットアーム](/ja/item/robot-arm) (0.15%)<br>[<span class="wiki-icon">🎛️</span>制御盤](/ja/item/control-panel) (0.15%)<br>[<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) (0.005%) |
-| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv29 | 2.5秒 | 50% | 2 |  | [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) (3.89%)<br>[<span class="wiki-icon">🚰</span>パイプ](/ja/item/pipe) (1.33%)<br>[<span class="wiki-icon">⚙️</span>黄金の歯車](/ja/item/golden-gear) (0.072%) |
-| [<span class="wiki-icon">🚜</span>無人フォークリフト](/ja/action/unmanned-forklift) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv30 | 2.8秒 | 50% | 1 |  | [<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt) (4.36%)<br>[<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris) (1.07%)<br>[<span class="wiki-icon">🤖</span>自動化装置](/ja/item/automation-device) (0.081%) |
-| [<span class="wiki-icon">☣️</span>汚染区画の調査](/ja/action/contaminated-zone-survey) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv30 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">💾</span>壊れた基板](/ja/item/broken-circuit-board)×3 (63.6%)<br>[<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×3 (63.6%)<br>[<span class="wiki-icon">🎁</span>中くらいの宝箱](/ja/item/medium-chest) (41.8%) |
-| [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv31 | 1.2秒 | 50% | 10 |  | [<span class="wiki-icon">🧭</span>方位磁石](/ja/item/compass) (0.768%)<br>[<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium) (0.32%)<br>[<span class="wiki-icon">🔋</span>電池](/ja/item/battery) (0.384%) |
-| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv31 | 1.3秒 | 50% | 10 |  | [<span class="wiki-icon">💾</span>回路基板](/ja/item/circuit-board) (0.416%)<br>[<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip) (0.416%)<br>[<span class="wiki-icon">🎁</span>極小の宝箱](/ja/item/tiny-chest) (0.109%) |
-| [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2秒 | 50% | 2 | [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) (0.556%) | [<span class="wiki-icon">🥩</span>培養肉](/ja/item/cultured-meat) (1.54%)<br>[<span class="wiki-icon">🥩</span>ソイミート](/ja/item/soy-meat) (0.64%)<br>[<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil) (0.444%) |
-| [<span class="wiki-icon">🤖</span>暴走ロボット](/ja/action/rampaging-robot) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 1.9秒 | 50% | 2 |  | [<span class="wiki-icon">🔪</span>カッター](/ja/item/cutter) (5.28%)<br>[<span class="wiki-icon">🔋</span>乾電池](/ja/item/dry-cell) (2.96%)<br>[<span class="wiki-icon">⚙️</span>モーター](/ja/item/motor) (0.608%)<br>[<span class="wiki-icon">⚙️</span>精密部品](/ja/item/precision-part) (0.119%)<br>[<span class="wiki-icon">🤖</span>ロボットの心臓](/ja/item/robot-heart) (0.055%) |
-| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2.5秒 | 50% | 2 |  | [<span class="wiki-icon">🔌</span>針金](/ja/item/wire-rod) (1.33%)<br>[<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) (0.8%)<br>[<span class="wiki-icon">🔩</span>鋼鉄板](/ja/item/steel-plate) (0.156%) |
-| [<span class="wiki-icon">☣️</span>地下廃棄プラント](/ja/action/underground-disposal-plant) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv40 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">📦</span>コンテナ](/ja/item/shipping-container)<br>[<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris)×2 (50.1%)<br>[<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) (25.9%) |
+| [<span class="wiki-icon">🏭</span>ベルトコンベア漁り](/ja/action/conveyor-scavenging) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 1分 | 50% | 1,050 |  | [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×7 (91%)<br>[<span class="wiki-icon">🔩</span>ネジ](/ja/item/screw)×5 (56%)<br>[<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt)×5 (56%)<br>[<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×5 (56%)<br>[<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber)×5 (56%)<br>[<span class="wiki-icon">💾</span>壊れた基板](/ja/item/broken-circuit-board)×3 (48%) |
+| [<span class="wiki-icon">🧰</span>工具室の棚卸し](/ja/action/tool-room-inventory) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 1分 | 50% | 1,050 |  | [<span class="wiki-icon">🪛</span>ドライバー](/ja/item/screwdriver)×3 (48%)<br>[<span class="wiki-icon">🔧</span>レンチ](/ja/item/wrench)×3 (48%)<br>[<span class="wiki-icon">🥼</span>作業着](/ja/item/work-clothes)×3 (48%)<br>[<span class="wiki-icon">⛑️</span>安全帽](/ja/item/safety-helmet)×3 (48%)<br>[<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×3 (48%)<br>[<span class="wiki-icon">🔧</span>溶接棒](/ja/item/welding-rod)×2 (25.9%)<br>[<span class="wiki-icon">🧰</span>工具箱](/ja/item/toolbox)×2 (21.6%) |
+| [<span class="wiki-icon">🔩</span>廃材拾い](/ja/action/scrap-gathering) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv5 | 1分 | 50% | 1,050 |  | [<span class="wiki-icon">🔩</span>錆びたパイプ](/ja/item/rusty-pipe)×7 (91%)<br>[<span class="wiki-icon">🔩</span>鉄くず](/ja/item/scrap-iron)×5 (56%)<br>[<span class="wiki-icon">🚰</span>パイプ](/ja/item/pipe)×5 (56%)<br>[<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil)×5 (56%)<br>[<span class="wiki-icon">🔌</span>針金](/ja/item/wire-rod)×5 (56%)<br>[<span class="wiki-icon">🔩</span>ボルトとナット](/ja/item/bolt-and-nut)×5 (56%)<br>[<span class="wiki-icon">⚫</span>石炭](/ja/item/coal)×3 (48%) |
+| [<span class="wiki-icon">🖥️</span>中央制御室](/ja/action/central-control-room) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv8 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip)×2 (41.8%)<br>[<span class="wiki-icon">🔵</span>プラズマコア](/ja/item/plasma-core) (12.4%)<br>[<span class="wiki-icon">🎛️</span>制御盤](/ja/item/control-panel) (31.1%) |
+| [<span class="wiki-icon">🏢</span>封鎖された研究棟](/ja/action/sealed-research-wing) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv12 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log)×2 (50.1%)<br>[<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) (10.4%) |
+| [<span class="wiki-icon">💣</span>ボム](/ja/action/bomb) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 1.8秒 | 50% | 10 | [<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil)×3 (0.5%) | [<span class="wiki-icon">🔩</span>ネジ](/ja/item/screw) (2.8%)<br>[<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt) (0.96%)<br>[<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber) (0.4%) |
+| [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 3.1秒 | 50% | 1 |  | [<span class="wiki-icon">🔄</span>永久機関](/ja/item/perpetual-motion-machine) (0.861%)<br>[<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) (0.194%)<br>[<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log) (1.19%)<br>[<span class="wiki-icon">🔵</span>プラズマコア](/ja/item/plasma-core) (0.09%) |
+| [<span class="wiki-icon">🤖</span>旧型作業ロボ](/ja/action/old-work-robot) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 2.4秒 | 50% | 2 |  | [<span class="wiki-icon">🔩</span>鉄くず](/ja/item/scrap-iron) (3.73%)<br>[<span class="wiki-icon">🦾</span>ロボットアーム](/ja/item/robot-arm) (0.15%)<br>[<span class="wiki-icon">🎛️</span>制御盤](/ja/item/control-panel) (0.15%)<br>[<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) (0.005%) |
+| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv29 | 2.5秒 | 50% | 2 |  | [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) (3.89%)<br>[<span class="wiki-icon">🚰</span>パイプ](/ja/item/pipe) (1.33%)<br>[<span class="wiki-icon">⚙️</span>黄金の歯車](/ja/item/golden-gear) (0.072%) |
+| [<span class="wiki-icon">🚜</span>無人フォークリフト](/ja/action/unmanned-forklift) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv30 | 2.8秒 | 50% | 1 |  | [<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt) (4.36%)<br>[<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris) (1.07%)<br>[<span class="wiki-icon">🤖</span>自動化装置](/ja/item/automation-device) (0.081%) |
+| [<span class="wiki-icon">☣️</span>汚染区画の調査](/ja/action/contaminated-zone-survey) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv30 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">💾</span>壊れた基板](/ja/item/broken-circuit-board)×3 (63.6%)<br>[<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×3 (63.6%)<br>[<span class="wiki-icon">🎁</span>中くらいの宝箱](/ja/item/medium-chest) (41.8%) |
+| [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv31 | 1.2秒 | 50% | 10 |  | [<span class="wiki-icon">🧭</span>方位磁石](/ja/item/compass) (0.768%)<br>[<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium) (0.32%)<br>[<span class="wiki-icon">🔋</span>電池](/ja/item/battery) (0.384%) |
+| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv31 | 1.3秒 | 50% | 10 |  | [<span class="wiki-icon">💾</span>回路基板](/ja/item/circuit-board) (0.416%)<br>[<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip) (0.416%)<br>[<span class="wiki-icon">🎁</span>極小の宝箱](/ja/item/tiny-chest) (0.109%) |
+| [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2秒 | 50% | 2 | [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) (0.556%) | [<span class="wiki-icon">🥩</span>培養肉](/ja/item/cultured-meat) (1.54%)<br>[<span class="wiki-icon">🥩</span>ソイミート](/ja/item/soy-meat) (0.64%)<br>[<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil) (0.444%) |
+| [<span class="wiki-icon">🤖</span>暴走ロボット](/ja/action/rampaging-robot) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 1.9秒 | 50% | 2 |  | [<span class="wiki-icon">🔪</span>カッター](/ja/item/cutter) (5.28%)<br>[<span class="wiki-icon">🔋</span>乾電池](/ja/item/dry-cell) (2.96%)<br>[<span class="wiki-icon">⚙️</span>モーター](/ja/item/motor) (0.608%)<br>[<span class="wiki-icon">⚙️</span>精密部品](/ja/item/precision-part) (0.119%)<br>[<span class="wiki-icon">🤖</span>ロボットの心臓](/ja/item/robot-heart) (0.055%) |
+| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv32 | 2.5秒 | 50% | 2 |  | [<span class="wiki-icon">🔌</span>針金](/ja/item/wire-rod) (1.33%)<br>[<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) (0.8%)<br>[<span class="wiki-icon">🔩</span>鋼鉄板](/ja/item/steel-plate) (0.156%) |
+| [<span class="wiki-icon">☣️</span>地下廃棄プラント](/ja/action/underground-disposal-plant) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv40 | 3時間 | 100% | 1,029 |  | [<span class="wiki-icon">📦</span>コンテナ](/ja/item/shipping-container)<br>[<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris)×2 (50.1%)<br>[<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) (25.9%) |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -48,26 +48,22 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-| アイテム | 装備 | 精度 |
-| --- | --- | --- |
-| [<span class="wiki-icon">🧮</span>計算力](/ja/item/calculation) | 装備不要 | +1 |
-
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -84,8 +80,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -114,8 +111,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -124,7 +121,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
@@ -156,7 +153,7 @@
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#717476"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
+<div class="wiki-navbox" style="--accent:#717476"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄</a> ・ <a href="#/ja/category/sky-garden"><img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭</a></div></div>
 
 ## 開発者向け情報
 

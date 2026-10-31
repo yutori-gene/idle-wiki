@@ -7,7 +7,7 @@
 
 次をすべて満たすと達成になり、報酬を受け取れる。条件のアイテムは消費しない。一度達成したら、あとで条件を失っても達成のまま。
 
-- [<span class="wiki-icon">🪨</span>小石](/ja/item/pebble) ×15
+- [<img class="wiki-icon" src="assets/icon/361dddead5743371.svg" alt="">小石](/ja/item/pebble) ×15
 - [<span class="wiki-icon">🪨</span>岩石](/ja/item/boulder) ×10
 
 ## 報酬

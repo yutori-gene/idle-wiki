@@ -7,8 +7,8 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛍️</span>エコバッグ](/ja/item/eco-bag) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
-| [<span class="wiki-icon">🧺</span>ピクニックバスケット](/ja/item/picnic-basket) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
+| [<img class="wiki-icon" src="assets/icon/1573065dab7cb0f0.svg" alt="">エコバッグ](/ja/item/eco-bag) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
+| [<img class="wiki-icon" src="assets/icon/6d83bc87fd0524a2.svg" alt="">ピクニックバスケット](/ja/item/picnic-basket) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
 | [<span class="wiki-icon">🏺</span>壺](/ja/item/jar) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
 | [<span class="wiki-icon">🎒</span>リュックサック](/ja/item/backpack) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |
 | [<span class="wiki-icon">🦘</span>カンガルーの袋](/ja/item/kangaroo-pouch) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | — |

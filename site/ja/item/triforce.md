@@ -15,9 +15,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📖</span>聖書](/ja/action/read-bible) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv36 | 1 | 100% | 0.7 | 0.029 |
+| [<span class="wiki-icon">📖</span>聖書](/ja/action/read-bible) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv1 | 1 | 100% | 1 | 0.042 |
 
-<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 能力</div><div class="wiki-navbox-body"><a href="#/ja/item/sleep-anywhere"><span class="wiki-icon">😴</span>どこでも眠れる</a> ・ <a href="#/ja/item/breathing-power"><span class="wiki-icon">🌬️</span>呼吸の力</a> ・ <a href="#/ja/item/psychokinesis"><span class="wiki-icon">🔮</span>サイコキネシス</a> ・ <a href="#/ja/item/leadership"><span class="wiki-icon">🎖️</span>リーダーシップ</a> ・ <a href="#/ja/item/antibody"><span class="wiki-icon">🛡️</span>抗体</a> ・ <a href="#/ja/item/triforce"><span class="wiki-icon">🔺</span>トライフォース</a> ・ <a href="#/ja/item/attack-barrier"><span class="wiki-icon">🛡️</span>攻性防壁</a> ・ <a href="#/ja/item/newtype"><span class="wiki-icon">👁️</span>ニュータイプ</a> ・ <a href="#/ja/item/blood-demon-art"><span class="wiki-icon">🩸</span>血鬼術</a> ・ <a href="#/ja/item/force"><span class="wiki-icon">✨</span>フォース</a></div></div>
+<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 能力</div><div class="wiki-navbox-body"><a href="#/ja/item/elitism"><span class="wiki-icon">🎩</span>エリート志向</a> ・ <a href="#/ja/item/youth-memory"><span class="wiki-icon">💞</span>青春の思い出</a> ・ <a href="#/ja/item/dark-past"><span class="wiki-icon">🫣</span>黒歴史</a> ・ <a href="#/ja/item/clean-vote"><span class="wiki-icon">🗳️</span>清き一票</a> ・ <a href="#/ja/item/antibody"><span class="wiki-icon">🛡️</span>抗体</a> ・ <a href="#/ja/item/misfortune"><span class="wiki-icon">🌧️</span>不幸</a> ・ <a href="#/ja/item/triforce"><span class="wiki-icon">🔺</span>トライフォース</a> ・ <a href="#/ja/item/attack-barrier"><span class="wiki-icon">🛡️</span>攻性防壁</a> ・ <a href="#/ja/item/devil-worship"><span class="wiki-icon">😈</span>悪魔信仰</a> ・ <a href="#/ja/item/newtype"><span class="wiki-icon">👁️</span>ニュータイプ</a> ・ <a href="#/ja/item/force"><span class="wiki-icon">✨</span>フォース</a> ・ <a href="#/ja/item/rye"><span class="wiki-icon">🌾</span>ライ麦</a></div></div>
 
 ## 開発者向け情報
 

@@ -1,6 +1,6 @@
 # ニワトリ
 
-<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">ニワトリ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐔</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/discipline"><span class="wiki-icon">🦴</span>しつけ</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv6</td></tr><tr><th>所要時間</th><td>15分39秒／ターン</td></tr><tr><th>成功率</th><td>75%</td></tr><tr><th>経験値</th><td>243</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">ニワトリ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/cd2af1c05dce2911.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/discipline"><span class="wiki-icon">🦴</span>しつけ</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv6</td></tr><tr><th>所要時間</th><td>15分39秒／ターン</td></tr><tr><th>成功率</th><td>75%</td></tr><tr><th>経験値</th><td>243</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 畑を荒らす鶏を追い払う。ついでに卵をいただく。
 
@@ -18,7 +18,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥚</span>卵](/ja/item/egg) ×3 | 成功時 | 100% | 2.3 | 1.1 |
+| [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg) ×3 | 成功時 | 100% | 2.3 | 1.1 |
 | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×7 | 成功時 | 100% | 5.3 | 2.6 |
 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) ×2 | 成功時 | 100% | 1.5 | 0.75 |
 
@@ -34,7 +34,7 @@
 
 **敵のスキル**
 
-- [<span class="wiki-icon">⚔️</span>二の太刀](/ja/skill/second-strike)：毎ターン 12% で発動、攻撃+4
+- [<img class="wiki-icon" src="assets/icon/97ce360d6f35556b.svg" alt="">二の太刀](/ja/skill/second-strike)：毎ターン 12% で発動、攻撃+4
 
 ### 戦闘の見込み（装備・スキルなし）
 
@@ -62,11 +62,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 24 | 2 | 22 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 24 | 2 | 22 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">庭のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/play-with-chick"><span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）</a> ・ <a href="#/ja/action/feed-killifish"><span class="wiki-icon">🐟</span>メダカ</a> ・ <a href="#/ja/action/run-hamster"><span class="wiki-icon">🐹</span>ハム右衛門</a> ・ <a href="#/ja/action/pluck-walking-cactus-thorn"><span class="wiki-icon">🌵</span>歩くサボテン</a> ・ <a href="#/ja/action/care-for-chicken"><span class="wiki-icon">🐔</span>ピヨちゃん</a> ・ <a href="#/ja/action/bathe-duck"><span class="wiki-icon">🦆</span>醜いアヒル</a> ・ <a href="#/ja/action/cheer-up-underdog"><span class="wiki-icon">🐕</span>パブロフ</a> ・ <a href="#/ja/action/walk-turtle"><span class="wiki-icon">🐢</span>クッパ</a> ・ <a href="#/ja/action/talk-with-parroting-parrot"><span class="wiki-icon">🦜</span>オウム返しするオウム</a> ・ <a href="#/ja/action/take-out-jones"><span class="wiki-icon">🎩</span>ジョーンズ</a> ・ <a href="#/ja/action/pen-pen-fishing"><span class="wiki-icon">🐧</span>ペンペン</a> ・ <a href="#/ja/action/scout-with-r2d2"><span class="wiki-icon">🤖</span>R2D2</a> ・ <a href="#/ja/action/bathe-kero-chan"><span class="wiki-icon">🐸</span>ケロちゃん</a> ・ <a href="#/ja/action/play-with-flame-fox"><span class="wiki-icon">🦊</span>炎のキツネ</a> ・ <a href="#/ja/action/play-with-fire-bird"><span class="wiki-icon">🐦‍🔥</span>炎の鳥</a> ・ <a href="#/ja/action/ask-five-color-cat"><span class="wiki-icon">🐱</span>シュレーディンガー</a> ・ <a href="#/ja/action/feed-flying-goldfish"><span class="wiki-icon">🐠</span>空飛ぶ金魚</a> ・ <a href="#/ja/action/ride-flying-pig"><span class="wiki-icon">🐷</span>空飛ぶブタ</a> ・ <a href="#/ja/action/chicken"><span class="wiki-icon">🐔</span>ニワトリ</a> ・ <a href="#/ja/action/pansy"><span class="wiki-icon">🐈</span>パンシー</a> ・ <a href="#/ja/action/earthworm"><span class="wiki-icon">🪱</span>ミミズ</a></div></div>
+<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">庭のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/play-with-chick"><span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）</a> ・ <a href="#/ja/action/feed-killifish"><span class="wiki-icon">🐟</span>メダカ</a> ・ <a href="#/ja/action/run-hamster"><span class="wiki-icon">🐹</span>ハム右衛門</a> ・ <a href="#/ja/action/pluck-walking-cactus-thorn"><span class="wiki-icon">🌵</span>歩くサボテン</a> ・ <a href="#/ja/action/care-for-chicken"><span class="wiki-icon">🐔</span>ピヨちゃん</a> ・ <a href="#/ja/action/bathe-duck"><span class="wiki-icon">🦆</span>醜いアヒル</a> ・ <a href="#/ja/action/cheer-up-underdog"><span class="wiki-icon">🐕</span>パブロフ</a> ・ <a href="#/ja/action/walk-turtle"><span class="wiki-icon">🐢</span>クッパ</a> ・ <a href="#/ja/action/talk-with-parroting-parrot"><span class="wiki-icon">🦜</span>オウム返しするオウム</a> ・ <a href="#/ja/action/take-out-jones"><span class="wiki-icon">🎩</span>ジョーンズ</a> ・ <a href="#/ja/action/pen-pen-fishing"><span class="wiki-icon">🐧</span>ペンペン</a> ・ <a href="#/ja/action/scout-with-r2d2"><span class="wiki-icon">🤖</span>R2D2</a> ・ <a href="#/ja/action/bathe-kero-chan"><span class="wiki-icon">🐸</span>ケロちゃん</a> ・ <a href="#/ja/action/play-with-flame-fox"><span class="wiki-icon">🦊</span>炎のキツネ</a> ・ <a href="#/ja/action/play-with-fire-bird"><span class="wiki-icon">🐦‍🔥</span>炎の鳥</a> ・ <a href="#/ja/action/ask-five-color-cat"><span class="wiki-icon">🐱</span>シュレーディンガー</a> ・ <a href="#/ja/action/feed-flying-goldfish"><span class="wiki-icon">🐠</span>空飛ぶ金魚</a> ・ <a href="#/ja/action/ride-flying-pig"><span class="wiki-icon">🐷</span>空飛ぶブタ</a> ・ <a href="#/ja/action/chicken"><img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ</a> ・ <a href="#/ja/action/pansy"><span class="wiki-icon">🐈</span>パンシー</a> ・ <a href="#/ja/action/earthworm"><span class="wiki-icon">🪱</span>ミミズ</a></div></div>
 
 ## 開発者向け情報
 
@@ -99,7 +99,7 @@
 		"icon": {
 			"emoji": "🐔",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/cd2af1c05dce2911.svg）"
 		},
 		"color": ""
 	},

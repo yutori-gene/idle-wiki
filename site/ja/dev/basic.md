@@ -29,7 +29,7 @@
 
 ## 通貨・枠
 
-- [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)
+- [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)
 - [<span class="wiki-icon">🏅</span>秘宝メダル](/ja/item/treasure-medal)
 - [<span class="wiki-icon">📦</span>物置](/ja/item/capacity)
 - [<span class="wiki-icon">📋</span>作業予定](/ja/item/queue)
@@ -79,7 +79,7 @@
 				"icon": {
 					"emoji": "🪙",
 					"iconify": "",
-					"image": ""
+					"image": "（data URI の画像。site/assets/icon/8255d311d6ac85ae.svg）"
 				},
 				"color": ""
 			},

@@ -26,7 +26,7 @@
 
 ## 売買と通貨
 
-- 売値・買値の通貨はアイテムごとに決まっている。空欄はメイン通貨（[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)）
+- 売値・買値の通貨はアイテムごとに決まっている。空欄はメイン通貨（[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)）
 - 買えるアイテムは解放条件を満たすと購入できるようになる
 - もう1つの通貨 [<span class="wiki-icon">🏅</span>秘宝メダル](/ja/item/treasure-medal) は、秘宝を手に入れたときにだけ増える
 

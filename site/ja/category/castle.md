@@ -1,12 +1,12 @@
 # 城
 
-<div class="wiki-infobox" style="--accent:#776a48"><div class="wiki-infobox-title">城</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏰</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#776a48"><div class="wiki-infobox-title">城</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏰</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><img class="wiki-icon" src="assets/icon/d951ade1a5f324ab.svg" alt="">ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **8番目のダンジョン**（難易度 ★★★★★・重厚・格式）。収集は調度品・食料、討伐は衛兵・騎士、探索は宝物庫が中心。
 
 このダンジョンには容器が無い。
 
-?> **次のダンジョン [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) の開け方**: このカテゴリのレベルと [<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) が要る。[<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) は [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer)（討伐）で手に入る。詳しくは [進行チャート](/ja/reference/progression)。
+?> **次のダンジョン [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) の開け方**: このカテゴリのレベルと [<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) が要る。[<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) は [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer)（討伐）で手に入る。詳しくは [進行チャート](/ja/reference/progression)。
 
 
 ## 解放条件
@@ -22,23 +22,23 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏰</span>城壁の見回り](/ja/action/rampart-patrol) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 1分20秒 | 50% | 1,035 |  | [<span class="wiki-icon">🧱</span>砕けたレンガ](/ja/item/crushed-brick)×7 (91%)<br>[<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard)×5 (56%)<br>[<span class="wiki-icon">⛓️</span>鎖の切れ端](/ja/item/chain-scrap)×5 (56%)<br>[<span class="wiki-icon">🦴</span>ネズミの骨](/ja/item/rat-bone)×5 (56%)<br>[<span class="wiki-icon">👑</span>王冠](/ja/item/crown) (14.9%)<br>[<span class="wiki-icon">⚽</span>サッカーボール](/ja/item/soccer-ball) (10.4%)<br>[<span class="wiki-icon">🎖️</span>調査兵団のバッジ](/ja/item/survey-corps-badge) (12.4%) |
-| [<span class="wiki-icon">📚</span>書庫の調べ物](/ja/action/archive-research) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 1分20秒 | 50% | 1,035 |  | [<span class="wiki-icon">💨</span>土埃](/ja/item/dust)×7 (91%)<br>[<span class="wiki-icon">🧵</span>麻布](/ja/item/hemp-cloth)×5 (56%)<br>[<span class="wiki-icon">🧵</span>タペストリーの切れ端](/ja/item/tapestry-scrap)×2 (25.9%)<br>[<span class="wiki-icon">🎩</span>絹の帽子](/ja/item/silk-hat) (12.4%)<br>[<span class="wiki-icon">🃏</span>クロウカード](/ja/item/clow-card) (12.4%)<br>[<span class="wiki-icon">🎖️</span>SOS団のバッジ](/ja/item/sos-brigade-badge) (12.4%) |
-| [<span class="wiki-icon">💰</span>宝物庫の整理](/ja/action/treasury-sorting) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv5 | 1分20秒 | 50% | 1,035 |  | [<span class="wiki-icon">🕯️</span>ロウソク](/ja/item/candle)×7 (91%)<br>[<span class="wiki-icon">🪶</span>ロウで固めた羽](/ja/item/wax-wing)×5 (56%)<br>[<span class="wiki-icon">🛡️</span>古い紋章](/ja/item/old-crest)×2 (25.9%)<br>[<span class="wiki-icon">🍴</span>銀の食器](/ja/item/silver-tableware)×2 (25.9%)<br>[<span class="wiki-icon">🐟</span>メカジキ](/ja/item/swordfish) (12.4%)<br>[<span class="wiki-icon">👠</span>ガラスの靴](/ja/item/glass-slipper) (12.4%)<br>[<span class="wiki-icon">👑</span>ダイヤモンドのティアラ](/ja/item/diamond-tiara) (12.4%)<br>[<span class="wiki-icon">🏆</span>聖杯](/ja/item/holy-grail) (4.98%) |
-| [<span class="wiki-icon">⛓️</span>地下牢の奥](/ja/action/deep-dungeon-cell) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 4時間 | 100% | 1,029 |  | [<span class="wiki-icon">🩸</span>血液](/ja/item/blood)×3 (63.6%)<br>[<span class="wiki-icon">🕍</span>聖櫃](/ja/item/ark-of-covenant) (25.9%)<br>[<span class="wiki-icon">⚔️</span>勇者の剣](/ja/item/hero-sword) (12.4%)<br>[<span class="wiki-icon">🛡️</span>聖なる盾](/ja/item/holy-shield) (12.4%) |
-| [<span class="wiki-icon">🚪</span>隠し通路の調査](/ja/action/hidden-passage-survey) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv12 | 4時間 | 100% | 1,029 |  | [<span class="wiki-icon">📕</span>禁書](/ja/item/forbidden-book)<br>[<span class="wiki-icon">📜</span>古書](/ja/item/old-book) (31.1%)<br>[<span class="wiki-icon">🗡️</span>暗殺者の短剣の破片](/ja/item/assassin-dagger-shard)×2 (41.8%)<br>[<span class="wiki-icon">🖋️</span>王家の封蝋](/ja/item/royal-wax-seal) (31.1%)<br>[<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/item/aegis) (44.8%)<br>[<span class="wiki-icon">🟢</span>クリプトナイト](/ja/item/kryptonite) (4.98%) |
-| [<span class="wiki-icon">👑</span>王の間の秘密](/ja/action/throne-room-secret) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv30 | 4時間 | 100% | 1,029 |  | [<span class="wiki-icon">💎</span>玉座の宝石](/ja/item/throne-jewel) (31.1%)<br>[<span class="wiki-icon">👑</span>王笏](/ja/item/scepter) (31.1%)<br>[<span class="wiki-icon">👑</span>黄金の王冠](/ja/item/golden-crown) (17.9%)<br>[<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) (44.8%)<br>[<span class="wiki-icon">🎃</span>かぼちゃの馬車](/ja/item/pumpkin-carriage) (25.9%) |
-| [<span class="wiki-icon">🗿</span>ゴーレム](/ja/action/golem) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv38 | 2.5秒 | 50% | 0 |  | [<span class="wiki-icon">💨</span>土埃](/ja/item/dust) (2.92%)<br>[<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard) (1%)<br>[<span class="wiki-icon">💎</span>王笏の宝玉](/ja/item/scepter-jewel) (0.065%) |
-| [<span class="wiki-icon">🧙</span>エレメンタリスト](/ja/action/elementalist) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.8秒 | 50% | 0 | [<span class="wiki-icon">🕯️</span>ロウソク](/ja/item/candle) (0.583%) | [<span class="wiki-icon">💎</span>王笏の宝玉](/ja/item/scepter-jewel) (1.16%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.131%)<br>[<span class="wiki-icon">🔺</span>令呪](/ja/item/command-spell) (0.158%) |
-| [<span class="wiki-icon">🪞</span>魔法の鏡](/ja/action/magic-mirror) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 3秒 | 50% | 0 |  | [<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass) (3.5%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.141%)<br>[<span class="wiki-icon">🪄</span>魔法少女のステッキ](/ja/item/magical-girl-wand) (0.141%)<br>[<span class="wiki-icon">💿</span>デュエルディスク](/ja/item/duel-disk) (0.065%) |
-| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.1秒 | 50% | 0 |  | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (3.5%)<br>[<span class="wiki-icon">🛡️</span>王家の紋章](/ja/item/royal-crest) (0.504%)<br>[<span class="wiki-icon">🥋</span>スケイルメイル](/ja/item/scale-mail) (0.118%) |
-| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.2秒 | 50% | 0 |  | [<span class="wiki-icon">⛓️</span>鎖の切れ端](/ja/item/chain-scrap) (2.57%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (1.06%)<br>[<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) (0.048%) |
-| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 1.9秒 | 50% | 3 |  | [<span class="wiki-icon">🦴</span>ネズミの骨](/ja/item/rat-bone) (2.22%)<br>[<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) (0.396%)<br>[<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) (0.041%)<br>[<span class="wiki-icon">👘</span>僧侶の法衣](/ja/item/priest-robe) (0.041%)<br>[<span class="wiki-icon">💠</span>ソウルジェム](/ja/item/soul-gem) (0.02%) |
-| [<span class="wiki-icon">🧚</span>妖精](/ja/action/fairy) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 1秒 | 50% | 4 |  | [<span class="wiki-icon">🪶</span>ロウで固めた羽](/ja/item/wax-wing) (1.17%)<br>[<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) (0.24%)<br>[<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) (0.056%) |
-| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 2.3秒 | 50% | 0 |  | [<span class="wiki-icon">🗝️</span>古い鍵](/ja/item/old-key) (2.68%)<br>[<span class="wiki-icon">⛓️</span>鎖の切れ端](/ja/item/chain-scrap) (0.383%)<br>[<span class="wiki-icon">🍬</span>飴と鞭](/ja/item/carrot-and-stick) (0.05%) |
-| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv41 | 1秒 | 50% | 4 | [<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn) (0.208%) | [<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn) (1.17%)<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (0.48%)<br>[<span class="wiki-icon">🐇</span>ウサギ尻尾](/ja/item/rabbit-tail) (0.056%)<br>[<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) (0.002%) |
-| [<span class="wiki-icon">🗿</span>ガーゴイル](/ja/action/gargoyle) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv42 | 3.2秒 | 50% | 0 |  | [<span class="wiki-icon">🧱</span>砕けたレンガ](/ja/item/crushed-brick) (3.73%)<br>[<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard) (1.28%)<br>[<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) (0.768%)<br>[<span class="wiki-icon">🦇</span>バットラング](/ja/item/batarang) (0.069%) |
-| [<span class="wiki-icon">👻</span>宴の亡霊](/ja/action/banquet-ghost) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv42 | 1.7秒 | 50% | 4 |  | [<span class="wiki-icon">🍚</span>生米](/ja/item/raw-rice) (1.98%)<br>[<span class="wiki-icon">🍶</span>酒](/ja/item/liquor) (0.816%)<br>[<span class="wiki-icon">🍇</span>葡萄](/ja/item/wine-grape) (0.816%)<br>[<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit) (0.408%) |
+| [<span class="wiki-icon">🏰</span>城壁の見回り](/ja/action/rampart-patrol) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 1分20秒 | 50% | 1,035 |  | [<span class="wiki-icon">🧱</span>砕けたレンガ](/ja/item/crushed-brick)×7 (91%)<br>[<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard)×5 (56%)<br>[<span class="wiki-icon">⛓️</span>鎖の切れ端](/ja/item/chain-scrap)×5 (56%)<br>[<img class="wiki-icon" src="assets/icon/9c9bdad1ea627e76.svg" alt="">ネズミの骨](/ja/item/rat-bone)×5 (56%)<br>[<span class="wiki-icon">👑</span>王冠](/ja/item/crown) (14.9%)<br>[<span class="wiki-icon">⚽</span>サッカーボール](/ja/item/soccer-ball) (10.4%)<br>[<span class="wiki-icon">🎖️</span>調査兵団のバッジ](/ja/item/survey-corps-badge) (12.4%) |
+| [<span class="wiki-icon">📚</span>書庫の調べ物](/ja/action/archive-research) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 1分20秒 | 50% | 1,035 |  | [<span class="wiki-icon">💨</span>土埃](/ja/item/dust)×7 (91%)<br>[<span class="wiki-icon">🧵</span>麻布](/ja/item/hemp-cloth)×5 (56%)<br>[<span class="wiki-icon">🧵</span>タペストリーの切れ端](/ja/item/tapestry-scrap)×2 (25.9%)<br>[<img class="wiki-icon" src="assets/icon/89b6e6d7412928e1.svg" alt="">絹の帽子](/ja/item/silk-hat) (12.4%)<br>[<span class="wiki-icon">🃏</span>クロウカード](/ja/item/clow-card) (12.4%)<br>[<span class="wiki-icon">🎖️</span>SOS団のバッジ](/ja/item/sos-brigade-badge) (12.4%) |
+| [<span class="wiki-icon">💰</span>宝物庫の整理](/ja/action/treasury-sorting) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv5 | 1分20秒 | 50% | 1,035 |  | [<span class="wiki-icon">🕯️</span>ロウソク](/ja/item/candle)×7 (91%)<br>[<span class="wiki-icon">🪶</span>ロウで固めた羽](/ja/item/wax-wing)×5 (56%)<br>[<span class="wiki-icon">🛡️</span>古い紋章](/ja/item/old-crest)×2 (25.9%)<br>[<span class="wiki-icon">🍴</span>銀の食器](/ja/item/silver-tableware)×2 (25.9%)<br>[<span class="wiki-icon">🐟</span>メカジキ](/ja/item/swordfish) (12.4%)<br>[<span class="wiki-icon">👠</span>ガラスの靴](/ja/item/glass-slipper) (12.4%)<br>[<span class="wiki-icon">👑</span>ダイヤモンドのティアラ](/ja/item/diamond-tiara) (12.4%)<br>[<span class="wiki-icon">🏆</span>聖杯](/ja/item/holy-grail) (4.98%) |
+| [<span class="wiki-icon">⛓️</span>地下牢の奥](/ja/action/deep-dungeon-cell) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv8 | 4時間 | 100% | 1,029 |  | [<span class="wiki-icon">🩸</span>血液](/ja/item/blood)×3 (63.6%)<br>[<span class="wiki-icon">🕍</span>聖櫃](/ja/item/ark-of-covenant) (25.9%)<br>[<span class="wiki-icon">⚔️</span>勇者の剣](/ja/item/hero-sword) (12.4%)<br>[<span class="wiki-icon">🛡️</span>聖なる盾](/ja/item/holy-shield) (12.4%) |
+| [<span class="wiki-icon">🚪</span>隠し通路の調査](/ja/action/hidden-passage-survey) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv12 | 4時間 | 100% | 1,029 |  | [<span class="wiki-icon">📕</span>禁書](/ja/item/forbidden-book)<br>[<span class="wiki-icon">📜</span>古書](/ja/item/old-book) (31.1%)<br>[<span class="wiki-icon">🗡️</span>暗殺者の短剣の破片](/ja/item/assassin-dagger-shard)×2 (41.8%)<br>[<span class="wiki-icon">🖋️</span>王家の封蝋](/ja/item/royal-wax-seal) (31.1%)<br>[<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/item/aegis) (44.8%)<br>[<span class="wiki-icon">🟢</span>クリプトナイト](/ja/item/kryptonite) (4.98%) |
+| [<span class="wiki-icon">👑</span>王の間の秘密](/ja/action/throne-room-secret) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv30 | 4時間 | 100% | 1,029 |  | [<span class="wiki-icon">💎</span>玉座の宝石](/ja/item/throne-jewel) (31.1%)<br>[<span class="wiki-icon">👑</span>王笏](/ja/item/scepter) (31.1%)<br>[<span class="wiki-icon">👑</span>黄金の王冠](/ja/item/golden-crown) (17.9%)<br>[<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) (44.8%)<br>[<span class="wiki-icon">🎃</span>かぼちゃの馬車](/ja/item/pumpkin-carriage) (25.9%) |
+| [<span class="wiki-icon">🗿</span>ゴーレム](/ja/action/golem) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv38 | 2.5秒 | 50% | 0 |  | [<span class="wiki-icon">💨</span>土埃](/ja/item/dust) (2.92%)<br>[<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard) (1%)<br>[<span class="wiki-icon">💎</span>王笏の宝玉](/ja/item/scepter-jewel) (0.065%) |
+| [<span class="wiki-icon">🧙</span>エレメンタリスト](/ja/action/elementalist) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.8秒 | 50% | 0 | [<span class="wiki-icon">🕯️</span>ロウソク](/ja/item/candle) (0.583%) | [<span class="wiki-icon">💎</span>王笏の宝玉](/ja/item/scepter-jewel) (1.16%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.131%)<br>[<span class="wiki-icon">🔺</span>令呪](/ja/item/command-spell) (0.158%) |
+| [<span class="wiki-icon">🪞</span>魔法の鏡](/ja/action/magic-mirror) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 3秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass) (3.5%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.141%)<br>[<span class="wiki-icon">🪄</span>魔法少女のステッキ](/ja/item/magical-girl-wand) (0.141%)<br>[<span class="wiki-icon">💿</span>デュエルディスク](/ja/item/duel-disk) (0.065%) |
+| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.1秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (3.5%)<br>[<span class="wiki-icon">🛡️</span>王家の紋章](/ja/item/royal-crest) (0.504%)<br>[<span class="wiki-icon">🥋</span>スケイルメイル](/ja/item/scale-mail) (0.118%) |
+| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 2.2秒 | 50% | 0 |  | [<span class="wiki-icon">⛓️</span>鎖の切れ端](/ja/item/chain-scrap) (2.57%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (1.06%)<br>[<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) (0.048%) |
+| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 1.9秒 | 50% | 3 |  | [<img class="wiki-icon" src="assets/icon/9c9bdad1ea627e76.svg" alt="">ネズミの骨](/ja/item/rat-bone) (2.22%)<br>[<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) (0.396%)<br>[<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) (0.041%)<br>[<span class="wiki-icon">👘</span>僧侶の法衣](/ja/item/priest-robe) (0.041%)<br>[<span class="wiki-icon">💠</span>ソウルジェム](/ja/item/soul-gem) (0.02%) |
+| [<span class="wiki-icon">🧚</span>妖精](/ja/action/fairy) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 1秒 | 50% | 4 |  | [<span class="wiki-icon">🪶</span>ロウで固めた羽](/ja/item/wax-wing) (1.17%)<br>[<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) (0.24%)<br>[<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) (0.056%) |
+| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 2.3秒 | 50% | 0 |  | [<span class="wiki-icon">🗝️</span>古い鍵](/ja/item/old-key) (2.68%)<br>[<span class="wiki-icon">⛓️</span>鎖の切れ端](/ja/item/chain-scrap) (0.383%)<br>[<span class="wiki-icon">🍬</span>飴と鞭](/ja/item/carrot-and-stick) (0.05%) |
+| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv41 | 1秒 | 50% | 4 | [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn) (0.208%) | [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn) (1.17%)<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (0.48%)<br>[<span class="wiki-icon">🐇</span>ウサギ尻尾](/ja/item/rabbit-tail) (0.056%)<br>[<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) (0.002%) |
+| [<span class="wiki-icon">🗿</span>ガーゴイル](/ja/action/gargoyle) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv42 | 3.2秒 | 50% | 0 |  | [<span class="wiki-icon">🧱</span>砕けたレンガ](/ja/item/crushed-brick) (3.73%)<br>[<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard) (1.28%)<br>[<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) (0.768%)<br>[<span class="wiki-icon">🦇</span>バットラング](/ja/item/batarang) (0.069%) |
+| [<span class="wiki-icon">👻</span>宴の亡霊](/ja/action/banquet-ghost) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv42 | 1.7秒 | 50% | 4 |  | [<span class="wiki-icon">🍚</span>生米](/ja/item/raw-rice) (1.98%)<br>[<span class="wiki-icon">🍶</span>酒](/ja/item/liquor) (0.816%)<br>[<span class="wiki-icon">🍇</span>葡萄](/ja/item/wine-grape) (0.816%)<br>[<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit) (0.408%) |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -50,22 +50,22 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">📜</span>歴史知識](/ja/item/history-knowledge) | 装備不要 | +2 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -82,8 +82,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -112,8 +113,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -122,7 +123,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
@@ -146,15 +147,15 @@
 | Lv5 | 471 | [<span class="wiki-icon">💰</span>宝物庫の整理](/ja/action/treasury-sorting)（実行） |
 | Lv8 | 978 | [<span class="wiki-icon">⛓️</span>地下牢の奥](/ja/action/deep-dungeon-cell)（実行） |
 | Lv10 | 1,416 | [<span class="wiki-icon">🪜</span>玉座への階段](/ja/event/stairs-to-throne)（達成条件） |
-| Lv12 | 1,956 | [<span class="wiki-icon">🚪</span>隠し通路の調査](/ja/action/hidden-passage-survey)（実行） |
+| Lv12 | 1,956 | [<span class="wiki-icon">🚪</span>隠し通路の調査](/ja/action/hidden-passage-survey)（実行）<br>[<span class="wiki-icon">📕</span>禁書](/ja/action/read-forbidden-book)（実行条件） |
 | Lv16 | 3,441 | [<span class="wiki-icon">🍞</span>パン生地](/ja/item/bread-dough)（解放）<br>[<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit)（解放） |
 | Lv17 | 3,919 | [<span class="wiki-icon">🍇</span>葡萄](/ja/item/wine-grape)（解放） |
-| Lv20 | 5,694 | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell)（解放）<br>[<span class="wiki-icon">👑</span>城の王](/ja/event/castle-king)（達成条件） |
+| Lv20 | 5,694 | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell)（解放）<br>[<span class="wiki-icon">👑</span>城の王](/ja/event/castle-king)（達成条件） |
 | Lv30 | 17,840 | [<span class="wiki-icon">👑</span>王の間の秘密](/ja/action/throne-room-secret)（実行） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#776a48"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
+<div class="wiki-navbox" style="--accent:#776a48"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄</a> ・ <a href="#/ja/category/sky-garden"><img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭</a></div></div>
 
 ## 開発者向け情報
 
@@ -165,7 +166,7 @@
 | `unlocked` | `hinted` |
 | `numeric` | `true` |
 | `standaloneProgress` | `false` |
-| `background` | （空） |
+| `background` | <a href="assets/icon/f2ed10587394e278.svg" target="_blank">画像</a>（data URI） |
 | CSV `tier` | 8 |
 
 **設計ドキュメント**: [plan.md › カテゴリ設定](/ja/dev/doc/plan?id=%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E8%A8%AD%E5%AE%9A) ／ [plan.md › 進行ゲート](/ja/dev/doc/plan?id=%E9%80%B2%E8%A1%8C%E3%82%B2%E3%83%BC%E3%83%88) ／ [plan.md › カテゴリ役割分担](/ja/dev/doc/plan?id=%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E5%BD%B9%E5%89%B2%E5%88%86%E6%8B%85)
@@ -631,7 +632,7 @@ tier8 の死にアイテム（使い道も入手経路もゼロ）は `倉庫/�
 	],
 	"numeric": true,
 	"standaloneProgress": false,
-	"background": ""
+	"background": "（data URI の画像。site/assets/icon/f2ed10587394e278.svg）"
 }
 ```
 

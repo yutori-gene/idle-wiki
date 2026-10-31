@@ -1,15 +1,15 @@
-# レシピ本
+# 今夜のおかず🎶レシピ集
 
-<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">レシピ本</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📗</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/book"><span class="wiki-icon">📕</span>本</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>27 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>54 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">今夜のおかず🎶レシピ集</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📗</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/book"><span class="wiki-icon">📕</span>本</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>27 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
-> 読むだけで腹が減る。
+> 今夜の献立に迷ったら開く。
 
 
 ## 入手方法
 
 ### 購入
 
-54 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a> で購入できる（下記の解放条件を満たしてから）。
+54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a> で購入できる（下記の解放条件を満たしてから）。
 
 ## 用途
 
@@ -17,15 +17,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📗</span>レシピ本](/ja/action/read-recipe-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv28 | 1 | 100% |  |
+| [<span class="wiki-icon">📗</span>今夜のおかず🎶レシピ集](/ja/action/read-recipe-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv1 | 1 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる（購入もできるようになる）。
 
-- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv14以上
+- [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv11以上
 
-<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 本</div><div class="wiki-navbox-body"><a href="#/ja/item/art-book"><span class="wiki-icon">🎨</span>美術書</a> ・ <a href="#/ja/item/fairy-tale"><span class="wiki-icon">📙</span>童話</a> ・ <a href="#/ja/item/picture-book"><span class="wiki-icon">📖</span>絵本</a> ・ <a href="#/ja/item/diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/item/license"><span class="wiki-icon">🪪</span>免許証</a> ・ <a href="#/ja/item/self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/item/novel"><span class="wiki-icon">📗</span>小説</a> ・ <a href="#/ja/item/manga"><span class="wiki-icon">📚</span>漫画</a> ・ <a href="#/ja/item/newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/item/love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/item/encyclopedia"><span class="wiki-icon">📚</span>百科事典</a> ・ <a href="#/ja/item/ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/item/residence-certificate"><span class="wiki-icon">📄</span>住民票</a> ・ <a href="#/ja/item/beginner-thief-book"><span class="wiki-icon">📕</span>はじめての泥棒</a> ・ <a href="#/ja/item/recipe-book"><span class="wiki-icon">📗</span>レシピ本</a> ・ <a href="#/ja/item/chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/item/map"><span class="wiki-icon">🗺️</span>地図</a> ・ <a href="#/ja/item/history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/item/bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/item/math-book"><span class="wiki-icon">📐</span>数学書</a> ・ <a href="#/ja/item/anatomy-book"><span class="wiki-icon">📕</span>医学書「解体新書」</a> ・ <a href="#/ja/item/forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/item/death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/item/dead-sea-scrolls"><span class="wiki-icon">📜</span>死海文書</a> ・ <a href="#/ja/item/necronomicon"><span class="wiki-icon">📕</span>ネクロノミコン</a> ・ <a href="#/ja/item/catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
+<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 本</div><div class="wiki-navbox-body"><a href="#/ja/item/art-book"><img class="wiki-icon" src="assets/icon/021123683021700b.svg" alt="">美術書</a> ・ <a href="#/ja/item/fairy-tale"><span class="wiki-icon">📙</span>グリム童話</a> ・ <a href="#/ja/item/picture-book"><img class="wiki-icon" src="assets/icon/3e442c2141244790.svg" alt="">飛び出す絵本</a> ・ <a href="#/ja/item/diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/item/self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/item/novel"><span class="wiki-icon">📗</span>探偵小説</a> ・ <a href="#/ja/item/manga"><span class="wiki-icon">📚</span>不健全図書</a> ・ <a href="#/ja/item/newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/item/gossip-magazine"><span class="wiki-icon">🗞️</span>ゴシップ誌</a> ・ <a href="#/ja/item/love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/item/license"><span class="wiki-icon">🪪</span>免許証</a> ・ <a href="#/ja/item/ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/item/residence-certificate"><span class="wiki-icon">📄</span>住民票</a> ・ <a href="#/ja/item/recipe-book"><span class="wiki-icon">📗</span>今夜のおかず🎶レシピ集</a> ・ <a href="#/ja/item/chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/item/map"><span class="wiki-icon">🗺️</span>古びた地図</a> ・ <a href="#/ja/item/history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/item/bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/item/anatomy-book"><span class="wiki-icon">📕</span>解剖学書</a> ・ <a href="#/ja/item/forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/item/death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/item/dead-sea-scrolls"><span class="wiki-icon">📜</span>死海文書</a> ・ <a href="#/ja/item/catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
 
 ## 開発者向け情報
 
@@ -53,8 +53,8 @@
 {
 	"information": {
 		"id": "recipe-book",
-		"name": "レシピ本",
-		"explanation": "読むだけで腹が減る。",
+		"name": "今夜のおかず🎶レシピ集",
+		"explanation": "今夜の献立に迷ったら開く。",
 		"icon": {
 			"emoji": "📗",
 			"iconify": "",
@@ -74,8 +74,8 @@
 	"requirements": [
 		{
 			"type": "category",
-			"id": "study",
-			"count": 14,
+			"id": "kitchen",
+			"count": 11,
 			"chance": 1,
 			"equipment": false
 		}

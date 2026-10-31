@@ -9,8 +9,8 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗳️</span>募金箱](/ja/item/donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
-| [<span class="wiki-icon">👛</span>財布](/ja/item/wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
+| [<img class="wiki-icon" src="assets/icon/5676c877b5bc47f0.svg" alt="">募金箱](/ja/item/donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
+| [<img class="wiki-icon" src="assets/icon/2a12bcdb457a4a71.svg" alt="">財布](/ja/item/wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">🪵</span>木の宝箱](/ja/item/wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">📦</span>タイムカプセル](/ja/item/time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">📦</span>跳び箱](/ja/item/vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |

@@ -9,8 +9,8 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass) ×3（消費する）
-- [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) ×15（消費する）
+- [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass) ×3（消費する）
+- [<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) ×15（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -34,7 +34,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 54 | 92 | -38 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 54 | 92 | -38 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

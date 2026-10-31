@@ -18,7 +18,7 @@
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
 | [<span class="wiki-icon">🎩</span>漂流者](/ja/action/castaway) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 |
-| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv46 |
+| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv46 |
 
 ## このスキルを持つ装備
 

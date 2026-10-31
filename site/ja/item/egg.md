@@ -1,6 +1,6 @@
 # 卵
 
-<div class="wiki-infobox" style="--accent:#968358"><div class="wiki-infobox-title">卵</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥚</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#968358"><div class="wiki-infobox-title">卵</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b09b5f8baff61dcb.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ぶつけられる側は災難。
 
@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 1 | 8.45% | 0.042 | 6.7 |
+| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 | 1 | 8.45% | 0.042 | 6.7 |
 | [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv18 | 2 | 66.7% | 1 | 2 |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 3 | 100% | 2.3 | 1.1 |
+| [<img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | 3 | 100% | 2.3 | 1.1 |
 
 ## 用途
 
@@ -30,8 +30,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐔</span>コカトリス](/ja/action/cockatrice) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv10 | 1 | 1.58% |  |
-| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv47 | 1 | 0.315% |  |
-| [<span class="wiki-icon">🥚</span>卵（分解）](/ja/action/disassemble-egg) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv1 | 1 | 100% |  |
+| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv47 | 1 | 0.315% |  |
+| [<img class="wiki-icon" src="assets/icon/95ee8d9d6ccf791f.svg" alt="">卵（分解）](/ja/action/disassemble-egg) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv1 | 1 | 100% |  |
 
 ## 解放条件
 
@@ -39,7 +39,7 @@
 
 - [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv4以上
 
-<div class="wiki-navbox" style="--accent:#968358"><div class="wiki-navbox-title">グループ: 爆発武器</div><div class="wiki-navbox-body"><a href="#/ja/item/water-balloon"><span class="wiki-icon">🎈</span>水風船</a> ・ <a href="#/ja/item/egg"><span class="wiki-icon">🥚</span>卵</a> ・ <a href="#/ja/item/pie"><span class="wiki-icon">🥧</span>パイ</a> ・ <a href="#/ja/item/tomato"><span class="wiki-icon">🍅</span>トマト</a> ・ <a href="#/ja/item/party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー</a> ・ <a href="#/ja/item/mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ</a> ・ <a href="#/ja/item/mandragora"><span class="wiki-icon">🌱</span>マンドラゴラ</a> ・ <a href="#/ja/item/fire-flower"><span class="wiki-icon">🌼</span>ファイアフラワー</a> ・ <a href="#/ja/item/molotov"><span class="wiki-icon">🍾</span>火炎ビン</a> ・ <a href="#/ja/item/flashbang"><span class="wiki-icon">✨</span>閃光弾</a> ・ <a href="#/ja/item/lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー</a> ・ <a href="#/ja/item/faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル</a> ・ <a href="#/ja/item/grenade"><span class="wiki-icon">💣</span>手榴弾</a> ・ <a href="#/ja/item/dynamite"><span class="wiki-icon">🧨</span>ダイナマイト</a> ・ <a href="#/ja/item/duel-disk"><span class="wiki-icon">💿</span>デュエルディスク</a> ・ <a href="#/ja/item/clow-card"><span class="wiki-icon">🃏</span>クロウカード</a> ・ <a href="#/ja/item/clockwork-apple"><span class="wiki-icon">🍎</span>時計仕掛けのリンゴ</a> ・ <a href="#/ja/item/star-rod"><span class="wiki-icon">🪄</span>スターロッド</a> ・ <a href="#/ja/item/ghost-ward"><span class="wiki-icon">🏷️</span>幽霊退治の札</a> ・ <a href="#/ja/item/military-dolphin"><span class="wiki-icon">🐬</span>軍用イルカ</a> ・ <a href="#/ja/item/trojan-horse"><span class="wiki-icon">🐴</span>トロイの木馬</a> ・ <a href="#/ja/item/nuclear-bomb"><span class="wiki-icon">☢️</span>核爆弾</a> ・ <a href="#/ja/item/spirit-bomb"><span class="wiki-icon">🌕</span>元気玉</a> ・ <a href="#/ja/item/n2-mine"><span class="wiki-icon">💣</span>N2爆雷</a></div></div>
+<div class="wiki-navbox" style="--accent:#968358"><div class="wiki-navbox-title">グループ: 爆発武器</div><div class="wiki-navbox-body"><a href="#/ja/item/water-balloon"><img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船</a> ・ <a href="#/ja/item/egg"><img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵</a> ・ <a href="#/ja/item/pie"><span class="wiki-icon">🥧</span>パイ</a> ・ <a href="#/ja/item/tomato"><span class="wiki-icon">🍅</span>トマト</a> ・ <a href="#/ja/item/party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー</a> ・ <a href="#/ja/item/mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ</a> ・ <a href="#/ja/item/mandragora"><span class="wiki-icon">🌱</span>マンドラゴラ</a> ・ <a href="#/ja/item/fire-flower"><span class="wiki-icon">🌼</span>ファイアフラワー</a> ・ <a href="#/ja/item/molotov"><span class="wiki-icon">🍾</span>火炎ビン</a> ・ <a href="#/ja/item/flashbang"><span class="wiki-icon">✨</span>閃光弾</a> ・ <a href="#/ja/item/lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー</a> ・ <a href="#/ja/item/faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル</a> ・ <a href="#/ja/item/grenade"><span class="wiki-icon">💣</span>手榴弾</a> ・ <a href="#/ja/item/dynamite"><span class="wiki-icon">🧨</span>ダイナマイト</a> ・ <a href="#/ja/item/duel-disk"><span class="wiki-icon">💿</span>デュエルディスク</a> ・ <a href="#/ja/item/clow-card"><span class="wiki-icon">🃏</span>クロウカード</a> ・ <a href="#/ja/item/clockwork-apple"><span class="wiki-icon">🍎</span>時計仕掛けのリンゴ</a> ・ <a href="#/ja/item/star-rod"><span class="wiki-icon">🪄</span>スターロッド</a> ・ <a href="#/ja/item/ghost-ward"><span class="wiki-icon">🏷️</span>幽霊退治の札</a> ・ <a href="#/ja/item/military-dolphin"><span class="wiki-icon">🐬</span>軍用イルカ</a> ・ <a href="#/ja/item/trojan-horse"><span class="wiki-icon">🐴</span>トロイの木馬</a> ・ <a href="#/ja/item/nuclear-bomb"><span class="wiki-icon">☢️</span>核爆弾</a> ・ <a href="#/ja/item/spirit-bomb"><span class="wiki-icon">🌕</span>元気玉</a> ・ <a href="#/ja/item/n2-mine"><span class="wiki-icon">💣</span>N2爆雷</a></div></div>
 
 ## 開発者向け情報
 
@@ -73,7 +73,7 @@
 		"icon": {
 			"emoji": "🥚",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/b09b5f8baff61dcb.svg）"
 		},
 		"color": ""
 	},

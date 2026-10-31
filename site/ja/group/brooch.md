@@ -9,8 +9,8 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">✨</span>ホタル](/ja/item/firefly) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 消費装備 | 3 |
-| [<span class="wiki-icon">🎖️</span>ピンバッジ](/ja/item/pin-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 3 |
+| [<img class="wiki-icon" src="assets/icon/c4f9d12979bdfc90.svg" alt="">ホタル](/ja/item/firefly) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 消費装備 | 3 |
+| [<img class="wiki-icon" src="assets/icon/5f67ad53a251b7d6.svg" alt="">ピンバッジ](/ja/item/pin-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 3 |
 | [<span class="wiki-icon">💗</span>ハートブローチ](/ja/item/heart-brooch) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 6 |
 | [<span class="wiki-icon">🪪</span>社員証](/ja/item/employee-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 18 |
 | [<span class="wiki-icon">🎖️</span>ジムバッジ](/ja/item/gym-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 27 |

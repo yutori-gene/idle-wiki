@@ -1,10 +1,10 @@
 # 王家の秘宝
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">王家の秘宝</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💰</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>1,944 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">王家の秘宝</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💰</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>1,944 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 国の運命を左右する宝。
 
-?> **進行素材**。[<span class="wiki-icon">🏰</span>城](/ja/category/castle) のレベルとあわせて、次のダンジョン [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) を開く条件になる。繰り返し手に入るので、売ってしまっても取り直せる。物置がいっぱいのときに売らないよう注意。エピローグ（[<span class="wiki-icon">📖</span>エピローグ](/ja/event/epilogue)）では10種すべてが条件になる。
+?> **進行素材**。[<span class="wiki-icon">🏰</span>城](/ja/category/castle) のレベルとあわせて、次のダンジョン [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) を開く条件になる。繰り返し手に入るので、売ってしまっても取り直せる。物置がいっぱいのときに売らないよう注意。エピローグ（[<span class="wiki-icon">📖</span>エピローグ](/ja/event/epilogue)）では10種すべてが条件になる。
 
 
 ## 入手方法
@@ -21,7 +21,7 @@
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | カテゴリの解放条件 | [<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ×1 |
+| [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | カテゴリの解放条件 | [<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ×1 |
 | [<span class="wiki-icon">👑</span>城の王](/ja/event/castle-king) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ×1 |
 | [<span class="wiki-icon">🚪</span>地獄の扉](/ja/event/gate-of-hell) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ×1 |
 | [<span class="wiki-icon">📖</span>エピローグ](/ja/event/epilogue) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ×1 |

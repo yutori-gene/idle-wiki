@@ -1,6 +1,6 @@
 # 受け流し
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">受け流し</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🤺</span></div><table><tr><th>発動率</th><td>12%／ターン</td></tr><tr><th>効果</th><td>防御+3</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">受け流し</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/81ebbbf085f9279e.svg" alt=""></div><table><tr><th>発動率</th><td>12%／ターン</td></tr><tr><th>効果</th><td>防御+3</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 力を殺さず、向きだけ変える。
 
@@ -17,7 +17,7 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/action/snail) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv7 |
+| [<img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ](/ja/action/snail) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv7 |
 | [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 |
 | [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
 
@@ -48,7 +48,7 @@
 		"icon": {
 			"emoji": "🤺",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/81ebbbf085f9279e.svg）"
 		},
 		"color": ""
 	},

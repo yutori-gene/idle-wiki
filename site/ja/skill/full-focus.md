@@ -24,7 +24,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🌬️</span>呼吸の力](/ja/item/breathing-power) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<span class="wiki-icon">🎩</span>エリート志向](/ja/item/elitism) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 

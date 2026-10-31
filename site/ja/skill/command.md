@@ -1,6 +1,6 @@
 # 統率
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">統率</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎖️</span></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>精度+5</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">統率</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/439c68be5d817fbd.svg" alt=""></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>精度+5</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 声ひとつで、迷いが消える。
 
@@ -20,13 +20,13 @@
 | [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 |
 | [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 |
 | [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
-| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎖️</span>リーダーシップ](/ja/item/leadership) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<span class="wiki-icon">🗳️</span>清き一票](/ja/item/clean-vote) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 
@@ -49,7 +49,7 @@
 		"icon": {
 			"emoji": "🎖️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/439c68be5d817fbd.svg）"
 		},
 		"color": ""
 	},

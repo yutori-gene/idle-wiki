@@ -12,6 +12,9 @@ const TYPES: { [extension: string]: string } = {
 	".json": "application/json; charset=utf-8",
 	".svg": "image/svg+xml",
 	".png": "image/png",
+	".jpg": "image/jpeg",
+	".webp": "image/webp",
+	".gif": "image/gif",
 };
 
 const port = Number(process.argv[2] ?? 3000);

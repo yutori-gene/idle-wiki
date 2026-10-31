@@ -9,7 +9,7 @@
   - [装備とプロパティ](/ja/system/equipment)
   - [イベント](/ja/system/event)
 - ダンジョン
-  - [<span class="wiki-icon">🌳</span>公園](/ja/category/park)
+  - [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park)
   - [<span class="wiki-icon">🌲</span>森](/ja/category/forest)
   - [<span class="wiki-icon">🏙️</span>街](/ja/category/town)
   - [<span class="wiki-icon">🌊</span>海](/ja/category/sea)
@@ -17,8 +17,8 @@
   - [<span class="wiki-icon">🏭</span>工場](/ja/category/factory)
   - [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano)
   - [<span class="wiki-icon">🏰</span>城](/ja/category/castle)
-  - [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell)
-  - [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden)
+  - [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell)
+  - [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden)
 - 拠点
   - [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse)
   - [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse)
@@ -30,9 +30,9 @@
   - [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom)
   - [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop)
 - 装備管理
-  - [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon)
+  - [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon)
   - [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon)
-  - [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor)
+  - [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor)
   - [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory)
   - [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon)
 - 一覧

@@ -1,6 +1,6 @@
 # CSV から消したもの（変換フェーズ 2026-09-06 〜 09-14）
 
-> idle リポジトリ `world/doc/csv-removed.md` の写し（99fbad2 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
+> idle リポジトリ `world/doc/csv-removed.md` の写し（cd2dc75 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
 
 `claude/csv-worldtype-conversion-script-5ex3ie` のセッションで `world/list/*.csv` を繰り返し編集したので、
 **行（アイテム・アクション・カテゴリ）を消したかどうか**を後から追えるように記録する。

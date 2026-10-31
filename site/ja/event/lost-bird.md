@@ -7,13 +7,13 @@
 
 次をすべて満たすと達成になり、報酬を受け取れる。条件のアイテムは消費しない。一度達成したら、あとで条件を失っても達成のまま。
 
-- [<span class="wiki-icon">🐦</span>スズメ](/ja/item/sparrow) ×1
-- [<span class="wiki-icon">🕊️</span>ハト](/ja/item/pigeon) ×1
+- [<img class="wiki-icon" src="assets/icon/e4431f2a3a0df5d2.svg" alt="">スズメ](/ja/item/sparrow) ×1
+- [<img class="wiki-icon" src="assets/icon/a6c87b93b31c1653.svg" alt="">ハト](/ja/item/pigeon) ×1
 
 ## 報酬
 
-- [<span class="wiki-icon">🌼</span>タンポポ](/ja/item/dandelion) ×5
-- [<span class="wiki-icon">🍋</span>レモン](/ja/item/lemon) ×3
+- [<img class="wiki-icon" src="assets/icon/a124f32c43131da0.svg" alt="">タンポポ](/ja/item/dandelion) ×5
+- [<img class="wiki-icon" src="assets/icon/5f7df036cb7939a5.svg" alt="">レモン](/ja/item/lemon) ×3
 
 <div class="wiki-navbox" style="--accent:#b8862b"><div class="wiki-navbox-title">依頼</div><div class="wiki-navbox-body"><a href="#/ja/event/acorn-pile"><span class="wiki-icon">🌰</span>どんぐりの小山</a> ・ <a href="#/ja/event/lost-bird"><span class="wiki-icon">🐦</span>迷子の小鳥</a> ・ <a href="#/ja/event/alley-merchant"><span class="wiki-icon">🧙</span>路地裏の商人</a> ・ <a href="#/ja/event/mushroom-master"><span class="wiki-icon">🍄</span>きのこ採り名人</a> ・ <a href="#/ja/event/lost-path"><span class="wiki-icon">🧭</span>迷い道</a> ・ <a href="#/ja/event/mysterious-flyer"><span class="wiki-icon">📄</span>謎のチラシ</a> ・ <a href="#/ja/event/knight-training"><span class="wiki-icon">🛡️</span>騎士の修練</a> ・ <a href="#/ja/event/drifted-bottle"><span class="wiki-icon">🍾</span>漂着ボトル</a> ・ <a href="#/ja/event/fisherman-help"><span class="wiki-icon">🎣</span>漁師の手伝い</a> ・ <a href="#/ja/event/snowman-making"><span class="wiki-icon">⛄</span>雪だるま作り</a> ・ <a href="#/ja/event/herb-gift"><span class="wiki-icon">🌿</span>薬草の贈り物</a> ・ <a href="#/ja/event/screw-pickup"><span class="wiki-icon">🔩</span>ネジ拾い</a> ・ <a href="#/ja/event/broken-robot"><span class="wiki-icon">🤖</span>壊れたロボ</a> ・ <a href="#/ja/event/miner-feast"><span class="wiki-icon">⛏️</span>鉱夫の酒盛り</a> ・ <a href="#/ja/event/lost-fire-dragon"><span class="wiki-icon">🐉</span>迷子の火竜</a> ・ <a href="#/ja/event/cook-in-trouble"><span class="wiki-icon">🍳</span>料理番の窮地</a> ・ <a href="#/ja/event/undead-plea"><span class="wiki-icon">👻</span>亡者の嘆願</a> ・ <a href="#/ja/event/flame-trial"><span class="wiki-icon">🔥</span>火焔の試練</a> ・ <a href="#/ja/event/angel-song"><span class="wiki-icon">😇</span>天使の歌</a> ・ <a href="#/ja/event/priest-blessing"><span class="wiki-icon">🙏</span>神官の祝福</a></div></div>
 

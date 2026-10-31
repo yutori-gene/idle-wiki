@@ -1,6 +1,6 @@
 # 水風船（分解）
 
-<div class="wiki-infobox" style="--accent:#968358"><div class="wiki-infobox-title">水風船（分解）</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎈</span></div><table><tr><th>場所</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv3</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>86</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#968358"><div class="wiki-infobox-title">水風船（分解）</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/8f458c2a40439e96.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv3</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>86</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 炉に放り込んで低級の金属を回収する。
 
@@ -10,7 +10,7 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv3以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🎈</span>水風船](/ja/item/water-balloon) ×1（消費する）
+- [<img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船](/ja/item/water-balloon) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -37,11 +37,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 36 | 36 | 0 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 36 | 36 | 0 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#968358"><div class="wiki-navbox-title">爆発武器のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/disassemble-egg"><span class="wiki-icon">🥚</span>卵（分解）</a> ・ <a href="#/ja/action/disassemble-water-balloon"><span class="wiki-icon">🎈</span>水風船（分解）</a> ・ <a href="#/ja/action/disassemble-pie"><span class="wiki-icon">🥧</span>パイ（分解）</a> ・ <a href="#/ja/action/disassemble-tomato"><span class="wiki-icon">🍅</span>トマト（分解）</a> ・ <a href="#/ja/action/disassemble-mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ（分解）</a> ・ <a href="#/ja/action/disassemble-party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー（分解）</a> ・ <a href="#/ja/action/disassemble-mandragora"><span class="wiki-icon">🌱</span>マンドラゴラ（分解）</a> ・ <a href="#/ja/action/disassemble-fire-flower"><span class="wiki-icon">🌼</span>ファイアフラワー（分解）</a> ・ <a href="#/ja/action/disassemble-flashbang"><span class="wiki-icon">✨</span>閃光弾（分解）</a> ・ <a href="#/ja/action/disassemble-molotov"><span class="wiki-icon">🍾</span>火炎ビン（分解）</a> ・ <a href="#/ja/action/disassemble-faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル（分解）</a> ・ <a href="#/ja/action/disassemble-lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー（分解）</a> ・ <a href="#/ja/action/disassemble-dynamite"><span class="wiki-icon">🧨</span>ダイナマイト（分解）</a> ・ <a href="#/ja/action/disassemble-grenade"><span class="wiki-icon">💣</span>手榴弾（分解）</a> ・ <a href="#/ja/action/craft-mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ</a> ・ <a href="#/ja/action/craft-party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー</a> ・ <a href="#/ja/action/craft-lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー</a> ・ <a href="#/ja/action/craft-faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル</a> ・ <a href="#/ja/action/craft-grenade"><span class="wiki-icon">💣</span>手榴弾</a> ・ <a href="#/ja/action/craft-dynamite"><span class="wiki-icon">🧨</span>ダイナマイト</a> ・ <a href="#/ja/action/craft-clockwork-apple"><span class="wiki-icon">🍎</span>時計仕掛けのリンゴ</a> ・ <a href="#/ja/action/craft-ghost-ward"><span class="wiki-icon">🏷️</span>幽霊退治の札</a> ・ <a href="#/ja/action/craft-star-rod"><span class="wiki-icon">🪄</span>スターロッド</a> ・ <a href="#/ja/action/craft-n2-mine"><span class="wiki-icon">💣</span>N2爆雷</a> ・ <a href="#/ja/action/craft-trojan-horse"><span class="wiki-icon">🐴</span>トロイの木馬</a> ・ <a href="#/ja/action/craft-spirit-bomb"><span class="wiki-icon">🌕</span>元気玉</a> ・ <a href="#/ja/action/craft-nuclear-bomb"><span class="wiki-icon">☢️</span>核爆弾</a> ・ <a href="#/ja/action/craft-military-dolphin"><span class="wiki-icon">🐬</span>軍用イルカ</a></div></div>
+<div class="wiki-navbox" style="--accent:#968358"><div class="wiki-navbox-title">爆発武器のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/disassemble-egg"><img class="wiki-icon" src="assets/icon/95ee8d9d6ccf791f.svg" alt="">卵（分解）</a> ・ <a href="#/ja/action/disassemble-water-balloon"><img class="wiki-icon" src="assets/icon/8f458c2a40439e96.svg" alt="">水風船（分解）</a> ・ <a href="#/ja/action/disassemble-pie"><span class="wiki-icon">🥧</span>パイ（分解）</a> ・ <a href="#/ja/action/disassemble-tomato"><span class="wiki-icon">🍅</span>トマト（分解）</a> ・ <a href="#/ja/action/disassemble-mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ（分解）</a> ・ <a href="#/ja/action/disassemble-party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー（分解）</a> ・ <a href="#/ja/action/disassemble-mandragora"><span class="wiki-icon">🌱</span>マンドラゴラ（分解）</a> ・ <a href="#/ja/action/disassemble-fire-flower"><span class="wiki-icon">🌼</span>ファイアフラワー（分解）</a> ・ <a href="#/ja/action/disassemble-flashbang"><span class="wiki-icon">✨</span>閃光弾（分解）</a> ・ <a href="#/ja/action/disassemble-molotov"><span class="wiki-icon">🍾</span>火炎ビン（分解）</a> ・ <a href="#/ja/action/disassemble-faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル（分解）</a> ・ <a href="#/ja/action/disassemble-lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー（分解）</a> ・ <a href="#/ja/action/disassemble-dynamite"><span class="wiki-icon">🧨</span>ダイナマイト（分解）</a> ・ <a href="#/ja/action/disassemble-grenade"><span class="wiki-icon">💣</span>手榴弾（分解）</a> ・ <a href="#/ja/action/craft-mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ</a> ・ <a href="#/ja/action/craft-party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー</a> ・ <a href="#/ja/action/craft-lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー</a> ・ <a href="#/ja/action/craft-faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル</a> ・ <a href="#/ja/action/craft-grenade"><span class="wiki-icon">💣</span>手榴弾</a> ・ <a href="#/ja/action/craft-dynamite"><span class="wiki-icon">🧨</span>ダイナマイト</a> ・ <a href="#/ja/action/craft-clockwork-apple"><span class="wiki-icon">🍎</span>時計仕掛けのリンゴ</a> ・ <a href="#/ja/action/craft-ghost-ward"><span class="wiki-icon">🏷️</span>幽霊退治の札</a> ・ <a href="#/ja/action/craft-star-rod"><span class="wiki-icon">🪄</span>スターロッド</a> ・ <a href="#/ja/action/craft-n2-mine"><span class="wiki-icon">💣</span>N2爆雷</a> ・ <a href="#/ja/action/craft-trojan-horse"><span class="wiki-icon">🐴</span>トロイの木馬</a> ・ <a href="#/ja/action/craft-spirit-bomb"><span class="wiki-icon">🌕</span>元気玉</a> ・ <a href="#/ja/action/craft-nuclear-bomb"><span class="wiki-icon">☢️</span>核爆弾</a> ・ <a href="#/ja/action/craft-military-dolphin"><span class="wiki-icon">🐬</span>軍用イルカ</a></div></div>
 
 ## 開発者向け情報
 
@@ -73,7 +73,7 @@
 		"icon": {
 			"emoji": "🎈",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/8f458c2a40439e96.svg）"
 		},
 		"color": ""
 	},

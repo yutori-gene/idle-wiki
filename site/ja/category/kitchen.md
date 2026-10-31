@@ -19,24 +19,24 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍲</span>鍋](/ja/action/buy-pot) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv1 | 0秒 | 100% | — | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×300 | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) |
-| [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv1 | 1分 | 100% | 1,200 | [<span class="wiki-icon">🍚</span>砂糖](/ja/item/sugar)×5<br>[<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | [<span class="wiki-icon">🍬</span>飴](/ja/item/candy)×7 |
-| [<span class="wiki-icon">🥣</span>ボウル](/ja/action/buy-bowl) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv5 | 0秒 | 100% | — | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×100 | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) |
-| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv5 | 1分 | 90% | 1,188 | [<span class="wiki-icon">🍞</span>パン](/ja/item/bread)<br>[<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine)<br>[<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) | [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/item/potion-bread)×42 |
+| [<span class="wiki-icon">🍲</span>鍋](/ja/action/buy-pot) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv1 | 0秒 | 100% | — | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×300 | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) |
+| [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv1 | 1分 | 100% | 1,200 | [<span class="wiki-icon">🍚</span>砂糖](/ja/item/sugar)×5<br>[<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | [<span class="wiki-icon">🍬</span>飴](/ja/item/candy)×7 |
+| [<span class="wiki-icon">🥣</span>ボウル](/ja/action/buy-bowl) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv5 | 0秒 | 100% | — | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×100 | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) |
+| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv5 | 1分 | 90% | 1,188 | [<span class="wiki-icon">🍞</span>パン](/ja/item/bread)<br>[<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine)<br>[<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) | [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/item/potion-bread)×42 |
 | [<span class="wiki-icon">🍞</span>パン](/ja/action/bake-bread) | [<span class="wiki-icon">🔧</span>加工](/ja/group/process) | 連続 | Lv9 | 2分 | 85% | 1,199 | [<span class="wiki-icon">🍞</span>パン生地](/ja/item/bread-dough)×3<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt) | [<span class="wiki-icon">🍞</span>パン](/ja/item/bread)×89<br>[<span class="wiki-icon">🌫️</span>灰](/ja/item/ash)×2 (36%) |
-| [<span class="wiki-icon">🍳</span>フライパン](/ja/action/buy-frying-pan) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv12 | 0秒 | 100% | — | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×50 | [<span class="wiki-icon">🍳</span>フライパン](/ja/item/frying-pan) |
-| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv12 | 4分 | 65% | 1,190 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)×4<br>[<span class="wiki-icon">🌱</span>ネギ](/ja/item/green-onion)×4<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×2<br>[<span class="wiki-icon">🐸</span>カエル](/ja/item/frog)<br>[<span class="wiki-icon">🐸</span>オタマジャクシ](/ja/item/tadpole)×2 | [<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori)×234 |
-| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv16 | 2分 | 60% | 1,188 | [<span class="wiki-icon">🐌</span>カタツムリ](/ja/item/snail)×3<br>[<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic)×5<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil)×3<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×2 | [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/item/escargot)×127 |
-| [<span class="wiki-icon">🥟</span>蒸籠](/ja/action/buy-steamer) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv20 | 0秒 | 100% | — | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×800 | [<span class="wiki-icon">🥟</span>蒸籠](/ja/item/steamer) |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv20 | 2分 | 85% | 1,199 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)<br>[<span class="wiki-icon">🌱</span>ネギ](/ja/item/green-onion)<br>[<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat)×3<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×3<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) | [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun)×89 |
+| [<span class="wiki-icon">🍳</span>フライパン](/ja/action/buy-frying-pan) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv12 | 0秒 | 100% | — | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×50 | [<span class="wiki-icon">🍳</span>フライパン](/ja/item/frying-pan) |
+| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv12 | 4分 | 65% | 1,190 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)×4<br>[<img class="wiki-icon" src="assets/icon/038883e27a6d1f09.svg" alt="">ネギ](/ja/item/green-onion)×4<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×2<br>[<img class="wiki-icon" src="assets/icon/dedb91fd5c627f14.svg" alt="">カエル](/ja/item/frog)<br>[<span class="wiki-icon">🐸</span>オタマジャクシ](/ja/item/tadpole)×2 | [<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori)×234 |
+| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv16 | 2分 | 60% | 1,188 | [<img class="wiki-icon" src="assets/icon/50dbac7e9c9b6a33.svg" alt="">カタツムリ](/ja/item/snail)×3<br>[<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic)×5<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil)×3<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×2 | [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/item/escargot)×127 |
+| [<span class="wiki-icon">🥟</span>蒸籠](/ja/action/buy-steamer) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv20 | 0秒 | 100% | — | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×800 | [<span class="wiki-icon">🥟</span>蒸籠](/ja/item/steamer) |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv20 | 2分 | 85% | 1,199 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)<br>[<img class="wiki-icon" src="assets/icon/038883e27a6d1f09.svg" alt="">ネギ](/ja/item/green-onion)<br>[<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat)×3<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×3<br>[<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) | [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun)×89 |
 | [<span class="wiki-icon">🍞</span>パン生地](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🔧</span>加工](/ja/group/process) | 連続 | Lv24 | 6分 | 100% | 1,190 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat)×9<br>[<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water)×3 | [<span class="wiki-icon">🍞</span>パン生地](/ja/item/bread-dough)×228 |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv27 | 3分 | 55% | 1,188 | [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/item/broccoli)<br>[<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot)×2<br>[<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic)×4<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil)×2<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)<br>[<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage)×2<br>[<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom) | [<span class="wiki-icon">🥘</span>野菜炒め](/ja/item/stir-fried-vegetables)×207 |
-| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv31 | 4分 | 70% | 1,186 | [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun)×5<br>[<span class="wiki-icon">🍅</span>トマト](/ja/item/tomato)×2<br>[<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic)×5<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×2<br>[<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage)×2 | [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/item/meat-bun-tomato-stew)×217 |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv35 | 12分 | 60% | 1,185 | [<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine)×8<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×12<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil)×4<br>[<span class="wiki-icon">🐍</span>電気ウナギ](/ja/item/electric-eel)<br>[<span class="wiki-icon">🥕</span>大根](/ja/item/daikon)×4 | [<span class="wiki-icon">🐟</span>焼き魚](/ja/item/grilled-fish)×760<br>[<span class="wiki-icon">🌫️</span>灰](/ja/item/ash)×7 (36%) |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv39 | 15分 | 90% | 1,184 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×21<br>[<span class="wiki-icon">🌶️</span>とうがらし](/ja/item/chili)×13<br>[<span class="wiki-icon">🌋</span>マグマの欠片](/ja/item/magma-fragment)×4<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×4 | [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/item/burning-tofu)×633 |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv42 | 18分 | 50% | 1,185 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)×15<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×10<br>[<span class="wiki-icon">🌶️</span>とうがらし](/ja/item/chili)×5 | [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/item/beef-jerky)×1,368<br>[<span class="wiki-icon">🌫️</span>灰](/ja/item/ash)×10 (36%) |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv46 | 30分 | 95% | 1,186 | [<span class="wiki-icon">🍚</span>生米](/ja/item/raw-rice)×12<br>[<span class="wiki-icon">🍄</span>ワライタケ](/ja/item/laughing-mushroom)×6<br>[<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey)×12 | [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango)×1,200 |
-| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 連続 | Lv50 | 18分 | 50% | 1,185 | [<span class="wiki-icon">🌳</span>世界樹の実](/ja/item/world-tree-fruit)×4<br>[<span class="wiki-icon">🍇</span>星の果実](/ja/item/star-fruit)×7<br>[<span class="wiki-icon">🌸</span>天空の花](/ja/item/sky-flower)×11<br>[<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit) | [<span class="wiki-icon">🫘</span>仙豆](/ja/item/senzu-bean)×1,368 |
+| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv27 | 3分 | 55% | 1,188 | [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/item/broccoli)<br>[<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot)×2<br>[<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic)×4<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil)×2<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)<br>[<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage)×2<br>[<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom) | [<span class="wiki-icon">🥘</span>野菜炒め](/ja/item/stir-fried-vegetables)×207 |
+| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv31 | 4分 | 70% | 1,186 | [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun)×5<br>[<span class="wiki-icon">🍅</span>トマト](/ja/item/tomato)×2<br>[<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic)×5<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×2<br>[<span class="wiki-icon">🥬</span>白菜](/ja/item/chinese-cabbage)×2 | [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/item/meat-bun-tomato-stew)×217 |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv35 | 12分 | 60% | 1,185 | [<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine)×8<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×12<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil)×4<br>[<span class="wiki-icon">🐍</span>電気ウナギ](/ja/item/electric-eel)<br>[<span class="wiki-icon">🥕</span>大根](/ja/item/daikon)×4 | [<span class="wiki-icon">🐟</span>焼き魚](/ja/item/grilled-fish)×760<br>[<span class="wiki-icon">🌫️</span>灰](/ja/item/ash)×7 (36%) |
+| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv39 | 15分 | 90% | 1,184 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×21<br>[<span class="wiki-icon">🌶️</span>とうがらし](/ja/item/chili)×13<br>[<span class="wiki-icon">🌋</span>マグマの欠片](/ja/item/magma-fragment)×4<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×4 | [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/item/burning-tofu)×633 |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv42 | 18分 | 50% | 1,185 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)×15<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×10<br>[<span class="wiki-icon">🌶️</span>とうがらし](/ja/item/chili)×5 | [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/item/beef-jerky)×1,368<br>[<span class="wiki-icon">🌫️</span>灰](/ja/item/ash)×10 (36%) |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv46 | 30分 | 95% | 1,186 | [<span class="wiki-icon">🍚</span>生米](/ja/item/raw-rice)×12<br>[<span class="wiki-icon">🍄</span>ワライタケ](/ja/item/laughing-mushroom)×6<br>[<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey)×12 | [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango)×1,200 |
+| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 連続 | Lv50 | 18分 | 50% | 1,185 | [<span class="wiki-icon">🌳</span>世界樹の実](/ja/item/world-tree-fruit)×4<br>[<span class="wiki-icon">🍇</span>星の果実](/ja/item/star-fruit)×7<br>[<span class="wiki-icon">🌸</span>天空の花](/ja/item/sky-flower)×11<br>[<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit) | [<span class="wiki-icon">🫘</span>仙豆](/ja/item/senzu-bean)×1,368 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -48,11 +48,11 @@
 
 | アイテム | グループ | 装備 | 売値 | 買値 |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐌</span>カタツムリ](/ja/item/snail) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 27 | — |
+| [<img class="wiki-icon" src="assets/icon/50dbac7e9c9b6a33.svg" alt="">カタツムリ](/ja/item/snail) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 27 | — |
 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 2 | — |
 | [<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 2 | — |
 | [<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 2 | — |
-| [<span class="wiki-icon">🐸</span>カエル](/ja/item/frog) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 6 | — |
+| [<img class="wiki-icon" src="assets/icon/dedb91fd5c627f14.svg" alt="">カエル](/ja/item/frog) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 6 | — |
 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 6 | — |
 | [<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 18 | 36 |
 | [<span class="wiki-icon">🐸</span>オタマジャクシ](/ja/item/tadpole) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 54 | — |
@@ -70,18 +70,18 @@
 | [<span class="wiki-icon">🍄</span>ワライタケ](/ja/item/laughing-mushroom) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 30 | — |
 | [<span class="wiki-icon">🍇</span>星の果実](/ja/item/star-fruit) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 30 | — |
 | [<span class="wiki-icon">🌳</span>世界樹の実](/ja/item/world-tree-fruit) | [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | 消費装備 | 2,430 | — |
-| [<span class="wiki-icon">🍬</span>飴](/ja/item/candy) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 6 | — |
-| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/item/potion-bread) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 243 | — |
-| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 12 | — |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 36 | — |
-| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/item/escargot) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 324 | — |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/item/stir-fried-vegetables) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 15 | — |
-| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/item/meat-bun-tomato-stew) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 135 | — |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/item/grilled-fish) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 54 | — |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/item/beef-jerky) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 63 | — |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/item/burning-tofu) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 1,701 | — |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 270 | — |
-| [<span class="wiki-icon">🫘</span>仙豆](/ja/item/senzu-bean) | [<span class="wiki-icon">🍽️</span>料理](/ja/group/cooking) | 消費装備 | 65,610 | — |
+| [<span class="wiki-icon">🍬</span>飴](/ja/item/candy) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 6 | — |
+| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/item/potion-bread) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 243 | — |
+| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 12 | — |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 36 | — |
+| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/item/escargot) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 324 | — |
+| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/item/stir-fried-vegetables) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 15 | — |
+| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/item/meat-bun-tomato-stew) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 135 | — |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/item/grilled-fish) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 54 | — |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/item/beef-jerky) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 63 | — |
+| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/item/burning-tofu) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 1,701 | — |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 270 | — |
+| [<span class="wiki-icon">🫘</span>仙豆](/ja/item/senzu-bean) | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | 消費装備 | 65,610 | — |
 | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不要 | — | — |
 | [<span class="wiki-icon">🍳</span>フライパン](/ja/item/frying-pan) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不要 | — | — |
 | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不要 | — | — |
@@ -91,22 +91,22 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -123,8 +123,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -153,8 +154,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -163,7 +164,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
@@ -184,7 +185,9 @@
 | --- | --- | --- |
 | Lv1 | 0 | [<span class="wiki-icon">🍲</span>鍋](/ja/action/buy-pot)（実行）<br>[<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy)（実行）<br>[<span class="wiki-icon">💊</span>メントス](/ja/item/mentos)（解放）<br>[<span class="wiki-icon">🍬</span>飴](/ja/item/candy)（解放） |
 | Lv5 | 471 | [<span class="wiki-icon">🥣</span>ボウル](/ja/action/buy-bowl)（実行）<br>[<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread)（実行）<br>[<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/item/potion-bread)（解放） |
-| Lv9 | 1,186 | [<span class="wiki-icon">🍞</span>パン](/ja/action/bake-bread)（実行）<br>[<span class="wiki-icon">🍋</span>レモン](/ja/item/lemon)（解放）<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil)（解放）<br>[<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop)（解放） |
+| Lv7 | 791 | [<span class="wiki-icon">📗</span>探偵小説](/ja/action/read-novel)（実行条件）<br>[<span class="wiki-icon">🗞️</span>ゴシップ誌](/ja/action/read-gossip-magazine)（実行条件）<br>[<span class="wiki-icon">📗</span>探偵小説](/ja/item/novel)（解放）<br>[<span class="wiki-icon">🗞️</span>ゴシップ誌](/ja/item/gossip-magazine)（解放） |
+| Lv9 | 1,186 | [<span class="wiki-icon">🍞</span>パン](/ja/action/bake-bread)（実行）<br>[<img class="wiki-icon" src="assets/icon/5f7df036cb7939a5.svg" alt="">レモン](/ja/item/lemon)（解放）<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil)（解放）<br>[<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop)（解放） |
+| Lv11 | 1,672 | [<span class="wiki-icon">📗</span>今夜のおかず🎶レシピ集](/ja/action/read-recipe-book)（実行条件）<br>[<span class="wiki-icon">📗</span>今夜のおかず🎶レシピ集](/ja/item/recipe-book)（解放） |
 | Lv12 | 1,956 | [<span class="wiki-icon">🍳</span>フライパン](/ja/action/buy-frying-pan)（実行）<br>[<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori)（実行）<br>[<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori)（解放） |
 | Lv16 | 3,441 | [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot)（実行）<br>[<span class="wiki-icon">🐌</span>エスカルゴ](/ja/item/escargot)（解放） |
 | Lv20 | 5,694 | [<span class="wiki-icon">🥟</span>蒸籠](/ja/action/buy-steamer)（実行）<br>[<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun)（実行）<br>[<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun)（解放） |
@@ -210,7 +213,7 @@
 | `unlocked` | `hinted` |
 | `numeric` | `true` |
 | `standaloneProgress` | `false` |
-| `background` | （空） |
+| `background` | <a href="assets/icon/388523bcb0b3cc6a.svg" target="_blank">画像</a>（data URI） |
 
 **設計ドキュメント**: [plan.md › カテゴリ設定](/ja/dev/doc/plan?id=%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E8%A8%AD%E5%AE%9A) ／ [plan.md › 進行ゲート](/ja/dev/doc/plan?id=%E9%80%B2%E8%A1%8C%E3%82%B2%E3%83%BC%E3%83%88) ／ [plan.md › カテゴリ役割分担](/ja/dev/doc/plan?id=%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E5%BD%B9%E5%89%B2%E5%88%86%E6%8B%85)
 
@@ -434,7 +437,7 @@
 	],
 	"numeric": true,
 	"standaloneProgress": false,
-	"background": ""
+	"background": "（data URI の画像。site/assets/icon/388523bcb0b3cc6a.svg）"
 }
 ```
 

@@ -1,6 +1,6 @@
 # ようこそ
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">ようこそ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👋</span></div><table><tr><th>タイミング</th><td>ようこそ</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">ようこそ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/74a0d70b1aa9355a.svg" alt=""></div><table><tr><th>タイミング</th><td>ようこそ</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 冒険の世界へようこそ！まずはできることから始めよう
 
@@ -34,7 +34,7 @@
 		"icon": {
 			"emoji": "👋",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/74a0d70b1aa9355a.svg）"
 		},
 		"color": ""
 	},

@@ -19,16 +19,16 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥣</span>すり鉢](/ja/action/buy-mortar) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv1 | 0秒 | 100% | — | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×100 | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) |
+| [<span class="wiki-icon">🥣</span>すり鉢](/ja/action/buy-mortar) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv1 | 0秒 | 100% | — | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×100 | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) |
 | [<span class="wiki-icon">🩹</span>絆創膏](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv1 | 1分 | 100% | 1,260 | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth)<br>[<span class="wiki-icon">🍯</span>樹液](/ja/item/tree-sap) | [<span class="wiki-icon">🩹</span>絆創膏](/ja/item/bandage)×7 |
 | [<span class="wiki-icon">💊</span>キズ薬](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv3 | 2分 | 85% | 1,224 | [<span class="wiki-icon">🌿</span>薬草](/ja/item/herb)<br>[<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) | [<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine)×17 |
 | [<span class="wiki-icon">💊</span>風邪薬](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv5 | 1分 | 70% | 1,218 | [<span class="wiki-icon">🌿</span>薬草](/ja/item/herb)×2<br>[<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey)×2 | [<span class="wiki-icon">💊</span>風邪薬](/ja/item/cold-medicine)×10 |
-| [<span class="wiki-icon">⚗️</span>蒸留器](/ja/action/buy-still) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv7 | 0秒 | 100% | — | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×1,000 | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) |
+| [<span class="wiki-icon">⚗️</span>蒸留器](/ja/action/buy-still) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv7 | 0秒 | 100% | — | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×1,000 | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) |
 | [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv7 | 2分 | 100% | 1,230 | [<span class="wiki-icon">🌿</span>薬草](/ja/item/herb)×4<br>[<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/item/bubbling-medicine)×15 |
 | [<span class="wiki-icon">💊</span>阿片](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv9 | 1分 | 90% | 1,242 | [<span class="wiki-icon">🌿</span>大麻](/ja/item/hemp)<br>[<span class="wiki-icon">🍄</span>巨大キノコ](/ja/item/giant-mushroom) | [<span class="wiki-icon">💊</span>阿片](/ja/item/opium)×8 |
 | [<span class="wiki-icon">✨</span>発光する薬](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv11 | 3分 | 100% | 1,220 | [<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite)×3<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle)×2 | [<span class="wiki-icon">✨</span>発光する薬](/ja/item/glowing-medicine)×23 |
-| [<span class="wiki-icon">🧪</span>エーテル](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv13 | 1分 | 75% | 1,215 | [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit)<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle)<br>[<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite)×2 | [<span class="wiki-icon">🧪</span>エーテル](/ja/item/ether)×10 |
-| [<span class="wiki-icon">⚗️</span>るつぼ](/ja/action/buy-crucible) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv15 | 0秒 | 100% | — | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×10,000 | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) |
+| [<img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv13 | 1分 | 75% | 1,215 | [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit)<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle)<br>[<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite)×2 | [<img class="wiki-icon" src="assets/icon/ff59e56b98270140.svg" alt="">エーテル](/ja/item/ether)×10 |
+| [<span class="wiki-icon">⚗️</span>るつぼ](/ja/action/buy-crucible) | [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | 単発 | Lv15 | 0秒 | 100% | — | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×10,000 | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) |
 | [<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv15 | 4分 | 60% | 1,206 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×4<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×6 | [<span class="wiki-icon">🔥</span>カイロ](/ja/item/heat-pack)×50 |
 | [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv17 | 2分 | 80% | 1,224 | [<span class="wiki-icon">🌿</span>薬草](/ja/item/herb)×2<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) | [<span class="wiki-icon">👁️</span>目薬](/ja/item/eye-drops)×19 |
 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv19 | 6分 | 50% | 1,205 | [<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal)×2<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle)×2 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack)×91 |
@@ -40,7 +40,7 @@
 | [<span class="wiki-icon">💊</span>下剤](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv32 | 12分 | 95% | 1,207 | [<span class="wiki-icon">☠️</span>毒草](/ja/item/poison-herb)×9 | [<span class="wiki-icon">💊</span>下剤](/ja/item/laxative)×95 |
 | [<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv34 | 6分 | 65% | 1,203 | [<span class="wiki-icon">💊</span>下剤](/ja/item/laxative)×3<br>[<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana)×4<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone)×4 | [<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/item/laxative-for-gorilla)×69 |
 | [<span class="wiki-icon">🧪</span>毒瓶](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv36 | 18分 | 90% | 1,203 | [<span class="wiki-icon">☠️</span>毒草](/ja/item/poison-herb)×5<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle)×5 | [<span class="wiki-icon">🧪</span>毒瓶](/ja/item/poison-vial)×150 |
-| [<span class="wiki-icon">🧪</span>LCL](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv38 | 8分 | 50% | 1,204 | [<span class="wiki-icon">👾</span>使徒の残骸](/ja/item/angel-remains)×5<br>[<span class="wiki-icon">🩸</span>血液](/ja/item/blood)×2<br>[<span class="wiki-icon">🧪</span>エーテル](/ja/item/ether)×4 | [<span class="wiki-icon">🧪</span>LCL](/ja/item/lcl)×121 |
+| [<span class="wiki-icon">🧪</span>LCL](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv38 | 8分 | 50% | 1,204 | [<span class="wiki-icon">👾</span>使徒の残骸](/ja/item/angel-remains)×5<br>[<span class="wiki-icon">🩸</span>血液](/ja/item/blood)×2<br>[<img class="wiki-icon" src="assets/icon/ff59e56b98270140.svg" alt="">エーテル](/ja/item/ether)×4 | [<span class="wiki-icon">🧪</span>LCL](/ja/item/lcl)×121 |
 | [<span class="wiki-icon">💧</span>聖水](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv40 | 25分 | 100% | 1,205 | [<span class="wiki-icon">🌸</span>天空の花](/ja/item/sky-flower)×15<br>[<span class="wiki-icon">🌈</span>虹色の露](/ja/item/rainbow-dew)×5 | [<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water)×190 |
 | [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv42 | 10分 | 95% | 1,203 | [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit)×2<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle)×2<br>[<span class="wiki-icon">🌸</span>天空の花](/ja/item/sky-flower)×4 | [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/item/bottled-spirit)×80 |
 | [<span class="wiki-icon">💊</span>万能薬](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv44 | 30分 | 60% | 1,204 | [<span class="wiki-icon">🧪</span>エリクサー](/ja/item/elixir)×12<br>[<span class="wiki-icon">🌿</span>薬草](/ja/item/herb)×6<br>[<span class="wiki-icon">🍃</span>世界樹の葉](/ja/item/world-tree-leaf)×6 | [<span class="wiki-icon">💊</span>万能薬](/ja/item/panacea)×380 |
@@ -69,7 +69,7 @@
 | [<span class="wiki-icon">🔥</span>カイロ](/ja/item/heat-pack) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 4 | — |
 | [<span class="wiki-icon">👁️</span>目薬](/ja/item/eye-drops) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 4 | — |
 | [<span class="wiki-icon">✨</span>発光する薬](/ja/item/glowing-medicine) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 36 | — |
-| [<span class="wiki-icon">🧪</span>エーテル](/ja/item/ether) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 324 | — |
+| [<img class="wiki-icon" src="assets/icon/ff59e56b98270140.svg" alt="">エーテル](/ja/item/ether) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 324 | — |
 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 5 | — |
 | [<span class="wiki-icon">🦟</span>むしよけスプレー](/ja/item/insect-repellent) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 18 | — |
 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 18 | — |
@@ -92,22 +92,22 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -124,8 +124,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -154,8 +155,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -164,7 +165,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
@@ -190,15 +191,17 @@
 | Lv6 | 623 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller)（解放）<br>[<span class="wiki-icon">☕</span>眠気覚まし](/ja/item/anti-drowsiness)（解放） |
 | Lv7 | 791 | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/action/buy-still)（実行）<br>[<span class="wiki-icon">🧪</span>泡立つ薬](/ja/action/brew-bubbling-medicine)（実行） |
 | Lv9 | 1,186 | [<span class="wiki-icon">💊</span>阿片](/ja/action/brew-opium)（実行） |
+| Lv10 | 1,416 | [<span class="wiki-icon">✉️</span>不幸の手紙](/ja/action/read-chain-letter)（実行条件）<br>[<span class="wiki-icon">✉️</span>不幸の手紙](/ja/item/chain-letter)（解放） |
 | Lv11 | 1,672 | [<span class="wiki-icon">✨</span>発光する薬](/ja/action/brew-glowing-medicine)（実行）<br>[<span class="wiki-icon">✨</span>発光する薬](/ja/item/glowing-medicine)（解放）<br>[<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/item/laxative-for-gorilla)（解放） |
-| Lv13 | 2,271 | [<span class="wiki-icon">🧪</span>エーテル](/ja/action/brew-ether)（実行） |
+| Lv13 | 2,271 | [<img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル](/ja/action/brew-ether)（実行） |
 | Lv14 | 2,621 | [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit)（解放）<br>[<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber)（解放）<br>[<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)（解放）<br>[<span class="wiki-icon">🧪</span>泡立つ薬](/ja/item/bubbling-medicine)（解放）<br>[<span class="wiki-icon">🧪</span>毒瓶](/ja/item/poison-vial)（解放） |
 | Lv15 | 3,009 | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/action/buy-crucible)（実行）<br>[<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack)（実行） |
 | Lv17 | 3,919 | [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops)（実行） |
 | Lv19 | 5,040 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack)（実行）<br>[<span class="wiki-icon">💊</span>阿片](/ja/item/opium)（解放）<br>[<span class="wiki-icon">💊</span>滋養強壮剤](/ja/item/tonic)（解放）<br>[<span class="wiki-icon">💊</span>げんきのかけら](/ja/item/revive-piece)（解放） |
 | Lv21 | 6,420 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/action/brew-painkiller)（実行） |
-| Lv22 | 7,227 | [<span class="wiki-icon">🧪</span>エーテル](/ja/item/ether)（解放）<br>[<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water)（解放） |
+| Lv22 | 7,227 | [<img class="wiki-icon" src="assets/icon/ff59e56b98270140.svg" alt="">エーテル](/ja/item/ether)（解放）<br>[<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water)（解放） |
 | Lv23 | 8,121 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail)（実行） |
+| Lv24 | 9,115 | [<span class="wiki-icon">📕</span>解剖学書](/ja/action/read-anatomy-book)（実行条件） |
 | Lv26 | 11,441 | [<span class="wiki-icon">☕</span>眠気覚まし](/ja/action/brew-anti-drowsiness)（実行） |
 | Lv28 | 14,308 | [<span class="wiki-icon">💊</span>滋養強壮剤](/ja/action/brew-tonic)（実行） |
 | Lv29 | 15,982 | [<span class="wiki-icon">💊</span>万能薬](/ja/item/panacea)（解放） |

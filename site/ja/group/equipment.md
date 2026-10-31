@@ -7,9 +7,9 @@
 
 | カテゴリ | レベル |
 | --- | --- |
-| [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | あり |
+| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | あり |
 | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | あり |
-| [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | なし |
+| [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | なし |
 | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | なし |
 | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | あり |
 

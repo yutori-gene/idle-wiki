@@ -1,6 +1,6 @@
 # くすんだ石
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">くすんだ石</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪨</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/recycled-material"><span class="wiki-icon">♻️</span>リサイクル素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>9 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">くすんだ石</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪨</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/recycled-material"><span class="wiki-icon">♻️</span>リサイクル素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>9 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 低級の装飾を分解して得られる石。中級の装飾の材料になる
 
@@ -11,13 +11,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎖️</span>ピンバッジ（分解）](/ja/action/disassemble-pin-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv3 | 1 | 100% | 1 | 12 |
-| [<span class="wiki-icon">🔔</span>カウベル（分解）](/ja/action/disassemble-cowbell) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv5 | 1 | 100% | 1 | 12 |
-| [<span class="wiki-icon">🐕</span>犬の首輪（分解）](/ja/action/disassemble-dog-collar) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv5 | 1 | 100% | 1 | 12 |
-| [<span class="wiki-icon">🍀</span>1葉のクローバー（分解）](/ja/action/disassemble-one-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv6 | 1 | 100% | 1 | 12 |
-| [<span class="wiki-icon">✨</span>ホタル（分解）](/ja/action/disassemble-firefly) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv6 | 1 | 100% | 1 | 12 |
-| [<span class="wiki-icon">💍</span>銀の指輪（分解）](/ja/action/disassemble-silver-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv7 | 1 | 100% | 1 | 12 |
-| [<span class="wiki-icon">🍩</span>食べられる指輪（分解）](/ja/action/disassemble-edible-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv7 | 1 | 100% | 1 | 12 |
+| [<img class="wiki-icon" src="assets/icon/a46ce7305a3c8299.svg" alt="">ピンバッジ（分解）](/ja/action/disassemble-pin-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv3 | 1 | 100% | 1 | 12 |
+| [<img class="wiki-icon" src="assets/icon/4bc0485b779ba337.svg" alt="">カウベル（分解）](/ja/action/disassemble-cowbell) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv5 | 1 | 100% | 1 | 12 |
+| [<img class="wiki-icon" src="assets/icon/6655b3e2d8c5f35f.svg" alt="">犬の首輪（分解）](/ja/action/disassemble-dog-collar) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv5 | 1 | 100% | 1 | 12 |
+| [<img class="wiki-icon" src="assets/icon/4f97095d5fe1663a.svg" alt="">1葉のクローバー（分解）](/ja/action/disassemble-one-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv6 | 1 | 100% | 1 | 12 |
+| [<img class="wiki-icon" src="assets/icon/2835e12095bc5617.svg" alt="">ホタル（分解）](/ja/action/disassemble-firefly) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv6 | 1 | 100% | 1 | 12 |
+| [<img class="wiki-icon" src="assets/icon/10fec2e0d61a355b.svg" alt="">銀の指輪（分解）](/ja/action/disassemble-silver-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv7 | 1 | 100% | 1 | 12 |
+| [<img class="wiki-icon" src="assets/icon/ca95c04a918ac9a2.svg" alt="">食べられる指輪（分解）](/ja/action/disassemble-edible-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv7 | 1 | 100% | 1 | 12 |
 | [<span class="wiki-icon">💗</span>ハートブローチ（分解）](/ja/action/disassemble-heart-brooch) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv8 | 1 | 100% | 1 | 6 |
 | [<span class="wiki-icon">🦈</span>サメ歯ネックレス（分解）](/ja/action/disassemble-shark-tooth-necklace) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv9 | 1 | 100% | 1 | 6 |
 | [<span class="wiki-icon">🪪</span>社員証（分解）](/ja/action/disassemble-employee-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv9 | 1 | 100% | 1 | 6 |

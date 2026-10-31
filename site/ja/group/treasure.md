@@ -9,14 +9,14 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛲</span>噴水のコイン](/ja/item/fountain-coin) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
-| [<span class="wiki-icon">🌰</span>金のドングリ](/ja/item/golden-acorn) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
+| [<img class="wiki-icon" src="assets/icon/1e476358e19d8676.svg" alt="">噴水のコイン](/ja/item/fountain-coin) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
+| [<img class="wiki-icon" src="assets/icon/041e1672ebae2974.svg" alt="">金のドングリ](/ja/item/golden-acorn) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🗺️</span>古い地図の断片](/ja/item/old-map-fragment) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🌳</span>世界樹の苗木](/ja/item/world-tree-sapling) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🧚</span>森の精霊の涙](/ja/item/forest-spirit-tear) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🗿</span>公園の守り神の像](/ja/item/park-guardian-statue) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🖋️</span>市長印](/ja/item/mayors-seal) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
-| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/item/beetle) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
+| [<img class="wiki-icon" src="assets/icon/4aece76562383688.svg" alt="">カブトムシ](/ja/item/beetle) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🗝️</span>下水道の鍵](/ja/item/sewer-key) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🛂</span>偽造パスポート](/ja/item/forged-passport) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🧚</span>妖精の羽根](/ja/item/fairy-wing) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |

@@ -1,6 +1,6 @@
 # 宝物庫の整理
 
-<div class="wiki-infobox" style="--accent:#776a48"><div class="wiki-infobox-title">宝物庫の整理</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💰</span></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><span class="wiki-icon">🧺</span>収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv5</td></tr><tr><th>所要時間</th><td>1分20秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>46</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#776a48"><div class="wiki-infobox-title">宝物庫の整理</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💰</span></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv5</td></tr><tr><th>所要時間</th><td>1分20秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>46</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 宝物庫の隅にまだ何かある。
 
@@ -41,7 +41,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 10,931 | 0 | 10,931 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 10,931 | 0 | 10,931 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

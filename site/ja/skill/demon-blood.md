@@ -24,7 +24,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🩸</span>血鬼術](/ja/item/blood-demon-art) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<span class="wiki-icon">😈</span>悪魔信仰](/ja/item/devil-worship) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 

@@ -1,6 +1,6 @@
 # 炉の番人
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">炉の番人</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv34</td></tr><tr><th>所要時間</th><td>2.3秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.31</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">炉の番人</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv34</td></tr><tr><th>所要時間</th><td>2.3秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.31</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 鍛冶場の火を絶やさぬために作られた。作った者は、もういない。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv34以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv34以上（経験値の入り先カテゴリのレベル）
 
 ## 取得物
 
@@ -17,7 +17,7 @@
 | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🔥</span>赤熱鉄](/ja/item/red-hot-iron) ×1 | 成功時 | 1.26% | 0.006 | 0.001 |
 | [<span class="wiki-icon">🔥</span>溶けた金属塊](/ja/item/molten-metal-ingot) ×1 | 成功時 | 0.631% | 0.003 | 0.001 |
-| [<span class="wiki-icon">🧱</span>耐熱レンガ](/ja/item/heatproof-brick) ×1 | 成功時 | 0.123% | 0.001 | 0 |
+| [<img class="wiki-icon" src="assets/icon/0e603d9eeb962681.svg" alt="">耐熱レンガ](/ja/item/heatproof-brick) ×1 | 成功時 | 0.123% | 0.001 | 0 |
 | [<span class="wiki-icon">🗡️</span>炎の剣](/ja/item/flame-sword) ×1 | 成功時 | 0.123% | 0.001 | 0 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
@@ -57,7 +57,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 0 | 0 | 0 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

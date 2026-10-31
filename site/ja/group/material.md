@@ -1,6 +1,6 @@
 # 素材
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">素材</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪵</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>231種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">素材</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/fd1bdd12170273cb.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>231種</td></tr></table></div>
 
 
 ## アイテム
@@ -9,20 +9,20 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍋</span>レモン](/ja/item/lemon) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
+| [<img class="wiki-icon" src="assets/icon/5f7df036cb7939a5.svg" alt="">レモン](/ja/item/lemon) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
 | [<span class="wiki-icon">🍚</span>砂糖](/ja/item/sugar) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
-| [<span class="wiki-icon">🍀</span>四つ葉のクローバー](/ja/item/four-leaf-clover) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
-| [<span class="wiki-icon">🍂</span>落ち葉](/ja/item/fallen-leaf) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
-| [<span class="wiki-icon">🪨</span>石ころ](/ja/item/stone) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
-| [<span class="wiki-icon">🌿</span>雑草](/ja/item/weed) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
+| [<img class="wiki-icon" src="assets/icon/8979ad3bc457f36b.svg" alt="">四つ葉のクローバー](/ja/item/four-leaf-clover) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
+| [<img class="wiki-icon" src="assets/icon/95e9eab537758bbd.svg" alt="">落ち葉](/ja/item/fallen-leaf) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
+| [<img class="wiki-icon" src="assets/icon/0c93eb333fa7605d.svg" alt="">石ころ](/ja/item/stone) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
+| [<img class="wiki-icon" src="assets/icon/a39276741e1606f8.svg" alt="">雑草](/ja/item/weed) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
 | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 3 |
-| [<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 3 |
-| [<span class="wiki-icon">🐦</span>スズメ](/ja/item/sparrow) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 3 |
-| [<span class="wiki-icon">🕊️</span>ハト](/ja/item/pigeon) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 3 |
-| [<span class="wiki-icon">🐞</span>テントウムシ](/ja/item/ladybug) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 9 |
-| [<span class="wiki-icon">💐</span>花束](/ja/item/bouquet) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 9 |
-| [<span class="wiki-icon">🪶</span>鳥の羽根](/ja/item/bird-feather) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 9 |
-| [<span class="wiki-icon">☀️</span>日時計](/ja/item/sundial) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 27 |
+| [<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 3 |
+| [<img class="wiki-icon" src="assets/icon/e4431f2a3a0df5d2.svg" alt="">スズメ](/ja/item/sparrow) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 3 |
+| [<img class="wiki-icon" src="assets/icon/a6c87b93b31c1653.svg" alt="">ハト](/ja/item/pigeon) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 3 |
+| [<img class="wiki-icon" src="assets/icon/e0016c3d2e01e3f8.svg" alt="">テントウムシ](/ja/item/ladybug) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 9 |
+| [<img class="wiki-icon" src="assets/icon/632c9eeee3615b8b.svg" alt="">花束](/ja/item/bouquet) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 9 |
+| [<img class="wiki-icon" src="assets/icon/7827b4614a197e69.svg" alt="">鳥の羽根](/ja/item/bird-feather) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 9 |
+| [<img class="wiki-icon" src="assets/icon/74c73c9427c8c2e6.svg" alt="">日時計](/ja/item/sundial) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 27 |
 | [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 2 |
 | [<span class="wiki-icon">🟫</span>革](/ja/item/leather) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 2 |
 | [<span class="wiki-icon">🌿</span>苔](/ja/item/moss) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 2 |
@@ -147,7 +147,7 @@
 | [<span class="wiki-icon">🔮</span>火山水晶](/ja/item/volcanic-crystal) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 63 |
 | [<span class="wiki-icon">🐉</span>溶岩の鱗](/ja/item/lava-scale) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 63 |
 | [<span class="wiki-icon">🔥</span>燃える宝玉](/ja/item/burning-orb) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 63 |
-| [<span class="wiki-icon">🧱</span>耐熱レンガ](/ja/item/heatproof-brick) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 189 |
+| [<img class="wiki-icon" src="assets/icon/0e603d9eeb962681.svg" alt="">耐熱レンガ](/ja/item/heatproof-brick) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 189 |
 | [<span class="wiki-icon">🦷</span>火竜の牙](/ja/item/fire-dragon-fang) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 189 |
 | [<span class="wiki-icon">🌋</span>マグマコア](/ja/item/magma-core) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 189 |
 | [<span class="wiki-icon">❤️‍🔥</span>溶岩の心臓](/ja/item/lava-heart) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 189 |
@@ -263,7 +263,7 @@
 	"icon": {
 		"emoji": "🪵",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/fd1bdd12170273cb.svg）"
 	},
 	"color": ""
 }

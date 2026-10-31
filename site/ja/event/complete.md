@@ -1,6 +1,6 @@
 # クリア
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">クリア</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎉</span></div><table><tr><th>タイミング</th><td>コンプリート</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">クリア</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/795952cd4767e92b.svg" alt=""></div><table><tr><th>タイミング</th><td>コンプリート</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > すべてのダンジョンを制覇した！おめでとう
 
@@ -36,7 +36,7 @@
 		"icon": {
 			"emoji": "🎉",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/795952cd4767e92b.svg）"
 		},
 		"color": ""
 	},

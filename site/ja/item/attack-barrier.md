@@ -1,6 +1,6 @@
 # 攻性防壁
 
-<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">攻性防壁</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🛡️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ability"><span class="wiki-icon">✨</span>能力</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/counter-mechanism"><span class="wiki-icon">🛡️</span>反撃機構</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">攻性防壁</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🛡️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ability"><span class="wiki-icon">✨</span>能力</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/counter-mechanism"><span class="wiki-icon">🛡️</span>反撃機構</a></td></tr><tr><th>入手経路</th><td>なし</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 侵入者を逆に攻撃する防御。
 
@@ -9,15 +9,7 @@
 
 **スキル**: [<span class="wiki-icon">🛡️</span>反撃機構](/ja/skill/counter-mechanism)（装備中、戦闘の各ターンに 4% で発動）
 
-## 入手方法
-
-### アクション
-
-| アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📕</span>禁書](/ja/action/read-forbidden-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv42 | 1 | 100% | 0.6 | 0.038 |
-
-<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 能力</div><div class="wiki-navbox-body"><a href="#/ja/item/sleep-anywhere"><span class="wiki-icon">😴</span>どこでも眠れる</a> ・ <a href="#/ja/item/breathing-power"><span class="wiki-icon">🌬️</span>呼吸の力</a> ・ <a href="#/ja/item/psychokinesis"><span class="wiki-icon">🔮</span>サイコキネシス</a> ・ <a href="#/ja/item/leadership"><span class="wiki-icon">🎖️</span>リーダーシップ</a> ・ <a href="#/ja/item/antibody"><span class="wiki-icon">🛡️</span>抗体</a> ・ <a href="#/ja/item/triforce"><span class="wiki-icon">🔺</span>トライフォース</a> ・ <a href="#/ja/item/attack-barrier"><span class="wiki-icon">🛡️</span>攻性防壁</a> ・ <a href="#/ja/item/newtype"><span class="wiki-icon">👁️</span>ニュータイプ</a> ・ <a href="#/ja/item/blood-demon-art"><span class="wiki-icon">🩸</span>血鬼術</a> ・ <a href="#/ja/item/force"><span class="wiki-icon">✨</span>フォース</a></div></div>
+<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 能力</div><div class="wiki-navbox-body"><a href="#/ja/item/elitism"><span class="wiki-icon">🎩</span>エリート志向</a> ・ <a href="#/ja/item/youth-memory"><span class="wiki-icon">💞</span>青春の思い出</a> ・ <a href="#/ja/item/dark-past"><span class="wiki-icon">🫣</span>黒歴史</a> ・ <a href="#/ja/item/clean-vote"><span class="wiki-icon">🗳️</span>清き一票</a> ・ <a href="#/ja/item/antibody"><span class="wiki-icon">🛡️</span>抗体</a> ・ <a href="#/ja/item/misfortune"><span class="wiki-icon">🌧️</span>不幸</a> ・ <a href="#/ja/item/triforce"><span class="wiki-icon">🔺</span>トライフォース</a> ・ <a href="#/ja/item/attack-barrier"><span class="wiki-icon">🛡️</span>攻性防壁</a> ・ <a href="#/ja/item/devil-worship"><span class="wiki-icon">😈</span>悪魔信仰</a> ・ <a href="#/ja/item/newtype"><span class="wiki-icon">👁️</span>ニュータイプ</a> ・ <a href="#/ja/item/force"><span class="wiki-icon">✨</span>フォース</a> ・ <a href="#/ja/item/rye"><span class="wiki-icon">🌾</span>ライ麦</a></div></div>
 
 ## 開発者向け情報
 

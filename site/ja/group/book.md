@@ -1,6 +1,6 @@
 # 本
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">本</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📕</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>26種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">本</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📕</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>23種</td></tr></table></div>
 
 
 ## アイテム
@@ -9,31 +9,28 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎨</span>美術書](/ja/item/art-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | — |
-| [<span class="wiki-icon">📙</span>童話](/ja/item/fairy-tale) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 2 |
-| [<span class="wiki-icon">📖</span>絵本](/ja/item/picture-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 2 |
+| [<img class="wiki-icon" src="assets/icon/021123683021700b.svg" alt="">美術書](/ja/item/art-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | — |
+| [<span class="wiki-icon">📙</span>グリム童話](/ja/item/fairy-tale) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 2 |
+| [<img class="wiki-icon" src="assets/icon/3e442c2141244790.svg" alt="">飛び出す絵本](/ja/item/picture-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 2 |
 | [<span class="wiki-icon">🎓</span>卒業証書](/ja/item/diploma) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 2 |
-| [<span class="wiki-icon">🪪</span>免許証](/ja/item/license) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 2 |
 | [<span class="wiki-icon">📘</span>自己啓発本](/ja/item/self-help-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 6 |
-| [<span class="wiki-icon">📗</span>小説](/ja/item/novel) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 6 |
-| [<span class="wiki-icon">📚</span>漫画](/ja/item/manga) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 6 |
+| [<span class="wiki-icon">📗</span>探偵小説](/ja/item/novel) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 6 |
+| [<span class="wiki-icon">📚</span>不健全図書](/ja/item/manga) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 6 |
 | [<span class="wiki-icon">📰</span>新聞](/ja/item/newspaper) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 6 |
+| [<span class="wiki-icon">🗞️</span>ゴシップ誌](/ja/item/gossip-magazine) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 6 |
 | [<span class="wiki-icon">💌</span>ラブレター](/ja/item/love-letter) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 18 |
-| [<span class="wiki-icon">📚</span>百科事典](/ja/item/encyclopedia) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | — |
+| [<span class="wiki-icon">🪪</span>免許証](/ja/item/license) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 3 |
 | [<span class="wiki-icon">🗳️</span>投票用紙](/ja/item/ballot) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 9 |
 | [<span class="wiki-icon">📄</span>住民票](/ja/item/residence-certificate) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 9 |
-| [<span class="wiki-icon">📕</span>はじめての泥棒](/ja/item/beginner-thief-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 27 |
-| [<span class="wiki-icon">📗</span>レシピ本](/ja/item/recipe-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 27 |
+| [<span class="wiki-icon">📗</span>今夜のおかず🎶レシピ集](/ja/item/recipe-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 27 |
 | [<span class="wiki-icon">✉️</span>不幸の手紙](/ja/item/chain-letter) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 81 |
-| [<span class="wiki-icon">🗺️</span>地図](/ja/item/map) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 36 |
+| [<span class="wiki-icon">🗺️</span>古びた地図](/ja/item/map) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 36 |
 | [<span class="wiki-icon">📜</span>歴史書](/ja/item/history-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 324 |
 | [<span class="wiki-icon">📖</span>聖書](/ja/item/bible) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 1,215 |
-| [<span class="wiki-icon">📐</span>数学書](/ja/item/math-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 486 |
-| [<span class="wiki-icon">📕</span>医学書「解体新書」](/ja/item/anatomy-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 1,701 |
+| [<span class="wiki-icon">📕</span>解剖学書](/ja/item/anatomy-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 1,701 |
 | [<span class="wiki-icon">📕</span>禁書](/ja/item/forbidden-book) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 5,832 |
 | [<span class="wiki-icon">📓</span>デスノート](/ja/item/death-note) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 19,683 |
 | [<span class="wiki-icon">📜</span>死海文書](/ja/item/dead-sea-scrolls) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 59,049 |
-| [<span class="wiki-icon">📕</span>ネクロノミコン](/ja/item/necronomicon) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 59,049 |
 | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/item/catcher-in-the-rye) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不可 | 810 |
 
 ## 開発者向け情報

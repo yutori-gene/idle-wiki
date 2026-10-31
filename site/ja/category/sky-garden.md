@@ -1,6 +1,6 @@
 # 天空のお庭
 
-<div class="wiki-infobox" style="--accent:#9c95b5"><div class="wiki-infobox-title">天空のお庭</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">☁️</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9c95b5"><div class="wiki-infobox-title">天空のお庭</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/2016e4d273ad72ae.svg" alt=""></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><img class="wiki-icon" src="assets/icon/d951ade1a5f324ab.svg" alt="">ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **10番目のダンジョン**（難易度 ★★★★★・神聖・幻想）。収集は天上植物、討伐は天使系ボス、探索は神殿・雲上遺跡が中心。
 
@@ -13,7 +13,7 @@
 
 次をすべて満たすと解放される。
 
-- [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) Lv20以上
+- [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) Lv20以上
 - [<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) ×1
 
 ## アクション
@@ -22,23 +22,23 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">✨</span>星屑集め](/ja/action/stardust-gathering) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 1分40秒 | 50% | 1,044 |  | [<span class="wiki-icon">⭐</span>星の砂](/ja/item/star-sand)×7 (91%)<br>[<span class="wiki-icon">😇</span>天使の落とし物](/ja/item/angels-lost-item)×5 (56%)<br>[<span class="wiki-icon">✨</span>星屑](/ja/item/stardust)×5 (56%)<br>[<span class="wiki-icon">🌙</span>月の雫](/ja/item/moon-drop)×3 (48%)<br>[<span class="wiki-icon">🌌</span>銀河の種](/ja/item/galaxy-seed)×3 (48%) |
-| [<span class="wiki-icon">🌫️</span>霞の林](/ja/action/haze-grove) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 1分40秒 | 50% | 1,044 |  | [<span class="wiki-icon">✨</span>光の砂](/ja/item/light-sand)×7 (91%)<br>[<span class="wiki-icon">🌈</span>虹の雫](/ja/item/rainbow-drop)×5 (56%)<br>[<span class="wiki-icon">🌫️</span>霞](/ja/item/haze)×3 (48%)<br>[<span class="wiki-icon">✨</span>光苔](/ja/item/glow-moss)×3 (48%)<br>[<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) (21.6%)<br>[<span class="wiki-icon">💎</span>天空の宝玉](/ja/item/sky-orb)×2 (25.9%)<br>[<span class="wiki-icon">🍃</span>神樹の葉](/ja/item/divine-tree-leaf) (8.64%) |
-| [<span class="wiki-icon">☁️</span>雲の畑の手入れ](/ja/action/tend-cloud-field) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv5 | 1分40秒 | 50% | 1,044 |  | [<span class="wiki-icon">☁️</span>雲のかけら](/ja/item/cloud-piece)×7 (91%)<br>[<span class="wiki-icon">🌸</span>天空の花](/ja/item/sky-flower)×5 (56%)<br>[<span class="wiki-icon">🌈</span>虹色の露](/ja/item/rainbow-dew)×5 (56%)<br>[<span class="wiki-icon">💧</span>朝露](/ja/item/morning-dew)×5 (56%)<br>[<span class="wiki-icon">🍃</span>風の粒](/ja/item/wind-grain)×5 (56%) |
-| [<span class="wiki-icon">☁️</span>雲上の遺跡](/ja/action/ruins-above-clouds) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 5時間 | 100% | 1,029 |  | [<span class="wiki-icon">🌈</span>虹色の宝箱](/ja/item/rainbow-chest)×2 (41.8%)<br>[<span class="wiki-icon">📦</span>パンドラの箱](/ja/item/pandoras-box)×2 (41.8%)<br>[<span class="wiki-icon">📦</span>シュレーディンガーの箱](/ja/item/schrodingers-box) (12.4%)<br>[<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone) (4.98%) |
-| [<span class="wiki-icon">📚</span>天空の図書館](/ja/action/sky-library) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv12 | 5時間 | 100% | 1,029 |  | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/item/catcher-in-the-rye)<br>[<span class="wiki-icon">😇</span>天使の涙](/ja/item/angel-tear) (31.1%) |
-| [<span class="wiki-icon">🏛️</span>神殿の最奥](/ja/action/temple-innermost) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv30 | 5時間 | 100% | 1,029 |  | [<span class="wiki-icon">🔌</span>エントリープラグ](/ja/item/entry-plug)<br>[<span class="wiki-icon">🦄</span>ユニコーンの角](/ja/item/unicorn-horn)<br>[<span class="wiki-icon">👑</span>女神の冠](/ja/item/goddess-crown)<br>[<span class="wiki-icon">✨</span>星座の欠片](/ja/item/constellation-fragment)×2 |
-| [<span class="wiki-icon">🌳</span>世界樹の根元](/ja/action/world-tree-root) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv40 | 5時間 | 100% | 1,029 |  | [<span class="wiki-icon">🍇</span>星の果実](/ja/item/star-fruit)×3 (63.6%)<br>[<span class="wiki-icon">🔮</span>進化の石](/ja/item/evolution-stone)×2 (41.8%)<br>[<span class="wiki-icon">🌳</span>世界樹の実](/ja/item/world-tree-fruit) (4.98%) |
-| [<span class="wiki-icon">🙏</span>司祭](/ja/action/priest) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv48 | 2.9秒 | 50% | 0 | [<span class="wiki-icon">📿</span>十字架のロザリオ](/ja/item/cross-rosary) (0.483%) | [<span class="wiki-icon">😇</span>天使の落とし物](/ja/item/angels-lost-item) (0.928%)<br>[<span class="wiki-icon">💎</span>天空の宝玉](/ja/item/sky-orb) (0.146%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (1.45%) |
-| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 2.2秒 | 50% | 0 | [<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn) (0.367%) | [<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn) (2.05%)<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (0.845%)<br>[<span class="wiki-icon">✨</span>光苔](/ja/item/glow-moss) (0.352%) |
-| [<span class="wiki-icon">👼</span>ヴァルキリー](/ja/action/valkyrie) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 1.5秒 | 50% | 0 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (1.68%)<br>[<span class="wiki-icon">⭐</span>星の欠片](/ja/item/star-fragment) (0.288%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.056%) |
-| [<span class="wiki-icon">🍝</span>スパゲッティモンスター](/ja/action/spaghetti-monster) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2.2秒 | 50% | 0 |  | [<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) (0.845%)<br>[<span class="wiki-icon">🟢</span>ケミカルライト](/ja/item/glow-stick) (0.352%)<br>[<span class="wiki-icon">🦋</span>光る蝶](/ja/item/glowing-butterfly) (0.352%) |
-| [<span class="wiki-icon">🚗</span>ねこリムジン](/ja/action/cat-limousine) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2.5秒 | 50% | 0 |  | [<span class="wiki-icon">🍄</span>ワライタケ](/ja/item/laughing-mushroom) (0.96%)<br>[<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit) (0.126%)<br>[<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) (0.004%) |
-| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2秒 | 50% | 0 | [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) (0.333%) | [<span class="wiki-icon">🟢</span>ケミカルライト](/ja/item/glow-stick) (0.768%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (1.67%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.075%) |
-| [<span class="wiki-icon">🦄</span>ペガサス](/ja/action/pegasus) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 1.2秒 | 50% | 0 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (1.34%)<br>[<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) (0.192%)<br>[<span class="wiki-icon">🗝️</span>天空の鍵](/ja/item/sky-key) (0.045%)<br>[<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) (0.002%) |
-| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 1.9秒 | 50% | 0 | [<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water) (0.317%)<br>[<span class="wiki-icon">🌸</span>天空の花](/ja/item/sky-flower)×3 (0.317%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (2.13%)<br>[<span class="wiki-icon">🕊️</span>天使の羽根](/ja/item/angel-feather) (0.365%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.071%) |
-| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 3.2秒 | 50% | 0 | [<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water) (0.533%) | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone) (0.027%)<br>[<span class="wiki-icon">😇</span>天使の涙](/ja/item/angel-tear) (0.12%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (2.67%) |
-| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2秒 | 50% | 0 | [<span class="wiki-icon">🗝️</span>天空の鍵](/ja/item/sky-key) (0.333%) | [<span class="wiki-icon">🪨</span>浮遊石](/ja/item/floating-stone) (0.768%)<br>[<span class="wiki-icon">🦋</span>光る蝶](/ja/item/glowing-butterfly) (0.768%)<br>[<span class="wiki-icon">😇</span>天空神の羽衣](/ja/item/sky-god-robe) (0.024%)<br>[<span class="wiki-icon">📜</span>金色の石板](/ja/item/golden-tablet) (0.333%) |
+| [<span class="wiki-icon">✨</span>星屑集め](/ja/action/stardust-gathering) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 1分40秒 | 50% | 1,044 |  | [<span class="wiki-icon">⭐</span>星の砂](/ja/item/star-sand)×7 (91%)<br>[<span class="wiki-icon">😇</span>天使の落とし物](/ja/item/angels-lost-item)×5 (56%)<br>[<span class="wiki-icon">✨</span>星屑](/ja/item/stardust)×5 (56%)<br>[<span class="wiki-icon">🌙</span>月の雫](/ja/item/moon-drop)×3 (48%)<br>[<span class="wiki-icon">🌌</span>銀河の種](/ja/item/galaxy-seed)×3 (48%) |
+| [<span class="wiki-icon">🌫️</span>霞の林](/ja/action/haze-grove) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 1分40秒 | 50% | 1,044 |  | [<span class="wiki-icon">✨</span>光の砂](/ja/item/light-sand)×7 (91%)<br>[<span class="wiki-icon">🌈</span>虹の雫](/ja/item/rainbow-drop)×5 (56%)<br>[<span class="wiki-icon">🌫️</span>霞](/ja/item/haze)×3 (48%)<br>[<span class="wiki-icon">✨</span>光苔](/ja/item/glow-moss)×3 (48%)<br>[<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) (21.6%)<br>[<span class="wiki-icon">💎</span>天空の宝玉](/ja/item/sky-orb)×2 (25.9%)<br>[<span class="wiki-icon">🍃</span>神樹の葉](/ja/item/divine-tree-leaf) (8.64%) |
+| [<span class="wiki-icon">☁️</span>雲の畑の手入れ](/ja/action/tend-cloud-field) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv5 | 1分40秒 | 50% | 1,044 |  | [<span class="wiki-icon">☁️</span>雲のかけら](/ja/item/cloud-piece)×7 (91%)<br>[<span class="wiki-icon">🌸</span>天空の花](/ja/item/sky-flower)×5 (56%)<br>[<span class="wiki-icon">🌈</span>虹色の露](/ja/item/rainbow-dew)×5 (56%)<br>[<span class="wiki-icon">💧</span>朝露](/ja/item/morning-dew)×5 (56%)<br>[<span class="wiki-icon">🍃</span>風の粒](/ja/item/wind-grain)×5 (56%) |
+| [<span class="wiki-icon">☁️</span>雲上の遺跡](/ja/action/ruins-above-clouds) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv8 | 5時間 | 100% | 1,029 |  | [<span class="wiki-icon">🌈</span>虹色の宝箱](/ja/item/rainbow-chest)×2 (41.8%)<br>[<span class="wiki-icon">📦</span>パンドラの箱](/ja/item/pandoras-box)×2 (41.8%)<br>[<span class="wiki-icon">📦</span>シュレーディンガーの箱](/ja/item/schrodingers-box) (12.4%)<br>[<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone) (4.98%) |
+| [<span class="wiki-icon">📚</span>天空の図書館](/ja/action/sky-library) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv12 | 5時間 | 100% | 1,029 |  | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/item/catcher-in-the-rye)<br>[<span class="wiki-icon">😇</span>天使の涙](/ja/item/angel-tear) (31.1%) |
+| [<span class="wiki-icon">🏛️</span>神殿の最奥](/ja/action/temple-innermost) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv30 | 5時間 | 100% | 1,029 |  | [<span class="wiki-icon">🔌</span>エントリープラグ](/ja/item/entry-plug)<br>[<span class="wiki-icon">🦄</span>ユニコーンの角](/ja/item/unicorn-horn)<br>[<span class="wiki-icon">👑</span>女神の冠](/ja/item/goddess-crown)<br>[<span class="wiki-icon">✨</span>星座の欠片](/ja/item/constellation-fragment)×2 |
+| [<span class="wiki-icon">🌳</span>世界樹の根元](/ja/action/world-tree-root) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv40 | 5時間 | 100% | 1,029 |  | [<span class="wiki-icon">🍇</span>星の果実](/ja/item/star-fruit)×3 (63.6%)<br>[<span class="wiki-icon">🔮</span>進化の石](/ja/item/evolution-stone)×2 (41.8%)<br>[<span class="wiki-icon">🌳</span>世界樹の実](/ja/item/world-tree-fruit) (4.98%) |
+| [<img class="wiki-icon" src="assets/icon/300032c34ac7363c.svg" alt="">司祭](/ja/action/priest) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv48 | 2.9秒 | 50% | 0 | [<span class="wiki-icon">📿</span>十字架のロザリオ](/ja/item/cross-rosary) (0.483%) | [<span class="wiki-icon">😇</span>天使の落とし物](/ja/item/angels-lost-item) (0.928%)<br>[<span class="wiki-icon">💎</span>天空の宝玉](/ja/item/sky-orb) (0.146%)<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (1.45%) |
+| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 2.2秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn) (0.367%) | [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn) (2.05%)<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (0.845%)<br>[<span class="wiki-icon">✨</span>光苔](/ja/item/glow-moss) (0.352%) |
+| [<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 1.5秒 | 50% | 0 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (1.68%)<br>[<span class="wiki-icon">⭐</span>星の欠片](/ja/item/star-fragment) (0.288%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.056%) |
+| [<span class="wiki-icon">🍝</span>スパゲッティモンスター](/ja/action/spaghetti-monster) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2.2秒 | 50% | 0 |  | [<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) (0.845%)<br>[<span class="wiki-icon">🟢</span>ケミカルライト](/ja/item/glow-stick) (0.352%)<br>[<span class="wiki-icon">🦋</span>光る蝶](/ja/item/glowing-butterfly) (0.352%) |
+| [<span class="wiki-icon">🚗</span>ねこリムジン](/ja/action/cat-limousine) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2.5秒 | 50% | 0 |  | [<span class="wiki-icon">🍄</span>ワライタケ](/ja/item/laughing-mushroom) (0.96%)<br>[<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit) (0.126%)<br>[<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) (0.004%) |
+| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2秒 | 50% | 0 | [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) (0.333%) | [<span class="wiki-icon">🟢</span>ケミカルライト](/ja/item/glow-stick) (0.768%)<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (1.67%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.075%) |
+| [<span class="wiki-icon">🦄</span>ペガサス](/ja/action/pegasus) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 1.2秒 | 50% | 0 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (1.34%)<br>[<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) (0.192%)<br>[<span class="wiki-icon">🗝️</span>天空の鍵](/ja/item/sky-key) (0.045%)<br>[<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) (0.002%) |
+| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 1.9秒 | 50% | 0 | [<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water) (0.317%)<br>[<span class="wiki-icon">🌸</span>天空の花](/ja/item/sky-flower)×3 (0.317%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (2.13%)<br>[<span class="wiki-icon">🕊️</span>天使の羽根](/ja/item/angel-feather) (0.365%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.071%) |
+| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 3.2秒 | 50% | 0 | [<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water) (0.533%) | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone) (0.027%)<br>[<span class="wiki-icon">😇</span>天使の涙](/ja/item/angel-tear) (0.12%)<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (2.67%) |
+| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2秒 | 50% | 0 | [<span class="wiki-icon">🗝️</span>天空の鍵](/ja/item/sky-key) (0.333%) | [<span class="wiki-icon">🪨</span>浮遊石](/ja/item/floating-stone) (0.768%)<br>[<span class="wiki-icon">🦋</span>光る蝶](/ja/item/glowing-butterfly) (0.768%)<br>[<span class="wiki-icon">😇</span>天空神の羽衣](/ja/item/sky-god-robe) (0.024%)<br>[<span class="wiki-icon">📜</span>金色の石板](/ja/item/golden-tablet) (0.333%) |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -46,26 +46,22 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-| アイテム | 装備 | 経験値 |
-| --- | --- | --- |
-| [<span class="wiki-icon">📖</span>読解力](/ja/item/reading-comprehension) | 装備不要 | +1 |
-
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -82,8 +78,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -112,8 +109,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -122,7 +119,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
@@ -154,7 +151,7 @@
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#9c95b5"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
+<div class="wiki-navbox" style="--accent:#9c95b5"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄</a> ・ <a href="#/ja/category/sky-garden"><img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭</a></div></div>
 
 ## 開発者向け情報
 
@@ -578,7 +575,7 @@ Step 3-A2 の「供給待ちは Step 3 を一周してからまとめて割り�
 		"icon": {
 			"emoji": "☁️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/2016e4d273ad72ae.svg）"
 		},
 		"color": "#9c95b5"
 	},

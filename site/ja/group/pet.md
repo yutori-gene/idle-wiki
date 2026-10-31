@@ -9,11 +9,11 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不要 | — |

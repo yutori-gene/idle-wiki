@@ -35,7 +35,7 @@
 | [<span class="wiki-icon">👑</span>城の王](/ja/event/castle-king) | 条件達成（タスク） |
 | [<span class="wiki-icon">🚪</span>地獄の扉](/ja/event/gate-of-hell) | 条件達成（タスク） |
 | [<span class="wiki-icon">🔥</span>業火の回廊](/ja/event/hellfire-corridor) | 条件達成（タスク） |
-| [<span class="wiki-icon">👹</span>魔王](/ja/event/demon-lord) | 条件達成（タスク） |
+| [<img class="wiki-icon" src="assets/icon/e662065d77e683cb.svg" alt="">魔王](/ja/event/demon-lord) | 条件達成（タスク） |
 | [<span class="wiki-icon">🪜</span>天への梯子](/ja/event/ladder-to-heaven) | 条件達成（タスク） |
 | [<span class="wiki-icon">☁️</span>雲上の庭園](/ja/event/garden-above-clouds) | 条件達成（タスク） |
 | [<span class="wiki-icon">⚔️</span>最終決戦](/ja/event/final-battle) | 条件達成（タスク） |

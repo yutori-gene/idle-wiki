@@ -26,7 +26,7 @@
 | [<span class="wiki-icon">❄️</span>スノードーム](/ja/action/craft-snow-globe) | [<span class="wiki-icon">📚</span>棚](/ja/group/shelf) | 単発 | Lv25 | 5時間 | 100% | — | [<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle)×10<br>[<span class="wiki-icon">❄️</span>霜のかけら](/ja/item/frost-piece)×8<br>[<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal) | [<span class="wiki-icon">❄️</span>スノードーム](/ja/item/snow-globe) |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯を織る](/ja/action/weave-flying-carpet) | [<span class="wiki-icon">🟫</span>床](/ja/group/floor) | 単発 | Lv33 | 7時間 | 100% | — | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×8<br>[<span class="wiki-icon">🧔</span>ドワーフの髭](/ja/item/dwarf-beard)×10<br>[<span class="wiki-icon">⚪</span>ミスリル銀](/ja/item/mithril-silver)×4 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) |
 | [<span class="wiki-icon">🔥</span>熱い想いを受け継ぐ](/ja/action/inherit-burning-passion) | [<span class="wiki-icon">🖼️</span>壁](/ja/group/wall) | 単発 | Lv35 | 7時間 | 100% | — | [<span class="wiki-icon">❤️‍🔥</span>溶岩の心臓](/ja/item/lava-heart)×2<br>[<span class="wiki-icon">🌋</span>マグマコア](/ja/item/magma-core)×3<br>[<span class="wiki-icon">🌺</span>炎の花](/ja/item/flame-flower)×5 | [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) |
-| [<span class="wiki-icon">🔮</span>万華鏡](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">📚</span>棚](/ja/group/shelf) | 単発 | Lv35 | 7時間 | 100% | — | [<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">❤️</span>ルビー](/ja/item/ruby)×2<br>[<span class="wiki-icon">💚</span>エメラルド](/ja/item/emerald)×4 | [<span class="wiki-icon">🔮</span>万華鏡](/ja/item/kaleidoscope) |
+| [<span class="wiki-icon">🔮</span>万華鏡](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">📚</span>棚](/ja/group/shelf) | 単発 | Lv35 | 7時間 | 100% | — | [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass)×3<br>[<span class="wiki-icon">❤️</span>ルビー](/ja/item/ruby)×2<br>[<span class="wiki-icon">💚</span>エメラルド](/ja/item/emerald)×4 | [<span class="wiki-icon">🔮</span>万華鏡](/ja/item/kaleidoscope) |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/action/craft-dancing-statue) | [<span class="wiki-icon">🟫</span>床](/ja/group/floor) | 単発 | Lv37 | 7時間 | 100% | — | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×4<br>[<span class="wiki-icon">🔥</span>溶けた金属塊](/ja/item/molten-metal-ingot)×4 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) |
 | [<span class="wiki-icon">📜</span>遺言書を書く](/ja/action/write-will-document) | [<span class="wiki-icon">🖼️</span>壁](/ja/group/wall) | 単発 | Lv41 | 8時間 | 100% | — | [<span class="wiki-icon">🖋️</span>王家の封蝋](/ja/item/royal-wax-seal)×3<br>[<span class="wiki-icon">🛡️</span>古い紋章](/ja/item/old-crest)×5 | [<span class="wiki-icon">📜</span>遺言書](/ja/item/will-document) |
 | [<span class="wiki-icon">📼</span>無限ループするビデオテープを複製する](/ja/action/copy-infinite-loop-videotape) | [<span class="wiki-icon">📚</span>棚](/ja/group/shelf) | 単発 | Lv42 | 8時間 | 100% | — | [<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone)×3<br>[<span class="wiki-icon">🧵</span>タペストリーの切れ端](/ja/item/tapestry-scrap)×8<br>[<span class="wiki-icon">🩸</span>血液](/ja/item/blood)×4 | [<span class="wiki-icon">📼</span>無限ループするビデオテープ](/ja/item/infinite-loop-videotape) |
@@ -61,22 +61,22 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -93,8 +93,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -123,8 +124,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -133,7 +134,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |

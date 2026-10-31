@@ -96,6 +96,10 @@ flowchart TD
   click i_sea_god_trident "#/ja/item/sea-god-trident"
   c_sea -.-> i_sea_god_trident
   i_sea_god_trident --> c_northland
+  i_hidden_path_to_northland(["🧭 隠された北国への道"])
+  click i_hidden_path_to_northland "#/ja/item/hidden-path-to-northland"
+  c_study -.-> i_hidden_path_to_northland
+  i_hidden_path_to_northland --> c_northland
   c_northland -->|Lv20| c_factory
   i_polar_night_crystal(["🌌 極夜の結晶"])
   click i_polar_night_crystal "#/ja/item/polar-night-crystal"
@@ -141,18 +145,18 @@ flowchart TD
 
 | カテゴリ | 解放条件 | 条件アイテムの入手先 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | 最初から |  |
-| [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv20以上<br>[<span class="wiki-icon">⚽</span>伝説のボール](/ja/item/legendary-ball) ×1 | [<span class="wiki-icon">⚽</span>伝説のボール](/ja/item/legendary-ball) ← [<span class="wiki-icon">🌇</span>夕暮れの散歩道](/ja/action/twilight-promenade) |
+| [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 最初から |  |
+| [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv20以上<br>[<img class="wiki-icon" src="assets/icon/19da4c679f8870a7.svg" alt="">伝説のボール](/ja/item/legendary-ball) ×1 | [<img class="wiki-icon" src="assets/icon/19da4c679f8870a7.svg" alt="">伝説のボール](/ja/item/legendary-ball) ← [<img class="wiki-icon" src="assets/icon/849075a43bb2d535.svg" alt="">夕暮れの散歩道](/ja/action/twilight-promenade) |
 | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv20以上<br>[<span class="wiki-icon">🪨</span>森の精霊石](/ja/item/forest-spirit-stone) ×1 | [<span class="wiki-icon">🪨</span>森の精霊石](/ja/item/forest-spirit-stone) ← [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) |
 | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv20以上<br>[<span class="wiki-icon">🗝️</span>都市伝説の鍵](/ja/item/urban-legend-key) ×1 | [<span class="wiki-icon">🗝️</span>都市伝説の鍵](/ja/item/urban-legend-key) ← [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) |
-| [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) Lv20以上<br>[<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) ×1 | [<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) ← [<span class="wiki-icon">🚢</span>沈没船探査](/ja/action/shipwreck-survey) |
+| [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) Lv20以上<br>[<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) ×1<br>[<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) ×1 | [<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) ← [<img class="wiki-icon" src="assets/icon/eb3d79c11d7eaf0a.svg" alt="">沈没船探査](/ja/action/shipwreck-survey)<br>[<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) ← [<span class="wiki-icon">🗺️</span>古びた地図](/ja/action/read-map) |
 | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) Lv20以上<br>[<span class="wiki-icon">🌌</span>極夜の結晶](/ja/item/polar-night-crystal) ×1 | [<span class="wiki-icon">🌌</span>極夜の結晶](/ja/item/polar-night-crystal) ← [<span class="wiki-icon">🧊</span>凍った湖畔](/ja/action/frozen-lakeside) |
 | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) Lv20以上<br>[<span class="wiki-icon">🔄</span>永久機関](/ja/item/perpetual-motion-machine) ×1 | [<span class="wiki-icon">🔄</span>永久機関](/ja/item/perpetual-motion-machine) ← [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) |
 | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) Lv20以上<br>[<span class="wiki-icon">🐦‍🔥</span>フェニックスの羽](/ja/item/phoenix-feather) ×1 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの羽](/ja/item/phoenix-feather) ← [<span class="wiki-icon">🌋</span>火口の底](/ja/action/crater-floor) |
-| [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) Lv20以上<br>[<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ×1 | [<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ← [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) |
-| [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) Lv20以上<br>[<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) ×1 | [<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) ← [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering) |
-| [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv4以上 |  |
-| [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv8以上 |  |
+| [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) Lv20以上<br>[<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ×1 | [<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ← [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) |
+| [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) Lv20以上<br>[<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) ×1 | [<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) ← [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering) |
+| [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv4以上 |  |
+| [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv8以上 |  |
 | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv3以上 |  |
 | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv5以上 |  |
 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv7以上 |  |
@@ -160,12 +164,12 @@ flowchart TD
 | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv3以上 |  |
 | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) Lv4以上 |  |
 | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) Lv6以上 |  |
-| [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv6以上 |  |
+| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv6以上 |  |
 | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv11以上 |  |
-| [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv5以上 |  |
+| [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv5以上 |  |
 | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv7以上 |  |
 | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv9以上 |  |
 
 ## ゲームクリア
 
-すべての numeric カテゴリ（レベルのあるカテゴリ）が Lv50 に達すると [<span class="wiki-icon">🎉</span>クリア](/ja/event/complete) が発生する。
+すべての numeric カテゴリ（レベルのあるカテゴリ）が Lv50 に達すると [<img class="wiki-icon" src="assets/icon/795952cd4767e92b.svg" alt="">クリア](/ja/event/complete) が発生する。

@@ -1,6 +1,6 @@
 # 収集
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">収集</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧺</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>32本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">収集</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/1526f5fadd3c55ca.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>32本</td></tr></table></div>
 
 
 ## アクション
@@ -9,11 +9,11 @@
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍂</span>落ち葉拾い](/ja/action/gather-fallen-leaves) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv1 | 連続 |
-| [<span class="wiki-icon">🧹</span>清掃活動](/ja/action/cleanup-activity) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv3 | 連続 |
-| [<span class="wiki-icon">🏖️</span>砂場掘り](/ja/action/dig-sandbox) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 | 連続 |
-| [<span class="wiki-icon">🌷</span>花壇の手入れ](/ja/action/tend-flower-bed) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv7 | 連続 |
-| [<span class="wiki-icon">🪷</span>池のほとり](/ja/action/pond-side) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv14 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/732665ba6a1aee85.svg" alt="">落ち葉拾い](/ja/action/gather-fallen-leaves) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv1 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/dc1ff4797b8cfa39.svg" alt="">清掃活動](/ja/action/cleanup-activity) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv3 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/eee8a2d4f6796b24.svg" alt="">砂場掘り](/ja/action/dig-sandbox) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/b9f2fd9a42b74ce8.svg" alt="">花壇の手入れ](/ja/action/tend-flower-bed) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv7 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/8037b426178499e5.svg" alt="">池のほとり](/ja/action/pond-side) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv14 | 連続 |
 | [<span class="wiki-icon">🌰</span>木の実採り](/ja/action/gather-nuts) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv1 | 連続 |
 | [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv3 | 連続 |
 | [<span class="wiki-icon">🔦</span>路地裏の探し物](/ja/action/alley-search) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv1 | 連続 |
@@ -36,11 +36,11 @@
 | [<span class="wiki-icon">🏰</span>城壁の見回り](/ja/action/rampart-patrol) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv1 | 連続 |
 | [<span class="wiki-icon">📚</span>書庫の調べ物](/ja/action/archive-research) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv3 | 連続 |
 | [<span class="wiki-icon">💰</span>宝物庫の整理](/ja/action/treasury-sorting) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv5 | 連続 |
-| [<span class="wiki-icon">🟡</span>硫黄の谷](/ja/action/sulfur-valley) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv1 | 連続 |
-| [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv3 | 連続 |
-| [<span class="wiki-icon">✨</span>星屑集め](/ja/action/stardust-gathering) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv1 | 連続 |
-| [<span class="wiki-icon">🌫️</span>霞の林](/ja/action/haze-grove) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv3 | 連続 |
-| [<span class="wiki-icon">☁️</span>雲の畑の手入れ](/ja/action/tend-cloud-field) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv5 | 連続 |
+| [<span class="wiki-icon">🟡</span>硫黄の谷](/ja/action/sulfur-valley) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv1 | 連続 |
+| [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv3 | 連続 |
+| [<span class="wiki-icon">✨</span>星屑集め](/ja/action/stardust-gathering) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv1 | 連続 |
+| [<span class="wiki-icon">🌫️</span>霞の林](/ja/action/haze-grove) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv3 | 連続 |
+| [<span class="wiki-icon">☁️</span>雲の畑の手入れ](/ja/action/tend-cloud-field) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv5 | 連続 |
 
 ## 開発者向け情報
 
@@ -64,7 +64,7 @@
 	"icon": {
 		"emoji": "🧺",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/1526f5fadd3c55ca.svg）"
 	},
 	"color": ""
 }

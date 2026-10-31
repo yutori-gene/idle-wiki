@@ -1,6 +1,6 @@
 # 革
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">革</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🟫</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>2 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>4 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">革</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🟫</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>2 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>4 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 丈夫で長持ちする素材。
 
@@ -12,11 +12,11 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv3 | 7 | 91% | 3.2 | 573 |
-| [<span class="wiki-icon">🐗</span>ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 15.8% | 0.079 | 16.6 |
+| [<img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア](/ja/action/wild-boar) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 | 1 | 15.8% | 0.079 | 16.6 |
 
 ### 購入
 
-4 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a> で購入できる（下記の解放条件を満たしてから）。
+4 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a> で購入できる（下記の解放条件を満たしてから）。
 
 ## 用途
 
@@ -24,11 +24,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎓</span>学ラン](/ja/action/craft-gakuran) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 15 | 100% |  |
-| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/action/craft-cowboy-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 15 | 100% |  |
-| [<span class="wiki-icon">⚓</span>セーラー服](/ja/action/craft-sailor-uniform) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
-| [<span class="wiki-icon">🧤</span>軍手](/ja/action/craft-work-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
-| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/action/craft-chef-hat) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 15 | 100% |  |
+| [<span class="wiki-icon">🎓</span>学ラン](/ja/action/craft-gakuran) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 15 | 100% |  |
+| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/action/craft-cowboy-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 15 | 100% |  |
+| [<span class="wiki-icon">⚓</span>セーラー服](/ja/action/craft-sailor-uniform) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
+| [<span class="wiki-icon">🧤</span>軍手](/ja/action/craft-work-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
+| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/action/craft-chef-hat) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv16 | 15 | 100% |  |
 
 ## 解放条件
 
@@ -36,7 +36,7 @@
 
 - [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv2以上
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><span class="wiki-icon">🪵</span>素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

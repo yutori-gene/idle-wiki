@@ -9,29 +9,29 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧔</span>つけ髭](/ja/item/fake-beard) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 3 |
-| [<span class="wiki-icon">🍲</span>鍋かぶと](/ja/item/pot-helmet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 3 |
-| [<span class="wiki-icon">🧕</span>赤ずきん](/ja/item/red-hood) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 6 |
-| [<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 18 |
-| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/item/chef-hat) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 9 |
-| [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 27 |
-| [<span class="wiki-icon">👓</span>メガネ](/ja/item/glasses) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 36 |
-| [<span class="wiki-icon">🩹</span>アイパッチ](/ja/item/eyepatch) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 36 |
-| [<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 45 |
-| [<span class="wiki-icon">🦷</span>入れ歯](/ja/item/dentures) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 135 |
-| [<span class="wiki-icon">🥽</span>スカウター](/ja/item/scouter) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 162 |
-| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/item/iron-helmet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 162 |
-| [<span class="wiki-icon">🎎</span>だるま](/ja/item/daruma) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 189 |
-| [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/item/pumpkin-head) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 567 |
-| [<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 648 |
-| [<span class="wiki-icon">🎩</span>絹の帽子](/ja/item/silk-hat) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 648 |
-| [<span class="wiki-icon">👑</span>王冠](/ja/item/crown) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 1,944 |
-| [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/item/jade-hairpin) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 2,187 |
-| [<span class="wiki-icon">⚫</span>虚無のリング](/ja/item/void-ring) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 2,187 |
-| [<span class="wiki-icon">👁️</span>六眼の瞳](/ja/item/six-eyes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 2,430 |
-| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/item/crystal-skull) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 7,290 |
-| [<span class="wiki-icon">👁️</span>写輪眼](/ja/item/sharingan) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 7,290 |
-| [<span class="wiki-icon">😇</span>天使の輪](/ja/item/halo) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 21,870 |
+| [<img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭](/ja/item/fake-beard) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 3 |
+| [<img class="wiki-icon" src="assets/icon/21c4e6a062160394.svg" alt="">鍋かぶと](/ja/item/pot-helmet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 3 |
+| [<span class="wiki-icon">🧕</span>赤ずきん](/ja/item/red-hood) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 6 |
+| [<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 18 |
+| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/item/chef-hat) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 9 |
+| [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 27 |
+| [<span class="wiki-icon">👓</span>メガネ](/ja/item/glasses) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 36 |
+| [<span class="wiki-icon">🩹</span>アイパッチ](/ja/item/eyepatch) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 36 |
+| [<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 45 |
+| [<span class="wiki-icon">🦷</span>入れ歯](/ja/item/dentures) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 135 |
+| [<span class="wiki-icon">🥽</span>スカウター](/ja/item/scouter) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 162 |
+| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/item/iron-helmet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 162 |
+| [<span class="wiki-icon">🎎</span>だるま](/ja/item/daruma) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 189 |
+| [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/item/pumpkin-head) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 567 |
+| [<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 648 |
+| [<img class="wiki-icon" src="assets/icon/89b6e6d7412928e1.svg" alt="">絹の帽子](/ja/item/silk-hat) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 648 |
+| [<span class="wiki-icon">👑</span>王冠](/ja/item/crown) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 1,944 |
+| [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/item/jade-hairpin) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 2,187 |
+| [<span class="wiki-icon">⚫</span>虚無のリング](/ja/item/void-ring) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 2,187 |
+| [<span class="wiki-icon">👁️</span>六眼の瞳](/ja/item/six-eyes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 2,430 |
+| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/item/crystal-skull) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 7,290 |
+| [<span class="wiki-icon">👁️</span>写輪眼](/ja/item/sharingan) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 7,290 |
+| [<span class="wiki-icon">😇</span>天使の輪](/ja/item/halo) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 21,870 |
 
 ## 開発者向け情報
 

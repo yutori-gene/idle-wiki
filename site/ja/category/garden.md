@@ -21,25 +21,25 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/action/play-with-chick) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv1 | 30分 | 100% | 92 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×3 |
 | [<span class="wiki-icon">🐟</span>メダカ](/ja/action/feed-killifish) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv3 | 1時間 | 85% | 92 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×2 | [<span class="wiki-icon">🐟</span>魚](/ja/item/fish)×5 |
-| [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🦴</span>しつけ](/ja/group/discipline) | スタミナ（戦闘） | Lv6 | 15分39秒 | 75% | 91 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | [<span class="wiki-icon">🥚</span>卵](/ja/item/egg)×3<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×7<br>[<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)×2 |
+| [<img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🦴</span>しつけ](/ja/group/discipline) | スタミナ（戦闘） | Lv6 | 15分39秒 | 75% | 91 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg)×3<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×7<br>[<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)×2 |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/action/run-hamster) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv8 | 30分 | 75% | 92 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat)×2 (66.7%) |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv11 | 1時間30分 | 95% | 91 | [<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water)×2 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×5<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×3 |
-| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🦴</span>しつけ](/ja/group/discipline) | スタミナ（戦闘） | Lv13 | 23分28秒 | 75% | 91 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×9<br>[<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn)×6<br>[<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×3 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🦴</span>しつけ](/ja/group/discipline) | スタミナ（戦闘） | Lv16 | 31分17秒 | 75% | 91 |  | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)×9<br>[<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar)×6<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold)×9 |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/action/care-for-chicken) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv18 | 30分 | 75% | 92 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | [<span class="wiki-icon">🥚</span>卵](/ja/item/egg)×2 (66.7%) |
+| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🦴</span>しつけ](/ja/group/discipline) | スタミナ（戦闘） | Lv13 | 23分28秒 | 75% | 91 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×9<br>[<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn)×6<br>[<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×3 |
+| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🦴</span>しつけ](/ja/group/discipline) | スタミナ（戦闘） | Lv16 | 31分17秒 | 75% | 91 |  | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)×9<br>[<img class="wiki-icon" src="assets/icon/b9c2295c04c97dd4.svg" alt="">毛虫](/ja/item/caterpillar)×6<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold)×9 |
+| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/action/care-for-chicken) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv18 | 30分 | 75% | 92 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg)×2 (66.7%) |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/action/bathe-duck) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv21 | 2時間 | 80% | 91 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×5<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×2 (75%) |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/action/cheer-up-underdog) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv23 | 45分 | 85% | 92 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) | [<span class="wiki-icon">🦴</span>骨](/ja/item/bone)×2 (76.5%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (76.5%) |
-| [<span class="wiki-icon">🐢</span>クッパ](/ja/action/walk-turtle) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv25 | 3時間 | 75% | 91 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×2 | [<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn)×6 |
-| [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv28 | 1時間30分 | 75% | 92 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×2<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×5 (66.7%) |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/take-out-jones) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv30 | 4時間 | 100% | 91 | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom)×2 | [<span class="wiki-icon">🗺️</span>海賊の地図](/ja/item/pirate-map)×2<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×10 |
+| [<span class="wiki-icon">🐢</span>クッパ](/ja/action/walk-turtle) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv25 | 3時間 | 75% | 91 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×2 | [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn)×6 |
+| [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv28 | 1時間30分 | 75% | 92 | [<span class="wiki-icon">🌰</span>木の実](/ja/item/nut) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×2<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×5 (66.7%) |
+| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/take-out-jones) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv30 | 4時間 | 100% | 91 | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom)×2 | [<span class="wiki-icon">🗺️</span>海賊の地図](/ja/item/pirate-map)×2<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×10 |
 | [<span class="wiki-icon">🐧</span>ペンペン](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv33 | 2時間 | 80% | 91 | [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) | [<span class="wiki-icon">🐟</span>魚](/ja/item/fish)×3 |
 | [<span class="wiki-icon">🤖</span>R2D2](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv35 | 6時間 | 90% | 91 | [<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium)×2 | [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×7<br>[<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×4 |
 | [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv38 | 2時間30分 | 85% | 91 | [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab) | [<span class="wiki-icon">🐟</span>魚](/ja/item/fish)×3 (76.5%)<br>[<span class="wiki-icon">💧</span>真水](/ja/item/fresh-water)×2 (76.5%) |
 | [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv40 | 8時間 | 80% | 91 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat)×2 | [<span class="wiki-icon">🦊</span>狐火](/ja/item/foxfire)×3<br>[<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal)×6 |
 | [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/action/play-with-fire-bird) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv43 | 9時間 | 80% | 91 | [<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal)×2 | [<span class="wiki-icon">🐦‍🔥</span>不死鳥の灰](/ja/item/phoenix-ash)<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×4 |
-| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv45 | 4時間 | 90% | 91 | [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×9<br>[<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×3 |
-| [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv48 | 5時間 | 90% | 91 | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×6 |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv50 | 12時間 | 85% | 91 | [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab)×2 | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×14<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin)×14 |
+| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv45 | 4時間 | 90% | 91 | [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×9<br>[<span class="wiki-icon">🌰</span>木の実](/ja/item/nut)×3 |
+| [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv48 | 5時間 | 90% | 91 | [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×6 |
+| [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | 連続 | Lv50 | 12時間 | 85% | 91 | [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab)×2 | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×14<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×14 |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -51,11 +51,11 @@
 
 | アイテム | グループ | 装備 | 売値 | 買値 |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | 1,458 |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | 1,458 |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
@@ -69,11 +69,11 @@
 | [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | 装備不要 | — | — |
-| [<span class="wiki-icon">🐟</span>魚](/ja/item/fish) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 2 | — |
-| [<span class="wiki-icon">🦴</span>骨](/ja/item/bone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🦊</span>狐火](/ja/item/foxfire) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">🛍️</span>エコバッグ](/ja/item/eco-bag) | [<span class="wiki-icon">🎒</span>容器](/ja/group/container) | 装備不可 | — | — |
-| [<span class="wiki-icon">🧺</span>ピクニックバスケット](/ja/item/picnic-basket) | [<span class="wiki-icon">🎒</span>容器](/ja/group/container) | 装備不可 | — | — |
+| [<span class="wiki-icon">🐟</span>魚](/ja/item/fish) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2 | — |
+| [<span class="wiki-icon">🦴</span>骨](/ja/item/bone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 3 | — |
+| [<span class="wiki-icon">🦊</span>狐火](/ja/item/foxfire) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 7 | — |
+| [<img class="wiki-icon" src="assets/icon/1573065dab7cb0f0.svg" alt="">エコバッグ](/ja/item/eco-bag) | [<span class="wiki-icon">🎒</span>容器](/ja/group/container) | 装備不可 | — | — |
+| [<img class="wiki-icon" src="assets/icon/6d83bc87fd0524a2.svg" alt="">ピクニックバスケット](/ja/item/picnic-basket) | [<span class="wiki-icon">🎒</span>容器](/ja/group/container) | 装備不可 | — | — |
 | [<span class="wiki-icon">🏺</span>壺](/ja/item/jar) | [<span class="wiki-icon">🎒</span>容器](/ja/group/container) | 装備不可 | — | — |
 | [<span class="wiki-icon">🎒</span>リュックサック](/ja/item/backpack) | [<span class="wiki-icon">🎒</span>容器](/ja/group/container) | 装備不可 | — | — |
 | [<span class="wiki-icon">🦘</span>カンガルーの袋](/ja/item/kangaroo-pouch) | [<span class="wiki-icon">🎒</span>容器](/ja/group/container) | 装備不可 | — | — |
@@ -87,22 +87,22 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -119,8 +119,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -149,8 +150,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -159,7 +160,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
@@ -178,9 +179,10 @@
 
 | レベル | 累計経験値 | 開くもの |
 | --- | --- | --- |
-| Lv1 | 0 | [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/action/play-with-chick)（実行）<br>[<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick)（解放） |
+| Lv1 | 0 | [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/action/play-with-chick)（実行）<br>[<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick)（解放） |
 | Lv3 | 211 | [<span class="wiki-icon">🐟</span>メダカ](/ja/action/feed-killifish)（実行） |
-| Lv6 | 623 | [<span class="wiki-icon">🐔</span>ニワトリ](/ja/action/chicken)（実行） |
+| Lv6 | 623 | [<img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ](/ja/action/chicken)（実行） |
+| Lv7 | 791 | [<span class="wiki-icon">📘</span>自己啓発本](/ja/action/read-self-help-book)（実行条件）<br>[<span class="wiki-icon">📘</span>自己啓発本](/ja/item/self-help-book)（解放） |
 | Lv8 | 978 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/action/run-hamster)（実行） |
 | Lv11 | 1,672 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/action/pluck-walking-cactus-thorn)（実行） |
 | Lv13 | 2,271 | [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy)（実行） |

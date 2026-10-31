@@ -1,6 +1,6 @@
 # ホタル（分解）
 
-<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">ホタル（分解）</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">✨</span></div><table><tr><th>場所</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">ホタル（分解）</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/2835e12095bc5617.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 砕いて色の褪せた石だけを拾う。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">✨</span>ホタル](/ja/item/firefly) ×1（消費する）
+- [<img class="wiki-icon" src="assets/icon/c4f9d12979bdfc90.svg" alt="">ホタル](/ja/item/firefly) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -33,7 +33,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 108 | 36 | 72 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 108 | 36 | 72 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -69,7 +69,7 @@
 		"icon": {
 			"emoji": "✨",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/2835e12095bc5617.svg）"
 		},
 		"color": ""
 	},

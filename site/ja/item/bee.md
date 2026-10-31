@@ -1,6 +1,6 @@
 # ハチ
 
-<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">ハチ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐝</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>50%</td></tr><tr><th>売値</th><td>9 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">ハチ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/77a6a1e5850f8a19.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>50%</td></tr><tr><th>売値</th><td>9 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 投げれば群れで反撃される。
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/action/beetle) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv7 | 1 | 3.46% | 0.017 | 4.5 |
+| [<img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ](/ja/action/beetle) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv7 | 1 | 3.46% | 0.017 | 4.5 |
 
 ## 用途
 
@@ -27,7 +27,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐝</span>ハチ（分解）](/ja/action/disassemble-bee) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv1 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/b64bebb17d7e4142.svg" alt="">ハチ（分解）](/ja/action/disassemble-bee) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv1 | 1 | 100% |  |
 
 ## 解放条件
 
@@ -35,7 +35,7 @@
 
 - [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv5以上
 
-<div class="wiki-navbox" style="--accent:#656a5a"><div class="wiki-navbox-title">グループ: 投擲武器</div><div class="wiki-navbox-body"><a href="#/ja/item/acorn-shot"><span class="wiki-icon">🌰</span>どんぐりショット</a> ・ <a href="#/ja/item/bee"><span class="wiki-icon">🐝</span>ハチ</a> ・ <a href="#/ja/item/blowgun"><span class="wiki-icon">🎯</span>吹き矢</a> ・ <a href="#/ja/item/dart"><span class="wiki-icon">🎯</span>ダーツ</a> ・ <a href="#/ja/item/snowball"><span class="wiki-icon">⛄</span>雪玉</a> ・ <a href="#/ja/item/brick"><span class="wiki-icon">🧱</span>レンガ</a> ・ <a href="#/ja/item/slingshot"><span class="wiki-icon">🎯</span>スリングショット</a> ・ <a href="#/ja/item/fishing-rod"><span class="wiki-icon">🎣</span>釣竿</a> ・ <a href="#/ja/item/turtle-shell"><span class="wiki-icon">🐢</span>カメの甲羅</a> ・ <a href="#/ja/item/sea-urchin"><span class="wiki-icon">🦔</span>ウニ</a> ・ <a href="#/ja/item/dvd"><span class="wiki-icon">💿</span>DVD</a> ・ <a href="#/ja/item/rocket-punch"><span class="wiki-icon">👊</span>ロケットパンチ</a> ・ <a href="#/ja/item/whip-of-love"><span class="wiki-icon">🪢</span>愛の鞭</a> ・ <a href="#/ja/item/tomahawk"><span class="wiki-icon">🪓</span>トマホーク</a> ・ <a href="#/ja/item/blown-kiss"><span class="wiki-icon">💋</span>投げキッス</a> ・ <a href="#/ja/item/soccer-ball"><span class="wiki-icon">⚽</span>サッカーボール</a> ・ <a href="#/ja/item/carrot-and-stick"><span class="wiki-icon">🍬</span>飴と鞭</a> ・ <a href="#/ja/item/batarang"><span class="wiki-icon">🦇</span>バットラング</a> ・ <a href="#/ja/item/monster-ball"><span class="wiki-icon">🔴</span>モンスターボール</a> ・ <a href="#/ja/item/recorder-of-time"><span class="wiki-icon">🎼</span>時のリコーダー</a> ・ <a href="#/ja/item/russian-roulette"><span class="wiki-icon">🔫</span>ロシアンルーレット</a> ・ <a href="#/ja/item/spear-of-longinus"><span class="wiki-icon">🔱</span>ロンギヌスの槍</a> ・ <a href="#/ja/item/stand-arrow"><span class="wiki-icon">🏹</span>スタンドの矢</a> ・ <a href="#/ja/item/tuna-rocket"><span class="wiki-icon">🚀</span>マグロケット</a></div></div>
+<div class="wiki-navbox" style="--accent:#656a5a"><div class="wiki-navbox-title">グループ: 投擲武器</div><div class="wiki-navbox-body"><a href="#/ja/item/acorn-shot"><img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット</a> ・ <a href="#/ja/item/bee"><img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ</a> ・ <a href="#/ja/item/blowgun"><span class="wiki-icon">🎯</span>吹き矢</a> ・ <a href="#/ja/item/dart"><span class="wiki-icon">🎯</span>ダーツ</a> ・ <a href="#/ja/item/snowball"><span class="wiki-icon">⛄</span>雪玉</a> ・ <a href="#/ja/item/brick"><span class="wiki-icon">🧱</span>レンガ</a> ・ <a href="#/ja/item/slingshot"><img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット</a> ・ <a href="#/ja/item/fishing-rod"><span class="wiki-icon">🎣</span>釣竿</a> ・ <a href="#/ja/item/turtle-shell"><span class="wiki-icon">🐢</span>カメの甲羅</a> ・ <a href="#/ja/item/sea-urchin"><span class="wiki-icon">🦔</span>ウニ</a> ・ <a href="#/ja/item/dvd"><span class="wiki-icon">💿</span>DVD</a> ・ <a href="#/ja/item/rocket-punch"><span class="wiki-icon">👊</span>ロケットパンチ</a> ・ <a href="#/ja/item/whip-of-love"><span class="wiki-icon">🪢</span>愛の鞭</a> ・ <a href="#/ja/item/tomahawk"><span class="wiki-icon">🪓</span>トマホーク</a> ・ <a href="#/ja/item/blown-kiss"><span class="wiki-icon">💋</span>投げキッス</a> ・ <a href="#/ja/item/soccer-ball"><span class="wiki-icon">⚽</span>サッカーボール</a> ・ <a href="#/ja/item/carrot-and-stick"><span class="wiki-icon">🍬</span>飴と鞭</a> ・ <a href="#/ja/item/batarang"><span class="wiki-icon">🦇</span>バットラング</a> ・ <a href="#/ja/item/monster-ball"><span class="wiki-icon">🔴</span>モンスターボール</a> ・ <a href="#/ja/item/recorder-of-time"><span class="wiki-icon">🎼</span>時のリコーダー</a> ・ <a href="#/ja/item/russian-roulette"><span class="wiki-icon">🔫</span>ロシアンルーレット</a> ・ <a href="#/ja/item/spear-of-longinus"><span class="wiki-icon">🔱</span>ロンギヌスの槍</a> ・ <a href="#/ja/item/stand-arrow"><span class="wiki-icon">🏹</span>スタンドの矢</a> ・ <a href="#/ja/item/tuna-rocket"><span class="wiki-icon">🚀</span>マグロケット</a></div></div>
 
 ## 開発者向け情報
 
@@ -68,7 +68,7 @@
 		"icon": {
 			"emoji": "🐝",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/77a6a1e5850f8a19.svg）"
 		},
 		"color": ""
 	},

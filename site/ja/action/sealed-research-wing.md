@@ -1,6 +1,6 @@
 # 封鎖された研究棟
 
-<div class="wiki-infobox" style="--accent:#717476"><div class="wiki-infobox-title">封鎖された研究棟</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏢</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explore"><span class="wiki-icon">🔦</span>探索</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv12</td></tr><tr><th>所要時間</th><td>3時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,086</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#717476"><div class="wiki-infobox-title">封鎖された研究棟</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏢</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explore"><img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv12</td></tr><tr><th>所要時間</th><td>3時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,086</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 立入禁止の先に何がある。
 
@@ -15,7 +15,6 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📐</span>数学書](/ja/item/math-book) ×1 | 成功時 | 100% | 1 | 0.333 |
 | [<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log) ×2 | 成功時 | 50.1% | 1 | 0.334 |
 | [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) ×1 | 成功時 | 10.4% | 0.104 | 0.035 |
 
@@ -36,7 +35,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 222 | 0 | 222 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 60 | 0 | 60 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -87,12 +86,6 @@
 	"maximum": 0,
 	"requirements": [],
 	"acquisitions": [
-		{
-			"type": "item",
-			"id": "math-book",
-			"count": 1,
-			"chance": 1
-		},
 		{
 			"type": "item",
 			"id": "experiment-log",

@@ -11,7 +11,7 @@
 
 次をすべて満たすと解放される。
 
-- [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv8以上
+- [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv8以上
 
 ## アクション
 
@@ -88,22 +88,22 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) | 消費装備 | +3 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -120,8 +120,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -150,8 +151,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -160,7 +161,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
@@ -181,7 +182,7 @@
 | --- | --- | --- |
 | Lv1 | 0 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/action/grow-carrot)（実行）<br>[<span class="wiki-icon">🪱</span>ミミズの切断](/ja/action/cut-earthworm)（実行） |
 | Lv4 | 334 | [<span class="wiki-icon">🎃</span>カボチャ](/ja/action/grow-pumpkin)（実行）<br>[<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad)（解放）<br>[<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana)（解放）<br>[<span class="wiki-icon">🍎</span>リンゴ](/ja/item/apple)（解放） |
-| Lv7 | 791 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/action/grow-garlic)（実行） |
+| Lv7 | 791 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/action/grow-garlic)（実行）<br>[<span class="wiki-icon">🎓</span>卒業証書](/ja/action/reread-diploma)（実行条件）<br>[<span class="wiki-icon">🎓</span>卒業証書](/ja/item/diploma)（解放） |
 | Lv9 | 1,186 | [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey)（解放）<br>[<span class="wiki-icon">🍄</span>トリュフ](/ja/item/truffle)（解放） |
 | Lv10 | 1,416 | [<span class="wiki-icon">🌾</span>小麦](/ja/action/grow-wheat)（実行）<br>[<span class="wiki-icon">🌾</span>小麦の種](/ja/item/wheat-seed)（解放） |
 | Lv13 | 2,271 | [<span class="wiki-icon">🥬</span>サラダ菜](/ja/action/grow-lettuce)（実行）<br>[<span class="wiki-icon">🥬</span>サラダ菜の種](/ja/item/lettuce-seed)（解放） |
@@ -191,7 +192,7 @@
 | Lv25 | 10,217 | [<span class="wiki-icon">🦎</span>ウーパールーパー](/ja/action/breed-axolotl)（実行）<br>[<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg)（解放） |
 | Lv28 | 14,308 | [<span class="wiki-icon">🌿</span>薬草](/ja/action/grow-herb)（実行）<br>[<span class="wiki-icon">🌿</span>薬草の種](/ja/item/herb-seed)（解放） |
 | Lv32 | 22,191 | [<span class="wiki-icon">🌿</span>大麻](/ja/action/grow-hemp)（実行）<br>[<span class="wiki-icon">🌿</span>大麻の種](/ja/item/hemp-seed)（解放） |
-| Lv35 | 30,684 | [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/action/grow-potato)（実行） |
+| Lv35 | 30,684 | [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/action/grow-potato)（実行）<br>[<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/action/read-catcher-in-the-rye)（実行条件） |
 | Lv38 | 42,298 | [<span class="wiki-icon">🍄</span>トリュフ](/ja/action/grow-truffle)（実行）<br>[<span class="wiki-icon">🍄</span>トリュフの菌床](/ja/item/truffle-bed)（解放） |
 | Lv40 | 52,327 | [<span class="wiki-icon">☠️</span>毒草](/ja/item/poison-herb)（解放）<br>[<span class="wiki-icon">🌿</span>香草](/ja/item/aromatic-herb)（解放） |
 | Lv41 | 58,183 | [<span class="wiki-icon">🌶️</span>とうがらし](/ja/action/grow-chili)（実行）<br>[<span class="wiki-icon">🌶️</span>とうがらしの種](/ja/item/chili-seed)（解放） |

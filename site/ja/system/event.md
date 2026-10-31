@@ -27,4 +27,4 @@
 
 ## ゲームクリア
 
-レベルのあるすべてのカテゴリが最大レベルに達すると [<span class="wiki-icon">🎉</span>クリア](/ja/event/complete) が出る。
+レベルのあるすべてのカテゴリが最大レベルに達すると [<img class="wiki-icon" src="assets/icon/795952cd4767e92b.svg" alt="">クリア](/ja/event/complete) が出る。

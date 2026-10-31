@@ -17,7 +17,7 @@
 | [<span class="wiki-icon">🔥</span>カイロ](/ja/item/heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 4 |
 | [<span class="wiki-icon">👁️</span>目薬](/ja/item/eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 4 |
 | [<span class="wiki-icon">✨</span>発光する薬](/ja/item/glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 36 |
-| [<span class="wiki-icon">🧪</span>エーテル](/ja/item/ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 324 |
+| [<img class="wiki-icon" src="assets/icon/ff59e56b98270140.svg" alt="">エーテル](/ja/item/ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 324 |
 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 5 |
 | [<span class="wiki-icon">🦟</span>むしよけスプレー](/ja/item/insect-repellent) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 18 |
 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 18 |

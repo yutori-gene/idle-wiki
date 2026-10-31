@@ -9,12 +9,12 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛏️</span>クワ](/ja/item/hoe) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
-| [<span class="wiki-icon">🪏</span>シャベル](/ja/item/shovel) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
-| [<span class="wiki-icon">✂️</span>ハサミ](/ja/item/scissors) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
-| [<span class="wiki-icon">🖌️</span>ペイントローラー](/ja/item/paint-roller) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 3 |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備必須 | 81 |
-| [<span class="wiki-icon">⚽</span>伝説のボール](/ja/item/legendary-ball) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 243 |
+| [<img class="wiki-icon" src="assets/icon/3b5f25329b15fd82.svg" alt="">クワ](/ja/item/hoe) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
+| [<img class="wiki-icon" src="assets/icon/166910348652907c.svg" alt="">シャベル](/ja/item/shovel) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
+| [<img class="wiki-icon" src="assets/icon/e14d4e050156ea51.svg" alt="">ハサミ](/ja/item/scissors) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1 |
+| [<img class="wiki-icon" src="assets/icon/3e0ab42a7bdb32e5.svg" alt="">ペイントローラー](/ja/item/paint-roller) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 3 |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備必須 | 81 |
+| [<img class="wiki-icon" src="assets/icon/19da4c679f8870a7.svg" alt="">伝説のボール](/ja/item/legendary-ball) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 243 |
 | [<span class="wiki-icon">🪓</span>斧](/ja/item/axe) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 6 |
 | [<span class="wiki-icon">🔭</span>双眼鏡](/ja/item/binoculars) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 18 |
 | [<span class="wiki-icon">🪨</span>森の精霊石](/ja/item/forest-spirit-stone) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 486 |

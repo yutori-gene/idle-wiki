@@ -1,6 +1,6 @@
 # ドブネズミ
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">ドブネズミ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐀</span></div><table><tr><th>場所</th><td><a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><span class="wiki-icon">⚔️</span>近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv17</td></tr><tr><th>所要時間</th><td>1.5秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.86</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">ドブネズミ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐀</span></div><table><tr><th>場所</th><td><a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv17</td></tr><tr><th>所要時間</th><td>1.5秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.86</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 下水道から這い上がってくる。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) Lv17以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv17以上（経験値の入り先カテゴリのレベル）
 
 ## 取得物
 
@@ -17,7 +17,7 @@
 | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🪙</span>小銭](/ja/item/small-change) ×1 | 成功時 | 5.31% | 0.027 | 4.9 |
 | [<span class="wiki-icon">🛍️</span>ビニール袋](/ja/item/plastic-bag) ×1 | 成功時 | 2.33% | 0.012 | 2.2 |
-| [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) ×1 | 成功時 | 0.96% | 0.005 | 0.886 |
+| [<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) ×1 | 成功時 | 0.96% | 0.005 | 0.886 |
 | [<span class="wiki-icon">👑</span>ネズミの王冠](/ja/item/rat-crown) ×1 | 成功時 | 0.144% | 0.001 | 0.133 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
@@ -60,7 +60,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 40 | 0 | 40 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 40 | 0 | 40 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

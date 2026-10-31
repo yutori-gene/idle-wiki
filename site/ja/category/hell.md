@@ -1,10 +1,10 @@
 # 地獄
 
-<div class="wiki-infobox" style="--accent:#6e4c5b"><div class="wiki-infobox-title">地獄</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><span class="wiki-icon">🗺️</span>ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6e4c5b"><div class="wiki-infobox-title">地獄</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/08753b7d5230d70e.svg" alt=""></div><table><tr><th>グループ</th><td><a href="#/ja/group/dungeon"><img class="wiki-icon" src="assets/icon/d951ade1a5f324ab.svg" alt="">ダンジョン</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>17本</td></tr><tr><th>管理アイテム</th><td>0種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **9番目のダンジョン**（難易度 ★★★★★・ダーク・禍々しい）。収集は呪物・骨、討伐は悪魔・亡者、探索は奈落・祭壇が中心。
 
-?> **次のダンジョン [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) の開け方**: このカテゴリのレベルと [<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) が要る。[<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) は [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering)（収集）で手に入る。詳しくは [進行チャート](/ja/reference/progression)。
+?> **次のダンジョン [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) の開け方**: このカテゴリのレベルと [<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) が要る。[<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) は [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering)（収集）で手に入る。詳しくは [進行チャート](/ja/reference/progression)。
 
 **容器**: [<span class="wiki-icon">🌀</span>3次元ポケット](/ja/item/3d-pocket) を手に入れると物置（[<span class="wiki-icon">📦</span>物置](/ja/item/capacity)）が広がる。どれも探索の単発アクションで1回だけ手に入る。
 
@@ -22,23 +22,23 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🟡</span>硫黄の谷](/ja/action/sulfur-valley) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv1 | 1分30秒 | 50% | 1,040 |  | [<span class="wiki-icon">🟡</span>硫黄石](/ja/item/sulfur-stone)×7 (91%)<br>[<span class="wiki-icon">🔥</span>焦げ土](/ja/item/scorched-soil)×5 (56%)<br>[<span class="wiki-icon">⚫</span>煤](/ja/item/soot)×5 (56%)<br>[<span class="wiki-icon">⚫</span>黒い砂](/ja/item/black-sand)×5 (56%)<br>[<span class="wiki-icon">⛓️</span>鎖](/ja/item/chain)×3 (48%) |
-| [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering) | [<span class="wiki-icon">🧺</span>収集](/ja/group/gather) | 連続 | Lv3 | 1分30秒 | 50% | 1,040 |  | [<span class="wiki-icon">💀</span>骸骨の指](/ja/item/skeleton-finger)×7 (91%)<br>[<span class="wiki-icon">🦴</span>骨片](/ja/item/bone-fragment)×5 (56%)<br>[<span class="wiki-icon">🏖️</span>三途の川の砂](/ja/item/sanzu-river-sand)×5 (56%)<br>[<span class="wiki-icon">🧵</span>亡者の布切れ](/ja/item/undead-cloth)×5 (56%)<br>[<span class="wiki-icon">🪨</span>地獄の小石](/ja/item/hell-pebble)×5 (56%)<br>[<span class="wiki-icon">🪢</span>朽ち縄](/ja/item/rotten-rope)×5 (56%)<br>[<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) |
-| [<span class="wiki-icon">⚖️</span>閻魔の法廷](/ja/action/enma-court) | [<span class="wiki-icon">🔦</span>探索](/ja/group/explore) | 単発 | Lv8 | 4時間30分 | 100% | 1,029 |  | [<span class="wiki-icon">📓</span>デスノート](/ja/item/death-note)<br>[<span class="wiki-icon">🌀</span>3次元ポケット](/ja/item/3d-pocket)<br>[<span class="wiki-icon">📕</span>閻魔帳の切れ端](/ja/item/enma-ledger-scrap)×7<br>[<span class="wiki-icon">⚖️</span>裁きの天秤](/ja/item/scale-of-judgment)×6<br>[<span class="wiki-icon">📜</span>死海文書](/ja/item/dead-sea-scrolls)<br>[<span class="wiki-icon">📕</span>ネクロノミコン](/ja/item/necronomicon) |
-| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 2.4秒 | 50% | 0 | [<span class="wiki-icon">🍾</span>火炎ビン](/ja/item/molotov) (0.444%) | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (1.02%)<br>[<span class="wiki-icon">🧿</span>呪符](/ja/item/talisman) (1.02%)<br>[<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (1.33%) |
-| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 1.8秒 | 50% | 2 |  | [<span class="wiki-icon">🧵</span>亡者の布切れ](/ja/item/undead-cloth) (1.87%)<br>[<span class="wiki-icon">🗡️</span>漆黒の剣](/ja/item/jet-black-sword) (0.075%)<br>[<span class="wiki-icon">🕸️</span>クモの糸](/ja/item/spider-thread) (0.035%) |
-| [<span class="wiki-icon">🔥</span>イフリート](/ja/action/ifrit) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 3秒 | 50% | 0 |  | [<span class="wiki-icon">⚫</span>煤](/ja/item/soot) (3.11%)<br>[<span class="wiki-icon">🔥</span>獄炎の灰](/ja/item/hellfire-ash) (1.28%)<br>[<span class="wiki-icon">🔥</span>地獄の業火の種](/ja/item/hellfire-seed) (0.125%) |
-| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv44 | 1.6秒 | 50% | 2 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) (0.296%)<br>[<span class="wiki-icon">🍴</span>銀の食器](/ja/item/silver-tableware) (0.296%) | [<span class="wiki-icon">🩸</span>血の滴](/ja/item/blood-drop) (1.66%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.683%)<br>[<span class="wiki-icon">⚰️</span>吸血鬼の棺](/ja/item/vampire-coffin) (0.09%) |
-| [<span class="wiki-icon">🐱</span>化け猫](/ja/action/bakeneko) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 1.2秒 | 50% | 2 |  | [<span class="wiki-icon">🥄</span>曲がったスプーン](/ja/item/bent-spoon) (1.24%)<br>[<span class="wiki-icon">🖤</span>怨念の結晶](/ja/item/grudge-crystal) (0.512%) |
-| [<span class="wiki-icon">🥶</span>フリーズ様](/ja/action/lord-freeze) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 3.5秒 | 50% | 0 |  | [<span class="wiki-icon">👾</span>使徒の残骸](/ja/item/angel-remains) (1.49%)<br>[<span class="wiki-icon">⚰️</span>死神の鎌片](/ja/item/reaper-scythe-shard) (1.49%) |
-| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 1秒 | 50% | 2 | [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) (0.185%)<br>[<span class="wiki-icon">🔇</span>耳栓](/ja/item/earplug) (0.185%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (0.427%)<br>[<span class="wiki-icon">🩸</span>血液](/ja/item/blood) (0.427%)<br>[<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) (0.178%)<br>[<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) (0.178%) |
-| [<span class="wiki-icon">📦</span>ミミック](/ja/action/mimic) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 2.7秒 | 50% | 0 | [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) (0.5%) | [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (1.15%)<br>[<span class="wiki-icon">⚫</span>シスの箱](/ja/item/sith-box) (0.151%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.113%) |
-| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.5秒 | 50% | 0 | [<span class="wiki-icon">🗝️</span>地獄の門の鍵](/ja/item/hell-gate-key) (0.463%) | [<span class="wiki-icon">🦴</span>骨片](/ja/item/bone-fragment) (2.59%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (1.07%)<br>[<span class="wiki-icon">🦷</span>魔獣の牙](/ja/item/demon-beast-fang) (0.104%)<br>[<span class="wiki-icon">❤️‍🔥</span>魔王の心臓](/ja/item/demon-lord-heart) (0.048%)<br>[<span class="wiki-icon">🖋️</span>魔王の印璽](/ja/item/demon-lord-seal) (0.023%) |
-| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.4秒 | 50% | 0 |  | [<span class="wiki-icon">🪓</span>斧](/ja/item/axe) (1.02%)<br>[<span class="wiki-icon">😢</span>苦悶の涙](/ja/item/tear-of-agony) (1.02%)<br>[<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) (0.512%)<br>[<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar) (0.427%) |
-| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.8秒 | 50% | 0 | [<span class="wiki-icon">🧿</span>呪符](/ja/item/talisman) (0.519%) | [<span class="wiki-icon">😈</span>悪魔の角](/ja/item/devil-horn) (1.19%)<br>[<span class="wiki-icon">🖤</span>堕天使の羽](/ja/item/fallen-angel-wing) (1.19%)<br>[<span class="wiki-icon">⚫</span>石炭](/ja/item/coal) (0.498%)<br>[<span class="wiki-icon">📕</span>呪詛の書](/ja/item/curse-book) (0.597%)<br>[<span class="wiki-icon">🍷</span>冥王の盃](/ja/item/hades-chalice) (0.117%)<br>[<span class="wiki-icon">😈</span>悪魔の実](/ja/item/devil-fruit) (0.031%) |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 2秒 | 50% | 0 | [<span class="wiki-icon">🍶</span>酒](/ja/item/liquor) (0.37%) | [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear) (2.07%)<br>[<span class="wiki-icon">🧔</span>ドワーフの髭](/ja/item/dwarf-beard) (0.853%)<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil) (0.853%)<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) (0.356%)<br>[<span class="wiki-icon">💪</span>上腕二頭筋](/ja/item/biceps) (0.356%) |
-| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 1.7秒 | 50% | 0 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.315%) | [<span class="wiki-icon">🦶</span>誰かの足](/ja/item/someones-leg) (1.76%)<br>[<span class="wiki-icon">😈</span>鬼の角の欠片](/ja/item/ogre-horn-piece) (0.725%)<br>[<span class="wiki-icon">🗝️</span>地獄の門の鍵](/ja/item/hell-gate-key) (0.071%) |
-| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<span class="wiki-icon">⚔️</span>討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 1.7秒 | 50% | 2 | [<span class="wiki-icon">🥚</span>卵](/ja/item/egg) (0.315%) | [<span class="wiki-icon">🪨</span>地獄の小石](/ja/item/hell-pebble) (1.76%)<br>[<span class="wiki-icon">🦷</span>黒曜の牙](/ja/item/obsidian-fang) (0.725%) |
+| [<span class="wiki-icon">🟡</span>硫黄の谷](/ja/action/sulfur-valley) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv1 | 1分30秒 | 50% | 1,040 |  | [<span class="wiki-icon">🟡</span>硫黄石](/ja/item/sulfur-stone)×7 (91%)<br>[<span class="wiki-icon">🔥</span>焦げ土](/ja/item/scorched-soil)×5 (56%)<br>[<span class="wiki-icon">⚫</span>煤](/ja/item/soot)×5 (56%)<br>[<span class="wiki-icon">⚫</span>黒い砂](/ja/item/black-sand)×5 (56%)<br>[<span class="wiki-icon">⛓️</span>鎖](/ja/item/chain)×3 (48%) |
+| [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering) | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | 連続 | Lv3 | 1分30秒 | 50% | 1,040 |  | [<span class="wiki-icon">💀</span>骸骨の指](/ja/item/skeleton-finger)×7 (91%)<br>[<span class="wiki-icon">🦴</span>骨片](/ja/item/bone-fragment)×5 (56%)<br>[<span class="wiki-icon">🏖️</span>三途の川の砂](/ja/item/sanzu-river-sand)×5 (56%)<br>[<span class="wiki-icon">🧵</span>亡者の布切れ](/ja/item/undead-cloth)×5 (56%)<br>[<span class="wiki-icon">🪨</span>地獄の小石](/ja/item/hell-pebble)×5 (56%)<br>[<span class="wiki-icon">🪢</span>朽ち縄](/ja/item/rotten-rope)×5 (56%)<br>[<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) |
+| [<span class="wiki-icon">⚖️</span>閻魔の法廷](/ja/action/enma-court) | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | 単発 | Lv8 | 4時間30分 | 100% | 1,029 |  | [<span class="wiki-icon">📓</span>デスノート](/ja/item/death-note)<br>[<span class="wiki-icon">🌀</span>3次元ポケット](/ja/item/3d-pocket)<br>[<span class="wiki-icon">📕</span>閻魔帳の切れ端](/ja/item/enma-ledger-scrap)×7<br>[<span class="wiki-icon">⚖️</span>裁きの天秤](/ja/item/scale-of-judgment)×6<br>[<span class="wiki-icon">📜</span>死海文書](/ja/item/dead-sea-scrolls) |
+| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 2.4秒 | 50% | 0 | [<span class="wiki-icon">🍾</span>火炎ビン](/ja/item/molotov) (0.444%) | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (1.02%)<br>[<span class="wiki-icon">🧿</span>呪符](/ja/item/talisman) (1.02%)<br>[<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (1.33%) |
+| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 1.8秒 | 50% | 2 |  | [<span class="wiki-icon">🧵</span>亡者の布切れ](/ja/item/undead-cloth) (1.87%)<br>[<span class="wiki-icon">🗡️</span>漆黒の剣](/ja/item/jet-black-sword) (0.075%)<br>[<img class="wiki-icon" src="assets/icon/5917c2eb05add9f6.svg" alt="">クモの糸](/ja/item/spider-thread) (0.035%) |
+| [<span class="wiki-icon">🔥</span>イフリート](/ja/action/ifrit) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 3秒 | 50% | 0 |  | [<span class="wiki-icon">⚫</span>煤](/ja/item/soot) (3.11%)<br>[<span class="wiki-icon">🔥</span>獄炎の灰](/ja/item/hellfire-ash) (1.28%)<br>[<span class="wiki-icon">🔥</span>地獄の業火の種](/ja/item/hellfire-seed) (0.125%) |
+| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv44 | 1.6秒 | 50% | 2 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) (0.296%)<br>[<span class="wiki-icon">🍴</span>銀の食器](/ja/item/silver-tableware) (0.296%) | [<span class="wiki-icon">🩸</span>血の滴](/ja/item/blood-drop) (1.66%)<br>[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.683%)<br>[<span class="wiki-icon">⚰️</span>吸血鬼の棺](/ja/item/vampire-coffin) (0.09%) |
+| [<span class="wiki-icon">🐱</span>化け猫](/ja/action/bakeneko) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 1.2秒 | 50% | 2 |  | [<span class="wiki-icon">🥄</span>曲がったスプーン](/ja/item/bent-spoon) (1.24%)<br>[<span class="wiki-icon">🖤</span>怨念の結晶](/ja/item/grudge-crystal) (0.512%) |
+| [<span class="wiki-icon">🥶</span>フリーズ様](/ja/action/lord-freeze) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 3.5秒 | 50% | 0 |  | [<span class="wiki-icon">👾</span>使徒の残骸](/ja/item/angel-remains) (1.49%)<br>[<span class="wiki-icon">⚰️</span>死神の鎌片](/ja/item/reaper-scythe-shard) (1.49%) |
+| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 1秒 | 50% | 2 | [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) (0.185%)<br>[<img class="wiki-icon" src="assets/icon/263d98048a36520b.svg" alt="">耳栓](/ja/item/earplug) (0.185%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (0.427%)<br>[<span class="wiki-icon">🩸</span>血液](/ja/item/blood) (0.427%)<br>[<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) (0.178%)<br>[<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) (0.178%) |
+| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 2.7秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (0.5%) | [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (1.15%)<br>[<span class="wiki-icon">⚫</span>シスの箱](/ja/item/sith-box) (0.151%)<br>[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.113%) |
+| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.5秒 | 50% | 0 | [<span class="wiki-icon">🗝️</span>地獄の門の鍵](/ja/item/hell-gate-key) (0.463%) | [<span class="wiki-icon">🦴</span>骨片](/ja/item/bone-fragment) (2.59%)<br>[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (1.07%)<br>[<span class="wiki-icon">🦷</span>魔獣の牙](/ja/item/demon-beast-fang) (0.104%)<br>[<span class="wiki-icon">❤️‍🔥</span>魔王の心臓](/ja/item/demon-lord-heart) (0.048%)<br>[<span class="wiki-icon">🖋️</span>魔王の印璽](/ja/item/demon-lord-seal) (0.023%) |
+| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.4秒 | 50% | 0 |  | [<span class="wiki-icon">🪓</span>斧](/ja/item/axe) (1.02%)<br>[<span class="wiki-icon">😢</span>苦悶の涙](/ja/item/tear-of-agony) (1.02%)<br>[<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) (0.512%)<br>[<img class="wiki-icon" src="assets/icon/b9c2295c04c97dd4.svg" alt="">毛虫](/ja/item/caterpillar) (0.427%) |
+| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv46 | 2.8秒 | 50% | 0 | [<span class="wiki-icon">🧿</span>呪符](/ja/item/talisman) (0.519%) | [<span class="wiki-icon">😈</span>悪魔の角](/ja/item/devil-horn) (1.19%)<br>[<span class="wiki-icon">🖤</span>堕天使の羽](/ja/item/fallen-angel-wing) (1.19%)<br>[<span class="wiki-icon">⚫</span>石炭](/ja/item/coal) (0.498%)<br>[<span class="wiki-icon">📕</span>呪詛の書](/ja/item/curse-book) (0.597%)<br>[<span class="wiki-icon">🍷</span>冥王の盃](/ja/item/hades-chalice) (0.117%)<br>[<span class="wiki-icon">😈</span>悪魔の実](/ja/item/devil-fruit) (0.031%) |
+| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 2秒 | 50% | 0 | [<span class="wiki-icon">🍶</span>酒](/ja/item/liquor) (0.37%) | [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear) (2.07%)<br>[<span class="wiki-icon">🧔</span>ドワーフの髭](/ja/item/dwarf-beard) (0.853%)<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil) (0.853%)<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) (0.356%)<br>[<span class="wiki-icon">💪</span>上腕二頭筋](/ja/item/biceps) (0.356%) |
+| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 1.7秒 | 50% | 0 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.315%) | [<span class="wiki-icon">🦶</span>誰かの足](/ja/item/someones-leg) (1.76%)<br>[<span class="wiki-icon">😈</span>鬼の角の欠片](/ja/item/ogre-horn-piece) (0.725%)<br>[<span class="wiki-icon">🗝️</span>地獄の門の鍵](/ja/item/hell-gate-key) (0.071%) |
+| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 1.7秒 | 50% | 2 | [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg) (0.315%) | [<span class="wiki-icon">🪨</span>地獄の小石](/ja/item/hell-pebble) (1.76%)<br>[<span class="wiki-icon">🦷</span>黒曜の牙](/ja/item/obsidian-fang) (0.725%) |
 
 経験値/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -50,22 +50,22 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">🦊</span>悪知恵](/ja/item/cunning) | 装備不要 | +1 |
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -82,8 +82,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -112,8 +113,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -122,7 +123,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
@@ -143,14 +144,14 @@
 | --- | --- | --- |
 | Lv1 | 0 | [<span class="wiki-icon">🟡</span>硫黄の谷](/ja/action/sulfur-valley)（実行） |
 | Lv3 | 211 | [<span class="wiki-icon">💀</span>骸骨拾い](/ja/action/bone-gathering)（実行） |
-| Lv8 | 978 | [<span class="wiki-icon">⚖️</span>閻魔の法廷](/ja/action/enma-court)（実行） |
+| Lv8 | 978 | [<span class="wiki-icon">⚖️</span>閻魔の法廷](/ja/action/enma-court)（実行）<br>[<span class="wiki-icon">📓</span>デスノート](/ja/action/read-death-note)（実行条件）<br>[<span class="wiki-icon">📓</span>デスノート](/ja/item/death-note)（解放） |
 | Lv10 | 1,416 | [<span class="wiki-icon">🔥</span>業火の回廊](/ja/event/hellfire-corridor)（達成条件） |
 | Lv17 | 3,919 | [<span class="wiki-icon">😈</span>悪魔の実](/ja/item/devil-fruit)（解放） |
-| Lv20 | 5,694 | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden)（解放）<br>[<span class="wiki-icon">👹</span>魔王](/ja/event/demon-lord)（達成条件） |
+| Lv20 | 5,694 | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden)（解放）<br>[<img class="wiki-icon" src="assets/icon/e662065d77e683cb.svg" alt="">魔王](/ja/event/demon-lord)（達成条件） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#6e4c5b"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><span class="wiki-icon">🌳</span>公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><span class="wiki-icon">🔥</span>地獄</a> ・ <a href="#/ja/category/sky-garden"><span class="wiki-icon">☁️</span>天空のお庭</a></div></div>
+<div class="wiki-navbox" style="--accent:#6e4c5b"><div class="wiki-navbox-title">ダンジョン</div><div class="wiki-navbox-body"><a href="#/ja/category/park"><img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園</a> ・ <a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a> ・ <a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a> ・ <a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a> ・ <a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a> ・ <a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a> ・ <a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a> ・ <a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a> ・ <a href="#/ja/category/hell"><img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄</a> ・ <a href="#/ja/category/sky-garden"><img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭</a></div></div>
 
 ## 開発者向け情報
 
@@ -586,7 +587,7 @@ tier9 の死にアイテムは `倉庫/素材` 10種・`倉庫/道具` 5種に�
 		"icon": {
 			"emoji": "🔥",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/08753b7d5230d70e.svg）"
 		},
 		"color": "#6e4c5b"
 	},

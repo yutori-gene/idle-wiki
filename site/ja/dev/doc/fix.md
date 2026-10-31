@@ -1,6 +1,6 @@
 # 実装上の懸念事項（demoワールド作成・検証で判明）
 
-> idle リポジトリ `world/doc/fix.md` の写し（99fbad2 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
+> idle リポジトリ `world/doc/fix.md` の写し（cd2dc75 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
 
 対象: demo/yutri-idle-world-demo-20260626-214729.json
 実エンジン（`player/control/game/`）のロジックを写経した実プレイ・シミュレーションで判明した、ワールド作成時に踏まないと完動しない/誤解しやすいポイントの記録。

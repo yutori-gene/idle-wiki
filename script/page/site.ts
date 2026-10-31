@@ -5,7 +5,7 @@ import { languages, publishedDocuments, sidebarPages } from "../../config/wiki.t
 import { rewriteLinks } from "../lib/document.ts";
 import { escapeMarkdown, join, link, number, section, table } from "../lib/format.ts";
 import { root } from "../lib/path.ts";
-import { documentPath, type Context, type Page } from "./common.ts";
+import { documentPath, rawJson, type Context, type Page } from "./common.ts";
 import { LIST_PAGES } from "./list.ts";
 import { REFERENCE_PAGES } from "./reference.ts";
 
@@ -135,7 +135,7 @@ export function developerPages(context: Context): Page[] {
 			section("戦闘の基本値（defaultCombat）", table(Object.keys(combat).map((key) => model.label.property[key as keyof typeof combat]), [Object.values(combat).map((value) => number(value))])),
 			section("通貨・枠", [...general.coins.map((coin) => coin.id), general.capacity.information.id, general.queue.information.id].map((id) => `- ${link(model, "item", id)}`).join("\n")),
 			section("配色（design）", table(["項目", "値"], Object.entries(world.basic.design).map(([key, value]) => [`\`${key}\``, value ? `<span class="wiki-swatch" style="background:${value}"></span> \`${value}\`` : "（空）"]))),
-			"```json\n" + JSON.stringify({ overview: world.basic.overview, general: world.basic.general, design: world.basic.design }, null, "\t") + "\n```",
+			rawJson({ overview: world.basic.overview, general: world.basic.general, design: world.basic.design }),
 		),
 	});
 

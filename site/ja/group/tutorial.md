@@ -7,7 +7,7 @@
 
 | イベント | タイミング |
 | --- | --- |
-| [<span class="wiki-icon">👣</span>はじめての一歩](/ja/event/first-step) | 条件達成（タスク） |
+| [<img class="wiki-icon" src="assets/icon/3f7a20ac40372e39.svg" alt="">はじめての一歩](/ja/event/first-step) | 条件達成（タスク） |
 | [<span class="wiki-icon">🛒</span>買い物をしてみよう](/ja/event/try-shopping) | 条件達成（タスク） |
 | [<span class="wiki-icon">📦</span>倉庫を整理しよう](/ja/event/organize-warehouse) | 条件達成（タスク） |
 | [<span class="wiki-icon">🗡️</span>装備を使ってみよう](/ja/event/try-equipment) | 条件達成（タスク） |

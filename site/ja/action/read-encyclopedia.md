@@ -1,6 +1,6 @@
 # 百科事典
 
-<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">百科事典</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📚</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv21</td></tr><tr><th>所要時間</th><td>3時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>226</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">百科事典</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📚</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>3時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>1回</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 端から順に読む必要はない。開いた頁が今日の知識。
 
@@ -9,10 +9,8 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv21以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">📚</span>百科事典](/ja/item/encyclopedia) ×1（消費する）
-
-材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
+- [<span class="wiki-icon">📚</span>百科事典](/ja/item/encyclopedia) ×1（消費しない）
+- [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv4以上
 
 ## 取得物
 
@@ -26,13 +24,11 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv21） | 3時間 | 100% | 226 | 0.3 | 75 |
-| +10（Lv31） | 2時間26分 | 100% | 150.67 | 0.4 | 62 |
-| +20（Lv41） | 2時間 | 100% | 100.44 | 0.5 | 50 |
+| — | 3時間 | 100% | — | 0.3 | — |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
+経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
 
-<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">書斎のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/read-fairy-tale"><span class="wiki-icon">📙</span>童話</a> ・ <a href="#/ja/action/read-picture-book"><span class="wiki-icon">📖</span>絵本</a> ・ <a href="#/ja/action/read-manga"><span class="wiki-icon">📚</span>漫画</a> ・ <a href="#/ja/action/read-newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/action/reread-diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/action/read-license"><span class="wiki-icon">🪪</span>免許証</a> ・ <a href="#/ja/action/read-novel"><span class="wiki-icon">📗</span>小説</a> ・ <a href="#/ja/action/read-self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/action/read-love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/action/read-art-book"><span class="wiki-icon">🎨</span>美術書</a> ・ <a href="#/ja/action/read-encyclopedia"><span class="wiki-icon">📚</span>百科事典</a> ・ <a href="#/ja/action/fraud-clinical-studies"><span class="wiki-icon">📕</span>詐欺臨床学</a> ・ <a href="#/ja/action/read-ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/action/read-recipe-book"><span class="wiki-icon">📗</span>レシピ本</a> ・ <a href="#/ja/action/read-chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/action/read-map"><span class="wiki-icon">🗺️</span>地図</a> ・ <a href="#/ja/action/read-history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/action/read-bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/action/read-math-book"><span class="wiki-icon">📐</span>数学書</a> ・ <a href="#/ja/action/read-anatomy-book"><span class="wiki-icon">📕</span>医学書「解体新書」</a> ・ <a href="#/ja/action/read-forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/action/read-death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/action/read-necronomicon"><span class="wiki-icon">📕</span>ネクロノミコン</a> ・ <a href="#/ja/action/cosmic-truth-studies"><span class="wiki-icon">🌌</span>宇宙真理学</a> ・ <a href="#/ja/action/read-catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
+<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">書斎のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/read-fairy-tale"><span class="wiki-icon">📙</span>グリム童話</a> ・ <a href="#/ja/action/read-picture-book"><img class="wiki-icon" src="assets/icon/00c8d9e334dcf056.svg" alt="">飛び出す絵本</a> ・ <a href="#/ja/action/read-manga"><span class="wiki-icon">📚</span>不健全図書</a> ・ <a href="#/ja/action/read-newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/action/reread-diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/action/read-novel"><span class="wiki-icon">📗</span>探偵小説</a> ・ <a href="#/ja/action/read-self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/action/read-love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/action/read-gossip-magazine"><span class="wiki-icon">🗞️</span>ゴシップ誌</a> ・ <a href="#/ja/action/read-art-book"><img class="wiki-icon" src="assets/icon/ee7e33f0999701d6.svg" alt="">美術書</a> ・ <a href="#/ja/action/read-encyclopedia"><span class="wiki-icon">📚</span>百科事典</a> ・ <a href="#/ja/action/fraud-clinical-studies"><span class="wiki-icon">📒</span>裏帳簿</a> ・ <a href="#/ja/action/read-ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/action/read-recipe-book"><span class="wiki-icon">📗</span>今夜のおかず🎶レシピ集</a> ・ <a href="#/ja/action/read-chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/action/read-map"><span class="wiki-icon">🗺️</span>古びた地図</a> ・ <a href="#/ja/action/read-history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/action/read-bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/action/read-anatomy-book"><span class="wiki-icon">📕</span>解剖学書</a> ・ <a href="#/ja/action/read-forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/action/read-death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/action/cosmic-truth-studies"><span class="wiki-icon">📜</span>死海文書</a> ・ <a href="#/ja/action/read-catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
 
 ## 開発者向け情報
 
@@ -43,11 +39,11 @@
 | `attribute` | （空） |
 | `group` | `reading` |
 | `unlocked` | `hidden` |
-| `level` | `21` |
-| `experience` | `226` |
+| `level` | `1` |
+| `experience` | `0` |
 | `seconds` | `10800` |
 | `chance` | `1` |
-| `maximum` | `0` |
+| `maximum` | `1` |
 | `progressType` | `single` |
 | CSV `tier` | 2 |
 
@@ -72,16 +68,23 @@
 	"attribute": "",
 	"group": "reading",
 	"unlocked": "hidden",
-	"level": 21,
-	"experience": 226,
+	"level": 1,
+	"experience": 0,
 	"seconds": 10800,
 	"chance": 1,
-	"maximum": 0,
+	"maximum": 1,
 	"requirements": [
 		{
 			"type": "item",
 			"id": "encyclopedia",
 			"count": 1,
+			"chance": 0,
+			"equipment": false
+		},
+		{
+			"type": "category",
+			"id": "forest",
+			"count": 4,
 			"chance": 1,
 			"equipment": false
 		}

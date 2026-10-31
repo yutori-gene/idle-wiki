@@ -19,13 +19,13 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv16 |
 | [<span class="wiki-icon">👻</span>宴の亡霊](/ja/action/banquet-ghost) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv42 |
-| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<span class="wiki-icon">🔥</span>地獄](/ja/category/hell) | Lv43 |
+| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv43 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🌰</span>どんぐりショット](/ja/item/acorn-shot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 装備必須 |
 
 ## 開発者向け情報
 

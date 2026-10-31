@@ -7,8 +7,8 @@
 
 次をすべて満たすと達成になり、報酬を受け取れる。条件のアイテムは消費しない。一度達成したら、あとで条件を失っても達成のまま。
 
-- [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) ×10
-- [<span class="wiki-icon">🥫</span>空き缶](/ja/item/empty-can) ×10
+- [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) ×10
+- [<img class="wiki-icon" src="assets/icon/ed2a01dd9f637329.svg" alt="">空き缶](/ja/item/empty-can) ×10
 
 ## 報酬
 

@@ -24,7 +24,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🪵</span>木の棒](/ja/item/wooden-stick) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/a853f3f0e7b15e1c.svg" alt="">木の棒](/ja/item/wooden-stick) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 

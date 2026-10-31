@@ -1,6 +1,6 @@
 # 監視カメラの群れ
 
-<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">監視カメラの群れ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📹</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv31</td></tr><tr><th>所要時間</th><td>1.3秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.74</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">監視カメラの群れ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📹</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv31</td></tr><tr><th>所要時間</th><td>1.3秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.74</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 全部こちらを向いた。電源はとっくに切られているはずだった。
 
@@ -32,7 +32,7 @@
 **敵のスキル**
 
 - [<span class="wiki-icon">😵</span>目潰し](/ja/skill/blinding)：毎ターン 5% で発動、攻撃-7・精度+12
-- [<span class="wiki-icon">👁️</span>先読み](/ja/skill/foresight)：毎ターン 5% で発動、精度+6・回避+8
+- [<img class="wiki-icon" src="assets/icon/58401ee48ed166a9.svg" alt="">先読み](/ja/skill/foresight)：毎ターン 5% で発動、精度+6・回避+8
 
 ### 戦闘の見込み（装備・スキルなし）
 
@@ -56,7 +56,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 6 | 0 | 6 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 6 | 0 | 6 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

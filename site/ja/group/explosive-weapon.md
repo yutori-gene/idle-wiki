@@ -9,8 +9,8 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎈</span>水風船](/ja/item/water-balloon) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | 消費装備 | 3 |
-| [<span class="wiki-icon">🥚</span>卵](/ja/item/egg) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | 消費装備 | 3 |
+| [<img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船](/ja/item/water-balloon) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | 消費装備 | 3 |
+| [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | 消費装備 | 3 |
 | [<span class="wiki-icon">🥧</span>パイ](/ja/item/pie) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | 消費装備 | 6 |
 | [<span class="wiki-icon">🍅</span>トマト](/ja/item/tomato) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | 消費装備 | 18 |
 | [<span class="wiki-icon">🎉</span>パーティークラッカー](/ja/item/party-popper) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | 消費装備 | 9 |

@@ -9,11 +9,11 @@
 
 数量が変化したとき、**その1回で増えた量**が次の値以上なら発動する（何度でも繰り返す）。画面には表示されない。
 
-- [<span class="wiki-icon">⚽</span>伝説のボール](/ja/item/legendary-ball) ×1
+- [<img class="wiki-icon" src="assets/icon/19da4c679f8870a7.svg" alt="">伝説のボール](/ja/item/legendary-ball) ×1
 
 ## 報酬
 
-- [<span class="wiki-icon">🪲</span>カブトムシ](/ja/item/beetle) ×1
+- [<img class="wiki-icon" src="assets/icon/4aece76562383688.svg" alt="">カブトムシ](/ja/item/beetle) ×1
 
 ## 開発者向け情報
 

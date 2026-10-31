@@ -9,7 +9,7 @@
 
 数量が変化したとき、**その1回で増えた量**が次の値以上なら発動する（何度でも繰り返す）。画面には表示されない。
 
-- [<span class="wiki-icon">🛍️</span>エコバッグ](/ja/item/eco-bag) ×1
+- [<img class="wiki-icon" src="assets/icon/1573065dab7cb0f0.svg" alt="">エコバッグ](/ja/item/eco-bag) ×1
 
 ## 報酬
 

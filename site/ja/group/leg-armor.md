@@ -9,25 +9,25 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧦</span>臭う靴下](/ja/item/smelly-socks) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 3 |
-| [<span class="wiki-icon">🩴</span>スリッパ](/ja/item/slippers) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 3 |
-| [<span class="wiki-icon">👞</span>木靴](/ja/item/wooden-clogs) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 6 |
-| [<span class="wiki-icon">🧦</span>レッグウォーマー](/ja/item/leg-warmer) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 18 |
-| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/item/cowboy-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 9 |
-| [<span class="wiki-icon">👞</span>安全靴](/ja/item/safety-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 27 |
-| [<span class="wiki-icon">🏊</span>浮き輪](/ja/item/swim-ring) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 36 |
-| [<span class="wiki-icon">👟</span>音が鳴る靴](/ja/item/squeaky-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 36 |
-| [<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 45 |
-| [<span class="wiki-icon">🧦</span>絹の足袷](/ja/item/silk-leggings) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 135 |
-| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/item/leather-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 162 |
-| [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/item/iron-greaves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 162 |
-| [<span class="wiki-icon">👠</span>ハイヒール](/ja/item/high-heels) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 189 |
-| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/item/kick-boost-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 567 |
-| [<span class="wiki-icon">👠</span>ガラスの靴](/ja/item/glass-slipper) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 648 |
-| [<span class="wiki-icon">🐇</span>ウサギ尻尾](/ja/item/rabbit-tail) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 648 |
-| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/item/odm-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 2,187 |
-| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/item/winged-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 2,430 |
-| [<span class="wiki-icon">⭐</span>ワープスター](/ja/item/warp-star) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 21,870 |
+| [<img class="wiki-icon" src="assets/icon/da012127f6ed247b.svg" alt="">臭う靴下](/ja/item/smelly-socks) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 3 |
+| [<img class="wiki-icon" src="assets/icon/85a5eb144a623cc8.svg" alt="">スリッパ](/ja/item/slippers) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 3 |
+| [<span class="wiki-icon">👞</span>木靴](/ja/item/wooden-clogs) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 6 |
+| [<span class="wiki-icon">🧦</span>レッグウォーマー](/ja/item/leg-warmer) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 18 |
+| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/item/cowboy-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 9 |
+| [<span class="wiki-icon">👞</span>安全靴](/ja/item/safety-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 27 |
+| [<span class="wiki-icon">🏊</span>浮き輪](/ja/item/swim-ring) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 36 |
+| [<span class="wiki-icon">👟</span>音が鳴る靴](/ja/item/squeaky-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 36 |
+| [<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 45 |
+| [<span class="wiki-icon">🧦</span>絹の足袷](/ja/item/silk-leggings) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 135 |
+| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/item/leather-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 162 |
+| [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/item/iron-greaves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 162 |
+| [<span class="wiki-icon">👠</span>ハイヒール](/ja/item/high-heels) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 189 |
+| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/item/kick-boost-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 567 |
+| [<span class="wiki-icon">👠</span>ガラスの靴](/ja/item/glass-slipper) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 648 |
+| [<span class="wiki-icon">🐇</span>ウサギ尻尾](/ja/item/rabbit-tail) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 648 |
+| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/item/odm-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 2,187 |
+| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/item/winged-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 2,430 |
+| [<span class="wiki-icon">⭐</span>ワープスター](/ja/item/warp-star) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 21,870 |
 
 ## 開発者向け情報
 

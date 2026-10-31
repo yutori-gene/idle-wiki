@@ -1,6 +1,6 @@
 # 加護
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">加護</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">😇</span></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>回復+4</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">加護</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/5eb28ad72ed965e5.svg" alt=""></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>回復+4</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 誰かが見てくれている、という思い込み。
 
@@ -17,9 +17,9 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🏠</span>自宅警備員](/ja/action/shut-in-guard) | [<span class="wiki-icon">🌳</span>公園](/ja/category/park) | Lv5 |
+| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 |
 | [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 |
-| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<span class="wiki-icon">☁️</span>天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
 
 ## このスキルを持つ装備
 
@@ -48,7 +48,7 @@
 		"icon": {
 			"emoji": "😇",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/5eb28ad72ed965e5.svg）"
 		},
 		"color": ""
 	},

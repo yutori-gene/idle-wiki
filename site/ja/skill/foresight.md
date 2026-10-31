@@ -1,6 +1,6 @@
 # 先読み
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">先読み</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👁️</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>精度+6・回避+8</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">先読み</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/58401ee48ed166a9.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>精度+6・回避+8</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 当たる前に、当たらない場所へ動いている。
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "👁️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/58401ee48ed166a9.svg）"
 		},
 		"color": ""
 	},

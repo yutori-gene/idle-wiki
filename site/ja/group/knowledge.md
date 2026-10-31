@@ -7,21 +7,21 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">💭</span>想像力](/ja/item/imagination) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">🎯</span>集中力](/ja/item/concentration) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">📰</span>時事知識](/ja/item/current-affairs) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">💗</span>感受性](/ja/item/sensitivity) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">📖</span>読解力](/ja/item/reading-comprehension) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">💪</span>自信](/ja/item/confidence) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🔪</span>残忍な心](/ja/item/cruel-heart) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🛸</span>陰謀論](/ja/item/conspiracy-theory) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">✂️</span>切り抜き文字の脅迫文](/ja/item/cut-out-threat-letter) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🦁</span>度胸](/ja/item/nerve) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">👀</span>野次馬心](/ja/item/rubbernecking) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🤨</span>猜疑心](/ja/item/suspicion) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🦚</span>虚勢](/ja/item/bravado) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 | [<span class="wiki-icon">🦊</span>悪知恵](/ja/item/cunning) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 | [<span class="wiki-icon">📜</span>歴史知識](/ja/item/history-knowledge) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">🧮</span>計算力](/ja/item/calculation) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">⚕️</span>医学知識](/ja/item/medical-knowledge) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 
 ## 開発者向け情報
 

@@ -6,6 +6,7 @@ import type { Notes } from "../lib/notes.ts";
 import type { PageType } from "../lib/label.ts";
 import { details, escapeHtml, escapeMarkdown, join, link, number, percent, section, table } from "../lib/format.ts";
 import { findHeading } from "../lib/document.ts";
+import { imageFile } from "../lib/image.ts";
 import { calculateActionStats, expectedAcquisition, expectedConsumption, type ActionStats } from "../lib/calc.ts";
 
 export interface Context {
@@ -178,21 +179,31 @@ export function developerSection(context: Context, csvName: "category" | "action
 	const rows: string[][] = [["id", `\`${id}\``]];
 	for (const [key, value] of Object.entries(raw)) {
 		if (typeof value === "object") continue;
-		rows.push([`\`${key}\``, value === "" ? "（空）" : `\`${escapeMarkdown(String(value))}\``]);
+		const image = typeof value === "string" ? imageFile(value) : undefined;
+		const cell = value === "" ? "（空）" : image ? `<a href="${image.file}" target="_blank">画像</a>（data URI）` : `\`${escapeMarkdown(String(value))}\``;
+		rows.push([`\`${key}\``, cell]);
 	}
 	if (row) for (const column of CSV_ONLY_COLUMNS) if (row[column]) rows.push([`CSV \`${column}\``, escapeMarkdown(row[column])]);
 
 	const referenceLinks = designReferenceLinks(context, references);
-	const json = "```json\n" + JSON.stringify(raw, null, "\t") + "\n```";
 	return section(
 		"開発者向け情報",
 		join(
 			table(["項目", "値"], rows),
 			referenceLinks ? `**設計ドキュメント**: ${referenceLinks}` : "",
 			extra,
-			details("ワールド定義（JSON）", json),
+			details("ワールド定義（JSON）", rawJson(raw)),
 		),
 	);
+}
+
+/** ワールド定義の生の JSON（コードブロック）。data URI の画像は長いので、書き出したファイルの場所に置き換えて載せる（RULES.md「表記」） */
+export function rawJson(raw: object): string {
+	const replacer = (_key: string, value: unknown): unknown => {
+		const image = typeof value === "string" ? imageFile(value) : undefined;
+		return image ? `（data URI の画像。site/${image.file}）` : value;
+	};
+	return "```json\n" + JSON.stringify(raw, replacer, "\t") + "\n```";
 }
 
 /** 「plan.md#見出し」の一覧を、開発者ページ内の見出しへのリンクにする。見つからない見出しは警告 */

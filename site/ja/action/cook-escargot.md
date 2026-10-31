@@ -1,6 +1,6 @@
 # エスカルゴ
 
-<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">エスカルゴ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐌</span></div><table><tr><th>場所</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cooking"><span class="wiki-icon">🍽️</span>料理</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv16</td></tr><tr><th>所要時間</th><td>2分</td></tr><tr><th>成功率</th><td>60%</td></tr><tr><th>経験値</th><td>66</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">エスカルゴ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐌</span></div><table><tr><th>場所</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cooking"><img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv16</td></tr><tr><th>所要時間</th><td>2分</td></tr><tr><th>成功率</th><td>60%</td></tr><tr><th>経験値</th><td>66</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 殻ごとバターで焼く。ガーリックが決め手で、中身は二の次。
 
@@ -11,7 +11,7 @@
 
 - [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv16以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🍳</span>フライパン](/ja/item/frying-pan) ×1（消費しない）
-- [<span class="wiki-icon">🐌</span>カタツムリ](/ja/item/snail) ×3（消費する）
+- [<img class="wiki-icon" src="assets/icon/50dbac7e9c9b6a33.svg" alt="">カタツムリ](/ja/item/snail) ×3（消費する）
 - [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) ×5（消費する）
 - [<span class="wiki-icon">🛢️</span>油](/ja/item/oil) ×3（消費する）
 - [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) ×2（消費する）
@@ -41,7 +41,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 740,664 | 3,360 | 737,304 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 740,664 | 3,360 | 737,304 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

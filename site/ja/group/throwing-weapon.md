@@ -9,13 +9,13 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌰</span>どんぐりショット](/ja/item/acorn-shot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 3 |
-| [<span class="wiki-icon">🐝</span>ハチ](/ja/item/bee) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 9 |
+| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 3 |
+| [<img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ](/ja/item/bee) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 9 |
 | [<span class="wiki-icon">🎯</span>吹き矢](/ja/item/blowgun) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 6 |
 | [<span class="wiki-icon">🎯</span>ダーツ](/ja/item/dart) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 18 |
 | [<span class="wiki-icon">⛄</span>雪玉](/ja/item/snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 9 |
 | [<span class="wiki-icon">🧱</span>レンガ](/ja/item/brick) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 27 |
-| [<span class="wiki-icon">🎯</span>スリングショット](/ja/item/slingshot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 36 |
+| [<img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット](/ja/item/slingshot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 36 |
 | [<span class="wiki-icon">🎣</span>釣竿](/ja/item/fishing-rod) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 36 |
 | [<span class="wiki-icon">🐢</span>カメの甲羅](/ja/item/turtle-shell) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 45 |
 | [<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 135 |

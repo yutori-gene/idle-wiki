@@ -1,25 +1,25 @@
-﻿id,name,locked,explanation,emoji,color,group,tier,req-0-id,req-1-id,req-0-count,req-1-count,req-0-chance,req-1-chance,req-0-equipment,req-1-equipment,req-0-type,req-1-type,numeric,standaloneProgress,memo,feature
-park,公園,false,,🌳,#697852,ダンジョン,1,,,,,,,,,,,O,,,
-forest,森,true,,🌲,#426251,ダンジョン,2,公園,伝説のボール,20,,,,,,category,item,O,,,
-town,街,true,,🏙️,#856654,ダンジョン,3,森,森の精霊石,20,,,,,,category,item,O,,,
-sea,海,true,,🌊,#4a637d,ダンジョン,4,街,都市伝説の鍵,20,,,,,,category,item,O,,,
-northland,北国,true,,❄️,#6b8a92,ダンジョン,5,海,海神のトライデント,20,,,,,,category,item,O,,,
-factory,工場,true,,🏭,#717476,ダンジョン,6,北国,極夜の結晶,20,,,,,,category,item,O,,,
-volcano,火山,true,,🌋,#8f6059,ダンジョン,7,工場,永久機関,20,,,,,,category,item,O,,,
-castle,城,true,,🏰,#776a48,ダンジョン,8,火山,フェニックスの羽,20,,,,,,category,item,O,,,
-hell,地獄,true,,🔥,#6e4c5b,ダンジョン,9,城,王家の秘宝,20,,,,,,category,item,O,,,
-sky-garden,天空のお庭,true,,☁️,#9c95b5,ダンジョン,10,地獄,奈落の宝珠,20,,,,,,category,item,O,,,
-greenhouse,温室,true,,🌱,#849b88,拠点,,公園,,8,,,,,,category,,O,O,,Lv50まで連続で乗り継いで約70日の長期レーン。装備枠は1つ（畑の恵み：ミミズ／ニンニク）
-kitchen,台所,true,,🍳,#9b7d61,拠点,,森,,5,,,,,,category,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）。2026-10-30 に縮小して料理12・加工2・購入4の18本。調理器具4種は道具グループで装備不要（所持していれば使える）
-basement,地下室,true,,⚗️,#736883,拠点,,街,,3,,,,,,category,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）
-study,書斎,true,,📚,#64594c,拠点,,森,,7,,,,,,category,,O,O,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜48時間・成功率50〜100%。Lv50まで連続で約70日（独立レーン）
-warehouse,倉庫,true,,📦,#85837e,拠点,,公園,,4,,,,,,category,,,,,
-loft,ロフト,true,,🗃️,#886e67,拠点,,森,,9,,,,,,category,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）
-garden,庭,true,,🐾,#a58793,拠点,,森,,3,,,,,,category,,O,O,,Lv1〜50 に1本ずつ均等（tier順・遊ぶ18＋しつけ3の21本）。秒数30分〜12時間・成功率75〜100%（経験値と産出は時間あたりを保つ）。Lv50まで連続で約70日（独立レーン）。アクション名はペット（しつけは相手）の名前だけ。グループは persistent＝遊ぶ・stamina＝しつけ。しつけは attribute 空欄で庭に経験値が入り、1戦2〜4時間・装備なしでも負けない・産出はペット並み
-melee-weapon,近接武器,true,,⚔️,#606a74,装備管理,,公園,,6,,,,,,category,,O,,,
-throwing-weapon,投擲武器,true,,🎯,#656a5a,装備管理,,森,,11,,,,,,category,,O,,,
-explosive-weapon,爆発武器,true,,💣,#968358,装備管理,,街,,9,,,,,,category,,O,,,
-armor,防具,true,,🛡️,#3a4047,装備管理,,街,,5,,,,,,category,,,,,
-accessory,装飾,true,,💍,#886b86,装備管理,,街,,7,,,,,,category,,,,,
-bedroom,寝室,true,美術品を作って飾る部屋。壁・床・棚に1つずつ飾れて、飾った作品はすべてのカテゴリの経験値を増やす。,🛏️,#9196ab,拠点,,海,,4,,,,,,category,,,,,
-workshop,作業部屋,true,,🔧,#627777,拠点,,海,,6,,,,,,category,,O,,,部品と本体の組をLv1〜50 に均等（tier順）。部品2〜30分・本体2〜48時間、成功率は部品だけ50〜100%。Lv50まで連続で約146時間（排他レーン）
+﻿id,name,locked,explanation,emoji,color,group,tier,req-0-id,req-1-id,req-2-id,req-0-count,req-1-count,req-2-count,req-0-chance,req-1-chance,req-2-chance,req-0-equipment,req-1-equipment,req-2-equipment,req-0-type,req-1-type,req-2-type,numeric,standaloneProgress,memo,feature
+park,公園,false,,🌳,#697852,ダンジョン,1,,,,,,,,,,,,,,,,O,,,
+forest,森,true,,🌲,#426251,ダンジョン,2,公園,伝説のボール,,20,,,,,,,,,category,item,,O,,,
+town,街,true,,🏙️,#856654,ダンジョン,3,森,森の精霊石,,20,,,,,,,,,category,item,,O,,,
+sea,海,true,,🌊,#4a637d,ダンジョン,4,街,都市伝説の鍵,,20,,,,,,,,,category,item,,O,,,
+northland,北国,true,,❄️,#6b8a92,ダンジョン,5,海,海神のトライデント,隠された北国への道,20,,1,,,,,,,category,item,item,O,,,解禁条件に書斎の古びた地図から得る隠された北国への道を足した（海Lv20＋海神のトライデント＋隠された北国への道）
+factory,工場,true,,🏭,#717476,ダンジョン,6,北国,極夜の結晶,,20,,,,,,,,,category,item,,O,,,
+volcano,火山,true,,🌋,#8f6059,ダンジョン,7,工場,永久機関,,20,,,,,,,,,category,item,,O,,,
+castle,城,true,,🏰,#776a48,ダンジョン,8,火山,フェニックスの羽,,20,,,,,,,,,category,item,,O,,,
+hell,地獄,true,,🔥,#6e4c5b,ダンジョン,9,城,王家の秘宝,,20,,,,,,,,,category,item,,O,,,
+sky-garden,天空のお庭,true,,☁️,#9c95b5,ダンジョン,10,地獄,奈落の宝珠,,20,,,,,,,,,category,item,,O,,,
+greenhouse,温室,true,,🌱,#849b88,拠点,,公園,,,8,,,,,,,,,category,,,O,O,,Lv50まで連続で乗り継いで約70日の長期レーン。装備枠は1つ（畑の恵み：ミミズ／ニンニク）
+kitchen,台所,true,,🍳,#9b7d61,拠点,,森,,,5,,,,,,,,,category,,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）。2026-10-30 に縮小して料理12・加工2・購入4の18本。調理器具4種は道具グループで装備不要（所持していれば使える）
+basement,地下室,true,,⚗️,#736883,拠点,,街,,,3,,,,,,,,,category,,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）
+study,書斎,true,,📚,#64594c,拠点,,森,,,7,,,,,,,,,category,,,,O,,レベルなし（numeric=false・2026-10-30）。各読書は本＋題材の合う他カテゴリのLv（緩め）で開き、本の購入条件も同じ条件にそろえる。成功率は全て100%（ラブレターだけ50%で成功→青春の思い出／失敗→黒歴史）
+warehouse,倉庫,true,,📦,#85837e,拠点,,公園,,,4,,,,,,,,,category,,,,,,
+loft,ロフト,true,,🗃️,#886e67,拠点,,森,,,9,,,,,,,,,category,,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）
+garden,庭,true,,🐾,#a58793,拠点,,森,,,3,,,,,,,,,category,,,O,O,,Lv1〜50 に1本ずつ均等（tier順・遊ぶ18＋しつけ3の21本）。秒数30分〜12時間・成功率75〜100%（経験値と産出は時間あたりを保つ）。Lv50まで連続で約70日（独立レーン）。アクション名はペット（しつけは相手）の名前だけ。グループは persistent＝遊ぶ・stamina＝しつけ。しつけは attribute 空欄で庭に経験値が入り、1戦2〜4時間・装備なしでも負けない・産出はペット並み
+melee-weapon,近接武器,true,,⚔️,#606a74,装備管理,,公園,,,6,,,,,,,,,category,,,O,,,
+throwing-weapon,投擲武器,true,,🎯,#656a5a,装備管理,,森,,,11,,,,,,,,,category,,,O,,,
+explosive-weapon,爆発武器,true,,💣,#968358,装備管理,,街,,,9,,,,,,,,,category,,,O,,,
+armor,防具,true,,🛡️,#3a4047,装備管理,,街,,,5,,,,,,,,,category,,,,,,
+accessory,装飾,true,,💍,#886b86,装備管理,,街,,,7,,,,,,,,,category,,,,,,
+bedroom,寝室,true,美術品を作って飾る部屋。壁・床・棚に1つずつ飾れて、飾った作品はすべてのカテゴリの経験値を増やす。,🛏️,#9196ab,拠点,,海,,,4,,,,,,,,,category,,,,,,
+workshop,作業部屋,true,,🔧,#627777,拠点,,海,,,6,,,,,,,,,category,,,O,,,部品と本体の組をLv1〜50 に均等（tier順）。部品2〜30分・本体2〜48時間、成功率は部品だけ50〜100%。Lv50まで連続で約146時間（排他レーン）

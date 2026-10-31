@@ -11,7 +11,7 @@
 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | あり |
 | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | あり |
 | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | あり |
-| [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | あり |
+| [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | なし |
 | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | あり |
 | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | あり |
 | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | なし |

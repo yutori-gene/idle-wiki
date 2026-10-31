@@ -1,6 +1,6 @@
 # 鍛えた金属塊
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">鍛えた金属塊</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔩</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/recycled-material"><span class="wiki-icon">♻️</span>リサイクル素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>324 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">鍛えた金属塊</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔩</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/recycled-material"><span class="wiki-icon">♻️</span>リサイクル素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>324 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 中級の武器を分解して得られる金属。上級の武器の芯になる
 
@@ -11,15 +11,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏏</span>釘バット（分解）](/ja/action/disassemble-nail-bat) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv18 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">🦯</span>松葉杖（分解）](/ja/action/disassemble-crutch) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv19 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">💼</span>アタッシュケース（分解）](/ja/action/disassemble-attache-case) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv26 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🔨</span>ピコハンマー（分解）](/ja/action/disassemble-pico-hammer) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv26 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🎸</span>ギター（分解）](/ja/action/disassemble-guitar) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv29 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🔱</span>さすまた（分解）](/ja/action/disassemble-sasumata) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv32 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">⚔️</span>諸刃の剣（分解）](/ja/action/disassemble-double-edged-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv34 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🗡️</span>グラディウス（分解）](/ja/action/disassemble-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv37 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🎯</span>スリングショット（分解）](/ja/action/disassemble-slingshot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv18 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">🏏</span>釘バット（分解）](/ja/action/disassemble-nail-bat) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv18 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">🦯</span>松葉杖（分解）](/ja/action/disassemble-crutch) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv19 | 1 | 100% | 1 | 3 |
+| [<span class="wiki-icon">💼</span>アタッシュケース（分解）](/ja/action/disassemble-attache-case) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv26 | 1 | 100% | 1 | 2.4 |
+| [<span class="wiki-icon">🔨</span>ピコハンマー（分解）](/ja/action/disassemble-pico-hammer) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv26 | 1 | 100% | 1 | 2.4 |
+| [<img class="wiki-icon" src="assets/icon/2340975207585dcd.svg" alt="">ギター（分解）](/ja/action/disassemble-guitar) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv29 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">🔱</span>さすまた（分解）](/ja/action/disassemble-sasumata) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv32 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">⚔️</span>諸刃の剣（分解）](/ja/action/disassemble-double-edged-sword) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv34 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🗡️</span>グラディウス（分解）](/ja/action/disassemble-gladius) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv37 | 1 | 100% | 1 | 1.7 |
+| [<img class="wiki-icon" src="assets/icon/544e8847b2df524b.svg" alt="">スリングショット（分解）](/ja/action/disassemble-slingshot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv18 | 1 | 100% | 1 | 3 |
 | [<span class="wiki-icon">🎣</span>釣竿（分解）](/ja/action/disassemble-fishing-rod) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv18 | 1 | 100% | 1 | 3 |
 | [<span class="wiki-icon">🦔</span>ウニ（分解）](/ja/action/disassemble-sea-urchin) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv25 | 1 | 100% | 1 | 2.4 |
 | [<span class="wiki-icon">🐢</span>カメの甲羅（分解）](/ja/action/disassemble-turtle-shell) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv27 | 1 | 100% | 1 | 2.4 |
@@ -43,13 +43,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗡️</span>ムラマサ](/ja/action/craft-muramasa) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 2 | 100% |  |
-| [<span class="wiki-icon">🪄</span>封印の杖](/ja/action/craft-sealing-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 2 | 100% |  |
-| [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/action/craft-beam-saber) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv47 | 2 | 100% |  |
-| [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/action/craft-excalibur) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv49 | 2 | 100% |  |
-| [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/action/craft-key-blade) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">🪄</span>如意棒](/ja/action/craft-ruyi-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">⚔️</span>マスターソード](/ja/action/craft-master-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🗡️</span>ムラマサ](/ja/action/craft-muramasa) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv44 | 2 | 100% |  |
+| [<span class="wiki-icon">🪄</span>封印の杖](/ja/action/craft-sealing-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv44 | 2 | 100% |  |
+| [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/action/craft-beam-saber) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv47 | 2 | 100% |  |
+| [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/action/craft-excalibur) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv49 | 2 | 100% |  |
+| [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/action/craft-key-blade) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">🪄</span>如意棒](/ja/action/craft-ruyi-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
+| [<span class="wiki-icon">⚔️</span>マスターソード](/ja/action/craft-master-sword) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv50 | 2 | 100% |  |
 | [<span class="wiki-icon">🔴</span>モンスターボール](/ja/action/craft-monster-ball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv44 | 2 | 100% |  |
 | [<span class="wiki-icon">🔫</span>ロシアンルーレット](/ja/action/craft-russian-roulette) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv45 | 2 | 100% |  |
 | [<span class="wiki-icon">🎼</span>時のリコーダー](/ja/action/craft-recorder-of-time) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv45 | 2 | 100% |  |

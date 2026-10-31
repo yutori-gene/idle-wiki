@@ -1,22 +1,24 @@
 # 能力
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">能力</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">✨</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>10種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">能力</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">✨</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>12種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">😴</span>どこでも眠れる](/ja/item/sleep-anywhere) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">🌬️</span>呼吸の力](/ja/item/breathing-power) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">🔮</span>サイコキネシス](/ja/item/psychokinesis) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">🎖️</span>リーダーシップ](/ja/item/leadership) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🎩</span>エリート志向](/ja/item/elitism) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">💞</span>青春の思い出](/ja/item/youth-memory) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🫣</span>黒歴史](/ja/item/dark-past) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🗳️</span>清き一票](/ja/item/clean-vote) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 | [<span class="wiki-icon">🛡️</span>抗体](/ja/item/antibody) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🌧️</span>不幸](/ja/item/misfortune) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 | [<span class="wiki-icon">🔺</span>トライフォース](/ja/item/triforce) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 | [<span class="wiki-icon">🛡️</span>攻性防壁](/ja/item/attack-barrier) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">😈</span>悪魔信仰](/ja/item/devil-worship) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 | [<span class="wiki-icon">👁️</span>ニュータイプ](/ja/item/newtype) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
-| [<span class="wiki-icon">🩸</span>血鬼術](/ja/item/blood-demon-art) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 | [<span class="wiki-icon">✨</span>フォース](/ja/item/force) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
+| [<span class="wiki-icon">🌾</span>ライ麦](/ja/item/rye) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | 装備不要 | — |
 
 ## 開発者向け情報
 

@@ -9,20 +9,20 @@
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>鉄の棒](/ja/action/craft-iron-rod) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 単発 |
-| [<span class="wiki-icon">🔨</span>ハンマー](/ja/action/craft-hammer) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv16 | 単発 |
-| [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/action/craft-frozen-tuna) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv17 | 単発 |
-| [<span class="wiki-icon">🔱</span>さすまた](/ja/action/craft-sasumata) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv29 | 単発 |
-| [<span class="wiki-icon">🎸</span>ギター](/ja/action/craft-guitar) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv31 | 単発 |
-| [<span class="wiki-icon">🗡️</span>グラディウス](/ja/action/craft-gladius) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv33 | 単発 |
-| [<span class="wiki-icon">⚔️</span>諸刃の剣](/ja/action/craft-double-edged-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv37 | 単発 |
-| [<span class="wiki-icon">🗡️</span>ムラマサ](/ja/action/craft-muramasa) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 単発 |
-| [<span class="wiki-icon">🪄</span>封印の杖](/ja/action/craft-sealing-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv44 | 単発 |
-| [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/action/craft-beam-saber) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv47 | 単発 |
-| [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/action/craft-excalibur) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv49 | 単発 |
-| [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/action/craft-key-blade) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 単発 |
-| [<span class="wiki-icon">🪄</span>如意棒](/ja/action/craft-ruyi-staff) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 単発 |
-| [<span class="wiki-icon">⚔️</span>マスターソード](/ja/action/craft-master-sword) | [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | Lv50 | 単発 |
+| [<span class="wiki-icon">🔩</span>鉄の棒](/ja/action/craft-iron-rod) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv16 | 単発 |
+| [<span class="wiki-icon">🔨</span>ハンマー](/ja/action/craft-hammer) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv16 | 単発 |
+| [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/action/craft-frozen-tuna) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv17 | 単発 |
+| [<span class="wiki-icon">🔱</span>さすまた](/ja/action/craft-sasumata) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv29 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/67e01eae26cd6f03.svg" alt="">ギター](/ja/action/craft-guitar) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv31 | 単発 |
+| [<span class="wiki-icon">🗡️</span>グラディウス](/ja/action/craft-gladius) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv33 | 単発 |
+| [<span class="wiki-icon">⚔️</span>諸刃の剣](/ja/action/craft-double-edged-sword) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv37 | 単発 |
+| [<span class="wiki-icon">🗡️</span>ムラマサ](/ja/action/craft-muramasa) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv44 | 単発 |
+| [<span class="wiki-icon">🪄</span>封印の杖](/ja/action/craft-sealing-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv44 | 単発 |
+| [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/action/craft-beam-saber) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv47 | 単発 |
+| [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/action/craft-excalibur) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv49 | 単発 |
+| [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/action/craft-key-blade) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv50 | 単発 |
+| [<span class="wiki-icon">🪄</span>如意棒](/ja/action/craft-ruyi-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv50 | 単発 |
+| [<span class="wiki-icon">⚔️</span>マスターソード](/ja/action/craft-master-sword) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv50 | 単発 |
 | [<span class="wiki-icon">🧱</span>レンガ](/ja/action/craft-brick) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv13 | 単発 |
 | [<span class="wiki-icon">⛄</span>雪玉](/ja/action/craft-snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv14 | 単発 |
 | [<span class="wiki-icon">👊</span>ロケットパンチ](/ja/action/craft-rocket-punch) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv28 | 単発 |
@@ -36,45 +36,45 @@
 | [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/action/craft-stand-arrow) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 単発 |
 | [<span class="wiki-icon">🚀</span>マグロケット](/ja/action/craft-tuna-rocket) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 単発 |
 | [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/action/craft-spear-of-longinus) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv50 | 単発 |
-| [<span class="wiki-icon">🎓</span>学ラン](/ja/action/craft-gakuran) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 単発 |
-| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/action/craft-cowboy-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv13 | 単発 |
-| [<span class="wiki-icon">⚓</span>セーラー服](/ja/action/craft-sailor-uniform) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 単発 |
-| [<span class="wiki-icon">🧤</span>軍手](/ja/action/craft-work-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 単発 |
-| [<span class="wiki-icon">🐾</span>ネコの手](/ja/action/craft-cat-paw) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv15 | 単発 |
-| [<span class="wiki-icon">👞</span>安全靴](/ja/action/craft-safety-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 単発 |
-| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/action/craft-chef-hat) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv16 | 単発 |
-| [<span class="wiki-icon">😷</span>マスク](/ja/action/craft-mask) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv17 | 単発 |
-| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/action/craft-leather-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv29 | 単発 |
-| [<span class="wiki-icon">🧤</span>革の手袋](/ja/action/craft-leather-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv29 | 単発 |
-| [<span class="wiki-icon">🥽</span>スカウター](/ja/action/craft-scouter) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv29 | 単発 |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/action/craft-chainmail) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv30 | 単発 |
-| [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/action/craft-crab-claw) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv30 | 単発 |
-| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/action/craft-bulletproof-vest) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv31 | 単発 |
-| [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/action/craft-iron-greaves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv31 | 単発 |
-| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/action/craft-iron-helmet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv32 | 単発 |
-| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/action/craft-bikini-armor) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv33 | 単発 |
-| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/action/craft-kick-boost-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv33 | 単発 |
-| [<span class="wiki-icon">⏰</span>麻酔時計](/ja/action/craft-anesthetic-watch) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv34 | 単発 |
-| [<span class="wiki-icon">👠</span>ハイヒール](/ja/action/craft-high-heels) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 単発 |
-| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/action/craft-iron-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 単発 |
-| [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/action/craft-pumpkin-head) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv36 | 単発 |
-| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/action/craft-iron-breastplate) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv37 | 単発 |
-| [<span class="wiki-icon">🎎</span>だるま](/ja/action/craft-daruma) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv37 | 単発 |
-| [<span class="wiki-icon">👘</span>神衣](/ja/action/craft-god-robe) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv43 | 単発 |
-| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/action/craft-odm-boots) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv43 | 単発 |
-| [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/action/craft-jade-hairpin) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv43 | 単発 |
-| [<span class="wiki-icon">🛡️</span>矛盾](/ja/action/craft-contradiction) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv44 | 単発 |
-| [<span class="wiki-icon">⚫</span>虚無のリング](/ja/action/craft-void-ring) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv46 | 単発 |
-| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/action/craft-plug-suit) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv47 | 単発 |
-| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/action/craft-box-gundam) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv48 | 単発 |
-| [<span class="wiki-icon">⭐</span>ワープスター](/ja/action/craft-warp-star) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv48 | 単発 |
-| [<span class="wiki-icon">👁️</span>写輪眼](/ja/action/craft-sharingan) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv49 | 単発 |
-| [<span class="wiki-icon">👘</span>聖衣](/ja/action/craft-holy-cloth) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 単発 |
-| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/action/craft-winged-shoes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 単発 |
-| [<span class="wiki-icon">👁️</span>六眼の瞳](/ja/action/craft-six-eyes) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 単発 |
-| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/action/craft-crystal-skull) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 単発 |
-| [<span class="wiki-icon">😇</span>天使の輪](/ja/action/craft-halo) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 単発 |
-| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/action/craft-infinity-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv50 | 単発 |
+| [<span class="wiki-icon">🎓</span>学ラン](/ja/action/craft-gakuran) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 単発 |
+| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/action/craft-cowboy-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 単発 |
+| [<span class="wiki-icon">⚓</span>セーラー服](/ja/action/craft-sailor-uniform) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv15 | 単発 |
+| [<span class="wiki-icon">🧤</span>軍手](/ja/action/craft-work-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv15 | 単発 |
+| [<span class="wiki-icon">🐾</span>ネコの手](/ja/action/craft-cat-paw) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv15 | 単発 |
+| [<span class="wiki-icon">👞</span>安全靴](/ja/action/craft-safety-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv16 | 単発 |
+| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/action/craft-chef-hat) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv16 | 単発 |
+| [<span class="wiki-icon">😷</span>マスク](/ja/action/craft-mask) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv17 | 単発 |
+| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/action/craft-leather-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv29 | 単発 |
+| [<span class="wiki-icon">🧤</span>革の手袋](/ja/action/craft-leather-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv29 | 単発 |
+| [<span class="wiki-icon">🥽</span>スカウター](/ja/action/craft-scouter) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv29 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/6accad515defd7f8.svg" alt="">チェインメイル](/ja/action/craft-chainmail) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv30 | 単発 |
+| [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/action/craft-crab-claw) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv30 | 単発 |
+| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/action/craft-bulletproof-vest) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv31 | 単発 |
+| [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/action/craft-iron-greaves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv31 | 単発 |
+| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/action/craft-iron-helmet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv32 | 単発 |
+| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/action/craft-bikini-armor) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv33 | 単発 |
+| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/action/craft-kick-boost-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv33 | 単発 |
+| [<span class="wiki-icon">⏰</span>麻酔時計](/ja/action/craft-anesthetic-watch) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv34 | 単発 |
+| [<span class="wiki-icon">👠</span>ハイヒール](/ja/action/craft-high-heels) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv36 | 単発 |
+| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/action/craft-iron-gauntlet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv36 | 単発 |
+| [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/action/craft-pumpkin-head) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv36 | 単発 |
+| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/action/craft-iron-breastplate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv37 | 単発 |
+| [<span class="wiki-icon">🎎</span>だるま](/ja/action/craft-daruma) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv37 | 単発 |
+| [<span class="wiki-icon">👘</span>神衣](/ja/action/craft-god-robe) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv43 | 単発 |
+| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/action/craft-odm-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv43 | 単発 |
+| [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/action/craft-jade-hairpin) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv43 | 単発 |
+| [<span class="wiki-icon">🛡️</span>矛盾](/ja/action/craft-contradiction) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv44 | 単発 |
+| [<span class="wiki-icon">⚫</span>虚無のリング](/ja/action/craft-void-ring) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv46 | 単発 |
+| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/action/craft-plug-suit) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv47 | 単発 |
+| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/action/craft-box-gundam) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv48 | 単発 |
+| [<span class="wiki-icon">⭐</span>ワープスター](/ja/action/craft-warp-star) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv48 | 単発 |
+| [<span class="wiki-icon">👁️</span>写輪眼](/ja/action/craft-sharingan) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv49 | 単発 |
+| [<span class="wiki-icon">👘</span>聖衣](/ja/action/craft-holy-cloth) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 単発 |
+| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/action/craft-winged-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 単発 |
+| [<span class="wiki-icon">👁️</span>六眼の瞳](/ja/action/craft-six-eyes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 単発 |
+| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/action/craft-crystal-skull) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 単発 |
+| [<span class="wiki-icon">😇</span>天使の輪](/ja/action/craft-halo) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 単発 |
+| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/action/craft-infinity-gauntlet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 単発 |
 | [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/action/craft-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv13 | 単発 |
 | [<span class="wiki-icon">⌚</span>スマートリング](/ja/action/craft-smart-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv14 | 単発 |
 | [<span class="wiki-icon">🪪</span>認証バッジ](/ja/action/craft-verified-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv14 | 単発 |

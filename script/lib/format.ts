@@ -2,6 +2,7 @@
 import type * as Type from "../../source/type/worldType.ts";
 import type { Model } from "./model.ts";
 import type { PageType } from "./label.ts";
+import { imageFile } from "./image.ts";
 
 export function escapeHtml(text: string): string {
 	return text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -17,13 +18,14 @@ export function escapeMarkdown(text: string): string {
 }
 
 /**
- * アイコンの HTML。優先順は image → iconify → emoji（いずれ SVG などの画像へ置き換わる前提で、表示はここ1か所に寄せる）。
- * image は URL・data URI ならそのまま、それ以外はサイトの assets/world/ からの相対パスとみなす
+ * アイコンの HTML。優先順は image → iconify → emoji（表示はここ1か所に寄せる）。
+ * image は URL ならそのまま、data URI は assets/icon/ に書き出したファイル（image.ts）、それ以外はサイトの assets/world/ からの相対パスとみなす
  */
 export function icon(information: Type.Information, className = "wiki-icon"): string {
 	const { image, iconify, emoji } = information.icon;
 	if (image) {
-		const source = /^(https?:|data:)/.test(image) ? image : `assets/world/${image}`;
+		// 書き出せない形式の data URI だけはそのまま埋め込む
+		const source = image.startsWith("data:") ? (imageFile(image)?.file ?? image) : /^https?:/.test(image) ? image : `assets/world/${image}`;
 		return `<img class="${className}" src="${escapeHtml(source)}" alt="">`;
 	}
 	if (iconify) {

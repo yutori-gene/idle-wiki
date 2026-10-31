@@ -1,6 +1,6 @@
 # ネクロマンサー
 
-<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">ネクロマンサー</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💀</span></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><span class="wiki-icon">⚔️</span>討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv39</td></tr><tr><th>所要時間</th><td>1.9秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.09</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">ネクロマンサー</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💀</span></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv39</td></tr><tr><th>所要時間</th><td>1.9秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.09</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 死者を操る闇の術師。
 
@@ -15,7 +15,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦴</span>ネズミの骨](/ja/item/rat-bone) ×1 | 成功時 | 2.22% | 0.011 | 0.064 |
+| [<img class="wiki-icon" src="assets/icon/9c9bdad1ea627e76.svg" alt="">ネズミの骨](/ja/item/rat-bone) ×1 | 成功時 | 2.22% | 0.011 | 0.064 |
 | [<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) ×1 | 成功時 | 0.396% | 0.002 | 0.011 |
 | [<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) ×1 | 成功時 | 0.041% | 0 | 0.001 |
 | [<span class="wiki-icon">👘</span>僧侶の法衣](/ja/item/priest-robe) ×1 | 成功時 | 0.041% | 0 | 0.001 |
@@ -61,7 +61,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 25 | 0 | 25 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 25 | 0 | 25 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

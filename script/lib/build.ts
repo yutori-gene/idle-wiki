@@ -5,6 +5,7 @@ import { Model } from "./model.ts";
 import { Notes } from "./notes.ts";
 import { escapeMarkdown, join } from "./format.ts";
 import { labels } from "./label.ts";
+import { imageFiles, type ImageFile } from "./image.ts";
 import type { Context, Page, SearchEntry } from "../page/common.ts";
 import { categoryPages } from "../page/category.ts";
 import { actionPages } from "../page/action.ts";
@@ -25,6 +26,8 @@ export interface BuildResult {
 	languages: Build[];
 	/** 言語の外に置く生成物（site/ からの相対パス → 中身） */
 	rootFiles: { file: string; body: string }[];
+	/** data URI から書き出す画像（site/assets/icon/ はまるごと生成物） */
+	images: ImageFile[];
 }
 
 function buildLanguage(language: Language): Build {
@@ -89,5 +92,6 @@ export function build(): BuildResult {
 			...rootPages.map((page) => ({ file: `${page.path}.md`, body: page.body })),
 			{ file: "assets/config.js", body: `// 生成物（npm run wiki-generate）。手で編集しない\nwindow.WIKI_CONFIG = ${JSON.stringify(config, null, "\t")};\n` },
 		],
+		images: imageFiles(world),
 	};
 }

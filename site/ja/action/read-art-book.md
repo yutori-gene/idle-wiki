@@ -1,6 +1,6 @@
 # 美術書
 
-<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">美術書</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎨</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv19</td></tr><tr><th>所要時間</th><td>6時間</td></tr><tr><th>成功率</th><td>80%</td></tr><tr><th>経験値</th><td>565</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">美術書</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/ee7e33f0999701d6.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>6時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>1回</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 眺めているだけで、良し悪しの線が見えるようになる。
 
@@ -9,8 +9,8 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">📚</span>書斎](/ja/category/study) Lv19以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🎨</span>美術書](/ja/item/art-book) ×1（消費する）
+- [<img class="wiki-icon" src="assets/icon/021123683021700b.svg" alt="">美術書](/ja/item/art-book) ×1（消費する）
+- [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv4以上
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,22 +18,19 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) ×1 | 成功時 | 100% | 0.8 | 0.133 |
+| [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) ×1 | 成功時 | 100% | 1 | 0.167 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 80%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv19） | 6時間 | 80% | 565 | 0.2 | 75 |
-| +10（Lv29） | 4時間53分 | 85.7% | 376.67 | 0.2 | 66 |
-| +20（Lv39） | 4時間 | 90% | 251.11 | 0.3 | 57 |
-| +30（Lv49） | 3時間15分 | 93.1% | 167.41 | 0.3 | 48 |
+| — | 6時間 | 100% | — | 0.2 | — |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。
+経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
 
-<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">書斎のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/read-fairy-tale"><span class="wiki-icon">📙</span>童話</a> ・ <a href="#/ja/action/read-picture-book"><span class="wiki-icon">📖</span>絵本</a> ・ <a href="#/ja/action/read-manga"><span class="wiki-icon">📚</span>漫画</a> ・ <a href="#/ja/action/read-newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/action/reread-diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/action/read-license"><span class="wiki-icon">🪪</span>免許証</a> ・ <a href="#/ja/action/read-novel"><span class="wiki-icon">📗</span>小説</a> ・ <a href="#/ja/action/read-self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/action/read-love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/action/read-art-book"><span class="wiki-icon">🎨</span>美術書</a> ・ <a href="#/ja/action/read-encyclopedia"><span class="wiki-icon">📚</span>百科事典</a> ・ <a href="#/ja/action/fraud-clinical-studies"><span class="wiki-icon">📕</span>詐欺臨床学</a> ・ <a href="#/ja/action/read-ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/action/read-recipe-book"><span class="wiki-icon">📗</span>レシピ本</a> ・ <a href="#/ja/action/read-chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/action/read-map"><span class="wiki-icon">🗺️</span>地図</a> ・ <a href="#/ja/action/read-history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/action/read-bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/action/read-math-book"><span class="wiki-icon">📐</span>数学書</a> ・ <a href="#/ja/action/read-anatomy-book"><span class="wiki-icon">📕</span>医学書「解体新書」</a> ・ <a href="#/ja/action/read-forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/action/read-death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/action/read-necronomicon"><span class="wiki-icon">📕</span>ネクロノミコン</a> ・ <a href="#/ja/action/cosmic-truth-studies"><span class="wiki-icon">🌌</span>宇宙真理学</a> ・ <a href="#/ja/action/read-catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
+<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">書斎のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/read-fairy-tale"><span class="wiki-icon">📙</span>グリム童話</a> ・ <a href="#/ja/action/read-picture-book"><img class="wiki-icon" src="assets/icon/00c8d9e334dcf056.svg" alt="">飛び出す絵本</a> ・ <a href="#/ja/action/read-manga"><span class="wiki-icon">📚</span>不健全図書</a> ・ <a href="#/ja/action/read-newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/action/reread-diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/action/read-novel"><span class="wiki-icon">📗</span>探偵小説</a> ・ <a href="#/ja/action/read-self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/action/read-love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/action/read-gossip-magazine"><span class="wiki-icon">🗞️</span>ゴシップ誌</a> ・ <a href="#/ja/action/read-art-book"><img class="wiki-icon" src="assets/icon/ee7e33f0999701d6.svg" alt="">美術書</a> ・ <a href="#/ja/action/read-encyclopedia"><span class="wiki-icon">📚</span>百科事典</a> ・ <a href="#/ja/action/fraud-clinical-studies"><span class="wiki-icon">📒</span>裏帳簿</a> ・ <a href="#/ja/action/read-ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/action/read-recipe-book"><span class="wiki-icon">📗</span>今夜のおかず🎶レシピ集</a> ・ <a href="#/ja/action/read-chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/action/read-map"><span class="wiki-icon">🗺️</span>古びた地図</a> ・ <a href="#/ja/action/read-history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/action/read-bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/action/read-anatomy-book"><span class="wiki-icon">📕</span>解剖学書</a> ・ <a href="#/ja/action/read-forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/action/read-death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/action/cosmic-truth-studies"><span class="wiki-icon">📜</span>死海文書</a> ・ <a href="#/ja/action/read-catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
 
 ## 開発者向け情報
 
@@ -44,11 +41,11 @@
 | `attribute` | （空） |
 | `group` | `reading` |
 | `unlocked` | `hidden` |
-| `level` | `19` |
-| `experience` | `565` |
+| `level` | `1` |
+| `experience` | `0` |
 | `seconds` | `21600` |
-| `chance` | `0.8` |
-| `maximum` | `0` |
+| `chance` | `1` |
+| `maximum` | `1` |
 | `progressType` | `single` |
 | CSV `tier` | 2 |
 
@@ -65,7 +62,7 @@
 		"icon": {
 			"emoji": "🎨",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/ee7e33f0999701d6.svg）"
 		},
 		"color": ""
 	},
@@ -73,16 +70,23 @@
 	"attribute": "",
 	"group": "reading",
 	"unlocked": "hidden",
-	"level": 19,
-	"experience": 565,
+	"level": 1,
+	"experience": 0,
 	"seconds": 21600,
-	"chance": 0.8,
-	"maximum": 0,
+	"chance": 1,
+	"maximum": 1,
 	"requirements": [
 		{
 			"type": "item",
 			"id": "art-book",
 			"count": 1,
+			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "category",
+			"id": "park",
+			"count": 4,
 			"chance": 1,
 			"equipment": false
 		}

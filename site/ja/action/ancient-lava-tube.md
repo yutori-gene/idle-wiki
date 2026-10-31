@@ -1,6 +1,6 @@
 # 古代の溶岩洞
 
-<div class="wiki-infobox" style="--accent:#8f6059"><div class="wiki-infobox-title">古代の溶岩洞</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌋</span></div><table><tr><th>場所</th><td><a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explore"><span class="wiki-icon">🔦</span>探索</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>3時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,600</td></tr><tr><th>最大回数</th><td>1回</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#8f6059"><div class="wiki-infobox-title">古代の溶岩洞</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌋</span></div><table><tr><th>場所</th><td><a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explore"><img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>3時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,600</td></tr><tr><th>最大回数</th><td>1回</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 冷え固まった溶岩のトンネル。
 
@@ -15,11 +15,11 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📕</span>医学書「解体新書」](/ja/item/anatomy-book) ×1 | 成功時 | 100% | 1 | 0.286 |
+| [<span class="wiki-icon">📕</span>解剖学書](/ja/item/anatomy-book) ×1 | 成功時 | 100% | 1 | 0.286 |
 | [<span class="wiki-icon">⚰️</span>棺桶](/ja/item/coffin) ×1 | 成功時 | 100% | 1 | 0.286 |
 | [<span class="wiki-icon">📐</span>ドワーフの設計図](/ja/item/dwarf-blueprint) ×2 | 成功時 | 100% | 2 | 0.571 |
 | [<span class="wiki-icon">⚫</span>黒曜石](/ja/item/obsidian) ×2 | 成功時 | 41.8% | 0.836 | 0.239 |
-| [<span class="wiki-icon">🧱</span>耐熱レンガ](/ja/item/heatproof-brick) ×1 | 成功時 | 31.1% | 0.311 | 0.089 |
+| [<img class="wiki-icon" src="assets/icon/0e603d9eeb962681.svg" alt="">耐熱レンガ](/ja/item/heatproof-brick) ×1 | 成功時 | 31.1% | 0.311 | 0.089 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -38,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 554 | 0 | 554 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 554 | 0 | 554 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

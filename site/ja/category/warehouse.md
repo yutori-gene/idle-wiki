@@ -11,7 +11,7 @@
 
 次をすべて満たすと解放される。
 
-- [<span class="wiki-icon">🌳</span>公園](/ja/category/park) Lv4以上
+- [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv4以上
 
 ## 管理するアイテム
 
@@ -21,220 +21,220 @@
 
 | アイテム | グループ | 装備 | 売値 | 買値 |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍋</span>レモン](/ja/item/lemon) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 1 | 2 |
-| [<span class="wiki-icon">🍚</span>砂糖](/ja/item/sugar) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 1 | 2 |
-| [<span class="wiki-icon">🍀</span>四つ葉のクローバー](/ja/item/four-leaf-clover) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🍂</span>落ち葉](/ja/item/fallen-leaf) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🪨</span>石ころ](/ja/item/stone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🌿</span>雑草](/ja/item/weed) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 3 | 6 |
-| [<span class="wiki-icon">🦴</span>小さな骨](/ja/item/small-bone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🐦</span>スズメ](/ja/item/sparrow) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🕊️</span>ハト](/ja/item/pigeon) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🐞</span>テントウムシ](/ja/item/ladybug) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">💐</span>花束](/ja/item/bouquet) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🪶</span>鳥の羽根](/ja/item/bird-feather) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">☀️</span>日時計](/ja/item/sundial) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 2 | 4 |
-| [<span class="wiki-icon">🟫</span>革](/ja/item/leather) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 2 | 4 |
-| [<span class="wiki-icon">🌿</span>苔](/ja/item/moss) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 2 | 4 |
-| [<span class="wiki-icon">🥀</span>枯れ枝](/ja/item/dead-branch) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 2 | — |
-| [<span class="wiki-icon">🌿</span>シダ](/ja/item/fern) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 2 | — |
-| [<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 2 | 4 |
-| [<span class="wiki-icon">🕸️</span>クモの巣](/ja/item/spider-web) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 2 | — |
-| [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | 12 |
-| [<span class="wiki-icon">🎈</span>風船](/ja/item/balloon) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | 12 |
-| [<span class="wiki-icon">💪</span>上腕二頭筋](/ja/item/biceps) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | 12 |
-| [<span class="wiki-icon">🛢️</span>油](/ja/item/oil) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | 12 |
-| [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | 12 |
-| [<span class="wiki-icon">🪨</span>火打石](/ja/item/flint) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🪲</span>クワガタ](/ja/item/stag-beetle) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🦋</span>チョウ](/ja/item/butterfly) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 18 | 36 |
-| [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 18 | — |
-| [<span class="wiki-icon">🐺</span>狼の毛皮](/ja/item/wolf-pelt) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 18 | — |
-| [<span class="wiki-icon">🍄</span>マツタケ](/ja/item/matsutake) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 18 | — |
-| [<span class="wiki-icon">🍯</span>樹液](/ja/item/tree-sap) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 18 | 36 |
-| [<span class="wiki-icon">🐿️</span>リス](/ja/item/squirrel) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 18 | — |
-| [<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 54 | 108 |
-| [<span class="wiki-icon">🍄</span>巨大キノコ](/ja/item/giant-mushroom) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 54 | 108 |
-| [<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 54 | 108 |
-| [<span class="wiki-icon">🦉</span>フクロウ](/ja/item/owl) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 54 | — |
-| [<span class="wiki-icon">🍉</span>スイカ](/ja/item/watermelon) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 162 | — |
-| [<span class="wiki-icon">📄</span>チラシ](/ja/item/flyer) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 3 | 6 |
-| [<span class="wiki-icon">🪙</span>小銭](/ja/item/small-change) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">📰</span>新聞紙](/ja/item/newspaper-sheet) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🛍️</span>ビニール袋](/ja/item/plastic-bag) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 3 | 6 |
-| [<span class="wiki-icon">📼</span>ガムテープ](/ja/item/duct-tape) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | 18 |
-| [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | 54 |
-| [<span class="wiki-icon">🐈</span>野良猫の首輪](/ja/item/stray-cat-collar) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | 54 |
-| [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 81 | 162 |
-| [<span class="wiki-icon">👑</span>ネズミの王冠](/ja/item/rat-crown) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 81 | — |
-| [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 4 | — |
-| [<span class="wiki-icon">🪨</span>砂浜の石](/ja/item/beach-stone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 4 | — |
-| [<span class="wiki-icon">🫧</span>海泡](/ja/item/sea-foam) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 4 | — |
-| [<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 12 | — |
-| [<span class="wiki-icon">🦈</span>サメ](/ja/item/shark) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 12 | — |
-| [<span class="wiki-icon">🪸</span>珊瑚のかけら](/ja/item/coral-piece) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 12 | — |
-| [<span class="wiki-icon">🐟</span>アジ](/ja/item/horse-mackerel) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 12 | — |
-| [<span class="wiki-icon">🐟</span>サバ](/ja/item/mackerel) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 12 | — |
-| [<span class="wiki-icon">🗺️</span>海賊の地図](/ja/item/pirate-map) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 36 | — |
-| [<span class="wiki-icon">⚓</span>錆びた錨](/ja/item/rusty-anchor) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 36 | — |
-| [<span class="wiki-icon">🪸</span>サンゴ](/ja/item/coral) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 36 | — |
-| [<span class="wiki-icon">🦪</span>真珠](/ja/item/pearl) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 36 | — |
-| [<span class="wiki-icon">❤️</span>ルビー](/ja/item/ruby) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 108 | — |
-| [<span class="wiki-icon">🪙</span>呪いのコイン](/ja/item/cursed-coin) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 108 | — |
-| [<span class="wiki-icon">🧜</span>人魚の鱗](/ja/item/mermaid-scale) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 108 | — |
-| [<span class="wiki-icon">🦷</span>サメの歯](/ja/item/shark-tooth) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 108 | — |
-| [<span class="wiki-icon">⭐</span>海星](/ja/item/starfish) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 108 | — |
-| [<span class="wiki-icon">🔱</span>海神の三叉矛の欠片](/ja/item/sea-god-trident-fragment) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 972 | — |
-| [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 5 | — |
-| [<span class="wiki-icon">🧊</span>氷柱](/ja/item/ice-pillar) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不要 | 5 | — |
-| [<span class="wiki-icon">🧊</span>つらら](/ja/item/icicle) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 5 | — |
-| [<span class="wiki-icon">🐻‍❄️</span>白い毛皮](/ja/item/white-fur) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不要 | 5 | — |
-| [<span class="wiki-icon">🪵</span>雪](/ja/item/snow) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 5 | — |
-| [<span class="wiki-icon">❄️</span>霜](/ja/item/frost) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 5 | — |
-| [<span class="wiki-icon">🪵</span>白樺の皮](/ja/item/birch-bark) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 5 | — |
-| [<span class="wiki-icon">❄️</span>霜のかけら](/ja/item/frost-piece) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 15 | — |
-| [<span class="wiki-icon">🐻</span>毛皮](/ja/item/fur) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 15 | — |
-| [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 15 | — |
-| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマの爪](/ja/item/polar-bear-claw) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 15 | — |
-| [<span class="wiki-icon">🦣</span>マンモスの牙](/ja/item/mammoth-tusk) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 45 | — |
-| [<span class="wiki-icon">🐾</span>雪うさぎの足跡](/ja/item/snow-rabbit-track) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 45 | — |
-| [<span class="wiki-icon">🦊</span>銀狐の尾](/ja/item/silver-fox-tail) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 45 | — |
-| [<span class="wiki-icon">🧊</span>永久凍土のかけら](/ja/item/permafrost-piece) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 135 | — |
-| [<span class="wiki-icon">🌌</span>オーロラの欠片](/ja/item/aurora-fragment) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 135 | — |
-| [<span class="wiki-icon">🐾</span>雪男の足跡](/ja/item/yeti-track) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 135 | — |
-| [<span class="wiki-icon">🌌</span>極光石](/ja/item/auroral-stone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 135 | — |
-| [<span class="wiki-icon">❄️</span>凍土の根](/ja/item/frozen-soil-root) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 135 | — |
-| [<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 405 | — |
-| [<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 405 | — |
-| [<span class="wiki-icon">🧊</span>永久凍土の心臓](/ja/item/permafrost-heart) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 405 | — |
-| [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🔩</span>ネジ](/ja/item/screw) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🔌</span>針金](/ja/item/wire-rod) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🔩</span>鉄くず](/ja/item/scrap-iron) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🚰</span>パイプ](/ja/item/pipe) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">⚫</span>石炭](/ja/item/coal) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 18 | — |
-| [<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 18 | — |
-| [<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 18 | — |
-| [<span class="wiki-icon">🌫️</span>灰](/ja/item/ash) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 18 | — |
-| [<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 54 | — |
-| [<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 54 | — |
-| [<span class="wiki-icon">🔋</span>電池](/ja/item/battery) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 54 | — |
-| [<span class="wiki-icon">⚙️</span>モーター](/ja/item/motor) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 54 | — |
-| [<span class="wiki-icon">💾</span>回路基板](/ja/item/circuit-board) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 54 | — |
-| [<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 162 | — |
-| [<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 162 | — |
-| [<span class="wiki-icon">🔩</span>鋼鉄板](/ja/item/steel-plate) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 162 | — |
-| [<span class="wiki-icon">⚙️</span>精密部品](/ja/item/precision-part) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 162 | — |
-| [<span class="wiki-icon">🤖</span>ロボットの心臓](/ja/item/robot-heart) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 486 | — |
-| [<span class="wiki-icon">⚙️</span>黄金の歯車](/ja/item/golden-gear) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 486 | — |
-| [<span class="wiki-icon">💿</span>技マシン](/ja/item/tech-machine) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 4,374 | — |
-| [<span class="wiki-icon">💾</span>自律型AIチップ](/ja/item/autonomous-ai-chip) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 13,122 | — |
-| [<span class="wiki-icon">⚛️</span>反物質のかけら](/ja/item/antimatter-piece) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 39,366 | — |
-| [<span class="wiki-icon">🧨</span>火薬](/ja/item/gunpowder) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">🟡</span>硫黄](/ja/item/sulfur) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">⚫</span>黒曜石のかけら](/ja/item/obsidian-piece) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">🪨</span>岩石](/ja/item/boulder) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">🪨</span>軽石](/ja/item/pumice) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">🏜️</span>熱砂](/ja/item/hot-sand) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">🔥</span>燃え殻](/ja/item/cinder) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 21 | — |
-| [<span class="wiki-icon">🧔</span>ドワーフの髭](/ja/item/dwarf-beard) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 21 | — |
-| [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 21 | — |
-| [<span class="wiki-icon">🌋</span>マグマの欠片](/ja/item/magma-fragment) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 21 | — |
-| [<span class="wiki-icon">🌺</span>炎の花](/ja/item/flame-flower) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 21 | — |
-| [<span class="wiki-icon">🔥</span>赤熱鉄](/ja/item/red-hot-iron) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 21 | — |
-| [<span class="wiki-icon">🦎</span>火トカゲ](/ja/item/fire-lizard) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 21 | — |
-| [<span class="wiki-icon">💚</span>エメラルド](/ja/item/emerald) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 63 | — |
-| [<span class="wiki-icon">⚪</span>ミスリル銀](/ja/item/mithril-silver) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 63 | — |
-| [<span class="wiki-icon">🔥</span>溶けた金属塊](/ja/item/molten-metal-ingot) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 63 | — |
-| [<span class="wiki-icon">📐</span>ドワーフの設計図](/ja/item/dwarf-blueprint) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 63 | — |
-| [<span class="wiki-icon">⚫</span>黒曜石](/ja/item/obsidian) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 63 | — |
-| [<span class="wiki-icon">🔮</span>火山水晶](/ja/item/volcanic-crystal) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 63 | — |
-| [<span class="wiki-icon">🐉</span>溶岩の鱗](/ja/item/lava-scale) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 63 | — |
-| [<span class="wiki-icon">🔥</span>燃える宝玉](/ja/item/burning-orb) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 63 | — |
-| [<span class="wiki-icon">🧱</span>耐熱レンガ](/ja/item/heatproof-brick) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 189 | — |
-| [<span class="wiki-icon">🦷</span>火竜の牙](/ja/item/fire-dragon-fang) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 189 | — |
-| [<span class="wiki-icon">🌋</span>マグマコア](/ja/item/magma-core) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 189 | — |
-| [<span class="wiki-icon">❤️‍🔥</span>溶岩の心臓](/ja/item/lava-heart) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 189 | — |
-| [<span class="wiki-icon">🐉</span>竜の鱗](/ja/item/dragon-scale) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 567 | — |
-| [<span class="wiki-icon">🌋</span>マグマの心臓](/ja/item/magma-heart) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 567 | — |
-| [<span class="wiki-icon">🐉</span>火竜の鱗](/ja/item/fire-dragon-scale) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 567 | — |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの羽](/ja/item/phoenix-feather) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 567 | — |
-| [<span class="wiki-icon">🟠</span>オリハルコン](/ja/item/orichalcum) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 1,701 | — |
-| [<span class="wiki-icon">🐦‍🔥</span>不死鳥の灰](/ja/item/phoenix-ash) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 5,103 | — |
-| [<span class="wiki-icon">🕯️</span>ロウソク](/ja/item/candle) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 8 | — |
-| [<span class="wiki-icon">💨</span>土埃](/ja/item/dust) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 8 | — |
-| [<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 8 | — |
-| [<span class="wiki-icon">🧵</span>麻布](/ja/item/hemp-cloth) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 8 | — |
-| [<span class="wiki-icon">🩸</span>血液](/ja/item/blood) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 24 | — |
-| [<span class="wiki-icon">🍶</span>酒](/ja/item/liquor) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 24 | — |
-| [<span class="wiki-icon">🍇</span>葡萄](/ja/item/wine-grape) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 24 | — |
-| [<span class="wiki-icon">🧵</span>タペストリーの切れ端](/ja/item/tapestry-scrap) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 72 | — |
-| [<span class="wiki-icon">🛡️</span>古い紋章](/ja/item/old-crest) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 72 | — |
-| [<span class="wiki-icon">🗡️</span>暗殺者の短剣の破片](/ja/item/assassin-dagger-shard) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 72 | — |
-| [<span class="wiki-icon">🖋️</span>王家の封蝋](/ja/item/royal-wax-seal) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 216 | — |
-| [<span class="wiki-icon">💎</span>玉座の宝石](/ja/item/throne-jewel) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 216 | — |
-| [<span class="wiki-icon">💎</span>王笏の宝玉](/ja/item/scepter-jewel) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 1,944 | — |
-| [<span class="wiki-icon">🏖️</span>三途の川の砂](/ja/item/sanzu-river-sand) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🟡</span>硫黄石](/ja/item/sulfur-stone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🦴</span>骨片](/ja/item/bone-fragment) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">⚫</span>煤](/ja/item/soot) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">⚫</span>黒い砂](/ja/item/black-sand) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🩸</span>血の滴](/ja/item/blood-drop) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🔥</span>焦げ土](/ja/item/scorched-soil) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🪢</span>朽ち縄](/ja/item/rotten-rope) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">👾</span>使徒の残骸](/ja/item/angel-remains) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">🔥</span>獄炎の灰](/ja/item/hellfire-ash) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">🖤</span>怨念の結晶](/ja/item/grudge-crystal) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">😈</span>鬼の角の欠片](/ja/item/ogre-horn-piece) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">😈</span>悪魔の角](/ja/item/devil-horn) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">🖤</span>堕天使の羽](/ja/item/fallen-angel-wing) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">⛓️</span>鎖](/ja/item/chain) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">😢</span>苦悶の涙](/ja/item/tear-of-agony) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">⚰️</span>死神の鎌片](/ja/item/reaper-scythe-shard) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">🦷</span>黒曜の牙](/ja/item/obsidian-fang) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">📕</span>閻魔帳の切れ端](/ja/item/enma-ledger-scrap) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 81 | — |
-| [<span class="wiki-icon">🔥</span>地獄の業火の種](/ja/item/hellfire-seed) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 243 | — |
-| [<span class="wiki-icon">🦷</span>魔獣の牙](/ja/item/demon-beast-fang) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 243 | — |
-| [<span class="wiki-icon">⚖️</span>裁きの天秤](/ja/item/scale-of-judgment) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 729 | — |
-| [<span class="wiki-icon">❤️‍🔥</span>魔王の心臓](/ja/item/demon-lord-heart) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 729 | — |
-| [<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 729 | — |
-| [<span class="wiki-icon">🖋️</span>魔王の印璽](/ja/item/demon-lord-seal) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 2,187 | — |
-| [<span class="wiki-icon">😈</span>悪魔の実](/ja/item/devil-fruit) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 6,561 | — |
-| [<span class="wiki-icon">🌈</span>虹色の露](/ja/item/rainbow-dew) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 10 | — |
-| [<span class="wiki-icon">⭐</span>星の砂](/ja/item/star-sand) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 10 | — |
-| [<span class="wiki-icon">🍃</span>風の粒](/ja/item/wind-grain) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 10 | — |
-| [<span class="wiki-icon">✨</span>光の砂](/ja/item/light-sand) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 10 | — |
-| [<span class="wiki-icon">🌈</span>虹の雫](/ja/item/rainbow-drop) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 10 | — |
-| [<span class="wiki-icon">💧</span>朝露](/ja/item/morning-dew) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 10 | — |
-| [<span class="wiki-icon">✨</span>星屑](/ja/item/stardust) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 10 | — |
-| [<span class="wiki-icon">🟢</span>ケミカルライト](/ja/item/glow-stick) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 30 | — |
-| [<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 30 | — |
-| [<span class="wiki-icon">🪨</span>浮遊石](/ja/item/floating-stone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 30 | — |
-| [<span class="wiki-icon">🦋</span>光る蝶](/ja/item/glowing-butterfly) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 30 | — |
-| [<span class="wiki-icon">🌌</span>銀河の種](/ja/item/galaxy-seed) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 30 | — |
-| [<span class="wiki-icon">🌫️</span>霞](/ja/item/haze) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 30 | — |
-| [<span class="wiki-icon">✨</span>光苔](/ja/item/glow-moss) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 30 | — |
-| [<span class="wiki-icon">🌙</span>月の雫](/ja/item/moon-drop) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 30 | — |
-| [<span class="wiki-icon">🔮</span>進化の石](/ja/item/evolution-stone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 90 | — |
-| [<span class="wiki-icon">⛓️</span>血染めの鎖](/ja/item/blood-stained-chain) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 90 | — |
-| [<span class="wiki-icon">💎</span>天空の宝玉](/ja/item/sky-orb) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 90 | — |
-| [<span class="wiki-icon">🕊️</span>天使の羽根](/ja/item/angel-feather) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 90 | — |
-| [<span class="wiki-icon">⭐</span>星の欠片](/ja/item/star-fragment) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 90 | — |
-| [<span class="wiki-icon">🍃</span>神樹の葉](/ja/item/divine-tree-leaf) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 90 | — |
-| [<span class="wiki-icon">🦄</span>ユニコーンの角](/ja/item/unicorn-horn) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 270 | — |
-| [<span class="wiki-icon">😇</span>天使の涙](/ja/item/angel-tear) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 270 | — |
-| [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 2,430 | — |
-| [<span class="wiki-icon">👁️</span>深淵の瞳](/ja/item/abyss-eye) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 21,870 | — |
-| [<span class="wiki-icon">⚙️</span>輪廻の歯車](/ja/item/samsara-gear) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 65,610 | — |
-| [<span class="wiki-icon">🌟</span>始まりの星](/ja/item/first-star) | [<span class="wiki-icon">🪵</span>素材](/ja/group/material) | 装備不可 | 196,830 | — |
+| [<img class="wiki-icon" src="assets/icon/5f7df036cb7939a5.svg" alt="">レモン](/ja/item/lemon) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 1 | 2 |
+| [<span class="wiki-icon">🍚</span>砂糖](/ja/item/sugar) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 1 | 2 |
+| [<img class="wiki-icon" src="assets/icon/8979ad3bc457f36b.svg" alt="">四つ葉のクローバー](/ja/item/four-leaf-clover) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/95e9eab537758bbd.svg" alt="">落ち葉](/ja/item/fallen-leaf) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/0c93eb333fa7605d.svg" alt="">石ころ](/ja/item/stone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/a39276741e1606f8.svg" alt="">雑草](/ja/item/weed) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 1 | — |
+| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 3 | 6 |
+| [<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/e4431f2a3a0df5d2.svg" alt="">スズメ](/ja/item/sparrow) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/a6c87b93b31c1653.svg" alt="">ハト](/ja/item/pigeon) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/e0016c3d2e01e3f8.svg" alt="">テントウムシ](/ja/item/ladybug) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<img class="wiki-icon" src="assets/icon/632c9eeee3615b8b.svg" alt="">花束](/ja/item/bouquet) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<img class="wiki-icon" src="assets/icon/7827b4614a197e69.svg" alt="">鳥の羽根](/ja/item/bird-feather) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<img class="wiki-icon" src="assets/icon/74c73c9427c8c2e6.svg" alt="">日時計](/ja/item/sundial) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2 | 4 |
+| [<span class="wiki-icon">🟫</span>革](/ja/item/leather) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2 | 4 |
+| [<span class="wiki-icon">🌿</span>苔](/ja/item/moss) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2 | 4 |
+| [<span class="wiki-icon">🥀</span>枯れ枝](/ja/item/dead-branch) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2 | — |
+| [<span class="wiki-icon">🌿</span>シダ](/ja/item/fern) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2 | — |
+| [<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2 | 4 |
+| [<span class="wiki-icon">🕸️</span>クモの巣](/ja/item/spider-web) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2 | — |
+| [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | 12 |
+| [<span class="wiki-icon">🎈</span>風船](/ja/item/balloon) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | 12 |
+| [<span class="wiki-icon">💪</span>上腕二頭筋](/ja/item/biceps) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | 12 |
+| [<span class="wiki-icon">🛢️</span>油](/ja/item/oil) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | 12 |
+| [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | 12 |
+| [<span class="wiki-icon">🪨</span>火打石](/ja/item/flint) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🪲</span>クワガタ](/ja/item/stag-beetle) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🦋</span>チョウ](/ja/item/butterfly) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 18 | 36 |
+| [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 18 | — |
+| [<span class="wiki-icon">🐺</span>狼の毛皮](/ja/item/wolf-pelt) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 18 | — |
+| [<span class="wiki-icon">🍄</span>マツタケ](/ja/item/matsutake) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 18 | — |
+| [<span class="wiki-icon">🍯</span>樹液](/ja/item/tree-sap) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 18 | 36 |
+| [<span class="wiki-icon">🐿️</span>リス](/ja/item/squirrel) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 18 | — |
+| [<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 54 | 108 |
+| [<span class="wiki-icon">🍄</span>巨大キノコ](/ja/item/giant-mushroom) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 54 | 108 |
+| [<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 54 | 108 |
+| [<span class="wiki-icon">🦉</span>フクロウ](/ja/item/owl) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 54 | — |
+| [<span class="wiki-icon">🍉</span>スイカ](/ja/item/watermelon) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 162 | — |
+| [<span class="wiki-icon">📄</span>チラシ](/ja/item/flyer) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 3 | 6 |
+| [<span class="wiki-icon">🪙</span>小銭](/ja/item/small-change) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 3 | — |
+| [<span class="wiki-icon">📰</span>新聞紙](/ja/item/newspaper-sheet) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 3 | — |
+| [<span class="wiki-icon">🛍️</span>ビニール袋](/ja/item/plastic-bag) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 3 | 6 |
+| [<span class="wiki-icon">📼</span>ガムテープ](/ja/item/duct-tape) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | 18 |
+| [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | 54 |
+| [<span class="wiki-icon">🐈</span>野良猫の首輪](/ja/item/stray-cat-collar) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | 54 |
+| [<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 81 | 162 |
+| [<span class="wiki-icon">👑</span>ネズミの王冠](/ja/item/rat-crown) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 81 | — |
+| [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 4 | — |
+| [<span class="wiki-icon">🪨</span>砂浜の石](/ja/item/beach-stone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 4 | — |
+| [<span class="wiki-icon">🫧</span>海泡](/ja/item/sea-foam) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 4 | — |
+| [<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 12 | — |
+| [<span class="wiki-icon">🦈</span>サメ](/ja/item/shark) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 12 | — |
+| [<span class="wiki-icon">🪸</span>珊瑚のかけら](/ja/item/coral-piece) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 12 | — |
+| [<span class="wiki-icon">🐟</span>アジ](/ja/item/horse-mackerel) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 12 | — |
+| [<span class="wiki-icon">🐟</span>サバ](/ja/item/mackerel) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 12 | — |
+| [<span class="wiki-icon">🗺️</span>海賊の地図](/ja/item/pirate-map) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 36 | — |
+| [<span class="wiki-icon">⚓</span>錆びた錨](/ja/item/rusty-anchor) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 36 | — |
+| [<span class="wiki-icon">🪸</span>サンゴ](/ja/item/coral) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 36 | — |
+| [<span class="wiki-icon">🦪</span>真珠](/ja/item/pearl) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 36 | — |
+| [<span class="wiki-icon">❤️</span>ルビー](/ja/item/ruby) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 108 | — |
+| [<span class="wiki-icon">🪙</span>呪いのコイン](/ja/item/cursed-coin) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 108 | — |
+| [<span class="wiki-icon">🧜</span>人魚の鱗](/ja/item/mermaid-scale) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 108 | — |
+| [<span class="wiki-icon">🦷</span>サメの歯](/ja/item/shark-tooth) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 108 | — |
+| [<span class="wiki-icon">⭐</span>海星](/ja/item/starfish) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 108 | — |
+| [<span class="wiki-icon">🔱</span>海神の三叉矛の欠片](/ja/item/sea-god-trident-fragment) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 972 | — |
+| [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 5 | — |
+| [<span class="wiki-icon">🧊</span>氷柱](/ja/item/ice-pillar) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不要 | 5 | — |
+| [<span class="wiki-icon">🧊</span>つらら](/ja/item/icicle) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 5 | — |
+| [<span class="wiki-icon">🐻‍❄️</span>白い毛皮](/ja/item/white-fur) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不要 | 5 | — |
+| [<span class="wiki-icon">🪵</span>雪](/ja/item/snow) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 5 | — |
+| [<span class="wiki-icon">❄️</span>霜](/ja/item/frost) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 5 | — |
+| [<span class="wiki-icon">🪵</span>白樺の皮](/ja/item/birch-bark) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 5 | — |
+| [<span class="wiki-icon">❄️</span>霜のかけら](/ja/item/frost-piece) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 15 | — |
+| [<span class="wiki-icon">🐻</span>毛皮](/ja/item/fur) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 15 | — |
+| [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 15 | — |
+| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマの爪](/ja/item/polar-bear-claw) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 15 | — |
+| [<span class="wiki-icon">🦣</span>マンモスの牙](/ja/item/mammoth-tusk) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 45 | — |
+| [<span class="wiki-icon">🐾</span>雪うさぎの足跡](/ja/item/snow-rabbit-track) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 45 | — |
+| [<span class="wiki-icon">🦊</span>銀狐の尾](/ja/item/silver-fox-tail) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 45 | — |
+| [<span class="wiki-icon">🧊</span>永久凍土のかけら](/ja/item/permafrost-piece) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 135 | — |
+| [<span class="wiki-icon">🌌</span>オーロラの欠片](/ja/item/aurora-fragment) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 135 | — |
+| [<span class="wiki-icon">🐾</span>雪男の足跡](/ja/item/yeti-track) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 135 | — |
+| [<span class="wiki-icon">🌌</span>極光石](/ja/item/auroral-stone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 135 | — |
+| [<span class="wiki-icon">❄️</span>凍土の根](/ja/item/frozen-soil-root) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 135 | — |
+| [<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 405 | — |
+| [<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 405 | — |
+| [<span class="wiki-icon">🧊</span>永久凍土の心臓](/ja/item/permafrost-heart) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 405 | — |
+| [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🔩</span>ネジ](/ja/item/screw) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🔌</span>針金](/ja/item/wire-rod) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🔩</span>鉄くず](/ja/item/scrap-iron) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🚰</span>パイプ](/ja/item/pipe) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">⚫</span>石炭](/ja/item/coal) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 18 | — |
+| [<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 18 | — |
+| [<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 18 | — |
+| [<span class="wiki-icon">🌫️</span>灰](/ja/item/ash) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 18 | — |
+| [<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 54 | — |
+| [<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 54 | — |
+| [<span class="wiki-icon">🔋</span>電池](/ja/item/battery) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 54 | — |
+| [<span class="wiki-icon">⚙️</span>モーター](/ja/item/motor) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 54 | — |
+| [<span class="wiki-icon">💾</span>回路基板](/ja/item/circuit-board) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 54 | — |
+| [<span class="wiki-icon">⚙️</span>動力炉の残骸](/ja/item/reactor-debris) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 162 | — |
+| [<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 162 | — |
+| [<span class="wiki-icon">🔩</span>鋼鉄板](/ja/item/steel-plate) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 162 | — |
+| [<span class="wiki-icon">⚙️</span>精密部品](/ja/item/precision-part) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 162 | — |
+| [<span class="wiki-icon">🤖</span>ロボットの心臓](/ja/item/robot-heart) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 486 | — |
+| [<span class="wiki-icon">⚙️</span>黄金の歯車](/ja/item/golden-gear) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 486 | — |
+| [<span class="wiki-icon">💿</span>技マシン](/ja/item/tech-machine) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 4,374 | — |
+| [<span class="wiki-icon">💾</span>自律型AIチップ](/ja/item/autonomous-ai-chip) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 13,122 | — |
+| [<span class="wiki-icon">⚛️</span>反物質のかけら](/ja/item/antimatter-piece) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 39,366 | — |
+| [<span class="wiki-icon">🧨</span>火薬](/ja/item/gunpowder) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 7 | — |
+| [<span class="wiki-icon">🟡</span>硫黄](/ja/item/sulfur) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 7 | — |
+| [<span class="wiki-icon">⚫</span>黒曜石のかけら](/ja/item/obsidian-piece) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 7 | — |
+| [<span class="wiki-icon">🪨</span>岩石](/ja/item/boulder) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 7 | — |
+| [<span class="wiki-icon">🪨</span>軽石](/ja/item/pumice) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 7 | — |
+| [<span class="wiki-icon">🏜️</span>熱砂](/ja/item/hot-sand) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 7 | — |
+| [<span class="wiki-icon">🔥</span>燃え殻](/ja/item/cinder) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 7 | — |
+| [<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 21 | — |
+| [<span class="wiki-icon">🧔</span>ドワーフの髭](/ja/item/dwarf-beard) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 21 | — |
+| [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 21 | — |
+| [<span class="wiki-icon">🌋</span>マグマの欠片](/ja/item/magma-fragment) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 21 | — |
+| [<span class="wiki-icon">🌺</span>炎の花](/ja/item/flame-flower) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 21 | — |
+| [<span class="wiki-icon">🔥</span>赤熱鉄](/ja/item/red-hot-iron) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 21 | — |
+| [<span class="wiki-icon">🦎</span>火トカゲ](/ja/item/fire-lizard) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 21 | — |
+| [<span class="wiki-icon">💚</span>エメラルド](/ja/item/emerald) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 63 | — |
+| [<span class="wiki-icon">⚪</span>ミスリル銀](/ja/item/mithril-silver) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 63 | — |
+| [<span class="wiki-icon">🔥</span>溶けた金属塊](/ja/item/molten-metal-ingot) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 63 | — |
+| [<span class="wiki-icon">📐</span>ドワーフの設計図](/ja/item/dwarf-blueprint) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 63 | — |
+| [<span class="wiki-icon">⚫</span>黒曜石](/ja/item/obsidian) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 63 | — |
+| [<span class="wiki-icon">🔮</span>火山水晶](/ja/item/volcanic-crystal) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 63 | — |
+| [<span class="wiki-icon">🐉</span>溶岩の鱗](/ja/item/lava-scale) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 63 | — |
+| [<span class="wiki-icon">🔥</span>燃える宝玉](/ja/item/burning-orb) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 63 | — |
+| [<img class="wiki-icon" src="assets/icon/0e603d9eeb962681.svg" alt="">耐熱レンガ](/ja/item/heatproof-brick) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 189 | — |
+| [<span class="wiki-icon">🦷</span>火竜の牙](/ja/item/fire-dragon-fang) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 189 | — |
+| [<span class="wiki-icon">🌋</span>マグマコア](/ja/item/magma-core) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 189 | — |
+| [<span class="wiki-icon">❤️‍🔥</span>溶岩の心臓](/ja/item/lava-heart) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 189 | — |
+| [<span class="wiki-icon">🐉</span>竜の鱗](/ja/item/dragon-scale) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 567 | — |
+| [<span class="wiki-icon">🌋</span>マグマの心臓](/ja/item/magma-heart) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 567 | — |
+| [<span class="wiki-icon">🐉</span>火竜の鱗](/ja/item/fire-dragon-scale) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 567 | — |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの羽](/ja/item/phoenix-feather) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 567 | — |
+| [<span class="wiki-icon">🟠</span>オリハルコン](/ja/item/orichalcum) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 1,701 | — |
+| [<span class="wiki-icon">🐦‍🔥</span>不死鳥の灰](/ja/item/phoenix-ash) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 5,103 | — |
+| [<span class="wiki-icon">🕯️</span>ロウソク](/ja/item/candle) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 8 | — |
+| [<span class="wiki-icon">💨</span>土埃](/ja/item/dust) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 8 | — |
+| [<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 8 | — |
+| [<span class="wiki-icon">🧵</span>麻布](/ja/item/hemp-cloth) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 8 | — |
+| [<span class="wiki-icon">🩸</span>血液](/ja/item/blood) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 24 | — |
+| [<span class="wiki-icon">🍶</span>酒](/ja/item/liquor) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 24 | — |
+| [<span class="wiki-icon">🍇</span>葡萄](/ja/item/wine-grape) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 24 | — |
+| [<span class="wiki-icon">🧵</span>タペストリーの切れ端](/ja/item/tapestry-scrap) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 72 | — |
+| [<span class="wiki-icon">🛡️</span>古い紋章](/ja/item/old-crest) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 72 | — |
+| [<span class="wiki-icon">🗡️</span>暗殺者の短剣の破片](/ja/item/assassin-dagger-shard) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 72 | — |
+| [<span class="wiki-icon">🖋️</span>王家の封蝋](/ja/item/royal-wax-seal) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 216 | — |
+| [<span class="wiki-icon">💎</span>玉座の宝石](/ja/item/throne-jewel) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 216 | — |
+| [<span class="wiki-icon">💎</span>王笏の宝玉](/ja/item/scepter-jewel) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 1,944 | — |
+| [<span class="wiki-icon">🏖️</span>三途の川の砂](/ja/item/sanzu-river-sand) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">🟡</span>硫黄石](/ja/item/sulfur-stone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">🦴</span>骨片](/ja/item/bone-fragment) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">⚫</span>煤](/ja/item/soot) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">⚫</span>黒い砂](/ja/item/black-sand) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">🩸</span>血の滴](/ja/item/blood-drop) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">🔥</span>焦げ土](/ja/item/scorched-soil) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">🪢</span>朽ち縄](/ja/item/rotten-rope) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">👾</span>使徒の残骸](/ja/item/angel-remains) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">🔥</span>獄炎の灰](/ja/item/hellfire-ash) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">🖤</span>怨念の結晶](/ja/item/grudge-crystal) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">😈</span>鬼の角の欠片](/ja/item/ogre-horn-piece) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">😈</span>悪魔の角](/ja/item/devil-horn) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">🖤</span>堕天使の羽](/ja/item/fallen-angel-wing) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">⛓️</span>鎖](/ja/item/chain) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">😢</span>苦悶の涙](/ja/item/tear-of-agony) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">⚰️</span>死神の鎌片](/ja/item/reaper-scythe-shard) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">🦷</span>黒曜の牙](/ja/item/obsidian-fang) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">📕</span>閻魔帳の切れ端](/ja/item/enma-ledger-scrap) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 81 | — |
+| [<span class="wiki-icon">🔥</span>地獄の業火の種](/ja/item/hellfire-seed) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 243 | — |
+| [<span class="wiki-icon">🦷</span>魔獣の牙](/ja/item/demon-beast-fang) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 243 | — |
+| [<span class="wiki-icon">⚖️</span>裁きの天秤](/ja/item/scale-of-judgment) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 729 | — |
+| [<span class="wiki-icon">❤️‍🔥</span>魔王の心臓](/ja/item/demon-lord-heart) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 729 | — |
+| [<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 729 | — |
+| [<span class="wiki-icon">🖋️</span>魔王の印璽](/ja/item/demon-lord-seal) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2,187 | — |
+| [<span class="wiki-icon">😈</span>悪魔の実](/ja/item/devil-fruit) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 6,561 | — |
+| [<span class="wiki-icon">🌈</span>虹色の露](/ja/item/rainbow-dew) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 10 | — |
+| [<span class="wiki-icon">⭐</span>星の砂](/ja/item/star-sand) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 10 | — |
+| [<span class="wiki-icon">🍃</span>風の粒](/ja/item/wind-grain) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 10 | — |
+| [<span class="wiki-icon">✨</span>光の砂](/ja/item/light-sand) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 10 | — |
+| [<span class="wiki-icon">🌈</span>虹の雫](/ja/item/rainbow-drop) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 10 | — |
+| [<span class="wiki-icon">💧</span>朝露](/ja/item/morning-dew) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 10 | — |
+| [<span class="wiki-icon">✨</span>星屑](/ja/item/stardust) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 10 | — |
+| [<span class="wiki-icon">🟢</span>ケミカルライト](/ja/item/glow-stick) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 30 | — |
+| [<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 30 | — |
+| [<span class="wiki-icon">🪨</span>浮遊石](/ja/item/floating-stone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 30 | — |
+| [<span class="wiki-icon">🦋</span>光る蝶](/ja/item/glowing-butterfly) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 30 | — |
+| [<span class="wiki-icon">🌌</span>銀河の種](/ja/item/galaxy-seed) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 30 | — |
+| [<span class="wiki-icon">🌫️</span>霞](/ja/item/haze) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 30 | — |
+| [<span class="wiki-icon">✨</span>光苔](/ja/item/glow-moss) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 30 | — |
+| [<span class="wiki-icon">🌙</span>月の雫](/ja/item/moon-drop) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 30 | — |
+| [<span class="wiki-icon">🔮</span>進化の石](/ja/item/evolution-stone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 90 | — |
+| [<span class="wiki-icon">⛓️</span>血染めの鎖](/ja/item/blood-stained-chain) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 90 | — |
+| [<span class="wiki-icon">💎</span>天空の宝玉](/ja/item/sky-orb) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 90 | — |
+| [<span class="wiki-icon">🕊️</span>天使の羽根](/ja/item/angel-feather) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 90 | — |
+| [<span class="wiki-icon">⭐</span>星の欠片](/ja/item/star-fragment) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 90 | — |
+| [<span class="wiki-icon">🍃</span>神樹の葉](/ja/item/divine-tree-leaf) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 90 | — |
+| [<span class="wiki-icon">🦄</span>ユニコーンの角](/ja/item/unicorn-horn) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 270 | — |
+| [<span class="wiki-icon">😇</span>天使の涙](/ja/item/angel-tear) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 270 | — |
+| [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2,430 | — |
+| [<span class="wiki-icon">👁️</span>深淵の瞳](/ja/item/abyss-eye) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 21,870 | — |
+| [<span class="wiki-icon">⚙️</span>輪廻の歯車](/ja/item/samsara-gear) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 65,610 | — |
+| [<span class="wiki-icon">🌟</span>始まりの星](/ja/item/first-star) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 196,830 | — |
 | [<span class="wiki-icon">⚖️</span>体重計](/ja/item/weight-scale) | [<span class="wiki-icon">⚙️</span>加工品](/ja/group/processed-goods) | 装備不可 | 9 | — |
 | [<span class="wiki-icon">💳</span>キャッシュカード](/ja/item/cash-card) | [<span class="wiki-icon">⚙️</span>加工品](/ja/group/processed-goods) | 装備不可 | 81 | — |
 | [<span class="wiki-icon">🏧</span>ATM](/ja/item/atm) | [<span class="wiki-icon">⚙️</span>加工品](/ja/group/processed-goods) | 装備不可 | 81 | — |
@@ -248,12 +248,12 @@
 | [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) | [<span class="wiki-icon">♻️</span>リサイクル素材](/ja/group/recycled-material) | 装備不可 | 243 | — |
 | [<span class="wiki-icon">🔩</span>鍛えた金属塊](/ja/item/forged-metal-ingot) | [<span class="wiki-icon">♻️</span>リサイクル素材](/ja/group/recycled-material) | 装備不可 | 324 | — |
 | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) | [<span class="wiki-icon">♻️</span>リサイクル素材](/ja/group/recycled-material) | 装備不可 | 324 | — |
-| [<span class="wiki-icon">⛏️</span>クワ](/ja/item/hoe) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🪏</span>シャベル](/ja/item/shovel) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">✂️</span>ハサミ](/ja/item/scissors) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🖌️</span>ペイントローラー](/ja/item/paint-roller) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備必須 | 81 | 162 |
-| [<span class="wiki-icon">⚽</span>伝説のボール](/ja/item/legendary-ball) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 243 | — |
+| [<img class="wiki-icon" src="assets/icon/3b5f25329b15fd82.svg" alt="">クワ](/ja/item/hoe) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/166910348652907c.svg" alt="">シャベル](/ja/item/shovel) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/e14d4e050156ea51.svg" alt="">ハサミ](/ja/item/scissors) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/3e0ab42a7bdb32e5.svg" alt="">ペイントローラー](/ja/item/paint-roller) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備必須 | 81 | 162 |
+| [<img class="wiki-icon" src="assets/icon/19da4c679f8870a7.svg" alt="">伝説のボール](/ja/item/legendary-ball) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 243 | — |
 | [<span class="wiki-icon">🪓</span>斧](/ja/item/axe) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 6 | — |
 | [<span class="wiki-icon">🔭</span>双眼鏡](/ja/item/binoculars) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 18 | — |
 | [<span class="wiki-icon">🪨</span>森の精霊石](/ja/item/forest-spirit-stone) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不可 | 486 | — |
@@ -302,14 +302,14 @@
 | [<span class="wiki-icon">🖊️</span>修正液](/ja/item/correction-fluid) | [<span class="wiki-icon">💎</span>特別品](/ja/group/special) | 装備不要 | — | 10 |
 | [<span class="wiki-icon">🔴</span>絶対に押しては行けないボタン](/ja/item/forbidden-button) | [<span class="wiki-icon">💎</span>特別品](/ja/group/special) | 装備不要 | — | 20 |
 | [<span class="wiki-icon">👑</span>人工ダイアモンドのティアラ](/ja/item/synthetic-diamond-tiara) | [<span class="wiki-icon">💎</span>特別品](/ja/group/special) | 装備不要 | — | 30 |
-| [<span class="wiki-icon">⛲</span>噴水のコイン](/ja/item/fountain-coin) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
-| [<span class="wiki-icon">🌰</span>金のドングリ](/ja/item/golden-acorn) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
+| [<img class="wiki-icon" src="assets/icon/1e476358e19d8676.svg" alt="">噴水のコイン](/ja/item/fountain-coin) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
+| [<img class="wiki-icon" src="assets/icon/041e1672ebae2974.svg" alt="">金のドングリ](/ja/item/golden-acorn) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
 | [<span class="wiki-icon">🗺️</span>古い地図の断片](/ja/item/old-map-fragment) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
 | [<span class="wiki-icon">🌳</span>世界樹の苗木](/ja/item/world-tree-sapling) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
 | [<span class="wiki-icon">🧚</span>森の精霊の涙](/ja/item/forest-spirit-tear) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
 | [<span class="wiki-icon">🗿</span>公園の守り神の像](/ja/item/park-guardian-statue) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
 | [<span class="wiki-icon">🖋️</span>市長印](/ja/item/mayors-seal) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
-| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/item/beetle) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
+| [<img class="wiki-icon" src="assets/icon/4aece76562383688.svg" alt="">カブトムシ](/ja/item/beetle) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
 | [<span class="wiki-icon">🗝️</span>下水道の鍵](/ja/item/sewer-key) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
 | [<span class="wiki-icon">🛂</span>偽造パスポート](/ja/item/forged-passport) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
 | [<span class="wiki-icon">🧚</span>妖精の羽根](/ja/item/fairy-wing) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
@@ -333,90 +333,90 @@
 | [<span class="wiki-icon">🗝️</span>冥界の門の鍵](/ja/item/underworld-gate-key) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
 | [<span class="wiki-icon">✨</span>創世の光](/ja/item/genesis-light) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
 | [<span class="wiki-icon">😇</span>天空神の羽衣](/ja/item/sky-god-robe) | [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | 装備不可 | — | — |
-| [<span class="wiki-icon">📄</span>紙](/ja/item/paper) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🪟</span>ガラス](/ja/item/glass) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🌰</span>ドングリ](/ja/item/acorn) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🥫</span>空き缶](/ja/item/empty-can) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🪢</span>ロープ](/ja/item/rope) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🪨</span>小石](/ja/item/pebble) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 1 | — |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備必須 | 3 | — |
-| [<span class="wiki-icon">🐛</span>毛虫](/ja/item/caterpillar) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🫧</span>シャボン玉](/ja/item/soap-bubble) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🫧</span>バブルワンド](/ja/item/bubble-wand) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🌼</span>タンポポ](/ja/item/dandelion) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🍖</span>腐った肉](/ja/item/rotten-meat) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 消費装備 | 9 | — |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備必須 | 9 | — |
-| [<span class="wiki-icon">🪑</span>ベンチ](/ja/item/bench) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🔇</span>耳栓](/ja/item/earplug) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">🎢</span>ブランコ](/ja/item/swing) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">🛝</span>すべり台](/ja/item/slide) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">🕸️</span>クモの糸](/ja/item/spider-thread) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 81 | — |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備必須 | 81 | — |
-| [<span class="wiki-icon">🧮</span>電卓](/ja/item/calculator) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 243 | — |
-| [<span class="wiki-icon">🪨</span>岩](/ja/item/rock) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 2 | — |
-| [<span class="wiki-icon">🔋</span>乾電池](/ja/item/dry-cell) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 2 | — |
-| [<span class="wiki-icon">📎</span>クリップ](/ja/item/paper-clip) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🧻</span>トイレットペーパー](/ja/item/toilet-paper) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🔩</span>釘](/ja/item/nail) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🧽</span>雑巾](/ja/item/rag) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🪝</span>ハンガー](/ja/item/hanger) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">📎</span>洗濯バサミ](/ja/item/clothespin) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 3 | — |
-| [<span class="wiki-icon">🪧</span>割れた看板](/ja/item/broken-signboard) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">🚦</span>信号機](/ja/item/traffic-light) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">📮</span>ポスト](/ja/item/mailbox) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 27 | — |
-| [<span class="wiki-icon">🚏</span>バス停](/ja/item/bus-stop) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 81 | — |
-| [<span class="wiki-icon">💡</span>街灯](/ja/item/street-light) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 81 | — |
-| [<span class="wiki-icon">🕳️</span>マンホール](/ja/item/manhole) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 243 | — |
-| [<span class="wiki-icon">⚡</span>電柱](/ja/item/utility-pole) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 243 | — |
-| [<span class="wiki-icon">🪣</span>穴の空いたバケツ](/ja/item/holed-bucket) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 4 | — |
-| [<span class="wiki-icon">🦶</span>誰かの足](/ja/item/someones-leg) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 4 | — |
-| [<span class="wiki-icon">🐚</span>貝殻](/ja/item/seashell) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 4 | — |
-| [<span class="wiki-icon">🪵</span>流木](/ja/item/driftwood) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 4 | — |
-| [<span class="wiki-icon">🏖️</span>砂](/ja/item/sand) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 4 | — |
-| [<span class="wiki-icon">🪨</span>漬物石](/ja/item/pickling-stone) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 5 | — |
-| [<span class="wiki-icon">❄️</span>雪の塊](/ja/item/snow-chunk) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 5 | — |
-| [<span class="wiki-icon">🌨️</span>凍った枝](/ja/item/frozen-branch) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 5 | — |
-| [<span class="wiki-icon">⛄</span>雪だるま](/ja/item/snowman) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 45 | — |
-| [<span class="wiki-icon">🔪</span>カッター](/ja/item/cutter) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備必須 | 6 | — |
-| [<span class="wiki-icon">🔩</span>ボルトとナット](/ja/item/bolt-and-nut) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🔩</span>錆びたパイプ](/ja/item/rusty-pipe) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 6 | — |
-| [<span class="wiki-icon">🧭</span>方位磁石](/ja/item/compass) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 18 | — |
-| [<span class="wiki-icon">💾</span>壊れた基板](/ja/item/broken-circuit-board) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 18 | — |
-| [<span class="wiki-icon">🪦</span>墓石](/ja/item/gravestone) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">🌋</span>火山灰](/ja/item/volcanic-ash) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">🌋</span>溶岩石](/ja/item/lava-stone) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 7 | — |
-| [<span class="wiki-icon">🪶</span>ロウで固めた羽](/ja/item/wax-wing) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 8 | — |
-| [<span class="wiki-icon">⛓️</span>鎖の切れ端](/ja/item/chain-scrap) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 8 | — |
-| [<span class="wiki-icon">🦴</span>ネズミの骨](/ja/item/rat-bone) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 8 | — |
-| [<span class="wiki-icon">🧱</span>砕けたレンガ](/ja/item/crushed-brick) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 8 | — |
-| [<span class="wiki-icon">🥄</span>曲がったスプーン](/ja/item/bent-spoon) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">💀</span>骸骨の指](/ja/item/skeleton-finger) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🪨</span>地獄の小石](/ja/item/hell-pebble) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">🧵</span>亡者の布切れ](/ja/item/undead-cloth) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 9 | — |
-| [<span class="wiki-icon">☁️</span>雲のかけら](/ja/item/cloud-piece) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 10 | — |
-| [<span class="wiki-icon">😇</span>天使の落とし物](/ja/item/angels-lost-item) | [<span class="wiki-icon">🗑️</span>ごみ](/ja/group/junk) | 装備不可 | 10 | — |
+| [<img class="wiki-icon" src="assets/icon/47721c74865bab5f.svg" alt="">紙](/ja/item/paper) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/ed2a01dd9f637329.svg" alt="">空き缶](/ja/item/empty-can) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/5824a7cabeddd7b5.svg" alt="">ロープ](/ja/item/rope) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/361dddead5743371.svg" alt="">小石](/ja/item/pebble) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備必須 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/b9c2295c04c97dd4.svg" alt="">毛虫](/ja/item/caterpillar) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/7e7674087d725bf6.svg" alt="">シャボン玉](/ja/item/soap-bubble) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/0633e82314738a75.svg" alt="">バブルワンド](/ja/item/bubble-wand) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 9 | — |
+| [<img class="wiki-icon" src="assets/icon/a124f32c43131da0.svg" alt="">タンポポ](/ja/item/dandelion) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 9 | — |
+| [<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 消費装備 | 9 | — |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備必須 | 9 | — |
+| [<img class="wiki-icon" src="assets/icon/897667db2ce70f25.svg" alt="">ベンチ](/ja/item/bench) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 9 | — |
+| [<img class="wiki-icon" src="assets/icon/263d98048a36520b.svg" alt="">耳栓](/ja/item/earplug) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 27 | — |
+| [<img class="wiki-icon" src="assets/icon/fb0af033181cd943.svg" alt="">ブランコ](/ja/item/swing) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 27 | — |
+| [<img class="wiki-icon" src="assets/icon/02ecd77f3682ed57.svg" alt="">すべり台](/ja/item/slide) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 27 | — |
+| [<img class="wiki-icon" src="assets/icon/5917c2eb05add9f6.svg" alt="">クモの糸](/ja/item/spider-thread) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 81 | — |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備必須 | 81 | — |
+| [<img class="wiki-icon" src="assets/icon/9527ad02ab385f84.svg" alt="">電卓](/ja/item/calculator) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 243 | — |
+| [<span class="wiki-icon">🪨</span>岩](/ja/item/rock) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 2 | — |
+| [<span class="wiki-icon">🔋</span>乾電池](/ja/item/dry-cell) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 2 | — |
+| [<span class="wiki-icon">📎</span>クリップ](/ja/item/paper-clip) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 3 | — |
+| [<span class="wiki-icon">🧻</span>トイレットペーパー](/ja/item/toilet-paper) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 3 | — |
+| [<span class="wiki-icon">🔩</span>釘](/ja/item/nail) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 3 | — |
+| [<span class="wiki-icon">🧽</span>雑巾](/ja/item/rag) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 3 | — |
+| [<span class="wiki-icon">🪝</span>ハンガー](/ja/item/hanger) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 3 | — |
+| [<span class="wiki-icon">📎</span>洗濯バサミ](/ja/item/clothespin) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 3 | — |
+| [<span class="wiki-icon">🪧</span>割れた看板](/ja/item/broken-signboard) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">🚦</span>信号機](/ja/item/traffic-light) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">📮</span>ポスト](/ja/item/mailbox) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 27 | — |
+| [<span class="wiki-icon">🚏</span>バス停](/ja/item/bus-stop) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 81 | — |
+| [<span class="wiki-icon">💡</span>街灯](/ja/item/street-light) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 81 | — |
+| [<span class="wiki-icon">🕳️</span>マンホール](/ja/item/manhole) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 243 | — |
+| [<span class="wiki-icon">⚡</span>電柱](/ja/item/utility-pole) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 243 | — |
+| [<span class="wiki-icon">🪣</span>穴の空いたバケツ](/ja/item/holed-bucket) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 4 | — |
+| [<span class="wiki-icon">🦶</span>誰かの足](/ja/item/someones-leg) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 4 | — |
+| [<span class="wiki-icon">🐚</span>貝殻](/ja/item/seashell) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 4 | — |
+| [<span class="wiki-icon">🪵</span>流木](/ja/item/driftwood) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 4 | — |
+| [<span class="wiki-icon">🏖️</span>砂](/ja/item/sand) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 4 | — |
+| [<span class="wiki-icon">🪨</span>漬物石](/ja/item/pickling-stone) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 5 | — |
+| [<span class="wiki-icon">❄️</span>雪の塊](/ja/item/snow-chunk) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 5 | — |
+| [<span class="wiki-icon">🌨️</span>凍った枝](/ja/item/frozen-branch) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 5 | — |
+| [<span class="wiki-icon">⛄</span>雪だるま](/ja/item/snowman) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 45 | — |
+| [<span class="wiki-icon">🔪</span>カッター](/ja/item/cutter) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備必須 | 6 | — |
+| [<span class="wiki-icon">🔩</span>ボルトとナット](/ja/item/bolt-and-nut) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🔩</span>錆びたパイプ](/ja/item/rusty-pipe) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 6 | — |
+| [<span class="wiki-icon">🧭</span>方位磁石](/ja/item/compass) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 18 | — |
+| [<span class="wiki-icon">💾</span>壊れた基板](/ja/item/broken-circuit-board) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 18 | — |
+| [<span class="wiki-icon">🪦</span>墓石](/ja/item/gravestone) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 7 | — |
+| [<span class="wiki-icon">🌋</span>火山灰](/ja/item/volcanic-ash) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 7 | — |
+| [<span class="wiki-icon">🌋</span>溶岩石](/ja/item/lava-stone) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 7 | — |
+| [<span class="wiki-icon">🪶</span>ロウで固めた羽](/ja/item/wax-wing) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 8 | — |
+| [<span class="wiki-icon">⛓️</span>鎖の切れ端](/ja/item/chain-scrap) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 8 | — |
+| [<img class="wiki-icon" src="assets/icon/9c9bdad1ea627e76.svg" alt="">ネズミの骨](/ja/item/rat-bone) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 8 | — |
+| [<span class="wiki-icon">🧱</span>砕けたレンガ](/ja/item/crushed-brick) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 8 | — |
+| [<span class="wiki-icon">🥄</span>曲がったスプーン](/ja/item/bent-spoon) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">💀</span>骸骨の指](/ja/item/skeleton-finger) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">🪨</span>地獄の小石](/ja/item/hell-pebble) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">🧵</span>亡者の布切れ](/ja/item/undead-cloth) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 9 | — |
+| [<span class="wiki-icon">☁️</span>雲のかけら](/ja/item/cloud-piece) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 10 | — |
+| [<span class="wiki-icon">😇</span>天使の落とし物](/ja/item/angels-lost-item) | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | 装備不可 | 10 | — |
 
 ## 効果を与えるアイテム
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（78種）</summary>
+<details><summary>全カテゴリに効くアイテム（79種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥅</span>虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🪵</span>枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">📦</span>ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧹</span>ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
@@ -433,8 +433,9 @@
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🗺️</span>地理知識](/ja/item/geography-knowledge) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">🌌</span>万物の理](/ja/item/law-of-all-things) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
 | [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
@@ -463,8 +464,8 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🥼</span>エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
 | [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
@@ -473,7 +474,7 @@
 | [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⛓️</span>チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |

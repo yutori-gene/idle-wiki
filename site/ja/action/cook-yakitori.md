@@ -1,6 +1,6 @@
 # 焼き鳥
 
-<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">焼き鳥</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍗</span></div><table><tr><th>場所</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cooking"><span class="wiki-icon">🍽️</span>料理</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv12</td></tr><tr><th>所要時間</th><td>4分</td></tr><tr><th>成功率</th><td>65%</td></tr><tr><th>経験値</th><td>122</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">焼き鳥</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍗</span></div><table><tr><th>場所</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cooking"><img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv12</td></tr><tr><th>所要時間</th><td>4分</td></tr><tr><th>成功率</th><td>65%</td></tr><tr><th>経験値</th><td>122</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 串に刺して炙る。上を向いて歩こう。
 
@@ -12,9 +12,9 @@
 - [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv12以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🍳</span>フライパン](/ja/item/frying-pan) ×1（消費しない）
 - [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) ×4（消費する）
-- [<span class="wiki-icon">🌱</span>ネギ](/ja/item/green-onion) ×4（消費する）
+- [<img class="wiki-icon" src="assets/icon/038883e27a6d1f09.svg" alt="">ネギ](/ja/item/green-onion) ×4（消費する）
 - [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) ×2（消費する）
-- [<span class="wiki-icon">🐸</span>カエル](/ja/item/frog) ×1（消費する）
+- [<img class="wiki-icon" src="assets/icon/dedb91fd5c627f14.svg" alt="">カエル](/ja/item/frog) ×1（消費する）
 - [<span class="wiki-icon">🐸</span>オタマジャクシ](/ja/item/tadpole) ×2（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -42,7 +42,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 27,378 | 2,730 | 24,648 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 27,378 | 2,730 | 24,648 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 

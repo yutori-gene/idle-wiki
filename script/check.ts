@@ -9,6 +9,7 @@ import { siteDirectory } from "./lib/path.ts";
 import { build } from "./lib/build.ts";
 import { loadSource } from "./lib/source.ts";
 import { ENGINE_DIGESTS } from "./lib/calc.ts";
+import { imageDirectory } from "./lib/image.ts";
 
 const errors: string[] = [];
 
@@ -51,6 +52,16 @@ function main(): void {
 		const target = path.join(siteDirectory, file);
 		if (!FS.existsSync(target) || FS.readFileSync(target, "utf8") !== body) errors.push(`生成物が古い（または手で編集された）: site/${file}`);
 	}
+
+	// 1. 生成物が最新か（data URI から書き出した画像）
+	const images = new Map(result.images.map((image) => [image.file, image.data]));
+	const actualImages = listFiles(path.join(siteDirectory, imageDirectory)).map((file) => `${imageDirectory}/${file}`);
+	for (const file of actualImages) {
+		const data = images.get(file);
+		if (data === undefined) errors.push(`生成物に無いファイルが site/${imageDirectory} にある: ${file}`);
+		else if (!FS.readFileSync(path.join(siteDirectory, file)).equals(data)) errors.push(`生成物が古い（または手で編集された）: site/${file}`);
+	}
+	for (const file of images.keys()) if (!actualImages.includes(file)) errors.push(`生成物が無い: site/${file}`);
 
 	// 4. 計算式の出どころ
 	const snapshot = loadSource().snapshot;

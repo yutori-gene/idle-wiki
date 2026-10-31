@@ -9,7 +9,7 @@
 
 数量が変化したとき、**その1回で増えた量**が次の値以上なら発動する（何度でも繰り返す）。画面には表示されない。
 
-- [<span class="wiki-icon">🧺</span>ピクニックバスケット](/ja/item/picnic-basket) ×1
+- [<img class="wiki-icon" src="assets/icon/6d83bc87fd0524a2.svg" alt="">ピクニックバスケット](/ja/item/picnic-basket) ×1
 
 ## 報酬
 

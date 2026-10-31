@@ -9,24 +9,24 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧤</span>ミトン](/ja/item/mitten) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 3 |
-| [<span class="wiki-icon">🧤</span>布の手袋](/ja/item/cloth-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 3 |
-| [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 6 |
-| [<span class="wiki-icon">🩱</span>孫の手](/ja/item/back-scratcher) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 18 |
-| [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 9 |
-| [<span class="wiki-icon">🐾</span>ネコの手](/ja/item/cat-paw) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 27 |
-| [<span class="wiki-icon">🏮</span>ランタン](/ja/item/lantern) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 36 |
-| [<span class="wiki-icon">🤲</span>救いの手](/ja/item/helping-hand) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 36 |
-| [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 消費装備 | 45 |
-| [<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 135 |
-| [<span class="wiki-icon">🧤</span>革の手袋](/ja/item/leather-gloves) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 162 |
-| [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/item/crab-claw) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 162 |
-| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/item/iron-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 189 |
-| [<span class="wiki-icon">⏰</span>麻酔時計](/ja/item/anesthetic-watch) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 567 |
-| [<span class="wiki-icon">🔺</span>令呪](/ja/item/command-spell) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 消費装備 | 648 |
-| [<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/item/aegis) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 1,944 |
-| [<span class="wiki-icon">🛡️</span>矛盾](/ja/item/contradiction) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 2,187 |
-| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/item/infinity-gauntlet) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | 装備必須 | 7,290 |
+| [<img class="wiki-icon" src="assets/icon/57b5c51acdb68045.svg" alt="">ミトン](/ja/item/mitten) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 3 |
+| [<img class="wiki-icon" src="assets/icon/16359e1fba4a9c16.svg" alt="">布の手袋](/ja/item/cloth-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 3 |
+| [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 6 |
+| [<span class="wiki-icon">🩱</span>孫の手](/ja/item/back-scratcher) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 18 |
+| [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 9 |
+| [<span class="wiki-icon">🐾</span>ネコの手](/ja/item/cat-paw) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 27 |
+| [<span class="wiki-icon">🏮</span>ランタン](/ja/item/lantern) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 36 |
+| [<span class="wiki-icon">🤲</span>救いの手](/ja/item/helping-hand) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 36 |
+| [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 消費装備 | 45 |
+| [<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 135 |
+| [<span class="wiki-icon">🧤</span>革の手袋](/ja/item/leather-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 162 |
+| [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/item/crab-claw) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 162 |
+| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/item/iron-gauntlet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 189 |
+| [<span class="wiki-icon">⏰</span>麻酔時計](/ja/item/anesthetic-watch) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 567 |
+| [<span class="wiki-icon">🔺</span>令呪](/ja/item/command-spell) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 消費装備 | 648 |
+| [<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/item/aegis) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 1,944 |
+| [<span class="wiki-icon">🛡️</span>矛盾](/ja/item/contradiction) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 2,187 |
+| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/item/infinity-gauntlet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | 装備必須 | 7,290 |
 
 ## 開発者向け情報
 

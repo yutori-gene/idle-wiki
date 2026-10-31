@@ -1,6 +1,6 @@
 # 6本指の手袋
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">6本指の手袋</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧤</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/armor"><span class="wiki-icon">🛡️</span>防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/arm-armor"><span class="wiki-icon">🧤</span>腕部装備</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>135 <a href="#/ja/item/coin"><span class="wiki-icon">🪙</span>コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">6本指の手袋</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧤</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/arm-armor"><span class="wiki-icon">🧤</span>腕部装備</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>135 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 少ないよりは多い方がいい。
 
@@ -11,7 +11,7 @@
 
 | 効き先 | 防御 | 精度 |
 | --- | --- | --- |
-| [<span class="wiki-icon">⚔️</span>近接武器](/ja/category/melee-weapon) | +16 | +4 |
+| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +16 | +4 |
 
 ## 入手方法
 
@@ -27,9 +27,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧤</span>6本指の手袋（分解）](/ja/action/disassemble-six-finger-glove) | [<span class="wiki-icon">🛡️</span>防具](/ja/category/armor) | Lv23 | 1 | 100% |  |
+| [<span class="wiki-icon">🧤</span>6本指の手袋（分解）](/ja/action/disassemble-six-finger-glove) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv23 | 1 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 腕部装備</div><div class="wiki-navbox-body"><a href="#/ja/item/mitten"><span class="wiki-icon">🧤</span>ミトン</a> ・ <a href="#/ja/item/cloth-gloves"><span class="wiki-icon">🧤</span>布の手袋</a> ・ <a href="#/ja/item/rubber-gloves"><span class="wiki-icon">🧤</span>ゴム手袋</a> ・ <a href="#/ja/item/back-scratcher"><span class="wiki-icon">🩱</span>孫の手</a> ・ <a href="#/ja/item/work-gloves"><span class="wiki-icon">🧤</span>軍手</a> ・ <a href="#/ja/item/cat-paw"><span class="wiki-icon">🐾</span>ネコの手</a> ・ <a href="#/ja/item/lantern"><span class="wiki-icon">🏮</span>ランタン</a> ・ <a href="#/ja/item/helping-hand"><span class="wiki-icon">🤲</span>救いの手</a> ・ <a href="#/ja/item/torch"><span class="wiki-icon">🔥</span>松明</a> ・ <a href="#/ja/item/six-finger-glove"><span class="wiki-icon">🧤</span>6本指の手袋</a> ・ <a href="#/ja/item/leather-gloves"><span class="wiki-icon">🧤</span>革の手袋</a> ・ <a href="#/ja/item/crab-claw"><span class="wiki-icon">🦀</span>カニのハサミ</a> ・ <a href="#/ja/item/iron-gauntlet"><span class="wiki-icon">🧤</span>鉄の籠手</a> ・ <a href="#/ja/item/anesthetic-watch"><span class="wiki-icon">⏰</span>麻酔時計</a> ・ <a href="#/ja/item/command-spell"><span class="wiki-icon">🔺</span>令呪</a> ・ <a href="#/ja/item/aegis"><span class="wiki-icon">🛡️</span>ゼウスの盾</a> ・ <a href="#/ja/item/contradiction"><span class="wiki-icon">🛡️</span>矛盾</a> ・ <a href="#/ja/item/infinity-gauntlet"><span class="wiki-icon">🧤</span>無限の手袋</a></div></div>
+<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 腕部装備</div><div class="wiki-navbox-body"><a href="#/ja/item/mitten"><img class="wiki-icon" src="assets/icon/57b5c51acdb68045.svg" alt="">ミトン</a> ・ <a href="#/ja/item/cloth-gloves"><img class="wiki-icon" src="assets/icon/16359e1fba4a9c16.svg" alt="">布の手袋</a> ・ <a href="#/ja/item/rubber-gloves"><span class="wiki-icon">🧤</span>ゴム手袋</a> ・ <a href="#/ja/item/back-scratcher"><span class="wiki-icon">🩱</span>孫の手</a> ・ <a href="#/ja/item/work-gloves"><span class="wiki-icon">🧤</span>軍手</a> ・ <a href="#/ja/item/cat-paw"><span class="wiki-icon">🐾</span>ネコの手</a> ・ <a href="#/ja/item/lantern"><span class="wiki-icon">🏮</span>ランタン</a> ・ <a href="#/ja/item/helping-hand"><span class="wiki-icon">🤲</span>救いの手</a> ・ <a href="#/ja/item/torch"><span class="wiki-icon">🔥</span>松明</a> ・ <a href="#/ja/item/six-finger-glove"><span class="wiki-icon">🧤</span>6本指の手袋</a> ・ <a href="#/ja/item/leather-gloves"><span class="wiki-icon">🧤</span>革の手袋</a> ・ <a href="#/ja/item/crab-claw"><span class="wiki-icon">🦀</span>カニのハサミ</a> ・ <a href="#/ja/item/iron-gauntlet"><span class="wiki-icon">🧤</span>鉄の籠手</a> ・ <a href="#/ja/item/anesthetic-watch"><span class="wiki-icon">⏰</span>麻酔時計</a> ・ <a href="#/ja/item/command-spell"><span class="wiki-icon">🔺</span>令呪</a> ・ <a href="#/ja/item/aegis"><span class="wiki-icon">🛡️</span>ゼウスの盾</a> ・ <a href="#/ja/item/contradiction"><span class="wiki-icon">🛡️</span>矛盾</a> ・ <a href="#/ja/item/infinity-gauntlet"><span class="wiki-icon">🧤</span>無限の手袋</a></div></div>
 
 ## 開発者向け情報
 

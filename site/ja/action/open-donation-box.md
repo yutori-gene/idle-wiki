@@ -1,6 +1,6 @@
 # 募金箱
 
-<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">募金箱</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗳️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><span class="wiki-icon">🔓</span>開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv4</td></tr><tr><th>所要時間</th><td>2分</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>80</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">募金箱</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/9472befdce7d671c.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv4</td></tr><tr><th>所要時間</th><td>2分</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>80</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 硬貨で詰まった蓋をこじ開ける。
 
@@ -10,8 +10,8 @@
 ## 必要なもの
 
 - [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv4以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🗳️</span>募金箱](/ja/item/donation-box) ×2（消費する）
-- [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×2（消費する）
+- [<img class="wiki-icon" src="assets/icon/5676c877b5bc47f0.svg" alt="">募金箱](/ja/item/donation-box) ×2（消費する）
+- [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) ×2（消費する）
 - [<span class="wiki-icon">📎</span>クリップ](/ja/item/paper-clip) ×2（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -20,9 +20,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) ×20 | 成功時 | 100% | 10 | 300 |
-| [<span class="wiki-icon">🪲</span>カブトムシ](/ja/item/beetle) ×4 | 成功時 | 100% | 2 | 60 |
-| [<span class="wiki-icon">🌰</span>金のドングリ](/ja/item/golden-acorn) ×4 | 成功時 | 49.8% | 0.996 | 29.9 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) ×20 | 成功時 | 100% | 10 | 300 |
+| [<img class="wiki-icon" src="assets/icon/4aece76562383688.svg" alt="">カブトムシ](/ja/item/beetle) ×4 | 成功時 | 100% | 2 | 60 |
+| [<img class="wiki-icon" src="assets/icon/041e1672ebae2974.svg" alt="">金のドングリ](/ja/item/golden-acorn) ×4 | 成功時 | 49.8% | 0.996 | 29.9 |
 | [<span class="wiki-icon">🧚</span>妖精の羽根](/ja/item/fairy-wing) ×4 | 成功時 | 29.9% | 0.598 | 17.9 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
@@ -42,11 +42,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 300 | 240 | 60 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 300 | 240 | 60 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><span class="wiki-icon">👛</span>財布</a> ・ <a href="#/ja/action/open-donation-box"><span class="wiki-icon">🗳️</span>募金箱</a> ・ <a href="#/ja/action/open-wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/action/open-iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/action/open-cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱</a> ・ <a href="#/ja/action/open-medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱</a> ・ <a href="#/ja/action/open-tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱</a> ・ <a href="#/ja/action/open-giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/action/open-rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a></div></div>
+<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布</a> ・ <a href="#/ja/action/open-donation-box"><img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱</a> ・ <a href="#/ja/action/open-wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/action/open-iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/action/open-cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱</a> ・ <a href="#/ja/action/open-medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱</a> ・ <a href="#/ja/action/open-tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱</a> ・ <a href="#/ja/action/open-giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/action/open-rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a></div></div>
 
 ## 開発者向け情報
 
@@ -78,7 +78,7 @@
 		"icon": {
 			"emoji": "🗳️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/9472befdce7d671c.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # 鍾乳洞の鉱石掘り
 
-<div class="wiki-infobox" style="--accent:#8f6059"><div class="wiki-infobox-title">鍾乳洞の鉱石掘り</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⛏️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><span class="wiki-icon">🧺</span>収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv11</td></tr><tr><th>所要時間</th><td>1分10秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>40</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#8f6059"><div class="wiki-infobox-title">鍾乳洞の鉱石掘り</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⛏️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/volcano"><span class="wiki-icon">🌋</span>火山</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv11</td></tr><tr><th>所要時間</th><td>1分10秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>40</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 洞窟の奥に光る石がある。
 
@@ -38,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪙</span>コイン](/ja/item/coin) | 2,630 | 0 | 2,630 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 2,630 | 0 | 2,630 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
