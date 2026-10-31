@@ -47,7 +47,7 @@ export function listPages(context: Context): Page[] {
 	const actions = page(
 		context,
 		"list/actions",
-		SHORT_NOTE,
+		`経験値%/時は1時間に上がるレベルを%で表した値（経験値の入り先カテゴリが必要Lvのときのレベル1つ分＝100%）。レベル差0・装備なしの目安で、戦闘は1戦の見込み時間で割った値。${SHORT_NOTE}`,
 		filterNote,
 		table(
 			["アクション", "場所", "グループ", "進行", "必要Lv", "時間", "成功率", "経験値%/時", "消費物", "取得物"],
@@ -61,7 +61,7 @@ export function listPages(context: Context): Page[] {
 					number(action.level),
 					action.progressType === "snap" ? "即時" : duration(action.seconds, units),
 					percent(action.chance),
-					stats.experiencePerHour !== undefined && stats.experience > 0 ? number(stats.experiencePerHour, 0) : "—",
+					stats.levelPercentPerHour !== undefined && stats.experience > 0 ? number(stats.levelPercentPerHour, 0) : "—",
 					shortConsumptions(context, action),
 					shortAcquisitions(context, action),
 				];

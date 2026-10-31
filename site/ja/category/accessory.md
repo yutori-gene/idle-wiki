@@ -80,7 +80,7 @@
 | [<span class="wiki-icon">🔺</span>ATフィールド](/ja/action/craft-at-field) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | — | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">🔺</span>ATフィールド](/ja/item/at-field) |
 | [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/action/craft-time-stopping-hourglass) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | — | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) |
 
-経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時は1時間に上がるレベルを%で表した値（必要Lvのときのレベル1つ分＝100%）。レベル差0・装備なしの目安で、戦闘は1戦の見込み時間で割った値。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

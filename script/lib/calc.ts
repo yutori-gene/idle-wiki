@@ -114,6 +114,8 @@ export interface ActionStats {
 	/** 1時間あたりの完了回数。即時は undefined */
 	runsPerHour?: number;
 	experiencePerHour?: number;
+	/** 1時間あたりの経験値を、入り先カテゴリのレベル（必要Lv＋レベル差）での「レベル1つ分＝100%」に換算した値。即時は undefined */
+	levelPercentPerHour?: number;
 	combat?: CombatEstimate;
 }
 
@@ -135,6 +137,9 @@ export function calculateActionStats(world: Type.World, action: Type.Action, num
 		cycleSeconds = combat.seconds;
 	}
 	const runsPerHour = cycleSeconds > 0 && Number.isFinite(cycleSeconds) ? 3600 / cycleSeconds : undefined;
+	const experiencePerHour = runsPerHour !== undefined ? runsPerHour * chance * experience : undefined;
+	// player は 経験値 / 100 / levelCommonRatio^(いまのレベル − 1) だけレベルを進める（update.ts）
+	const level = Math.floor(action.level + levelGap);
 	return {
 		gap,
 		seconds,
@@ -142,7 +147,8 @@ export function calculateActionStats(world: Type.World, action: Type.Action, num
 		experience,
 		cycleSeconds,
 		runsPerHour,
-		experiencePerHour: runsPerHour !== undefined ? runsPerHour * chance * experience : undefined,
+		experiencePerHour,
+		levelPercentPerHour: experiencePerHour !== undefined ? (experiencePerHour * 100) / experienceToNext(general, level) : undefined,
 		combat,
 	};
 }

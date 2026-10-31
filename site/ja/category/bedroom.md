@@ -34,7 +34,7 @@
 | [<span class="wiki-icon">🧩</span>千年パズルを組む](/ja/action/assemble-millennium-puzzle) | [<span class="wiki-icon">🖼️</span>壁](/ja/group/wall) | 単発 | Lv50 | 10時間 | 100% | — | [<span class="wiki-icon">⚙️</span>輪廻の歯車](/ja/item/samsara-gear)×2<br>[<span class="wiki-icon">🌟</span>始まりの星](/ja/item/first-star) | [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) |
 | [<span class="wiki-icon">🟡</span>金の玉を磨く](/ja/action/polish-golden-orb) | [<span class="wiki-icon">📚</span>棚](/ja/group/shelf) | 単発 | Lv50 | 10時間 | 100% | — | [<span class="wiki-icon">✨</span>星座の欠片](/ja/item/constellation-fragment)×2<br>[<span class="wiki-icon">💎</span>天空の宝玉](/ja/item/sky-orb)×5<br>[<span class="wiki-icon">✨</span>光の砂](/ja/item/light-sand)×20 | [<span class="wiki-icon">🟡</span>金の玉](/ja/item/golden-orb) |
 
-経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時は1時間に上がるレベルを%で表した値（必要Lvのときのレベル1つ分＝100%）。レベル差0・装備なしの目安で、戦闘は1戦の見込み時間で割った値。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 

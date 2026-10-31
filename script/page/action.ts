@@ -173,11 +173,11 @@ function statsSection(context: Context, action: Type.Action): string {
 			percent(stats.chance),
 			numeric ? number(stats.experience, 2) : model.label.none,
 			stats.runsPerHour !== undefined ? number(stats.runsPerHour, 1) : model.label.none,
-			stats.experiencePerHour !== undefined && numeric ? number(stats.experiencePerHour, 0) : model.label.none,
+			stats.levelPercentPerHour !== undefined && numeric ? number(stats.levelPercentPerHour, 0) : model.label.none,
 		];
 	});
 	const note = numeric
-		? "レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減る。装備による補正は含まない。"
+		? "レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。"
 		: "経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。";
 	return section("計算値", join(table(["レベル差", "所要時間", "成功率", "経験値/成功", "実行回数/時", "経験値%/時"], rows), note));
 }

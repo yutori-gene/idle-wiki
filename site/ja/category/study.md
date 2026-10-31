@@ -43,7 +43,7 @@
 | [<span class="wiki-icon">📜</span>死海文書](/ja/action/cosmic-truth-studies) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv1 | 2日 | 100% | — | [<span class="wiki-icon">📜</span>死海文書](/ja/item/dead-sea-scrolls) | [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) |
 | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/action/read-catcher-in-the-rye) | [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | 単発 | Lv1 | 1日4時間 | 100% | — | [<span class="wiki-icon">📗</span>ライ麦畑でつかまえて](/ja/item/catcher-in-the-rye) | [<span class="wiki-icon">🌾</span>ライ麦](/ja/item/rye) |
 
-経験値%/時はレベル差0・装備なしの目安（戦闘は1戦の見込み時間で割った値）。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
+経験値%/時は1時間に上がるレベルを%で表した値（必要Lvのときのレベル1つ分＝100%）。レベル差0・装備なしの目安で、戦闘は1戦の見込み時間で割った値。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 
