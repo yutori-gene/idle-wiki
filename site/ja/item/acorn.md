@@ -14,7 +14,7 @@
 | [<img class="wiki-icon" src="assets/icon/732665ba6a1aee85.svg" alt="">落ち葉拾い](/ja/action/gather-fallen-leaves) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv1 | 5 | 56% | 1.4 | 504 |
 | [<img class="wiki-icon" src="assets/icon/8037b426178499e5.svg" alt="">池のほとり](/ja/action/pond-side) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv14 | 3 | 91% | 1.4 | 491 |
 | [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv9 | 1 | 10.7% | 0.054 | 9.3 |
-| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv41 | 1 | 1.17% | 0.006 | 0.082 |
+| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv41 | 1 | 1.17% | 0.006 | 0.001 |
 | [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv49 | 1 | 2.05% | 0.01 | 0 |
 | [<span class="wiki-icon">🐢</span>クッパ](/ja/action/walk-turtle) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv25 | 6 | 100% | 4.5 | 1.5 |
 | [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv13 | 6 | 100% | 4.5 | 1.5 |

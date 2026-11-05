@@ -12,7 +12,6 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv40 | 6 | 100% | 4.8 | 0.6 |
-| [<span class="wiki-icon">🧊</span>冷たい宝箱](/ja/action/open-cold-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv21 | 6 | 96% | 3.7 | 37.4 |
 
 ## 用途
 
@@ -23,7 +22,7 @@
 | [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/action/play-with-fire-bird) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv43 | 2 | 100% |  |
 | [<span class="wiki-icon">🔩</span>かまどの部品](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv46 | 25 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

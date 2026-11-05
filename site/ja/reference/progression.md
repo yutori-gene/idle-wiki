@@ -55,6 +55,9 @@ flowchart TD
   c_basement["⚗️ 地下室"]
   click c_basement "#/ja/category/basement"
   style c_basement fill:#736883,color:#fff,stroke:#0003
+  c_atelier["⚒️ 工房"]
+  click c_atelier "#/ja/category/atelier"
+  style c_atelier fill:#463476,color:#fff,stroke:#0003
   c_bedroom["🛏️ 寝室"]
   click c_bedroom "#/ja/category/bedroom"
   style c_bedroom fill:#9196ab,color:#fff,stroke:#0003
@@ -132,6 +135,7 @@ flowchart TD
   c_forest -->|Lv7| c_study
   c_forest -->|Lv9| c_loft
   c_town -->|Lv3| c_basement
+  c_town -->|Lv9| c_atelier
   c_sea -->|Lv4| c_bedroom
   c_sea -->|Lv6| c_workshop
   c_park -->|Lv6| c_melee_weapon
@@ -162,6 +166,7 @@ flowchart TD
 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv7以上 |  |
 | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv9以上 |  |
 | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv3以上 |  |
+| [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv9以上 |  |
 | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) Lv4以上 |  |
 | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) Lv6以上 |  |
 | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv6以上 |  |

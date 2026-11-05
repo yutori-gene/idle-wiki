@@ -13,8 +13,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">⛏️</span>埋もれた鉱夫町](/ja/action/buried-miner-town) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv5 | 2 | 25.9% | 0.259 | 13.3 |
 | [<span class="wiki-icon">⛏️</span>鍾乳洞の鉱石掘り](/ja/action/limestone-cave-ore-digging) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv11 | 2 | 25.9% | 0.259 | 13.3 |
-| [<span class="wiki-icon">🗿</span>黒曜石のガーゴイル](/ja/action/obsidian-gargoyle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 | 1 | 0.878% | 0.004 | 0 |
-| [<span class="wiki-icon">🪲</span>灼熱の甲虫](/ja/action/scorching-beetle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 | 1 | 0.713% | 0.004 | 0 |
+| [<span class="wiki-icon">🗿</span>黒曜石のガーゴイル](/ja/action/obsidian-gargoyle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 | 1 | 0.878% | 0.004 | 0.001 |
+| [<span class="wiki-icon">🪲</span>灼熱の甲虫](/ja/action/scorching-beetle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 | 1 | 0.713% | 0.004 | 0.001 |
 | [<span class="wiki-icon">🌋</span>古代の溶岩洞](/ja/action/ancient-lava-tube) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv8 | 2 | 41.8% | 0.836 | 0.239 |
 
 ## 用途
@@ -23,10 +23,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪓</span>トマホーク](/ja/action/craft-tomahawk) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv37 | 2 | 100% |  |
-| [<span class="wiki-icon">🔮</span>闇のペンダント](/ja/action/craft-dark-pendant) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv36 | 2 | 100% |  |
+| [<span class="wiki-icon">🪓</span>トマホーク](/ja/action/craft-tomahawk) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv37 | 2 | 100% |  |
+| [<span class="wiki-icon">🏛️</span>ダビデ像](/ja/action/craft-statue-of-david) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv36 | 4 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

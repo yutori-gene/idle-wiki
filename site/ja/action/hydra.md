@@ -18,10 +18,10 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×1 | 成功時 | 4.61% | 0.023 | 3 |
-| [<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom) ×1 | 成功時 | 5.6% | 0.028 | 3.6 |
+| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×1 | 成功時 | 4.61% | 0.023 | 2.9 |
+| [<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom) ×1 | 成功時 | 5.6% | 0.028 | 3.5 |
 | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) ×1 | 成功時 | 1.92% | 0.01 | 1.2 |
-| [<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite) ×1 | 成功時 | 0.173% | 0.001 | 0.111 |
+| [<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite) ×1 | 成功時 | 0.173% | 0.001 | 0.109 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -31,7 +31,7 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 20 | 9 | 5 | 0 | 13 |
+| 20 | 9 | 9 | 2 | 14 |
 
 **敵のスキル**
 
@@ -44,10 +44,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv12） | 13.9% | 4.5% | 75% | 23.1% | 14.3% | 10.7 | 36.9% | 28秒 | 連戦で少しずつ消耗する |
-| +10（Lv22） | 20.8% | 3.67% | 81.8% | 26.9% | 20% | 6.1 | 16.4% | 13.9秒 | 放置で連戦できる |
-| +20（Lv32） | 31.2% | 3% | 87.1% | 31.1% | 27.3% | 4.6 | 9.49% | 8.9秒 | 放置で連戦できる |
-| +30（Lv42） | 46.9% | 2.45% | 91% | 35.6% | 36% | 3.3 | 5.2% | 5.6秒 | 放置で連戦できる |
+| ±0（Lv12） | 13.9% | 4.5% | 73.4% | 21.7% | 13.8% | 10.9 | 38.4% | 28.5秒 | 連戦で少しずつ消耗する |
+| +10（Lv22） | 20.8% | 3.67% | 80.6% | 25.4% | 19.3% | 6.2 | 17% | 14.1秒 | 放置で連戦できる |
+| +20（Lv32） | 31.2% | 3% | 86.2% | 29.4% | 26.5% | 4.6 | 9.83% | 9秒 | 放置で連戦できる |
+| +30（Lv42） | 46.9% | 2.45% | 90.3% | 33.8% | 35% | 3.3 | 5.39% | 5.6秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -55,10 +55,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv12） | 2.4秒 | 50% | 1.37 | 128.6 | 28 |
-| +10（Lv22） | 2秒 | 60% | 0.91 | 258.3 | 16 |
-| +20（Lv32） | 1.6秒 | 69.2% | 0.61 | 402.3 | 7 |
-| +30（Lv42） | 1.3秒 | 77.1% | 0.41 | 641.4 | 3 |
+| ±0（Lv12） | 2.4秒 | 50% | 1.37 | 126.1 | 27 |
+| +10（Lv22） | 2秒 | 60% | 0.91 | 255 | 16 |
+| +20（Lv32） | 1.6秒 | 69.2% | 0.61 | 398.7 | 7 |
+| +30（Lv42） | 1.3秒 | 77.1% | 0.41 | 637.7 | 3 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
@@ -66,11 +66,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 30 | 15 | 14 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 29 | 15 | 14 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><span class="wiki-icon">🌰</span>木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><span class="wiki-icon">🪵</span>倒木あさり</a> ・ <a href="#/ja/action/snake"><span class="wiki-icon">🐍</span>ヘビ</a> ・ <a href="#/ja/action/walking-mushroom"><span class="wiki-icon">🍄</span>歩くキノコ</a> ・ <a href="#/ja/action/man-eating-plant"><span class="wiki-icon">🌱</span>食人植物</a> ・ <a href="#/ja/action/rabbit-girl"><span class="wiki-icon">🐰</span>ラビットガール</a> ・ <a href="#/ja/action/cockatrice"><span class="wiki-icon">🐔</span>コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/druid"><span class="wiki-icon">🧙</span>ドルイド</a> ・ <a href="#/ja/action/bear"><span class="wiki-icon">🐻</span>クマ</a> ・ <a href="#/ja/action/orc"><span class="wiki-icon">👹</span>オーク</a> ・ <a href="#/ja/action/flying-elephant"><span class="wiki-icon">🐘</span>空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><span class="wiki-icon">🐎</span>ケンタウロス</a> ・ <a href="#/ja/action/wolf"><span class="wiki-icon">🐺</span>ウルフ</a> ・ <a href="#/ja/action/hydra"><span class="wiki-icon">🐉</span>ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><span class="wiki-icon">⛩️</span>古い祠の調査</a></div></div>
+<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><span class="wiki-icon">🌰</span>木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><span class="wiki-icon">🪵</span>倒木あさり</a> ・ <a href="#/ja/action/rabbit-girl"><span class="wiki-icon">🐰</span>ラビットガール</a> ・ <a href="#/ja/action/snake"><span class="wiki-icon">🐍</span>ヘビ</a> ・ <a href="#/ja/action/walking-mushroom"><span class="wiki-icon">🍄</span>歩くキノコ</a> ・ <a href="#/ja/action/man-eating-plant"><span class="wiki-icon">🌱</span>食人植物</a> ・ <a href="#/ja/action/cockatrice"><span class="wiki-icon">🐔</span>コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/druid"><span class="wiki-icon">🧙</span>ドルイド</a> ・ <a href="#/ja/action/bear"><span class="wiki-icon">🐻</span>クマ</a> ・ <a href="#/ja/action/orc"><span class="wiki-icon">👹</span>オーク</a> ・ <a href="#/ja/action/flying-elephant"><span class="wiki-icon">🐘</span>空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><span class="wiki-icon">🐎</span>ケンタウロス</a> ・ <a href="#/ja/action/wolf"><span class="wiki-icon">🐺</span>ウルフ</a> ・ <a href="#/ja/action/hydra"><span class="wiki-icon">🐉</span>ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><span class="wiki-icon">⛩️</span>古い祠の調査</a></div></div>
 
 ## 開発者向け情報
 
@@ -155,9 +155,9 @@
 	"property": {
 		"attack": 20,
 		"defence": 9,
-		"accuracy": 5,
-		"evasion": 0,
-		"restore": 13
+		"accuracy": 9,
+		"evasion": 2,
+		"restore": 14
 	},
 	"skills": [
 		"charm",

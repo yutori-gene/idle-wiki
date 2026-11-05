@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 | 1 | 0.416% | 0.002 | 0.057 |
+| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 | 1 | 0.416% | 0.002 | 0.013 |
 
 ### イベント
 
@@ -19,16 +19,7 @@
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">🔩</span>ネジ拾い](/ja/event/screw-pickup) | 条件達成（タスク） | 1 | 100% |
 
-## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💿</span>DVD](/ja/action/craft-dvd) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv32 | 3 | 100% |  |
-| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機](/ja/action/craft-bowtie-voice-changer) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv30 | 2 | 100% |  |
-
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

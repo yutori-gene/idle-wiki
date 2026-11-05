@@ -13,36 +13,20 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🩹</span>腹巻き（分解）](/ja/action/disassemble-belly-warmer) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv18 | 1 | 100% | 1 | 3 |
 | [<span class="wiki-icon">👑</span>裸の王様の服（分解）](/ja/action/disassemble-emperors-new-clothes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv18 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">👓</span>メガネ（分解）](/ja/action/disassemble-glasses) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv18 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">🩹</span>アイパッチ（分解）](/ja/action/disassemble-eyepatch) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv18 | 1 | 100% | 1 | 3 |
 | [<span class="wiki-icon">🏮</span>ランタン（分解）](/ja/action/disassemble-lantern) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv19 | 1 | 100% | 1 | 3 |
 | [<span class="wiki-icon">🤲</span>救いの手（分解）](/ja/action/disassemble-helping-hand) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">🏊</span>浮き輪（分解）](/ja/action/disassemble-swim-ring) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv22 | 1 | 100% | 1 | 3 |
-| [<span class="wiki-icon">👟</span>音が鳴る靴（分解）](/ja/action/disassemble-squeaky-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv22 | 1 | 100% | 1 | 3 |
 | [<span class="wiki-icon">🧤</span>6本指の手袋（分解）](/ja/action/disassemble-six-finger-glove) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv23 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🧦</span>絹の足袷（分解）](/ja/action/disassemble-silk-leggings) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv24 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🦷</span>入れ歯（分解）](/ja/action/disassemble-dentures) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv24 | 1 | 100% | 1 | 2.4 |
 | [<span class="wiki-icon">🥋</span>革の胸当（分解）](/ja/action/disassemble-leather-breastplate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">⛸️</span>アイススケート（分解）](/ja/action/disassemble-ice-skate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 1 | 100% | 1 | 2.4 |
 | [<span class="wiki-icon">👘</span>絹の服（分解）](/ja/action/disassemble-silk-clothes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv26 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🏆</span>月桂冠（分解）](/ja/action/disassemble-laurel-crown) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv26 | 1 | 100% | 1 | 2.4 |
 | [<span class="wiki-icon">🔥</span>松明（分解）](/ja/action/disassemble-torch) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv27 | 1 | 100% | 1 | 2.4 |
-| [<span class="wiki-icon">🥽</span>スカウター（分解）](/ja/action/disassemble-scouter) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv28 | 1 | 100% | 1 | 2 |
 | [<img class="wiki-icon" src="assets/icon/9d3ba59baf84e670.svg" alt="">チェインメイル（分解）](/ja/action/disassemble-chainmail) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv29 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🥾</span>革のブーツ（分解）](/ja/action/disassemble-leather-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv30 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🦵</span>鉄の脇当て（分解）](/ja/action/disassemble-iron-greaves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv30 | 1 | 100% | 1 | 2 |
 | [<span class="wiki-icon">🧤</span>革の手袋（分解）](/ja/action/disassemble-leather-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv30 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">⛑️</span>鉄の兜（分解）](/ja/action/disassemble-iron-helmet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv31 | 1 | 100% | 1 | 2 |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ（分解）](/ja/action/disassemble-bulletproof-vest) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv32 | 1 | 100% | 1 | 2 |
 | [<span class="wiki-icon">🦀</span>カニのハサミ（分解）](/ja/action/disassemble-crab-claw) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv32 | 1 | 100% | 1 | 2 |
 | [<span class="wiki-icon">🥋</span>鉄の胸当（分解）](/ja/action/disassemble-iron-breastplate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv33 | 1 | 100% | 1 | 1.7 |
 | [<span class="wiki-icon">⏰</span>麻酔時計（分解）](/ja/action/disassemble-anesthetic-watch) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv34 | 1 | 100% | 1 | 1.7 |
 | [<span class="wiki-icon">🧤</span>鉄の籠手（分解）](/ja/action/disassemble-iron-gauntlet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv34 | 1 | 100% | 1 | 1.7 |
 | [<span class="wiki-icon">👙</span>ビキニアーマー（分解）](/ja/action/disassemble-bikini-armor) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv35 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">👠</span>ハイヒール（分解）](/ja/action/disassemble-high-heels) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv35 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">👟</span>キック力増強シューズ（分解）](/ja/action/disassemble-kick-boost-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv35 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🎎</span>だるま（分解）](/ja/action/disassemble-daruma) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv35 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🎃</span>パンプキンヘッド（分解）](/ja/action/disassemble-pumpkin-head) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv36 | 1 | 100% | 1 | 1.7 |
 
 ## 用途
 
@@ -50,23 +34,19 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
+| [<span class="wiki-icon">🥋</span>スケイルメイル](/ja/action/craft-scale-mail) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv40 | 2 | 100% |  |
+| [<span class="wiki-icon">👘</span>僧侶の法衣](/ja/action/craft-priest-robe) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv40 | 2 | 100% |  |
+| [<span class="wiki-icon">👑</span>王族の正装](/ja/action/craft-royal-formal-dress) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv40 | 2 | 100% |  |
+| [<span class="wiki-icon">🔺</span>令呪](/ja/action/craft-command-spell) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv40 | 2 | 100% |  |
+| [<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/action/craft-aegis) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv40 | 2 | 100% |  |
 | [<span class="wiki-icon">👘</span>神衣](/ja/action/craft-god-robe) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv43 | 2 | 100% |  |
-| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/action/craft-odm-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv43 | 2 | 100% |  |
-| [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/action/craft-jade-hairpin) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv43 | 2 | 100% |  |
 | [<span class="wiki-icon">🛡️</span>矛盾](/ja/action/craft-contradiction) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv44 | 2 | 100% |  |
-| [<span class="wiki-icon">⚫</span>虚無のリング](/ja/action/craft-void-ring) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv46 | 2 | 100% |  |
 | [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/action/craft-plug-suit) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv47 | 2 | 100% |  |
 | [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/action/craft-box-gundam) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv48 | 2 | 100% |  |
-| [<span class="wiki-icon">⭐</span>ワープスター](/ja/action/craft-warp-star) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv48 | 2 | 100% |  |
-| [<span class="wiki-icon">👁️</span>写輪眼](/ja/action/craft-sharingan) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv49 | 2 | 100% |  |
 | [<span class="wiki-icon">👘</span>聖衣](/ja/action/craft-holy-cloth) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/action/craft-winged-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">👁️</span>六眼の瞳](/ja/action/craft-six-eyes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/action/craft-crystal-skull) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">😇</span>天使の輪](/ja/action/craft-halo) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 2 | 100% |  |
 | [<span class="wiki-icon">🧤</span>無限の手袋](/ja/action/craft-infinity-gauntlet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 2 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: リサイクル素材</div><div class="wiki-navbox-body"><a href="#/ja/item/rusty-metal-piece"><span class="wiki-icon">🔩</span>錆びた金属片</a> ・ <a href="#/ja/item/frayed-cloth"><span class="wiki-icon">🧵</span>ほつれた布切れ</a> ・ <a href="#/ja/item/dull-stone"><span class="wiki-icon">🪨</span>くすんだ石</a> ・ <a href="#/ja/item/tanned-leather-piece"><span class="wiki-icon">🟫</span>なめし革の断片</a> ・ <a href="#/ja/item/forged-metal-ingot"><span class="wiki-icon">🔩</span>鍛えた金属塊</a> ・ <a href="#/ja/item/polished-gem-piece"><span class="wiki-icon">💎</span>磨かれた宝石片</a></div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: リサイクル素材</div><div class="wiki-navbox-body"><a href="#/ja/item/rusty-metal-piece"><span class="wiki-icon">🔩</span>錆びた金属片</a> ・ <a href="#/ja/item/frayed-cloth"><span class="wiki-icon">🧵</span>ほつれた布切れ</a> ・ <a href="#/ja/item/tanned-leather-piece"><span class="wiki-icon">🟫</span>なめし革の断片</a> ・ <a href="#/ja/item/forged-metal-ingot"><span class="wiki-icon">🔩</span>鍛えた金属塊</a></div></div>
 
 ## 開発者向け情報
 

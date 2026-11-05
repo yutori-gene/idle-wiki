@@ -18,7 +18,6 @@
 | [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit) ×1 | 成功時 | 4.03% | 0.02 | 3.8 |
 | [<span class="wiki-icon">🦉</span>フクロウ](/ja/item/owl) ×1 | 成功時 | 0.151% | 0.001 | 0.144 |
 | [<span class="wiki-icon">🍯</span>樹液](/ja/item/tree-sap) ×1 | 成功時 | 7.05% | 0.035 | 6.7 |
-| [<span class="wiki-icon">🩱</span>孫の手](/ja/item/back-scratcher) ×1 | 成功時 | 0.327% | 0.002 | 0.311 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -28,7 +27,7 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 15 | 4 | 2 | 0 | 8 |
+| 15 | 4 | 6 | 0 | 9 |
 
 **敵のスキル**
 
@@ -38,10 +37,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv11） | 17% | 4.07% | 75% | 24.2% | 16.9% | 8 | 24.6% | 18.9秒 | 連戦で少しずつ消耗する |
-| +10（Lv21） | 25.5% | 3.32% | 81.8% | 28.2% | 23.4% | 4.9 | 11.7% | 10.1秒 | 放置で連戦できる |
-| +20（Lv31） | 38.3% | 2.71% | 87.1% | 32.4% | 31.5% | 3.4 | 6.31% | 6.2秒 | 放置で連戦できる |
-| +30（Lv41） | 57.4% | 2.21% | 91% | 37% | 40.8% | 2.2 | 3.06% | 3.7秒 | 放置で連戦できる |
+| ±0（Lv11） | 17% | 4.07% | 75% | 22.8% | 16.4% | 8 | 25.1% | 18.9秒 | 連戦で少しずつ消耗する |
+| +10（Lv21） | 25.5% | 3.32% | 81.8% | 26.6% | 22.7% | 4.9 | 11.9% | 10.1秒 | 放置で連戦できる |
+| +20（Lv31） | 38.3% | 2.71% | 87.1% | 30.7% | 30.6% | 3.4 | 6.47% | 6.2秒 | 放置で連戦できる |
+| +30（Lv41） | 57.4% | 2.21% | 91% | 35.2% | 39.8% | 2.2 | 3.15% | 3.7秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -60,11 +59,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 157 | 0 | 157 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 152 | 0 | 152 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><span class="wiki-icon">🌰</span>木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><span class="wiki-icon">🪵</span>倒木あさり</a> ・ <a href="#/ja/action/snake"><span class="wiki-icon">🐍</span>ヘビ</a> ・ <a href="#/ja/action/walking-mushroom"><span class="wiki-icon">🍄</span>歩くキノコ</a> ・ <a href="#/ja/action/man-eating-plant"><span class="wiki-icon">🌱</span>食人植物</a> ・ <a href="#/ja/action/rabbit-girl"><span class="wiki-icon">🐰</span>ラビットガール</a> ・ <a href="#/ja/action/cockatrice"><span class="wiki-icon">🐔</span>コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/druid"><span class="wiki-icon">🧙</span>ドルイド</a> ・ <a href="#/ja/action/bear"><span class="wiki-icon">🐻</span>クマ</a> ・ <a href="#/ja/action/orc"><span class="wiki-icon">👹</span>オーク</a> ・ <a href="#/ja/action/flying-elephant"><span class="wiki-icon">🐘</span>空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><span class="wiki-icon">🐎</span>ケンタウロス</a> ・ <a href="#/ja/action/wolf"><span class="wiki-icon">🐺</span>ウルフ</a> ・ <a href="#/ja/action/hydra"><span class="wiki-icon">🐉</span>ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><span class="wiki-icon">⛩️</span>古い祠の調査</a></div></div>
+<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><span class="wiki-icon">🌰</span>木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><span class="wiki-icon">🪵</span>倒木あさり</a> ・ <a href="#/ja/action/rabbit-girl"><span class="wiki-icon">🐰</span>ラビットガール</a> ・ <a href="#/ja/action/snake"><span class="wiki-icon">🐍</span>ヘビ</a> ・ <a href="#/ja/action/walking-mushroom"><span class="wiki-icon">🍄</span>歩くキノコ</a> ・ <a href="#/ja/action/man-eating-plant"><span class="wiki-icon">🌱</span>食人植物</a> ・ <a href="#/ja/action/cockatrice"><span class="wiki-icon">🐔</span>コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/druid"><span class="wiki-icon">🧙</span>ドルイド</a> ・ <a href="#/ja/action/bear"><span class="wiki-icon">🐻</span>クマ</a> ・ <a href="#/ja/action/orc"><span class="wiki-icon">👹</span>オーク</a> ・ <a href="#/ja/action/flying-elephant"><span class="wiki-icon">🐘</span>空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><span class="wiki-icon">🐎</span>ケンタウロス</a> ・ <a href="#/ja/action/wolf"><span class="wiki-icon">🐺</span>ウルフ</a> ・ <a href="#/ja/action/hydra"><span class="wiki-icon">🐉</span>ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><span class="wiki-icon">⛩️</span>古い祠の調査</a></div></div>
 
 ## 開発者向け情報
 
@@ -129,21 +128,15 @@
 			"id": "tree-sap",
 			"count": 1,
 			"chance": 0.0705
-		},
-		{
-			"type": "item",
-			"id": "back-scratcher",
-			"count": 1,
-			"chance": 0.00327
 		}
 	],
 	"progressType": "stamina",
 	"property": {
 		"attack": 15,
 		"defence": 4,
-		"accuracy": 2,
+		"accuracy": 6,
 		"evasion": 0,
-		"restore": 8
+		"restore": 9
 	},
 	"skills": [
 		"revelation"

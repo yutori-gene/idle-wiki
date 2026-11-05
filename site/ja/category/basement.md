@@ -1,6 +1,6 @@
 # 地下室
 
-<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">地下室</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/base"><span class="wiki-icon">🏠</span>拠点</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>28本</td></tr><tr><th>管理アイテム</th><td>29種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">地下室</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/base"><span class="wiki-icon">🏠</span>拠点</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>29本</td></tr><tr><th>管理アイテム</th><td>28種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **生産型**の拠点（調合）。温室・ダンジョンの素材でポーションを作る。
 
@@ -32,6 +32,7 @@
 | [<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv15 | 4分 | 60% | 280 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×4<br>[<span class="wiki-icon">🧂</span>塩](/ja/item/salt)×6 | [<span class="wiki-icon">🔥</span>カイロ](/ja/item/heat-pack)×50 |
 | [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv17 | 2分 | 80% | 230 | [<span class="wiki-icon">🌿</span>薬草](/ja/item/herb)×2<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) | [<span class="wiki-icon">👁️</span>目薬](/ja/item/eye-drops)×19 |
 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv19 | 6分 | 50% | 184 | [<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal)×2<br>[<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle)×2 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack)×91 |
+| [<span class="wiki-icon">🍾</span>火炎ビン](/ja/action/brew-molotov) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv20 | 4分 | 80% | 167 | [<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle)×2<br>[<span class="wiki-icon">🛢️</span>油](/ja/item/oil)×2<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) | [<span class="wiki-icon">🍾</span>火炎ビン](/ja/item/molotov)×70 |
 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv21 | 3分 | 75% | 151 | [<span class="wiki-icon">🌿</span>薬草](/ja/item/herb)×2<br>[<span class="wiki-icon">🌫️</span>灰](/ja/item/ash)×3 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller)×31 |
 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv23 | 8分 | 85% | 121 | [<span class="wiki-icon">🐦‍🔥</span>不死鳥の灰](/ja/item/phoenix-ash)×2<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×2<br>[<span class="wiki-icon">🐉</span>竜の鱗](/ja/item/dragon-scale)×2 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/item/phoenix-tail)×73 |
 | [<span class="wiki-icon">☕</span>眠気覚まし](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | 連続 | Lv26 | 3分 | 70% | 89 | [<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom)<br>[<span class="wiki-icon">🌶️</span>とうがらし](/ja/item/chili) | [<span class="wiki-icon">☕</span>眠気覚まし](/ja/item/anti-drowsiness)×33 |
@@ -58,9 +59,6 @@
 
 | アイテム | グループ | 装備 | 売値 | 買値 |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) | [<span class="wiki-icon">⚒️</span>粉砕](/ja/group/crushing) | 装備必須 | — | — |
-| [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) | [<span class="wiki-icon">🧫</span>蒸留](/ja/group/distilling) | 装備必須 | — | — |
-| [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) | [<span class="wiki-icon">🧫</span>溶解](/ja/group/melting) | 装備必須 | — | — |
 | [<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 3 | — |
 | [<span class="wiki-icon">🩹</span>絆創膏](/ja/item/bandage) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 3 | — |
 | [<span class="wiki-icon">💊</span>風邪薬](/ja/item/cold-medicine) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 9 | — |
@@ -71,7 +69,6 @@
 | [<span class="wiki-icon">✨</span>発光する薬](/ja/item/glowing-medicine) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 36 | — |
 | [<img class="wiki-icon" src="assets/icon/ff59e56b98270140.svg" alt="">エーテル](/ja/item/ether) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 324 | — |
 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 5 | — |
-| [<span class="wiki-icon">🦟</span>むしよけスプレー](/ja/item/insect-repellent) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 18 | — |
 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 18 | — |
 | [<span class="wiki-icon">☕</span>眠気覚まし](/ja/item/anti-drowsiness) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 21 | — |
 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/item/phoenix-tail) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 1,701 | — |
@@ -87,12 +84,20 @@
 | [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/item/bottled-spirit) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 7,290 | — |
 | [<span class="wiki-icon">🧪</span>エリクサー](/ja/item/elixir) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 7,290 | — |
 | [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/item/felix-felicis) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 | 65,610 | — |
+| [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不要 | — | — |
+| [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不要 | — | — |
+| [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) | [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | 装備不要 | — | — |
 
 ## 効果を与えるアイテム
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（79種）</summary>
+| アイテム | 装備 | 成功率 | 経験値 |
+| --- | --- | --- | --- |
+| [<span class="wiki-icon">🔴</span>賢者の石](/ja/item/philosophers-stone) | 装備必須 | +5 |  |
+| [<span class="wiki-icon">🔯</span>六芒星のお守り](/ja/item/hexagram-charm) | 装備必須 |  | +6 |
+
+<details><summary>全カテゴリに効くアイテム（155種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -102,6 +107,9 @@
 | [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad) | 消費装備 |  |  |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana) | 消費装備 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🍎</span>リンゴ](/ja/item/apple) | 消費装備 |  |  |  |  | +2 |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
@@ -121,26 +129,40 @@
 | [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
+| [<span class="wiki-icon">🍬</span>飴](/ja/item/candy) | 消費装備 |  |  |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/item/potion-bread) | 消費装備 |  |  |  |  | +6 |  |  |  |
+| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/item/escargot) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/item/stir-fried-vegetables) | 消費装備 |  |  |  |  | +8 |  |  |  |
+| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/item/meat-bun-tomato-stew) | 消費装備 |  |  |  |  | +8 |  |  |  |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/item/grilled-fish) | 消費装備 |  |  |  |  | +10 |  |  |  |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/item/beef-jerky) | 消費装備 |  |  |  |  | +11 |  |  |  |
+| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/item/burning-tofu) | 消費装備 |  |  |  |  | +11 |  |  |  |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango) | 消費装備 |  |  |  |  | +15 |  |  |  |
+| [<span class="wiki-icon">🫘</span>仙豆](/ja/item/senzu-bean) | 消費装備 |  |  |  |  | +15 |  |  |  |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
 | [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
 | [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
 | [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
-| [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
-| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/item/grandfather-clock) | 装備必須 |  |  |  |  |  |  |  | +9 |
-| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/item/peacock-feather) | 装備必須 |  |  |  |  |  |  |  | +2 |
-| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/item/heart-piece) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) | 装備必須 |  |  |  |  |  |  |  | +7 |
-| [<span class="wiki-icon">📜</span>遺言書](/ja/item/will-document) | 装備必須 |  |  |  |  |  |  |  | +8 |
-| [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) | 装備必須 |  |  |  |  |  |  |  | +9 |
-| [<span class="wiki-icon">✉️</span>ボトルメール](/ja/item/message-in-a-bottle) | 装備必須 |  |  |  |  |  |  |  | +4 |
-| [<span class="wiki-icon">❄️</span>スノードーム](/ja/item/snow-globe) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">🔮</span>万華鏡](/ja/item/kaleidoscope) | 装備必須 |  |  |  |  |  |  |  | +6 |
-| [<span class="wiki-icon">📼</span>無限ループするビデオテープ](/ja/item/infinite-loop-videotape) | 装備必須 |  |  |  |  |  |  |  | +8 |
-| [<span class="wiki-icon">🟡</span>金の玉](/ja/item/golden-orb) | 装備必須 |  |  |  |  |  |  |  | +10 |
+| [<span class="wiki-icon">🦷</span>ミミック](/ja/item/mimic) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +4 |
+| [<span class="wiki-icon">🏛️</span>ダビデ像](/ja/item/statue-of-david) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/item/grandfather-clock) | 装備必須 |  |  |  |  |  |  |  | +6 |
+| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/item/peacock-feather) | 装備必須 |  |  |  |  |  |  |  | +1 |
+| [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">📜</span>遺言書](/ja/item/will-document) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">📼</span>無限ループするビデオテープ](/ja/item/infinite-loop-videotape) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🟡</span>金の玉](/ja/item/golden-orb) | 装備必須 |  |  |  |  |  |  |  | +7 |
+| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/item/heart-piece) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) | 装備必須 |  |  |  |  |  |  |  | +6 |
+| [<span class="wiki-icon">✉️</span>ボトルメール](/ja/item/message-in-a-bottle) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">❄️</span>スノードーム](/ja/item/snow-globe) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🔮</span>万華鏡](/ja/item/kaleidoscope) | 装備必須 |  |  |  |  |  |  |  | +4 |
 | [<span class="wiki-icon">🐇</span>ウサギ小屋](/ja/item/rabbit-hutch) | 装備不要 |  |  |  |  |  | +3 |  |  |
 | [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/item/ruining-cushion) | 装備不要 |  |  |  |  |  | +2 |  |  |
 | [<span class="wiki-icon">🪣</span>井戸](/ja/item/well) | 装備不要 |  |  |  |  |  | +6 |  |  |
@@ -155,28 +177,87 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
-| [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎓</span>学ラン](/ja/item/gakuran) | 装備必須 |  | +13 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🩹</span>腹巻き](/ja/item/belly-warmer) | 装備必須 |  | +19 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🥋</span>スケイルメイル](/ja/item/scale-mail) | 装備必須 |  | +73 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>僧侶の法衣](/ja/item/priest-robe) | 装備必須 |  | +73 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) | 装備必須 |  | +91 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>神衣](/ja/item/god-robe) | 装備必須 |  | +105 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) | 装備必須 |  | +105 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>聖衣](/ja/item/holy-cloth) | 装備必須 |  | +119 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/item/box-gundam) | 装備必須 |  | +166 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) | 装備不可 | +44 | +28 | +6 | +5 | +15 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭](/ja/item/fake-beard) | 装備必須 |  | +1 | +2 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/21c4e6a062160394.svg" alt="">鍋かぶと](/ja/item/pot-helmet) | 装備必須 |  | +1 | +2 |  |  |  |  |  |
+| [<span class="wiki-icon">🧕</span>赤ずきん](/ja/item/red-hood) | 装備必須 |  | +3 | +3 |  |  |  |  |  |
+| [<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) | 装備必須 |  | +4 | +3 |  |  |  |  |  |
+| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/item/chef-hat) | 装備必須 |  | +5 | +5 |  |  |  |  |  |
+| [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) | 装備必須 |  | +6 | +5 |  |  |  |  |  |
+| [<span class="wiki-icon">👓</span>メガネ](/ja/item/glasses) | 装備必須 |  | +8 | +6 |  |  |  |  |  |
+| [<span class="wiki-icon">🩹</span>アイパッチ](/ja/item/eyepatch) | 装備必須 |  | +8 | +6 |  |  |  |  |  |
+| [<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) | 装備必須 |  | +11 | +8 |  |  |  |  |  |
+| [<span class="wiki-icon">🦷</span>入れ歯](/ja/item/dentures) | 装備必須 |  | +13 | +8 |  |  |  |  |  |
+| [<span class="wiki-icon">🥽</span>スカウター](/ja/item/scouter) | 装備必須 |  | +16 | +9 |  |  |  |  |  |
+| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/item/iron-helmet) | 装備必須 |  | +16 | +9 |  |  |  |  |  |
+| [<span class="wiki-icon">🎎</span>だるま](/ja/item/daruma) | 装備必須 |  | +20 | +11 |  |  |  |  |  |
+| [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/item/pumpkin-head) | 装備必須 |  | +26 | +11 |  |  |  |  |  |
+| [<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) | 装備必須 |  | +31 | +12 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/89b6e6d7412928e1.svg" alt="">絹の帽子](/ja/item/silk-hat) | 装備必須 |  | +31 | +12 |  |  |  |  |  |
+| [<span class="wiki-icon">👑</span>王冠](/ja/item/crown) | 装備必須 |  | +38 | +12 |  |  |  |  |  |
+| [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/item/jade-hairpin) | 装備必須 |  | +44 | +14 |  |  |  |  |  |
+| [<span class="wiki-icon">⚫</span>虚無のリング](/ja/item/void-ring) | 装備必須 |  | +44 | +14 |  |  |  |  |  |
+| [<span class="wiki-icon">👁️</span>六眼の瞳](/ja/item/six-eyes) | 装備必須 |  | +50 | +15 |  |  |  |  |  |
+| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/item/crystal-skull) | 装備必須 |  | +60 | +15 |  |  |  |  |  |
+| [<span class="wiki-icon">👁️</span>写輪眼](/ja/item/sharingan) | 装備必須 |  | +60 | +15 |  |  |  |  |  |
+| [<span class="wiki-icon">😇</span>天使の輪](/ja/item/halo) | 装備必須 |  | +70 | +15 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  | +1 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🎓</span>学ラン](/ja/item/gakuran) | 装備必須 |  | +13 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🩹</span>腹巻き](/ja/item/belly-warmer) | 装備必須 |  | +19 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  | +3 |  |  |  |
+| [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  | +3 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  | +3 |  |  |  |
+| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  | +3 |  |  |  |
+| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">🥋</span>スケイルメイル](/ja/item/scale-mail) | 装備必須 |  | +73 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">👘</span>僧侶の法衣](/ja/item/priest-robe) | 装備必須 |  | +73 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) | 装備必須 |  | +91 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">👘</span>神衣](/ja/item/god-robe) | 装備必須 |  | +105 |  |  | +5 |  |  |  |
+| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) | 装備必須 |  | +105 |  |  | +5 |  |  |  |
+| [<span class="wiki-icon">👘</span>聖衣](/ja/item/holy-cloth) | 装備必須 |  | +119 |  |  | +5 |  |  |  |
+| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/item/box-gundam) | 装備必須 |  | +166 |  |  | +5 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/57b5c51acdb68045.svg" alt="">ミトン](/ja/item/mitten) | 装備必須 | +2 | +1 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/16359e1fba4a9c16.svg" alt="">布の手袋](/ja/item/cloth-gloves) | 装備必須 | +2 | +1 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) | 装備必須 | +3 | +1 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🩱</span>孫の手](/ja/item/back-scratcher) | 装備必須 | +4 | +1 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) | 装備必須 | +6 | +2 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🐾</span>ネコの手](/ja/item/cat-paw) | 装備必須 | +7 | +2 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🏮</span>ランタン](/ja/item/lantern) | 装備必須 | +10 | +3 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🤲</span>救いの手](/ja/item/helping-hand) | 装備必須 | +10 | +3 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) | 消費装備 | +12 | +4 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) | 装備必須 | +16 | +5 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>革の手袋](/ja/item/leather-gloves) | 装備必須 | +19 | +6 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/item/crab-claw) | 装備必須 | +19 | +6 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/item/iron-gauntlet) | 装備必須 | +23 | +8 |  |  |  |  |  |  |
+| [<span class="wiki-icon">⏰</span>麻酔時計](/ja/item/anesthetic-watch) | 装備必須 | +31 | +10 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🔺</span>令呪](/ja/item/command-spell) | 消費装備 | +36 | +12 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/item/aegis) | 装備必須 | +45 | +15 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🛡️</span>矛盾](/ja/item/contradiction) | 装備必須 | +52 | +17 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/item/infinity-gauntlet) | 装備必須 | +90 | +30 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/da012127f6ed247b.svg" alt="">臭う靴下](/ja/item/smelly-socks) | 装備必須 |  | +1 |  | +2 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/85a5eb144a623cc8.svg" alt="">スリッパ](/ja/item/slippers) | 装備必須 |  | +1 |  | +2 |  |  |  |  |
+| [<span class="wiki-icon">👞</span>木靴](/ja/item/wooden-clogs) | 装備必須 |  | +2 |  | +3 |  |  |  |  |
+| [<span class="wiki-icon">🧦</span>レッグウォーマー](/ja/item/leg-warmer) | 装備必須 |  | +2 |  | +3 |  |  |  |  |
+| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/item/cowboy-boots) | 装備必須 |  | +3 |  | +5 |  |  |  |  |
+| [<span class="wiki-icon">👞</span>安全靴](/ja/item/safety-shoes) | 装備必須 |  | +4 |  | +5 |  |  |  |  |
+| [<span class="wiki-icon">🏊</span>浮き輪](/ja/item/swim-ring) | 装備必須 |  | +5 |  | +6 |  |  |  |  |
+| [<span class="wiki-icon">👟</span>音が鳴る靴](/ja/item/squeaky-shoes) | 装備必須 |  | +5 |  | +6 |  |  |  |  |
+| [<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) | 装備必須 |  | +6 |  | +8 |  |  |  |  |
+| [<span class="wiki-icon">🧦</span>絹の足袷](/ja/item/silk-leggings) | 装備必須 |  | +8 |  | +8 |  |  |  |  |
+| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/item/leather-boots) | 装備必須 |  | +10 |  | +9 |  |  |  |  |
+| [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/item/iron-greaves) | 装備必須 |  | +10 |  | +9 |  |  |  |  |
+| [<span class="wiki-icon">👠</span>ハイヒール](/ja/item/high-heels) | 装備必須 |  | +12 |  | +11 |  |  |  |  |
+| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/item/kick-boost-shoes) | 装備必須 |  | +16 |  | +11 |  |  |  |  |
+| [<span class="wiki-icon">👠</span>ガラスの靴](/ja/item/glass-slipper) | 装備必須 |  | +18 |  | +12 |  |  |  |  |
+| [<span class="wiki-icon">🐇</span>ウサギ尻尾](/ja/item/rabbit-tail) | 装備必須 |  | +18 |  | +12 |  |  |  |  |
+| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/item/odm-boots) | 装備必須 |  | +26 |  | +14 |  |  |  |  |
+| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/item/winged-shoes) | 装備必須 |  | +30 |  | +15 |  |  |  |  |
+| [<span class="wiki-icon">⭐</span>ワープスター](/ja/item/warp-star) | 装備必須 |  | +42 |  | +15 |  |  |  |  |
 
 </details>
 
@@ -198,6 +279,7 @@
 | Lv15 | 3,009 | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/action/buy-crucible)（実行）<br>[<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack)（実行） |
 | Lv17 | 3,919 | [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops)（実行） |
 | Lv19 | 5,040 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack)（実行）<br>[<span class="wiki-icon">💊</span>阿片](/ja/item/opium)（解放）<br>[<span class="wiki-icon">💊</span>滋養強壮剤](/ja/item/tonic)（解放）<br>[<span class="wiki-icon">💊</span>げんきのかけら](/ja/item/revive-piece)（解放） |
+| Lv20 | 5,694 | [<span class="wiki-icon">🍾</span>火炎ビン](/ja/action/brew-molotov)（実行） |
 | Lv21 | 6,420 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/action/brew-painkiller)（実行） |
 | Lv22 | 7,227 | [<img class="wiki-icon" src="assets/icon/ff59e56b98270140.svg" alt="">エーテル](/ja/item/ether)（解放）<br>[<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water)（解放） |
 | Lv23 | 8,121 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail)（実行） |
@@ -221,7 +303,7 @@
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">拠点</div><div class="wiki-navbox-body"><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a> ・ <a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a> ・ <a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a> ・ <a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a> ・ <a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a> ・ <a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a> ・ <a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a> ・ <a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a> ・ <a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">拠点</div><div class="wiki-navbox-body"><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a> ・ <a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a> ・ <a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a> ・ <a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a> ・ <a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a> ・ <a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a> ・ <a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a> ・ <a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a> ・ <a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a> ・ <a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -232,7 +314,8 @@
 | `unlocked` | `hinted` |
 | `numeric` | `true` |
 | `standaloneProgress` | `false` |
-| `background` | （空） |
+| `backgrounds.laptop` | <a href="assets/icon/970f4d930d46c398.svg" target="_blank">画像</a>（data URI） |
+| `backgrounds.mobile` | <a href="assets/icon/3881157a255ab8d3.svg" target="_blank">画像</a>（data URI） |
 
 **設計ドキュメント**: [plan.md › カテゴリ設定](/ja/dev/doc/plan?id=%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E8%A8%AD%E5%AE%9A) ／ [plan.md › 進行ゲート](/ja/dev/doc/plan?id=%E9%80%B2%E8%A1%8C%E3%82%B2%E3%83%BC%E3%83%88) ／ [plan.md › カテゴリ役割分担](/ja/dev/doc/plan?id=%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E5%BD%B9%E5%89%B2%E5%88%86%E6%8B%85)
 
@@ -349,6 +432,8 @@
 
 <details><summary>抜粋: overview.md › 入手経路パターン</summary>
 
+> **2026-10-31 に調合器具3種を `道具` グループ・装備不要（所持していれば使える）にした**（台所の調理器具と同じ形）。group `粉砕`／`蒸留`／`溶解` は削除し、調合25本の器具の `req` は `equipment` を外した。下の「調合器具3種を『装備』にして、1種ごとにグループを分けた」は過去の経緯。いまの形は [plan.md](../doc/plan.md)「温室の食べ物・料理の回復量・地下室の調合器具（2026-10-31）」節。
+
 **バッチ2 の4本目。** [plan.md](../doc/plan.md)「生産型の雛形」「旧系統の掃除」が形も本数も決めていたので、この回も決めることは無かった。
 
 ### 34 → 28本（調合25＋購入3）
@@ -462,7 +547,10 @@
 	],
 	"numeric": true,
 	"standaloneProgress": false,
-	"background": ""
+	"backgrounds": {
+		"laptop": "（data URI の画像。site/assets/icon/970f4d930d46c398.svg）",
+		"mobile": "（data URI の画像。site/assets/icon/3881157a255ab8d3.svg）"
+	}
 }
 ```
 

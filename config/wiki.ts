@@ -23,6 +23,7 @@ export const categoryPatterns: { [categoryId: string]: string } = {
 	greenhouse: "生産型",
 	kitchen: "生産型",
 	basement: "生産型",
+	atelier: "生産型",
 	"melee-weapon": "装備管理型",
 	"throwing-weapon": "装備管理型",
 	"explosive-weapon": "装備管理型",

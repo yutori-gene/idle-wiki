@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 | 精度 |
+| 効き先 | 攻撃 | 防御 |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +3 | +1 |
+| 全カテゴリ | +3 | +1 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 1 | 1.44% | 0.007 | 1.6 |
+| [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/action/craft-rubber-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv10 | 1 | 100% | 1 | 1 |
 
 ## 用途
 
@@ -78,10 +78,10 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "melee-weapon",
-			"attack": 0,
-			"defence": 3,
-			"accuracy": 1,
+			"category": "*",
+			"attack": 3,
+			"defence": 1,
+			"accuracy": 0,
 			"evasion": 0,
 			"restore": 0,
 			"speed": 0,

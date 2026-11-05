@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚫</span>シスの箱](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv41 | 2 | 21.5% | 0.237 | 1.4 |
-| [<span class="wiki-icon">📦</span>パンドラの箱](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv50 | 1 | 21.5% | 0.151 | 0.301 |
+| [<span class="wiki-icon">⚫</span>シスの箱](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv41 | 2 | 13.9% | 0.236 | 0.158 |
+| [<span class="wiki-icon">📦</span>パンドラの箱](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv50 | 1 | 15% | 0.15 | 0.025 |
 
 ## 用途
 
@@ -20,10 +20,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧩</span>千年パズルを組む](/ja/action/assemble-millennium-puzzle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv50 | 2 | 100% |  |
-| [<span class="wiki-icon">🍎</span>時計仕掛けのリンゴ](/ja/action/craft-clockwork-apple) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv43 | 1 | 100% |  |
+| [<span class="wiki-icon">🍎</span>時計仕掛けのリンゴ](/ja/action/craft-clockwork-apple) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv43 | 1 | 100% |  |
+| [<span class="wiki-icon">🧩</span>千年パズル](/ja/action/assemble-millennium-puzzle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv50 | 2 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

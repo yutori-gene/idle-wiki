@@ -19,10 +19,7 @@
 | [<span class="wiki-icon">🪶</span>ロウで固めた羽](/ja/item/wax-wing) ×5 | 成功時 | 56% | 1.4 | 63 |
 | [<span class="wiki-icon">🛡️</span>古い紋章](/ja/item/old-crest) ×2 | 成功時 | 25.9% | 0.259 | 11.7 |
 | [<span class="wiki-icon">🍴</span>銀の食器](/ja/item/silver-tableware) ×2 | 成功時 | 25.9% | 0.259 | 11.7 |
-| [<span class="wiki-icon">🐟</span>メカジキ](/ja/item/swordfish) ×1 | 成功時 | 12.4% | 0.062 | 2.8 |
-| [<span class="wiki-icon">👠</span>ガラスの靴](/ja/item/glass-slipper) ×1 | 成功時 | 12.4% | 0.062 | 2.8 |
-| [<span class="wiki-icon">👑</span>ダイヤモンドのティアラ](/ja/item/diamond-tiara) ×1 | 成功時 | 12.4% | 0.062 | 2.8 |
-| [<span class="wiki-icon">🏆</span>聖杯](/ja/item/holy-grail) ×1 | 成功時 | 4.98% | 0.025 | 1.1 |
+| [<span class="wiki-icon">🍬</span>飴と鞭](/ja/item/carrot-and-stick) ×1 | 成功時 | 3.72% | 0.019 | 0.837 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 10,931 | 0 | 10,931 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 3,871 | 0 | 3,871 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -118,27 +115,9 @@
 		},
 		{
 			"type": "item",
-			"id": "swordfish",
+			"id": "carrot-and-stick",
 			"count": 1,
-			"chance": 0.124
-		},
-		{
-			"type": "item",
-			"id": "glass-slipper",
-			"count": 1,
-			"chance": 0.124
-		},
-		{
-			"type": "item",
-			"id": "diamond-tiara",
-			"count": 1,
-			"chance": 0.124
-		},
-		{
-			"type": "item",
-			"id": "holy-grail",
-			"count": 1,
-			"chance": 0.0498
+			"chance": 0.0372
 		}
 	],
 	"progressType": "persistent",

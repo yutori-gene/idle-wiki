@@ -18,7 +18,6 @@
 | [<span class="wiki-icon">💎</span>玉座の宝石](/ja/item/throne-jewel) ×1 | 成功時 | 31.1% | 0.311 | 0.078 |
 | [<span class="wiki-icon">👑</span>王笏](/ja/item/scepter) ×1 | 成功時 | 31.1% | 0.311 | 0.078 |
 | [<span class="wiki-icon">👑</span>黄金の王冠](/ja/item/golden-crown) ×1 | 成功時 | 17.9% | 0.179 | 0.045 |
-| [<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) ×1 | 成功時 | 44.8% | 0.448 | 0.112 |
 | [<span class="wiki-icon">🎃</span>かぼちゃの馬車](/ja/item/pumpkin-carriage) ×1 | 成功時 | 25.9% | 0.259 | 0.065 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
@@ -37,7 +36,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 251 | 0 | 251 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 34 | 0 | 34 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -105,12 +104,6 @@
 			"id": "golden-crown",
 			"count": 1,
 			"chance": 0.179
-		},
-		{
-			"type": "item",
-			"id": "royal-formal-dress",
-			"count": 1,
-			"chance": 0.448
 		},
 		{
 			"type": "item",

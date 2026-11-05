@@ -1,6 +1,6 @@
 # 道具
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">道具</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧰</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>49種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">道具</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧰</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>52種</td></tr></table></div>
 
 
 ## アイテム
@@ -58,6 +58,9 @@
 | [<span class="wiki-icon">🍳</span>フライパン](/ja/item/frying-pan) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 装備不要 | — |
 | [<span class="wiki-icon">🥣</span>ボウル](/ja/item/bowl) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 装備不要 | — |
 | [<span class="wiki-icon">🥟</span>蒸籠](/ja/item/steamer) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 装備不要 | — |
+| [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 装備不要 | — |
+| [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 装備不要 | — |
+| [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 装備不要 | — |
 
 ## 開発者向け情報
 

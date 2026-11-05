@@ -13,15 +13,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🕳️</span>地下水路の噂](/ja/action/sewer-rumor) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv12 | 6 | 100% | 6 | 4 |
 
-## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧱</span>レンガ](/ja/action/craft-brick) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv13 | 3 | 100% |  |
-| [<span class="wiki-icon">🎖️</span>ジムバッジ](/ja/action/craft-gym-badge) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 3 | 100% |  |
-
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a> を参照</div></div>
 
 ## 開発者向け情報

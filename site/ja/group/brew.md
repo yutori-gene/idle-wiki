@@ -1,6 +1,6 @@
 # 調合
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">調合</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>25本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">調合</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>26本</td></tr></table></div>
 
 
 ## アクション
@@ -19,6 +19,7 @@
 | [<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 連続 |
 | [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv17 | 連続 |
 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv19 | 連続 |
+| [<span class="wiki-icon">🍾</span>火炎ビン](/ja/action/brew-molotov) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv20 | 連続 |
 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv21 | 連続 |
 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv23 | 連続 |
 | [<span class="wiki-icon">☕</span>眠気覚まし](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv26 | 連続 |

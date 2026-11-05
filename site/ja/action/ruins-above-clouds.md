@@ -15,10 +15,11 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌈</span>虹色の宝箱](/ja/item/rainbow-chest) ×2 | 成功時 | 41.8% | 0.836 | 0.167 |
+| [<span class="wiki-icon">🌈</span>妖精の黄金の壺](/ja/item/fairy-gold-pot) ×2 | 成功時 | 41.8% | 0.836 | 0.167 |
 | [<span class="wiki-icon">📦</span>パンドラの箱](/ja/item/pandoras-box) ×2 | 成功時 | 41.8% | 0.836 | 0.167 |
 | [<span class="wiki-icon">📦</span>シュレーディンガーの箱](/ja/item/schrodingers-box) ×1 | 成功時 | 12.4% | 0.124 | 0.025 |
 | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone) ×1 | 成功時 | 4.98% | 0.05 | 0.01 |
+| [<span class="wiki-icon">⚔️</span>マスターソード](/ja/item/master-sword) ×1 | 成功時 | 5.1% | 0.051 | 0.01 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -37,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 24 | 0 | 24 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 49 | 0 | 49 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -90,7 +91,7 @@
 	"acquisitions": [
 		{
 			"type": "item",
-			"id": "rainbow-chest",
+			"id": "fairy-gold-pot",
 			"count": 2,
 			"chance": 0.418
 		},
@@ -111,6 +112,12 @@
 			"id": "temple-pillar-stone",
 			"count": 1,
 			"chance": 0.0498
+		},
+		{
+			"type": "item",
+			"id": "master-sword",
+			"count": 1,
+			"chance": 0.051
 		}
 	],
 	"progressType": "single",

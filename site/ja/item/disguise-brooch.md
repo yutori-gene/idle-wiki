@@ -9,9 +9,10 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 | 防御 | 精度 | 回避 |
-| --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | +52 | +39 | -10 | -10 |
+| 効き先 | 速度 |
+| --- | --- |
+| [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | +14 |
+| [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | -7 |
 
 
 **スキル**: [<span class="wiki-icon">💄</span>虚飾](/ja/skill/ostentation)（装備中、戦闘の各ターンに 5% で発動）
@@ -22,15 +23,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥸</span>変装ブローチ](/ja/action/craft-disguise-brooch) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv28 | 1 | 100% | 1 | 0.333 |
-
-## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥸</span>変装ブローチ（分解）](/ja/action/disassemble-disguise-brooch) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv32 | 1 | 100% |  |
+| [<span class="wiki-icon">🐀</span>ネズミの宝箱](/ja/action/open-rat-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv27 | 1 | 26% | 0.221 | 0.147 |
 
 <div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: ブローチ</div><div class="wiki-navbox-body"><a href="#/ja/item/firefly"><img class="wiki-icon" src="assets/icon/c4f9d12979bdfc90.svg" alt="">ホタル</a> ・ <a href="#/ja/item/pin-badge"><img class="wiki-icon" src="assets/icon/5f67ad53a251b7d6.svg" alt="">ピンバッジ</a> ・ <a href="#/ja/item/heart-brooch"><span class="wiki-icon">💗</span>ハートブローチ</a> ・ <a href="#/ja/item/employee-badge"><span class="wiki-icon">🪪</span>社員証</a> ・ <a href="#/ja/item/gym-badge"><span class="wiki-icon">🎖️</span>ジムバッジ</a> ・ <a href="#/ja/item/verified-badge"><span class="wiki-icon">🪪</span>認証バッジ</a> ・ <a href="#/ja/item/police-badge"><span class="wiki-icon">👮</span>警察バッジ</a> ・ <a href="#/ja/item/hunter-license"><span class="wiki-icon">🪪</span>ハンターライセンス</a> ・ <a href="#/ja/item/cross-rosary"><span class="wiki-icon">📿</span>十字架のロザリオ</a> ・ <a href="#/ja/item/moon-emblem"><span class="wiki-icon">🌙</span>月の紋章</a> ・ <a href="#/ja/item/bowtie-voice-changer"><span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機</a> ・ <a href="#/ja/item/disguise-brooch"><span class="wiki-icon">🥸</span>変装ブローチ</a> ・ <a href="#/ja/item/medal"><span class="wiki-icon">🎖️</span>勲章</a> ・ <a href="#/ja/item/family-crest-brooch"><span class="wiki-icon">🎖️</span>家紋のブローチ</a> ・ <a href="#/ja/item/sos-brigade-badge"><span class="wiki-icon">🎖️</span>SOS団のバッジ</a> ・ <a href="#/ja/item/survey-corps-badge"><span class="wiki-icon">🎖️</span>調査兵団のバッジ</a> ・ <a href="#/ja/item/golden-spin"><span class="wiki-icon">🌀</span>黄金の回転</a> ・ <a href="#/ja/item/dark-matter"><span class="wiki-icon">🌑</span>暗黒物質</a> ・ <a href="#/ja/item/beast-rose"><span class="wiki-icon">🌹</span>獣の薔薧</a> ・ <a href="#/ja/item/at-field"><span class="wiki-icon">🔺</span>ATフィールド</a> ・ <a href="#/ja/item/s2-engine"><span class="wiki-icon">⚙️</span>S2機関</a></div></div>
 
@@ -81,13 +74,24 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "explosive-weapon",
-			"attack": 52,
-			"defence": 39,
-			"accuracy": -10,
-			"evasion": -10,
+			"category": "factory",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
 			"restore": 0,
-			"speed": 0,
+			"speed": 14,
+			"chance": 0,
+			"experience": 0
+		},
+		{
+			"category": "castle",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": -7,
 			"chance": 0,
 			"experience": 0
 		}

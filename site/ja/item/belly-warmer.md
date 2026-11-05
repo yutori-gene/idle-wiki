@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 |
-| --- | --- |
-| 全カテゴリ | +19 |
+| 効き先 | 防御 | 回復 |
+| --- | --- | --- |
+| 全カテゴリ | +19 | +2 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐚</span>浜辺の貝拾い](/ja/action/beach-shell-gathering) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv5 | 1 | 8.64% | 0.043 | 3.9 |
+| [<span class="wiki-icon">🩹</span>腹巻き](/ja/action/craft-belly-warmer) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 1 | 100% | 1 | 0.5 |
 
 ## 用途
 
@@ -83,7 +83,7 @@
 			"defence": 19,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 2,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

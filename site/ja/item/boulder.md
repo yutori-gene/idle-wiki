@@ -12,9 +12,15 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">⛏️</span>埋もれた鉱夫町](/ja/action/buried-miner-town) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv5 | 7 | 91% | 3.2 | 164 |
-| [<span class="wiki-icon">🗿</span>溶岩ゴーレム](/ja/action/lava-golem) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv33 | 1 | 3.2% | 0.016 | 0.003 |
+| [<span class="wiki-icon">🗿</span>溶岩ゴーレム](/ja/action/lava-golem) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv33 | 1 | 3.2% | 0.016 | 0.001 |
 
 ## 用途
+
+### 材料として消費
+
+| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
+| --- | --- | --- | --- | --- | --- |
+| [<span class="wiki-icon">🏛️</span>ダビデ像](/ja/action/craft-statue-of-david) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv36 | 20 | 100% |  |
 
 ### 条件にしているもの
 
@@ -22,7 +28,7 @@
 | --- | --- | --- |
 | [<span class="wiki-icon">⛏️</span>鉱夫の酒盛り](/ja/event/miner-feast) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🪨</span>岩石](/ja/item/boulder) ×10 |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

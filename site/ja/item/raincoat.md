@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 |
-| --- | --- |
-| 全カテゴリ | +8 |
+| 効き先 | 防御 | 回復 |
+| --- | --- | --- |
+| 全カテゴリ | +8 | +1 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛩️</span>古い祠の調査](/ja/action/investigate-old-shrine) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 1 | 100% | 1 | 1 |
+| [<span class="wiki-icon">☂️</span>雨具](/ja/action/craft-raincoat) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv10 | 1 | 100% | 1 | 1 |
 
 ## 用途
 
@@ -83,7 +83,7 @@
 			"defence": 8,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 1,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

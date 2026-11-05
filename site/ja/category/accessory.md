@@ -1,6 +1,6 @@
 # 装飾
 
-<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">装飾</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💍</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/equipment"><span class="wiki-icon">🛠️</span>装備管理</a></td></tr><tr><th>レベル</th><td>なし</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>60本</td></tr><tr><th>管理アイテム</th><td>51種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">装飾</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💍</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/equipment"><span class="wiki-icon">🛠️</span>装備管理</a></td></tr><tr><th>レベル</th><td>なし</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>0本</td></tr><tr><th>管理アイテム</th><td>51種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **装備管理型**のカテゴリ。アクセサリー・ブローチ・指輪の3枠を合成・分解して装備する。レベルを持たない（numeric=false）。
 
@@ -12,75 +12,6 @@
 次をすべて満たすと解放される。
 
 - [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv7以上
-
-## アクション
-
-<div class="wiki-filter"></div>
-
-| アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/a46ce7305a3c8299.svg" alt="">ピンバッジ（分解）](/ja/action/disassemble-pin-badge) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv3 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/5f67ad53a251b7d6.svg" alt="">ピンバッジ](/ja/item/pin-badge) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<img class="wiki-icon" src="assets/icon/4bc0485b779ba337.svg" alt="">カウベル（分解）](/ja/action/disassemble-cowbell) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv5 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル](/ja/item/cowbell) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<img class="wiki-icon" src="assets/icon/6655b3e2d8c5f35f.svg" alt="">犬の首輪（分解）](/ja/action/disassemble-dog-collar) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv5 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/57382b8c9d69e156.svg" alt="">犬の首輪](/ja/item/dog-collar) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<img class="wiki-icon" src="assets/icon/4f97095d5fe1663a.svg" alt="">1葉のクローバー（分解）](/ja/action/disassemble-one-leaf-clover) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv6 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/7bb40479a17528a9.svg" alt="">1葉のクローバー](/ja/item/one-leaf-clover) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<img class="wiki-icon" src="assets/icon/2835e12095bc5617.svg" alt="">ホタル（分解）](/ja/action/disassemble-firefly) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv6 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/c4f9d12979bdfc90.svg" alt="">ホタル](/ja/item/firefly) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<img class="wiki-icon" src="assets/icon/10fec2e0d61a355b.svg" alt="">銀の指輪（分解）](/ja/action/disassemble-silver-ring) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv7 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/aba9e6b62053c166.svg" alt="">銀の指輪](/ja/item/silver-ring) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<img class="wiki-icon" src="assets/icon/ca95c04a918ac9a2.svg" alt="">食べられる指輪（分解）](/ja/action/disassemble-edible-ring) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv7 | 5分 | 100% | — | [<img class="wiki-icon" src="assets/icon/eea6ffe630b18ce9.svg" alt="">食べられる指輪](/ja/item/edible-ring) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">💗</span>ハートブローチ（分解）](/ja/action/disassemble-heart-brooch) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv8 | 10分 | 100% | — | [<span class="wiki-icon">💗</span>ハートブローチ](/ja/item/heart-brooch) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">🦈</span>サメ歯ネックレス（分解）](/ja/action/disassemble-shark-tooth-necklace) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv9 | 10分 | 100% | — | [<span class="wiki-icon">🦈</span>サメ歯ネックレス](/ja/item/shark-tooth-necklace) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">🪪</span>社員証（分解）](/ja/action/disassemble-employee-badge) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv9 | 10分 | 100% | — | [<span class="wiki-icon">🪪</span>社員証](/ja/item/employee-badge) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">🍩</span>バウムクーヘン（分解）](/ja/action/disassemble-baumkuchen) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv10 | 10分 | 100% | — | [<span class="wiki-icon">🍩</span>バウムクーヘン](/ja/item/baumkuchen) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">💍</span>結婚指輪（分解）](/ja/action/disassemble-wedding-ring) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv10 | 10分 | 100% | — | [<span class="wiki-icon">💍</span>結婚指輪](/ja/item/wedding-ring) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">⌚</span>スマートリング（分解）](/ja/action/disassemble-smart-ring) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv13 | 15分 | 100% | — | [<span class="wiki-icon">⌚</span>スマートリング](/ja/item/smart-ring) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/action/craft-broccoli) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv13 | 1時間30分 | 100% | — | [<span class="wiki-icon">🌿</span>苔](/ja/item/moss)×3<br>[<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold)×15 | [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/item/broccoli) |
-| [<span class="wiki-icon">💍</span>取れない指輪（分解）](/ja/action/disassemble-stuck-ring) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv14 | 15分 | 100% | — | [<span class="wiki-icon">💍</span>取れない指輪](/ja/item/stuck-ring) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">🔴</span>賢者の石（分解）](/ja/action/disassemble-philosophers-stone) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv14 | 15分 | 100% | — | [<span class="wiki-icon">🔴</span>賢者の石](/ja/item/philosophers-stone) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">⌚</span>スマートリング](/ja/action/craft-smart-ring) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv14 | 1時間30分 | 100% | — | [<span class="wiki-icon">🪙</span>小銭](/ja/item/small-change)×3<br>[<span class="wiki-icon">📼</span>ガムテープ](/ja/item/duct-tape)×15 | [<span class="wiki-icon">⌚</span>スマートリング](/ja/item/smart-ring) |
-| [<span class="wiki-icon">🪪</span>認証バッジ](/ja/action/craft-verified-badge) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv14 | 1時間30分 | 100% | — | [<span class="wiki-icon">🛍️</span>ビニール袋](/ja/item/plastic-bag)×3<br>[<span class="wiki-icon">📎</span>クリップ](/ja/item/paper-clip)×15 | [<span class="wiki-icon">🪪</span>認証バッジ](/ja/item/verified-badge) |
-| [<span class="wiki-icon">🥦</span>ブロッコリー（分解）](/ja/action/disassemble-broccoli) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv15 | 15分 | 100% | — | [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/item/broccoli) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">🎖️</span>ジムバッジ](/ja/action/craft-gym-badge) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv15 | 1時間30分 | 100% | — | [<span class="wiki-icon">🪧</span>割れた看板](/ja/item/broken-signboard)×3<br>[<span class="wiki-icon">📎</span>クリップ](/ja/item/paper-clip)×15 | [<span class="wiki-icon">🎖️</span>ジムバッジ](/ja/item/gym-badge) |
-| [<span class="wiki-icon">💍</span>取れない指輪](/ja/action/craft-stuck-ring) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv15 | 1時間30分 | 100% | — | [<span class="wiki-icon">🪝</span>ハンガー](/ja/item/hanger)×3<br>[<span class="wiki-icon">📼</span>ガムテープ](/ja/item/duct-tape)×15 | [<span class="wiki-icon">💍</span>取れない指輪](/ja/item/stuck-ring) |
-| [<span class="wiki-icon">🪪</span>認証バッジ（分解）](/ja/action/disassemble-verified-badge) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv16 | 15分 | 100% | — | [<span class="wiki-icon">🪪</span>認証バッジ](/ja/item/verified-badge) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">🎖️</span>ジムバッジ（分解）](/ja/action/disassemble-gym-badge) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv17 | 15分 | 100% | — | [<span class="wiki-icon">🎖️</span>ジムバッジ](/ja/item/gym-badge) | [<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone) |
-| [<span class="wiki-icon">🔴</span>賢者の石](/ja/action/craft-philosophers-stone) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv17 | 1時間30分 | 100% | — | [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass)×3<br>[<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat)×15 | [<span class="wiki-icon">🔴</span>賢者の石](/ja/item/philosophers-stone) |
-| [<span class="wiki-icon">💎</span>秘石（分解）](/ja/action/disassemble-secret-stone) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv18 | 20分 | 100% | — | [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🪪</span>ハンターライセンス（分解）](/ja/action/disassemble-hunter-license) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv20 | 20分 | 100% | — | [<span class="wiki-icon">🪪</span>ハンターライセンス](/ja/item/hunter-license) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">💍</span>ダイヤモンドの指輪（分解）](/ja/action/disassemble-diamond-ring) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv21 | 20分 | 100% | — | [<span class="wiki-icon">💍</span>ダイヤモンドの指輪](/ja/item/diamond-ring) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">💍</span>光る指輪（分解）](/ja/action/disassemble-glowing-ring) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv21 | 20分 | 100% | — | [<span class="wiki-icon">💍</span>光る指輪](/ja/item/glowing-ring) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🔮</span>水晶のペンダント（分解）](/ja/action/disassemble-crystal-pendant) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv21 | 20分 | 100% | — | [<span class="wiki-icon">🔮</span>水晶のペンダント](/ja/item/crystal-pendant) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">👮</span>警察バッジ（分解）](/ja/action/disassemble-police-badge) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv21 | 20分 | 100% | — | [<span class="wiki-icon">👮</span>警察バッジ](/ja/item/police-badge) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">📿</span>十字架のロザリオ（分解）](/ja/action/disassemble-cross-rosary) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv23 | 25分 | 100% | — | [<span class="wiki-icon">📿</span>十字架のロザリオ](/ja/item/cross-rosary) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🌙</span>月の紋章（分解）](/ja/action/disassemble-moon-emblem) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv23 | 25分 | 100% | — | [<span class="wiki-icon">🌙</span>月の紋章](/ja/item/moon-emblem) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🍀</span>-4葉のクローバー（分解）](/ja/action/disassemble-minus-four-leaf-clover) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv25 | 25分 | 100% | — | [<span class="wiki-icon">🍀</span>-4葉のクローバー](/ja/item/minus-four-leaf-clover) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">💫</span>高速回転してる指輪（分解）](/ja/action/disassemble-spinning-ring) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv27 | 25分 | 100% | — | [<span class="wiki-icon">💫</span>高速回転してる指輪](/ja/item/spinning-ring) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🥸</span>変装ブローチ](/ja/action/craft-disguise-brooch) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv28 | 3時間 | 100% | — | [<span class="wiki-icon">⚙️</span>精密部品](/ja/item/precision-part)×2<br>[<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone)×10 | [<span class="wiki-icon">🥸</span>変装ブローチ](/ja/item/disguise-brooch) |
-| [<span class="wiki-icon">💍</span>力の指輪（分解）](/ja/action/disassemble-ring-of-power) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv29 | 30分 | 100% | — | [<span class="wiki-icon">💍</span>力の指輪](/ja/item/ring-of-power) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">💍</span>力の指輪](/ja/action/craft-ring-of-power) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv29 | 3時間 | 100% | — | [<span class="wiki-icon">⚙️</span>モーター](/ja/item/motor)×3<br>[<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone)×10 | [<span class="wiki-icon">💍</span>力の指輪](/ja/item/ring-of-power) |
-| [<span class="wiki-icon">🧵</span>運命の赤い糸（分解）](/ja/action/disassemble-red-string-of-fate) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv30 | 30分 | 100% | — | [<span class="wiki-icon">🧵</span>運命の赤い糸](/ja/item/red-string-of-fate) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🔯</span>六芒星のお守り](/ja/action/craft-hexagram-charm) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv30 | 3時間 | 100% | — | [<span class="wiki-icon">🔩</span>鋼鉄板](/ja/item/steel-plate)×2<br>[<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone)×10 | [<span class="wiki-icon">🔯</span>六芒星のお守り](/ja/item/hexagram-charm) |
-| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機](/ja/action/craft-bowtie-voice-changer) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv30 | 3時間 | 100% | — | [<span class="wiki-icon">💾</span>回路基板](/ja/item/circuit-board)×2<br>[<span class="wiki-icon">⚙️</span>モーター](/ja/item/motor)×2<br>[<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone)×10 | [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機](/ja/item/bowtie-voice-changer) |
-| [<span class="wiki-icon">🔯</span>六芒星のお守り（分解）](/ja/action/disassemble-hexagram-charm) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv31 | 30分 | 100% | — | [<span class="wiki-icon">🔯</span>六芒星のお守り](/ja/item/hexagram-charm) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機（分解）](/ja/action/disassemble-bowtie-voice-changer) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv31 | 30分 | 100% | — | [<span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機](/ja/item/bowtie-voice-changer) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🥸</span>変装ブローチ（分解）](/ja/action/disassemble-disguise-brooch) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv32 | 30分 | 100% | — | [<span class="wiki-icon">🥸</span>変装ブローチ](/ja/item/disguise-brooch) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🧵</span>運命の赤い糸](/ja/action/craft-red-string-of-fate) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv32 | 3時間 | 100% | — | [<span class="wiki-icon">🔌</span>針金](/ja/item/wire-rod)×3<br>[<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone)×10 | [<span class="wiki-icon">🧵</span>運命の赤い糸](/ja/item/red-string-of-fate) |
-| [<span class="wiki-icon">💍</span>ドラゴンの指輪（分解）](/ja/action/disassemble-dragon-ring) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv33 | 35分 | 100% | — | [<span class="wiki-icon">💍</span>ドラゴンの指輪](/ja/item/dragon-ring) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🎖️</span>勲章（分解）](/ja/action/disassemble-medal) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv34 | 35分 | 100% | — | [<span class="wiki-icon">🎖️</span>勲章](/ja/item/medal) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🎖️</span>勲章](/ja/action/craft-medal) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv34 | 3時間30分 | 100% | — | [<span class="wiki-icon">⚪</span>ミスリル銀](/ja/item/mithril-silver)×2<br>[<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone)×10 | [<span class="wiki-icon">🎖️</span>勲章](/ja/item/medal) |
-| [<span class="wiki-icon">🎖️</span>家紋のブローチ（分解）](/ja/action/disassemble-family-crest-brooch) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv36 | 35分 | 100% | — | [<span class="wiki-icon">🎖️</span>家紋のブローチ](/ja/item/family-crest-brooch) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">🔮</span>闇のペンダント（分解）](/ja/action/disassemble-dark-pendant) | [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | 連続 | Lv36 | 35分 | 100% | — | [<span class="wiki-icon">🔮</span>闇のペンダント](/ja/item/dark-pendant) | [<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece) |
-| [<span class="wiki-icon">💍</span>ドラゴンの指輪](/ja/action/craft-dragon-ring) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv36 | 3時間30分 | 100% | — | [<span class="wiki-icon">🐉</span>火竜の鱗](/ja/item/fire-dragon-scale)×2<br>[<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone)×10 | [<span class="wiki-icon">💍</span>ドラゴンの指輪](/ja/item/dragon-ring) |
-| [<span class="wiki-icon">🔮</span>闇のペンダント](/ja/action/craft-dark-pendant) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv36 | 3時間30分 | 100% | — | [<span class="wiki-icon">⚫</span>黒曜石](/ja/item/obsidian)×2<br>[<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone)×10 | [<span class="wiki-icon">🔮</span>闇のペンダント](/ja/item/dark-pendant) |
-| [<span class="wiki-icon">🎖️</span>家紋のブローチ](/ja/action/craft-family-crest-brooch) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv37 | 3時間30分 | 100% | — | [<span class="wiki-icon">📐</span>ドワーフの設計図](/ja/item/dwarf-blueprint)×2<br>[<span class="wiki-icon">🪨</span>くすんだ石](/ja/item/dull-stone)×10 | [<span class="wiki-icon">🎖️</span>家紋のブローチ](/ja/item/family-crest-brooch) |
-| [<span class="wiki-icon">💍</span>一つの指輪](/ja/action/craft-one-ring) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv43 | 4時間30分 | 100% | — | [<span class="wiki-icon">🖋️</span>魔王の印璽](/ja/item/demon-lord-seal)<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">💍</span>一つの指輪](/ja/item/one-ring) |
-| [<span class="wiki-icon">🌑</span>暗黒物質](/ja/action/craft-dark-matter) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv44 | 4時間30分 | 100% | — | [<span class="wiki-icon">🖤</span>怨念の結晶](/ja/item/grudge-crystal)×2<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">🌑</span>暗黒物質](/ja/item/dark-matter) |
-| [<span class="wiki-icon">🌹</span>獣の薔薧](/ja/action/craft-beast-rose) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv44 | 4時間30分 | 100% | — | [<span class="wiki-icon">🦷</span>魔獣の牙](/ja/item/demon-beast-fang)×2<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">🌹</span>獣の薔薧](/ja/item/beast-rose) |
-| [<span class="wiki-icon">🍀</span>99葉のクローバー](/ja/action/craft-ninety-nine-leaf-clover) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv47 | 4時間30分 | 100% | — | [<span class="wiki-icon">🔮</span>奈落の宝珠](/ja/item/abyss-orb)<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">🍀</span>99葉のクローバー](/ja/item/ninety-nine-leaf-clover) |
-| [<span class="wiki-icon">🌀</span>黄金の回転](/ja/action/craft-golden-spin) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv47 | 4時間30分 | 100% | — | [<span class="wiki-icon">⚖️</span>裁きの天秤](/ja/item/scale-of-judgment)<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">🌀</span>黄金の回転](/ja/item/golden-spin) |
-| [<span class="wiki-icon">⚙️</span>S2機関](/ja/action/craft-s2-engine) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv49 | 5時間 | 100% | — | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">⚙️</span>S2機関](/ja/item/s2-engine) |
-| [<span class="wiki-icon">🔺</span>ATフィールド](/ja/action/craft-at-field) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | — | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">🔺</span>ATフィールド](/ja/item/at-field) |
-| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/action/craft-time-stopping-hourglass) | [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | 単発 | Lv50 | 5時間 | 100% | — | [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone)<br>[<span class="wiki-icon">💎</span>磨かれた宝石片](/ja/item/polished-gem-piece)×2 | [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) |
-
-経験値%/時は1時間に上がるレベルを%で表した値（必要Lvのときのレベル1つ分＝100%）。レベル差0・装備なしの目安で、戦闘は1戦の見込み時間で割った値。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
 ## 管理するアイテム
 
@@ -104,8 +35,8 @@
 | [<span class="wiki-icon">👑</span>ダイヤモンドのティアラ](/ja/item/diamond-tiara) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備必須 | 648 | — |
 | [<span class="wiki-icon">🏆</span>聖杯](/ja/item/holy-grail) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備必須 | 1,944 | — |
 | [<span class="wiki-icon">🍀</span>99葉のクローバー](/ja/item/ninety-nine-leaf-clover) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備必須 | 2,187 | — |
-| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備不可 | 21,870 | — |
-| [<img class="wiki-icon" src="assets/icon/c4f9d12979bdfc90.svg" alt="">ホタル](/ja/item/firefly) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 消費装備 | 3 | — |
+| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備必須 | 21,870 | — |
+| [<img class="wiki-icon" src="assets/icon/c4f9d12979bdfc90.svg" alt="">ホタル](/ja/item/firefly) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 装備必須 | 3 | — |
 | [<img class="wiki-icon" src="assets/icon/5f67ad53a251b7d6.svg" alt="">ピンバッジ](/ja/item/pin-badge) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 装備必須 | 3 | — |
 | [<span class="wiki-icon">💗</span>ハートブローチ](/ja/item/heart-brooch) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 装備必須 | 6 | — |
 | [<span class="wiki-icon">🪪</span>社員証](/ja/item/employee-badge) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 装備必須 | 18 | — |
@@ -128,7 +59,7 @@
 | [<span class="wiki-icon">⚙️</span>S2機関](/ja/item/s2-engine) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 装備必須 | 21,870 | — |
 | [<img class="wiki-icon" src="assets/icon/eea6ffe630b18ce9.svg" alt="">食べられる指輪](/ja/item/edible-ring) | [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | 装備必須 | 3 | — |
 | [<img class="wiki-icon" src="assets/icon/aba9e6b62053c166.svg" alt="">銀の指輪](/ja/item/silver-ring) | [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | 装備必須 | 9 | — |
-| [<span class="wiki-icon">🍩</span>バウムクーヘン](/ja/item/baumkuchen) | [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | 消費装備 | 6 | — |
+| [<span class="wiki-icon">🍩</span>バウムクーヘン](/ja/item/baumkuchen) | [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | 装備必須 | 6 | — |
 | [<span class="wiki-icon">💍</span>結婚指輪](/ja/item/wedding-ring) | [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | 装備必須 | 18 | — |
 | [<span class="wiki-icon">💍</span>取れない指輪](/ja/item/stuck-ring) | [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | 装備必須 | 27 | — |
 | [<span class="wiki-icon">⌚</span>スマートリング](/ja/item/smart-ring) | [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | 装備必須 | 81 | — |
@@ -146,7 +77,7 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（79種）</summary>
+<details><summary>全カテゴリに効くアイテム（155種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -156,6 +87,9 @@
 | [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad) | 消費装備 |  |  |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana) | 消費装備 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🍎</span>リンゴ](/ja/item/apple) | 消費装備 |  |  |  |  | +2 |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
@@ -175,26 +109,40 @@
 | [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
+| [<span class="wiki-icon">🍬</span>飴](/ja/item/candy) | 消費装備 |  |  |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/item/potion-bread) | 消費装備 |  |  |  |  | +6 |  |  |  |
+| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/item/escargot) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/item/stir-fried-vegetables) | 消費装備 |  |  |  |  | +8 |  |  |  |
+| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/item/meat-bun-tomato-stew) | 消費装備 |  |  |  |  | +8 |  |  |  |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/item/grilled-fish) | 消費装備 |  |  |  |  | +10 |  |  |  |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/item/beef-jerky) | 消費装備 |  |  |  |  | +11 |  |  |  |
+| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/item/burning-tofu) | 消費装備 |  |  |  |  | +11 |  |  |  |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango) | 消費装備 |  |  |  |  | +15 |  |  |  |
+| [<span class="wiki-icon">🫘</span>仙豆](/ja/item/senzu-bean) | 消費装備 |  |  |  |  | +15 |  |  |  |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
 | [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
 | [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
 | [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
-| [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
-| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/item/grandfather-clock) | 装備必須 |  |  |  |  |  |  |  | +9 |
-| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/item/peacock-feather) | 装備必須 |  |  |  |  |  |  |  | +2 |
-| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/item/heart-piece) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) | 装備必須 |  |  |  |  |  |  |  | +7 |
-| [<span class="wiki-icon">📜</span>遺言書](/ja/item/will-document) | 装備必須 |  |  |  |  |  |  |  | +8 |
-| [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) | 装備必須 |  |  |  |  |  |  |  | +9 |
-| [<span class="wiki-icon">✉️</span>ボトルメール](/ja/item/message-in-a-bottle) | 装備必須 |  |  |  |  |  |  |  | +4 |
-| [<span class="wiki-icon">❄️</span>スノードーム](/ja/item/snow-globe) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">🔮</span>万華鏡](/ja/item/kaleidoscope) | 装備必須 |  |  |  |  |  |  |  | +6 |
-| [<span class="wiki-icon">📼</span>無限ループするビデオテープ](/ja/item/infinite-loop-videotape) | 装備必須 |  |  |  |  |  |  |  | +8 |
-| [<span class="wiki-icon">🟡</span>金の玉](/ja/item/golden-orb) | 装備必須 |  |  |  |  |  |  |  | +10 |
+| [<span class="wiki-icon">🦷</span>ミミック](/ja/item/mimic) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +4 |
+| [<span class="wiki-icon">🏛️</span>ダビデ像](/ja/item/statue-of-david) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/item/grandfather-clock) | 装備必須 |  |  |  |  |  |  |  | +6 |
+| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/item/peacock-feather) | 装備必須 |  |  |  |  |  |  |  | +1 |
+| [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">📜</span>遺言書](/ja/item/will-document) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">📼</span>無限ループするビデオテープ](/ja/item/infinite-loop-videotape) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🟡</span>金の玉](/ja/item/golden-orb) | 装備必須 |  |  |  |  |  |  |  | +7 |
+| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/item/heart-piece) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) | 装備必須 |  |  |  |  |  |  |  | +6 |
+| [<span class="wiki-icon">✉️</span>ボトルメール](/ja/item/message-in-a-bottle) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">❄️</span>スノードーム](/ja/item/snow-globe) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🔮</span>万華鏡](/ja/item/kaleidoscope) | 装備必須 |  |  |  |  |  |  |  | +4 |
 | [<span class="wiki-icon">🐇</span>ウサギ小屋](/ja/item/rabbit-hutch) | 装備不要 |  |  |  |  |  | +3 |  |  |
 | [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/item/ruining-cushion) | 装備不要 |  |  |  |  |  | +2 |  |  |
 | [<span class="wiki-icon">🪣</span>井戸](/ja/item/well) | 装備不要 |  |  |  |  |  | +6 |  |  |
@@ -209,28 +157,87 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
-| [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎓</span>学ラン](/ja/item/gakuran) | 装備必須 |  | +13 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🩹</span>腹巻き](/ja/item/belly-warmer) | 装備必須 |  | +19 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🥋</span>スケイルメイル](/ja/item/scale-mail) | 装備必須 |  | +73 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>僧侶の法衣](/ja/item/priest-robe) | 装備必須 |  | +73 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) | 装備必須 |  | +91 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>神衣](/ja/item/god-robe) | 装備必須 |  | +105 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) | 装備必須 |  | +105 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>聖衣](/ja/item/holy-cloth) | 装備必須 |  | +119 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/item/box-gundam) | 装備必須 |  | +166 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) | 装備不可 | +44 | +28 | +6 | +5 | +15 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭](/ja/item/fake-beard) | 装備必須 |  | +1 | +2 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/21c4e6a062160394.svg" alt="">鍋かぶと](/ja/item/pot-helmet) | 装備必須 |  | +1 | +2 |  |  |  |  |  |
+| [<span class="wiki-icon">🧕</span>赤ずきん](/ja/item/red-hood) | 装備必須 |  | +3 | +3 |  |  |  |  |  |
+| [<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) | 装備必須 |  | +4 | +3 |  |  |  |  |  |
+| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/item/chef-hat) | 装備必須 |  | +5 | +5 |  |  |  |  |  |
+| [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) | 装備必須 |  | +6 | +5 |  |  |  |  |  |
+| [<span class="wiki-icon">👓</span>メガネ](/ja/item/glasses) | 装備必須 |  | +8 | +6 |  |  |  |  |  |
+| [<span class="wiki-icon">🩹</span>アイパッチ](/ja/item/eyepatch) | 装備必須 |  | +8 | +6 |  |  |  |  |  |
+| [<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) | 装備必須 |  | +11 | +8 |  |  |  |  |  |
+| [<span class="wiki-icon">🦷</span>入れ歯](/ja/item/dentures) | 装備必須 |  | +13 | +8 |  |  |  |  |  |
+| [<span class="wiki-icon">🥽</span>スカウター](/ja/item/scouter) | 装備必須 |  | +16 | +9 |  |  |  |  |  |
+| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/item/iron-helmet) | 装備必須 |  | +16 | +9 |  |  |  |  |  |
+| [<span class="wiki-icon">🎎</span>だるま](/ja/item/daruma) | 装備必須 |  | +20 | +11 |  |  |  |  |  |
+| [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/item/pumpkin-head) | 装備必須 |  | +26 | +11 |  |  |  |  |  |
+| [<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) | 装備必須 |  | +31 | +12 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/89b6e6d7412928e1.svg" alt="">絹の帽子](/ja/item/silk-hat) | 装備必須 |  | +31 | +12 |  |  |  |  |  |
+| [<span class="wiki-icon">👑</span>王冠](/ja/item/crown) | 装備必須 |  | +38 | +12 |  |  |  |  |  |
+| [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/item/jade-hairpin) | 装備必須 |  | +44 | +14 |  |  |  |  |  |
+| [<span class="wiki-icon">⚫</span>虚無のリング](/ja/item/void-ring) | 装備必須 |  | +44 | +14 |  |  |  |  |  |
+| [<span class="wiki-icon">👁️</span>六眼の瞳](/ja/item/six-eyes) | 装備必須 |  | +50 | +15 |  |  |  |  |  |
+| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/item/crystal-skull) | 装備必須 |  | +60 | +15 |  |  |  |  |  |
+| [<span class="wiki-icon">👁️</span>写輪眼](/ja/item/sharingan) | 装備必須 |  | +60 | +15 |  |  |  |  |  |
+| [<span class="wiki-icon">😇</span>天使の輪](/ja/item/halo) | 装備必須 |  | +70 | +15 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  | +1 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🎓</span>学ラン](/ja/item/gakuran) | 装備必須 |  | +13 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🩹</span>腹巻き](/ja/item/belly-warmer) | 装備必須 |  | +19 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  | +3 |  |  |  |
+| [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  | +3 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  | +3 |  |  |  |
+| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  | +3 |  |  |  |
+| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">🥋</span>スケイルメイル](/ja/item/scale-mail) | 装備必須 |  | +73 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">👘</span>僧侶の法衣](/ja/item/priest-robe) | 装備必須 |  | +73 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) | 装備必須 |  | +91 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">👘</span>神衣](/ja/item/god-robe) | 装備必須 |  | +105 |  |  | +5 |  |  |  |
+| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) | 装備必須 |  | +105 |  |  | +5 |  |  |  |
+| [<span class="wiki-icon">👘</span>聖衣](/ja/item/holy-cloth) | 装備必須 |  | +119 |  |  | +5 |  |  |  |
+| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/item/box-gundam) | 装備必須 |  | +166 |  |  | +5 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/57b5c51acdb68045.svg" alt="">ミトン](/ja/item/mitten) | 装備必須 | +2 | +1 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/16359e1fba4a9c16.svg" alt="">布の手袋](/ja/item/cloth-gloves) | 装備必須 | +2 | +1 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) | 装備必須 | +3 | +1 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🩱</span>孫の手](/ja/item/back-scratcher) | 装備必須 | +4 | +1 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) | 装備必須 | +6 | +2 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🐾</span>ネコの手](/ja/item/cat-paw) | 装備必須 | +7 | +2 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🏮</span>ランタン](/ja/item/lantern) | 装備必須 | +10 | +3 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🤲</span>救いの手](/ja/item/helping-hand) | 装備必須 | +10 | +3 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) | 消費装備 | +12 | +4 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) | 装備必須 | +16 | +5 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>革の手袋](/ja/item/leather-gloves) | 装備必須 | +19 | +6 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/item/crab-claw) | 装備必須 | +19 | +6 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/item/iron-gauntlet) | 装備必須 | +23 | +8 |  |  |  |  |  |  |
+| [<span class="wiki-icon">⏰</span>麻酔時計](/ja/item/anesthetic-watch) | 装備必須 | +31 | +10 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🔺</span>令呪](/ja/item/command-spell) | 消費装備 | +36 | +12 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/item/aegis) | 装備必須 | +45 | +15 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🛡️</span>矛盾](/ja/item/contradiction) | 装備必須 | +52 | +17 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/item/infinity-gauntlet) | 装備必須 | +90 | +30 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/da012127f6ed247b.svg" alt="">臭う靴下](/ja/item/smelly-socks) | 装備必須 |  | +1 |  | +2 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/85a5eb144a623cc8.svg" alt="">スリッパ](/ja/item/slippers) | 装備必須 |  | +1 |  | +2 |  |  |  |  |
+| [<span class="wiki-icon">👞</span>木靴](/ja/item/wooden-clogs) | 装備必須 |  | +2 |  | +3 |  |  |  |  |
+| [<span class="wiki-icon">🧦</span>レッグウォーマー](/ja/item/leg-warmer) | 装備必須 |  | +2 |  | +3 |  |  |  |  |
+| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/item/cowboy-boots) | 装備必須 |  | +3 |  | +5 |  |  |  |  |
+| [<span class="wiki-icon">👞</span>安全靴](/ja/item/safety-shoes) | 装備必須 |  | +4 |  | +5 |  |  |  |  |
+| [<span class="wiki-icon">🏊</span>浮き輪](/ja/item/swim-ring) | 装備必須 |  | +5 |  | +6 |  |  |  |  |
+| [<span class="wiki-icon">👟</span>音が鳴る靴](/ja/item/squeaky-shoes) | 装備必須 |  | +5 |  | +6 |  |  |  |  |
+| [<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) | 装備必須 |  | +6 |  | +8 |  |  |  |  |
+| [<span class="wiki-icon">🧦</span>絹の足袷](/ja/item/silk-leggings) | 装備必須 |  | +8 |  | +8 |  |  |  |  |
+| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/item/leather-boots) | 装備必須 |  | +10 |  | +9 |  |  |  |  |
+| [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/item/iron-greaves) | 装備必須 |  | +10 |  | +9 |  |  |  |  |
+| [<span class="wiki-icon">👠</span>ハイヒール](/ja/item/high-heels) | 装備必須 |  | +12 |  | +11 |  |  |  |  |
+| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/item/kick-boost-shoes) | 装備必須 |  | +16 |  | +11 |  |  |  |  |
+| [<span class="wiki-icon">👠</span>ガラスの靴](/ja/item/glass-slipper) | 装備必須 |  | +18 |  | +12 |  |  |  |  |
+| [<span class="wiki-icon">🐇</span>ウサギ尻尾](/ja/item/rabbit-tail) | 装備必須 |  | +18 |  | +12 |  |  |  |  |
+| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/item/odm-boots) | 装備必須 |  | +26 |  | +14 |  |  |  |  |
+| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/item/winged-shoes) | 装備必須 |  | +30 |  | +15 |  |  |  |  |
+| [<span class="wiki-icon">⭐</span>ワープスター](/ja/item/warp-star) | 装備必須 |  | +42 |  | +15 |  |  |  |  |
 
 </details>
 
@@ -245,7 +252,8 @@
 | `unlocked` | `hinted` |
 | `numeric` | `false` |
 | `standaloneProgress` | `false` |
-| `background` | （空） |
+| `backgrounds.laptop` | <a href="assets/icon/5a7dcabca4c0252b.svg" target="_blank">画像</a>（data URI） |
+| `backgrounds.mobile` | <a href="assets/icon/86139d474e775e6e.svg" target="_blank">画像</a>（data URI） |
 
 **設計ドキュメント**: [plan.md › カテゴリ設定](/ja/dev/doc/plan?id=%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E8%A8%AD%E5%AE%9A) ／ [plan.md › 進行ゲート](/ja/dev/doc/plan?id=%E9%80%B2%E8%A1%8C%E3%82%B2%E3%83%BC%E3%83%88) ／ [plan.md › カテゴリ役割分担](/ja/dev/doc/plan?id=%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E5%BD%B9%E5%89%B2%E5%88%86%E6%8B%85)
 
@@ -532,7 +540,10 @@
 	],
 	"numeric": false,
 	"standaloneProgress": false,
-	"background": ""
+	"backgrounds": {
+		"laptop": "（data URI の画像。site/assets/icon/5a7dcabca4c0252b.svg）",
+		"mobile": "（data URI の画像。site/assets/icon/86139d474e775e6e.svg）"
+	}
 }
 ```
 

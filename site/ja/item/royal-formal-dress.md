@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 |
-| --- | --- |
-| 全カテゴリ | +91 |
+| 効き先 | 防御 | 回復 |
+| --- | --- | --- |
+| 全カテゴリ | +91 | +4 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👑</span>王の間の秘密](/ja/action/throne-room-secret) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv30 | 1 | 44.8% | 0.448 | 0.112 |
+| [<span class="wiki-icon">👑</span>王族の正装](/ja/action/craft-royal-formal-dress) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv40 | 1 | 100% | 1 | 0.25 |
 
 <div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 胴体装備</div><div class="wiki-navbox-body"><a href="#/ja/item/apron"><img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン</a> ・ <a href="#/ja/item/tank-top"><img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ</a> ・ <a href="#/ja/item/farmer-work-clothes"><span class="wiki-icon">👨‍🌾</span>農夫の作業着</a> ・ <a href="#/ja/item/raincoat"><span class="wiki-icon">☂️</span>雨具</a> ・ <a href="#/ja/item/sailor-uniform"><span class="wiki-icon">⚓</span>セーラー服</a> ・ <a href="#/ja/item/gakuran"><span class="wiki-icon">🎓</span>学ラン</a> ・ <a href="#/ja/item/belly-warmer"><span class="wiki-icon">🩹</span>腹巻き</a> ・ <a href="#/ja/item/emperors-new-clothes"><span class="wiki-icon">👑</span>裸の王様の服</a> ・ <a href="#/ja/item/leather-breastplate"><span class="wiki-icon">🥋</span>革の胸当</a> ・ <a href="#/ja/item/silk-clothes"><span class="wiki-icon">👘</span>絹の服</a> ・ <a href="#/ja/item/chainmail"><img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル</a> ・ <a href="#/ja/item/bulletproof-vest"><span class="wiki-icon">🦺</span>防弾チョッキ</a> ・ <a href="#/ja/item/bikini-armor"><span class="wiki-icon">👙</span>ビキニアーマー</a> ・ <a href="#/ja/item/iron-breastplate"><span class="wiki-icon">🥋</span>鉄の胸当</a> ・ <a href="#/ja/item/scale-mail"><span class="wiki-icon">🥋</span>スケイルメイル</a> ・ <a href="#/ja/item/priest-robe"><span class="wiki-icon">👘</span>僧侶の法衣</a> ・ <a href="#/ja/item/royal-formal-dress"><span class="wiki-icon">👑</span>王族の正装</a> ・ <a href="#/ja/item/god-robe"><span class="wiki-icon">👘</span>神衣</a> ・ <a href="#/ja/item/plug-suit"><span class="wiki-icon">🅿️</span>プラグスーツ</a> ・ <a href="#/ja/item/holy-cloth"><span class="wiki-icon">👘</span>聖衣</a> ・ <a href="#/ja/item/box-gundam"><span class="wiki-icon">🤖</span>箱ガンダム</a></div></div>
 
@@ -75,7 +75,7 @@
 			"defence": 91,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 4,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

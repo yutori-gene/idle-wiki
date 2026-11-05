@@ -1,6 +1,6 @@
 # るつぼ
 
-<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">るつぼ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/melting"><span class="wiki-icon">🧫</span>溶解</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">るつぼ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 高温処理が必要な調合に使う。
 
@@ -19,15 +19,15 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💉</span>ワクチン](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧪</span>LCL](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>げんきのかけら](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧪</span>エリクサー](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<span class="wiki-icon">💉</span>ワクチン](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<span class="wiki-icon">🧪</span>LCL](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<span class="wiki-icon">💊</span>げんきのかけら](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<span class="wiki-icon">🧪</span>エリクサー](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
 
-<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 溶解</div><div class="wiki-navbox-body"><a href="#/ja/item/crucible"><span class="wiki-icon">⚗️</span>るつぼ</a></div></div>
+<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -35,13 +35,13 @@
 | --- | --- |
 | id | `crucible` |
 | `category` | `basement` |
-| `group` | `melting` |
+| `group` | `tool` |
 | `unlocked` | `hidden` |
 | `buyingValue` | `0` |
 | `sellingValue` | `0` |
 | `coinId` | （空） |
 | `maximum` | `1` |
-| `equipmentType` | `necessary` |
+| `equipmentType` | `unnecessary` |
 | `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
@@ -65,13 +65,13 @@
 		"color": ""
 	},
 	"category": "basement",
-	"group": "melting",
+	"group": "tool",
 	"unlocked": "hidden",
 	"buyingValue": 0,
 	"sellingValue": 0,
 	"coinId": "",
 	"maximum": 1,
-	"equipmentType": "necessary",
+	"equipmentType": "unnecessary",
 	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],

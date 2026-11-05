@@ -1,6 +1,6 @@
 # 虚飾
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">虚飾</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💄</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>精度-8・回避+12</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">虚飾</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💄</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>精度-8・回避+12</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 飾りは目を引く。自分の目も。
 
@@ -18,6 +18,7 @@
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
 | [<span class="wiki-icon">🐉</span>火山竜](/ja/action/volcano-dragon) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 |
+| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 |
 
 ## このスキルを持つ装備
 

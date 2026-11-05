@@ -1,6 +1,6 @@
 # 蛇口のハンドル
 
-<div class="wiki-infobox" style="--accent:#968358"><div class="wiki-infobox-title">蛇口のハンドル</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🚰</span></div><table><tr><th>場所</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv31</td></tr><tr><th>所要時間</th><td>3時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,086</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#463476"><div class="wiki-infobox-title">蛇口のハンドル</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🚰</span></div><table><tr><th>場所</th><td><a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv31</td></tr><tr><th>所要時間</th><td>3時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,086</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 蒸気バルブを削って刃を立てる。手裏剣の職人がいなくなった現代の代用品。
 
@@ -9,8 +9,9 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv31以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) Lv31以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) ×2（消費する）
+- [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron) ×3（消費する）
 - [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) ×10（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -36,18 +37,18 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 4,320 | 46 | 4,274 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 4,320 | 93 | 4,227 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#968358"><div class="wiki-navbox-title">爆発武器のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/disassemble-egg"><img class="wiki-icon" src="assets/icon/95ee8d9d6ccf791f.svg" alt="">卵（分解）</a> ・ <a href="#/ja/action/disassemble-water-balloon"><img class="wiki-icon" src="assets/icon/8f458c2a40439e96.svg" alt="">水風船（分解）</a> ・ <a href="#/ja/action/disassemble-pie"><span class="wiki-icon">🥧</span>パイ（分解）</a> ・ <a href="#/ja/action/disassemble-tomato"><span class="wiki-icon">🍅</span>トマト（分解）</a> ・ <a href="#/ja/action/disassemble-mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ（分解）</a> ・ <a href="#/ja/action/disassemble-party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー（分解）</a> ・ <a href="#/ja/action/disassemble-mandragora"><span class="wiki-icon">🌱</span>マンドラゴラ（分解）</a> ・ <a href="#/ja/action/disassemble-fire-flower"><span class="wiki-icon">🌼</span>ファイアフラワー（分解）</a> ・ <a href="#/ja/action/disassemble-flashbang"><span class="wiki-icon">✨</span>閃光弾（分解）</a> ・ <a href="#/ja/action/disassemble-molotov"><span class="wiki-icon">🍾</span>火炎ビン（分解）</a> ・ <a href="#/ja/action/disassemble-faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル（分解）</a> ・ <a href="#/ja/action/disassemble-lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー（分解）</a> ・ <a href="#/ja/action/disassemble-dynamite"><span class="wiki-icon">🧨</span>ダイナマイト（分解）</a> ・ <a href="#/ja/action/disassemble-grenade"><span class="wiki-icon">💣</span>手榴弾（分解）</a> ・ <a href="#/ja/action/craft-mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ</a> ・ <a href="#/ja/action/craft-party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー</a> ・ <a href="#/ja/action/craft-lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー</a> ・ <a href="#/ja/action/craft-faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル</a> ・ <a href="#/ja/action/craft-grenade"><span class="wiki-icon">💣</span>手榴弾</a> ・ <a href="#/ja/action/craft-dynamite"><span class="wiki-icon">🧨</span>ダイナマイト</a> ・ <a href="#/ja/action/craft-clockwork-apple"><span class="wiki-icon">🍎</span>時計仕掛けのリンゴ</a> ・ <a href="#/ja/action/craft-ghost-ward"><span class="wiki-icon">🏷️</span>幽霊退治の札</a> ・ <a href="#/ja/action/craft-star-rod"><span class="wiki-icon">🪄</span>スターロッド</a> ・ <a href="#/ja/action/craft-n2-mine"><span class="wiki-icon">💣</span>N2爆雷</a> ・ <a href="#/ja/action/craft-trojan-horse"><span class="wiki-icon">🐴</span>トロイの木馬</a> ・ <a href="#/ja/action/craft-spirit-bomb"><span class="wiki-icon">🌕</span>元気玉</a> ・ <a href="#/ja/action/craft-nuclear-bomb"><span class="wiki-icon">☢️</span>核爆弾</a> ・ <a href="#/ja/action/craft-military-dolphin"><span class="wiki-icon">🐬</span>軍用イルカ</a></div></div>
+<div class="wiki-navbox" style="--accent:#463476"><div class="wiki-navbox-title">工房のアクション</div><div class="wiki-navbox-body">64件。一覧は <a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a> を参照</div></div>
 
 ## 開発者向け情報
 
 | 項目 | 値 |
 | --- | --- |
 | id | `craft-faucet-handle` |
-| `category` | `explosive-weapon` |
+| `category` | `atelier` |
 | `attribute` | （空） |
 | `group` | `synthesize` |
 | `unlocked` | `hidden` |
@@ -76,7 +77,7 @@
 		},
 		"color": ""
 	},
-	"category": "explosive-weapon",
+	"category": "atelier",
 	"attribute": "",
 	"group": "synthesize",
 	"unlocked": "hidden",
@@ -90,6 +91,13 @@
 			"type": "item",
 			"id": "steam-valve",
 			"count": 2,
+			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "iron",
+			"count": 3,
 			"chance": 1,
 			"equipment": false
 		},

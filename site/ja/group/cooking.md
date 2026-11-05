@@ -1,6 +1,6 @@
 # 料理
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">料理</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/6a5801445eb083cc.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション・アイテム</td></tr><tr><th>アクション</th><td>12本</td></tr><tr><th>アイテム</th><td>12種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">料理</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/6a5801445eb083cc.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション・アイテム</td></tr><tr><th>アクション</th><td>13本</td></tr><tr><th>アイテム</th><td>12種</td></tr></table></div>
 
 
 ## アクション
@@ -9,6 +9,7 @@
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 連続 |
 | [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv5 | 連続 |
+| [<span class="wiki-icon">🥧</span>パイ](/ja/action/cook-pie) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv7 | 連続 |
 | [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 連続 |
 | [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv16 | 連続 |
 | [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 連続 |

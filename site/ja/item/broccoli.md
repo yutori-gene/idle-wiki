@@ -9,9 +9,10 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 | 防御 | 精度 | 回避 | 回復 |
-| --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +4 | +2 | +1 | +2 | +5 |
+| 効き先 | 経験値 |
+| --- | --- |
+| [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | +3 |
+| [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | +2 |
 
 ## 入手方法
 
@@ -19,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/action/craft-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv13 | 1 | 100% | 1 | 0.667 |
+| [<span class="wiki-icon">📦</span>跳び箱](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 1 | 57.6% | 0.461 | 1.4 |
 
 ## 用途
 
@@ -28,7 +29,6 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv27 | 1 | 100% |  |
-| [<span class="wiki-icon">🥦</span>ブロッコリー（分解）](/ja/action/disassemble-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv15 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 
@@ -86,15 +86,26 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "melee-weapon",
-			"attack": 4,
-			"defence": 2,
-			"accuracy": 1,
-			"evasion": 2,
-			"restore": 5,
+			"category": "greenhouse",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
 			"speed": 0,
 			"chance": 0,
-			"experience": 0
+			"experience": 3
+		},
+		{
+			"category": "kitchen",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 0,
+			"chance": 0,
+			"experience": 2
 		}
 	],
 	"skill": ""

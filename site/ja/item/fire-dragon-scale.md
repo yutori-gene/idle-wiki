@@ -12,16 +12,9 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🐉</span>火山竜](/ja/action/volcano-dragon) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 1 | 0.062% | 0 | 0 |
+| [<span class="wiki-icon">🐉</span>ドラゴンの巣](/ja/action/open-dragon-nest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv30 | 1 | 55.4% | 0.388 | 0.776 |
 
-## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💍</span>ドラゴンの指輪](/ja/action/craft-dragon-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv36 | 2 | 100% |  |
-
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

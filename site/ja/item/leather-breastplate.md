@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 |
-| --- | --- |
-| 全カテゴリ | +25 |
+| 効き先 | 防御 | 回復 |
+| --- | --- | --- |
+| 全カテゴリ | +25 | +3 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 0.156% | 0.001 | 0.011 |
+| [<span class="wiki-icon">🥋</span>革の胸当](/ja/action/craft-leather-breastplate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 1 | 100% | 1 | 0.4 |
 
 ## 用途
 
@@ -83,7 +83,7 @@
 			"defence": 25,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 3,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

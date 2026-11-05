@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 | 精度 |
+| 効き先 | 攻撃 | 防御 |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +90 | +8 |
+| 全カテゴリ | +90 | +30 |
 
 
 **スキル**: [<span class="wiki-icon">🦔</span>棘の鎧](/ja/skill/thorn-armor)（装備中、戦闘の各ターンに 4% で発動）
@@ -73,10 +73,10 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "melee-weapon",
-			"attack": 0,
-			"defence": 90,
-			"accuracy": 8,
+			"category": "*",
+			"attack": 90,
+			"defence": 30,
+			"accuracy": 0,
 			"evasion": 0,
 			"restore": 0,
 			"speed": 0,

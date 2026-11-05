@@ -23,7 +23,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備不可 |
+| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備必須 |
 
 ## 開発者向け情報
 

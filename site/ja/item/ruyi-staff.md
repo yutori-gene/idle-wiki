@@ -1,17 +1,17 @@
 # 如意棒
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">如意棒</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪄</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/melee-weapon"><span class="wiki-icon">🗡️</span>近接武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>7,290 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/wild-swing"><span class="wiki-icon">🪓</span>大振り</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">如意棒</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪄</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/melee-weapon"><span class="wiki-icon">🗡️</span>近接武器</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>7,290 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/wild-swing"><span class="wiki-icon">🪓</span>大振り</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 自由自在に伸縮する棒。手元のコントローラーで長さを調整するのは慣れが必要。
 
 
 ## 性能
 
-装備しているあいだ効く（同じグループで装備できるのは1つ）。使うたびに消費する。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
+装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 |
-| --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +143 |
+| 効き先 | 攻撃 | 回復 |
+| --- | --- | --- |
+| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +143 | +10 |
 
 
 **スキル**: [<span class="wiki-icon">🪓</span>大振り](/ja/skill/wild-swing)（装備中、戦闘の各ターンに 4% で発動）
@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪄</span>如意棒](/ja/action/craft-ruyi-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv50 | 200 | 100% | 200 | 40 |
+| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv49 | 1 | 0.007% | 0 | 0 |
 
 <div class="wiki-navbox" style="--accent:#606a74"><div class="wiki-navbox-title">グループ: 近接武器</div><div class="wiki-navbox-body"><a href="#/ja/item/wooden-stick"><img class="wiki-icon" src="assets/icon/a853f3f0e7b15e1c.svg" alt="">木の棒</a> ・ <a href="#/ja/item/green-onion"><img class="wiki-icon" src="assets/icon/038883e27a6d1f09.svg" alt="">ネギ</a> ・ <a href="#/ja/item/baguette"><span class="wiki-icon">🥖</span>フランスパン</a> ・ <a href="#/ja/item/laundry-pole"><span class="wiki-icon">🎏</span>物干し竿</a> ・ <a href="#/ja/item/encyclopedia"><span class="wiki-icon">📚</span>百科事典</a> ・ <a href="#/ja/item/frozen-tuna"><span class="wiki-icon">🐟</span>冷凍マグロ</a> ・ <a href="#/ja/item/iron-rod"><span class="wiki-icon">🔩</span>鉄の棒</a> ・ <a href="#/ja/item/hammer"><span class="wiki-icon">🔨</span>ハンマー</a> ・ <a href="#/ja/item/crutch"><span class="wiki-icon">🦯</span>松葉杖</a> ・ <a href="#/ja/item/nail-bat"><span class="wiki-icon">🏏</span>釘バット</a> ・ <a href="#/ja/item/pico-hammer"><span class="wiki-icon">🔨</span>ピコハンマー</a> ・ <a href="#/ja/item/attache-case"><span class="wiki-icon">💼</span>アタッシュケース</a> ・ <a href="#/ja/item/guitar"><img class="wiki-icon" src="assets/icon/ba24921e1a11094c.svg" alt="">ギター</a> ・ <a href="#/ja/item/sasumata"><span class="wiki-icon">🔱</span>さすまた</a> ・ <a href="#/ja/item/gladius"><span class="wiki-icon">🗡️</span>グラディウス</a> ・ <a href="#/ja/item/double-edged-sword"><span class="wiki-icon">⚔️</span>諸刃の剣</a> ・ <a href="#/ja/item/magical-girl-wand"><span class="wiki-icon">🪄</span>魔法少女のステッキ</a> ・ <a href="#/ja/item/swordfish"><span class="wiki-icon">🐟</span>メカジキ</a> ・ <a href="#/ja/item/sealing-staff"><span class="wiki-icon">🪄</span>封印の杖</a> ・ <a href="#/ja/item/muramasa"><span class="wiki-icon">🗡️</span>ムラマサ</a> ・ <a href="#/ja/item/beam-saber"><span class="wiki-icon">⚔️</span>ビームサーベル</a> ・ <a href="#/ja/item/excalibur"><span class="wiki-icon">⚔️</span>エクスカリバー</a> ・ <a href="#/ja/item/master-sword"><span class="wiki-icon">⚔️</span>マスターソード</a> ・ <a href="#/ja/item/ruyi-staff"><span class="wiki-icon">🪄</span>如意棒</a> ・ <a href="#/ja/item/key-blade"><span class="wiki-icon">🗝️</span>🔑ブレード</a></div></div>
 
@@ -38,7 +38,7 @@
 | `sellingValue` | `7290` |
 | `coinId` | （空） |
 | `maximum` | `0` |
-| `equipmentType` | `consumable` |
+| `equipmentType` | `necessary` |
 | `consumeChance` | `1` |
 | `skill` | `wild-swing` |
 | CSV `tier` | 10 |
@@ -68,7 +68,7 @@
 	"sellingValue": 7290,
 	"coinId": "",
 	"maximum": 0,
-	"equipmentType": "consumable",
+	"equipmentType": "necessary",
 	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
@@ -78,7 +78,7 @@
 			"defence": 0,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 10,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

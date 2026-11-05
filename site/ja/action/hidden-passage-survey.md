@@ -19,8 +19,6 @@
 | [<span class="wiki-icon">📜</span>古書](/ja/item/old-book) ×1 | 成功時 | 31.1% | 0.311 | 0.078 |
 | [<span class="wiki-icon">🗡️</span>暗殺者の短剣の破片](/ja/item/assassin-dagger-shard) ×2 | 成功時 | 41.8% | 0.836 | 0.209 |
 | [<span class="wiki-icon">🖋️</span>王家の封蝋](/ja/item/royal-wax-seal) ×1 | 成功時 | 31.1% | 0.311 | 0.078 |
-| [<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/item/aegis) ×1 | 成功時 | 44.8% | 0.448 | 0.112 |
-| [<span class="wiki-icon">🟢</span>クリプトナイト](/ja/item/kryptonite) ×1 | 成功時 | 4.98% | 0.05 | 0.012 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -39,7 +37,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 1,749 | 0 | 1,749 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 1,507 | 0 | 1,507 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -113,18 +111,6 @@
 			"id": "royal-wax-seal",
 			"count": 1,
 			"chance": 0.311
-		},
-		{
-			"type": "item",
-			"id": "aegis",
-			"count": 1,
-			"chance": 0.448
-		},
-		{
-			"type": "item",
-			"id": "kryptonite",
-			"count": 1,
-			"chance": 0.0498
 		}
 	],
 	"progressType": "single",

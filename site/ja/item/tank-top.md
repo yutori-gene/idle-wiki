@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 |
-| --- | --- |
-| 全カテゴリ | +3 |
+| 効き先 | 防御 | 回復 |
+| --- | --- | --- |
+| 全カテゴリ | +3 | +1 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 | 1 | 3.52% | 0.018 | 2.8 |
+| [<span class="wiki-icon">🎽</span>タンクトップ](/ja/action/craft-tank-top) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv5 | 1 | 100% | 1 | 2 |
 
 ## 用途
 
@@ -83,7 +83,7 @@
 			"defence": 3,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 1,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

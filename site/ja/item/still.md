@@ -1,6 +1,6 @@
 # 蒸留器
 
-<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">蒸留器</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/distilling"><span class="wiki-icon">🧫</span>蒸留</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">蒸留器</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 液体系ポーションの精製に使う。
 
@@ -19,17 +19,18 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">✨</span>発光する薬](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>滋養強壮剤](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧪</span>毒瓶](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💧</span>聖水](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
-| [<span class="wiki-icon">💊</span>万能薬](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（装備が必要・消費しない） |
+| [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（消費しない） |
+| [<span class="wiki-icon">✨</span>発光する薬](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（消費しない） |
+| [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（消費しない） |
+| [<span class="wiki-icon">🍾</span>火炎ビン](/ja/action/brew-molotov) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（消費しない） |
+| [<span class="wiki-icon">💊</span>滋養強壮剤](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（消費しない） |
+| [<span class="wiki-icon">🧪</span>毒瓶](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（消費しない） |
+| [<span class="wiki-icon">💧</span>聖水](/ja/action/brew-holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（消費しない） |
+| [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（消費しない） |
+| [<span class="wiki-icon">💊</span>万能薬](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>蒸留器](/ja/item/still) ×1（消費しない） |
 
-<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 蒸留</div><div class="wiki-navbox-body"><a href="#/ja/item/still"><span class="wiki-icon">⚗️</span>蒸留器</a></div></div>
+<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -37,13 +38,13 @@
 | --- | --- |
 | id | `still` |
 | `category` | `basement` |
-| `group` | `distilling` |
+| `group` | `tool` |
 | `unlocked` | `hidden` |
 | `buyingValue` | `0` |
 | `sellingValue` | `0` |
 | `coinId` | （空） |
 | `maximum` | `1` |
-| `equipmentType` | `necessary` |
+| `equipmentType` | `unnecessary` |
 | `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 3 |
@@ -67,13 +68,13 @@
 		"color": ""
 	},
 	"category": "basement",
-	"group": "distilling",
+	"group": "tool",
 	"unlocked": "hidden",
 	"buyingValue": 0,
 	"sellingValue": 0,
 	"coinId": "",
 	"maximum": 1,
-	"equipmentType": "necessary",
+	"equipmentType": "unnecessary",
 	"consumeChance": 1,
 	"requirements": [],
 	"properties": [],

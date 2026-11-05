@@ -1,9 +1,17 @@
 # バナナ
 
-<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">バナナ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍌</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">バナナ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍌</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ingredient"><span class="wiki-icon">🥕</span>食材</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 滑って転ぶ古典芸。
 
+
+## 性能
+
+装備しているあいだ効く（同じグループで装備できるのは1つ）。使うたびに消費する。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
+
+| 効き先 | 回復 |
+| --- | --- |
+| 全カテゴリ | +2 |
 
 ## 入手方法
 
@@ -43,7 +51,7 @@
 | `sellingValue` | `6` |
 | `coinId` | （空） |
 | `maximum` | `0` |
-| `equipmentType` | `impossible` |
+| `equipmentType` | `consumable` |
 | `consumeChance` | `1` |
 | `skill` | （空） |
 | CSV `tier` | 2 |
@@ -73,7 +81,7 @@
 	"sellingValue": 6,
 	"coinId": "",
 	"maximum": 0,
-	"equipmentType": "impossible",
+	"equipmentType": "consumable",
 	"consumeChance": 1,
 	"requirements": [
 		{
@@ -84,7 +92,19 @@
 			"equipment": false
 		}
 	],
-	"properties": [],
+	"properties": [
+		{
+			"category": "*",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 2,
+			"speed": 0,
+			"chance": 0,
+			"experience": 0
+		}
+	],
 	"skill": ""
 }
 ```

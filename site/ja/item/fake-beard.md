@@ -1,6 +1,6 @@
 # つけ髭
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">つけ髭</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c31eccfb162aa5fc.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/head-armor"><span class="wiki-icon">🪖</span>頭部防具</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">つけ髭</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c31eccfb162aa5fc.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/head-armor"><span class="wiki-icon">🪖</span>頭部防具</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 相手を信用させる効果がある。クリスマスには老若男女問わずに装備するのがマナー。
 
@@ -9,31 +9,29 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 |
-| --- | --- |
-| [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | +2 |
+| 効き先 | 防御 | 精度 |
+| --- | --- | --- |
+| 全カテゴリ | +1 | +2 |
 
 ## 入手方法
 
-### アクション
+### 購入
 
-| アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/ffc8dfbf2e954eb8.svg" alt="">茂みの奥](/ja/action/deep-in-the-bushes) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv8 | 3 | 100% | 3 | 6 |
+6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a> で購入できる（下記の解放条件を満たしてから）。
 
 ## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/f96dc60e3dc7469c.svg" alt="">つけ髭（分解）](/ja/action/disassemble-fake-beard) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv6 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
 | [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭](/ja/item/fake-beard) ×1（装備が必要・消費しない） |
+
+## 解放条件
+
+次をすべて満たすと一覧に現れる（購入もできるようになる）。
+
+- [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv5以上
 
 <div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 頭部防具</div><div class="wiki-navbox-body"><a href="#/ja/item/fake-beard"><img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭</a> ・ <a href="#/ja/item/pot-helmet"><img class="wiki-icon" src="assets/icon/21c4e6a062160394.svg" alt="">鍋かぶと</a> ・ <a href="#/ja/item/red-hood"><span class="wiki-icon">🧕</span>赤ずきん</a> ・ <a href="#/ja/item/bunny-ears"><span class="wiki-icon">🐰</span>ウサミミ</a> ・ <a href="#/ja/item/chef-hat"><span class="wiki-icon">👨‍🍳</span>シェフハット</a> ・ <a href="#/ja/item/mask"><span class="wiki-icon">😷</span>マスク</a> ・ <a href="#/ja/item/glasses"><span class="wiki-icon">👓</span>メガネ</a> ・ <a href="#/ja/item/eyepatch"><span class="wiki-icon">🩹</span>アイパッチ</a> ・ <a href="#/ja/item/laurel-crown"><span class="wiki-icon">🏆</span>月桂冠</a> ・ <a href="#/ja/item/dentures"><span class="wiki-icon">🦷</span>入れ歯</a> ・ <a href="#/ja/item/scouter"><span class="wiki-icon">🥽</span>スカウター</a> ・ <a href="#/ja/item/iron-helmet"><span class="wiki-icon">⛑️</span>鉄の兜</a> ・ <a href="#/ja/item/daruma"><span class="wiki-icon">🎎</span>だるま</a> ・ <a href="#/ja/item/pumpkin-head"><span class="wiki-icon">🎃</span>パンプキンヘッド</a> ・ <a href="#/ja/item/wedding-veil"><span class="wiki-icon">👰</span>ウエディングベール</a> ・ <a href="#/ja/item/silk-hat"><img class="wiki-icon" src="assets/icon/89b6e6d7412928e1.svg" alt="">絹の帽子</a> ・ <a href="#/ja/item/crown"><span class="wiki-icon">👑</span>王冠</a> ・ <a href="#/ja/item/jade-hairpin"><span class="wiki-icon">💚</span>翡翠のかんざし</a> ・ <a href="#/ja/item/void-ring"><span class="wiki-icon">⚫</span>虚無のリング</a> ・ <a href="#/ja/item/six-eyes"><span class="wiki-icon">👁️</span>六眼の瞳</a> ・ <a href="#/ja/item/crystal-skull"><span class="wiki-icon">💀</span>クリスタルスカル</a> ・ <a href="#/ja/item/sharingan"><span class="wiki-icon">👁️</span>写輪眼</a> ・ <a href="#/ja/item/halo"><span class="wiki-icon">😇</span>天使の輪</a></div></div>
 
@@ -45,7 +43,7 @@
 | `category` | `armor` |
 | `group` | `head-armor` |
 | `unlocked` | `hidden` |
-| `buyingValue` | `0` |
+| `buyingValue` | `6` |
 | `sellingValue` | `3` |
 | `coinId` | （空） |
 | `maximum` | `0` |
@@ -75,19 +73,27 @@
 	"category": "armor",
 	"group": "head-armor",
 	"unlocked": "hidden",
-	"buyingValue": 0,
+	"buyingValue": 6,
 	"sellingValue": 3,
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
 	"consumeChance": 1,
-	"requirements": [],
+	"requirements": [
+		{
+			"type": "category",
+			"id": "park",
+			"count": 5,
+			"chance": 1,
+			"equipment": false
+		}
+	],
 	"properties": [
 		{
-			"category": "throwing-weapon",
+			"category": "*",
 			"attack": 0,
-			"defence": 2,
-			"accuracy": 0,
+			"defence": 1,
+			"accuracy": 2,
 			"evasion": 0,
 			"restore": 0,
 			"speed": 0,

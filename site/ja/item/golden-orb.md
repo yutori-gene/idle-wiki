@@ -11,7 +11,7 @@
 
 | 効き先 | 経験値 |
 | --- | --- |
-| 全カテゴリ | +10 |
+| 全カテゴリ | +7 |
 
 ## 入手方法
 
@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🟡</span>金の玉を磨く](/ja/action/polish-golden-orb) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv50 | 1 | 100% | 1 | 0.1 |
+| [<span class="wiki-icon">🟡</span>金の玉](/ja/action/polish-golden-orb) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv50 | 1 | 100% | 1 | 0.1 |
 
-<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 棚</div><div class="wiki-navbox-body"><a href="#/ja/item/message-in-a-bottle"><span class="wiki-icon">✉️</span>ボトルメール</a> ・ <a href="#/ja/item/snow-globe"><span class="wiki-icon">❄️</span>スノードーム</a> ・ <a href="#/ja/item/kaleidoscope"><span class="wiki-icon">🔮</span>万華鏡</a> ・ <a href="#/ja/item/infinite-loop-videotape"><span class="wiki-icon">📼</span>無限ループするビデオテープ</a> ・ <a href="#/ja/item/golden-orb"><span class="wiki-icon">🟡</span>金の玉</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 棚</div><div class="wiki-navbox-body"><a href="#/ja/item/sand-castle"><span class="wiki-icon">🏖️</span>砂の城</a> ・ <a href="#/ja/item/infinite-loop-videotape"><span class="wiki-icon">📼</span>無限ループするビデオテープ</a> ・ <a href="#/ja/item/golden-orb"><span class="wiki-icon">🟡</span>金の玉</a></div></div>
 
 ## 開発者向け情報
 
@@ -78,7 +78,7 @@
 			"restore": 0,
 			"speed": 0,
 			"chance": 0,
-			"experience": 10
+			"experience": 7
 		}
 	],
 	"skill": ""

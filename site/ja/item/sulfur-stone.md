@@ -15,13 +15,19 @@
 
 ## 用途
 
+### 材料として消費
+
+| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
+| --- | --- | --- | --- | --- | --- |
+| [<span class="wiki-icon">🔩</span>硫黄石（分解）](/ja/action/disassemble-sulfur-stone) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv43 | 1 | 100% |  |
+
 ### 条件にしているもの
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
 | [<span class="wiki-icon">🔥</span>火焔の試練](/ja/event/flame-trial) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🟡</span>硫黄石](/ja/item/sulfur-stone) ×5 |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

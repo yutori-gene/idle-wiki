@@ -17,7 +17,8 @@
 | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">💾</span>壊れた基板](/ja/item/broken-circuit-board) ×3 | 成功時 | 63.6% | 1.9 | 0.636 |
 | [<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline) ×3 | 成功時 | 63.6% | 1.9 | 0.636 |
-| [<span class="wiki-icon">🎁</span>中くらいの宝箱](/ja/item/medium-chest) ×1 | 成功時 | 41.8% | 0.418 | 0.139 |
+| [<span class="wiki-icon">🦫</span>ビーバーの巣](/ja/item/beaver-lodge) ×1 | 成功時 | 41.8% | 0.418 | 0.139 |
+| [<span class="wiki-icon">💍</span>力の指輪](/ja/item/ring-of-power) ×1 | 成功時 | 22.1% | 0.221 | 0.074 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -35,7 +36,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 23 | 0 | 23 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 35 | 0 | 35 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -100,9 +101,15 @@
 		},
 		{
 			"type": "item",
-			"id": "medium-chest",
+			"id": "beaver-lodge",
 			"count": 1,
 			"chance": 0.418
+		},
+		{
+			"type": "item",
+			"id": "ring-of-power",
+			"count": 1,
+			"chance": 0.221
 		}
 	],
 	"progressType": "single",

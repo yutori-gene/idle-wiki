@@ -1,6 +1,6 @@
 # 犬の首輪
 
-<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">犬の首輪</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/57382b8c9d69e156.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/accessory"><span class="wiki-icon">📿</span>アクセサリー</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>9 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">犬の首輪</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/57382b8c9d69e156.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/accessory"><span class="wiki-icon">📿</span>アクセサリー</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>9 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 着けると気持ちが引き締まる。ネクタイの代わりとして流行りのファッション。
 
@@ -9,25 +9,17 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 | 防御 | 精度 | 回避 | 回復 |
-| --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +2 | +1 | +3 | +2 | +3 |
+| 効き先 | 速度 |
+| --- | --- |
+| [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | +2 |
 
 ## 入手方法
 
-### アクション
+### イベント
 
-| アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬](/ja/action/pavlovs-dog) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv6 | 1 | 0.53% | 0.003 | 0.732 |
-
-## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/6655b3e2d8c5f35f.svg" alt="">犬の首輪（分解）](/ja/action/disassemble-dog-collar) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv5 | 1 | 100% |  |
+| イベント | タイミング | 個数 | 確率 |
+| --- | --- | --- | --- |
+| [<span class="wiki-icon">🕵️</span>裏路地の噂](/ja/event/back-alley-rumor) | 条件達成（タスク） | 1 | 100% |
 
 <div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: アクセサリー</div><div class="wiki-navbox-body"><a href="#/ja/item/cowbell"><img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル</a> ・ <a href="#/ja/item/one-leaf-clover"><img class="wiki-icon" src="assets/icon/7bb40479a17528a9.svg" alt="">1葉のクローバー</a> ・ <a href="#/ja/item/dog-collar"><img class="wiki-icon" src="assets/icon/57382b8c9d69e156.svg" alt="">犬の首輪</a> ・ <a href="#/ja/item/shark-tooth-necklace"><span class="wiki-icon">🦈</span>サメ歯ネックレス</a> ・ <a href="#/ja/item/broccoli"><span class="wiki-icon">🥦</span>ブロッコリー</a> ・ <a href="#/ja/item/philosophers-stone"><span class="wiki-icon">🔴</span>賢者の石</a> ・ <a href="#/ja/item/secret-stone"><span class="wiki-icon">💎</span>秘石</a> ・ <a href="#/ja/item/crystal-pendant"><span class="wiki-icon">🔮</span>水晶のペンダント</a> ・ <a href="#/ja/item/minus-four-leaf-clover"><span class="wiki-icon">🍀</span>-4葉のクローバー</a> ・ <a href="#/ja/item/hexagram-charm"><span class="wiki-icon">🔯</span>六芒星のお守り</a> ・ <a href="#/ja/item/dark-pendant"><span class="wiki-icon">🔮</span>闇のペンダント</a> ・ <a href="#/ja/item/diamond-tiara"><span class="wiki-icon">👑</span>ダイヤモンドのティアラ</a> ・ <a href="#/ja/item/holy-grail"><span class="wiki-icon">🏆</span>聖杯</a> ・ <a href="#/ja/item/ninety-nine-leaf-clover"><span class="wiki-icon">🍀</span>99葉のクローバー</a> ・ <a href="#/ja/item/time-stopping-hourglass"><span class="wiki-icon">⏳</span>時を止める砂時計</a></div></div>
 
@@ -78,13 +70,13 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "melee-weapon",
-			"attack": 2,
-			"defence": 1,
-			"accuracy": 3,
-			"evasion": 2,
-			"restore": 3,
-			"speed": 0,
+			"category": "garden",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 2,
 			"chance": 0,
 			"experience": 0
 		}

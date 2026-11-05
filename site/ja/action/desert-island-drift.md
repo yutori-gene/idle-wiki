@@ -17,8 +17,6 @@
 | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🦘</span>カンガルーの袋](/ja/item/kangaroo-pouch) ×1 | 成功時 | 100% | 1 | 0.5 |
 | [<span class="wiki-icon">🪸</span>珊瑚のかけら](/ja/item/coral-piece) ×15 | 成功時 | 100% | 15 | 7.5 |
-| [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) ×1 | 成功時 | 100% | 1 | 0.5 |
-| [<span class="wiki-icon">🌱</span>マンドラゴラ](/ja/item/mandragora) ×2 | 成功時 | 100% | 2 | 1 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -37,7 +35,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 144 | 0 | 144 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 90 | 0 | 90 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -98,18 +96,6 @@
 			"type": "item",
 			"id": "coral-piece",
 			"count": 15,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "emperors-new-clothes",
-			"count": 1,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "mandragora",
-			"count": 2,
 			"chance": 1
 		}
 	],

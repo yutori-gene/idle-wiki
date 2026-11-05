@@ -9,7 +9,7 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/a853f3f0e7b15e1c.svg" alt="">木の棒](/ja/item/wooden-stick) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 3 |
+| [<img class="wiki-icon" src="assets/icon/a853f3f0e7b15e1c.svg" alt="">木の棒](/ja/item/wooden-stick) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | — |
 | [<img class="wiki-icon" src="assets/icon/038883e27a6d1f09.svg" alt="">ネギ](/ja/item/green-onion) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 9 |
 | [<span class="wiki-icon">🥖</span>フランスパン](/ja/item/baguette) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 6 |
 | [<span class="wiki-icon">🎏</span>物干し竿](/ja/item/laundry-pole) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 18 |
@@ -32,7 +32,7 @@
 | [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/item/beam-saber) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,187 |
 | [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/item/excalibur) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,430 |
 | [<span class="wiki-icon">⚔️</span>マスターソード](/ja/item/master-sword) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,430 |
-| [<span class="wiki-icon">🪄</span>如意棒](/ja/item/ruyi-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 消費装備 | 7,290 |
+| [<span class="wiki-icon">🪄</span>如意棒](/ja/item/ruyi-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 7,290 |
 | [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/item/key-blade) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 21,870 |
 
 ## 開発者向け情報

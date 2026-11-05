@@ -2,7 +2,7 @@
 
 <div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">寝室で美術品を集めよう</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🖼️</span></div><table><tr><th>タイミング</th><td>条件達成（タスク）</td></tr><tr><th>グループ</th><td><a href="#/ja/group/tutorial"><span class="wiki-icon">🔰</span>チュートリアル</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
-> 寝室に美術品を飾ると経験値がUPする。所持は同時1つまで
+> 寝室に美術品を飾ると経験値がUPする。壁・床・棚・天井・窓辺に1つずつ飾れる
 
 
 ## 発生条件
@@ -34,7 +34,7 @@
 	"information": {
 		"id": "collect-art-in-bedroom",
 		"name": "寝室で美術品を集めよう",
-		"explanation": "寝室に美術品を飾ると経験値がUPする。所持は同時1つまで",
+		"explanation": "寝室に美術品を飾ると経験値がUPする。壁・床・棚・天井・窓辺に1つずつ飾れる",
 		"icon": {
 			"emoji": "🖼️",
 			"iconify": "",

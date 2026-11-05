@@ -17,6 +17,7 @@
 | [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) ×5 | 成功時 | 56% | 1.4 | 84 |
 | [<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber) ×5 | 成功時 | 56% | 1.4 | 84 |
 | [<span class="wiki-icon">💾</span>壊れた基板](/ja/item/broken-circuit-board) ×3 | 成功時 | 48% | 0.72 | 43.2 |
+| [<span class="wiki-icon">💿</span>DVD](/ja/item/dvd) ×2 | 成功時 | 33.3% | 0.333 | 20 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -35,7 +36,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 3,604 | 0 | 3,604 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 4,683 | 0 | 4,683 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -121,6 +122,12 @@
 			"id": "broken-circuit-board",
 			"count": 3,
 			"chance": 0.48
+		},
+		{
+			"type": "item",
+			"id": "dvd",
+			"count": 2,
+			"chance": 0.333
 		}
 	],
 	"progressType": "persistent",

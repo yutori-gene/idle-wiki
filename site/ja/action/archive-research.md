@@ -18,9 +18,7 @@
 | [<span class="wiki-icon">💨</span>土埃](/ja/item/dust) ×7 | 成功時 | 91% | 3.2 | 143 |
 | [<span class="wiki-icon">🧵</span>麻布](/ja/item/hemp-cloth) ×5 | 成功時 | 56% | 1.4 | 63 |
 | [<span class="wiki-icon">🧵</span>タペストリーの切れ端](/ja/item/tapestry-scrap) ×2 | 成功時 | 25.9% | 0.259 | 11.7 |
-| [<img class="wiki-icon" src="assets/icon/89b6e6d7412928e1.svg" alt="">絹の帽子](/ja/item/silk-hat) ×1 | 成功時 | 12.4% | 0.062 | 2.8 |
 | [<span class="wiki-icon">🃏</span>クロウカード](/ja/item/clow-card) ×1 | 成功時 | 12.4% | 0.062 | 2.8 |
-| [<span class="wiki-icon">🎖️</span>SOS団のバッジ](/ja/item/sos-brigade-badge) ×1 | 成功時 | 12.4% | 0.062 | 2.8 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -39,7 +37,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 7,914 | 0 | 7,914 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 4,298 | 0 | 4,298 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -110,19 +108,7 @@
 		},
 		{
 			"type": "item",
-			"id": "silk-hat",
-			"count": 1,
-			"chance": 0.124
-		},
-		{
-			"type": "item",
 			"id": "clow-card",
-			"count": 1,
-			"chance": 0.124
-		},
-		{
-			"type": "item",
-			"id": "sos-brigade-badge",
 			"count": 1,
 			"chance": 0.124
 		}

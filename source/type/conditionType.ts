@@ -45,6 +45,10 @@ export type ProgressTypes = (typeof ProgressList)[number];
 export const LockedList = ["secreted", "hidden", "hinted", "released"] as const;
 export type LockedTypes = (typeof LockedList)[number];
 
+// 背景画像を出し分ける端末。laptop＝横長の画面、mobile＝縦長の画面
+export const DeviceList = ["laptop", "mobile"] as const;
+export type DeviceTypes = (typeof DeviceList)[number];
+
 export const ExtensionList = ["world", "character", "properties", "calculation", "property", "player", "category", "actions", "items", "tasks", "skills", "action", "act", "item", "trade", "use", "item", "event", "skill", "group"];
 export type ExtensionTypes = (typeof ExtensionList)[number];
 

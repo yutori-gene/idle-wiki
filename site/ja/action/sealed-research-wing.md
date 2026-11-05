@@ -17,6 +17,7 @@
 | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">📋</span>実験記録](/ja/item/experiment-log) ×2 | 成功時 | 50.1% | 1 | 0.334 |
 | [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) ×1 | 成功時 | 10.4% | 0.104 | 0.035 |
+| [<span class="wiki-icon">🔱</span>さすまた](/ja/item/sasumata) ×1 | 成功時 | 22.1% | 0.221 | 0.074 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -35,7 +36,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 60 | 0 | 60 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 72 | 0 | 72 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -97,6 +98,12 @@
 			"id": "g-virus",
 			"count": 1,
 			"chance": 0.104
+		},
+		{
+			"type": "item",
+			"id": "sasumata",
+			"count": 1,
+			"chance": 0.221
 		}
 	],
 	"progressType": "single",

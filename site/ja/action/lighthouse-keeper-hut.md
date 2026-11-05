@@ -19,7 +19,8 @@
 | [<span class="wiki-icon">🪨</span>砂浜の石](/ja/item/beach-stone) ×3 | 成功時 | 53% | 1.6 | 0.795 |
 | [<span class="wiki-icon">⭐</span>海星](/ja/item/starfish) ×2 | 成功時 | 50.1% | 1 | 0.501 |
 | [<span class="wiki-icon">🦪</span>真珠](/ja/item/pearl) ×2 | 成功時 | 41.8% | 0.836 | 0.418 |
-| [<span class="wiki-icon">💍</span>光る指輪](/ja/item/glowing-ring) ×1 | 成功時 | 10.4% | 0.104 | 0.052 |
+| [<span class="wiki-icon">🦯</span>松葉杖](/ja/item/crutch) ×1 | 成功時 | 96% | 0.96 | 0.48 |
+| [<span class="wiki-icon">🔮</span>水晶のペンダント](/ja/item/crystal-pendant) ×1 | 成功時 | 22.1% | 0.221 | 0.111 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -37,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 240 | 0 | 240 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 252 | 0 | 252 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -114,9 +115,15 @@
 		},
 		{
 			"type": "item",
-			"id": "glowing-ring",
+			"id": "crutch",
 			"count": 1,
-			"chance": 0.104
+			"chance": 0.96
+		},
+		{
+			"type": "item",
+			"id": "crystal-pendant",
+			"count": 1,
+			"chance": 0.221
 		}
 	],
 	"progressType": "single",

@@ -18,8 +18,6 @@
 | [<img class="wiki-icon" src="assets/icon/8979ad3bc457f36b.svg" alt="">四つ葉のクローバー](/ja/item/four-leaf-clover) ×7 | 成功時 | 91% | 3.2 | 1,147 |
 | [<img class="wiki-icon" src="assets/icon/b9c2295c04c97dd4.svg" alt="">毛虫](/ja/item/caterpillar) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) ×1 | 成功時 | 33.6% | 0.168 | 60.5 |
-| [<img class="wiki-icon" src="assets/icon/038883e27a6d1f09.svg" alt="">ネギ](/ja/item/green-onion) ×1 | 成功時 | 8.64% | 0.043 | 15.6 |
-| [<img class="wiki-icon" src="assets/icon/57b5c51acdb68045.svg" alt="">ミトン](/ja/item/mitten) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
 | [<img class="wiki-icon" src="assets/icon/3b5f25329b15fd82.svg" alt="">クワ](/ja/item/hoe) ×1 | 成功時 | 18% | 0.09 | 32.4 |
 | [<img class="wiki-icon" src="assets/icon/e14d4e050156ea51.svg" alt="">ハサミ](/ja/item/scissors) ×1 | 成功時 | 18% | 0.09 | 32.4 |
 | [<img class="wiki-icon" src="assets/icon/5f7df036cb7939a5.svg" alt="">レモン](/ja/item/lemon) ×3 | 成功時 | 40% | 0.6 | 216 |
@@ -41,7 +39,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 1,982 | 0 | 1,982 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 1,725 | 0 | 1,725 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -109,18 +107,6 @@
 			"id": "carrot",
 			"count": 1,
 			"chance": 0.336
-		},
-		{
-			"type": "item",
-			"id": "green-onion",
-			"count": 1,
-			"chance": 0.0864
-		},
-		{
-			"type": "item",
-			"id": "mitten",
-			"count": 1,
-			"chance": 0.216
 		},
 		{
 			"type": "item",

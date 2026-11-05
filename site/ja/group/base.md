@@ -1,6 +1,6 @@
 # 拠点
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">拠点</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏠</span></div><table><tr><th>使う種別</th><td>カテゴリ</td></tr><tr><th>カテゴリ</th><td>9</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">拠点</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏠</span></div><table><tr><th>使う種別</th><td>カテゴリ</td></tr><tr><th>カテゴリ</th><td>10</td></tr></table></div>
 
 
 ## カテゴリ
@@ -14,6 +14,7 @@
 | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | なし |
 | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | あり |
 | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | あり |
+| [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | あり |
 | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | なし |
 | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | あり |
 

@@ -17,11 +17,11 @@
 | [<span class="wiki-icon">🔺</span>聖悪の相剋](/ja/skill/holy-evil-clash) | 4% | 攻撃+13・防御-8 | 2 | [<span class="wiki-icon">🔺</span>トライフォース](/ja/item/triforce) |
 | [<span class="wiki-icon">🩸</span>鬼血](/ja/skill/demon-blood) | 3% | 攻撃+15・回避-10・回復+8 | 2 | [<span class="wiki-icon">😈</span>悪魔信仰](/ja/item/devil-worship) |
 | [<span class="wiki-icon">🌧️</span>不幸](/ja/skill/misfortune) | 6% | 防御+8・回避-4 | 0 | [<span class="wiki-icon">🌧️</span>不幸](/ja/item/misfortune) |
-| [<span class="wiki-icon">🧤</span>捕手](/ja/skill/catcher) | 6% | 防御+5・回復+5 | 0 | [<span class="wiki-icon">🌾</span>ライ麦](/ja/item/rye) |
+| [<span class="wiki-icon">🧤</span>捕手](/ja/skill/catcher) | 6% | 防御+5・回復+5 | 1 | [<span class="wiki-icon">🌾</span>ライ麦](/ja/item/rye) |
 | [<img class="wiki-icon" src="assets/icon/81ebbbf085f9279e.svg" alt="">受け流し](/ja/skill/parry) | 12% | 防御+3 | 3 | [<span class="wiki-icon">🔩</span>鉄の棒](/ja/item/iron-rod) |
 | [<img class="wiki-icon" src="assets/icon/97ce360d6f35556b.svg" alt="">二の太刀](/ja/skill/second-strike) | 12% | 攻撃+4 | 5 | [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/item/frozen-tuna) |
 | [<span class="wiki-icon">😤</span>深呼吸](/ja/skill/deep-breath) | 11% | 回復+4 | 1 | [<img class="wiki-icon" src="assets/icon/ba24921e1a11094c.svg" alt="">ギター](/ja/item/guitar) |
-| [<span class="wiki-icon">🏃</span>踏み込み](/ja/skill/step-in) | 10% | 精度+5 | 2 | [<img class="wiki-icon" src="assets/icon/a853f3f0e7b15e1c.svg" alt="">木の棒](/ja/item/wooden-stick) |
+| [<span class="wiki-icon">🏃</span>踏み込み](/ja/skill/step-in) | 10% | 精度+5 | 2 | [<span class="wiki-icon">🔨</span>ハンマー](/ja/item/hammer) |
 | [<span class="wiki-icon">🤺</span>構え直し](/ja/skill/reset-stance) | 8% | 防御+6 | 3 | [<span class="wiki-icon">🔱</span>さすまた](/ja/item/sasumata) |
 | [<span class="wiki-icon">🩹</span>手当て](/ja/skill/first-aid) | 7% | 回復+7 | 3 | [<span class="wiki-icon">🪄</span>封印の杖](/ja/item/sealing-staff) |
 | [<span class="wiki-icon">⚔️</span>連撃](/ja/skill/combo) | 6% | 攻撃+7・精度+5 | 4 | [<span class="wiki-icon">🗡️</span>グラディウス](/ja/item/gladius) |
@@ -92,9 +92,9 @@
 | [<span class="wiki-icon">⭐</span>星の導き](/ja/skill/star-guidance) | 5% | 攻撃+6・精度+7・回復+4 | 2 | [<span class="wiki-icon">🌀</span>黄金の回転](/ja/item/golden-spin) |
 | [<span class="wiki-icon">⭕</span>円環の理](/ja/skill/eternal-circle) | 4% | 防御+8・回避+4・回復+7 | 1 | [<span class="wiki-icon">🔺</span>ATフィールド](/ja/item/at-field) |
 | [<span class="wiki-icon">🌈</span>万能](/ja/skill/all-round) | 3% | 攻撃+6・防御+6・精度+6・回避+6・回復+6 | 1 | [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) |
-| [<span class="wiki-icon">🎭</span>見栄](/ja/skill/vanity) | 6% | 攻撃+11・防御-7 | 1 | [<span class="wiki-icon">⌚</span>スマートリング](/ja/item/smart-ring) |
-| [<span class="wiki-icon">💍</span>呪いの指輪](/ja/skill/cursed-ring) | 5% | 攻撃+13・回復-9 | 1 | [<span class="wiki-icon">💍</span>取れない指輪](/ja/item/stuck-ring) |
-| [<span class="wiki-icon">💄</span>虚飾](/ja/skill/ostentation) | 5% | 精度-8・回避+12 | 1 | [<span class="wiki-icon">🥸</span>変装ブローチ](/ja/item/disguise-brooch) |
+| [<span class="wiki-icon">🎭</span>見栄](/ja/skill/vanity) | 6% | 攻撃+11・防御-7 | 2 | [<span class="wiki-icon">⌚</span>スマートリング](/ja/item/smart-ring) |
+| [<span class="wiki-icon">💍</span>呪いの指輪](/ja/skill/cursed-ring) | 5% | 攻撃+13・回復-9 | 2 | [<span class="wiki-icon">💍</span>取れない指輪](/ja/item/stuck-ring) |
+| [<span class="wiki-icon">💄</span>虚飾](/ja/skill/ostentation) | 5% | 精度-8・回避+12 | 2 | [<span class="wiki-icon">🥸</span>変装ブローチ](/ja/item/disguise-brooch) |
 | [<span class="wiki-icon">📜</span>血の契約](/ja/skill/blood-pact) | 4% | 攻撃+14・精度+9・回復-10 | 2 | [<span class="wiki-icon">💍</span>一つの指輪](/ja/item/one-ring) |
 | [<span class="wiki-icon">🔪</span>生贄](/ja/skill/sacrifice) | 4% | 攻撃-10・回復+15 | 2 | [<span class="wiki-icon">🌹</span>獣の薔薧](/ja/item/beast-rose) |
 | [<span class="wiki-icon">🟣</span>禁忌の宝玉](/ja/skill/forbidden-orb) | 3% | 攻撃+15・防御+12・精度-9・回避-10 | 3 | [<span class="wiki-icon">⚙️</span>S2機関](/ja/item/s2-engine) |

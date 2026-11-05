@@ -12,6 +12,7 @@
 | 効き先 | 回復 |
 | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +10 |
+| [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | +5 |
 
 ## 入手方法
 
@@ -19,15 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧵</span>運命の赤い糸](/ja/action/craft-red-string-of-fate) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv32 | 1 | 100% | 1 | 0.333 |
-
-## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧵</span>運命の赤い糸（分解）](/ja/action/disassemble-red-string-of-fate) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv30 | 1 | 100% |  |
+| [<span class="wiki-icon">🦫</span>ビーバーの巣](/ja/action/open-beaver-lodge) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 1 | 16.3% | 0.106 | 0.318 |
 
 <div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: 指輪</div><div class="wiki-navbox-body"><a href="#/ja/item/edible-ring"><img class="wiki-icon" src="assets/icon/eea6ffe630b18ce9.svg" alt="">食べられる指輪</a> ・ <a href="#/ja/item/silver-ring"><img class="wiki-icon" src="assets/icon/aba9e6b62053c166.svg" alt="">銀の指輪</a> ・ <a href="#/ja/item/baumkuchen"><span class="wiki-icon">🍩</span>バウムクーヘン</a> ・ <a href="#/ja/item/wedding-ring"><span class="wiki-icon">💍</span>結婚指輪</a> ・ <a href="#/ja/item/stuck-ring"><span class="wiki-icon">💍</span>取れない指輪</a> ・ <a href="#/ja/item/smart-ring"><span class="wiki-icon">⌚</span>スマートリング</a> ・ <a href="#/ja/item/diamond-ring"><span class="wiki-icon">💍</span>ダイヤモンドの指輪</a> ・ <a href="#/ja/item/glowing-ring"><span class="wiki-icon">💍</span>光る指輪</a> ・ <a href="#/ja/item/spinning-ring"><span class="wiki-icon">💫</span>高速回転してる指輪</a> ・ <a href="#/ja/item/ring-of-power"><span class="wiki-icon">💍</span>力の指輪</a> ・ <a href="#/ja/item/red-string-of-fate"><span class="wiki-icon">🧵</span>運命の赤い糸</a> ・ <a href="#/ja/item/dragon-ring"><span class="wiki-icon">💍</span>ドラゴンの指輪</a> ・ <a href="#/ja/item/soul-gem"><span class="wiki-icon">💠</span>ソウルジェム</a> ・ <a href="#/ja/item/kryptonite"><span class="wiki-icon">🟢</span>クリプトナイト</a> ・ <a href="#/ja/item/one-ring"><span class="wiki-icon">💍</span>一つの指輪</a></div></div>
 
@@ -84,6 +77,17 @@
 			"accuracy": 0,
 			"evasion": 0,
 			"restore": 10,
+			"speed": 0,
+			"chance": 0,
+			"experience": 0
+		},
+		{
+			"category": "throwing-weapon",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 5,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

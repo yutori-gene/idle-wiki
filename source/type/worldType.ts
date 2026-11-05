@@ -76,8 +76,12 @@ export interface Design {
 	barColor: string;
 	textColor: string;
 	shadowColor: string;
-	background: string;
+	backgrounds: Backgrounds;
 }
+
+// 背景画像。ラップトップ（横長の画面）とモバイル（縦長の画面）で縦横比が大きく違うので分けて持つ。
+// playerは画面の向きで使う側を選び、空なら反対側の画像で補う
+export type Backgrounds = { [device in Condition.DeviceTypes]: string };
 
 export interface Development {
 	version: string;
@@ -98,7 +102,7 @@ export interface Category {
 	requirements: Requirement[];
 	numeric: boolean;
 	standaloneProgress: boolean;
-	background: string;
+	backgrounds: Backgrounds;
 }
 
 export interface Action {

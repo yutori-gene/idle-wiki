@@ -11,21 +11,21 @@
 | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/5676c877b5bc47f0.svg" alt="">募金箱](/ja/item/donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<img class="wiki-icon" src="assets/icon/2a12bcdb457a4a71.svg" alt="">財布](/ja/item/wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
-| [<span class="wiki-icon">🪵</span>木の宝箱](/ja/item/wooden-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
+| [<span class="wiki-icon">⛩️</span>賽銭箱](/ja/item/offering-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">📦</span>タイムカプセル](/ja/item/time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">📦</span>跳び箱](/ja/item/vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
-| [<span class="wiki-icon">🔩</span>鉄の宝箱](/ja/item/iron-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
+| [<span class="wiki-icon">⛓️</span>鉄の処女](/ja/item/iron-maiden) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">💰</span>大秘宝](/ja/item/great-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
-| [<span class="wiki-icon">🧊</span>冷たい宝箱](/ja/item/cold-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
-| [<span class="wiki-icon">🎁</span>中くらいの宝箱](/ja/item/medium-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
-| [<span class="wiki-icon">🎁</span>極小の宝箱](/ja/item/tiny-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
-| [<span class="wiki-icon">🎁</span>巨大な宝箱](/ja/item/giant-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
+| [<span class="wiki-icon">🧊</span>南極の氷](/ja/item/antarctic-ice) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
+| [<span class="wiki-icon">🦫</span>ビーバーの巣](/ja/item/beaver-lodge) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
+| [<span class="wiki-icon">🐀</span>ネズミの宝箱](/ja/item/rat-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
+| [<span class="wiki-icon">🐉</span>ドラゴンの巣](/ja/item/dragon-nest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">🎃</span>かぼちゃの馬車](/ja/item/pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">🕍</span>聖櫃](/ja/item/ark-of-covenant) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">⚰️</span>吸血鬼の棺](/ja/item/vampire-coffin) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">⚫</span>シスの箱](/ja/item/sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">📦</span>パンドラの箱](/ja/item/pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
-| [<span class="wiki-icon">🌈</span>虹色の宝箱](/ja/item/rainbow-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
+| [<span class="wiki-icon">🌈</span>妖精の黄金の壺](/ja/item/fairy-gold-pot) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 | [<span class="wiki-icon">📦</span>シュレーディンガーの箱](/ja/item/schrodingers-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | 装備不可 | — |
 
 ## 開発者向け情報

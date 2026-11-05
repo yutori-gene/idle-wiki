@@ -11,6 +11,12 @@
 
 - [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv7以上
 
+## 報酬
+
+- [<img class="wiki-icon" src="assets/icon/aba9e6b62053c166.svg" alt="">銀の指輪](/ja/item/silver-ring) ×1
+- [<img class="wiki-icon" src="assets/icon/5f67ad53a251b7d6.svg" alt="">ピンバッジ](/ja/item/pin-badge) ×1
+- [<img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル](/ja/item/cowbell) ×1
+
 <div class="wiki-navbox" style="--accent:#b8862b"><div class="wiki-navbox-title">チュートリアル</div><div class="wiki-navbox-body"><a href="#/ja/event/first-step"><img class="wiki-icon" src="assets/icon/3f7a20ac40372e39.svg" alt="">はじめての一歩</a> ・ <a href="#/ja/event/try-shopping"><span class="wiki-icon">🛒</span>買い物をしてみよう</a> ・ <a href="#/ja/event/organize-warehouse"><span class="wiki-icon">📦</span>倉庫を整理しよう</a> ・ <a href="#/ja/event/try-equipment"><span class="wiki-icon">🗡️</span>装備を使ってみよう</a> ・ <a href="#/ja/event/try-melee-weapon"><span class="wiki-icon">⚔️</span>近接武器を試そう</a> ・ <a href="#/ja/event/grow-in-greenhouse"><span class="wiki-icon">🌱</span>温室で育てよう</a> ・ <a href="#/ja/event/expand-garden"><span class="wiki-icon">🐾</span>庭を広げよう</a> ・ <a href="#/ja/event/cook-in-kitchen"><span class="wiki-icon">🍳</span>台所で調理しよう</a> ・ <a href="#/ja/event/learn-in-study"><span class="wiki-icon">📚</span>書斎で学ぼう</a> ・ <a href="#/ja/event/use-loft"><span class="wiki-icon">🗃️</span>ロフトを使おう</a> ・ <a href="#/ja/event/ready-throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器を構えよう</a> ・ <a href="#/ja/event/brew-in-basement"><span class="wiki-icon">⚗️</span>地下室で調合しよう</a> ・ <a href="#/ja/event/prepare-armor"><span class="wiki-icon">🛡️</span>防具を整えよう</a> ・ <a href="#/ja/event/reinforce-with-accessory"><span class="wiki-icon">💍</span>装飾で補強しよう</a> ・ <a href="#/ja/event/throw-explosive-weapon"><span class="wiki-icon">💣</span>爆発武器を放とう</a> ・ <a href="#/ja/event/collect-art-in-bedroom"><span class="wiki-icon">🖼️</span>寝室で美術品を集めよう</a> ・ <a href="#/ja/event/build-infrastructure-in-workshop"><span class="wiki-icon">🔧</span>作業部屋でインフラを作ろう</a></div></div>
 
 ## 開発者向け情報
@@ -55,7 +61,26 @@
 		}
 	],
 	"requiringGroup": false,
-	"acquisitions": [],
+	"acquisitions": [
+		{
+			"type": "item",
+			"id": "silver-ring",
+			"count": 1,
+			"chance": 1
+		},
+		{
+			"type": "item",
+			"id": "pin-badge",
+			"count": 1,
+			"chance": 1
+		},
+		{
+			"type": "item",
+			"id": "cowbell",
+			"count": 1,
+			"chance": 1
+		}
+	],
 	"group": "tutorial",
 	"bucket": "tasks"
 }

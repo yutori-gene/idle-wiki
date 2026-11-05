@@ -1,6 +1,6 @@
 # 投擲武器
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">投擲武器</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎯</span></div><table><tr><th>使う種別</th><td>アクション・アイテム</td></tr><tr><th>アイテム</th><td>24種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">投擲武器</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎯</span></div><table><tr><th>使う種別</th><td>アクション・アイテム</td></tr><tr><th>アイテム</th><td>17種</td></tr></table></div>
 
 
 ## アイテム
@@ -9,23 +9,16 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 3 |
-| [<img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ](/ja/item/bee) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 9 |
+| [<img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ](/ja/item/bee) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | — |
 | [<span class="wiki-icon">🎯</span>吹き矢](/ja/item/blowgun) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 6 |
 | [<span class="wiki-icon">🎯</span>ダーツ](/ja/item/dart) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 18 |
 | [<span class="wiki-icon">⛄</span>雪玉](/ja/item/snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 9 |
 | [<span class="wiki-icon">🧱</span>レンガ](/ja/item/brick) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 27 |
-| [<img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット](/ja/item/slingshot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 36 |
-| [<span class="wiki-icon">🎣</span>釣竿](/ja/item/fishing-rod) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 36 |
 | [<span class="wiki-icon">🐢</span>カメの甲羅](/ja/item/turtle-shell) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 45 |
 | [<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 135 |
 | [<span class="wiki-icon">💿</span>DVD](/ja/item/dvd) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 54 |
 | [<span class="wiki-icon">👊</span>ロケットパンチ](/ja/item/rocket-punch) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 162 |
-| [<span class="wiki-icon">🪢</span>愛の鞭](/ja/item/whip-of-love) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 189 |
 | [<span class="wiki-icon">🪓</span>トマホーク](/ja/item/tomahawk) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 189 |
-| [<span class="wiki-icon">💋</span>投げキッス](/ja/item/blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 189 |
-| [<span class="wiki-icon">⚽</span>サッカーボール](/ja/item/soccer-ball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 216 |
-| [<span class="wiki-icon">🍬</span>飴と鞭](/ja/item/carrot-and-stick) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 648 |
 | [<span class="wiki-icon">🦇</span>バットラング](/ja/item/batarang) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 648 |
 | [<span class="wiki-icon">🔴</span>モンスターボール](/ja/item/monster-ball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 729 |
 | [<span class="wiki-icon">🎼</span>時のリコーダー](/ja/item/recorder-of-time) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 消費装備 | 2,187 |

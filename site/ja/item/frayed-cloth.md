@@ -12,29 +12,17 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/d9e4de07acf12198.svg" alt="">エプロン（分解）](/ja/action/disassemble-apron) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv5 | 1 | 100% | 1 | 12 |
-| [<img class="wiki-icon" src="assets/icon/d6b08579f018191e.svg" alt="">スリッパ（分解）](/ja/action/disassemble-slippers) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv5 | 1 | 100% | 1 | 12 |
 | [<img class="wiki-icon" src="assets/icon/59fe73b8c8afe116.svg" alt="">タンクトップ（分解）](/ja/action/disassemble-tank-top) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv6 | 1 | 100% | 1 | 12 |
-| [<img class="wiki-icon" src="assets/icon/5d819758de705b7b.svg" alt="">臭う靴下（分解）](/ja/action/disassemble-smelly-socks) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv6 | 1 | 100% | 1 | 12 |
-| [<img class="wiki-icon" src="assets/icon/f96dc60e3dc7469c.svg" alt="">つけ髭（分解）](/ja/action/disassemble-fake-beard) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv6 | 1 | 100% | 1 | 12 |
-| [<img class="wiki-icon" src="assets/icon/e3d81aef816d4892.svg" alt="">鍋かぶと（分解）](/ja/action/disassemble-pot-helmet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv6 | 1 | 100% | 1 | 12 |
 | [<img class="wiki-icon" src="assets/icon/16a1a38b54ec46a2.svg" alt="">ミトン（分解）](/ja/action/disassemble-mitten) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv7 | 1 | 100% | 1 | 12 |
 | [<img class="wiki-icon" src="assets/icon/759ec964a1c1d3c4.svg" alt="">布の手袋（分解）](/ja/action/disassemble-cloth-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv7 | 1 | 100% | 1 | 12 |
-| [<span class="wiki-icon">👞</span>木靴（分解）](/ja/action/disassemble-wooden-clogs) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv8 | 1 | 100% | 1 | 6 |
 | [<span class="wiki-icon">🧤</span>ゴム手袋（分解）](/ja/action/disassemble-rubber-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv8 | 1 | 100% | 1 | 6 |
 | [<span class="wiki-icon">☂️</span>雨具（分解）](/ja/action/disassemble-raincoat) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv9 | 1 | 100% | 1 | 6 |
 | [<span class="wiki-icon">👨‍🌾</span>農夫の作業着（分解）](/ja/action/disassemble-farmer-work-clothes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv10 | 1 | 100% | 1 | 6 |
-| [<span class="wiki-icon">🧦</span>レッグウォーマー（分解）](/ja/action/disassemble-leg-warmer) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv10 | 1 | 100% | 1 | 6 |
-| [<span class="wiki-icon">🧕</span>赤ずきん（分解）](/ja/action/disassemble-red-hood) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv10 | 1 | 100% | 1 | 6 |
-| [<span class="wiki-icon">🐰</span>ウサミミ（分解）](/ja/action/disassemble-bunny-ears) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv11 | 1 | 100% | 1 | 6 |
 | [<span class="wiki-icon">🩱</span>孫の手（分解）](/ja/action/disassemble-back-scratcher) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv12 | 1 | 100% | 1 | 6 |
 | [<span class="wiki-icon">⚓</span>セーラー服（分解）](/ja/action/disassemble-sailor-uniform) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 1 | 100% | 1 | 4 |
 | [<span class="wiki-icon">🎓</span>学ラン（分解）](/ja/action/disassemble-gakuran) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 1 | 100% | 1 | 4 |
-| [<span class="wiki-icon">👨‍🍳</span>シェフハット（分解）](/ja/action/disassemble-chef-hat) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 1 | 100% | 1 | 4 |
 | [<span class="wiki-icon">🧤</span>軍手（分解）](/ja/action/disassemble-work-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv14 | 1 | 100% | 1 | 4 |
-| [<span class="wiki-icon">😷</span>マスク（分解）](/ja/action/disassemble-mask) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv14 | 1 | 100% | 1 | 4 |
-| [<span class="wiki-icon">🥾</span>カウボーイブーツ（分解）](/ja/action/disassemble-cowboy-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv16 | 1 | 100% | 1 | 4 |
 | [<span class="wiki-icon">🐾</span>ネコの手（分解）](/ja/action/disassemble-cat-paw) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv16 | 1 | 100% | 1 | 4 |
-| [<span class="wiki-icon">👞</span>安全靴（分解）](/ja/action/disassemble-safety-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv17 | 1 | 100% | 1 | 4 |
 
 ## 用途
 
@@ -42,24 +30,24 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/action/craft-leather-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv29 | 10 | 100% |  |
+| [<span class="wiki-icon">🩹</span>腹巻き](/ja/action/craft-belly-warmer) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 10 | 100% |  |
+| [<span class="wiki-icon">👑</span>裸の王様の服](/ja/action/craft-emperors-new-clothes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 10 | 100% |  |
+| [<span class="wiki-icon">🏮</span>ランタン](/ja/action/craft-lantern) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 10 | 100% |  |
+| [<span class="wiki-icon">🤲</span>救いの手](/ja/action/craft-helping-hand) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 10 | 100% |  |
+| [<span class="wiki-icon">🥋</span>革の胸当](/ja/action/craft-leather-breastplate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 10 | 100% |  |
+| [<span class="wiki-icon">👘</span>絹の服](/ja/action/craft-silk-clothes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 10 | 100% |  |
+| [<span class="wiki-icon">🧤</span>6本指の手袋](/ja/action/craft-six-finger-glove) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 10 | 100% |  |
+| [<span class="wiki-icon">🔥</span>松明](/ja/action/craft-torch) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 10 | 100% |  |
 | [<span class="wiki-icon">🧤</span>革の手袋](/ja/action/craft-leather-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv29 | 10 | 100% |  |
-| [<span class="wiki-icon">🥽</span>スカウター](/ja/action/craft-scouter) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv29 | 10 | 100% |  |
 | [<img class="wiki-icon" src="assets/icon/6accad515defd7f8.svg" alt="">チェインメイル](/ja/action/craft-chainmail) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv30 | 10 | 100% |  |
 | [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/action/craft-crab-claw) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv30 | 10 | 100% |  |
 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/action/craft-bulletproof-vest) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv31 | 10 | 100% |  |
-| [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/action/craft-iron-greaves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv31 | 10 | 100% |  |
-| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/action/craft-iron-helmet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv32 | 10 | 100% |  |
 | [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/action/craft-bikini-armor) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv33 | 10 | 100% |  |
-| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/action/craft-kick-boost-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv33 | 10 | 100% |  |
 | [<span class="wiki-icon">⏰</span>麻酔時計](/ja/action/craft-anesthetic-watch) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv34 | 10 | 100% |  |
-| [<span class="wiki-icon">👠</span>ハイヒール](/ja/action/craft-high-heels) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv36 | 10 | 100% |  |
 | [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/action/craft-iron-gauntlet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv36 | 10 | 100% |  |
-| [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/action/craft-pumpkin-head) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv36 | 10 | 100% |  |
 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/action/craft-iron-breastplate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv37 | 10 | 100% |  |
-| [<span class="wiki-icon">🎎</span>だるま](/ja/action/craft-daruma) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv37 | 10 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: リサイクル素材</div><div class="wiki-navbox-body"><a href="#/ja/item/rusty-metal-piece"><span class="wiki-icon">🔩</span>錆びた金属片</a> ・ <a href="#/ja/item/frayed-cloth"><span class="wiki-icon">🧵</span>ほつれた布切れ</a> ・ <a href="#/ja/item/dull-stone"><span class="wiki-icon">🪨</span>くすんだ石</a> ・ <a href="#/ja/item/tanned-leather-piece"><span class="wiki-icon">🟫</span>なめし革の断片</a> ・ <a href="#/ja/item/forged-metal-ingot"><span class="wiki-icon">🔩</span>鍛えた金属塊</a> ・ <a href="#/ja/item/polished-gem-piece"><span class="wiki-icon">💎</span>磨かれた宝石片</a></div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: リサイクル素材</div><div class="wiki-navbox-body"><a href="#/ja/item/rusty-metal-piece"><span class="wiki-icon">🔩</span>錆びた金属片</a> ・ <a href="#/ja/item/frayed-cloth"><span class="wiki-icon">🧵</span>ほつれた布切れ</a> ・ <a href="#/ja/item/tanned-leather-piece"><span class="wiki-icon">🟫</span>なめし革の断片</a> ・ <a href="#/ja/item/forged-metal-ingot"><span class="wiki-icon">🔩</span>鍛えた金属塊</a></div></div>
 
 ## 開発者向け情報
 

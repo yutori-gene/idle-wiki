@@ -12,7 +12,7 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🌳</span>世界樹の葉](/ja/action/grow-world-tree-leaf) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv50 | 1 | 43.2% | 0.302 | 0.008 |
-| [<span class="wiki-icon">🌈</span>虹色の宝箱](/ja/action/open-rainbow-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv44 | 3 | 14.4% | 0.389 | 0.778 |
+| [<span class="wiki-icon">🌈</span>妖精の黄金の壺](/ja/action/open-fairy-gold-pot) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv44 | 3 | 13% | 0.39 | 0.065 |
 
 ### 購入
 
@@ -32,7 +32,7 @@
 
 - [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv50以上
 
-<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 種苗</div><div class="wiki-navbox-body"><a href="#/ja/item/wheat-seed"><span class="wiki-icon">🌾</span>小麦の種</a> ・ <a href="#/ja/item/lettuce-seed"><span class="wiki-icon">🥬</span>サラダ菜の種</a> ・ <a href="#/ja/item/banana-seedling"><span class="wiki-icon">🌱</span>バナナの苗</a> ・ <a href="#/ja/item/apple-seedling"><span class="wiki-icon">🌱</span>リンゴの苗</a> ・ <a href="#/ja/item/herb-seed"><span class="wiki-icon">🌿</span>薬草の種</a> ・ <a href="#/ja/item/honey-hive"><span class="wiki-icon">🍯</span>蜂蜜の巣箱</a> ・ <a href="#/ja/item/axolotl-egg"><span class="wiki-icon">🥚</span>ウーパールーパーの卵</a> ・ <a href="#/ja/item/hemp-seed"><span class="wiki-icon">🌿</span>大麻の種</a> ・ <a href="#/ja/item/truffle-bed"><span class="wiki-icon">🍄</span>トリュフの菌床</a> ・ <a href="#/ja/item/chili-seed"><span class="wiki-icon">🌶️</span>とうがらしの種</a> ・ <a href="#/ja/item/poison-herb-seed"><span class="wiki-icon">☠️</span>毒草の種</a> ・ <a href="#/ja/item/aromatic-herb-seed"><span class="wiki-icon">🌿</span>香草の種</a> ・ <a href="#/ja/item/world-tree-seed"><span class="wiki-icon">🌳</span>世界樹の種</a></div></div>
+<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 種苗</div><div class="wiki-navbox-body"><a href="#/ja/item/wheat-seed"><span class="wiki-icon">🌾</span>小麦の種</a> ・ <a href="#/ja/item/tomato-seedling"><span class="wiki-icon">🌱</span>トマトの苗</a> ・ <a href="#/ja/item/lettuce-seed"><span class="wiki-icon">🥬</span>サラダ菜の種</a> ・ <a href="#/ja/item/banana-seedling"><span class="wiki-icon">🌱</span>バナナの苗</a> ・ <a href="#/ja/item/apple-seedling"><span class="wiki-icon">🌱</span>リンゴの苗</a> ・ <a href="#/ja/item/herb-seed"><span class="wiki-icon">🌿</span>薬草の種</a> ・ <a href="#/ja/item/honey-hive"><span class="wiki-icon">🍯</span>蜂蜜の巣箱</a> ・ <a href="#/ja/item/axolotl-egg"><span class="wiki-icon">🥚</span>ウーパールーパーの卵</a> ・ <a href="#/ja/item/hemp-seed"><span class="wiki-icon">🌿</span>大麻の種</a> ・ <a href="#/ja/item/truffle-bed"><span class="wiki-icon">🍄</span>トリュフの菌床</a> ・ <a href="#/ja/item/chili-seed"><span class="wiki-icon">🌶️</span>とうがらしの種</a> ・ <a href="#/ja/item/poison-herb-seed"><span class="wiki-icon">☠️</span>毒草の種</a> ・ <a href="#/ja/item/aromatic-herb-seed"><span class="wiki-icon">🌿</span>香草の種</a> ・ <a href="#/ja/item/world-tree-seed"><span class="wiki-icon">🌳</span>世界樹の種</a></div></div>
 
 ## 開発者向け情報
 

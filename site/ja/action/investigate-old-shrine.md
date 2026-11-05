@@ -17,13 +17,10 @@
 | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🟠</span>琥珀](/ja/item/amber) ×2 | 成功時 | 17.3% | 0.346 | 0.346 |
 | [<span class="wiki-icon">💠</span>蛍石](/ja/item/fluorite) ×1 | 成功時 | 17.3% | 0.173 | 0.173 |
-| [<span class="wiki-icon">📚</span>百科事典](/ja/item/encyclopedia) ×2 | 成功時 | 100% | 2 | 2 |
 | [<span class="wiki-icon">🏺</span>壺](/ja/item/jar) ×1 | 成功時 | 100% | 1 | 1 |
 | [<span class="wiki-icon">🗺️</span>古い地図の断片](/ja/item/old-map-fragment) ×1 | 成功時 | 100% | 1 | 1 |
-| [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) ×1 | 成功時 | 100% | 1 | 1 |
-| [<span class="wiki-icon">🪵</span>木の宝箱](/ja/item/wooden-chest) ×1 | 成功時 | 41.8% | 0.418 | 0.418 |
+| [<span class="wiki-icon">⛩️</span>賽銭箱](/ja/item/offering-box) ×1 | 成功時 | 41.8% | 0.418 | 0.418 |
 | [<span class="wiki-icon">🔭</span>双眼鏡](/ja/item/binoculars) ×1 | 成功時 | 100% | 1 | 1 |
-| [<span class="wiki-icon">🎯</span>ダーツ](/ja/item/dart) ×2 | 成功時 | 100% | 2 | 2 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -42,11 +39,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 100 | 0 | 100 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 46 | 0 | 46 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><span class="wiki-icon">🌰</span>木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><span class="wiki-icon">🪵</span>倒木あさり</a> ・ <a href="#/ja/action/snake"><span class="wiki-icon">🐍</span>ヘビ</a> ・ <a href="#/ja/action/walking-mushroom"><span class="wiki-icon">🍄</span>歩くキノコ</a> ・ <a href="#/ja/action/man-eating-plant"><span class="wiki-icon">🌱</span>食人植物</a> ・ <a href="#/ja/action/rabbit-girl"><span class="wiki-icon">🐰</span>ラビットガール</a> ・ <a href="#/ja/action/cockatrice"><span class="wiki-icon">🐔</span>コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/druid"><span class="wiki-icon">🧙</span>ドルイド</a> ・ <a href="#/ja/action/bear"><span class="wiki-icon">🐻</span>クマ</a> ・ <a href="#/ja/action/orc"><span class="wiki-icon">👹</span>オーク</a> ・ <a href="#/ja/action/flying-elephant"><span class="wiki-icon">🐘</span>空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><span class="wiki-icon">🐎</span>ケンタウロス</a> ・ <a href="#/ja/action/wolf"><span class="wiki-icon">🐺</span>ウルフ</a> ・ <a href="#/ja/action/hydra"><span class="wiki-icon">🐉</span>ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><span class="wiki-icon">⛩️</span>古い祠の調査</a></div></div>
+<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><span class="wiki-icon">🌰</span>木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><span class="wiki-icon">🪵</span>倒木あさり</a> ・ <a href="#/ja/action/rabbit-girl"><span class="wiki-icon">🐰</span>ラビットガール</a> ・ <a href="#/ja/action/snake"><span class="wiki-icon">🐍</span>ヘビ</a> ・ <a href="#/ja/action/walking-mushroom"><span class="wiki-icon">🍄</span>歩くキノコ</a> ・ <a href="#/ja/action/man-eating-plant"><span class="wiki-icon">🌱</span>食人植物</a> ・ <a href="#/ja/action/cockatrice"><span class="wiki-icon">🐔</span>コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/druid"><span class="wiki-icon">🧙</span>ドルイド</a> ・ <a href="#/ja/action/bear"><span class="wiki-icon">🐻</span>クマ</a> ・ <a href="#/ja/action/orc"><span class="wiki-icon">👹</span>オーク</a> ・ <a href="#/ja/action/flying-elephant"><span class="wiki-icon">🐘</span>空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><span class="wiki-icon">🐎</span>ケンタウロス</a> ・ <a href="#/ja/action/wolf"><span class="wiki-icon">🐺</span>ウルフ</a> ・ <a href="#/ja/action/hydra"><span class="wiki-icon">🐉</span>ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><span class="wiki-icon">⛩️</span>古い祠の調査</a></div></div>
 
 ## 開発者向け情報
 
@@ -107,12 +104,6 @@
 		},
 		{
 			"type": "item",
-			"id": "encyclopedia",
-			"count": 2,
-			"chance": 1
-		},
-		{
-			"type": "item",
 			"id": "jar",
 			"count": 1,
 			"chance": 1
@@ -125,13 +116,7 @@
 		},
 		{
 			"type": "item",
-			"id": "raincoat",
-			"count": 1,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "wooden-chest",
+			"id": "offering-box",
 			"count": 1,
 			"chance": 0.418
 		},
@@ -139,12 +124,6 @@
 			"type": "item",
 			"id": "binoculars",
 			"count": 1,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "dart",
-			"count": 2,
 			"chance": 1
 		}
 	],

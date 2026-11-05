@@ -18,11 +18,7 @@
 | [<img class="wiki-icon" src="assets/icon/021123683021700b.svg" alt="">美術書](/ja/item/art-book) ×1 | 成功時 | 100% | 1 | 2 |
 | [<img class="wiki-icon" src="assets/icon/1573065dab7cb0f0.svg" alt="">エコバッグ](/ja/item/eco-bag) ×1 | 成功時 | 100% | 1 | 2 |
 | [<img class="wiki-icon" src="assets/icon/041e1672ebae2974.svg" alt="">金のドングリ](/ja/item/golden-acorn) ×1 | 成功時 | 24.9% | 0.249 | 0.498 |
-| [<img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭](/ja/item/fake-beard) ×3 | 成功時 | 100% | 3 | 6 |
 | [<img class="wiki-icon" src="assets/icon/2a12bcdb457a4a71.svg" alt="">財布](/ja/item/wallet) ×1 | 成功時 | 50.1% | 0.501 | 1 |
-| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) ×3 | 成功時 | 100% | 3 | 6 |
-| [<img class="wiki-icon" src="assets/icon/7bb40479a17528a9.svg" alt="">1葉のクローバー](/ja/item/one-leaf-clover) ×3 | 成功時 | 100% | 3 | 6 |
-| [<img class="wiki-icon" src="assets/icon/c4f9d12979bdfc90.svg" alt="">ホタル](/ja/item/firefly) ×3 | 成功時 | 100% | 3 | 6 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -36,14 +32,6 @@
 | +30（Lv38） | 16分20秒 | 100% | 152.59 | 3.7 | 12 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
-
-## 収支（1時間あたり）
-
-| 通貨 | 収入 | 材料費 | 差引 |
-| --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 72 | 0 | 72 |
-
-取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
 <div class="wiki-navbox" style="--accent:#697852"><div class="wiki-navbox-title">公園のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-fallen-leaves"><img class="wiki-icon" src="assets/icon/732665ba6a1aee85.svg" alt="">落ち葉拾い</a> ・ <a href="#/ja/action/cleanup-activity"><img class="wiki-icon" src="assets/icon/dc1ff4797b8cfa39.svg" alt="">清掃活動</a> ・ <a href="#/ja/action/dig-sandbox"><img class="wiki-icon" src="assets/icon/eee8a2d4f6796b24.svg" alt="">砂場掘り</a> ・ <a href="#/ja/action/tend-flower-bed"><img class="wiki-icon" src="assets/icon/b9f2fd9a42b74ce8.svg" alt="">花壇の手入れ</a> ・ <a href="#/ja/action/pond-side"><img class="wiki-icon" src="assets/icon/8037b426178499e5.svg" alt="">池のほとり</a> ・ <a href="#/ja/action/giant-spider"><img class="wiki-icon" src="assets/icon/f4a063e2ef801314.svg" alt="">巨大なクモ</a> ・ <a href="#/ja/action/shut-in-guard"><img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員</a> ・ <a href="#/ja/action/pavlovs-dog"><img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬</a> ・ <a href="#/ja/action/beetle"><img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ</a> ・ <a href="#/ja/action/snail"><img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ</a> ・ <a href="#/ja/action/deep-in-the-bushes"><img class="wiki-icon" src="assets/icon/ffc8dfbf2e954eb8.svg" alt="">茂みの奥</a> ・ <a href="#/ja/action/twilight-promenade"><img class="wiki-icon" src="assets/icon/849075a43bb2d535.svg" alt="">夕暮れの散歩道</a> ・ <a href="#/ja/action/boathouse"><img class="wiki-icon" src="assets/icon/1aee9dfc0a917e5f.svg" alt="">ボート小屋</a></div></div>
 
@@ -112,33 +100,9 @@
 		},
 		{
 			"type": "item",
-			"id": "fake-beard",
-			"count": 3,
-			"chance": 1
-		},
-		{
-			"type": "item",
 			"id": "wallet",
 			"count": 1,
 			"chance": 0.501
-		},
-		{
-			"type": "item",
-			"id": "acorn-shot",
-			"count": 3,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "one-leaf-clover",
-			"count": 3,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "firefly",
-			"count": 3,
-			"chance": 1
 		}
 	],
 	"progressType": "single",

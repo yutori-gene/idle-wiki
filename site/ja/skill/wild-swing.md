@@ -26,7 +26,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🪄</span>如意棒](/ja/item/ruyi-staff) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 消費装備 |
+| [<span class="wiki-icon">🪄</span>如意棒](/ja/item/ruyi-staff) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 

@@ -20,6 +20,7 @@
 | [<span class="wiki-icon">🔥</span>赤熱鉄](/ja/item/red-hot-iron) ×3 | 成功時 | 48% | 0.72 | 37 |
 | [<span class="wiki-icon">⚫</span>黒曜石](/ja/item/obsidian) ×2 | 成功時 | 25.9% | 0.259 | 13.3 |
 | [<span class="wiki-icon">⛏️</span>ツルハシ](/ja/item/pickaxe) ×1 | 成功時 | 21.6% | 0.108 | 5.6 |
+| [<span class="wiki-icon">🪢</span>愛の鞭](/ja/item/whip-of-love) ×1 | 成功時 | 7.74% | 0.039 | 2 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -38,7 +39,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 3,384 | 0 | 3,384 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 3,760 | 0 | 3,760 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -118,6 +119,12 @@
 			"id": "pickaxe",
 			"count": 1,
 			"chance": 0.216
+		},
+		{
+			"type": "item",
+			"id": "whip-of-love",
+			"count": 1,
+			"chance": 0.0774
 		}
 	],
 	"progressType": "persistent",

@@ -14,13 +14,12 @@
 | [<img class="wiki-icon" src="assets/icon/361dddead5743371.svg" alt="">小石](/ja/item/pebble) ×7 | 成功時 | 91% | 3.2 | 1,147 |
 | [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn) ×5 | 成功時 | 56% | 1.4 | 504 |
 | [<img class="wiki-icon" src="assets/icon/47721c74865bab5f.svg" alt="">紙](/ja/item/paper) ×5 | 成功時 | 56% | 1.4 | 504 |
-| [<img class="wiki-icon" src="assets/icon/a853f3f0e7b15e1c.svg" alt="">木の棒](/ja/item/wooden-stick) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
-| [<img class="wiki-icon" src="assets/icon/16359e1fba4a9c16.svg" alt="">布の手袋](/ja/item/cloth-gloves) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
 | [<img class="wiki-icon" src="assets/icon/95e9eab537758bbd.svg" alt="">落ち葉](/ja/item/fallen-leaf) ×7 | 成功時 | 91% | 3.2 | 1,147 |
 | [<img class="wiki-icon" src="assets/icon/a39276741e1606f8.svg" alt="">雑草](/ja/item/weed) ×5 | 成功時 | 56% | 1.4 | 504 |
 | [<img class="wiki-icon" src="assets/icon/897667db2ce70f25.svg" alt="">ベンチ](/ja/item/bench) ×1 | 成功時 | 8.64% | 0.043 | 15.6 |
 | [<img class="wiki-icon" src="assets/icon/fb0af033181cd943.svg" alt="">ブランコ](/ja/item/swing) ×1 | 成功時 | 10.4% | 0.052 | 18.7 |
 | [<img class="wiki-icon" src="assets/icon/02ecd77f3682ed57.svg" alt="">すべり台](/ja/item/slide) ×1 | 成功時 | 10.4% | 0.052 | 18.7 |
+| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) ×1 | 成功時 | 33.6% | 0.168 | 60.5 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -39,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 5,189 | 0 | 5,189 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 5,137 | 0 | 5,137 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -117,18 +116,6 @@
 		},
 		{
 			"type": "item",
-			"id": "wooden-stick",
-			"count": 1,
-			"chance": 0.216
-		},
-		{
-			"type": "item",
-			"id": "cloth-gloves",
-			"count": 1,
-			"chance": 0.216
-		},
-		{
-			"type": "item",
 			"id": "fallen-leaf",
 			"count": 7,
 			"chance": 0.91
@@ -156,6 +143,12 @@
 			"id": "slide",
 			"count": 1,
 			"chance": 0.104
+		},
+		{
+			"type": "item",
+			"id": "acorn-shot",
+			"count": 1,
+			"chance": 0.336
 		}
 	],
 	"progressType": "persistent",

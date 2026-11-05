@@ -12,6 +12,7 @@
 | 効き先 | 攻撃 | 経験値 |
 | --- | --- | --- |
 | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | +9 | +6 |
+| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +5 | +3 |
 
 ## 入手方法
 
@@ -19,15 +20,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv9 | 1 | 2.21% | 0.011 | 1.9 |
+| [<span class="wiki-icon">📦</span>跳び箱](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 1 | 57.6% | 0.461 | 1.4 |
 
 ## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💍</span>結婚指輪（分解）](/ja/action/disassemble-wedding-ring) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv10 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 
@@ -93,6 +88,17 @@
 			"speed": 0,
 			"chance": 0,
 			"experience": 6
+		},
+		{
+			"category": "melee-weapon",
+			"attack": 5,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 0,
+			"chance": 0,
+			"experience": 3
 		}
 	],
 	"skill": ""

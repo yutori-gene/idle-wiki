@@ -16,6 +16,7 @@
 | [<span class="wiki-icon">✨</span>星屑](/ja/item/stardust) ×5 | 成功時 | 56% | 1.4 | 50.4 |
 | [<span class="wiki-icon">🌙</span>月の雫](/ja/item/moon-drop) ×3 | 成功時 | 48% | 0.72 | 25.9 |
 | [<span class="wiki-icon">🌌</span>銀河の種](/ja/item/galaxy-seed) ×3 | 成功時 | 48% | 0.72 | 25.9 |
+| [<span class="wiki-icon">🚀</span>マグロケット](/ja/item/tuna-rocket) ×3 | 成功時 | 37% | 0.555 | 20 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -34,7 +35,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 3,710 | 0 | 3,710 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 440,672 | 0 | 440,672 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -114,6 +115,12 @@
 			"id": "galaxy-seed",
 			"count": 3,
 			"chance": 0.48
+		},
+		{
+			"type": "item",
+			"id": "tuna-rocket",
+			"count": 3,
+			"chance": 0.37
 		}
 	],
 	"progressType": "persistent",

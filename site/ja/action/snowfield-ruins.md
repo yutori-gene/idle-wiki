@@ -20,7 +20,7 @@
 | [<span class="wiki-icon">🥕</span>大根](/ja/item/daikon) ×3 | 成功時 | 48% | 0.72 | 51.8 |
 | [<span class="wiki-icon">⛄</span>雪だるま](/ja/item/snowman) ×2 | 成功時 | 25.9% | 0.259 | 18.6 |
 | [<span class="wiki-icon">🧥</span>防寒着](/ja/item/winter-coat) ×1 | 成功時 | 25.9% | 0.13 | 9.3 |
-| [<span class="wiki-icon">🐢</span>カメの甲羅](/ja/item/turtle-shell) ×2 | 成功時 | 25.9% | 0.259 | 18.6 |
+| [<span class="wiki-icon">🐢</span>カメの甲羅](/ja/item/turtle-shell) ×2 | 成功時 | 27.8% | 0.278 | 20 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -39,7 +39,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 6,816 | 0 | 6,816 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 6,877 | 0 | 6,877 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -148,7 +148,7 @@
 			"type": "item",
 			"id": "turtle-shell",
 			"count": 2,
-			"chance": 0.259
+			"chance": 0.278
 		}
 	],
 	"progressType": "persistent",

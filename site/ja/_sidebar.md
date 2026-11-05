@@ -27,6 +27,7 @@
   - [<span class="wiki-icon">📚</span>書斎](/ja/category/study)
   - [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft)
   - [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement)
+  - [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier)
   - [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom)
   - [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop)
 - 装備管理

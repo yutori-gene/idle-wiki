@@ -18,9 +18,6 @@
 | [<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) ×1 | 成功時 | 100% | 1 | 0.5 |
 | [<span class="wiki-icon">🗺️</span>海賊の地図](/ja/item/pirate-map) ×2 | 成功時 | 41.8% | 0.836 | 0.418 |
 | [<span class="wiki-icon">⚓</span>錆びた錨](/ja/item/rusty-anchor) ×1 | 成功時 | 25.9% | 0.259 | 0.13 |
-| [<span class="wiki-icon">👟</span>音が鳴る靴](/ja/item/squeaky-shoes) ×1 | 成功時 | 25.9% | 0.259 | 0.13 |
-| [<span class="wiki-icon">🪪</span>ハンターライセンス](/ja/item/hunter-license) ×1 | 成功時 | 10.4% | 0.104 | 0.052 |
-| [<span class="wiki-icon">💍</span>ダイヤモンドの指輪](/ja/item/diamond-ring) ×1 | 成功時 | 10.4% | 0.104 | 0.052 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -39,7 +36,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 522 | 0 | 522 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 506 | 0 | 506 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -107,24 +104,6 @@
 			"id": "rusty-anchor",
 			"count": 1,
 			"chance": 0.259
-		},
-		{
-			"type": "item",
-			"id": "squeaky-shoes",
-			"count": 1,
-			"chance": 0.259
-		},
-		{
-			"type": "item",
-			"id": "hunter-license",
-			"count": 1,
-			"chance": 0.104
-		},
-		{
-			"type": "item",
-			"id": "diamond-ring",
-			"count": 1,
-			"chance": 0.104
 		}
 	],
 	"progressType": "single",

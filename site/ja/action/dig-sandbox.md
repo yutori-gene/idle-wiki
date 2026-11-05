@@ -18,11 +18,8 @@
 | [<img class="wiki-icon" src="assets/icon/361dddead5743371.svg" alt="">小石](/ja/item/pebble) ×7 | 成功時 | 91% | 3.2 | 1,147 |
 | [<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
 | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) ×3 | 成功時 | 100% | 1.5 | 540 |
-| [<img class="wiki-icon" src="assets/icon/da012127f6ed247b.svg" alt="">臭う靴下](/ja/item/smelly-socks) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
 | [<img class="wiki-icon" src="assets/icon/166910348652907c.svg" alt="">シャベル](/ja/item/shovel) ×1 | 成功時 | 18% | 0.09 | 32.4 |
 | [<img class="wiki-icon" src="assets/icon/0c93eb333fa7605d.svg" alt="">石ころ](/ja/item/stone) ×7 | 成功時 | 91% | 3.2 | 1,147 |
-| [<img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船](/ja/item/water-balloon) ×3 | 成功時 | 48% | 0.72 | 259 |
-| [<img class="wiki-icon" src="assets/icon/5f67ad53a251b7d6.svg" alt="">ピンバッジ](/ja/item/pin-badge) ×3 | 成功時 | 48% | 0.72 | 259 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -41,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 4,654 | 0 | 4,654 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 2,982 | 0 | 2,982 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -112,12 +109,6 @@
 		},
 		{
 			"type": "item",
-			"id": "smelly-socks",
-			"count": 1,
-			"chance": 0.216
-		},
-		{
-			"type": "item",
 			"id": "shovel",
 			"count": 1,
 			"chance": 0.18
@@ -127,18 +118,6 @@
 			"id": "stone",
 			"count": 7,
 			"chance": 0.91
-		},
-		{
-			"type": "item",
-			"id": "water-balloon",
-			"count": 3,
-			"chance": 0.48
-		},
-		{
-			"type": "item",
-			"id": "pin-badge",
-			"count": 3,
-			"chance": 0.48
 		}
 	],
 	"progressType": "persistent",

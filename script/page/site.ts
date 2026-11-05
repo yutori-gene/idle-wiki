@@ -1,11 +1,12 @@
 // サイト全体のページ: トップ（README）・サイドバー・ナビバー・開発者向けページ・手書きページ
 import * as FS from "fs";
 import * as path from "path";
+import type * as Type from "../../source/type/worldType.ts";
 import { languages, publishedDocuments, sidebarPages } from "../../config/wiki.ts";
 import { rewriteLinks } from "../lib/document.ts";
-import { escapeMarkdown, join, link, number, section, table } from "../lib/format.ts";
+import { escapeHtml, escapeMarkdown, join, link, number, section, table } from "../lib/format.ts";
 import { root } from "../lib/path.ts";
-import { documentPath, rawJson, type Context, type Page } from "./common.ts";
+import { developerCell, documentPath, rawJson, type Context, type Page } from "./common.ts";
 import { LIST_PAGES } from "./list.ts";
 import { REFERENCE_PAGES } from "./reference.ts";
 
@@ -134,7 +135,7 @@ export function developerPages(context: Context): Page[] {
 			section("一般（general）", table(["項目", "値"], generalRows)),
 			section("戦闘の基本値（defaultCombat）", table(Object.keys(combat).map((key) => model.label.property[key as keyof typeof combat]), [Object.values(combat).map((value) => number(value))])),
 			section("通貨・枠", [...general.coins.map((coin) => coin.id), general.capacity.information.id, general.queue.information.id].map((id) => `- ${link(model, "item", id)}`).join("\n")),
-			section("配色（design）", table(["項目", "値"], Object.entries(world.basic.design).map(([key, value]) => [`\`${key}\``, value ? `<span class="wiki-swatch" style="background:${value}"></span> \`${value}\`` : "（空）"]))),
+			section("配色（design）", table(["項目", "値"], designRows(world.basic.design))),
 			rawJson({ overview: world.basic.overview, general: world.basic.general, design: world.basic.design }),
 		),
 	});
@@ -177,3 +178,10 @@ export function handPages(context: Context): Page[] {
 	}));
 }
 
+/** 配色（design）の表の行。色は見本付き、背景画像（backgrounds）は端末ごとに1行（開発者向け情報の表と同じ「画像」リンク） */
+function designRows(design: Type.Design): string[][] {
+	const { backgrounds, ...colors } = design;
+	const colorRows = Object.entries(colors).map(([key, value]) => [`\`${key}\``, value ? `<span class="wiki-swatch" style="background:${escapeHtml(value)}"></span> \`${escapeMarkdown(value)}\`` : "（空）"]);
+	const backgroundRows = Object.entries(backgrounds).map(([device, uri]) => [`\`backgrounds.${device}\``, developerCell(uri)]);
+	return [...colorRows, ...backgroundRows];
+}

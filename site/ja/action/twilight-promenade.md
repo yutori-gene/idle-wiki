@@ -18,13 +18,10 @@
 | [<img class="wiki-icon" src="assets/icon/74c73c9427c8c2e6.svg" alt="">日時計](/ja/item/sundial) ×2 | 成功時 | 17.3% | 0.346 | 0.692 |
 | [<img class="wiki-icon" src="assets/icon/1e476358e19d8676.svg" alt="">噴水のコイン](/ja/item/fountain-coin) ×1 | 成功時 | 4.15% | 0.042 | 0.083 |
 | [<img class="wiki-icon" src="assets/icon/19da4c679f8870a7.svg" alt="">伝説のボール](/ja/item/legendary-ball) ×1 | 成功時 | 100% | 1 | 2 |
-| [<img class="wiki-icon" src="assets/icon/85a5eb144a623cc8.svg" alt="">スリッパ](/ja/item/slippers) ×3 | 成功時 | 63.6% | 1.9 | 3.8 |
 | [<img class="wiki-icon" src="assets/icon/5676c877b5bc47f0.svg" alt="">募金箱](/ja/item/donation-box) ×1 | 成功時 | 50.1% | 0.501 | 1 |
 | [<img class="wiki-icon" src="assets/icon/3e0ab42a7bdb32e5.svg" alt="">ペイントローラー](/ja/item/paint-roller) ×1 | 成功時 | 21.6% | 0.216 | 0.432 |
 | [<img class="wiki-icon" src="assets/icon/e4431f2a3a0df5d2.svg" alt="">スズメ](/ja/item/sparrow) ×2 | 成功時 | 34.8% | 0.696 | 1.4 |
 | [<img class="wiki-icon" src="assets/icon/a6c87b93b31c1653.svg" alt="">ハト](/ja/item/pigeon) ×2 | 成功時 | 34.8% | 0.696 | 1.4 |
-| [<img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル](/ja/item/cowbell) ×3 | 成功時 | 48% | 1.4 | 2.9 |
-| [<img class="wiki-icon" src="assets/icon/aba9e6b62053c166.svg" alt="">銀の指輪](/ja/item/silver-ring) ×2 | 成功時 | 25.9% | 0.518 | 1 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -43,7 +40,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 544 | 0 | 544 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 514 | 0 | 514 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -114,12 +111,6 @@
 		},
 		{
 			"type": "item",
-			"id": "slippers",
-			"count": 3,
-			"chance": 0.636
-		},
-		{
-			"type": "item",
 			"id": "donation-box",
 			"count": 1,
 			"chance": 0.501
@@ -141,18 +132,6 @@
 			"id": "pigeon",
 			"count": 2,
 			"chance": 0.348
-		},
-		{
-			"type": "item",
-			"id": "cowbell",
-			"count": 3,
-			"chance": 0.48
-		},
-		{
-			"type": "item",
-			"id": "silver-ring",
-			"count": 2,
-			"chance": 0.259
 		}
 	],
 	"progressType": "single",

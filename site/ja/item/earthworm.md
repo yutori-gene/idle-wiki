@@ -24,6 +24,7 @@
 | [<span class="wiki-icon">🪱</span>ミミズの切断](/ja/action/cut-earthworm) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 1 | 30% | 0.3 | 18 |
 | [<span class="wiki-icon">🪱</span>ミミズの切断](/ja/action/cut-earthworm) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 1 | 30% | 0.3 | 18 |
 | [<span class="wiki-icon">🎃</span>カボチャ](/ja/action/grow-pumpkin) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv4 | 1 | 50% | 0.45 | 0.225 |
+| [<span class="wiki-icon">🍅</span>トマト](/ja/action/grow-tomato) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 1 | 50% | 0.4 | 0.4 |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/action/grow-garlic) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv7 | 1 | 50% | 0.375 | 0.375 |
 | [<span class="wiki-icon">🌾</span>小麦](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv10 | 1 | 50% | 0.3 | 0.075 |
 | [<span class="wiki-icon">🥬</span>サラダ菜](/ja/action/grow-lettuce) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv13 | 1 | 50% | 0.475 | 0.317 |

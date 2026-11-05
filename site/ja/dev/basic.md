@@ -41,7 +41,8 @@
 | `barColor` | <span class="wiki-swatch" style="background:#f4ecd8"></span> `#f4ecd8` |
 | `textColor` | <span class="wiki-swatch" style="background:#22305e"></span> `#22305e` |
 | `shadowColor` | <span class="wiki-swatch" style="background:#121a38"></span> `#121a38` |
-| `background` | （空） |
+| `backgrounds.laptop` | <a href="assets/icon/117a6b5147f3148b.svg" target="_blank">画像</a>（data URI） |
+| `backgrounds.mobile` | <a href="assets/icon/ac4df0457e537ac6.svg" target="_blank">画像</a>（data URI） |
 
 ```json
 {
@@ -146,7 +147,10 @@
 		"barColor": "#f4ecd8",
 		"textColor": "#22305e",
 		"shadowColor": "#121a38",
-		"background": ""
+		"backgrounds": {
+			"laptop": "（data URI の画像。site/assets/icon/117a6b5147f3148b.svg）",
+			"mobile": "（data URI の画像。site/assets/icon/ac4df0457e537ac6.svg）"
+		}
 	}
 }
 ```

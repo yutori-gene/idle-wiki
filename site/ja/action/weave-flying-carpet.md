@@ -1,6 +1,6 @@
-# 空飛ぶ絨毯を織る
+# 空飛ぶ絨毯
 
-<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">空飛ぶ絨毯を織る</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧞</span></div><table><tr><th>場所</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/floor"><span class="wiki-icon">🟫</span>床</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>7時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">空飛ぶ絨毯</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧞</span></div><table><tr><th>場所</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/creation"><span class="wiki-icon">🎨</span>制作</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>7時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 髭を撚った糸で、床を離れる文様を織り上げる。
 
@@ -39,7 +39,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">寝室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/craft-sand-castle"><span class="wiki-icon">🏖️</span>砂の城</a> ・ <a href="#/ja/action/weave-flying-carpet"><span class="wiki-icon">🧞</span>空飛ぶ絨毯を織る</a> ・ <a href="#/ja/action/craft-dancing-statue"><span class="wiki-icon">🕺</span>踊る銅像</a> ・ <a href="#/ja/action/repair-grandfather-clock"><span class="wiki-icon">🕰️</span>おじいさんの時計を直す</a> ・ <a href="#/ja/action/bundle-peacock-feather"><span class="wiki-icon">🪶</span>孔雀の羽を束ねる</a> ・ <a href="#/ja/action/connect-heart-piece"><span class="wiki-icon">💔</span>ハートのカケラを繋ぐ</a> ・ <a href="#/ja/action/inherit-burning-passion"><span class="wiki-icon">🔥</span>熱い想いを受け継ぐ</a> ・ <a href="#/ja/action/write-will-document"><span class="wiki-icon">📜</span>遺言書を書く</a> ・ <a href="#/ja/action/assemble-millennium-puzzle"><span class="wiki-icon">🧩</span>千年パズルを組む</a> ・ <a href="#/ja/action/seal-message-in-a-bottle"><span class="wiki-icon">✉️</span>ボトルメールを封じる</a> ・ <a href="#/ja/action/craft-snow-globe"><span class="wiki-icon">❄️</span>スノードーム</a> ・ <a href="#/ja/action/craft-kaleidoscope"><span class="wiki-icon">🔮</span>万華鏡</a> ・ <a href="#/ja/action/copy-infinite-loop-videotape"><span class="wiki-icon">📼</span>無限ループするビデオテープを複製する</a> ・ <a href="#/ja/action/polish-golden-orb"><span class="wiki-icon">🟡</span>金の玉を磨く</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">寝室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/mimic"><img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック</a> ・ <a href="#/ja/action/seal-message-in-a-bottle"><span class="wiki-icon">✉️</span>ボトルメール</a> ・ <a href="#/ja/action/craft-sand-castle"><span class="wiki-icon">🏖️</span>砂の城</a> ・ <a href="#/ja/action/bundle-peacock-feather"><span class="wiki-icon">🪶</span>孔雀の羽</a> ・ <a href="#/ja/action/connect-heart-piece"><span class="wiki-icon">💔</span>ハートのカケラ</a> ・ <a href="#/ja/action/craft-snow-globe"><span class="wiki-icon">❄️</span>スノードーム</a> ・ <a href="#/ja/action/weave-flying-carpet"><span class="wiki-icon">🧞</span>空飛ぶ絨毯</a> ・ <a href="#/ja/action/craft-kaleidoscope"><span class="wiki-icon">🔮</span>万華鏡</a> ・ <a href="#/ja/action/inherit-burning-passion"><span class="wiki-icon">🔥</span>熱い想い</a> ・ <a href="#/ja/action/craft-statue-of-david"><span class="wiki-icon">🏛️</span>ダビデ像</a> ・ <a href="#/ja/action/craft-dancing-statue"><span class="wiki-icon">🕺</span>踊る銅像</a> ・ <a href="#/ja/action/write-will-document"><span class="wiki-icon">📜</span>遺言書</a> ・ <a href="#/ja/action/copy-infinite-loop-videotape"><span class="wiki-icon">📼</span>無限ループするビデオテープ</a> ・ <a href="#/ja/action/repair-grandfather-clock"><span class="wiki-icon">🕰️</span>おじいさんの時計</a> ・ <a href="#/ja/action/assemble-millennium-puzzle"><span class="wiki-icon">🧩</span>千年パズル</a> ・ <a href="#/ja/action/polish-golden-orb"><span class="wiki-icon">🟡</span>金の玉</a></div></div>
 
 ## 開発者向け情報
 
@@ -48,7 +48,7 @@
 | id | `weave-flying-carpet` |
 | `category` | `bedroom` |
 | `attribute` | （空） |
-| `group` | `floor` |
+| `group` | `creation` |
 | `unlocked` | `hinted` |
 | `level` | `33` |
 | `experience` | `7200` |
@@ -66,7 +66,7 @@
 {
 	"information": {
 		"id": "weave-flying-carpet",
-		"name": "空飛ぶ絨毯を織る",
+		"name": "空飛ぶ絨毯",
 		"explanation": "髭を撚った糸で、床を離れる文様を織り上げる。",
 		"icon": {
 			"emoji": "🧞",
@@ -77,7 +77,7 @@
 	},
 	"category": "bedroom",
 	"attribute": "",
-	"group": "floor",
+	"group": "creation",
 	"unlocked": "hinted",
 	"level": 33,
 	"experience": 7200,

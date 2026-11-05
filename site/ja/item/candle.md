@@ -20,9 +20,10 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧙</span>エレメンタリスト](/ja/action/elementalist) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 | 1 | 0.583% |  |
-| [<span class="wiki-icon">🧊</span>冷たい宝箱](/ja/action/open-cold-chest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv21 | 1 | 100% |  |
+| [<span class="wiki-icon">🧊</span>南極の氷](/ja/action/open-antarctic-ice) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv21 | 1 | 100% |  |
+| [<span class="wiki-icon">🥋</span>スケイルメイル](/ja/action/craft-scale-mail) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv40 | 5 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

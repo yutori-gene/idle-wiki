@@ -19,6 +19,8 @@
 | [<span class="wiki-icon">🔮</span>火山水晶](/ja/item/volcanic-crystal) ×2 | 成功時 | 41.8% | 0.836 | 0.239 |
 | [<span class="wiki-icon">🐉</span>竜の鱗](/ja/item/dragon-scale) ×1 | 成功時 | 12.4% | 0.124 | 0.035 |
 | [<span class="wiki-icon">🌋</span>マグマの心臓](/ja/item/magma-heart) ×1 | 成功時 | 12.4% | 0.124 | 0.035 |
+| [<span class="wiki-icon">⚔️</span>諸刃の剣](/ja/item/double-edged-sword) ×1 | 成功時 | 10.6% | 0.106 | 0.03 |
+| [<span class="wiki-icon">🔮</span>闇のペンダント](/ja/item/dark-pendant) ×1 | 成功時 | 10.6% | 0.106 | 0.03 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -37,7 +39,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 217 | 0 | 217 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 252 | 0 | 252 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -111,6 +113,18 @@
 			"id": "magma-heart",
 			"count": 1,
 			"chance": 0.124
+		},
+		{
+			"type": "item",
+			"id": "double-edged-sword",
+			"count": 1,
+			"chance": 0.106
+		},
+		{
+			"type": "item",
+			"id": "dark-pendant",
+			"count": 1,
+			"chance": 0.106
 		}
 	],
 	"progressType": "single",

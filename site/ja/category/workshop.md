@@ -19,34 +19,34 @@
 
 | アクション | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv1 | 2分 | 100% | 1,140 | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×8<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×3 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/item/ruining-cushion-parts) |
-| [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/action/craft-ruining-cushion) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv1 | 2時間 | 100% | 1,138 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/item/ruining-cushion-parts)×100 | [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/item/ruining-cushion) |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv5 | 4分 | 55% | 750 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×3<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×13 | [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/item/rabbit-hutch-parts)×2 |
-| [<span class="wiki-icon">🐇</span>ウサギ小屋](/ja/action/craft-rabbit-hutch) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv5 | 4時間 | 100% | 749 | [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/item/rabbit-hutch-parts)×100 | [<span class="wiki-icon">🐇</span>ウサギ小屋](/ja/item/rabbit-hutch) |
-| [<span class="wiki-icon">🔩</span>本棚の部品](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv9 | 2分 | 95% | 495 | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×11<br>[<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×3 | [<span class="wiki-icon">🔩</span>本棚の部品](/ja/item/bookshelf-parts) |
-| [<span class="wiki-icon">📚</span>本棚](/ja/action/craft-bookshelf) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv9 | 2時間 | 100% | 494 | [<span class="wiki-icon">🔩</span>本棚の部品](/ja/item/bookshelf-parts)×100 | [<span class="wiki-icon">📚</span>本棚](/ja/item/bookshelf) |
-| [<span class="wiki-icon">🔩</span>井戸の部品](/ja/action/craft-well-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv12 | 6分 | 100% | 362 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×8<br>[<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×10 | [<span class="wiki-icon">🔩</span>井戸の部品](/ja/item/well-parts)×2 |
-| [<span class="wiki-icon">🪣</span>井戸](/ja/action/craft-well) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv12 | 6時間 | 100% | 361 | [<span class="wiki-icon">🔩</span>井戸の部品](/ja/item/well-parts)×100 | [<span class="wiki-icon">🪣</span>井戸](/ja/item/well) |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv16 | 3分 | 90% | 241 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×4<br>[<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×2 | [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/item/lawn-mower-parts) |
-| [<span class="wiki-icon">🌾</span>芝刈り機](/ja/action/assemble-lawn-mower) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv16 | 3時間 | 100% | 238 | [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/item/lawn-mower-parts)×100 | [<span class="wiki-icon">🌾</span>芝刈り機](/ja/item/lawn-mower) |
-| [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv20 | 10分 | 65% | 157 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×10<br>[<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×16<br>[<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×6 | [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/item/oven-parts)×3 |
-| [<span class="wiki-icon">🍞</span>オーブン](/ja/action/craft-oven) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv20 | 10時間 | 100% | 157 | [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/item/oven-parts)×100 | [<span class="wiki-icon">🍞</span>オーブン](/ja/item/oven) |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv24 | 4分 | 70% | 104 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×4<br>[<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)<br>[<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip)×3 | [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/item/dog-house-parts) |
-| [<span class="wiki-icon">🐕</span>イヌ小屋](/ja/action/craft-dog-house) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv24 | 5時間 | 100% | 103 | [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/item/dog-house-parts)×100 | [<span class="wiki-icon">🐕</span>イヌ小屋](/ja/item/dog-house) |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv27 | 15分 | 70% | 76 | [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×6<br>[<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium)×34<br>[<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip)×11 | [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/item/weather-box-parts)×4 |
-| [<span class="wiki-icon">🌡️</span>百葉箱](/ja/action/craft-weather-box) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv27 | 16時間 | 100% | 75 | [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/item/weather-box-parts)×100 | [<span class="wiki-icon">🌡️</span>百葉箱](/ja/item/weather-box) |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv31 | 6分 | 70% | 50 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×2<br>[<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×8<br>[<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium)×8 | [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/item/refrigerator-parts) |
-| [<span class="wiki-icon">🧊</span>冷蔵庫](/ja/action/craft-refrigerator) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv31 | 8時間 | 100% | 50 | [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/item/refrigerator-parts)×100 | [<span class="wiki-icon">🧊</span>冷蔵庫](/ja/item/refrigerator) |
-| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv35 | 20分 | 55% | 33 | [<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium)×40<br>[<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip)×17<br>[<span class="wiki-icon">💾</span>自律型AIチップ](/ja/item/autonomous-ai-chip)×3 | [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/item/solar-panel-parts)×6 |
-| [<span class="wiki-icon">☀️</span>ソーラーパネル](/ja/action/craft-solar-panel) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv35 | 1日6時間 | 100% | 33 | [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/item/solar-panel-parts)×100 | [<span class="wiki-icon">☀️</span>ソーラーパネル](/ja/item/solar-panel) |
-| [<span class="wiki-icon">🔩</span>発電機の部品](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv39 | 10分 | 100% | 22 | [<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×20<br>[<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×6<br>[<span class="wiki-icon">💾</span>自律型AIチップ](/ja/item/autonomous-ai-chip)×2 | [<span class="wiki-icon">🔩</span>発電機の部品](/ja/item/generator-parts)×2 |
-| [<span class="wiki-icon">🔌</span>発電機](/ja/action/craft-generator) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv39 | 12時間 | 100% | 22 | [<span class="wiki-icon">🔩</span>発電機の部品](/ja/item/generator-parts)×100 | [<span class="wiki-icon">🔌</span>発電機](/ja/item/generator) |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv42 | 30分 | 50% | 16 | [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×25<br>[<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium)×50<br>[<span class="wiki-icon">⚛️</span>反物質のかけら](/ja/item/antimatter-piece)×10 | [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/item/hamster-wheel-parts)×10 |
-| [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/action/craft-hamster-wheel) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv42 | 2日 | 100% | 16 | [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/item/hamster-wheel-parts)×100 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) |
-| [<span class="wiki-icon">🔩</span>かまどの部品](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv46 | 15分 | 70% | 10 | [<img class="wiki-icon" src="assets/icon/0e603d9eeb962681.svg" alt="">耐熱レンガ](/ja/item/heatproof-brick)×4<br>[<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal)×25 | [<span class="wiki-icon">🔩</span>かまどの部品](/ja/item/stove-parts)×3 |
-| [<span class="wiki-icon">🔥</span>かまど](/ja/action/craft-stove) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv46 | 1日 | 100% | 10 | [<span class="wiki-icon">🔩</span>かまどの部品](/ja/item/stove-parts)×100 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) |
-| [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 連続 | Lv50 | 30分 | 85% | 7 | [<img class="wiki-icon" src="assets/icon/0e603d9eeb962681.svg" alt="">耐熱レンガ](/ja/item/heatproof-brick)×13<br>[<span class="wiki-icon">⚫</span>石炭](/ja/item/coal)×43 | [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/item/fireplace-parts)×5 |
-| [<span class="wiki-icon">🔥</span>暖炉](/ja/action/craft-fireplace) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 単発 | Lv50 | 2日 | 100% | 7 | [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/item/fireplace-parts)×100 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) |
+| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/action/craft-ruining-cushion-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv1 | 2分 | 100% | 1,140 | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×8<br>[<span class="wiki-icon">🪶</span>羽根](/ja/item/feather)×3 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/item/ruining-cushion-parts) |
+| [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/action/craft-ruining-cushion) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv1 | 2時間 | 100% | 1,138 | [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/item/ruining-cushion-parts)×100 | [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/item/ruining-cushion) |
+| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv5 | 4分 | 55% | 750 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×3<br>[<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×13 | [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/item/rabbit-hutch-parts)×2 |
+| [<span class="wiki-icon">🐇</span>ウサギ小屋](/ja/action/craft-rabbit-hutch) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv5 | 4時間 | 100% | 749 | [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/item/rabbit-hutch-parts)×100 | [<span class="wiki-icon">🐇</span>ウサギ小屋](/ja/item/rabbit-hutch) |
+| [<span class="wiki-icon">🔩</span>本棚の部品](/ja/action/craft-bookshelf-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv9 | 2分 | 95% | 495 | [<span class="wiki-icon">🧵</span>布](/ja/item/cloth)×11<br>[<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×3 | [<span class="wiki-icon">🔩</span>本棚の部品](/ja/item/bookshelf-parts) |
+| [<span class="wiki-icon">📚</span>本棚](/ja/action/craft-bookshelf) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv9 | 2時間 | 100% | 494 | [<span class="wiki-icon">🔩</span>本棚の部品](/ja/item/bookshelf-parts)×100 | [<span class="wiki-icon">📚</span>本棚](/ja/item/bookshelf) |
+| [<span class="wiki-icon">🔩</span>井戸の部品](/ja/action/craft-well-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv12 | 6分 | 100% | 362 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×8<br>[<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×10 | [<span class="wiki-icon">🔩</span>井戸の部品](/ja/item/well-parts)×2 |
+| [<span class="wiki-icon">🪣</span>井戸](/ja/action/craft-well) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv12 | 6時間 | 100% | 361 | [<span class="wiki-icon">🔩</span>井戸の部品](/ja/item/well-parts)×100 | [<span class="wiki-icon">🪣</span>井戸](/ja/item/well) |
+| [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv16 | 3分 | 90% | 241 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×4<br>[<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×2 | [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/item/lawn-mower-parts) |
+| [<span class="wiki-icon">🌾</span>芝刈り機](/ja/action/assemble-lawn-mower) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv16 | 3時間 | 100% | 238 | [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/item/lawn-mower-parts)×100 | [<span class="wiki-icon">🌾</span>芝刈り機](/ja/item/lawn-mower) |
+| [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv20 | 10分 | 65% | 157 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×10<br>[<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×16<br>[<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×6 | [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/item/oven-parts)×3 |
+| [<span class="wiki-icon">🍞</span>オーブン](/ja/action/craft-oven) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv20 | 10時間 | 100% | 157 | [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/item/oven-parts)×100 | [<span class="wiki-icon">🍞</span>オーブン](/ja/item/oven) |
+| [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv24 | 4分 | 70% | 104 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×4<br>[<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)<br>[<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip)×3 | [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/item/dog-house-parts) |
+| [<span class="wiki-icon">🐕</span>イヌ小屋](/ja/action/craft-dog-house) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv24 | 5時間 | 100% | 103 | [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/item/dog-house-parts)×100 | [<span class="wiki-icon">🐕</span>イヌ小屋](/ja/item/dog-house) |
+| [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/action/craft-weather-box-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv27 | 15分 | 70% | 76 | [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire)×6<br>[<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium)×34<br>[<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip)×11 | [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/item/weather-box-parts)×4 |
+| [<span class="wiki-icon">🌡️</span>百葉箱](/ja/action/craft-weather-box) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv27 | 16時間 | 100% | 75 | [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/item/weather-box-parts)×100 | [<span class="wiki-icon">🌡️</span>百葉箱](/ja/item/weather-box) |
+| [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv31 | 6分 | 70% | 50 | [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron)×2<br>[<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×8<br>[<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium)×8 | [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/item/refrigerator-parts) |
+| [<span class="wiki-icon">🧊</span>冷蔵庫](/ja/action/craft-refrigerator) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv31 | 8時間 | 100% | 50 | [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/item/refrigerator-parts)×100 | [<span class="wiki-icon">🧊</span>冷蔵庫](/ja/item/refrigerator) |
+| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv35 | 20分 | 55% | 33 | [<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium)×40<br>[<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip)×17<br>[<span class="wiki-icon">💾</span>自律型AIチップ](/ja/item/autonomous-ai-chip)×3 | [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/item/solar-panel-parts)×6 |
+| [<span class="wiki-icon">☀️</span>ソーラーパネル](/ja/action/craft-solar-panel) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv35 | 1日6時間 | 100% | 33 | [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/item/solar-panel-parts)×100 | [<span class="wiki-icon">☀️</span>ソーラーパネル](/ja/item/solar-panel) |
+| [<span class="wiki-icon">🔩</span>発電機の部品](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv39 | 10分 | 100% | 22 | [<span class="wiki-icon">⛽</span>ガソリン](/ja/item/gasoline)×20<br>[<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×6<br>[<span class="wiki-icon">💾</span>自律型AIチップ](/ja/item/autonomous-ai-chip)×2 | [<span class="wiki-icon">🔩</span>発電機の部品](/ja/item/generator-parts)×2 |
+| [<span class="wiki-icon">🔌</span>発電機](/ja/action/craft-generator) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv39 | 12時間 | 100% | 22 | [<span class="wiki-icon">🔩</span>発電機の部品](/ja/item/generator-parts)×100 | [<span class="wiki-icon">🔌</span>発電機](/ja/item/generator) |
+| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv42 | 30分 | 50% | 16 | [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear)×25<br>[<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium)×50<br>[<span class="wiki-icon">⚛️</span>反物質のかけら](/ja/item/antimatter-piece)×10 | [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/item/hamster-wheel-parts)×10 |
+| [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/action/craft-hamster-wheel) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv42 | 2日 | 100% | 16 | [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/item/hamster-wheel-parts)×100 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) |
+| [<span class="wiki-icon">🔩</span>かまどの部品](/ja/action/craft-stove-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv46 | 15分 | 70% | 10 | [<img class="wiki-icon" src="assets/icon/0e603d9eeb962681.svg" alt="">耐熱レンガ](/ja/item/heatproof-brick)×4<br>[<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal)×25 | [<span class="wiki-icon">🔩</span>かまどの部品](/ja/item/stove-parts)×3 |
+| [<span class="wiki-icon">🔥</span>かまど](/ja/action/craft-stove) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv46 | 1日 | 100% | 10 | [<span class="wiki-icon">🔩</span>かまどの部品](/ja/item/stove-parts)×100 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) |
+| [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/action/craft-fireplace-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 連続 | Lv50 | 30分 | 85% | 7 | [<img class="wiki-icon" src="assets/icon/0e603d9eeb962681.svg" alt="">耐熱レンガ](/ja/item/heatproof-brick)×13<br>[<span class="wiki-icon">⚫</span>石炭](/ja/item/coal)×43 | [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/item/fireplace-parts)×5 |
+| [<span class="wiki-icon">🔥</span>暖炉](/ja/action/craft-fireplace) | [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | 単発 | Lv50 | 2日 | 100% | 7 | [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/item/fireplace-parts)×100 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) |
 
 経験値%/時は1時間に上がるレベルを%で表した値（必要Lvのときのレベル1つ分＝100%）。レベル差0・装備なしの目安で、戦闘は1戦の見込み時間で割った値。消費物・取得物の「×個数 (確率)」は、×1 と 100% を省いた表記。取得物の確率は成功時（「失敗:」は失敗時）の抽選確率で、期待値は各アクションのページを見る。
 
@@ -58,20 +58,20 @@
 
 | アイテム | グループ | 装備 | 売値 | 買値 |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/item/rabbit-hutch-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2,916 | — |
-| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/item/ruining-cushion-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 2,916 | — |
-| [<span class="wiki-icon">🔩</span>井戸の部品](/ja/item/well-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 8,748 | — |
-| [<span class="wiki-icon">🔩</span>本棚の部品](/ja/item/bookshelf-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 8,748 | — |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/item/lawn-mower-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 4,374 | — |
-| [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/item/oven-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 13,122 | — |
-| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/item/solar-panel-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 39,366 | — |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/item/dog-house-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 39,366 | — |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/item/weather-box-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 39,366 | — |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/item/refrigerator-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 39,366 | — |
-| [<span class="wiki-icon">🔩</span>発電機の部品](/ja/item/generator-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 118,098 | — |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/item/hamster-wheel-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 118,098 | — |
-| [<span class="wiki-icon">🔩</span>かまどの部品](/ja/item/stove-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 5,103 | — |
-| [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/item/fireplace-parts) | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | 装備不可 | 15,309 | — |
+| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/item/rabbit-hutch-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 2,916 | — |
+| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/item/ruining-cushion-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 2,916 | — |
+| [<span class="wiki-icon">🔩</span>井戸の部品](/ja/item/well-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 8,748 | — |
+| [<span class="wiki-icon">🔩</span>本棚の部品](/ja/item/bookshelf-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 8,748 | — |
+| [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/item/lawn-mower-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 4,374 | — |
+| [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/item/oven-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 13,122 | — |
+| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/item/solar-panel-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 39,366 | — |
+| [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/item/dog-house-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 39,366 | — |
+| [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/item/weather-box-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 39,366 | — |
+| [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/item/refrigerator-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 39,366 | — |
+| [<span class="wiki-icon">🔩</span>発電機の部品](/ja/item/generator-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 118,098 | — |
+| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/item/hamster-wheel-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 118,098 | — |
+| [<span class="wiki-icon">🔩</span>かまどの部品](/ja/item/stove-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 5,103 | — |
+| [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/item/fireplace-parts) | [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | 装備不可 | 15,309 | — |
 | [<span class="wiki-icon">🐇</span>ウサギ小屋](/ja/item/rabbit-hutch) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 装備不要 | — | — |
 | [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/item/ruining-cushion) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 装備不要 | — | — |
 | [<span class="wiki-icon">🪣</span>井戸](/ja/item/well) | [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | 装備不要 | — | — |
@@ -91,7 +91,12 @@
 
 装備（装備不要のものは所持）すると、このカテゴリのアクションに効く。値はレベル差に加算される。
 
-<details><summary>全カテゴリに効くアイテム（79種）</summary>
+| アイテム | 装備 | 速度 |
+| --- | --- | --- |
+| [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) | 装備必須 | +2 |
+| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) | 装備必須 | +4 |
+
+<details><summary>全カテゴリに効くアイテム（155種）</summary>
 
 <div class="wiki-filter"></div>
 
@@ -101,6 +106,9 @@
 | [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
+| [<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad) | 消費装備 |  |  |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana) | 消費装備 |  |  |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🍎</span>リンゴ](/ja/item/apple) | 消費装備 |  |  |  |  | +2 |  |  |  |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
@@ -120,26 +128,40 @@
 | [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
 | [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
+| [<span class="wiki-icon">🍬</span>飴](/ja/item/candy) | 消費装備 |  |  |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/item/potion-bread) | 消費装備 |  |  |  |  | +6 |  |  |  |
+| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/item/escargot) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/item/stir-fried-vegetables) | 消費装備 |  |  |  |  | +8 |  |  |  |
+| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/item/meat-bun-tomato-stew) | 消費装備 |  |  |  |  | +8 |  |  |  |
+| [<span class="wiki-icon">🐟</span>焼き魚](/ja/item/grilled-fish) | 消費装備 |  |  |  |  | +10 |  |  |  |
+| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/item/beef-jerky) | 消費装備 |  |  |  |  | +11 |  |  |  |
+| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/item/burning-tofu) | 消費装備 |  |  |  |  | +11 |  |  |  |
+| [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango) | 消費装備 |  |  |  |  | +15 |  |  |  |
+| [<span class="wiki-icon">🫘</span>仙豆](/ja/item/senzu-bean) | 消費装備 |  |  |  |  | +15 |  |  |  |
 | [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
 | [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
 | [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
 | [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
 | [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
 | [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +6 |
-| [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +7 |
-| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/item/grandfather-clock) | 装備必須 |  |  |  |  |  |  |  | +9 |
-| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/item/peacock-feather) | 装備必須 |  |  |  |  |  |  |  | +2 |
-| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/item/heart-piece) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) | 装備必須 |  |  |  |  |  |  |  | +7 |
-| [<span class="wiki-icon">📜</span>遺言書](/ja/item/will-document) | 装備必須 |  |  |  |  |  |  |  | +8 |
-| [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) | 装備必須 |  |  |  |  |  |  |  | +9 |
-| [<span class="wiki-icon">✉️</span>ボトルメール](/ja/item/message-in-a-bottle) | 装備必須 |  |  |  |  |  |  |  | +4 |
-| [<span class="wiki-icon">❄️</span>スノードーム](/ja/item/snow-globe) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">🔮</span>万華鏡](/ja/item/kaleidoscope) | 装備必須 |  |  |  |  |  |  |  | +6 |
-| [<span class="wiki-icon">📼</span>無限ループするビデオテープ](/ja/item/infinite-loop-videotape) | 装備必須 |  |  |  |  |  |  |  | +8 |
-| [<span class="wiki-icon">🟡</span>金の玉](/ja/item/golden-orb) | 装備必須 |  |  |  |  |  |  |  | +10 |
+| [<span class="wiki-icon">🦷</span>ミミック](/ja/item/mimic) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +4 |
+| [<span class="wiki-icon">🏛️</span>ダビデ像](/ja/item/statue-of-david) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/item/grandfather-clock) | 装備必須 |  |  |  |  |  |  |  | +6 |
+| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/item/peacock-feather) | 装備必須 |  |  |  |  |  |  |  | +1 |
+| [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">📜</span>遺言書](/ja/item/will-document) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">📼</span>無限ループするビデオテープ](/ja/item/infinite-loop-videotape) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🟡</span>金の玉](/ja/item/golden-orb) | 装備必須 |  |  |  |  |  |  |  | +7 |
+| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/item/heart-piece) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) | 装備必須 |  |  |  |  |  |  |  | +6 |
+| [<span class="wiki-icon">✉️</span>ボトルメール](/ja/item/message-in-a-bottle) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">❄️</span>スノードーム](/ja/item/snow-globe) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<span class="wiki-icon">🔮</span>万華鏡](/ja/item/kaleidoscope) | 装備必須 |  |  |  |  |  |  |  | +4 |
 | [<span class="wiki-icon">🐇</span>ウサギ小屋](/ja/item/rabbit-hutch) | 装備不要 |  |  |  |  |  | +3 |  |  |
 | [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/item/ruining-cushion) | 装備不要 |  |  |  |  |  | +2 |  |  |
 | [<span class="wiki-icon">🪣</span>井戸](/ja/item/well) | 装備不要 |  |  |  |  |  | +6 |  |  |
@@ -154,28 +176,87 @@
 | [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
 | [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
 | [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  |  |  |  |  |
-| [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🎓</span>学ラン](/ja/item/gakuran) | 装備必須 |  | +13 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🩹</span>腹巻き](/ja/item/belly-warmer) | 装備必須 |  | +19 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  |  |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🥋</span>スケイルメイル](/ja/item/scale-mail) | 装備必須 |  | +73 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>僧侶の法衣](/ja/item/priest-robe) | 装備必須 |  | +73 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) | 装備必須 |  | +91 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>神衣](/ja/item/god-robe) | 装備必須 |  | +105 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) | 装備必須 |  | +105 |  |  |  |  |  |  |
-| [<span class="wiki-icon">👘</span>聖衣](/ja/item/holy-cloth) | 装備必須 |  | +119 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/item/box-gundam) | 装備必須 |  | +166 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) | 装備不可 | +44 | +28 | +6 | +5 | +15 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭](/ja/item/fake-beard) | 装備必須 |  | +1 | +2 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/21c4e6a062160394.svg" alt="">鍋かぶと](/ja/item/pot-helmet) | 装備必須 |  | +1 | +2 |  |  |  |  |  |
+| [<span class="wiki-icon">🧕</span>赤ずきん](/ja/item/red-hood) | 装備必須 |  | +3 | +3 |  |  |  |  |  |
+| [<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) | 装備必須 |  | +4 | +3 |  |  |  |  |  |
+| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/item/chef-hat) | 装備必須 |  | +5 | +5 |  |  |  |  |  |
+| [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) | 装備必須 |  | +6 | +5 |  |  |  |  |  |
+| [<span class="wiki-icon">👓</span>メガネ](/ja/item/glasses) | 装備必須 |  | +8 | +6 |  |  |  |  |  |
+| [<span class="wiki-icon">🩹</span>アイパッチ](/ja/item/eyepatch) | 装備必須 |  | +8 | +6 |  |  |  |  |  |
+| [<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) | 装備必須 |  | +11 | +8 |  |  |  |  |  |
+| [<span class="wiki-icon">🦷</span>入れ歯](/ja/item/dentures) | 装備必須 |  | +13 | +8 |  |  |  |  |  |
+| [<span class="wiki-icon">🥽</span>スカウター](/ja/item/scouter) | 装備必須 |  | +16 | +9 |  |  |  |  |  |
+| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/item/iron-helmet) | 装備必須 |  | +16 | +9 |  |  |  |  |  |
+| [<span class="wiki-icon">🎎</span>だるま](/ja/item/daruma) | 装備必須 |  | +20 | +11 |  |  |  |  |  |
+| [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/item/pumpkin-head) | 装備必須 |  | +26 | +11 |  |  |  |  |  |
+| [<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) | 装備必須 |  | +31 | +12 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/89b6e6d7412928e1.svg" alt="">絹の帽子](/ja/item/silk-hat) | 装備必須 |  | +31 | +12 |  |  |  |  |  |
+| [<span class="wiki-icon">👑</span>王冠](/ja/item/crown) | 装備必須 |  | +38 | +12 |  |  |  |  |  |
+| [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/item/jade-hairpin) | 装備必須 |  | +44 | +14 |  |  |  |  |  |
+| [<span class="wiki-icon">⚫</span>虚無のリング](/ja/item/void-ring) | 装備必須 |  | +44 | +14 |  |  |  |  |  |
+| [<span class="wiki-icon">👁️</span>六眼の瞳](/ja/item/six-eyes) | 装備必須 |  | +50 | +15 |  |  |  |  |  |
+| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/item/crystal-skull) | 装備必須 |  | +60 | +15 |  |  |  |  |  |
+| [<span class="wiki-icon">👁️</span>写輪眼](/ja/item/sharingan) | 装備必須 |  | +60 | +15 |  |  |  |  |  |
+| [<span class="wiki-icon">😇</span>天使の輪](/ja/item/halo) | 装備必須 |  | +70 | +15 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  | +1 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  | +1 |  |  |  |
+| [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🎓</span>学ラン](/ja/item/gakuran) | 装備必須 |  | +13 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🩹</span>腹巻き](/ja/item/belly-warmer) | 装備必須 |  | +19 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  | +2 |  |  |  |
+| [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  | +3 |  |  |  |
+| [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  | +3 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  | +3 |  |  |  |
+| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  | +3 |  |  |  |
+| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">🥋</span>スケイルメイル](/ja/item/scale-mail) | 装備必須 |  | +73 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">👘</span>僧侶の法衣](/ja/item/priest-robe) | 装備必須 |  | +73 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) | 装備必須 |  | +91 |  |  | +4 |  |  |  |
+| [<span class="wiki-icon">👘</span>神衣](/ja/item/god-robe) | 装備必須 |  | +105 |  |  | +5 |  |  |  |
+| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) | 装備必須 |  | +105 |  |  | +5 |  |  |  |
+| [<span class="wiki-icon">👘</span>聖衣](/ja/item/holy-cloth) | 装備必須 |  | +119 |  |  | +5 |  |  |  |
+| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/item/box-gundam) | 装備必須 |  | +166 |  |  | +5 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/57b5c51acdb68045.svg" alt="">ミトン](/ja/item/mitten) | 装備必須 | +2 | +1 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/16359e1fba4a9c16.svg" alt="">布の手袋](/ja/item/cloth-gloves) | 装備必須 | +2 | +1 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) | 装備必須 | +3 | +1 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🩱</span>孫の手](/ja/item/back-scratcher) | 装備必須 | +4 | +1 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) | 装備必須 | +6 | +2 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🐾</span>ネコの手](/ja/item/cat-paw) | 装備必須 | +7 | +2 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🏮</span>ランタン](/ja/item/lantern) | 装備必須 | +10 | +3 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🤲</span>救いの手](/ja/item/helping-hand) | 装備必須 | +10 | +3 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) | 消費装備 | +12 | +4 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) | 装備必須 | +16 | +5 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>革の手袋](/ja/item/leather-gloves) | 装備必須 | +19 | +6 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/item/crab-claw) | 装備必須 | +19 | +6 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/item/iron-gauntlet) | 装備必須 | +23 | +8 |  |  |  |  |  |  |
+| [<span class="wiki-icon">⏰</span>麻酔時計](/ja/item/anesthetic-watch) | 装備必須 | +31 | +10 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🔺</span>令呪](/ja/item/command-spell) | 消費装備 | +36 | +12 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/item/aegis) | 装備必須 | +45 | +15 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🛡️</span>矛盾](/ja/item/contradiction) | 装備必須 | +52 | +17 |  |  |  |  |  |  |
+| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/item/infinity-gauntlet) | 装備必須 | +90 | +30 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/da012127f6ed247b.svg" alt="">臭う靴下](/ja/item/smelly-socks) | 装備必須 |  | +1 |  | +2 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/85a5eb144a623cc8.svg" alt="">スリッパ](/ja/item/slippers) | 装備必須 |  | +1 |  | +2 |  |  |  |  |
+| [<span class="wiki-icon">👞</span>木靴](/ja/item/wooden-clogs) | 装備必須 |  | +2 |  | +3 |  |  |  |  |
+| [<span class="wiki-icon">🧦</span>レッグウォーマー](/ja/item/leg-warmer) | 装備必須 |  | +2 |  | +3 |  |  |  |  |
+| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/item/cowboy-boots) | 装備必須 |  | +3 |  | +5 |  |  |  |  |
+| [<span class="wiki-icon">👞</span>安全靴](/ja/item/safety-shoes) | 装備必須 |  | +4 |  | +5 |  |  |  |  |
+| [<span class="wiki-icon">🏊</span>浮き輪](/ja/item/swim-ring) | 装備必須 |  | +5 |  | +6 |  |  |  |  |
+| [<span class="wiki-icon">👟</span>音が鳴る靴](/ja/item/squeaky-shoes) | 装備必須 |  | +5 |  | +6 |  |  |  |  |
+| [<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) | 装備必須 |  | +6 |  | +8 |  |  |  |  |
+| [<span class="wiki-icon">🧦</span>絹の足袷](/ja/item/silk-leggings) | 装備必須 |  | +8 |  | +8 |  |  |  |  |
+| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/item/leather-boots) | 装備必須 |  | +10 |  | +9 |  |  |  |  |
+| [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/item/iron-greaves) | 装備必須 |  | +10 |  | +9 |  |  |  |  |
+| [<span class="wiki-icon">👠</span>ハイヒール](/ja/item/high-heels) | 装備必須 |  | +12 |  | +11 |  |  |  |  |
+| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/item/kick-boost-shoes) | 装備必須 |  | +16 |  | +11 |  |  |  |  |
+| [<span class="wiki-icon">👠</span>ガラスの靴](/ja/item/glass-slipper) | 装備必須 |  | +18 |  | +12 |  |  |  |  |
+| [<span class="wiki-icon">🐇</span>ウサギ尻尾](/ja/item/rabbit-tail) | 装備必須 |  | +18 |  | +12 |  |  |  |  |
+| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/item/odm-boots) | 装備必須 |  | +26 |  | +14 |  |  |  |  |
+| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/item/winged-shoes) | 装備必須 |  | +30 |  | +15 |  |  |  |  |
+| [<span class="wiki-icon">⭐</span>ワープスター](/ja/item/warp-star) | 装備必須 |  | +42 |  | +15 |  |  |  |  |
 
 </details>
 
@@ -201,7 +282,7 @@
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">拠点</div><div class="wiki-navbox-body"><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a> ・ <a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a> ・ <a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a> ・ <a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a> ・ <a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a> ・ <a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a> ・ <a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a> ・ <a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a> ・ <a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">拠点</div><div class="wiki-navbox-body"><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a> ・ <a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a> ・ <a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a> ・ <a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a> ・ <a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a> ・ <a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a> ・ <a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a> ・ <a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a> ・ <a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a> ・ <a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -212,7 +293,8 @@
 | `unlocked` | `hinted` |
 | `numeric` | `true` |
 | `standaloneProgress` | `false` |
-| `background` | （空） |
+| `backgrounds.laptop` | <a href="assets/icon/21b8a255987a6f7d.svg" target="_blank">画像</a>（data URI） |
+| `backgrounds.mobile` | <a href="assets/icon/7c3f11d721b767da.svg" target="_blank">画像</a>（data URI） |
 
 **設計ドキュメント**: [plan.md › カテゴリ設定](/ja/dev/doc/plan?id=%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E8%A8%AD%E5%AE%9A) ／ [plan.md › 進行ゲート](/ja/dev/doc/plan?id=%E9%80%B2%E8%A1%8C%E3%82%B2%E3%83%BC%E3%83%88) ／ [plan.md › カテゴリ役割分担](/ja/dev/doc/plan?id=%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E5%BD%B9%E5%89%B2%E5%88%86%E6%8B%85)
 
@@ -292,6 +374,8 @@
 **上の6項目はすべて適用した。決めることは1つも無かった**（雛形が Step 1-3 のうちに決めきっていた）。記入欄は [overview.md](../view/overview.md) の寝室・作業部屋セクション。
 
 **美術品14種の3グループは「物の姿」で分けた。** rare は各グループに 6〜9 を散らす。
+
+⚠️ **2026-11-01 に5グループ・16種へ作り直した**（天井・窓辺を追加、`ミミック`・`ダビデ像` を追加、経験値は2/3）。下の表は経緯の記録で、いまの割り当ては「寝室の作り直し（2026-11-01）」節。
 
 | group | 数 | 中身（rare） |
 |---|--:|---|
@@ -379,7 +463,10 @@
 	],
 	"numeric": true,
 	"standaloneProgress": false,
-	"background": ""
+	"backgrounds": {
+		"laptop": "（data URI の画像。site/assets/icon/21b8a255987a6f7d.svg）",
+		"mobile": "（data URI の画像。site/assets/icon/7c3f11d721b767da.svg）"
+	}
 }
 ```
 

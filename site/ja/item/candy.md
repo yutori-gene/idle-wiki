@@ -5,6 +5,14 @@
 > 口に含めば小さな幸せ。
 
 
+## 性能
+
+装備しているあいだ効く（同じグループで装備できるのは1つ）。使うたびに消費する。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
+
+| 効き先 | 回復 |
+| --- | --- |
+| 全カテゴリ | +4 |
+
 ## 入手方法
 
 ### アクション
@@ -74,7 +82,19 @@
 			"equipment": false
 		}
 	],
-	"properties": [],
+	"properties": [
+		{
+			"category": "*",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 4,
+			"speed": 0,
+			"chance": 0,
+			"experience": 0
+		}
+	],
 	"skill": ""
 }
 ```

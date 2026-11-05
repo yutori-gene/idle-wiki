@@ -1,6 +1,6 @@
 # ポーション
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">ポーション</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧪</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>26種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">ポーション</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧪</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>25種</td></tr></table></div>
 
 
 ## アイテム
@@ -19,7 +19,6 @@
 | [<span class="wiki-icon">✨</span>発光する薬](/ja/item/glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 36 |
 | [<img class="wiki-icon" src="assets/icon/ff59e56b98270140.svg" alt="">エーテル](/ja/item/ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 324 |
 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 5 |
-| [<span class="wiki-icon">🦟</span>むしよけスプレー](/ja/item/insect-repellent) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 18 |
 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 18 |
 | [<span class="wiki-icon">☕</span>眠気覚まし](/ja/item/anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 21 |
 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/item/phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 1,701 |

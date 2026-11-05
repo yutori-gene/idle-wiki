@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 |
-| --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +119 |
+| 効き先 | 攻撃 | 回復 |
+| --- | --- | --- |
+| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +119 | +10 |
 
 
 **スキル**: [<span class="wiki-icon">💪</span>不撓不屈](/ja/skill/indomitable)（装備中、戦闘の各ターンに 4% で発動）
@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/action/craft-excalibur) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv49 | 1 | 100% | 1 | 0.2 |
+| [<span class="wiki-icon">🌳</span>世界樹の根元](/ja/action/world-tree-root) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv40 | 1 | 5.1% | 0.051 | 0.01 |
 
 ## 用途
 
@@ -86,7 +86,7 @@
 			"defence": 0,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 10,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

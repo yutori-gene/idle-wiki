@@ -1,6 +1,6 @@
 # シスの箱
 
-<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">シスの箱</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚫</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv41</td></tr><tr><th>所要時間</th><td>10分</td></tr><tr><th>成功率</th><td>55%</td></tr><tr><th>経験値</th><td>360</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">シスの箱</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚫</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv41</td></tr><tr><th>所要時間</th><td>1時間30分</td></tr><tr><th>成功率</th><td>85%</td></tr><tr><th>経験値</th><td>2,097</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 暗黒の力で封印を解除する。
 
@@ -19,18 +19,18 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛓️</span>血染めの鎖](/ja/item/blood-stained-chain) ×4 | 成功時 | 86.4% | 1.9 | 11.4 |
-| [<span class="wiki-icon">🗝️</span>冥界の門の鍵](/ja/item/underworld-gate-key) ×2 | 成功時 | 59.7% | 0.657 | 3.9 |
-| [<span class="wiki-icon">👁️</span>深淵の瞳](/ja/item/abyss-eye) ×2 | 成功時 | 35.8% | 0.394 | 2.4 |
-| [<span class="wiki-icon">⚙️</span>輪廻の歯車](/ja/item/samsara-gear) ×2 | 成功時 | 21.5% | 0.237 | 1.4 |
+| [<span class="wiki-icon">⛓️</span>血染めの鎖](/ja/item/blood-stained-chain) ×4 | 成功時 | 55.9% | 1.9 | 1.3 |
+| [<span class="wiki-icon">🗝️</span>冥界の門の鍵](/ja/item/underworld-gate-key) ×2 | 成功時 | 38.6% | 0.656 | 0.437 |
+| [<span class="wiki-icon">👁️</span>深淵の瞳](/ja/item/abyss-eye) ×2 | 成功時 | 23.2% | 0.394 | 0.263 |
+| [<span class="wiki-icon">⚙️</span>輪廻の歯車](/ja/item/samsara-gear) ×2 | 成功時 | 13.9% | 0.236 | 0.158 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 55%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 85%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv41） | 10分 | 55% | 360 | 6 | 18 |
+| ±0（Lv41） | 1時間30分 | 85% | 2,097 | 0.7 | 18 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
@@ -38,11 +38,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 145,801 | 0 | 145,801 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 16,200 | 0 | 16,200 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布</a> ・ <a href="#/ja/action/open-donation-box"><img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱</a> ・ <a href="#/ja/action/open-wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/action/open-iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/action/open-cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱</a> ・ <a href="#/ja/action/open-medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱</a> ・ <a href="#/ja/action/open-tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱</a> ・ <a href="#/ja/action/open-giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/action/open-rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a></div></div>
+<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布</a> ・ <a href="#/ja/action/open-donation-box"><img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱</a> ・ <a href="#/ja/action/open-offering-box"><span class="wiki-icon">⛩️</span>賽銭箱</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/action/open-iron-maiden"><span class="wiki-icon">⛓️</span>鉄の処女</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/action/open-antarctic-ice"><span class="wiki-icon">🧊</span>南極の氷</a> ・ <a href="#/ja/action/open-beaver-lodge"><span class="wiki-icon">🦫</span>ビーバーの巣</a> ・ <a href="#/ja/action/open-rat-treasure"><span class="wiki-icon">🐀</span>ネズミの宝箱</a> ・ <a href="#/ja/action/open-dragon-nest"><span class="wiki-icon">🐉</span>ドラゴンの巣</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/action/open-fairy-gold-pot"><span class="wiki-icon">🌈</span>妖精の黄金の壺</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,9 +54,9 @@
 | `group` | `unlock` |
 | `unlocked` | `hidden` |
 | `level` | `41` |
-| `experience` | `360` |
-| `seconds` | `600` |
-| `chance` | `0.55` |
+| `experience` | `2097` |
+| `seconds` | `5400` |
+| `chance` | `0.85` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 9 |
@@ -83,9 +83,9 @@
 	"group": "unlock",
 	"unlocked": "hidden",
 	"level": 41,
-	"experience": 360,
-	"seconds": 600,
-	"chance": 0.55,
+	"experience": 2097,
+	"seconds": 5400,
+	"chance": 0.85,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -108,25 +108,25 @@
 			"type": "item",
 			"id": "blood-stained-chain",
 			"count": 4,
-			"chance": 0.864
+			"chance": 0.559
 		},
 		{
 			"type": "item",
 			"id": "underworld-gate-key",
 			"count": 2,
-			"chance": 0.597
+			"chance": 0.386
 		},
 		{
 			"type": "item",
 			"id": "abyss-eye",
 			"count": 2,
-			"chance": 0.358
+			"chance": 0.232
 		},
 		{
 			"type": "item",
 			"id": "samsara-gear",
 			"count": 2,
-			"chance": 0.215
+			"chance": 0.139
 		}
 	],
 	"progressType": "persistent",

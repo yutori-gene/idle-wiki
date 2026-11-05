@@ -1,6 +1,6 @@
 # タイムカプセル
 
-<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">タイムカプセル</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📦</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv13</td></tr><tr><th>所要時間</th><td>1分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>20</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">タイムカプセル</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📦</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv13</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>75%</td></tr><tr><th>経験値</th><td>132</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > シャベルで慎重に掘り起こす。
 
@@ -19,21 +19,25 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) ×1 | 成功時 | 96% | 0.96 | 57.6 |
-| [<span class="wiki-icon">🍞</span>パン](/ja/item/bread) ×1 | 成功時 | 84% | 0.84 | 50.4 |
-| [<span class="wiki-icon">🖋️</span>市長印](/ja/item/mayors-seal) ×1 | 成功時 | 62.2% | 0.622 | 37.3 |
-| [<span class="wiki-icon">🖋️</span>夜の王の印章](/ja/item/night-king-seal) ×1 | 成功時 | 35.8% | 0.358 | 21.5 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) ×2 | 成功時 | 64% | 0.96 | 11.5 |
+| [<span class="wiki-icon">🍞</span>パン](/ja/item/bread) ×2 | 成功時 | 56% | 0.84 | 10.1 |
+| [<span class="wiki-icon">🖋️</span>市長印](/ja/item/mayors-seal) ×1 | 成功時 | 82.9% | 0.622 | 7.5 |
+| [<span class="wiki-icon">🖋️</span>夜の王の印章](/ja/item/night-king-seal) ×1 | 成功時 | 47.7% | 0.358 | 4.3 |
+| [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/item/frozen-tuna) ×1 | 成功時 | 100% | 0.75 | 9 |
+| [<span class="wiki-icon">💍</span>取れない指輪](/ja/item/stuck-ring) ×1 | 成功時 | 61.4% | 0.461 | 5.5 |
+| [<span class="wiki-icon">🪪</span>社員証](/ja/item/employee-badge) ×1 | 成功時 | 61.4% | 0.461 | 5.5 |
+| [<span class="wiki-icon">🍩</span>バウムクーヘン](/ja/item/baumkuchen) ×1 | 成功時 | 100% | 0.75 | 9 |
 
-取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
+取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 75%（レベル差0・装備なし）で按分した値。
 
 ## 計算値
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv13） | 1分 | 100% | 20 | 60 | 343 |
-| +10（Lv23） | 49秒 | 100% | 13.33 | 73.5 | 99 |
-| +20（Lv33） | 40秒 | 100% | 8.89 | 90 | 28 |
-| +30（Lv43） | 32.7秒 | 100% | 5.93 | 110.2 | 8 |
+| ±0（Lv13） | 5分 | 75% | 132 | 12 | 340 |
+| +10（Lv23） | 4分5秒 | 81.8% | 88 | 14.7 | 107 |
+| +20（Lv33） | 3分20秒 | 87.1% | 58.67 | 18 | 33 |
+| +30（Lv43） | 2分43秒 | 91% | 39.11 | 22 | 10 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
@@ -41,11 +45,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 511 | 0 | 511 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 486 | 0 | 486 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布</a> ・ <a href="#/ja/action/open-donation-box"><img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱</a> ・ <a href="#/ja/action/open-wooden-chest"><span class="wiki-icon">🪵</span>木の宝箱</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/action/open-iron-chest"><span class="wiki-icon">🔩</span>鉄の宝箱</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/action/open-cold-chest"><span class="wiki-icon">🧊</span>冷たい宝箱</a> ・ <a href="#/ja/action/open-medium-chest"><span class="wiki-icon">🎁</span>中くらいの宝箱</a> ・ <a href="#/ja/action/open-tiny-chest"><span class="wiki-icon">🎁</span>極小の宝箱</a> ・ <a href="#/ja/action/open-giant-chest"><span class="wiki-icon">🎁</span>巨大な宝箱</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/action/open-rainbow-chest"><span class="wiki-icon">🌈</span>虹色の宝箱</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a></div></div>
+<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布</a> ・ <a href="#/ja/action/open-donation-box"><img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱</a> ・ <a href="#/ja/action/open-offering-box"><span class="wiki-icon">⛩️</span>賽銭箱</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/action/open-iron-maiden"><span class="wiki-icon">⛓️</span>鉄の処女</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/action/open-antarctic-ice"><span class="wiki-icon">🧊</span>南極の氷</a> ・ <a href="#/ja/action/open-beaver-lodge"><span class="wiki-icon">🦫</span>ビーバーの巣</a> ・ <a href="#/ja/action/open-rat-treasure"><span class="wiki-icon">🐀</span>ネズミの宝箱</a> ・ <a href="#/ja/action/open-dragon-nest"><span class="wiki-icon">🐉</span>ドラゴンの巣</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/action/open-fairy-gold-pot"><span class="wiki-icon">🌈</span>妖精の黄金の壺</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a></div></div>
 
 ## 開発者向け情報
 
@@ -57,9 +61,9 @@
 | `group` | `unlock` |
 | `unlocked` | `hidden` |
 | `level` | `13` |
-| `experience` | `20` |
-| `seconds` | `60` |
-| `chance` | `1` |
+| `experience` | `132` |
+| `seconds` | `300` |
+| `chance` | `0.75` |
 | `maximum` | `0` |
 | `progressType` | `persistent` |
 | CSV `tier` | 3 |
@@ -86,9 +90,9 @@
 	"group": "unlock",
 	"unlocked": "hidden",
 	"level": 13,
-	"experience": 20,
-	"seconds": 60,
-	"chance": 1,
+	"experience": 132,
+	"seconds": 300,
+	"chance": 0.75,
 	"maximum": 0,
 	"requirements": [
 		{
@@ -110,26 +114,50 @@
 		{
 			"type": "item",
 			"id": "coin",
-			"count": 1,
-			"chance": 0.96
+			"count": 2,
+			"chance": 0.64
 		},
 		{
 			"type": "item",
 			"id": "bread",
-			"count": 1,
-			"chance": 0.84
+			"count": 2,
+			"chance": 0.56
 		},
 		{
 			"type": "item",
 			"id": "mayors-seal",
 			"count": 1,
-			"chance": 0.622
+			"chance": 0.829
 		},
 		{
 			"type": "item",
 			"id": "night-king-seal",
 			"count": 1,
-			"chance": 0.358
+			"chance": 0.477
+		},
+		{
+			"type": "item",
+			"id": "frozen-tuna",
+			"count": 1,
+			"chance": 1
+		},
+		{
+			"type": "item",
+			"id": "stuck-ring",
+			"count": 1,
+			"chance": 0.614
+		},
+		{
+			"type": "item",
+			"id": "employee-badge",
+			"count": 1,
+			"chance": 0.614
+		},
+		{
+			"type": "item",
+			"id": "baumkuchen",
+			"count": 1,
+			"chance": 1
 		}
 	],
 	"progressType": "persistent",

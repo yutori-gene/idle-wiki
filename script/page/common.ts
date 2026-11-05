@@ -178,10 +178,9 @@ export function developerSection(context: Context, csvName: "category" | "action
 	const row = csvName ? model.csvRow(csvName, id) : undefined;
 	const rows: string[][] = [["id", `\`${id}\``]];
 	for (const [key, value] of Object.entries(raw)) {
-		if (typeof value === "object") continue;
-		const image = typeof value === "string" ? imageFile(value) : undefined;
-		const cell = value === "" ? "（空）" : image ? `<a href="${image.file}" target="_blank">画像</a>（data URI）` : `\`${escapeMarkdown(String(value))}\``;
-		rows.push([`\`${key}\``, cell]);
+		if (typeof value !== "object") rows.push([`\`${key}\``, developerCell(value)]);
+		// 端末ごとの背景画像（backgrounds）は「backgrounds.端末」の行に展開する。それ以外の入れ子は JSON にだけ載せる
+		else if (key === "backgrounds" && isStringMap(value)) for (const [device, text] of Object.entries(value)) rows.push([`\`${key}.${device}\``, developerCell(text)]);
 	}
 	if (row) for (const column of CSV_ONLY_COLUMNS) if (row[column]) rows.push([`CSV \`${column}\``, escapeMarkdown(row[column])]);
 
@@ -195,6 +194,20 @@ export function developerSection(context: Context, csvName: "category" | "action
 			details("ワールド定義（JSON）", rawJson(raw)),
 		),
 	);
+}
+
+/** 開発者向け情報の表の値のセル。data URI の画像は書き出したファイルへの「画像」リンクにする（RULES.md「表記」） */
+export function developerCell(value: unknown): string {
+	if (value === "") return "（空）";
+	const image = typeof value === "string" ? imageFile(value) : undefined;
+	return image ? `<a href="${image.file}" target="_blank">画像</a>（data URI）` : `\`${escapeMarkdown(String(value))}\``;
+}
+
+/** 値がすべて文字列の（空でない）オブジェクトか */
+function isStringMap(value: unknown): value is { [key: string]: string } {
+	if (typeof value !== "object" || value === null || Array.isArray(value)) return false;
+	const values = Object.values(value);
+	return values.length > 0 && values.every((child) => typeof child === "string");
 }
 
 /** ワールド定義の生の JSON（コードブロック）。data URI の画像は長いので、書き出したファイルの場所に置き換えて載せる（RULES.md「表記」） */

@@ -1,6 +1,6 @@
 # 栽培
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">栽培</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌱</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>18本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">栽培</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌱</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>19本</td></tr></table></div>
 
 
 ## アクション
@@ -12,6 +12,7 @@
 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/action/grow-carrot) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 連続 |
 | [<span class="wiki-icon">🪱</span>ミミズの切断](/ja/action/cut-earthworm) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv1 | 連続 |
 | [<span class="wiki-icon">🎃</span>カボチャ](/ja/action/grow-pumpkin) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv4 | 連続 |
+| [<span class="wiki-icon">🍅</span>トマト](/ja/action/grow-tomato) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv5 | 連続 |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/action/grow-garlic) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv7 | 連続 |
 | [<span class="wiki-icon">🌾</span>小麦](/ja/action/grow-wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv10 | 連続 |
 | [<span class="wiki-icon">🥬</span>サラダ菜](/ja/action/grow-lettuce) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv13 | 連続 |

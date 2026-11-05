@@ -1,6 +1,6 @@
 # グラディウス（分解）
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">グラディウス（分解）</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗡️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv37</td></tr><tr><th>所要時間</th><td>35分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>600</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#463476"><div class="wiki-infobox-title">グラディウス（分解）</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗡️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv37</td></tr><tr><th>所要時間</th><td>35分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>600</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > グラディウスを溶かして金属に戻す。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv37以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) Lv37以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">🗡️</span>グラディウス](/ja/item/gladius) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -39,14 +39,14 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#606a74"><div class="wiki-navbox-title">近接武器のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/disassemble-wooden-stick"><img class="wiki-icon" src="assets/icon/ed150292d05a82bb.svg" alt="">木の棒（分解）</a> ・ <a href="#/ja/action/disassemble-green-onion"><img class="wiki-icon" src="assets/icon/5273f1d36753f2b1.svg" alt="">ネギ（分解）</a> ・ <a href="#/ja/action/disassemble-laundry-pole"><span class="wiki-icon">🎏</span>物干し竿（分解）</a> ・ <a href="#/ja/action/disassemble-baguette"><span class="wiki-icon">🥖</span>フランスパン（分解）</a> ・ <a href="#/ja/action/disassemble-frozen-tuna"><span class="wiki-icon">🐟</span>冷凍マグロ（分解）</a> ・ <a href="#/ja/action/disassemble-hammer"><span class="wiki-icon">🔨</span>ハンマー（分解）</a> ・ <a href="#/ja/action/disassemble-iron-rod"><span class="wiki-icon">🔩</span>鉄の棒（分解）</a> ・ <a href="#/ja/action/disassemble-nail-bat"><span class="wiki-icon">🏏</span>釘バット（分解）</a> ・ <a href="#/ja/action/disassemble-crutch"><span class="wiki-icon">🦯</span>松葉杖（分解）</a> ・ <a href="#/ja/action/disassemble-attache-case"><span class="wiki-icon">💼</span>アタッシュケース（分解）</a> ・ <a href="#/ja/action/disassemble-pico-hammer"><span class="wiki-icon">🔨</span>ピコハンマー（分解）</a> ・ <a href="#/ja/action/disassemble-guitar"><img class="wiki-icon" src="assets/icon/2340975207585dcd.svg" alt="">ギター（分解）</a> ・ <a href="#/ja/action/disassemble-sasumata"><span class="wiki-icon">🔱</span>さすまた（分解）</a> ・ <a href="#/ja/action/disassemble-double-edged-sword"><span class="wiki-icon">⚔️</span>諸刃の剣（分解）</a> ・ <a href="#/ja/action/disassemble-gladius"><span class="wiki-icon">🗡️</span>グラディウス（分解）</a> ・ <a href="#/ja/action/craft-iron-rod"><span class="wiki-icon">🔩</span>鉄の棒</a> ・ <a href="#/ja/action/craft-hammer"><span class="wiki-icon">🔨</span>ハンマー</a> ・ <a href="#/ja/action/craft-frozen-tuna"><span class="wiki-icon">🐟</span>冷凍マグロ</a> ・ <a href="#/ja/action/craft-sasumata"><span class="wiki-icon">🔱</span>さすまた</a> ・ <a href="#/ja/action/craft-guitar"><img class="wiki-icon" src="assets/icon/67e01eae26cd6f03.svg" alt="">ギター</a> ・ <a href="#/ja/action/craft-gladius"><span class="wiki-icon">🗡️</span>グラディウス</a> ・ <a href="#/ja/action/craft-double-edged-sword"><span class="wiki-icon">⚔️</span>諸刃の剣</a> ・ <a href="#/ja/action/craft-muramasa"><span class="wiki-icon">🗡️</span>ムラマサ</a> ・ <a href="#/ja/action/craft-sealing-staff"><span class="wiki-icon">🪄</span>封印の杖</a> ・ <a href="#/ja/action/craft-beam-saber"><span class="wiki-icon">⚔️</span>ビームサーベル</a> ・ <a href="#/ja/action/craft-excalibur"><span class="wiki-icon">⚔️</span>エクスカリバー</a> ・ <a href="#/ja/action/craft-key-blade"><span class="wiki-icon">🗝️</span>🔑ブレード</a> ・ <a href="#/ja/action/craft-ruyi-staff"><span class="wiki-icon">🪄</span>如意棒</a> ・ <a href="#/ja/action/craft-master-sword"><span class="wiki-icon">⚔️</span>マスターソード</a></div></div>
+<div class="wiki-navbox" style="--accent:#463476"><div class="wiki-navbox-title">工房のアクション</div><div class="wiki-navbox-body">64件。一覧は <a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a> を参照</div></div>
 
 ## 開発者向け情報
 
 | 項目 | 値 |
 | --- | --- |
 | id | `disassemble-gladius` |
-| `category` | `melee-weapon` |
+| `category` | `atelier` |
 | `attribute` | （空） |
 | `group` | `disassemble` |
 | `unlocked` | `hidden` |
@@ -75,7 +75,7 @@
 		},
 		"color": ""
 	},
-	"category": "melee-weapon",
+	"category": "atelier",
 	"attribute": "",
 	"group": "disassemble",
 	"unlocked": "hidden",

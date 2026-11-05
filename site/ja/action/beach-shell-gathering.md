@@ -20,7 +20,6 @@
 | [<span class="wiki-icon">🪵</span>流木](/ja/item/driftwood) ×5 | 成功時 | 56% | 1.4 | 126 |
 | [<span class="wiki-icon">🪨</span>砂浜の石](/ja/item/beach-stone) ×5 | 成功時 | 56% | 1.4 | 126 |
 | [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) ×5 | 成功時 | 56% | 1.4 | 126 |
-| [<span class="wiki-icon">🩹</span>腹巻き](/ja/item/belly-warmer) ×1 | 成功時 | 8.64% | 0.043 | 3.9 |
 | [<span class="wiki-icon">🎣</span>釣竿](/ja/item/fishing-rod) ×2 | 成功時 | 25.9% | 0.259 | 23.3 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
@@ -40,7 +39,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 4,142 | 0 | 4,142 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 4,002 | 0 | 4,002 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -120,12 +119,6 @@
 			"id": "salt",
 			"count": 5,
 			"chance": 0.56
-		},
-		{
-			"type": "item",
-			"id": "belly-warmer",
-			"count": 1,
-			"chance": 0.0864
 		},
 		{
 			"type": "item",

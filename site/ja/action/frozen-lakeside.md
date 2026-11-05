@@ -22,8 +22,7 @@
 | [<span class="wiki-icon">❄️</span>霜のかけら](/ja/item/frost-piece) ×3 | 成功時 | 48% | 0.72 | 51.8 |
 | [<span class="wiki-icon">🐟</span>タラ](/ja/item/cod) ×3 | 成功時 | 48% | 0.72 | 51.8 |
 | [<span class="wiki-icon">🌌</span>極夜の結晶](/ja/item/polar-night-crystal) ×1 | 成功時 | 100% | 0.5 | 36 |
-| [<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) ×1 | 成功時 | 8.64% | 0.043 | 3.1 |
-| [<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) ×1 | 成功時 | 10.4% | 0.052 | 3.7 |
+| [<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) ×2 | 成功時 | 27.8% | 0.278 | 20 |
 | [<span class="wiki-icon">🐾</span>雪うさぎの足跡](/ja/item/snow-rabbit-track) ×3 | 成功時 | 57.6% | 0.864 | 62.2 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
@@ -43,7 +42,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 51,399 | 0 | 51,399 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 53,455 | 0 | 53,455 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -138,15 +137,9 @@
 		},
 		{
 			"type": "item",
-			"id": "ice-skate",
-			"count": 1,
-			"chance": 0.0864
-		},
-		{
-			"type": "item",
 			"id": "sea-urchin",
-			"count": 1,
-			"chance": 0.104
+			"count": 2,
+			"chance": 0.278
 		},
 		{
 			"type": "item",

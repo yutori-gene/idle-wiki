@@ -20,7 +20,6 @@
 | [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
 | [<img class="wiki-icon" src="assets/icon/ed2a01dd9f637329.svg" alt="">空き缶](/ja/item/empty-can) ×5 | 成功時 | 56% | 1.4 | 504 |
 | [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) ×1 | 成功時 | 10.4% | 0.052 | 18.7 |
-| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) ×1 | 成功時 | 21.6% | 0.108 | 38.9 |
 | [<img class="wiki-icon" src="assets/icon/7e7674087d725bf6.svg" alt="">シャボン玉](/ja/item/soap-bubble) ×2 | 成功時 | 21.6% | 0.216 | 77.8 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
@@ -40,7 +39,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 5,748 | 0 | 5,748 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 5,631 | 0 | 5,631 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -132,12 +131,6 @@
 			"id": "bug-net",
 			"count": 1,
 			"chance": 0.104
-		},
-		{
-			"type": "item",
-			"id": "apron",
-			"count": 1,
-			"chance": 0.216
 		},
 		{
 			"type": "item",

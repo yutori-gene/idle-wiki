@@ -11,8 +11,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 1 | 0.8% | 0.004 | 0.011 |
+| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 1 | 0.8% | 0.004 | 0.007 |
 | [<span class="wiki-icon">☣️</span>地下廃棄プラント](/ja/action/underground-disposal-plant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv40 | 1 | 25.9% | 0.259 | 0.086 |
+| [<span class="wiki-icon">🔩</span>鉄くず（分解）](/ja/action/disassemble-scrap-iron) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv30 | 1 | 100% | 1 | 2 |
+| [<span class="wiki-icon">🔩</span>パイプ（分解）](/ja/action/disassemble-pipe) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv30 | 1 | 100% | 1 | 2 |
 
 ## 用途
 
@@ -20,10 +22,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/67e01eae26cd6f03.svg" alt="">ギター](/ja/action/craft-guitar) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv31 | 3 | 100% |  |
-| [<span class="wiki-icon">🚰</span>蛇口のハンドル](/ja/action/craft-faucet-handle) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv31 | 2 | 100% |  |
+| [<span class="wiki-icon">🚰</span>蛇口のハンドル](/ja/action/craft-faucet-handle) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv31 | 2 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

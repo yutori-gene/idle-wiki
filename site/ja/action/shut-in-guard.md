@@ -18,15 +18,12 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) ×1 | 成功時 | 36.7% | 0.184 | 29.1 |
-| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) ×1 | 成功時 | 0.076% | 0 | 0.06 |
-| [<img class="wiki-icon" src="assets/icon/263d98048a36520b.svg" alt="">耳栓](/ja/item/earplug) ×1 | 成功時 | 0.317% | 0.002 | 0.251 |
-| [<img class="wiki-icon" src="assets/icon/9527ad02ab385f84.svg" alt="">電卓](/ja/item/calculator) ×1 | 成功時 | 0.044% | 0 | 0.035 |
-| [<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) ×1 | 成功時 | 3.52% | 0.018 | 2.8 |
-| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) ×1 | 成功時 | 3.52% | 0.018 | 2.8 |
-| [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg) ×1 | 成功時 | 8.45% | 0.042 | 6.7 |
-| [<img class="wiki-icon" src="assets/icon/eea6ffe630b18ce9.svg" alt="">食べられる指輪](/ja/item/edible-ring) ×1 | 成功時 | 8.45% | 0.042 | 6.7 |
-| [<img class="wiki-icon" src="assets/icon/2a12bcdb457a4a71.svg" alt="">財布](/ja/item/wallet) ×1 | 成功時 | 0.317% | 0.002 | 0.251 |
+| [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) ×1 | 成功時 | 36.7% | 0.184 | 28.5 |
+| [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) ×1 | 成功時 | 0.076% | 0 | 0.059 |
+| [<img class="wiki-icon" src="assets/icon/263d98048a36520b.svg" alt="">耳栓](/ja/item/earplug) ×1 | 成功時 | 0.317% | 0.002 | 0.246 |
+| [<img class="wiki-icon" src="assets/icon/9527ad02ab385f84.svg" alt="">電卓](/ja/item/calculator) ×1 | 成功時 | 0.044% | 0 | 0.034 |
+| [<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) ×1 | 成功時 | 3.52% | 0.018 | 2.7 |
+| [<img class="wiki-icon" src="assets/icon/2a12bcdb457a4a71.svg" alt="">財布](/ja/item/wallet) ×1 | 成功時 | 0.317% | 0.002 | 0.246 |
 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) ×1 | 成功時 | 3.67% | 0.018 | 2.9 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
@@ -37,7 +34,7 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 20 | 5 | 5 | 0 | 13 |
+| 20 | 5 | 9 | 2 | 14 |
 
 **敵のスキル**
 
@@ -50,10 +47,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv5） | 16.3% | 4.5% | 75% | 23.1% | 14.3% | 9.3 | 32.3% | 22.7秒 | 連戦で少しずつ消耗する |
-| +10（Lv15） | 24.5% | 3.67% | 81.8% | 26.9% | 20% | 6.1 | 16.4% | 12.8秒 | 放置で連戦できる |
-| +20（Lv25） | 36.7% | 3% | 87.1% | 31.1% | 27.3% | 3.4 | 7.12% | 6.5秒 | 放置で連戦できる |
-| +30（Lv35） | 55.1% | 2.45% | 91% | 35.6% | 36% | 2.2 | 3.47% | 3.8秒 | 放置で連戦できる |
+| ±0（Lv5） | 16.3% | 4.5% | 73.4% | 21.7% | 13.8% | 9.5 | 33.6% | 23.2秒 | 連戦で少しずつ消耗する |
+| +10（Lv15） | 24.5% | 3.67% | 80.6% | 25.4% | 19.3% | 6.2 | 17% | 12.9秒 | 放置で連戦できる |
+| +20（Lv25） | 36.7% | 3% | 86.2% | 29.4% | 26.5% | 3.5 | 7.37% | 6.6秒 | 放置で連戦できる |
+| +30（Lv35） | 55.1% | 2.45% | 90.3% | 33.8% | 35% | 2.2 | 3.59% | 3.8秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -61,10 +58,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv5） | 2.2秒 | 50% | 1.26 | 158.4 | 66 |
-| +10（Lv15） | 1.8秒 | 60% | 0.84 | 281.8 | 33 |
-| +20（Lv25） | 1.5秒 | 69.2% | 0.56 | 552.3 | 17 |
-| +30（Lv35） | 1.2秒 | 77.1% | 0.37 | 940.2 | 8 |
+| ±0（Lv5） | 2.2秒 | 50% | 1.26 | 155.4 | 64 |
+| +10（Lv15） | 1.8秒 | 60% | 0.84 | 278.2 | 33 |
+| +20（Lv25） | 1.5秒 | 69.2% | 0.56 | 547.6 | 17 |
+| +30（Lv35） | 1.2秒 | 77.1% | 0.37 | 935.3 | 8 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
@@ -72,7 +69,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 341 | 52 | 289 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 287 | 51 | 236 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -164,24 +161,6 @@
 		},
 		{
 			"type": "item",
-			"id": "tank-top",
-			"count": 1,
-			"chance": 0.0352
-		},
-		{
-			"type": "item",
-			"id": "egg",
-			"count": 1,
-			"chance": 0.0845
-		},
-		{
-			"type": "item",
-			"id": "edible-ring",
-			"count": 1,
-			"chance": 0.0845
-		},
-		{
-			"type": "item",
 			"id": "wallet",
 			"count": 1,
 			"chance": 0.00317
@@ -197,9 +176,9 @@
 	"property": {
 		"attack": 20,
 		"defence": 5,
-		"accuracy": 5,
-		"evasion": 0,
-		"restore": 13
+		"accuracy": 9,
+		"evasion": 2,
+		"restore": 14
 	},
 	"skills": [
 		"sound-sleep",

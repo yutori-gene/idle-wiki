@@ -18,6 +18,7 @@
 | [<span class="wiki-icon">🍇</span>星の果実](/ja/item/star-fruit) ×3 | 成功時 | 63.6% | 1.9 | 0.382 |
 | [<span class="wiki-icon">🔮</span>進化の石](/ja/item/evolution-stone) ×2 | 成功時 | 41.8% | 0.836 | 0.167 |
 | [<span class="wiki-icon">🌳</span>世界樹の実](/ja/item/world-tree-fruit) ×1 | 成功時 | 4.98% | 0.05 | 0.01 |
+| [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/item/excalibur) ×1 | 成功時 | 5.1% | 0.051 | 0.01 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -34,7 +35,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 51 | 0 | 51 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 75 | 0 | 75 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -102,6 +103,12 @@
 			"id": "world-tree-fruit",
 			"count": 1,
 			"chance": 0.0498
+		},
+		{
+			"type": "item",
+			"id": "excalibur",
+			"count": 1,
+			"chance": 0.051
 		}
 	],
 	"progressType": "single",

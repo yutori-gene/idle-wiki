@@ -20,11 +20,6 @@
 | [<span class="wiki-icon">🧊</span>永久凍土のかけら](/ja/item/permafrost-piece) ×2 | 成功時 | 100% | 2 | 0.8 |
 | [<span class="wiki-icon">🧊</span>凍った琥珀](/ja/item/frozen-amber) ×1 | 成功時 | 100% | 1 | 0.4 |
 | [<span class="wiki-icon">❄️</span>氷の結晶](/ja/item/ice-crystal) ×1 | 成功時 | 12.4% | 0.124 | 0.05 |
-| [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) ×1 | 成功時 | 100% | 1 | 0.4 |
-| [<span class="wiki-icon">🧦</span>絹の足袷](/ja/item/silk-leggings) ×1 | 成功時 | 100% | 1 | 0.4 |
-| [<span class="wiki-icon">💼</span>アタッシュケース](/ja/item/attache-case) ×1 | 成功時 | 100% | 1 | 0.4 |
-| [<span class="wiki-icon">✨</span>閃光弾](/ja/item/flashbang) ×1 | 成功時 | 100% | 1 | 0.4 |
-| [<span class="wiki-icon">🍀</span>-4葉のクローバー](/ja/item/minus-four-leaf-clover) ×1 | 成功時 | 100% | 1 | 0.4 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -43,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 884 | 0 | 884 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 614 | 0 | 614 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -123,36 +118,6 @@
 			"id": "ice-crystal",
 			"count": 1,
 			"chance": 0.124
-		},
-		{
-			"type": "item",
-			"id": "silk-clothes",
-			"count": 1,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "silk-leggings",
-			"count": 1,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "attache-case",
-			"count": 1,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "flashbang",
-			"count": 1,
-			"chance": 1
-		},
-		{
-			"type": "item",
-			"id": "minus-four-leaf-clover",
-			"count": 1,
-			"chance": 1
 		}
 	],
 	"progressType": "single",

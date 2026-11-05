@@ -13,9 +13,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass) ×1 | 成功時 | 2.56% | 0.013 | 1.5 |
-| [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) ×1 | 成功時 | 1.28% | 0.006 | 0.738 |
-| [<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) ×1 | 成功時 | 1.54% | 0.008 | 0.888 |
+| [<img class="wiki-icon" src="assets/icon/facf4dde74b70ddb.svg" alt="">ガラス](/ja/item/glass) ×1 | 成功時 | 2.56% | 0.013 | 1.3 |
+| [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) ×1 | 成功時 | 1.28% | 0.006 | 0.65 |
+| [<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) ×1 | 成功時 | 1.54% | 0.008 | 0.782 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -25,7 +25,7 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 38 | 13 | 5 | 0 | 10 |
+| 40 | 16 | 9 | 3 | 13 |
 
 **敵のスキル**
 
@@ -35,10 +35,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv17） | 11.8% | 6.48% | 75% | 23.1% | 15.8% | 12 | 59.8% | 31.2秒 | 連戦で少しずつ消耗する |
-| +10（Lv27） | 17.7% | 5.29% | 81.8% | 26.9% | 22% | 7.3 | 28.4% | 16.3秒 | 連戦で少しずつ消耗する |
-| +20（Lv37） | 26.6% | 4.32% | 87.1% | 31.1% | 29.7% | 4.6 | 13.7% | 8.9秒 | 放置で連戦できる |
-| +30（Lv47） | 39.8% | 3.53% | 91% | 35.6% | 38.8% | 3.3 | 7.49% | 5.6秒 | 放置で連戦できる |
+| ±0（Lv17） | 10.5% | 6.75% | 72.7% | 21.7% | 14.3% | 13.8 | 72.7% | 35.4秒 | 連戦で少しずつ消耗する |
+| +10（Lv27） | 15.7% | 5.51% | 79.9% | 25.4% | 20% | 8.8 | 36% | 19.1秒 | 連戦で少しずつ消耗する |
+| +20（Lv37） | 23.5% | 4.5% | 85.7% | 29.4% | 27.3% | 5.8 | 18.5% | 10.9秒 | 放置で連戦できる |
+| +30（Lv47） | 35.3% | 3.67% | 90% | 33.8% | 36% | 3.3 | 8.11% | 5.7秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -46,10 +46,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv17） | 2.4秒 | 50% | 1.37 | 115.4 | 15 |
-| +10（Lv27） | 2秒 | 60% | 0.91 | 220.5 | 8 |
-| +20（Lv37） | 1.6秒 | 69.2% | 0.61 | 402.3 | 4 |
-| +30（Lv47） | 1.3秒 | 77.1% | 0.41 | 641.4 | 2 |
+| ±0（Lv17） | 2.4秒 | 50% | 1.37 | 101.6 | 13 |
+| +10（Lv27） | 2秒 | 60% | 0.91 | 188.3 | 7 |
+| +20（Lv37） | 1.6秒 | 69.2% | 0.61 | 329.1 | 3 |
+| +30（Lv47） | 1.3秒 | 77.1% | 0.41 | 635.7 | 2 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
@@ -57,11 +57,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 14 | 0 | 14 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 12 | 0 | 12 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#856654"><div class="wiki-navbox-title">街のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/alley-search"><span class="wiki-icon">🔦</span>路地裏の探し物</a> ・ <a href="#/ja/action/midnight-street"><span class="wiki-icon">🌃</span>深夜の路上</a> ・ <a href="#/ja/action/rummage-trash-can"><span class="wiki-icon">🗑️</span>ゴミ箱あさり</a> ・ <a href="#/ja/action/cult-leader"><span class="wiki-icon">🙏</span>教祖</a> ・ <a href="#/ja/action/bandit"><span class="wiki-icon">🗡️</span>山賊</a> ・ <a href="#/ja/action/stray-dog-pack"><span class="wiki-icon">🐕</span>野良犬の群れ</a> ・ <a href="#/ja/action/shaman"><span class="wiki-icon">🧙</span>シャーマン</a> ・ <a href="#/ja/action/doppelganger"><span class="wiki-icon">👥</span>ドッペルゲンガー</a> ・ <a href="#/ja/action/gremlin"><span class="wiki-icon">👺</span>グレムリン</a> ・ <a href="#/ja/action/zombie"><span class="wiki-icon">🧟</span>ゾンビ</a> ・ <a href="#/ja/action/wizard"><span class="wiki-icon">🧙</span>魔法使い</a> ・ <a href="#/ja/action/thief"><span class="wiki-icon">🥷</span>盗賊</a> ・ <a href="#/ja/action/bounty-hunter"><span class="wiki-icon">🤠</span>賞金稼ぎ</a> ・ <a href="#/ja/action/sewer-rat"><span class="wiki-icon">🐀</span>ドブネズミ</a> ・ <a href="#/ja/action/condemned-building"><span class="wiki-icon">🏚️</span>取り壊し前の廃ビル</a> ・ <a href="#/ja/action/sewer-rumor"><span class="wiki-icon">🕳️</span>地下水路の噂</a> ・ <a href="#/ja/action/backstreet-informant"><span class="wiki-icon">🕵️</span>裏通りの情報屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#856654"><div class="wiki-navbox-title">街のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/alley-search"><span class="wiki-icon">🔦</span>路地裏の探し物</a> ・ <a href="#/ja/action/midnight-street"><span class="wiki-icon">🌃</span>深夜の路上</a> ・ <a href="#/ja/action/rummage-trash-can"><span class="wiki-icon">🗑️</span>ゴミ箱あさり</a> ・ <a href="#/ja/action/rampaging-vending-machine"><span class="wiki-icon">🥤</span>暴れ自販機</a> ・ <a href="#/ja/action/cult-leader"><span class="wiki-icon">🙏</span>教祖</a> ・ <a href="#/ja/action/bandit"><span class="wiki-icon">🗡️</span>山賊</a> ・ <a href="#/ja/action/stray-dog-pack"><span class="wiki-icon">🐕</span>野良犬の群れ</a> ・ <a href="#/ja/action/shaman"><span class="wiki-icon">🧙</span>シャーマン</a> ・ <a href="#/ja/action/doppelganger"><span class="wiki-icon">👥</span>ドッペルゲンガー</a> ・ <a href="#/ja/action/gremlin"><span class="wiki-icon">👺</span>グレムリン</a> ・ <a href="#/ja/action/zombie"><span class="wiki-icon">🧟</span>ゾンビ</a> ・ <a href="#/ja/action/wizard"><span class="wiki-icon">🧙</span>魔法使い</a> ・ <a href="#/ja/action/thief"><span class="wiki-icon">🥷</span>盗賊</a> ・ <a href="#/ja/action/bounty-hunter"><span class="wiki-icon">🤠</span>賞金稼ぎ</a> ・ <a href="#/ja/action/sewer-rat"><span class="wiki-icon">🐀</span>ドブネズミ</a> ・ <a href="#/ja/action/condemned-building"><span class="wiki-icon">🏚️</span>取り壊し前の廃ビル</a> ・ <a href="#/ja/action/sewer-rumor"><span class="wiki-icon">🕳️</span>地下水路の噂</a> ・ <a href="#/ja/action/backstreet-informant"><span class="wiki-icon">🕵️</span>裏通りの情報屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -130,11 +130,11 @@
 	],
 	"progressType": "stamina",
 	"property": {
-		"attack": 38,
-		"defence": 13,
-		"accuracy": 5,
-		"evasion": 0,
-		"restore": 10
+		"attack": 40,
+		"defence": 16,
+		"accuracy": 9,
+		"evasion": 3,
+		"restore": 13
 	},
 	"skills": [
 		"indomitable"

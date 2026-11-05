@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 |
-| --- | --- |
-| 全カテゴリ | +13 |
+| 効き先 | 防御 | 回復 |
+| --- | --- | --- |
+| 全カテゴリ | +13 | +2 |
 
 
 **スキル**: [<span class="wiki-icon">🧥</span>厚着](/ja/skill/heavy-clothing)（装備中、戦闘の各ターンに 11% で発動）
@@ -86,7 +86,7 @@
 			"defence": 13,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 2,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

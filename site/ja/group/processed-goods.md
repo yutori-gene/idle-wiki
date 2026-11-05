@@ -1,6 +1,6 @@
 # 加工品
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">加工品</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚙️</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>7種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">加工品</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚙️</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>6種</td></tr></table></div>
 
 
 ## アイテム
@@ -13,7 +13,6 @@
 | [<span class="wiki-icon">🥩</span>培養肉](/ja/item/cultured-meat) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 54 |
 | [<span class="wiki-icon">🥩</span>ソイミート](/ja/item/soy-meat) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 54 |
 | [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 162 |
-| [<span class="wiki-icon">🔵</span>アークリアクター](/ja/item/arc-reactor) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 1,458 |
 
 ## 開発者向け情報
 

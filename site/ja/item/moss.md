@@ -23,15 +23,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>鉄の棒](/ja/action/craft-iron-rod) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv16 | 15 | 100% |  |
-| [<span class="wiki-icon">🔨</span>ハンマー](/ja/action/craft-hammer) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv16 | 15 | 100% |  |
-| [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/action/craft-frozen-tuna) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv17 | 15 | 100% |  |
-| [<span class="wiki-icon">🧱</span>レンガ](/ja/action/craft-brick) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv13 | 15 | 100% |  |
-| [<span class="wiki-icon">⛄</span>雪玉](/ja/action/craft-snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | Lv14 | 15 | 100% |  |
+| [<span class="wiki-icon">⛄</span>雪玉](/ja/action/craft-snowball) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv14 | 15 | 100% |  |
 | [<span class="wiki-icon">🐾</span>ネコの手](/ja/action/craft-cat-paw) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
-| [<span class="wiki-icon">👞</span>安全靴](/ja/action/craft-safety-shoes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv16 | 15 | 100% |  |
-| [<span class="wiki-icon">😷</span>マスク](/ja/action/craft-mask) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv17 | 15 | 100% |  |
-| [<span class="wiki-icon">🥦</span>ブロッコリー](/ja/action/craft-broccoli) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv13 | 3 | 100% |  |
 
 ### 条件にしているもの
 
@@ -45,7 +38,7 @@
 
 - [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv10以上
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

@@ -17,9 +17,6 @@
 | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧜</span>人魚の鱗](/ja/item/mermaid-scale) ×2 | 成功時 | 5.18% | 0.104 | 0.052 |
 | [<span class="wiki-icon">🪙</span>呪いのコイン](/ja/item/cursed-coin) ×1 | 成功時 | 10.4% | 0.104 | 0.052 |
-| [<span class="wiki-icon">🏮</span>ランタン](/ja/item/lantern) ×1 | 成功時 | 25.9% | 0.259 | 0.13 |
-| [<span class="wiki-icon">🌼</span>ファイアフラワー](/ja/item/fire-flower) ×1 | 成功時 | 10.4% | 0.104 | 0.052 |
-| [<span class="wiki-icon">🔮</span>水晶のペンダント](/ja/item/crystal-pendant) ×1 | 成功時 | 10.4% | 0.104 | 0.052 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -36,7 +33,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 27 | 0 | 27 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 11 | 0 | 11 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -96,24 +93,6 @@
 		{
 			"type": "item",
 			"id": "cursed-coin",
-			"count": 1,
-			"chance": 0.104
-		},
-		{
-			"type": "item",
-			"id": "lantern",
-			"count": 1,
-			"chance": 0.259
-		},
-		{
-			"type": "item",
-			"id": "fire-flower",
-			"count": 1,
-			"chance": 0.104
-		},
-		{
-			"type": "item",
-			"id": "crystal-pendant",
 			"count": 1,
 			"chance": 0.104
 		}

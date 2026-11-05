@@ -13,6 +13,7 @@ hunt,討伐,⚔️,action
 explore,探索,🔦,action
 disassemble,分解,♻️,action
 synthesize,合成,🔨,action
+upgrade,グレードアップ,⏫,action
 purchase,購入,🛒,action
 process,加工,🔧,action
 brew,調合,⚗️,action
@@ -23,9 +24,6 @@ produce,生産,🏭,action
 craft,製作,🔨,action
 event,イベント,🎬,action
 seedling,種苗,🌰,item
-crushing,粉砕,⚒️,item
-distilling,蒸留,🧫,item
-melting,溶解,🧫,item
 ingredient,食材,🥕,"action,item"
 cooking,料理,🍽️,"action,item"
 herb,薬草,🌿,item
@@ -33,7 +31,9 @@ potion,ポーション,🧪,item
 material,素材,🪵,item
 processed-goods,加工品,⚙️,item
 recycled-material,リサイクル素材,♻️,item
-infrastructure,インフラ,🏗️,"action,item"
+parts,部品,🔩,"action,item"
+assembly,組立,🪛,action
+infrastructure,インフラ,🏗️,item
 container,容器,🎒,item
 tool,道具,🧰,item
 special,特別品,💎,item
@@ -42,9 +42,12 @@ junk,ごみ,🗑️,item
 book,本,📕,item
 knowledge,知識,🧠,item
 ability,能力,✨,item
-floor,床,🟫,"action,item"
-wall,壁,🖼️,"action,item"
-shelf,棚,📚,"action,item"
+floor,床,🟫,item
+wall,壁,🖼️,item
+shelf,棚,📚,item
+ceiling,天井,🏮,item
+windowsill,窓辺,🪟,item
+creation,制作,🎨,action
 head-armor,頭部防具,🪖,"action,item"
 body-armor,胴体装備,👕,"action,item"
 arm-armor,腕部装備,🧤,"action,item"
@@ -54,6 +57,7 @@ brooch,ブローチ,🎖️,"action,item"
 ring,指輪,💍,"action,item"
 melee-weapon,近接武器,🗡️,"action,item"
 throwing-weapon,投擲武器,🎯,"action,item"
+launcher,射出装置,🏹,item
 explosive-weapon,爆発武器,💣,"action,item"
 treasure-chest,宝箱,🎁,item
 currency,通貨,🪙,item

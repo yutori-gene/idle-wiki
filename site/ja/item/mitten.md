@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 | 精度 |
+| 効き先 | 攻撃 | 防御 |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +2 | +2 |
+| 全カテゴリ | +2 | +1 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/b9f2fd9a42b74ce8.svg" alt="">花壇の手入れ](/ja/action/tend-flower-bed) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv7 | 1 | 21.6% | 0.108 | 38.9 |
+| [<span class="wiki-icon">🧤</span>ミトン](/ja/action/craft-mitten) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv5 | 1 | 100% | 1 | 2 |
 
 ## 用途
 
@@ -78,10 +78,10 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "melee-weapon",
-			"attack": 0,
-			"defence": 2,
-			"accuracy": 2,
+			"category": "*",
+			"attack": 2,
+			"defence": 1,
+			"accuracy": 0,
 			"evasion": 0,
 			"restore": 0,
 			"speed": 0,

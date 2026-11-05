@@ -9,9 +9,10 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 | 防御 | 精度 | 回避 | 回復 |
-| --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +6 | +4 | +3 | +2 | +7 |
+| 効き先 | 速度 |
+| --- | --- |
+| [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | +4 |
+| [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | +2 |
 
 ## 入手方法
 
@@ -19,7 +20,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏖️</span>漂着物回収](/ja/action/flotsam-collecting) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv1 | 1 | 31.1% | 0.156 | 14 |
+| [<span class="wiki-icon">💰</span>大秘宝](/ja/action/open-great-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv18 | 1 | 34% | 0.221 | 1.1 |
 
 ## 用途
 
@@ -29,7 +30,6 @@
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 | 1 | 1.13% |  |
 | [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.333% |  |
-| [<span class="wiki-icon">💎</span>秘石（分解）](/ja/action/disassemble-secret-stone) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv18 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: アクセサリー</div><div class="wiki-navbox-body"><a href="#/ja/item/cowbell"><img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル</a> ・ <a href="#/ja/item/one-leaf-clover"><img class="wiki-icon" src="assets/icon/7bb40479a17528a9.svg" alt="">1葉のクローバー</a> ・ <a href="#/ja/item/dog-collar"><img class="wiki-icon" src="assets/icon/57382b8c9d69e156.svg" alt="">犬の首輪</a> ・ <a href="#/ja/item/shark-tooth-necklace"><span class="wiki-icon">🦈</span>サメ歯ネックレス</a> ・ <a href="#/ja/item/broccoli"><span class="wiki-icon">🥦</span>ブロッコリー</a> ・ <a href="#/ja/item/philosophers-stone"><span class="wiki-icon">🔴</span>賢者の石</a> ・ <a href="#/ja/item/secret-stone"><span class="wiki-icon">💎</span>秘石</a> ・ <a href="#/ja/item/crystal-pendant"><span class="wiki-icon">🔮</span>水晶のペンダント</a> ・ <a href="#/ja/item/minus-four-leaf-clover"><span class="wiki-icon">🍀</span>-4葉のクローバー</a> ・ <a href="#/ja/item/hexagram-charm"><span class="wiki-icon">🔯</span>六芒星のお守り</a> ・ <a href="#/ja/item/dark-pendant"><span class="wiki-icon">🔮</span>闇のペンダント</a> ・ <a href="#/ja/item/diamond-tiara"><span class="wiki-icon">👑</span>ダイヤモンドのティアラ</a> ・ <a href="#/ja/item/holy-grail"><span class="wiki-icon">🏆</span>聖杯</a> ・ <a href="#/ja/item/ninety-nine-leaf-clover"><span class="wiki-icon">🍀</span>99葉のクローバー</a> ・ <a href="#/ja/item/time-stopping-hourglass"><span class="wiki-icon">⏳</span>時を止める砂時計</a></div></div>
 
@@ -81,13 +81,24 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "melee-weapon",
-			"attack": 6,
-			"defence": 4,
-			"accuracy": 3,
-			"evasion": 2,
-			"restore": 7,
-			"speed": 0,
+			"category": "atelier",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 4,
+			"chance": 0,
+			"experience": 0
+		},
+		{
+			"category": "workshop",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 2,
 			"chance": 0,
 			"experience": 0
 		}

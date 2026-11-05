@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 | 防御 | 精度 | 回避 |
-| --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | +41 | +31 | -8 | -8 |
+| 効き先 | 成功率 |
+| --- | --- |
+| [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | +8 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv23 | 1 | 0.29% | 0.001 | 0.021 |
+| [<span class="wiki-icon">🧊</span>南極の氷](/ja/action/open-antarctic-ice) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv21 | 1 | 29.5% | 0.221 | 0.295 |
 
 ## 用途
 
@@ -28,7 +28,6 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/300032c34ac7363c.svg" alt="">司祭](/ja/action/priest) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv48 | 1 | 0.483% |  |
-| [<span class="wiki-icon">📿</span>十字架のロザリオ（分解）](/ja/action/disassemble-cross-rosary) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv23 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 
@@ -86,14 +85,14 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "explosive-weapon",
-			"attack": 41,
-			"defence": 31,
-			"accuracy": -8,
-			"evasion": -8,
+			"category": "northland",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
 			"restore": 0,
 			"speed": 0,
-			"chance": 0,
+			"chance": 8,
 			"experience": 0
 		}
 	],

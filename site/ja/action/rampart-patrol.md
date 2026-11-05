@@ -15,9 +15,7 @@
 | [<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard) ×5 | 成功時 | 56% | 1.4 | 63 |
 | [<span class="wiki-icon">⛓️</span>鎖の切れ端](/ja/item/chain-scrap) ×5 | 成功時 | 56% | 1.4 | 63 |
 | [<img class="wiki-icon" src="assets/icon/9c9bdad1ea627e76.svg" alt="">ネズミの骨](/ja/item/rat-bone) ×5 | 成功時 | 56% | 1.4 | 63 |
-| [<span class="wiki-icon">👑</span>王冠](/ja/item/crown) ×1 | 成功時 | 14.9% | 0.075 | 3.4 |
 | [<span class="wiki-icon">⚽</span>サッカーボール](/ja/item/soccer-ball) ×1 | 成功時 | 10.4% | 0.052 | 2.3 |
-| [<span class="wiki-icon">🎖️</span>調査兵団のバッジ](/ja/item/survey-corps-badge) ×1 | 成功時 | 12.4% | 0.062 | 2.8 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -36,7 +34,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 11,489 | 0 | 11,489 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 3,164 | 0 | 3,164 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -113,21 +111,9 @@
 		},
 		{
 			"type": "item",
-			"id": "crown",
-			"count": 1,
-			"chance": 0.149
-		},
-		{
-			"type": "item",
 			"id": "soccer-ball",
 			"count": 1,
 			"chance": 0.104
-		},
-		{
-			"type": "item",
-			"id": "survey-corps-badge",
-			"count": 1,
-			"chance": 0.124
 		}
 	],
 	"progressType": "persistent",

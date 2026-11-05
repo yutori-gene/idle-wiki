@@ -24,11 +24,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
+| [<span class="wiki-icon">☂️</span>雨具](/ja/action/craft-raincoat) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv10 | 5 | 100% |  |
 | [<span class="wiki-icon">🎓</span>学ラン](/ja/action/craft-gakuran) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 15 | 100% |  |
-| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/action/craft-cowboy-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 15 | 100% |  |
 | [<span class="wiki-icon">⚓</span>セーラー服](/ja/action/craft-sailor-uniform) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
 | [<span class="wiki-icon">🧤</span>軍手](/ja/action/craft-work-gloves) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv15 | 15 | 100% |  |
-| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/action/craft-chef-hat) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv16 | 15 | 100% |  |
 
 ## 解放条件
 
@@ -36,7 +35,7 @@
 
 - [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv2以上
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 |
-| --- | --- |
-| 全カテゴリ | +105 |
+| 効き先 | 防御 | 回復 |
+| --- | --- | --- |
+| 全カテゴリ | +105 | +5 |
 
 
 **スキル**: [<span class="wiki-icon">🛡️</span>重装甲](/ja/skill/heavy-armor)（装備中、戦闘の各ターンに 5% で発動）
@@ -78,7 +78,7 @@
 			"defence": 105,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 5,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

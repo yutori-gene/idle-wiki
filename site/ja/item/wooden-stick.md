@@ -1,6 +1,6 @@
 # 木の棒
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">木の棒</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/a853f3f0e7b15e1c.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/melee-weapon"><span class="wiki-icon">🗡️</span>近接武器</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/step-in"><span class="wiki-icon">🏃</span>踏み込み</a></td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">木の棒</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/a853f3f0e7b15e1c.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/melee-weapon"><span class="wiki-icon">🗡️</span>近接武器</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>1 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 最も原始的で最も応用が利く。
 
@@ -9,32 +9,15 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 |
-| --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +3 |
-
-
-**スキル**: [<span class="wiki-icon">🏃</span>踏み込み](/ja/skill/step-in)（装備中、戦闘の各ターンに 10% で発動）
+| 効き先 | 攻撃 | 回復 |
+| --- | --- | --- |
+| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +3 | +1 |
 
 ## 入手方法
 
-### アクション
-
-| アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/732665ba6a1aee85.svg" alt="">落ち葉拾い](/ja/action/gather-fallen-leaves) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv1 | 1 | 21.6% | 0.108 | 38.9 |
-
 ### 購入
 
-6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a> で購入できる（下記の解放条件を満たしてから）。
-
-## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/ed150292d05a82bb.svg" alt="">木の棒（分解）](/ja/action/disassemble-wooden-stick) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv1 | 1 | 100% |  |
+1 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a> で購入できる（下記の解放条件を満たしてから）。
 
 ## 解放条件
 
@@ -52,13 +35,13 @@
 | `category` | `melee-weapon` |
 | `group` | `melee-weapon` |
 | `unlocked` | `hidden` |
-| `buyingValue` | `6` |
-| `sellingValue` | `3` |
+| `buyingValue` | `1` |
+| `sellingValue` | `0` |
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `necessary` |
 | `consumeChance` | `1` |
-| `skill` | `step-in` |
+| `skill` | （空） |
 | CSV `tier` | 1 |
 | CSV `rare` | 1 |
 
@@ -82,8 +65,8 @@
 	"category": "melee-weapon",
 	"group": "melee-weapon",
 	"unlocked": "hidden",
-	"buyingValue": 6,
-	"sellingValue": 3,
+	"buyingValue": 1,
+	"sellingValue": 0,
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
@@ -104,13 +87,13 @@
 			"defence": 0,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 1,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0
 		}
 	],
-	"skill": "step-in"
+	"skill": ""
 }
 ```
 

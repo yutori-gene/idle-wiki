@@ -26,7 +26,7 @@
 | [<span class="wiki-icon">🏙️</span>街の騒動](/ja/event/town-uproar) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🪨</span>森の精霊石](/ja/item/forest-spirit-stone) ×1 |
 | [<span class="wiki-icon">📖</span>エピローグ](/ja/event/epilogue) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🪨</span>森の精霊石](/ja/item/forest-spirit-stone) ×1 |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">49件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
 
 ## 開発者向け情報
 

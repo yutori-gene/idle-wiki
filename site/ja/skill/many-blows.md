@@ -25,7 +25,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | [<span class="wiki-icon">🏹</span>射出装置](/ja/group/launcher) | 装備必須 |
 
 ## 開発者向け情報
 

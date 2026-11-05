@@ -1,6 +1,6 @@
 # 秘宝
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">秘宝</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💰</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>31種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">秘宝</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💰</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>28種</td></tr></table></div>
 
 
 ## アイテム
@@ -12,7 +12,6 @@
 | [<img class="wiki-icon" src="assets/icon/1e476358e19d8676.svg" alt="">噴水のコイン](/ja/item/fountain-coin) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<img class="wiki-icon" src="assets/icon/041e1672ebae2974.svg" alt="">金のドングリ](/ja/item/golden-acorn) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🗺️</span>古い地図の断片](/ja/item/old-map-fragment) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
-| [<span class="wiki-icon">🌳</span>世界樹の苗木](/ja/item/world-tree-sapling) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🧚</span>森の精霊の涙](/ja/item/forest-spirit-tear) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🗿</span>公園の守り神の像](/ja/item/park-guardian-statue) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🖋️</span>市長印](/ja/item/mayors-seal) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
@@ -23,7 +22,6 @@
 | [<span class="wiki-icon">📒</span>裏帳簿](/ja/item/secret-ledger) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🖋️</span>夜の王の印章](/ja/item/night-king-seal) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🌀</span>都市伝説の欠片](/ja/item/urban-legend-fragment) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
-| [<span class="wiki-icon">⚫</span>黒真珠](/ja/item/black-pearl) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">💠</span>深海の結晶](/ja/item/deep-sea-crystal) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🦑</span>クラーケンの墨](/ja/item/kraken-ink) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🧊</span>凍った琥珀](/ja/item/frozen-amber) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
@@ -32,7 +30,6 @@
 | [<span class="wiki-icon">🌨️</span>ブリザードの核](/ja/item/blizzard-core) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🐉</span>氷竜の鱗](/ja/item/ice-dragon-scale) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">👑</span>黄金の王冠](/ja/item/golden-crown) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
-| [<span class="wiki-icon">⭐</span>北極星の砂](/ja/item/polaris-sand) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">🔮</span>玉座の魔石](/ja/item/throne-magic-stone) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">👑</span>王の遺産](/ja/item/kings-legacy) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |
 | [<span class="wiki-icon">⏳</span>死神の砂時計](/ja/item/reaper-hourglass) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | — |

@@ -1,28 +1,30 @@
 # 時を止める砂時計
 
-<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">時を止める砂時計</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⏳</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/accessory"><span class="wiki-icon">📿</span>アクセサリー</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>21,870 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/all-round"><span class="wiki-icon">🌈</span>万能</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">時を止める砂時計</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⏳</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/accessory"><span class="wiki-icon">📿</span>アクセサリー</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>21,870 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/all-round"><span class="wiki-icon">🌈</span>万能</a></td></tr><tr><th>入手経路</th><td>イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 止まった時間の中で、砂時計だけが永遠を生きる。
 
 
 ## 性能
 
-値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
+装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 | 防御 | 精度 | 回避 | 回復 |
-| --- | --- | --- | --- | --- | --- |
-| 全カテゴリ | +44 | +28 | +6 | +5 | +15 |
+| 効き先 | 速度 |
+| --- | --- |
+| [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | +8 |
+| [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | +4 |
+| [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | +3 |
 
 
 **スキル**: [<span class="wiki-icon">🌈</span>万能](/ja/skill/all-round)（装備中、戦闘の各ターンに 3% で発動）
 
 ## 入手方法
 
-### アクション
+### イベント
 
-| アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/action/craft-time-stopping-hourglass) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv50 | 1 | 100% | 1 | 0.2 |
+| イベント | タイミング | 個数 | 確率 |
+| --- | --- | --- | --- |
+| [<span class="wiki-icon">⚔️</span>最終決戦](/ja/event/final-battle) | 条件達成（タスク） | 1 | 100% |
 
 <div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: アクセサリー</div><div class="wiki-navbox-body"><a href="#/ja/item/cowbell"><img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル</a> ・ <a href="#/ja/item/one-leaf-clover"><img class="wiki-icon" src="assets/icon/7bb40479a17528a9.svg" alt="">1葉のクローバー</a> ・ <a href="#/ja/item/dog-collar"><img class="wiki-icon" src="assets/icon/57382b8c9d69e156.svg" alt="">犬の首輪</a> ・ <a href="#/ja/item/shark-tooth-necklace"><span class="wiki-icon">🦈</span>サメ歯ネックレス</a> ・ <a href="#/ja/item/broccoli"><span class="wiki-icon">🥦</span>ブロッコリー</a> ・ <a href="#/ja/item/philosophers-stone"><span class="wiki-icon">🔴</span>賢者の石</a> ・ <a href="#/ja/item/secret-stone"><span class="wiki-icon">💎</span>秘石</a> ・ <a href="#/ja/item/crystal-pendant"><span class="wiki-icon">🔮</span>水晶のペンダント</a> ・ <a href="#/ja/item/minus-four-leaf-clover"><span class="wiki-icon">🍀</span>-4葉のクローバー</a> ・ <a href="#/ja/item/hexagram-charm"><span class="wiki-icon">🔯</span>六芒星のお守り</a> ・ <a href="#/ja/item/dark-pendant"><span class="wiki-icon">🔮</span>闇のペンダント</a> ・ <a href="#/ja/item/diamond-tiara"><span class="wiki-icon">👑</span>ダイヤモンドのティアラ</a> ・ <a href="#/ja/item/holy-grail"><span class="wiki-icon">🏆</span>聖杯</a> ・ <a href="#/ja/item/ninety-nine-leaf-clover"><span class="wiki-icon">🍀</span>99葉のクローバー</a> ・ <a href="#/ja/item/time-stopping-hourglass"><span class="wiki-icon">⏳</span>時を止める砂時計</a></div></div>
 
@@ -38,7 +40,7 @@
 | `sellingValue` | `21870` |
 | `coinId` | （空） |
 | `maximum` | `1` |
-| `equipmentType` | `impossible` |
+| `equipmentType` | `necessary` |
 | `consumeChance` | `1` |
 | `skill` | `all-round` |
 | CSV `tier` | 10 |
@@ -68,18 +70,40 @@
 	"sellingValue": 21870,
 	"coinId": "",
 	"maximum": 1,
-	"equipmentType": "impossible",
+	"equipmentType": "necessary",
 	"consumeChance": 1,
 	"requirements": [],
 	"properties": [
 		{
-			"category": "*",
-			"attack": 44,
-			"defence": 28,
-			"accuracy": 6,
-			"evasion": 5,
-			"restore": 15,
-			"speed": 0,
+			"category": "study",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 8,
+			"chance": 0,
+			"experience": 0
+		},
+		{
+			"category": "workshop",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 4,
+			"chance": 0,
+			"experience": 0
+		},
+		{
+			"category": "atelier",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 3,
 			"chance": 0,
 			"experience": 0
 		}

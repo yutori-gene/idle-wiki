@@ -1,4 +1,4 @@
-// ワールドに埋め込まれた data URI の画像（icon.image・カテゴリの background など）を、site/assets/icon/ のファイルに書き出す。
+// ワールドに埋め込まれた data URI の画像（icon.image・基本設定とカテゴリの背景画像 backgrounds など）を、site/assets/icon/ のファイルに書き出す。
 // 同じ画像をリンクのたびにページへ埋め込むと一覧ページが数MBになるので、ファイルにしてブラウザのキャッシュに載せる
 import { createHash } from "crypto";
 

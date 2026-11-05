@@ -11,7 +11,7 @@
 
 | 効き先 | 経験値 |
 | --- | --- |
-| 全カテゴリ | +9 |
+| 全カテゴリ | +6 |
 
 ## 入手方法
 
@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🕰️</span>おじいさんの時計を直す](/ja/action/repair-grandfather-clock) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv44 | 1 | 100% | 1 | 0.111 |
+| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/action/repair-grandfather-clock) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv44 | 1 | 100% | 1 | 0.111 |
 
-<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 床</div><div class="wiki-navbox-body"><a href="#/ja/item/sand-castle"><span class="wiki-icon">🏖️</span>砂の城</a> ・ <a href="#/ja/item/dancing-statue"><span class="wiki-icon">🕺</span>踊る銅像</a> ・ <a href="#/ja/item/flying-carpet"><span class="wiki-icon">🧞</span>空飛ぶ絨毯</a> ・ <a href="#/ja/item/grandfather-clock"><span class="wiki-icon">🕰️</span>おじいさんの時計</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 床</div><div class="wiki-navbox-body"><a href="#/ja/item/mimic"><span class="wiki-icon">🦷</span>ミミック</a> ・ <a href="#/ja/item/dancing-statue"><span class="wiki-icon">🕺</span>踊る銅像</a> ・ <a href="#/ja/item/statue-of-david"><span class="wiki-icon">🏛️</span>ダビデ像</a> ・ <a href="#/ja/item/grandfather-clock"><span class="wiki-icon">🕰️</span>おじいさんの時計</a></div></div>
 
 ## 開発者向け情報
 
@@ -78,7 +78,7 @@
 			"restore": 0,
 			"speed": 0,
 			"chance": 0,
-			"experience": 9
+			"experience": 6
 		}
 	],
 	"skill": ""

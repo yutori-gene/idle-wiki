@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 | 防御 | 精度 | 回避 | 回復 |
-| --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +8 | +5 | +3 | +2 | +8 |
+| 効き先 | 成功率 |
+| --- | --- |
+| [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | +8 |
 
 ## 入手方法
 
@@ -19,15 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>竜の巣穴](/ja/action/dragon-den) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv8 | 1 | 100% | 1 | 0.4 |
+| [<span class="wiki-icon">🧊</span>南極の氷](/ja/action/open-antarctic-ice) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv21 | 1 | 29.5% | 0.221 | 0.295 |
 
 ## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍀</span>-4葉のクローバー（分解）](/ja/action/disassemble-minus-four-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv25 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 
@@ -84,14 +78,14 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "melee-weapon",
-			"attack": 8,
-			"defence": 5,
-			"accuracy": 3,
-			"evasion": 2,
-			"restore": 8,
+			"category": "loft",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
 			"speed": 0,
-			"chance": 0,
+			"chance": 8,
 			"experience": 0
 		}
 	],

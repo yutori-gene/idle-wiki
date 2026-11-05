@@ -9,9 +9,10 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 | 防御 | 精度 | 回避 | 回復 |
-| --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +17 | +10 | +5 | +4 | +11 |
+| 効き先 | 速度 |
+| --- | --- |
+| [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | +17 |
+| [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | -9 |
 
 
 **スキル**: [<span class="wiki-icon">🌸</span>華麗](/ja/skill/brilliance)（装備中、戦闘の各ターンに 6% で発動）
@@ -22,15 +23,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔮</span>闇のペンダント](/ja/action/craft-dark-pendant) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv36 | 1 | 100% | 1 | 0.286 |
-
-## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔮</span>闇のペンダント（分解）](/ja/action/disassemble-dark-pendant) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | Lv36 | 1 | 100% |  |
+| [<span class="wiki-icon">🌋</span>火口の底](/ja/action/crater-floor) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv12 | 1 | 10.6% | 0.106 | 0.03 |
 
 <div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: アクセサリー</div><div class="wiki-navbox-body"><a href="#/ja/item/cowbell"><img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル</a> ・ <a href="#/ja/item/one-leaf-clover"><img class="wiki-icon" src="assets/icon/7bb40479a17528a9.svg" alt="">1葉のクローバー</a> ・ <a href="#/ja/item/dog-collar"><img class="wiki-icon" src="assets/icon/57382b8c9d69e156.svg" alt="">犬の首輪</a> ・ <a href="#/ja/item/shark-tooth-necklace"><span class="wiki-icon">🦈</span>サメ歯ネックレス</a> ・ <a href="#/ja/item/broccoli"><span class="wiki-icon">🥦</span>ブロッコリー</a> ・ <a href="#/ja/item/philosophers-stone"><span class="wiki-icon">🔴</span>賢者の石</a> ・ <a href="#/ja/item/secret-stone"><span class="wiki-icon">💎</span>秘石</a> ・ <a href="#/ja/item/crystal-pendant"><span class="wiki-icon">🔮</span>水晶のペンダント</a> ・ <a href="#/ja/item/minus-four-leaf-clover"><span class="wiki-icon">🍀</span>-4葉のクローバー</a> ・ <a href="#/ja/item/hexagram-charm"><span class="wiki-icon">🔯</span>六芒星のお守り</a> ・ <a href="#/ja/item/dark-pendant"><span class="wiki-icon">🔮</span>闇のペンダント</a> ・ <a href="#/ja/item/diamond-tiara"><span class="wiki-icon">👑</span>ダイヤモンドのティアラ</a> ・ <a href="#/ja/item/holy-grail"><span class="wiki-icon">🏆</span>聖杯</a> ・ <a href="#/ja/item/ninety-nine-leaf-clover"><span class="wiki-icon">🍀</span>99葉のクローバー</a> ・ <a href="#/ja/item/time-stopping-hourglass"><span class="wiki-icon">⏳</span>時を止める砂時計</a></div></div>
 
@@ -81,13 +74,24 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "melee-weapon",
-			"attack": 17,
-			"defence": 10,
-			"accuracy": 5,
-			"evasion": 4,
-			"restore": 11,
-			"speed": 0,
+			"category": "atelier",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 17,
+			"chance": 0,
+			"experience": 0
+		},
+		{
+			"category": "greenhouse",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": -9,
 			"chance": 0,
 			"experience": 0
 		}

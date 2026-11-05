@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 |
-| --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +11 |
+| 効き先 | 攻撃 | 回復 |
+| --- | --- | --- |
+| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +11 | +3 |
 
 
 **スキル**: [<img class="wiki-icon" src="assets/icon/97ce360d6f35556b.svg" alt="">二の太刀](/ja/skill/second-strike)（装備中、戦闘の各ターンに 12% で発動）
@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/action/craft-frozen-tuna) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv17 | 1 | 100% | 1 | 0.667 |
+| [<span class="wiki-icon">📦</span>タイムカプセル](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv13 | 1 | 100% | 0.75 | 9 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>冷凍マグロ（分解）](/ja/action/disassemble-frozen-tuna) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv13 | 1 | 100% |  |
+| [<span class="wiki-icon">🐟</span>冷凍マグロ（分解）](/ja/action/disassemble-frozen-tuna) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv13 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 
@@ -93,7 +93,7 @@
 			"defence": 0,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 3,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

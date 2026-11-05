@@ -15,7 +15,7 @@
 | [<span class="wiki-icon">🐧</span>ペンペン](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv33 | 3 | 100% | 2.4 | 1.2 |
 | [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv38 | 3 | 76.5% | 2 | 0.78 |
 
-<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

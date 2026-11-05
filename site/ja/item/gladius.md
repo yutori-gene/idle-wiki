@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 |
-| --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +46 |
+| 効き先 | 攻撃 | 回復 |
+| --- | --- | --- |
+| [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | +46 | +7 |
 
 
 **スキル**: [<span class="wiki-icon">⚔️</span>連撃](/ja/skill/combo)（装備中、戦闘の各ターンに 6% で発動）
@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗡️</span>グラディウス](/ja/action/craft-gladius) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv33 | 1 | 100% | 1 | 0.286 |
+| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv34 | 1 | 0.091% | 0 | 0 |
 
 ## 用途
 
@@ -30,7 +30,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗡️</span>グラディウス（分解）](/ja/action/disassemble-gladius) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | Lv37 | 1 | 100% |  |
+| [<span class="wiki-icon">🗡️</span>グラディウス（分解）](/ja/action/disassemble-gladius) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv37 | 1 | 100% |  |
 
 ### 道具として必要（消費しない）
 
@@ -92,7 +92,7 @@
 			"defence": 0,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 7,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

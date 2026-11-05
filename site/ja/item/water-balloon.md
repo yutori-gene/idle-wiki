@@ -1,6 +1,6 @@
 # 水風船
 
-<div class="wiki-infobox" style="--accent:#968358"><div class="wiki-infobox-title">水風船</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/bca7ebdb757a7fc6.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/fuse"><span class="wiki-icon">🧨</span>導火線</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#968358"><div class="wiki-infobox-title">水風船</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/bca7ebdb757a7fc6.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>1 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/fuse"><span class="wiki-icon">🧨</span>導火線</a></td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 夏の戦争の定番。
 
@@ -9,34 +9,24 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。使うたびに消費する。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 |
-| --- | --- |
-| [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | +4 |
+| 効き先 | 攻撃 | 精度 | 速度 |
+| --- | --- | --- | --- |
+| [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | +4 | -1 | -1 |
 
 
 **スキル**: [<span class="wiki-icon">🧨</span>導火線](/ja/skill/fuse)（装備中、戦闘の各ターンに 11% で発動）
 
 ## 入手方法
 
-### アクション
+### 購入
 
-| アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/eee8a2d4f6796b24.svg" alt="">砂場掘り](/ja/action/dig-sandbox) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 | 3 | 48% | 0.72 | 259 |
-
-## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8f458c2a40439e96.svg" alt="">水風船（分解）](/ja/action/disassemble-water-balloon) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv3 | 1 | 100% |  |
+1 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a> で購入できる（下記の解放条件を満たしてから）。
 
 ## 解放条件
 
-次をすべて満たすと一覧に現れる。
+次をすべて満たすと一覧に現れる（購入もできるようになる）。
 
-- [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv4以上
+- [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv1以上
 
 <div class="wiki-navbox" style="--accent:#968358"><div class="wiki-navbox-title">グループ: 爆発武器</div><div class="wiki-navbox-body"><a href="#/ja/item/water-balloon"><img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船</a> ・ <a href="#/ja/item/egg"><img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵</a> ・ <a href="#/ja/item/pie"><span class="wiki-icon">🥧</span>パイ</a> ・ <a href="#/ja/item/tomato"><span class="wiki-icon">🍅</span>トマト</a> ・ <a href="#/ja/item/party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー</a> ・ <a href="#/ja/item/mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ</a> ・ <a href="#/ja/item/mandragora"><span class="wiki-icon">🌱</span>マンドラゴラ</a> ・ <a href="#/ja/item/fire-flower"><span class="wiki-icon">🌼</span>ファイアフラワー</a> ・ <a href="#/ja/item/molotov"><span class="wiki-icon">🍾</span>火炎ビン</a> ・ <a href="#/ja/item/flashbang"><span class="wiki-icon">✨</span>閃光弾</a> ・ <a href="#/ja/item/lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー</a> ・ <a href="#/ja/item/faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル</a> ・ <a href="#/ja/item/grenade"><span class="wiki-icon">💣</span>手榴弾</a> ・ <a href="#/ja/item/dynamite"><span class="wiki-icon">🧨</span>ダイナマイト</a> ・ <a href="#/ja/item/duel-disk"><span class="wiki-icon">💿</span>デュエルディスク</a> ・ <a href="#/ja/item/clow-card"><span class="wiki-icon">🃏</span>クロウカード</a> ・ <a href="#/ja/item/clockwork-apple"><span class="wiki-icon">🍎</span>時計仕掛けのリンゴ</a> ・ <a href="#/ja/item/star-rod"><span class="wiki-icon">🪄</span>スターロッド</a> ・ <a href="#/ja/item/ghost-ward"><span class="wiki-icon">🏷️</span>幽霊退治の札</a> ・ <a href="#/ja/item/military-dolphin"><span class="wiki-icon">🐬</span>軍用イルカ</a> ・ <a href="#/ja/item/trojan-horse"><span class="wiki-icon">🐴</span>トロイの木馬</a> ・ <a href="#/ja/item/nuclear-bomb"><span class="wiki-icon">☢️</span>核爆弾</a> ・ <a href="#/ja/item/spirit-bomb"><span class="wiki-icon">🌕</span>元気玉</a> ・ <a href="#/ja/item/n2-mine"><span class="wiki-icon">💣</span>N2爆雷</a></div></div>
 
@@ -48,8 +38,8 @@
 | `category` | `explosive-weapon` |
 | `group` | `explosive-weapon` |
 | `unlocked` | `hidden` |
-| `buyingValue` | `0` |
-| `sellingValue` | `3` |
+| `buyingValue` | `1` |
+| `sellingValue` | `0` |
 | `coinId` | （空） |
 | `maximum` | `0` |
 | `equipmentType` | `consumable` |
@@ -78,8 +68,8 @@
 	"category": "explosive-weapon",
 	"group": "explosive-weapon",
 	"unlocked": "hidden",
-	"buyingValue": 0,
-	"sellingValue": 3,
+	"buyingValue": 1,
+	"sellingValue": 0,
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "consumable",
@@ -88,7 +78,7 @@
 		{
 			"type": "category",
 			"id": "explosive-weapon",
-			"count": 4,
+			"count": 1,
 			"chance": 1,
 			"equipment": false
 		}
@@ -98,10 +88,10 @@
 			"category": "",
 			"attack": 4,
 			"defence": 0,
-			"accuracy": 0,
+			"accuracy": -1,
 			"evasion": 0,
 			"restore": 0,
-			"speed": 0,
+			"speed": -1,
 			"chance": 0,
 			"experience": 0
 		}

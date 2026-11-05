@@ -1,6 +1,6 @@
 # 素材
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">素材</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/fd1bdd12170273cb.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>231種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">素材</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/fd1bdd12170273cb.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>215種</td></tr></table></div>
 
 
 ## アイテム
@@ -77,7 +77,6 @@
 | [<span class="wiki-icon">🧜</span>人魚の鱗](/ja/item/mermaid-scale) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 108 |
 | [<span class="wiki-icon">🦷</span>サメの歯](/ja/item/shark-tooth) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 108 |
 | [<span class="wiki-icon">⭐</span>海星](/ja/item/starfish) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 108 |
-| [<span class="wiki-icon">🔱</span>海神の三叉矛の欠片](/ja/item/sea-god-trident-fragment) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 972 |
 | [<span class="wiki-icon">🧊</span>氷](/ja/item/ice) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 5 |
 | [<span class="wiki-icon">🧊</span>氷柱](/ja/item/ice-pillar) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不要 | 5 |
 | [<span class="wiki-icon">🧊</span>つらら](/ja/item/icicle) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 5 |
@@ -122,7 +121,6 @@
 | [<span class="wiki-icon">⚙️</span>精密部品](/ja/item/precision-part) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 162 |
 | [<span class="wiki-icon">🤖</span>ロボットの心臓](/ja/item/robot-heart) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 486 |
 | [<span class="wiki-icon">⚙️</span>黄金の歯車](/ja/item/golden-gear) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 486 |
-| [<span class="wiki-icon">💿</span>技マシン](/ja/item/tech-machine) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 4,374 |
 | [<span class="wiki-icon">💾</span>自律型AIチップ](/ja/item/autonomous-ai-chip) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 13,122 |
 | [<span class="wiki-icon">⚛️</span>反物質のかけら](/ja/item/antimatter-piece) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 39,366 |
 | [<span class="wiki-icon">🧨</span>火薬](/ja/item/gunpowder) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 7 |
@@ -226,20 +224,6 @@
 | [<span class="wiki-icon">🐟</span>魚](/ja/item/fish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | 2 |
 | [<span class="wiki-icon">🦴</span>骨](/ja/item/bone) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | 3 |
 | [<span class="wiki-icon">🦊</span>狐火](/ja/item/foxfire) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | 装備不可 | 7 |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/item/rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 2,916 |
-| [<span class="wiki-icon">🔩</span>人をダメにするクッションの部品](/ja/item/ruining-cushion-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 2,916 |
-| [<span class="wiki-icon">🔩</span>井戸の部品](/ja/item/well-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 8,748 |
-| [<span class="wiki-icon">🔩</span>本棚の部品](/ja/item/bookshelf-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 8,748 |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/item/lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 4,374 |
-| [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/item/oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 13,122 |
-| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/item/solar-panel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 39,366 |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/item/dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 39,366 |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/item/weather-box-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 39,366 |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/item/refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 39,366 |
-| [<span class="wiki-icon">🔩</span>発電機の部品](/ja/item/generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 118,098 |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/item/hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 118,098 |
-| [<span class="wiki-icon">🔩</span>かまどの部品](/ja/item/stove-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 5,103 |
-| [<span class="wiki-icon">🔩</span>暖炉の部品](/ja/item/fireplace-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | 装備不可 | 15,309 |
 
 ## 開発者向け情報
 

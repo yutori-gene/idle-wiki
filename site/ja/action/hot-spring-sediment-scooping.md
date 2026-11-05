@@ -19,6 +19,7 @@
 | [<span class="wiki-icon">🪨</span>軽石](/ja/item/pumice) ×5 | 成功時 | 56% | 1.4 | 72 |
 | [<span class="wiki-icon">🦎</span>火トカゲ](/ja/item/fire-lizard) ×3 | 成功時 | 48% | 0.72 | 37 |
 | [<span class="wiki-icon">🦀</span>溶岩ガニ](/ja/item/lava-crab) ×1 | 成功時 | 21.6% | 0.108 | 5.6 |
+| [<span class="wiki-icon">💋</span>投げキッス](/ja/item/blown-kiss) ×1 | 成功時 | 7.74% | 0.039 | 2 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -37,7 +38,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 2,545 | 0 | 2,545 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 2,921 | 0 | 2,921 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -111,6 +112,12 @@
 			"id": "lava-crab",
 			"count": 1,
 			"chance": 0.216
+		},
+		{
+			"type": "item",
+			"id": "blown-kiss",
+			"count": 1,
+			"chance": 0.0774
 		}
 	],
 	"progressType": "persistent",

@@ -1,6 +1,6 @@
 # 種苗
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">種苗</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌰</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>13種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">種苗</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌰</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>14種</td></tr></table></div>
 
 
 ## アイテム
@@ -8,6 +8,7 @@
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">🌾</span>小麦の種](/ja/item/wheat-seed) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 1 |
+| [<span class="wiki-icon">🌱</span>トマトの苗](/ja/item/tomato-seedling) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 1 |
 | [<span class="wiki-icon">🥬</span>サラダ菜の種](/ja/item/lettuce-seed) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 3 |
 | [<span class="wiki-icon">🌱</span>バナナの苗](/ja/item/banana-seedling) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 6 |
 | [<span class="wiki-icon">🌱</span>リンゴの苗](/ja/item/apple-seedling) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 6 |

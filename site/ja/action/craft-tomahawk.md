@@ -1,6 +1,6 @@
 # トマホーク
 
-<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">トマホーク</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪓</span></div><table><tr><th>場所</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv37</td></tr><tr><th>所要時間</th><td>3時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,600</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#463476"><div class="wiki-infobox-title">トマホーク</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪓</span></div><table><tr><th>場所</th><td><a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv37</td></tr><tr><th>所要時間</th><td>3時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,600</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 黒曜石を薄く割って柄に留める。投げて戻ってくる。
 
@@ -9,7 +9,7 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv37以上（経験値の入り先カテゴリのレベル）
+- [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) Lv37以上（経験値の入り先カテゴリのレベル）
 - [<span class="wiki-icon">⚫</span>黒曜石](/ja/item/obsidian) ×2（消費する）
 - [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) ×10（消費する）
 
@@ -36,18 +36,18 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 5,022 | 45 | 4,977 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 5,022 | 62 | 4,960 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#656a5a"><div class="wiki-navbox-title">投擲武器のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/disassemble-bee"><img class="wiki-icon" src="assets/icon/b64bebb17d7e4142.svg" alt="">ハチ（分解）</a> ・ <a href="#/ja/action/disassemble-acorn-shot"><img class="wiki-icon" src="assets/icon/985f799d5f99660a.svg" alt="">どんぐりショット（分解）</a> ・ <a href="#/ja/action/disassemble-dart"><span class="wiki-icon">🎯</span>ダーツ（分解）</a> ・ <a href="#/ja/action/disassemble-blowgun"><span class="wiki-icon">🎯</span>吹き矢（分解）</a> ・ <a href="#/ja/action/disassemble-brick"><span class="wiki-icon">🧱</span>レンガ（分解）</a> ・ <a href="#/ja/action/disassemble-snowball"><span class="wiki-icon">⛄</span>雪玉（分解）</a> ・ <a href="#/ja/action/disassemble-slingshot"><img class="wiki-icon" src="assets/icon/544e8847b2df524b.svg" alt="">スリングショット（分解）</a> ・ <a href="#/ja/action/disassemble-fishing-rod"><span class="wiki-icon">🎣</span>釣竿（分解）</a> ・ <a href="#/ja/action/disassemble-sea-urchin"><span class="wiki-icon">🦔</span>ウニ（分解）</a> ・ <a href="#/ja/action/disassemble-turtle-shell"><span class="wiki-icon">🐢</span>カメの甲羅（分解）</a> ・ <a href="#/ja/action/disassemble-rocket-punch"><span class="wiki-icon">👊</span>ロケットパンチ（分解）</a> ・ <a href="#/ja/action/disassemble-dvd"><span class="wiki-icon">💿</span>DVD（分解）</a> ・ <a href="#/ja/action/disassemble-tomahawk"><span class="wiki-icon">🪓</span>トマホーク（分解）</a> ・ <a href="#/ja/action/disassemble-whip-of-love"><span class="wiki-icon">🪢</span>愛の鞭（分解）</a> ・ <a href="#/ja/action/disassemble-blown-kiss"><span class="wiki-icon">💋</span>投げキッス（分解）</a> ・ <a href="#/ja/action/craft-brick"><span class="wiki-icon">🧱</span>レンガ</a> ・ <a href="#/ja/action/craft-snowball"><span class="wiki-icon">⛄</span>雪玉</a> ・ <a href="#/ja/action/craft-rocket-punch"><span class="wiki-icon">👊</span>ロケットパンチ</a> ・ <a href="#/ja/action/craft-dvd"><span class="wiki-icon">💿</span>DVD</a> ・ <a href="#/ja/action/craft-whip-of-love"><span class="wiki-icon">🪢</span>愛の鞭</a> ・ <a href="#/ja/action/craft-tomahawk"><span class="wiki-icon">🪓</span>トマホーク</a> ・ <a href="#/ja/action/craft-blown-kiss"><span class="wiki-icon">💋</span>投げキッス</a> ・ <a href="#/ja/action/craft-monster-ball"><span class="wiki-icon">🔴</span>モンスターボール</a> ・ <a href="#/ja/action/craft-russian-roulette"><span class="wiki-icon">🔫</span>ロシアンルーレット</a> ・ <a href="#/ja/action/craft-recorder-of-time"><span class="wiki-icon">🎼</span>時のリコーダー</a> ・ <a href="#/ja/action/craft-stand-arrow"><span class="wiki-icon">🏹</span>スタンドの矢</a> ・ <a href="#/ja/action/craft-tuna-rocket"><span class="wiki-icon">🚀</span>マグロケット</a> ・ <a href="#/ja/action/craft-spear-of-longinus"><span class="wiki-icon">🔱</span>ロンギヌスの槍</a></div></div>
+<div class="wiki-navbox" style="--accent:#463476"><div class="wiki-navbox-title">工房のアクション</div><div class="wiki-navbox-body">64件。一覧は <a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a> を参照</div></div>
 
 ## 開発者向け情報
 
 | 項目 | 値 |
 | --- | --- |
 | id | `craft-tomahawk` |
-| `category` | `throwing-weapon` |
+| `category` | `atelier` |
 | `attribute` | （空） |
 | `group` | `synthesize` |
 | `unlocked` | `hidden` |
@@ -76,7 +76,7 @@
 		},
 		"color": ""
 	},
-	"category": "throwing-weapon",
+	"category": "atelier",
 	"attribute": "",
 	"group": "synthesize",
 	"unlocked": "hidden",

@@ -11,7 +11,7 @@
 
 | 効き先 | 経験値 |
 | --- | --- |
-| 全カテゴリ | +8 |
+| 全カテゴリ | +5 |
 
 ## 入手方法
 
@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📜</span>遺言書を書く](/ja/action/write-will-document) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv41 | 1 | 100% | 1 | 0.125 |
+| [<span class="wiki-icon">📜</span>遺言書](/ja/action/write-will-document) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv41 | 1 | 100% | 1 | 0.125 |
 
-<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 壁</div><div class="wiki-navbox-body"><a href="#/ja/item/peacock-feather"><span class="wiki-icon">🪶</span>孔雀の羽</a> ・ <a href="#/ja/item/heart-piece"><span class="wiki-icon">💔</span>ハートのカケラ</a> ・ <a href="#/ja/item/burning-passion"><span class="wiki-icon">🔥</span>熱い想い</a> ・ <a href="#/ja/item/will-document"><span class="wiki-icon">📜</span>遺言書</a> ・ <a href="#/ja/item/millennium-puzzle"><span class="wiki-icon">🧩</span>千年パズル</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 壁</div><div class="wiki-navbox-body"><a href="#/ja/item/peacock-feather"><span class="wiki-icon">🪶</span>孔雀の羽</a> ・ <a href="#/ja/item/burning-passion"><span class="wiki-icon">🔥</span>熱い想い</a> ・ <a href="#/ja/item/will-document"><span class="wiki-icon">📜</span>遺言書</a></div></div>
 
 ## 開発者向け情報
 
@@ -78,7 +78,7 @@
 			"restore": 0,
 			"speed": 0,
 			"chance": 0,
-			"experience": 8
+			"experience": 5
 		}
 	],
 	"skill": ""

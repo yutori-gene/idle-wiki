@@ -1,6 +1,6 @@
 # 立体機動ブーツ
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">立体機動ブーツ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥾</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/leg-armor"><span class="wiki-icon">👖</span>脚部装備</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>2,187 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/sturdy"><span class="wiki-icon">🧱</span>堅牢</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">立体機動ブーツ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥾</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/leg-armor"><span class="wiki-icon">👖</span>脚部装備</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>2,187 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>4,374 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/sturdy"><span class="wiki-icon">🧱</span>堅牢</a></td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 壁や天井も自在に駆ける。
 
@@ -11,18 +11,22 @@
 
 | 効き先 | 防御 | 回避 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | +52 | +8 |
+| 全カテゴリ | +26 | +14 |
 
 
 **スキル**: [<span class="wiki-icon">🧱</span>堅牢](/ja/skill/sturdy)（装備中、戦闘の各ターンに 5% で発動）
 
 ## 入手方法
 
-### アクション
+### 購入
 
-| アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/action/craft-odm-boots) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv43 | 1 | 100% | 1 | 0.222 |
+4,374 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a> で購入できる（下記の解放条件を満たしてから）。
+
+## 解放条件
+
+次をすべて満たすと一覧に現れる（購入もできるようになる）。
+
+- [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) Lv5以上
 
 <div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 脚部装備</div><div class="wiki-navbox-body"><a href="#/ja/item/smelly-socks"><img class="wiki-icon" src="assets/icon/da012127f6ed247b.svg" alt="">臭う靴下</a> ・ <a href="#/ja/item/slippers"><img class="wiki-icon" src="assets/icon/85a5eb144a623cc8.svg" alt="">スリッパ</a> ・ <a href="#/ja/item/wooden-clogs"><span class="wiki-icon">👞</span>木靴</a> ・ <a href="#/ja/item/leg-warmer"><span class="wiki-icon">🧦</span>レッグウォーマー</a> ・ <a href="#/ja/item/cowboy-boots"><span class="wiki-icon">🥾</span>カウボーイブーツ</a> ・ <a href="#/ja/item/safety-shoes"><span class="wiki-icon">👞</span>安全靴</a> ・ <a href="#/ja/item/swim-ring"><span class="wiki-icon">🏊</span>浮き輪</a> ・ <a href="#/ja/item/squeaky-shoes"><span class="wiki-icon">👟</span>音が鳴る靴</a> ・ <a href="#/ja/item/ice-skate"><span class="wiki-icon">⛸️</span>アイススケート</a> ・ <a href="#/ja/item/silk-leggings"><span class="wiki-icon">🧦</span>絹の足袷</a> ・ <a href="#/ja/item/leather-boots"><span class="wiki-icon">🥾</span>革のブーツ</a> ・ <a href="#/ja/item/iron-greaves"><span class="wiki-icon">🦵</span>鉄の脇当て</a> ・ <a href="#/ja/item/high-heels"><span class="wiki-icon">👠</span>ハイヒール</a> ・ <a href="#/ja/item/kick-boost-shoes"><span class="wiki-icon">👟</span>キック力増強シューズ</a> ・ <a href="#/ja/item/glass-slipper"><span class="wiki-icon">👠</span>ガラスの靴</a> ・ <a href="#/ja/item/rabbit-tail"><span class="wiki-icon">🐇</span>ウサギ尻尾</a> ・ <a href="#/ja/item/odm-boots"><span class="wiki-icon">🥾</span>立体機動ブーツ</a> ・ <a href="#/ja/item/winged-shoes"><span class="wiki-icon">👟</span>羽のついた靴</a> ・ <a href="#/ja/item/warp-star"><span class="wiki-icon">⭐</span>ワープスター</a></div></div>
 
@@ -34,7 +38,7 @@
 | `category` | `armor` |
 | `group` | `leg-armor` |
 | `unlocked` | `hidden` |
-| `buyingValue` | `0` |
+| `buyingValue` | `4374` |
 | `sellingValue` | `2187` |
 | `coinId` | （空） |
 | `maximum` | `0` |
@@ -64,20 +68,28 @@
 	"category": "armor",
 	"group": "leg-armor",
 	"unlocked": "hidden",
-	"buyingValue": 0,
+	"buyingValue": 4374,
 	"sellingValue": 2187,
 	"coinId": "",
 	"maximum": 0,
 	"equipmentType": "necessary",
 	"consumeChance": 1,
-	"requirements": [],
+	"requirements": [
+		{
+			"type": "category",
+			"id": "hell",
+			"count": 5,
+			"chance": 1,
+			"equipment": false
+		}
+	],
 	"properties": [
 		{
-			"category": "throwing-weapon",
+			"category": "*",
 			"attack": 0,
-			"defence": 52,
+			"defence": 26,
 			"accuracy": 0,
-			"evasion": 8,
+			"evasion": 14,
 			"restore": 0,
 			"speed": 0,
 			"chance": 0,

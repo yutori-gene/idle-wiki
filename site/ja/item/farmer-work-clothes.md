@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 防御 |
-| --- | --- |
-| 全カテゴリ | +7 |
+| 効き先 | 防御 | 回復 |
+| --- | --- | --- |
+| 全カテゴリ | +7 | +1 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌰</span>木の実採り](/ja/action/gather-nuts) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv1 | 1 | 21.6% | 0.108 | 19.4 |
+| [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/action/craft-farmer-work-clothes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv10 | 1 | 100% | 1 | 1 |
 
 ## 用途
 
@@ -83,7 +83,7 @@
 			"defence": 7,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 0,
+			"restore": 1,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

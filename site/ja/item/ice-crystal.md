@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 | 1 | 0.114% | 0.001 | 0.001 |
+| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 | 1 | 0.114% | 0.001 | 0.002 |
 | [<span class="wiki-icon">🐉</span>竜の巣穴](/ja/action/dragon-den) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv8 | 1 | 12.4% | 0.124 | 0.05 |
 
 ## 用途
@@ -21,10 +21,10 @@
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv19 | 2 | 100% |  |
-| [<span class="wiki-icon">💔</span>ハートのカケラを繋ぐ](/ja/action/connect-heart-piece) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv24 | 3 | 100% |  |
+| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/action/connect-heart-piece) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv24 | 3 | 100% |  |
 | [<span class="wiki-icon">❄️</span>スノードーム](/ja/action/craft-snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv25 | 1 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

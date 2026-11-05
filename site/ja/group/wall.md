@@ -1,27 +1,15 @@
 # 壁
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">壁</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🖼️</span></div><table><tr><th>使う種別</th><td>アクション・アイテム</td></tr><tr><th>アクション</th><td>5本</td></tr><tr><th>アイテム</th><td>5種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">壁</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🖼️</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>3種</td></tr></table></div>
 
-
-## アクション
-
-| アクション | 場所 | 必要Lv | 進行 |
-| --- | --- | --- | --- |
-| [<span class="wiki-icon">🪶</span>孔雀の羽を束ねる](/ja/action/bundle-peacock-feather) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv21 | 単発 |
-| [<span class="wiki-icon">💔</span>ハートのカケラを繋ぐ](/ja/action/connect-heart-piece) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv24 | 単発 |
-| [<span class="wiki-icon">🔥</span>熱い想いを受け継ぐ](/ja/action/inherit-burning-passion) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 単発 |
-| [<span class="wiki-icon">📜</span>遺言書を書く](/ja/action/write-will-document) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv41 | 単発 |
-| [<span class="wiki-icon">🧩</span>千年パズルを組む](/ja/action/assemble-millennium-puzzle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv50 | 単発 |
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/item/peacock-feather) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/item/heart-piece) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
 | [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
 | [<span class="wiki-icon">📜</span>遺言書](/ja/item/will-document) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
 
 ## 開発者向け情報
 

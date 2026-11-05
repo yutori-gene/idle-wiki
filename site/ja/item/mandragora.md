@@ -9,9 +9,9 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。使うたびに消費する。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 |
-| --- | --- |
-| [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | +22 |
+| 効き先 | 攻撃 | 精度 | 速度 |
+| --- | --- | --- | --- |
+| [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | +22 | -2 | -4 |
 
 ## 入手方法
 
@@ -19,21 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏝️</span>無人島漂流](/ja/action/desert-island-drift) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv8 | 2 | 100% | 2 | 1 |
-
-## 用途
-
-### 材料として消費
-
-| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
-| --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌱</span>マンドラゴラ（分解）](/ja/action/disassemble-mandragora) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv20 | 1 | 100% |  |
-
-## 解放条件
-
-次をすべて満たすと一覧に現れる。
-
-- [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv22以上
+| [<span class="wiki-icon">🌱</span>マンドラゴラ](/ja/action/craft-mandragora) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv22 | 53 | 100% | 53 | 26.5 |
 
 <div class="wiki-navbox" style="--accent:#968358"><div class="wiki-navbox-title">グループ: 爆発武器</div><div class="wiki-navbox-body"><a href="#/ja/item/water-balloon"><img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船</a> ・ <a href="#/ja/item/egg"><img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵</a> ・ <a href="#/ja/item/pie"><span class="wiki-icon">🥧</span>パイ</a> ・ <a href="#/ja/item/tomato"><span class="wiki-icon">🍅</span>トマト</a> ・ <a href="#/ja/item/party-popper"><span class="wiki-icon">🎉</span>パーティークラッカー</a> ・ <a href="#/ja/item/mentos-soda"><span class="wiki-icon">🥤</span>メントス入りソーダ</a> ・ <a href="#/ja/item/mandragora"><span class="wiki-icon">🌱</span>マンドラゴラ</a> ・ <a href="#/ja/item/fire-flower"><span class="wiki-icon">🌼</span>ファイアフラワー</a> ・ <a href="#/ja/item/molotov"><span class="wiki-icon">🍾</span>火炎ビン</a> ・ <a href="#/ja/item/flashbang"><span class="wiki-icon">✨</span>閃光弾</a> ・ <a href="#/ja/item/lithium-battery"><span class="wiki-icon">🔋</span>リチウムバッテリー</a> ・ <a href="#/ja/item/faucet-handle"><span class="wiki-icon">🚰</span>蛇口のハンドル</a> ・ <a href="#/ja/item/grenade"><span class="wiki-icon">💣</span>手榴弾</a> ・ <a href="#/ja/item/dynamite"><span class="wiki-icon">🧨</span>ダイナマイト</a> ・ <a href="#/ja/item/duel-disk"><span class="wiki-icon">💿</span>デュエルディスク</a> ・ <a href="#/ja/item/clow-card"><span class="wiki-icon">🃏</span>クロウカード</a> ・ <a href="#/ja/item/clockwork-apple"><span class="wiki-icon">🍎</span>時計仕掛けのリンゴ</a> ・ <a href="#/ja/item/star-rod"><span class="wiki-icon">🪄</span>スターロッド</a> ・ <a href="#/ja/item/ghost-ward"><span class="wiki-icon">🏷️</span>幽霊退治の札</a> ・ <a href="#/ja/item/military-dolphin"><span class="wiki-icon">🐬</span>軍用イルカ</a> ・ <a href="#/ja/item/trojan-horse"><span class="wiki-icon">🐴</span>トロイの木馬</a> ・ <a href="#/ja/item/nuclear-bomb"><span class="wiki-icon">☢️</span>核爆弾</a> ・ <a href="#/ja/item/spirit-bomb"><span class="wiki-icon">🌕</span>元気玉</a> ・ <a href="#/ja/item/n2-mine"><span class="wiki-icon">💣</span>N2爆雷</a></div></div>
 
@@ -81,24 +67,16 @@
 	"maximum": 0,
 	"equipmentType": "consumable",
 	"consumeChance": 1,
-	"requirements": [
-		{
-			"type": "category",
-			"id": "explosive-weapon",
-			"count": 22,
-			"chance": 1,
-			"equipment": false
-		}
-	],
+	"requirements": [],
 	"properties": [
 		{
 			"category": "",
 			"attack": 22,
 			"defence": 0,
-			"accuracy": 0,
+			"accuracy": -2,
 			"evasion": 0,
 			"restore": 0,
-			"speed": 0,
+			"speed": -4,
 			"chance": 0,
 			"experience": 0
 		}

@@ -1,8 +1,8 @@
 # 砂の城
 
-<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">砂の城</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏖️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/floor"><span class="wiki-icon">🟫</span>床</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">砂の城</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏖️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/shelf"><span class="wiki-icon">📚</span>棚</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
-> 波が来れば消える儚さ。床に飾ると、すべてのカテゴリの経験値が増える。
+> 波が来れば消える儚さ。棚に飾ると、すべてのカテゴリの経験値が増える。
 
 
 ## 性能
@@ -11,7 +11,7 @@
 
 | 効き先 | 経験値 |
 | --- | --- |
-| 全カテゴリ | +3 |
+| 全カテゴリ | +2 |
 
 ## 入手方法
 
@@ -21,7 +21,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">🏖️</span>砂の城](/ja/action/craft-sand-castle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 | 1 | 100% | 1 | 0.25 |
 
-<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 床</div><div class="wiki-navbox-body"><a href="#/ja/item/sand-castle"><span class="wiki-icon">🏖️</span>砂の城</a> ・ <a href="#/ja/item/dancing-statue"><span class="wiki-icon">🕺</span>踊る銅像</a> ・ <a href="#/ja/item/flying-carpet"><span class="wiki-icon">🧞</span>空飛ぶ絨毯</a> ・ <a href="#/ja/item/grandfather-clock"><span class="wiki-icon">🕰️</span>おじいさんの時計</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 棚</div><div class="wiki-navbox-body"><a href="#/ja/item/sand-castle"><span class="wiki-icon">🏖️</span>砂の城</a> ・ <a href="#/ja/item/infinite-loop-videotape"><span class="wiki-icon">📼</span>無限ループするビデオテープ</a> ・ <a href="#/ja/item/golden-orb"><span class="wiki-icon">🟡</span>金の玉</a></div></div>
 
 ## 開発者向け情報
 
@@ -29,7 +29,7 @@
 | --- | --- |
 | id | `sand-castle` |
 | `category` | `bedroom` |
-| `group` | `floor` |
+| `group` | `shelf` |
 | `unlocked` | `hidden` |
 | `buyingValue` | `0` |
 | `sellingValue` | `0` |
@@ -50,7 +50,7 @@
 	"information": {
 		"id": "sand-castle",
 		"name": "砂の城",
-		"explanation": "波が来れば消える儚さ。床に飾ると、すべてのカテゴリの経験値が増える。",
+		"explanation": "波が来れば消える儚さ。棚に飾ると、すべてのカテゴリの経験値が増える。",
 		"icon": {
 			"emoji": "🏖️",
 			"iconify": "",
@@ -59,7 +59,7 @@
 		"color": ""
 	},
 	"category": "bedroom",
-	"group": "floor",
+	"group": "shelf",
 	"unlocked": "hidden",
 	"buyingValue": 0,
 	"sellingValue": 0,
@@ -78,7 +78,7 @@
 			"restore": 0,
 			"speed": 0,
 			"chance": 0,
-			"experience": 3
+			"experience": 2
 		}
 	],
 	"skill": ""

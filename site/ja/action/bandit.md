@@ -19,10 +19,10 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/5824a7cabeddd7b5.svg" alt="">ロープ](/ja/item/rope) ×1 | 成功時 | 5.91% | 0.03 | 4.3 |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) ×1 | 成功時 | 3.17% | 0.016 | 2.3 |
-| [<span class="wiki-icon">📰</span>新聞紙](/ja/item/newspaper-sheet) ×1 | 成功時 | 2.96% | 0.015 | 2.2 |
-| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) ×1 | 成功時 | 0.013% | 0 | 0.009 |
+| [<img class="wiki-icon" src="assets/icon/5824a7cabeddd7b5.svg" alt="">ロープ](/ja/item/rope) ×1 | 成功時 | 5.91% | 0.03 | 3.8 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) ×1 | 成功時 | 3.17% | 0.016 | 2 |
+| [<span class="wiki-icon">📰</span>新聞紙](/ja/item/newspaper-sheet) ×1 | 成功時 | 2.96% | 0.015 | 1.9 |
+| [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) ×1 | 成功時 | 0.013% | 0 | 0.008 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -32,7 +32,7 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 38 | 13 | 5 | 0 | 10 |
+| 40 | 16 | 9 | 3 | 13 |
 
 **敵のスキル**
 
@@ -42,10 +42,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv14） | 11.8% | 6.48% | 75% | 23.1% | 15.8% | 12 | 59.8% | 24.7秒 | 連戦で少しずつ消耗する |
-| +10（Lv24） | 17.7% | 5.29% | 81.8% | 26.9% | 22% | 7.3 | 28.4% | 12.9秒 | 連戦で少しずつ消耗する |
-| +20（Lv34） | 26.6% | 4.32% | 87.1% | 31.1% | 29.7% | 4.6 | 13.7% | 7.1秒 | 放置で連戦できる |
-| +30（Lv44） | 39.8% | 3.53% | 91% | 35.6% | 38.8% | 3.3 | 7.49% | 4.4秒 | 放置で連戦できる |
+| ±0（Lv14） | 10.5% | 6.75% | 72.7% | 21.7% | 14.3% | 13.8 | 72.7% | 28.1秒 | 連戦で少しずつ消耗する |
+| +10（Lv24） | 15.7% | 5.51% | 79.9% | 25.4% | 20% | 8.8 | 36% | 15.1秒 | 連戦で少しずつ消耗する |
+| +20（Lv34） | 23.5% | 4.5% | 85.7% | 29.4% | 27.3% | 5.8 | 18.5% | 8.7秒 | 放置で連戦できる |
+| +30（Lv44） | 35.3% | 3.67% | 90% | 33.8% | 36% | 3.3 | 8.11% | 4.5秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -53,10 +53,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv14） | 1.9秒 | 50% | 1.09 | 145.7 | 20 |
-| +10（Lv24） | 1.6秒 | 60% | 0.73 | 278.5 | 11 |
-| +20（Lv34） | 1.3秒 | 69.2% | 0.48 | 508.2 | 5 |
-| +30（Lv44） | 1秒 | 77.1% | 0.32 | 810.2 | 2 |
+| ±0（Lv14） | 1.9秒 | 50% | 1.09 | 128.3 | 18 |
+| +10（Lv24） | 1.6秒 | 60% | 0.73 | 237.8 | 9 |
+| +20（Lv34） | 1.3秒 | 69.2% | 0.48 | 415.7 | 4 |
+| +30（Lv44） | 1秒 | 77.1% | 0.32 | 803 | 2 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
@@ -64,11 +64,11 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 13 | 2 | 12 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 12 | 1 | 10 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#856654"><div class="wiki-navbox-title">街のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/alley-search"><span class="wiki-icon">🔦</span>路地裏の探し物</a> ・ <a href="#/ja/action/midnight-street"><span class="wiki-icon">🌃</span>深夜の路上</a> ・ <a href="#/ja/action/rummage-trash-can"><span class="wiki-icon">🗑️</span>ゴミ箱あさり</a> ・ <a href="#/ja/action/cult-leader"><span class="wiki-icon">🙏</span>教祖</a> ・ <a href="#/ja/action/bandit"><span class="wiki-icon">🗡️</span>山賊</a> ・ <a href="#/ja/action/stray-dog-pack"><span class="wiki-icon">🐕</span>野良犬の群れ</a> ・ <a href="#/ja/action/shaman"><span class="wiki-icon">🧙</span>シャーマン</a> ・ <a href="#/ja/action/doppelganger"><span class="wiki-icon">👥</span>ドッペルゲンガー</a> ・ <a href="#/ja/action/gremlin"><span class="wiki-icon">👺</span>グレムリン</a> ・ <a href="#/ja/action/zombie"><span class="wiki-icon">🧟</span>ゾンビ</a> ・ <a href="#/ja/action/wizard"><span class="wiki-icon">🧙</span>魔法使い</a> ・ <a href="#/ja/action/thief"><span class="wiki-icon">🥷</span>盗賊</a> ・ <a href="#/ja/action/bounty-hunter"><span class="wiki-icon">🤠</span>賞金稼ぎ</a> ・ <a href="#/ja/action/sewer-rat"><span class="wiki-icon">🐀</span>ドブネズミ</a> ・ <a href="#/ja/action/condemned-building"><span class="wiki-icon">🏚️</span>取り壊し前の廃ビル</a> ・ <a href="#/ja/action/sewer-rumor"><span class="wiki-icon">🕳️</span>地下水路の噂</a> ・ <a href="#/ja/action/backstreet-informant"><span class="wiki-icon">🕵️</span>裏通りの情報屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#856654"><div class="wiki-navbox-title">街のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/alley-search"><span class="wiki-icon">🔦</span>路地裏の探し物</a> ・ <a href="#/ja/action/midnight-street"><span class="wiki-icon">🌃</span>深夜の路上</a> ・ <a href="#/ja/action/rummage-trash-can"><span class="wiki-icon">🗑️</span>ゴミ箱あさり</a> ・ <a href="#/ja/action/rampaging-vending-machine"><span class="wiki-icon">🥤</span>暴れ自販機</a> ・ <a href="#/ja/action/cult-leader"><span class="wiki-icon">🙏</span>教祖</a> ・ <a href="#/ja/action/bandit"><span class="wiki-icon">🗡️</span>山賊</a> ・ <a href="#/ja/action/stray-dog-pack"><span class="wiki-icon">🐕</span>野良犬の群れ</a> ・ <a href="#/ja/action/shaman"><span class="wiki-icon">🧙</span>シャーマン</a> ・ <a href="#/ja/action/doppelganger"><span class="wiki-icon">👥</span>ドッペルゲンガー</a> ・ <a href="#/ja/action/gremlin"><span class="wiki-icon">👺</span>グレムリン</a> ・ <a href="#/ja/action/zombie"><span class="wiki-icon">🧟</span>ゾンビ</a> ・ <a href="#/ja/action/wizard"><span class="wiki-icon">🧙</span>魔法使い</a> ・ <a href="#/ja/action/thief"><span class="wiki-icon">🥷</span>盗賊</a> ・ <a href="#/ja/action/bounty-hunter"><span class="wiki-icon">🤠</span>賞金稼ぎ</a> ・ <a href="#/ja/action/sewer-rat"><span class="wiki-icon">🐀</span>ドブネズミ</a> ・ <a href="#/ja/action/condemned-building"><span class="wiki-icon">🏚️</span>取り壊し前の廃ビル</a> ・ <a href="#/ja/action/sewer-rumor"><span class="wiki-icon">🕳️</span>地下水路の噂</a> ・ <a href="#/ja/action/backstreet-informant"><span class="wiki-icon">🕵️</span>裏通りの情報屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -158,11 +158,11 @@
 	],
 	"progressType": "stamina",
 	"property": {
-		"attack": 38,
-		"defence": 13,
-		"accuracy": 5,
-		"evasion": 0,
-		"restore": 10
+		"attack": 40,
+		"defence": 16,
+		"accuracy": 9,
+		"evasion": 3,
+		"restore": 13
 	},
 	"skills": [
 		"reckless"

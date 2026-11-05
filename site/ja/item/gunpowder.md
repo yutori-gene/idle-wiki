@@ -12,6 +12,10 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<span class="wiki-icon">⛏️</span>鍾乳洞の鉱石掘り](/ja/action/limestone-cave-ore-digging) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv11 | 5 | 56% | 1.4 | 72 |
+| [<span class="wiki-icon">🔩</span>硫黄（分解）](/ja/action/disassemble-sulfur) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv35 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🔩</span>燃え殻（分解）](/ja/action/disassemble-cinder) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv35 | 1 | 100% | 1 | 1.7 |
+| [<span class="wiki-icon">🔩</span>硫黄石（分解）](/ja/action/disassemble-sulfur-stone) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv43 | 1 | 100% | 1 | 1.3 |
+| [<span class="wiki-icon">🔩</span>煤（分解）](/ja/action/disassemble-soot) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv43 | 1 | 100% | 1 | 1.3 |
 
 ## 用途
 
@@ -19,10 +23,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>手榴弾](/ja/action/craft-grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv33 | 2 | 100% |  |
-| [<span class="wiki-icon">🧨</span>ダイナマイト](/ja/action/craft-dynamite) | [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | Lv35 | 3 | 100% |  |
+| [<span class="wiki-icon">💣</span>手榴弾](/ja/action/craft-grenade) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv33 | 2 | 100% |  |
+| [<span class="wiki-icon">🧨</span>ダイナマイト](/ja/action/craft-dynamite) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv35 | 3 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">231件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
 ## 開発者向け情報
 

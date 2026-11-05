@@ -1,6 +1,6 @@
 # 巨大なクモ
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">巨大なクモ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f4a063e2ef801314.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/park"><img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv5</td></tr><tr><th>所要時間</th><td>1.8秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.03</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">巨大なクモ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f4a063e2ef801314.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/park"><img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>1.8秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.03</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > キモい🕷️
 
@@ -9,7 +9,6 @@
 
 ## 必要なもの
 
-- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv5以上（経験値の入り先カテゴリのレベル）
 - [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) ×1（装備が必要・消費しない）
 
 ## 取得物
@@ -31,7 +30,7 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 15 | 0 | 2 | 0 | 8 |
+| 15 | 0 | 6 | 0 | 9 |
 
 **敵のスキル**
 
@@ -41,10 +40,10 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv5） | 20% | 4.07% | 75% | 24.2% | 16.9% | 6.7 | 20.5% | 13.8秒 | 連戦で少しずつ消耗する |
-| +10（Lv15） | 30% | 3.32% | 81.8% | 28.2% | 23.4% | 4.9 | 11.7% | 8.7秒 | 放置で連戦できる |
-| +20（Lv25） | 45% | 2.71% | 87.1% | 32.4% | 31.5% | 3.4 | 6.31% | 5.3秒 | 放置で連戦できる |
-| +30（Lv35） | 67.5% | 2.21% | 91% | 37% | 40.8% | 2.2 | 3.06% | 3.1秒 | 放置で連戦できる |
+| ±0（Lv1） | 20% | 4.07% | 75% | 22.8% | 16.4% | 6.7 | 20.9% | 13.8秒 | 連戦で少しずつ消耗する |
+| +10（Lv11） | 30% | 3.32% | 81.8% | 26.6% | 22.7% | 4.9 | 11.9% | 8.7秒 | 放置で連戦できる |
+| +20（Lv21） | 45% | 2.71% | 87.1% | 30.7% | 30.6% | 3.4 | 6.47% | 5.3秒 | 放置で連戦できる |
+| +30（Lv31） | 67.5% | 2.21% | 91% | 35.2% | 39.8% | 2.2 | 3.15% | 3.1秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
@@ -52,10 +51,10 @@
 
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
-| ±0（Lv5） | 1.8秒 | 50% | 1.03 | 260.9 | 88 |
-| +10（Lv15） | 1.5秒 | 60% | 0.69 | 416 | 40 |
-| +20（Lv25） | 1.2秒 | 69.2% | 0.46 | 675 | 17 |
-| +30（Lv35） | 1秒 | 77.1% | 0.31 | 1,149.1 | 8 |
+| ±0（Lv1） | 1.8秒 | 50% | 1.03 | 260.9 | 134 |
+| +10（Lv11） | 1.5秒 | 60% | 0.69 | 416 | 60 |
+| +20（Lv21） | 1.2秒 | 69.2% | 0.46 | 675 | 27 |
+| +30（Lv31） | 1秒 | 77.1% | 0.31 | 1,149.1 | 12 |
 
 レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
@@ -78,7 +77,7 @@
 | `attribute` | `melee-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `5` |
+| `level` | `1` |
 | `experience` | `1.03` |
 | `seconds` | `1.8` |
 | `chance` | `0.5` |
@@ -108,7 +107,7 @@
 	"attribute": "melee-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 5,
+	"level": 1,
 	"experience": 1.03,
 	"seconds": 1.8,
 	"chance": 0.5,
@@ -164,9 +163,9 @@
 	"property": {
 		"attack": 15,
 		"defence": 0,
-		"accuracy": 2,
+		"accuracy": 6,
 		"evasion": 0,
-		"restore": 8
+		"restore": 9
 	},
 	"skills": [
 		"hardening"

@@ -21,7 +21,7 @@
 | [<span class="wiki-icon">👑</span>ダイヤモンドのティアラ](/ja/item/diamond-tiara) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 648 |
 | [<span class="wiki-icon">🏆</span>聖杯](/ja/item/holy-grail) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 1,944 |
 | [<span class="wiki-icon">🍀</span>99葉のクローバー](/ja/item/ninety-nine-leaf-clover) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 2,187 |
-| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備不可 | 21,870 |
+| [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) | [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | 装備必須 | 21,870 |
 
 ## 開発者向け情報
 

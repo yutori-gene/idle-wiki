@@ -11,10 +11,10 @@
 | --- | --- | --- | --- |
 | [<span class="wiki-icon">🎃</span>カボチャ](/ja/item/pumpkin) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 1 |
 | [<span class="wiki-icon">🌾</span>小麦](/ja/item/wheat) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 3 |
-| [<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 3 |
+| [<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 消費装備 | 3 |
 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 3 |
-| [<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 6 |
-| [<span class="wiki-icon">🍎</span>リンゴ](/ja/item/apple) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 6 |
+| [<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 消費装備 | 6 |
+| [<span class="wiki-icon">🍎</span>リンゴ](/ja/item/apple) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 消費装備 | 6 |
 | [<span class="wiki-icon">🦎</span>ウーパールーパー](/ja/item/axolotl) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 18 |
 | [<span class="wiki-icon">🍯</span>蜂蜜](/ja/item/honey) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 18 |
 | [<span class="wiki-icon">🥔</span>ジャガイモ](/ja/item/potato) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 9 |

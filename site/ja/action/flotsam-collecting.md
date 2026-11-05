@@ -14,12 +14,8 @@
 | [<span class="wiki-icon">🪣</span>穴の空いたバケツ](/ja/item/holed-bucket) ×5 | 成功時 | 56% | 1.4 | 126 |
 | [<span class="wiki-icon">🫧</span>海泡](/ja/item/sea-foam) ×5 | 成功時 | 56% | 1.4 | 126 |
 | [<span class="wiki-icon">🍾</span>空ビン](/ja/item/empty-bottle) ×1 | 成功時 | 21.6% | 0.108 | 9.7 |
-| [<span class="wiki-icon">🦯</span>松葉杖](/ja/item/crutch) ×1 | 成功時 | 21.6% | 0.108 | 9.7 |
-| [<span class="wiki-icon">🏊</span>浮き輪](/ja/item/swim-ring) ×1 | 成功時 | 8.64% | 0.043 | 3.9 |
 | [<span class="wiki-icon">🏄</span>サーフボード](/ja/item/surfboard) ×1 | 成功時 | 7.2% | 0.036 | 3.2 |
-| [<span class="wiki-icon">💎</span>秘石](/ja/item/secret-stone) ×1 | 成功時 | 31.1% | 0.156 | 14 |
 | [<img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット](/ja/item/slingshot) ×2 | 成功時 | 25.9% | 0.259 | 23.3 |
-| [<span class="wiki-icon">👮</span>警察バッジ](/ja/item/police-badge) ×2 | 成功時 | 25.9% | 0.259 | 23.3 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -38,7 +34,7 @@
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 4,688 | 0 | 4,688 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 2,080 | 0 | 2,080 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
@@ -109,37 +105,13 @@
 		},
 		{
 			"type": "item",
-			"id": "crutch",
-			"count": 1,
-			"chance": 0.216
-		},
-		{
-			"type": "item",
-			"id": "swim-ring",
-			"count": 1,
-			"chance": 0.0864
-		},
-		{
-			"type": "item",
 			"id": "surfboard",
 			"count": 1,
 			"chance": 0.072
 		},
 		{
 			"type": "item",
-			"id": "secret-stone",
-			"count": 1,
-			"chance": 0.311
-		},
-		{
-			"type": "item",
 			"id": "slingshot",
-			"count": 2,
-			"chance": 0.259
-		},
-		{
-			"type": "item",
-			"id": "police-badge",
 			"count": 2,
 			"chance": 0.259
 		}

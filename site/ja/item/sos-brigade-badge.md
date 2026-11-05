@@ -1,6 +1,6 @@
 # SOS団のバッジ
 
-<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">SOS団のバッジ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎖️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brooch"><span class="wiki-icon">🎖️</span>ブローチ</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>648 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">SOS団のバッジ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎖️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brooch"><span class="wiki-icon">🎖️</span>ブローチ</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>648 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > このバッジを持つ者は国家権力からも隠蔽された超常現象への対抗組織の一員である。
 
@@ -9,17 +9,19 @@
 
 装備しているあいだ効く（同じグループで装備できるのは1つ）。値はレベル差に加算される（レベル差10ごとに効果が propertyRatio 倍。[戦闘のしくみ](/ja/system/combat) を参照）。
 
-| 効き先 | 攻撃 | 防御 | 精度 | 回避 |
-| --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | +97 | +73 | -12 | -3 |
+| 効き先 | 速度 |
+| --- | --- |
+| [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | +6 |
+| [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | +3 |
+| [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | +3 |
 
 ## 入手方法
 
-### アクション
+### イベント
 
-| アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
-| --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📚</span>書庫の調べ物](/ja/action/archive-research) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv3 | 1 | 12.4% | 0.062 | 2.8 |
+| イベント | タイミング | 個数 | 確率 |
+| --- | --- | --- | --- |
+| [<span class="wiki-icon">🪜</span>玉座への階段](/ja/event/stairs-to-throne) | 条件達成（タスク） | 1 | 100% |
 
 <div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: ブローチ</div><div class="wiki-navbox-body"><a href="#/ja/item/firefly"><img class="wiki-icon" src="assets/icon/c4f9d12979bdfc90.svg" alt="">ホタル</a> ・ <a href="#/ja/item/pin-badge"><img class="wiki-icon" src="assets/icon/5f67ad53a251b7d6.svg" alt="">ピンバッジ</a> ・ <a href="#/ja/item/heart-brooch"><span class="wiki-icon">💗</span>ハートブローチ</a> ・ <a href="#/ja/item/employee-badge"><span class="wiki-icon">🪪</span>社員証</a> ・ <a href="#/ja/item/gym-badge"><span class="wiki-icon">🎖️</span>ジムバッジ</a> ・ <a href="#/ja/item/verified-badge"><span class="wiki-icon">🪪</span>認証バッジ</a> ・ <a href="#/ja/item/police-badge"><span class="wiki-icon">👮</span>警察バッジ</a> ・ <a href="#/ja/item/hunter-license"><span class="wiki-icon">🪪</span>ハンターライセンス</a> ・ <a href="#/ja/item/cross-rosary"><span class="wiki-icon">📿</span>十字架のロザリオ</a> ・ <a href="#/ja/item/moon-emblem"><span class="wiki-icon">🌙</span>月の紋章</a> ・ <a href="#/ja/item/bowtie-voice-changer"><span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機</a> ・ <a href="#/ja/item/disguise-brooch"><span class="wiki-icon">🥸</span>変装ブローチ</a> ・ <a href="#/ja/item/medal"><span class="wiki-icon">🎖️</span>勲章</a> ・ <a href="#/ja/item/family-crest-brooch"><span class="wiki-icon">🎖️</span>家紋のブローチ</a> ・ <a href="#/ja/item/sos-brigade-badge"><span class="wiki-icon">🎖️</span>SOS団のバッジ</a> ・ <a href="#/ja/item/survey-corps-badge"><span class="wiki-icon">🎖️</span>調査兵団のバッジ</a> ・ <a href="#/ja/item/golden-spin"><span class="wiki-icon">🌀</span>黄金の回転</a> ・ <a href="#/ja/item/dark-matter"><span class="wiki-icon">🌑</span>暗黒物質</a> ・ <a href="#/ja/item/beast-rose"><span class="wiki-icon">🌹</span>獣の薔薧</a> ・ <a href="#/ja/item/at-field"><span class="wiki-icon">🔺</span>ATフィールド</a> ・ <a href="#/ja/item/s2-engine"><span class="wiki-icon">⚙️</span>S2機関</a></div></div>
 
@@ -70,13 +72,35 @@
 	"requirements": [],
 	"properties": [
 		{
-			"category": "explosive-weapon",
-			"attack": 97,
-			"defence": 73,
-			"accuracy": -12,
-			"evasion": -3,
+			"category": "castle",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
 			"restore": 0,
-			"speed": 0,
+			"speed": 6,
+			"chance": 0,
+			"experience": 0
+		},
+		{
+			"category": "hell",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 3,
+			"chance": 0,
+			"experience": 0
+		},
+		{
+			"category": "sky-garden",
+			"attack": 0,
+			"defence": 0,
+			"accuracy": 0,
+			"evasion": 0,
+			"restore": 0,
+			"speed": 3,
 			"chance": 0,
 			"experience": 0
 		}
