@@ -4,7 +4,7 @@ import { designReferences, publishedDocuments } from "../../config/wiki.ts";
 import type { Model, Reference } from "../lib/model.ts";
 import type { Notes } from "../lib/notes.ts";
 import type { PageType } from "../lib/label.ts";
-import { details, escapeHtml, escapeMarkdown, join, link, number, percent, section, table } from "../lib/format.ts";
+import { cellList, details, escapeHtml, escapeMarkdown, join, link, number, percent, section, table } from "../lib/format.ts";
 import { findHeading } from "../lib/document.ts";
 import { imageFile } from "../lib/image.ts";
 import { calculateActionStats, expectedAcquisition, expectedConsumption, type ActionStats } from "../lib/calc.ts";
@@ -101,31 +101,24 @@ function shortSuffix(count: number, chance: number): string {
 	return `${count !== 1 ? `×${number(count)}` : ""}${chance < 1 ? ` (${percent(chance)})` : ""}`;
 }
 
-/** 表の消費物・取得物の区切り。行を高くしないよう改行せず1行につなげる（RULES.md「表記」） */
-const SHORT_SEPARATOR = "、";
-
-/** 表の消費物・取得物の1件。セルの幅で折り返すときに名前の途中で切れないよう、1件ずつ折り返さない塊にする（wiki.css の .wiki-entry） */
-function shortEntry(text: string): string {
-	return `<span class="wiki-entry">${text}</span>`;
-}
-
 /** アクションの消費物（消費率>0 のアイテム要求）を表向けに短く */
 export function shortConsumptions(context: Context, action: Type.Action): string {
-	return action.requirements
-		.filter((requirement) => requirement.type === "item" && requirement.chance > 0)
-		.map((requirement) => shortEntry(link(context.model, "item", requirement.id) + shortSuffix(requirement.count, requirement.chance)))
-		.join(SHORT_SEPARATOR);
+	return cellList(
+		action.requirements
+			.filter((requirement) => requirement.type === "item" && requirement.chance > 0)
+			.map((requirement) => link(context.model, "item", requirement.id) + shortSuffix(requirement.count, requirement.chance)),
+	);
 }
 
 /** アクションの取得物を表向けに短く。失敗時のものは頭に「失敗:」 */
 export function shortAcquisitions(context: Context, action: Type.Action): string {
-	return action.acquisitions
-		.map((acquisition) => {
-			if (acquisition.type !== "item") return shortEntry(acquisitionText(context, acquisition));
+	return cellList(
+		action.acquisitions.map((acquisition) => {
+			if (acquisition.type !== "item") return acquisitionText(context, acquisition);
 			const failure = acquisition.chance < 0 ? "失敗:" : "";
-			return shortEntry(failure + link(context.model, "item", acquisition.id) + shortSuffix(acquisition.count, Math.abs(acquisition.chance)));
-		})
-		.join(SHORT_SEPARATOR);
+			return failure + link(context.model, "item", acquisition.id) + shortSuffix(acquisition.count, Math.abs(acquisition.chance));
+		}),
+	);
 }
 
 /** 消費物・取得物の短い表記の注記 */

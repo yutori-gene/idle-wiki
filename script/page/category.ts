@@ -3,7 +3,7 @@ import type * as Type from "../../source/type/worldType.ts";
 import { categoryPatterns, designReferences } from "../../config/wiki.ts";
 import { experienceToNext } from "../lib/calc.ts";
 import { extractSection } from "../lib/document.ts";
-import { details, duration, escapeMarkdown, infobox, join, link, linkHtml, navbox, number, percent, section, signed, table, type InfoboxRow } from "../lib/format.ts";
+import { cellList, details, duration, PROSE_CLASS, escapeMarkdown, infobox, join, link, linkHtml, navbox, number, percent, section, signed, table, type InfoboxRow } from "../lib/format.ts";
 import {
 	acquisitionText,
 	baseStats,
@@ -162,7 +162,7 @@ function levelSection(context: Context, category: Type.Category): string {
 	const rows: string[][] = [];
 	for (let level = 1; level <= general.maxCategoryLevels; level++) {
 		const unlocks = byLevel.get(level);
-		if (unlocks) rows.push([`Lv${level}`, number(total, 0), unlocks.join("<br>")]);
+		if (unlocks) rows.push([`Lv${level}`, number(total, 0), cellList(unlocks)]);
 		total += experienceToNext(general, level);
 	}
 	return section("レベルで開くもの", join(table(["レベル", "累計経験値", "開くもの"], rows), `必要経験値の一覧は [経験値表](/${model.language}/reference/experience) を参照。`));
@@ -197,11 +197,11 @@ function patternExcerpt(context: Context, category: Type.Category): string {
 			const [file, heading] = reference.split("#");
 			const excerpt = extractSection(model.source.documents.get(file) ?? "", heading, 4);
 			if (excerpt === undefined) model.warn(`設計ドキュメントの見出しが見つからない: ${reference}`);
-			else blocks.push(details(`抜粋: ${file} › ${heading}`, excerpt));
+			else blocks.push(details(`抜粋: ${file} › ${heading}`, excerpt, PROSE_CLASS));
 		}
 	} else model.warn(`config/wiki.ts の categoryPatterns に無いカテゴリ: ${category.information.id}`);
 	const fill = model.source.overviewFills.get(category.information.name);
-	if (fill) blocks.push(details("抜粋: overview.md › 入手経路パターン", fill));
+	if (fill) blocks.push(details("抜粋: overview.md › 入手経路パターン", fill, PROSE_CLASS));
 	return join(...blocks);
 }
 

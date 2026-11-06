@@ -1,3 +1,5 @@
+<div class="wiki-prose">
+
 # CSV から消したもの（変換フェーズ 2026-09-06 〜 09-14）
 
 > idle リポジトリ `world/doc/csv-removed.md` の写し（3b432c4 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
@@ -68,3 +70,6 @@ git show <rev>:world/list/<file>.csv
 ```
 を 2リビジョン分読み、`id` と `name` の集合差を取れば同じ結果になる。
 CSV は BOM と改行コードがファイルごとに違うので、読み書きするときは必ず維持すること。
+
+
+</div>

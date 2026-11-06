@@ -575,7 +575,7 @@
 
 **カテゴリの型**: 保管型
 
-<details><summary>抜粋: plan.md › 保管型の雛形</summary>
+<details class="wiki-prose"><summary>抜粋: plan.md › 保管型の雛形</summary>
 
 倉庫はアクション0本の置き場なので、この節が決めるのは**アイテムの仕分けと、下流のカテゴリ回への申し送り**。詳細は [overview.md](../view/overview.md) の倉庫セクションの記入欄が正本。
 
@@ -628,7 +628,7 @@
 
 </details>
 
-<details><summary>抜粋: overview.md › 入手経路パターン</summary>
+<details class="wiki-prose"><summary>抜粋: overview.md › 入手経路パターン</summary>
 
 **倉庫はアクション0本の置き場。** `Item.category` は管理場所であって入手場所ではないので、ここのタグは「**どのカテゴリの回でアクションを起こすか**」の指示書として読む。
 

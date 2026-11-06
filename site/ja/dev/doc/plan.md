@@ -1,3 +1,5 @@
+<div class="wiki-prose">
+
 
 # General設定
 
@@ -4001,3 +4003,5 @@ direct・3シード・150時間（`.reference/reports/report_worldplaytest_sunli
 - [ ] データ不整合時のローカルデータ強制削除挙動を確認
 - [x] lockedの整理
 - [ ] unique効果の重複
+
+</div>

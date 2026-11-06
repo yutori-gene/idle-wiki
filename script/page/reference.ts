@@ -1,7 +1,7 @@
 // 参照表（reference/<名前>）。ワールド全体を横断して計算する表
 import type * as Type from "../../source/type/worldType.ts";
 import { calculateActionStats, experienceToNext } from "../lib/calc.ts";
-import { join, link, number, section, table } from "../lib/format.ts";
+import { cellList, join, link, number, section, table } from "../lib/format.ts";
 import { actionEconomy, baseStats, requirementText, type Context, type Page } from "./common.ts";
 import { levelGapsOf } from "./action.ts";
 
@@ -189,8 +189,8 @@ function progressionPage(context: Context): Page {
 			});
 		return [
 			link(model, "category", category.information.id),
-			category.unlocked === "released" ? "最初から" : category.requirements.map((requirement) => requirementText(context, requirement)).join("<br>"),
-			itemSources.join("<br>"),
+			category.unlocked === "released" ? "最初から" : cellList(category.requirements.map((requirement) => requirementText(context, requirement))),
+			cellList(itemSources),
 		];
 	});
 	return page(

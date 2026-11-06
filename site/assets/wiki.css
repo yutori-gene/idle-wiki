@@ -384,6 +384,16 @@ body {
 	border-bottom: 1px solid var(--wiki-line);
 }
 
+/* マスは1行で出し、列の幅は中身に合わせる（表は自動レイアウト）。画面より広い表は表の中で横にスクロールする */
+.markdown-section td {
+	white-space: nowrap;
+}
+
+/* 設計ドキュメントの写し・抜粋の表は文章なので折り返す（script/lib/format.ts の PROSE_CLASS） */
+.markdown-section .wiki-prose td {
+	white-space: normal;
+}
+
 .markdown-section tbody tr:last-child td {
 	border-bottom: none;
 }
@@ -501,11 +511,6 @@ img.wiki-icon {
 	object-fit: contain;
 }
 
-/* 表の消費物・取得物の1件（「、」区切りで1行につなげる）。折り返しは件と件の間だけにする */
-.wiki-entry {
-	white-space: nowrap;
-}
-
 .wiki-icon-large {
 	display: inline-block;
 	font-size: 60px;
@@ -574,6 +579,11 @@ img.wiki-icon-large {
 	vertical-align: top;
 	background: transparent;
 	border-radius: 0;
+}
+
+/* インフォボックスは幅が決まった囲みなので、値は折り返す */
+.markdown-section .wiki-infobox td {
+	white-space: normal;
 }
 
 .markdown-section .wiki-infobox th {

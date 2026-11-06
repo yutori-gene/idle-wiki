@@ -96,12 +96,12 @@
 | [<span class="wiki-icon">📄</span>住民票](/ja/item/residence-certificate) | 18 | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv6以上 |
 | [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/item/chef-hat) | 18 | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv5以上 |
 | [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/item/cowboy-boots) | 18 | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) Lv5以上 |
-| [<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | 36 | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv2以上<br>[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上 |
+| [<span class="wiki-icon">🥤</span>サイダー](/ja/item/soda-pop) | 36 | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv2以上、[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv9以上 |
 | [<span class="wiki-icon">🍯</span>樹液](/ja/item/tree-sap) | 36 | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv2以上 |
 | [<span class="wiki-icon">🍯</span>蜂蜜の巣箱](/ja/item/honey-hive) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv22以上 |
 | [<span class="wiki-icon">🥚</span>ウーパールーパーの卵](/ja/item/axolotl-egg) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv25以上 |
 | [<span class="wiki-icon">🌿</span>大麻の種](/ja/item/hemp-seed) | 36 | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv32以上 |
-| [<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | 36 | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv1以上<br>[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv1以上 |
+| [<span class="wiki-icon">💊</span>メントス](/ja/item/mentos) | 36 | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv1以上、[<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv1以上 |
 | [<span class="wiki-icon">💌</span>ラブレター](/ja/item/love-letter) | 36 | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv10以上 |
 | [<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) | 36 | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv5以上 |
 | [<span class="wiki-icon">🧦</span>レッグウォーマー](/ja/item/leg-warmer) | 36 | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv5以上 |

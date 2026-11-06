@@ -1,3 +1,5 @@
+<div class="wiki-prose">
+
 # 実装上の懸念事項（demoワールド作成・検証で判明）
 
 > idle リポジトリ `world/doc/fix.md` の写し（3b432c4 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
@@ -220,3 +222,6 @@
 - [ ] B-18: スキルだけを持つポーション10種が消費されない。エンジンで直すか、データに `p-*` を持たせるかを決める（2026-10-31 に実測で発見）。
 - [ ] B-5: `offlineMaxHours` を実装する（`updateOffline` 側で経過時間をクランプ）か、機能ごと落として型・スキーマ・ドキュメントから外すかを決める。
 - [x] C-3: world-balance の `basic.development.simulations` 参照を削除・差し替えした（2026-08-06）。代替の裏取り手段は `npm/simulator`（player の実エンジンを Node 駆動）＋ `world-playtest` スキル。world-balance は静的レビュー（全件走査）、実測は world-playtest、と役割を分けている。その後スラッシュコマンドはスキルへ統合され、実体は `.claude/skills/world-balance/` に移った。
+
+
+</div>

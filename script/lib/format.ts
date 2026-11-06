@@ -74,9 +74,18 @@ export function section(heading: string, body: string, level = 2): string {
 }
 
 /** 折りたたみ。本文は Markdown として描画されるよう空行で挟む */
-export function details(summary: string, body: string): string {
-	return body.trim() ? `<details><summary>${escapeHtml(summary)}</summary>\n\n${body.trim()}\n\n</details>` : "";
+export function details(summary: string, body: string, className = ""): string {
+	const classAttribute = className ? ` class="${escapeHtml(className)}"` : "";
+	return body.trim() ? `<details${classAttribute}><summary>${escapeHtml(summary)}</summary>\n\n${body.trim()}\n\n</details>` : "";
 }
+
+/** 表の1マスに複数の項目を並べる。表のマスは1行で出す（wiki.css）ので改行せず「、」でつなぐ（RULES.md「表記」） */
+export function cellList(items: string[]): string {
+	return items.join("、");
+}
+
+/** 設計ドキュメントの写し・抜粋を包む class。中の表は文章なので、1行にせず折り返す（wiki.css） */
+export const PROSE_CLASS = "wiki-prose";
 
 /** 段落を空行でつなぐ（空の段落は捨てる） */
 export function join(...blocks: string[]): string {

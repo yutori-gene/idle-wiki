@@ -259,7 +259,7 @@
 
 **カテゴリの型**: 装備管理型
 
-<details><summary>抜粋: plan.md › 装備管理型の雛形</summary>
+<details class="wiki-prose"><summary>抜粋: plan.md › 装備管理型の雛形</summary>
 
 近接武器24種で確定した規約。残る4カテゴリ（投擲・爆発・防具・装飾）は各回でそのまま当てはめる。
 
@@ -457,7 +457,7 @@
 
 </details>
 
-<details><summary>抜粋: overview.md › 入手経路パターン</summary>
+<details class="wiki-prose"><summary>抜粋: overview.md › 入手経路パターン</summary>
 
 **バッチ3 の3本目＝Step 3 の最後のカテゴリ。133 → 60本**（合成23・分解37）。決めることはゼロ。
 

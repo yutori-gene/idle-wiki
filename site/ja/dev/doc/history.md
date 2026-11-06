@@ -1,3 +1,5 @@
+<div class="wiki-prose">
+
 # 経過の記録（2026-08-30〜2026-09-15）
 
 > idle リポジトリ `world/doc/history.md` の写し（3b432c4 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
@@ -1715,3 +1717,6 @@ python3 world/tool/check.py
 - **CSV に行を足すときは `id` と型列も一緒に書く。** `id` は英小文字ケバブケース・接頭辞なし・型内で一意（規則は plan.md「変換フェーズ 論点2」の「id 列」節）。`action.csv` の `req-N-type`／`acq-N-type` と `event.csv` の `acq-N-type` は現状すべて `item`。どちらも check.py が抜けを拾う
 - **CSV の参照列は id ではなく name のまま。** `req-N-id` などに書くのは今も日本語の名前で、変換時に型ごとの name→id 辞書で解決する。だから name 重複検査は id を持たせた後も必要
 - 作業ブランチは Step 3〜4 が `claude/world-session-roadmap-review-7r9mjr`、変換フェーズが `claude/csv-to-world-json-conversion-goj4kt`
+
+
+</div>

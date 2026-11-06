@@ -4,7 +4,7 @@ import * as path from "path";
 import type * as Type from "../../source/type/worldType.ts";
 import { languages, publishedDocuments, sidebarPages } from "../../config/wiki.ts";
 import { rewriteLinks } from "../lib/document.ts";
-import { escapeHtml, escapeMarkdown, join, link, number, section, table } from "../lib/format.ts";
+import { escapeHtml, escapeMarkdown, join, link, number, PROSE_CLASS, section, table } from "../lib/format.ts";
 import { root } from "../lib/path.ts";
 import { developerCell, documentPath, rawJson, type Context, type Page } from "./common.ts";
 import { LIST_PAGES } from "./list.ts";
@@ -151,7 +151,8 @@ export function developerPages(context: Context): Page[] {
 		const body = rewriteLinks(markdown, published, (name) => documentPath(context, name), file);
 		// 文書自身の見出しを先頭に保つため、注記は最初の見出しの直後に入れる
 		const withHeader = /^#\s/m.test(body) ? body.replace(/^(#\s.*)$/m, `$1\n\n${header}`) : `${header}\n\n${body}`;
-		pages.push({ path: `dev/doc/${file.replace(/\.md$/, "")}`, body: withHeader });
+		// 中の表は文章なので、1行にせず折り返す（wiki.css）。空行で挟むと div の中も Markdown として読まれる
+		pages.push({ path: `dev/doc/${file.replace(/\.md$/, "")}`, body: `<div class="${PROSE_CLASS}">\n\n${withHeader}\n\n</div>` });
 	}
 	return pages;
 }

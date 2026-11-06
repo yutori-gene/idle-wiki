@@ -1,3 +1,5 @@
+<div class="wiki-prose">
+
 # セッション引き継ぎメモ
 
 > idle リポジトリ `world/doc/session.md` の写し（3b432c4 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
@@ -120,3 +122,6 @@ npm run simulator-session -- --new --seed 1 --world world/world.json            
 ## 作業を止めるとき
 
 この「現在地」と「次の一手」を書き換えてから終わる。決めたことは plan.md に、実測はレポートに書く（ここに経過を積まない）。
+
+
+</div>

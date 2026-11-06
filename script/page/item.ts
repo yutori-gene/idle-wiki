@@ -2,7 +2,7 @@
 import type * as Type from "../../source/type/worldType.ts";
 import type { ItemEntry } from "../lib/model.ts";
 import { expectedAcquisition, slotPrice } from "../lib/calc.ts";
-import { amount, details, escapeHtml, infobox, join, link, linkHtml, navbox, number, percent, section, signed, table, type InfoboxRow } from "../lib/format.ts";
+import { amount, cellList, details, escapeHtml, infobox, join, link, linkHtml, navbox, number, percent, section, signed, table, type InfoboxRow } from "../lib/format.ts";
 import {
 	baseStats,
 	developerSection,
@@ -196,7 +196,7 @@ function coinItem(context: Context, path: string, entry: ItemEntry): string {
 
 	const buyTable = table(
 		["アイテム", "価格", "解放条件"],
-		buyable.map((item) => [link(model, "item", item.information.id), number(item.buyingValue), item.requirements.map((requirement) => requirementText(context, requirement)).join("<br>")]),
+		buyable.map((item) => [link(model, "item", item.information.id), number(item.buyingValue), cellList(item.requirements.map((requirement) => requirementText(context, requirement)))]),
 		{ filter: buyable.length > 20 },
 	);
 	const sellTable = table(

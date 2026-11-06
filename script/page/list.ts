@@ -1,6 +1,6 @@
 // 一覧ページ（list/<種別>）。種別ごとの全件表。どれも絞り込み欄付き
 import type * as Type from "../../source/type/worldType.ts";
-import { duration, join, link, number, percent, percentValue, section, signed, table } from "../lib/format.ts";
+import { cellList, duration, join, link, number, percent, percentValue, section, signed, table } from "../lib/format.ts";
 import { acquisitionText, baseStats, requirementText, SHORT_NOTE, shortAcquisitions, shortConsumptions, skillEffect, type Context, type Page } from "./common.ts";
 import { VERDICT } from "./action.ts";
 
@@ -36,7 +36,7 @@ export function listPages(context: Context): Page[] {
 				link(model, "category", category.information.id),
 				category.group ? link(model, "group", category.group) : "",
 				category.numeric ? "あり" : "なし",
-				category.unlocked === "released" ? "最初から" : category.requirements.map((requirement) => requirementText(context, requirement)).join("<br>"),
+				category.unlocked === "released" ? "最初から" : cellList(category.requirements.map((requirement) => requirementText(context, requirement))),
 				number(model.categoryActions.get(category.information.id)?.length ?? 0),
 				number(model.categoryItems.get(category.information.id)?.length ?? 0),
 			]),
@@ -91,7 +91,7 @@ export function listPages(context: Context): Page[] {
 						number(action.property.accuracy),
 						number(action.property.evasion),
 						number(action.property.restore),
-						action.skills.map((skillId) => link(model, "skill", skillId)).join("<br>"),
+						cellList(action.skills.map((skillId) => link(model, "skill", skillId))),
 						percentValue(combat.damage),
 						VERDICT[combat.verdict],
 					];
@@ -156,7 +156,7 @@ export function listPages(context: Context): Page[] {
 				percent(skill.chance),
 				skillEffect(context, skill),
 				number(model.skillEnemies.get(skill.information.id)?.length ?? 0),
-				(model.skillHolders.get(skill.information.id) ?? []).map((item) => link(model, "item", item.information.id)).join("<br>"),
+				cellList((model.skillHolders.get(skill.information.id) ?? []).map((item) => link(model, "item", item.information.id))),
 			]),
 			{ filter: true },
 		),
@@ -169,8 +169,8 @@ export function listPages(context: Context): Page[] {
 				link(model, "event", event.information.id),
 				model.label.timing[event.timing],
 				event.group ? link(model, "group", event.group) : "",
-				event.requirements.map((requirement) => requirementText(context, requirement, event.requiringGroup)).join("<br>"),
-				event.acquisitions.map((acquisition) => acquisitionText(context, acquisition)).join("<br>"),
+				cellList(event.requirements.map((requirement) => requirementText(context, requirement, event.requiringGroup))),
+				cellList(event.acquisitions.map((acquisition) => acquisitionText(context, acquisition))),
 			]),
 			{ filter: events.length > 15 },
 		);
