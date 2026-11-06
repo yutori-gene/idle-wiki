@@ -501,6 +501,11 @@ img.wiki-icon {
 	object-fit: contain;
 }
 
+/* 表の消費物・取得物の1件（「、」区切りで1行につなげる）。折り返しは件と件の間だけにする */
+.wiki-entry {
+	white-space: nowrap;
+}
+
 .wiki-icon-large {
 	display: inline-block;
 	font-size: 60px;

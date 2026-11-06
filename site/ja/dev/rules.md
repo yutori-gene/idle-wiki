@@ -81,6 +81,7 @@ world.json と CSV が食い違ったら world.json に従う（CSV にだけあ
 - ワールドに埋め込まれた data URI の画像（icon.image・基本設定とカテゴリの背景画像 backgrounds など）はページに埋め込まず、`site/assets/icon/<中身のハッシュ>.<拡張子>` に書き出して参照する（`image.ts`）。同じ画像を全リンクに埋め込むと一覧ページが数MBになるため。書き出せない形式（svg・png・jpeg・webp・gif 以外）だけはそのまま埋め込む
 - 開発者向け情報の表と JSON でも、data URI の画像は本文の代わりに書き出したファイルを指す（表は「画像」へのリンク、JSON は `（data URI の画像。site/assets/icon/…）`）。表では端末ごとの背景画像 `backgrounds` を `backgrounds.laptop`・`backgrounds.mobile` の行に展開する。それ以外の入れ子（icon など）は JSON にだけ載せる
 - 色は player と同じ継承: カテゴリの色 → アクション（attribute があれば attribute 側）・アイテム・イベントはカテゴリから継承
+- アクションの表（一覧・カテゴリページ）の消費物・取得物は、改行せず「、」区切りで1行につなげる（`common.ts` の `shortConsumptions`・`shortAcquisitions`）。1件ずつ `wiki-entry`（折り返さない塊）で包み、セルの幅で折り返すのは件と件の間だけにする
 - 確率は %（10%以上は小数1桁、それ未満は有効数字を残す）。秒は「1時間30分」のように上から2単位
 - 用語はゲーム内の呼び方（player のプリセットの日本語名）にそろえる: 連続／単発／即時／スタミナ、攻撃／防御／精度／回避／回復／速度／成功率／経験値
 - ネタバレは隠さない（hidden の要素もすべて載せる）
