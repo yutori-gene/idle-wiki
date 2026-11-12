@@ -146,6 +146,8 @@ export interface ExperienceShareStats {
 	categoryId: string;
 	/** 成功1回でこのカテゴリへ入る経験値 */
 	experience: number;
+	/** このカテゴリが最大レベルに届いている（経験値はもう入らない） */
+	capped: boolean;
 	experiencePerHour?: number;
 	/** 1時間あたりの経験値を、このカテゴリのレベル（必要Lv＋レベル差）での「レベル1つ分＝100%」に換算した値。即時は undefined */
 	levelPercentPerHour?: number;
@@ -159,7 +161,8 @@ export function experienceReturnRate(general: Type.General): number {
 
 /**
  * アクションのレベル差 gap での値を出す。player の calculatePropertties・calculateExperienceShares を装備補正・スキル補正なしで写したもの。
- * 所属カテゴリのレベル差は系統と同じ gap とみなす（所属・系統それぞれの必要Lvから同じだけ上にいる）
+ * 所属カテゴリのレベル差は系統と同じ gap とみなす（所属・系統それぞれの必要Lvから同じだけ上にいる）。
+ * ただし入り先カテゴリのレベルは最大レベルで止める（そこで止まったカテゴリは capped。player は最大レベルを超えたぶんを切り捨てる）
  * @param basis 系統のカテゴリと経験値の入り先（model.actionBasis）
  */
 export function calculateActionStats(world: Type.World, action: Type.Action, basis: ActionBasis, gap: number): ActionStats {
@@ -167,8 +170,12 @@ export function calculateActionStats(world: Type.World, action: Type.Action, bas
 	const levelGap = basis.numeric ? gap : 0;
 	const seconds = Math.max(calculateProperty(general, action.seconds, levelGap, "speed"), minimumActionSecond);
 	const chance = calculateProperty(general, action.chance * 100, levelGap, "chance") / 100;
-	// 入り先ごとに、そのカテゴリのレベル差（経験値なので逆向き）で計算して割合を掛ける
-	const shareExperiences = basis.targets.map((target) => ({ target, experience: calculateProperty(general, action.experience, -gap, "experience") * target.rate }));
+	// 入り先ごとに、そのカテゴリのレベル差（経験値なので逆向き）で計算して割合を掛ける。レベル差は最大レベルまでに収める
+	const max = general.maxCategoryLevels;
+	const shareExperiences = basis.targets.map((target) => {
+		const targetGap = Math.min(gap, Math.max(0, max - target.level));
+		return { target, level: Math.floor(target.level + targetGap), experience: calculateProperty(general, action.experience, -targetGap, "experience") * target.rate };
+	});
 	const experience = shareExperiences.reduce((total, share) => total + share.experience, 0);
 
 	let cycleSeconds = action.progressType === "snap" ? 0 : seconds;
@@ -179,15 +186,16 @@ export function calculateActionStats(world: Type.World, action: Type.Action, bas
 	}
 	const runsPerHour = cycleSeconds > 0 && Number.isFinite(cycleSeconds) ? 3600 / cycleSeconds : undefined;
 	const perHour = (value: number): number | undefined => (runsPerHour !== undefined ? runsPerHour * chance * value : undefined);
-	const shares = shareExperiences.map(({ target, experience: value }): ExperienceShareStats => {
+	const shares = shareExperiences.map(({ target, level, experience: value }): ExperienceShareStats => {
 		const experiencePerHour = perHour(value);
+		const capped = level >= max;
 		// player は 経験値 / 100 / levelCommonRatio^(入る先のいまのレベル − 1) だけレベルを進める（update.ts）
-		const level = Math.floor(target.level + gap);
 		return {
 			categoryId: target.categoryId,
 			experience: value,
+			capped,
 			experiencePerHour,
-			levelPercentPerHour: experiencePerHour !== undefined ? (experiencePerHour * 100) / experienceToNext(general, level) : undefined,
+			levelPercentPerHour: experiencePerHour !== undefined && !capped ? (experiencePerHour * 100) / experienceToNext(general, level) : undefined,
 		};
 	});
 	return { gap, seconds, chance, experience, shares, cycleSeconds, runsPerHour, experiencePerHour: perHour(experience), combat };

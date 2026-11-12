@@ -282,12 +282,15 @@ export function baseStats(context: Context, action: Type.Action): ActionStats {
 
 /**
  * 経験値%/時のマス。categoryId を渡すとそのカテゴリへ入るぶんだけ、省くと入り先すべてを「／」でつなぐ（所属 → 系統の順）。
- * 経験値が入らない・即時なら「—」
+ * 経験値が入らない・即時なら「—」、入り先が最大レベルに届いていれば「上限」
  */
 export function levelPercentCell(context: Context, stats: ActionStats, categoryId?: string): string {
-	const shares = stats.shares.filter((share) => (categoryId === undefined || share.categoryId === categoryId) && share.experience > 0 && share.levelPercentPerHour !== undefined);
-	return shares.length ? shares.map((share) => number(share.levelPercentPerHour!, 0)).join("／") : context.model.label.none;
+	const shares = stats.shares.filter((share) => (categoryId === undefined || share.categoryId === categoryId) && share.experience > 0 && share.experiencePerHour !== undefined);
+	return shares.length ? shares.map((share) => (share.capped ? CAPPED : number(share.levelPercentPerHour!, 0))).join("／") : context.model.label.none;
 }
+
+/** 入り先カテゴリが最大レベルに届いていて経験値が入らないマスの表記 */
+export const CAPPED = "上限";
 
 /** アクション1回あたりの収支（通貨 id → 額）。収入は取得物の売値、支出は消費する材料の売値（売れば得られた額＝機会費用） */
 export interface Economy {

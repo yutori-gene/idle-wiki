@@ -17,8 +17,8 @@
 | [<img class="wiki-icon" src="assets/icon/8037b426178499e5.svg" alt="">池のほとり](/ja/action/pond-side) |  | 14 | 連続 | 1,080 | 864 | 665 |
 | [<img class="wiki-icon" src="assets/icon/1aee9dfc0a917e5f.svg" alt="">ボート小屋](/ja/action/boathouse) |  | 16 | 単発 | 1,030 | 687 | 458 |
 | [<img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬](/ja/action/pavlovs-dog) |  | 26 | スタミナ（戦闘） | 107 | 112 | 114 |
-| [<img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ](/ja/action/beetle) |  | 38 | スタミナ（戦闘） | 107 | 112 | — |
-| [<img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ](/ja/action/snail) |  | 50 | スタミナ（戦闘） | 107 | — | — |
+| [<img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ](/ja/action/beetle) |  | 38 | スタミナ（戦闘） | 107 | 112 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ](/ja/action/snail) |  | 50 | スタミナ（戦闘） | 上限 | 上限 | 上限 |
 
 ## 🌲 森
 
@@ -35,12 +35,12 @@
 | [<img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア](/ja/action/wild-boar) |  | 20 | スタミナ（戦闘） | 92 | 112 | 114 |
 | [<img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン](/ja/action/goblin) |  | 24 | スタミナ（戦闘） | 78 | 100 | 106 |
 | [<img class="wiki-icon" src="assets/icon/f31490361b7ac246.svg" alt="">ドルイド](/ja/action/druid) |  | 27 | スタミナ（戦闘） | 91 | 112 | 114 |
-| [<img class="wiki-icon" src="assets/icon/f3cda161292208a6.svg" alt="">クマ](/ja/action/bear) |  | 31 | スタミナ（戦闘） | 92 | 112 | — |
-| [<img class="wiki-icon" src="assets/icon/caf79c699a6ed796.svg" alt="">オーク](/ja/action/orc) |  | 35 | スタミナ（戦闘） | 92 | 112 | — |
-| [<img class="wiki-icon" src="assets/icon/e3daf5030f26dcd0.svg" alt="">空飛ぶ象](/ja/action/flying-elephant) |  | 39 | スタミナ（戦闘） | 91 | 111 | — |
-| [<img class="wiki-icon" src="assets/icon/43113159f0664f4b.svg" alt="">ケンタウロス](/ja/action/centaur) |  | 42 | スタミナ（戦闘） | 91 | — | — |
-| [<img class="wiki-icon" src="assets/icon/15c5deccdd555c48.svg" alt="">ウルフ](/ja/action/wolf) |  | 46 | スタミナ（戦闘） | 91 | — | — |
-| [<img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ](/ja/action/hydra) |  | 50 | スタミナ（戦闘） | 68 | — | — |
+| [<img class="wiki-icon" src="assets/icon/f3cda161292208a6.svg" alt="">クマ](/ja/action/bear) |  | 31 | スタミナ（戦闘） | 92 | 112 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/caf79c699a6ed796.svg" alt="">オーク](/ja/action/orc) |  | 35 | スタミナ（戦闘） | 92 | 112 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/e3daf5030f26dcd0.svg" alt="">空飛ぶ象](/ja/action/flying-elephant) |  | 39 | スタミナ（戦闘） | 91 | 111 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/43113159f0664f4b.svg" alt="">ケンタウロス](/ja/action/centaur) |  | 42 | スタミナ（戦闘） | 91 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/15c5deccdd555c48.svg" alt="">ウルフ](/ja/action/wolf) |  | 46 | スタミナ（戦闘） | 91 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ](/ja/action/hydra) |  | 50 | スタミナ（戦闘） | 上限 | 上限 | 上限 |
 
 ## 🏙️ 街
 
@@ -59,11 +59,11 @@
 | [<img class="wiki-icon" src="assets/icon/7d17b80929b706cc.svg" alt="">盗賊](/ja/action/thief) |  | 20 | スタミナ（戦闘） | 49 | 66 | 80 |
 | [<img class="wiki-icon" src="assets/icon/8271839a5554488c.svg" alt="">ドッペルゲンガー](/ja/action/doppelganger) |  | 23 | スタミナ（戦闘） | 54 | 66 | 73 |
 | [<img class="wiki-icon" src="assets/icon/60c9754ad81bb635.svg" alt="">グレムリン](/ja/action/gremlin) |  | 28 | スタミナ（戦闘） | 49 | 66 | 80 |
-| [<img class="wiki-icon" src="assets/icon/0b0577fa2a9b9c91.svg" alt="">裏通りの情報屋](/ja/action/backstreet-informant) |  | 30 | 単発 | 1,029 | 686 | 457 |
-| [<img class="wiki-icon" src="assets/icon/2de7e6dc75e72112.svg" alt="">ゾンビ](/ja/action/zombie) |  | 32 | スタミナ（戦闘） | 54 | 66 | — |
-| [<img class="wiki-icon" src="assets/icon/9b59bed47660853c.svg" alt="">魔法使い](/ja/action/wizard) |  | 37 | スタミナ（戦闘） | 54 | 66 | — |
-| [<img class="wiki-icon" src="assets/icon/e946f5cd0103012b.svg" alt="">賞金稼ぎ](/ja/action/bounty-hunter) |  | 46 | スタミナ（戦闘） | 54 | — | — |
-| [<img class="wiki-icon" src="assets/icon/a4e9edb1cd6bdef5.svg" alt="">ドブネズミ](/ja/action/sewer-rat) |  | 50 | スタミナ（戦闘） | 54 | — | — |
+| [<img class="wiki-icon" src="assets/icon/0b0577fa2a9b9c91.svg" alt="">裏通りの情報屋](/ja/action/backstreet-informant) |  | 30 | 単発 | 1,029 | 686 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/2de7e6dc75e72112.svg" alt="">ゾンビ](/ja/action/zombie) |  | 32 | スタミナ（戦闘） | 54 | 66 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/9b59bed47660853c.svg" alt="">魔法使い](/ja/action/wizard) |  | 37 | スタミナ（戦闘） | 54 | 66 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/e946f5cd0103012b.svg" alt="">賞金稼ぎ](/ja/action/bounty-hunter) |  | 46 | スタミナ（戦闘） | 54 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/a4e9edb1cd6bdef5.svg" alt="">ドブネズミ](/ja/action/sewer-rat) |  | 50 | スタミナ（戦闘） | 上限 | 上限 | 上限 |
 
 ## 🌊 海
 
@@ -80,12 +80,12 @@
 | [<img class="wiki-icon" src="assets/icon/fed17d75923f9e8c.svg" alt="">クロコダイル](/ja/action/crocodile) |  | 17 | スタミナ（戦闘） | 12 | 15 | 19 |
 | [<img class="wiki-icon" src="assets/icon/99401bbf87efddfd.svg" alt="">サーペント](/ja/action/serpent) |  | 23 | スタミナ（戦闘） | 29 | 40 | 48 |
 | [<img class="wiki-icon" src="assets/icon/f7396d0f10a22c13.svg" alt="">カメの大魔王](/ja/action/turtle-demon-king) |  | 28 | スタミナ（戦闘） | 12 | 15 | 19 |
-| [<img class="wiki-icon" src="assets/icon/9e6ea89fa2931b2a.svg" alt="">灯台守の小屋](/ja/action/lighthouse-keeper-hut) |  | 30 | 単発 | 1,029 | 686 | 457 |
-| [<img class="wiki-icon" src="assets/icon/94e82149543a0649.svg" alt="">クラーケン](/ja/action/kraken) |  | 34 | スタミナ（戦闘） | 12 | 15 | — |
-| [<img class="wiki-icon" src="assets/icon/8a25194356ea6eb5.svg" alt="">タートル](/ja/action/sea-turtle) |  | 39 | スタミナ（戦闘） | 6 | 8 | — |
-| [<img class="wiki-icon" src="assets/icon/c245a227042ab9a9.svg" alt="">海底洞窟](/ja/action/undersea-cave) |  | 40 | 単発 | 1,029 | 686 | — |
-| [<img class="wiki-icon" src="assets/icon/50a2af91aef10938.svg" alt="">漂流者](/ja/action/castaway) |  | 45 | スタミナ（戦闘） | 12 | — | — |
-| [<img class="wiki-icon" src="assets/icon/bcb019bf5c706cb3.svg" alt="">マーメイド](/ja/action/mermaid) |  | 50 | スタミナ（戦闘） | 29 | — | — |
+| [<img class="wiki-icon" src="assets/icon/9e6ea89fa2931b2a.svg" alt="">灯台守の小屋](/ja/action/lighthouse-keeper-hut) |  | 30 | 単発 | 1,029 | 686 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/94e82149543a0649.svg" alt="">クラーケン](/ja/action/kraken) |  | 34 | スタミナ（戦闘） | 12 | 15 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/8a25194356ea6eb5.svg" alt="">タートル](/ja/action/sea-turtle) |  | 39 | スタミナ（戦闘） | 6 | 8 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/c245a227042ab9a9.svg" alt="">海底洞窟](/ja/action/undersea-cave) |  | 40 | 単発 | 1,029 | 上限 | — |
+| [<img class="wiki-icon" src="assets/icon/50a2af91aef10938.svg" alt="">漂流者](/ja/action/castaway) |  | 45 | スタミナ（戦闘） | 12 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/bcb019bf5c706cb3.svg" alt="">マーメイド](/ja/action/mermaid) |  | 50 | スタミナ（戦闘） | 上限 | 上限 | 上限 |
 
 ## ❄️ 北国
 
@@ -102,12 +102,12 @@
 | [<img class="wiki-icon" src="assets/icon/09ecaa0c1b48e7eb.svg" alt="">ドラゴンキッズ](/ja/action/dragon-kid) |  | 20 | スタミナ（戦闘） | 6 | 8 | 10 |
 | [<img class="wiki-icon" src="assets/icon/bc9d0bdd94514ebd.svg" alt="">トラ](/ja/action/tiger) |  | 24 | スタミナ（戦闘） | 6 | 8 | 10 |
 | [<img class="wiki-icon" src="assets/icon/b93d28a3d64e0381.svg" alt="">マンティコア](/ja/action/manticore) |  | 27 | スタミナ（戦闘） | 6 | 8 | 10 |
-| [<img class="wiki-icon" src="assets/icon/9e3063d1b00c9f27.svg" alt="">ドレイク](/ja/action/drake) |  | 31 | スタミナ（戦闘） | 6 | 8 | — |
-| [<img class="wiki-icon" src="assets/icon/60b7195e9620edc7.svg" alt="">氷](/ja/action/ice) |  | 35 | スタミナ（戦闘） | 3 | 5 | — |
-| [<img class="wiki-icon" src="assets/icon/a1510fdde9715652.svg" alt="">巨神兵](/ja/action/god-warrior) |  | 39 | スタミナ（戦闘） | 3 | 5 | — |
-| [<img class="wiki-icon" src="assets/icon/a0d753414f493a1b.svg" alt="">ワイルドドア](/ja/action/wild-door) |  | 42 | スタミナ（戦闘） | 6 | — | — |
-| [<img class="wiki-icon" src="assets/icon/2306e5eaf3792660.svg" alt="">バハムート](/ja/action/bahamut) |  | 46 | スタミナ（戦闘） | 3 | — | — |
-| [<img class="wiki-icon" src="assets/icon/a8cd83eedf6ac3f1.svg" alt="">ホッキョクグマ](/ja/action/polar-bear) |  | 50 | スタミナ（戦闘） | 6 | — | — |
+| [<img class="wiki-icon" src="assets/icon/9e3063d1b00c9f27.svg" alt="">ドレイク](/ja/action/drake) |  | 31 | スタミナ（戦闘） | 6 | 8 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/60b7195e9620edc7.svg" alt="">氷](/ja/action/ice) |  | 35 | スタミナ（戦闘） | 3 | 5 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/a1510fdde9715652.svg" alt="">巨神兵](/ja/action/god-warrior) |  | 39 | スタミナ（戦闘） | 3 | 5 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/a0d753414f493a1b.svg" alt="">ワイルドドア](/ja/action/wild-door) |  | 42 | スタミナ（戦闘） | 6 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/2306e5eaf3792660.svg" alt="">バハムート](/ja/action/bahamut) |  | 46 | スタミナ（戦闘） | 3 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/a8cd83eedf6ac3f1.svg" alt="">ホッキョクグマ](/ja/action/polar-bear) |  | 50 | スタミナ（戦闘） | 上限 | 上限 | 上限 |
 
 ## 🏭 工場
 
@@ -124,12 +124,12 @@
 | [<img class="wiki-icon" src="assets/icon/85fb750f8b81f006.svg" alt="">巨大クレーン](/ja/action/giant-crane) |  | 17 | スタミナ（戦闘） | 1 | 1 | 2 |
 | [<img class="wiki-icon" src="assets/icon/b9649d31a41a0cd9.svg" alt="">無人フォークリフト](/ja/action/unmanned-forklift) |  | 23 | スタミナ（戦闘） | 2 | 3 | 4 |
 | [<img class="wiki-icon" src="assets/icon/d14738bbe2aee0a1.svg" alt="">警備ドローン](/ja/action/security-drone) |  | 28 | スタミナ（戦闘） | 2 | 3 | 4 |
-| [<img class="wiki-icon" src="assets/icon/3e59793710a254dd.svg" alt="">汚染区画の調査](/ja/action/contaminated-zone-survey) |  | 30 | 単発 | 1,029 | 686 | 457 |
-| [<img class="wiki-icon" src="assets/icon/89c610e4308f7183.svg" alt="">監視カメラの群れ](/ja/action/camera-swarm) |  | 34 | スタミナ（戦闘） | 2 | 3 | — |
-| [<img class="wiki-icon" src="assets/icon/9ec762b2c27c2721.svg" alt="">ミュータント](/ja/action/mutant) |  | 39 | スタミナ（戦闘） | 1 | 1 | — |
-| [<img class="wiki-icon" src="assets/icon/0c093308110a9536.svg" alt="">地下廃棄プラント](/ja/action/underground-disposal-plant) |  | 40 | 単発 | 1,029 | 686 | — |
-| [<img class="wiki-icon" src="assets/icon/cf13bcbb21d1a79d.svg" alt="">暴走ロボット](/ja/action/rampaging-robot) |  | 45 | スタミナ（戦闘） | 1 | — | — |
-| [<img class="wiki-icon" src="assets/icon/fe99be048a5764e4.svg" alt="">プレス機](/ja/action/press-machine) |  | 50 | スタミナ（戦闘） | 1 | — | — |
+| [<img class="wiki-icon" src="assets/icon/3e59793710a254dd.svg" alt="">汚染区画の調査](/ja/action/contaminated-zone-survey) |  | 30 | 単発 | 1,029 | 686 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/89c610e4308f7183.svg" alt="">監視カメラの群れ](/ja/action/camera-swarm) |  | 34 | スタミナ（戦闘） | 2 | 3 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/9ec762b2c27c2721.svg" alt="">ミュータント](/ja/action/mutant) |  | 39 | スタミナ（戦闘） | 1 | 1 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/0c093308110a9536.svg" alt="">地下廃棄プラント](/ja/action/underground-disposal-plant) |  | 40 | 単発 | 1,029 | 上限 | — |
+| [<img class="wiki-icon" src="assets/icon/cf13bcbb21d1a79d.svg" alt="">暴走ロボット](/ja/action/rampaging-robot) |  | 45 | スタミナ（戦闘） | 1 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/fe99be048a5764e4.svg" alt="">プレス機](/ja/action/press-machine) |  | 50 | スタミナ（戦闘） | 上限 | 上限 | 上限 |
 
 ## 🌋 火山
 
@@ -148,10 +148,10 @@
 | [<img class="wiki-icon" src="assets/icon/f9fd0a0c8a75a1c9.svg" alt="">サラマンダー](/ja/action/salamander) |  | 13 | スタミナ（戦闘） | 1 | 1 | 1 |
 | [<img class="wiki-icon" src="assets/icon/5eb0d3e7e1467725.svg" alt="">マグマワーム](/ja/action/magma-worm) |  | 19 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/b6232dc1b5865e01.svg" alt="">火山竜](/ja/action/volcano-dragon) |  | 26 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/c52037117c465fd7.svg" alt="">ファイアドレイク](/ja/action/fire-drake) |  | 32 | スタミナ（戦闘） | 1 | 1 | — |
-| [<img class="wiki-icon" src="assets/icon/1b2297a6cd429b94.svg" alt="">火喰い鳥](/ja/action/fire-eating-bird) |  | 38 | スタミナ（戦闘） | 1 | 1 | — |
-| [<img class="wiki-icon" src="assets/icon/1c69fa1f35cbd5b4.svg" alt="">黒曜石のガーゴイル](/ja/action/obsidian-gargoyle) |  | 44 | スタミナ（戦闘） | 0 | — | — |
-| [<img class="wiki-icon" src="assets/icon/a00ac0267c6ec1f0.svg" alt="">灼熱の甲虫](/ja/action/scorching-beetle) |  | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/c52037117c465fd7.svg" alt="">ファイアドレイク](/ja/action/fire-drake) |  | 32 | スタミナ（戦闘） | 1 | 1 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/1b2297a6cd429b94.svg" alt="">火喰い鳥](/ja/action/fire-eating-bird) |  | 38 | スタミナ（戦闘） | 1 | 1 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/1c69fa1f35cbd5b4.svg" alt="">黒曜石のガーゴイル](/ja/action/obsidian-gargoyle) |  | 44 | スタミナ（戦闘） | 0 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/a00ac0267c6ec1f0.svg" alt="">灼熱の甲虫](/ja/action/scorching-beetle) |  | 50 | スタミナ（戦闘） | 上限 | 上限 | 上限 |
 
 ## 🏰 城
 
@@ -168,12 +168,12 @@
 | [<img class="wiki-icon" src="assets/icon/4cf5aeed2a7e772b.svg" alt="">騎士](/ja/action/knight) |  | 16 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/b8dfc337e8669e69.svg" alt="">ネクロマンサー](/ja/action/necromancer) |  | 20 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/6c3069c276750054.svg" alt="">亡霊騎士](/ja/action/ghost-knight) |  | 21 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/88313a9dc8e4e6f5.svg" alt="">妖精](/ja/action/fairy) |  | 30 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/3457029812b6df6f.svg" alt="">王の間の秘密](/ja/action/throne-room-secret) |  | 30 | 単発 | 1,029 | 686 | 457 |
-| [<img class="wiki-icon" src="assets/icon/0c0348d8c43a934d.svg" alt="">牢番](/ja/action/jailer) |  | 35 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/544de9bef8647904.svg" alt="">リス](/ja/action/squirrel) |  | 40 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/3bd66d6ecb71b73e.svg" alt="">ガーゴイル](/ja/action/gargoyle) |  | 45 | スタミナ（戦闘） | 0 | — | — |
-| [<img class="wiki-icon" src="assets/icon/94a2922ab82673de.svg" alt="">宴の亡霊](/ja/action/banquet-ghost) |  | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/88313a9dc8e4e6f5.svg" alt="">妖精](/ja/action/fairy) |  | 30 | スタミナ（戦闘） | 0 | 0 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/3457029812b6df6f.svg" alt="">王の間の秘密](/ja/action/throne-room-secret) |  | 30 | 単発 | 1,029 | 686 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/0c0348d8c43a934d.svg" alt="">牢番](/ja/action/jailer) |  | 35 | スタミナ（戦闘） | 0 | 0 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/544de9bef8647904.svg" alt="">リス](/ja/action/squirrel) |  | 40 | スタミナ（戦闘） | 0 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/3bd66d6ecb71b73e.svg" alt="">ガーゴイル](/ja/action/gargoyle) |  | 45 | スタミナ（戦闘） | 0 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/94a2922ab82673de.svg" alt="">宴の亡霊](/ja/action/banquet-ghost) |  | 50 | スタミナ（戦闘） | 上限 | 上限 | 上限 |
 
 ## 🔥 地獄
 
@@ -190,12 +190,12 @@
 | [<img class="wiki-icon" src="assets/icon/a1198ac4d82115d0.svg" alt="">フリーズ様](/ja/action/lord-freeze) |  | 20 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/bc5719e3beef9c93.svg" alt="">コウモリ](/ja/action/bat) |  | 24 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/2fe1c02a6322d541.svg" alt="">人食い箱](/ja/action/man-eating-box) |  | 27 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/1dd26ec4c50a4c5d.svg" alt="">ベヒモス](/ja/action/behemoth) |  | 31 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/a6aa062ef47dc4a9.svg" alt="">腐った暴君](/ja/action/rotten-tyrant) |  | 35 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/a399a48719b8f036.svg" alt="">悪魔](/ja/action/demon) |  | 39 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/58090c8ec941246b.svg" alt="">ドワーフ](/ja/action/dwarf) |  | 42 | スタミナ（戦闘） | 0 | — | — |
-| [<img class="wiki-icon" src="assets/icon/434f9ba7725923c7.svg" alt="">ケルベロス](/ja/action/cerberus) |  | 46 | スタミナ（戦闘） | 0 | — | — |
-| [<img class="wiki-icon" src="assets/icon/9f2b3b58eb91f6ca.svg" alt="">バジリスク](/ja/action/basilisk) |  | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/1dd26ec4c50a4c5d.svg" alt="">ベヒモス](/ja/action/behemoth) |  | 31 | スタミナ（戦闘） | 0 | 0 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/a6aa062ef47dc4a9.svg" alt="">腐った暴君](/ja/action/rotten-tyrant) |  | 35 | スタミナ（戦闘） | 0 | 0 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/a399a48719b8f036.svg" alt="">悪魔](/ja/action/demon) |  | 39 | スタミナ（戦闘） | 0 | 0 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/58090c8ec941246b.svg" alt="">ドワーフ](/ja/action/dwarf) |  | 42 | スタミナ（戦闘） | 0 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/434f9ba7725923c7.svg" alt="">ケルベロス](/ja/action/cerberus) |  | 46 | スタミナ（戦闘） | 0 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/9f2b3b58eb91f6ca.svg" alt="">バジリスク](/ja/action/basilisk) |  | 50 | スタミナ（戦闘） | 上限 | 上限 | 上限 |
 
 ## ☁️ 天空のお庭
 
@@ -212,12 +212,12 @@
 | [<img class="wiki-icon" src="assets/icon/394a604ae0c49dba.svg" alt="">スパゲッティモンスター](/ja/action/spaghetti-monster) |  | 17 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/52aeba6fbc728c0d.svg" alt="">ねこリムジン](/ja/action/cat-limousine) |  | 23 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/c1042b00a01b59d1.svg" alt="">大佐](/ja/action/colonel) |  | 28 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/eb58fa75c41f87ab.svg" alt="">神殿の最奥](/ja/action/temple-innermost) |  | 30 | 単発 | 1,029 | 686 | 457 |
-| [<img class="wiki-icon" src="assets/icon/9635026f25519f71.svg" alt="">ペガサス](/ja/action/pegasus) |  | 34 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/cb264fde782cfa00.svg" alt="">天使](/ja/action/angel) |  | 39 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/6ddaf80260c8fae5.svg" alt="">世界樹の根元](/ja/action/world-tree-root) |  | 40 | 単発 | 1,029 | 686 | — |
-| [<img class="wiki-icon" src="assets/icon/0f2bdf78d9abe485.svg" alt="">パラディン](/ja/action/paladin) |  | 45 | スタミナ（戦闘） | 0 | — | — |
-| [<img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使](/ja/action/seraph) |  | 50 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/eb58fa75c41f87ab.svg" alt="">神殿の最奥](/ja/action/temple-innermost) |  | 30 | 単発 | 1,029 | 686 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/9635026f25519f71.svg" alt="">ペガサス](/ja/action/pegasus) |  | 34 | スタミナ（戦闘） | 0 | 0 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/cb264fde782cfa00.svg" alt="">天使](/ja/action/angel) |  | 39 | スタミナ（戦闘） | 0 | 0 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/6ddaf80260c8fae5.svg" alt="">世界樹の根元](/ja/action/world-tree-root) |  | 40 | 単発 | 1,029 | 上限 | — |
+| [<img class="wiki-icon" src="assets/icon/0f2bdf78d9abe485.svg" alt="">パラディン](/ja/action/paladin) |  | 45 | スタミナ（戦闘） | 0 | 上限 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使](/ja/action/seraph) |  | 50 | スタミナ（戦闘） | 上限 | 上限 | 上限 |
 
 ## 🌱 温室
 
@@ -241,7 +241,7 @@
 | [<img class="wiki-icon" src="assets/icon/4c6de2300e4edeb2.svg" alt="">とうがらし](/ja/action/grow-chili) |  | 41 | 連続 | 87 | — | — |
 | [<img class="wiki-icon" src="assets/icon/8052d09163e7534f.svg" alt="">毒草](/ja/action/grow-poison-herb) |  | 44 | 連続 | 88 | — | — |
 | [<img class="wiki-icon" src="assets/icon/af353c73681da889.svg" alt="">香草](/ja/action/grow-aromatic-herb) |  | 47 | 連続 | 87 | — | — |
-| [<img class="wiki-icon" src="assets/icon/d5a3d7a39bbb7442.svg" alt="">世界樹の葉](/ja/action/grow-world-tree-leaf) |  | 50 | 連続 | 87 | — | — |
+| [<img class="wiki-icon" src="assets/icon/d5a3d7a39bbb7442.svg" alt="">世界樹の葉](/ja/action/grow-world-tree-leaf) |  | 50 | 連続 | 上限 | — | — |
 
 ## 🐾 庭
 
@@ -259,15 +259,15 @@
 | [<img class="wiki-icon" src="assets/icon/056df9b2abd17a5a.svg" alt="">パブロフ](/ja/action/cheer-up-underdog) |  | 23 | 連続 | 92 | 64 | 45 |
 | [<img class="wiki-icon" src="assets/icon/73da99684cb1b3ac.svg" alt="">クッパ](/ja/action/walk-turtle) |  | 25 | 連続 | 91 | 66 | 47 |
 | [<img class="wiki-icon" src="assets/icon/ada1a971c2bc3f51.svg" alt="">オウム返しするオウム](/ja/action/talk-with-parroting-parrot) |  | 28 | 連続 | 92 | 67 | 47 |
-| [<img class="wiki-icon" src="assets/icon/5d2614f177a8901a.svg" alt="">ジョーンズ](/ja/action/take-out-jones) |  | 30 | 連続 | 91 | 61 | 41 |
+| [<img class="wiki-icon" src="assets/icon/5d2614f177a8901a.svg" alt="">ジョーンズ](/ja/action/take-out-jones) |  | 30 | 連続 | 91 | 61 | 上限 |
 | [<img class="wiki-icon" src="assets/icon/1ea177292f004030.svg" alt="">ペンペン](/ja/action/pen-pen-fishing) |  | 33 | 連続 | 91 | 65 | — |
 | [<img class="wiki-icon" src="assets/icon/a2083bedd68b34b6.svg" alt="">R2D2](/ja/action/scout-with-r2d2) |  | 35 | 連続 | 91 | 63 | — |
 | [<img class="wiki-icon" src="assets/icon/d9e248bf9fab6bf0.svg" alt="">ケロちゃん](/ja/action/bathe-kero-chan) |  | 38 | 連続 | 91 | 64 | — |
-| [<img class="wiki-icon" src="assets/icon/b8b458fce0e261b9.svg" alt="">炎のキツネ](/ja/action/play-with-flame-fox) |  | 40 | 連続 | 91 | 65 | — |
+| [<img class="wiki-icon" src="assets/icon/b8b458fce0e261b9.svg" alt="">炎のキツネ](/ja/action/play-with-flame-fox) |  | 40 | 連続 | 91 | 上限 | — |
 | [<img class="wiki-icon" src="assets/icon/b83b74ee1f05fa49.svg" alt="">炎の鳥](/ja/action/play-with-fire-bird) |  | 43 | 連続 | 91 | — | — |
 | [<img class="wiki-icon" src="assets/icon/534f5c61426efa3a.svg" alt="">シュレーディンガー](/ja/action/ask-five-color-cat) |  | 45 | 連続 | 91 | — | — |
 | [<img class="wiki-icon" src="assets/icon/1b1cbe8b6897b3e6.svg" alt="">空飛ぶ金魚](/ja/action/feed-flying-goldfish) |  | 48 | 連続 | 91 | — | — |
-| [<img class="wiki-icon" src="assets/icon/8bd14d8bf4299206.svg" alt="">空飛ぶブタ](/ja/action/ride-flying-pig) |  | 50 | 連続 | 91 | — | — |
+| [<img class="wiki-icon" src="assets/icon/8bd14d8bf4299206.svg" alt="">空飛ぶブタ](/ja/action/ride-flying-pig) |  | 50 | 連続 | 上限 | — | — |
 
 ## 🍳 台所
 
@@ -287,7 +287,7 @@
 | [<img class="wiki-icon" src="assets/icon/bc150632bd6fb7c2.svg" alt="">燃える豆腐](/ja/action/cook-burning-tofu) |  | 39 | 連続 | 1,184 | 817 | — |
 | [<img class="wiki-icon" src="assets/icon/b8aa2375e25d203e.svg" alt="">ビーフジャーキー](/ja/action/cook-beef-jerky) |  | 42 | 連続 | 1,185 | — | — |
 | [<img class="wiki-icon" src="assets/icon/f74c0058f665269e.svg" alt="">苦い団子](/ja/action/cook-bitter-dango) |  | 46 | 連続 | 1,186 | — | — |
-| [<img class="wiki-icon" src="assets/icon/b6756167a723a668.svg" alt="">仙豆](/ja/action/cook-senzu-bean) |  | 50 | 連続 | 1,185 | — | — |
+| [<img class="wiki-icon" src="assets/icon/b6756167a723a668.svg" alt="">仙豆](/ja/action/cook-senzu-bean) |  | 50 | 連続 | 上限 | — | — |
 
 ## 🗃️ ロフト
 
@@ -303,14 +303,14 @@
 | [<img class="wiki-icon" src="assets/icon/cdc90a92d58442ff.svg" alt="">南極の氷](/ja/action/open-antarctic-ice) |  | 21 | 連続 | 1,188 | 864 | 613 |
 | [<img class="wiki-icon" src="assets/icon/3adf474b0cfbe3cb.svg" alt="">ビーバーの巣](/ja/action/open-beaver-lodge) |  | 24 | 連続 | 1,190 | 898 | 656 |
 | [<img class="wiki-icon" src="assets/icon/b6932513f07c909a.svg" alt="">ネズミの宝箱](/ja/action/open-rat-treasure) |  | 27 | 連続 | 1,188 | 834 | 576 |
-| [<img class="wiki-icon" src="assets/icon/bba3a7073b73e2e4.svg" alt="">ドラゴンの巣](/ja/action/open-dragon-nest) |  | 30 | 連続 | 1,189 | 880 | 634 |
+| [<img class="wiki-icon" src="assets/icon/bba3a7073b73e2e4.svg" alt="">ドラゴンの巣](/ja/action/open-dragon-nest) |  | 30 | 連続 | 1,189 | 880 | 上限 |
 | [<img class="wiki-icon" src="assets/icon/af156afb68db88e1.svg" alt="">かぼちゃの馬車](/ja/action/open-pumpkin-carriage) |  | 33 | 連続 | 1,188 | 819 | — |
 | [<img class="wiki-icon" src="assets/icon/89ba6d971c364db8.svg" alt="">聖櫃](/ja/action/open-ark-of-covenant) |  | 36 | 連続 | 1,188 | 864 | — |
 | [<img class="wiki-icon" src="assets/icon/978885d9a4c3ef08.svg" alt="">吸血鬼の棺](/ja/action/open-vampire-coffin) |  | 38 | 連続 | 1,188 | 805 | — |
 | [<img class="wiki-icon" src="assets/icon/c532f87d79b4a4c9.svg" alt="">シスの箱](/ja/action/open-sith-box) |  | 41 | 連続 | 1,188 | — | — |
 | [<img class="wiki-icon" src="assets/icon/fdbf755487888437.svg" alt="">妖精の黄金の壺](/ja/action/open-fairy-gold-pot) |  | 44 | 連続 | 1,188 | — | — |
 | [<img class="wiki-icon" src="assets/icon/715c3e1ef5540e1d.svg" alt="">シュレーディンガーの箱](/ja/action/open-schrodingers-box) |  | 47 | 連続 | 1,188 | — | — |
-| [<img class="wiki-icon" src="assets/icon/6b2141ac9d8cc925.svg" alt="">パンドラの箱](/ja/action/open-pandoras-box) |  | 50 | 連続 | 1,188 | — | — |
+| [<img class="wiki-icon" src="assets/icon/6b2141ac9d8cc925.svg" alt="">パンドラの箱](/ja/action/open-pandoras-box) |  | 50 | 連続 | 上限 | — | — |
 
 ## ⚗️ 地下室
 
@@ -331,17 +331,17 @@
 | [<img class="wiki-icon" src="assets/icon/255a7bf74ab07615.svg" alt="">フェニックスの尾](/ja/action/brew-phoenix-tail) |  | 23 | 連続 | 1,205 | 846 | 584 |
 | [<img class="wiki-icon" src="assets/icon/1a69a548afe27966.svg" alt="">眠気覚まし](/ja/action/brew-anti-drowsiness) |  | 26 | 連続 | 1,204 | 892 | 642 |
 | [<img class="wiki-icon" src="assets/icon/44f047bc711646f2.svg" alt="">滋養強壮剤](/ja/action/brew-tonic) |  | 28 | 連続 | 1,206 | 804 | 536 |
-| [<img class="wiki-icon" src="assets/icon/b6e4a80aa75245d1.svg" alt="">ワクチン](/ja/action/brew-vaccine) |  | 30 | 連続 | 1,211 | 850 | 587 |
+| [<img class="wiki-icon" src="assets/icon/b6e4a80aa75245d1.svg" alt="">ワクチン](/ja/action/brew-vaccine) |  | 30 | 連続 | 1,211 | 850 | 上限 |
 | [<img class="wiki-icon" src="assets/icon/ee66651f6cba6034.svg" alt="">下剤](/ja/action/brew-laxative) |  | 32 | 連続 | 1,207 | 818 | — |
 | [<img class="wiki-icon" src="assets/icon/82635a806a296e89.svg" alt="">下剤（ゴリラ用）](/ja/action/brew-laxative-for-gorilla) |  | 34 | 連続 | 1,203 | 908 | — |
 | [<img class="wiki-icon" src="assets/icon/1c92b87d748930e9.svg" alt="">毒瓶](/ja/action/brew-poison-vial) |  | 36 | 連続 | 1,203 | 830 | — |
 | [<img class="wiki-icon" src="assets/icon/0f59f9c567987876.svg" alt="">LCL](/ja/action/brew-lcl) |  | 38 | 連続 | 1,204 | 963 | — |
-| [<img class="wiki-icon" src="assets/icon/66def38d7f486133.svg" alt="">聖水](/ja/action/brew-holy-water) |  | 40 | 連続 | 1,205 | 803 | — |
+| [<img class="wiki-icon" src="assets/icon/66def38d7f486133.svg" alt="">聖水](/ja/action/brew-holy-water) |  | 40 | 連続 | 1,205 | 上限 | — |
 | [<img class="wiki-icon" src="assets/icon/bf8ea96214134b73.svg" alt="">精霊の入ったビン](/ja/action/brew-bottled-spirit) |  | 42 | 連続 | 1,203 | — | — |
 | [<img class="wiki-icon" src="assets/icon/1683c3363eface44.svg" alt="">万能薬](/ja/action/brew-panacea) |  | 44 | 連続 | 1,204 | — | — |
 | [<img class="wiki-icon" src="assets/icon/a6e1559582444f43.svg" alt="">げんきのかけら](/ja/action/brew-revive-piece) |  | 46 | 連続 | 1,204 | — | — |
 | [<img class="wiki-icon" src="assets/icon/0156d3b4685e61c6.svg" alt="">エリクサー](/ja/action/brew-elixir) |  | 48 | 連続 | 1,203 | — | — |
-| [<img class="wiki-icon" src="assets/icon/b395012fc80a4b1a.svg" alt="">フェリックスフェリシス](/ja/action/brew-felix-felicis) |  | 50 | 連続 | 1,204 | — | — |
+| [<img class="wiki-icon" src="assets/icon/b395012fc80a4b1a.svg" alt="">フェリックスフェリシス](/ja/action/brew-felix-felicis) |  | 50 | 連続 | 上限 | — | — |
 
 ## ⚒️ 工房
 
@@ -380,10 +380,10 @@
 | [<img class="wiki-icon" src="assets/icon/04db2de1f763c5a6.svg" alt="">ロケットパンチ（分解）](/ja/action/disassemble-rocket-punch) |  | 28 | 連続 | 1,030 | 687 | 458 |
 | [<img class="wiki-icon" src="assets/icon/ea0423428958d2fd.svg" alt="">ロケットパンチ](/ja/action/craft-rocket-punch) |  | 28 | 単発 | 1,029 | 686 | 457 |
 | [<img class="wiki-icon" src="assets/icon/2340975207585dcd.svg" alt="">ギター（分解）](/ja/action/disassemble-guitar) |  | 29 | 連続 | 1,030 | 687 | 458 |
-| [<img class="wiki-icon" src="assets/icon/2e3598b62598d234.svg" alt="">DVD（分解）](/ja/action/disassemble-dvd) |  | 30 | 連続 | 1,030 | 687 | 458 |
-| [<img class="wiki-icon" src="assets/icon/e5a83ccfcfbeeb92.svg" alt="">電池（分解）](/ja/action/disassemble-battery) |  | 30 | 連続 | 1,030 | 687 | 458 |
-| [<img class="wiki-icon" src="assets/icon/123add51df7c5c47.svg" alt="">鉄くず（分解）](/ja/action/disassemble-scrap-iron) |  | 30 | 連続 | 1,030 | 687 | 458 |
-| [<img class="wiki-icon" src="assets/icon/c793513f73fad105.svg" alt="">パイプ（分解）](/ja/action/disassemble-pipe) |  | 30 | 連続 | 1,030 | 687 | 458 |
+| [<img class="wiki-icon" src="assets/icon/2e3598b62598d234.svg" alt="">DVD（分解）](/ja/action/disassemble-dvd) |  | 30 | 連続 | 1,030 | 687 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/e5a83ccfcfbeeb92.svg" alt="">電池（分解）](/ja/action/disassemble-battery) |  | 30 | 連続 | 1,030 | 687 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/123add51df7c5c47.svg" alt="">鉄くず（分解）](/ja/action/disassemble-scrap-iron) |  | 30 | 連続 | 1,030 | 687 | 上限 |
+| [<img class="wiki-icon" src="assets/icon/c793513f73fad105.svg" alt="">パイプ（分解）](/ja/action/disassemble-pipe) |  | 30 | 連続 | 1,030 | 687 | 上限 |
 | [<img class="wiki-icon" src="assets/icon/18572f6dbe739d6d.svg" alt="">リチウムバッテリー](/ja/action/craft-lithium-battery) |  | 31 | 単発 | 1,029 | 686 | — |
 | [<img class="wiki-icon" src="assets/icon/2ae1d518c32f0f73.svg" alt="">蛇口のハンドル](/ja/action/craft-faucet-handle) |  | 31 | 単発 | 1,029 | 686 | — |
 | [<img class="wiki-icon" src="assets/icon/206afc9d29972612.svg" alt="">さすまた（分解）](/ja/action/disassemble-sasumata) |  | 32 | 連続 | 1,030 | 687 | — |
@@ -397,20 +397,20 @@
 | [<img class="wiki-icon" src="assets/icon/af697225e08f326e.svg" alt="">投げキッス（分解）](/ja/action/disassemble-blown-kiss) |  | 37 | 連続 | 1,029 | 686 | — |
 | [<img class="wiki-icon" src="assets/icon/fdabde234f5556fd.svg" alt="">グラディウス（分解）](/ja/action/disassemble-gladius) |  | 37 | 連続 | 1,029 | 686 | — |
 | [<img class="wiki-icon" src="assets/icon/466f81441ebb85d9.svg" alt="">トマホーク](/ja/action/craft-tomahawk) |  | 37 | 単発 | 1,029 | 686 | — |
-| [<img class="wiki-icon" src="assets/icon/3f346f18b97f6ba7.svg" alt="">バットラング](/ja/action/craft-batarang) |  | 40 | 単発 | 1,029 | 686 | — |
+| [<img class="wiki-icon" src="assets/icon/3f346f18b97f6ba7.svg" alt="">バットラング](/ja/action/craft-batarang) |  | 40 | 単発 | 1,029 | 上限 | — |
 | [<img class="wiki-icon" src="assets/icon/8c5b00df0bcbe423.svg" alt="">硫黄石（分解）](/ja/action/disassemble-sulfur-stone) |  | 43 | 連続 | 1,029 | — | — |
 | [<img class="wiki-icon" src="assets/icon/8fbaf98a63999788.svg" alt="">煤（分解）](/ja/action/disassemble-soot) |  | 43 | 連続 | 1,029 | — | — |
 | [<img class="wiki-icon" src="assets/icon/570c925b1b7c7fa2.svg" alt="">時計仕掛けのリンゴ](/ja/action/craft-clockwork-apple) |  | 43 | 単発 | 1,029 | — | — |
 | [<img class="wiki-icon" src="assets/icon/e809dd35bbbe175f.svg" alt="">幽霊退治の札](/ja/action/craft-ghost-ward) |  | 44 | 単発 | 1,029 | — | — |
 | [<img class="wiki-icon" src="assets/icon/67abc9b2daf9c500.svg" alt="">ロシアンルーレット](/ja/action/craft-russian-roulette) |  | 45 | 単発 | 1,029 | — | — |
 | [<img class="wiki-icon" src="assets/icon/f0e3bbaa400e8d7a.svg" alt="">スターロッド](/ja/action/craft-star-rod) |  | 46 | 単発 | 1,029 | — | — |
-| [<img class="wiki-icon" src="assets/icon/4ddee4a3cbcc548d.svg" alt="">スタンドの矢](/ja/action/craft-stand-arrow) |  | 50 | 単発 | 1,029 | — | — |
-| [<img class="wiki-icon" src="assets/icon/789177e005d9d1b3.svg" alt="">ロンギヌスの槍](/ja/action/craft-spear-of-longinus) |  | 50 | 単発 | 1,029 | — | — |
-| [<img class="wiki-icon" src="assets/icon/e772d34c4caf8d87.svg" alt="">N2爆雷](/ja/action/craft-n2-mine) |  | 50 | 単発 | 1,029 | — | — |
-| [<img class="wiki-icon" src="assets/icon/5cf93dc6f35ee148.svg" alt="">トロイの木馬](/ja/action/craft-trojan-horse) |  | 50 | 単発 | 1,029 | — | — |
-| [<img class="wiki-icon" src="assets/icon/63fa6e9ee9b4f416.svg" alt="">軍用イルカ](/ja/action/craft-military-dolphin) |  | 50 | 単発 | 1,029 | — | — |
-| [<img class="wiki-icon" src="assets/icon/7ccb9d917ef01891.svg" alt="">核爆弾](/ja/action/upgrade-nuclear-bomb) |  | 50 | 連続 | 1,030 | — | — |
-| [<img class="wiki-icon" src="assets/icon/142fc7698e7944b7.svg" alt="">元気玉](/ja/action/upgrade-spirit-bomb) |  | 50 | 連続 | 1,030 | — | — |
+| [<img class="wiki-icon" src="assets/icon/4ddee4a3cbcc548d.svg" alt="">スタンドの矢](/ja/action/craft-stand-arrow) |  | 50 | 単発 | 上限 | — | — |
+| [<img class="wiki-icon" src="assets/icon/789177e005d9d1b3.svg" alt="">ロンギヌスの槍](/ja/action/craft-spear-of-longinus) |  | 50 | 単発 | 上限 | — | — |
+| [<img class="wiki-icon" src="assets/icon/e772d34c4caf8d87.svg" alt="">N2爆雷](/ja/action/craft-n2-mine) |  | 50 | 単発 | 上限 | — | — |
+| [<img class="wiki-icon" src="assets/icon/5cf93dc6f35ee148.svg" alt="">トロイの木馬](/ja/action/craft-trojan-horse) |  | 50 | 単発 | 上限 | — | — |
+| [<img class="wiki-icon" src="assets/icon/63fa6e9ee9b4f416.svg" alt="">軍用イルカ](/ja/action/craft-military-dolphin) |  | 50 | 単発 | 上限 | — | — |
+| [<img class="wiki-icon" src="assets/icon/7ccb9d917ef01891.svg" alt="">核爆弾](/ja/action/upgrade-nuclear-bomb) |  | 50 | 連続 | 上限 | — | — |
+| [<img class="wiki-icon" src="assets/icon/142fc7698e7944b7.svg" alt="">元気玉](/ja/action/upgrade-spirit-bomb) |  | 50 | 連続 | 上限 | — | — |
 
 ## 🔧 作業部屋
 
@@ -442,8 +442,8 @@
 | [<img class="wiki-icon" src="assets/icon/1ad1a797e13f837c.svg" alt="">ハムスターの回車](/ja/action/craft-hamster-wheel) |  | 42 | 単発 | 1,138 | — | — |
 | [<img class="wiki-icon" src="assets/icon/65a7f5bbe532a85a.svg" alt="">かまどの部品](/ja/action/craft-stove-parts) |  | 46 | 連続 | 1,140 | — | — |
 | [<img class="wiki-icon" src="assets/icon/688d3d49680af6ed.svg" alt="">かまど](/ja/action/craft-stove) |  | 46 | 単発 | 1,138 | — | — |
-| [<img class="wiki-icon" src="assets/icon/7bba33eaf6c04245.svg" alt="">暖炉の部品](/ja/action/craft-fireplace-parts) |  | 50 | 連続 | 1,139 | — | — |
-| [<img class="wiki-icon" src="assets/icon/dd89e0ab02b4da83.svg" alt="">暖炉](/ja/action/craft-fireplace) |  | 50 | 単発 | 1,138 | — | — |
+| [<img class="wiki-icon" src="assets/icon/7bba33eaf6c04245.svg" alt="">暖炉の部品](/ja/action/craft-fireplace-parts) |  | 50 | 連続 | 上限 | — | — |
+| [<img class="wiki-icon" src="assets/icon/dd89e0ab02b4da83.svg" alt="">暖炉](/ja/action/craft-fireplace) |  | 50 | 単発 | 上限 | — | — |
 
 ## ⚔️ 近接武器
 
@@ -451,48 +451,48 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/f4a063e2ef801314.svg" alt="">巨大なクモ](/ja/action/giant-spider) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 1 | スタミナ（戦闘） | 27 | 28 | 29 |
 | [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 3 | スタミナ（戦闘） | 19 | 23 | 28 |
-| [<img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ](/ja/action/beetle) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 7 | スタミナ（戦闘） | 27 | 28 | — |
-| [<img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ](/ja/action/snail) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 7 | スタミナ（戦闘） | 27 | — | — |
+| [<img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ](/ja/action/beetle) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 7 | スタミナ（戦闘） | 27 | 28 | 29 |
+| [<img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ](/ja/action/snail) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 7 | スタミナ（戦闘） | 27 | 28 | 28 |
 | [<img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬](/ja/action/pavlovs-dog) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | 7 | スタミナ（戦闘） | 27 | 28 | 28 |
 | [<img class="wiki-icon" src="assets/icon/4a396b8649ead6c1.svg" alt="">ヘビ](/ja/action/snake) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 7 | スタミナ（戦闘） | 23 | 28 | 29 |
 | [<img class="wiki-icon" src="assets/icon/201d7af6f34effd1.svg" alt="">食人植物](/ja/action/man-eating-plant) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 8 | スタミナ（戦闘） | 23 | 28 | 28 |
 | [<img class="wiki-icon" src="assets/icon/ea5fece55cd26243.svg" alt="">コカトリス](/ja/action/cockatrice) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 8 | スタミナ（戦闘） | 23 | 28 | 29 |
 | [<img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア](/ja/action/wild-boar) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | 28 | 29 |
-| [<img class="wiki-icon" src="assets/icon/e3daf5030f26dcd0.svg" alt="">空飛ぶ象](/ja/action/flying-elephant) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | 28 | — |
-| [<img class="wiki-icon" src="assets/icon/43113159f0664f4b.svg" alt="">ケンタウロス](/ja/action/centaur) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | — | — |
+| [<img class="wiki-icon" src="assets/icon/e3daf5030f26dcd0.svg" alt="">空飛ぶ象](/ja/action/flying-elephant) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | 28 | 28 |
+| [<img class="wiki-icon" src="assets/icon/43113159f0664f4b.svg" alt="">ケンタウロス](/ja/action/centaur) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | 28 | 28 |
 | [<img class="wiki-icon" src="assets/icon/f31490361b7ac246.svg" alt="">ドルイド](/ja/action/druid) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | 28 | 28 |
-| [<img class="wiki-icon" src="assets/icon/f3cda161292208a6.svg" alt="">クマ](/ja/action/bear) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | 28 | — |
-| [<img class="wiki-icon" src="assets/icon/15c5deccdd555c48.svg" alt="">ウルフ](/ja/action/wolf) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | — | — |
-| [<img class="wiki-icon" src="assets/icon/caf79c699a6ed796.svg" alt="">オーク](/ja/action/orc) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | 28 | — |
-| [<img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ](/ja/action/hydra) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 17 | — | — |
+| [<img class="wiki-icon" src="assets/icon/f3cda161292208a6.svg" alt="">クマ](/ja/action/bear) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | 28 | 29 |
+| [<img class="wiki-icon" src="assets/icon/15c5deccdd555c48.svg" alt="">ウルフ](/ja/action/wolf) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | 28 | 28 |
+| [<img class="wiki-icon" src="assets/icon/caf79c699a6ed796.svg" alt="">オーク](/ja/action/orc) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 23 | 28 | 29 |
+| [<img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ](/ja/action/hydra) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 10 | スタミナ（戦闘） | 17 | 23 | 22 |
 | [<img class="wiki-icon" src="assets/icon/e0653ffa6617e0e6.svg" alt="">山賊](/ja/action/bandit) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 10 | スタミナ（戦闘） | 14 | 17 | 18 |
 | [<img class="wiki-icon" src="assets/icon/0db6569084ef29a0.svg" alt="">野良犬の群れ](/ja/action/stray-dog-pack) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 10 | スタミナ（戦闘） | 13 | 16 | 18 |
-| [<img class="wiki-icon" src="assets/icon/2de7e6dc75e72112.svg" alt="">ゾンビ](/ja/action/zombie) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 11 | スタミナ（戦闘） | 13 | 16 | — |
-| [<img class="wiki-icon" src="assets/icon/9b59bed47660853c.svg" alt="">魔法使い](/ja/action/wizard) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 11 | スタミナ（戦闘） | 13 | 16 | — |
+| [<img class="wiki-icon" src="assets/icon/2de7e6dc75e72112.svg" alt="">ゾンビ](/ja/action/zombie) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 11 | スタミナ（戦闘） | 13 | 16 | 18 |
+| [<img class="wiki-icon" src="assets/icon/9b59bed47660853c.svg" alt="">魔法使い](/ja/action/wizard) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 11 | スタミナ（戦闘） | 13 | 16 | 18 |
 | [<img class="wiki-icon" src="assets/icon/2dab731f5693bdc8.svg" alt="">シャーマン](/ja/action/shaman) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 11 | スタミナ（戦闘） | 13 | 16 | 18 |
 | [<img class="wiki-icon" src="assets/icon/8271839a5554488c.svg" alt="">ドッペルゲンガー](/ja/action/doppelganger) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 11 | スタミナ（戦闘） | 13 | 16 | 18 |
-| [<img class="wiki-icon" src="assets/icon/e946f5cd0103012b.svg" alt="">賞金稼ぎ](/ja/action/bounty-hunter) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 11 | スタミナ（戦闘） | 14 | — | — |
-| [<img class="wiki-icon" src="assets/icon/a4e9edb1cd6bdef5.svg" alt="">ドブネズミ](/ja/action/sewer-rat) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 11 | スタミナ（戦闘） | 13 | — | — |
+| [<img class="wiki-icon" src="assets/icon/e946f5cd0103012b.svg" alt="">賞金稼ぎ](/ja/action/bounty-hunter) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 11 | スタミナ（戦闘） | 14 | 17 | 18 |
+| [<img class="wiki-icon" src="assets/icon/a4e9edb1cd6bdef5.svg" alt="">ドブネズミ](/ja/action/sewer-rat) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 11 | スタミナ（戦闘） | 13 | 16 | 18 |
 | [<img class="wiki-icon" src="assets/icon/5d2bd39c66257c15.svg" alt="">海賊](/ja/action/pirate) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 11 | スタミナ（戦闘） | 3 | 4 | 5 |
 | [<img class="wiki-icon" src="assets/icon/a71a25b5d0b12010.svg" alt="">海賊の頭](/ja/action/pirate-captain) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 11 | スタミナ（戦闘） | 3 | 4 | 5 |
 | [<img class="wiki-icon" src="assets/icon/fed17d75923f9e8c.svg" alt="">クロコダイル](/ja/action/crocodile) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 13 | スタミナ（戦闘） | 3 | 4 | 5 |
-| [<img class="wiki-icon" src="assets/icon/50a2af91aef10938.svg" alt="">漂流者](/ja/action/castaway) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 13 | スタミナ（戦闘） | 3 | — | — |
+| [<img class="wiki-icon" src="assets/icon/50a2af91aef10938.svg" alt="">漂流者](/ja/action/castaway) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 13 | スタミナ（戦闘） | 3 | 4 | 5 |
 | [<img class="wiki-icon" src="assets/icon/f7396d0f10a22c13.svg" alt="">カメの大魔王](/ja/action/turtle-demon-king) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 13 | スタミナ（戦闘） | 3 | 4 | 5 |
-| [<img class="wiki-icon" src="assets/icon/94e82149543a0649.svg" alt="">クラーケン](/ja/action/kraken) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 13 | スタミナ（戦闘） | 3 | 4 | — |
+| [<img class="wiki-icon" src="assets/icon/94e82149543a0649.svg" alt="">クラーケン](/ja/action/kraken) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 13 | スタミナ（戦闘） | 3 | 4 | 5 |
 | [<img class="wiki-icon" src="assets/icon/534edc2a28c044ce.svg" alt="">氷漬けの戦士](/ja/action/frozen-warrior) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 13 | スタミナ（戦闘） | 2 | 2 | 2 |
 | [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 13 | スタミナ（戦闘） | 2 | 3 | 4 |
 | [<img class="wiki-icon" src="assets/icon/cc8c2cabf2063181.svg" alt="">マンモス](/ja/action/mammoth) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 14 | スタミナ（戦闘） | 2 | 2 | 3 |
 | [<img class="wiki-icon" src="assets/icon/bc9d0bdd94514ebd.svg" alt="">トラ](/ja/action/tiger) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 14 | スタミナ（戦闘） | 2 | 2 | 2 |
 | [<img class="wiki-icon" src="assets/icon/09ecaa0c1b48e7eb.svg" alt="">ドラゴンキッズ](/ja/action/dragon-kid) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 14 | スタミナ（戦闘） | 2 | 2 | 3 |
-| [<img class="wiki-icon" src="assets/icon/a0d753414f493a1b.svg" alt="">ワイルドドア](/ja/action/wild-door) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 14 | スタミナ（戦闘） | 2 | — | — |
+| [<img class="wiki-icon" src="assets/icon/a0d753414f493a1b.svg" alt="">ワイルドドア](/ja/action/wild-door) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 14 | スタミナ（戦闘） | 2 | 2 | 2 |
 | [<img class="wiki-icon" src="assets/icon/b93d28a3d64e0381.svg" alt="">マンティコア](/ja/action/manticore) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 14 | スタミナ（戦闘） | 2 | 2 | 3 |
-| [<img class="wiki-icon" src="assets/icon/9e3063d1b00c9f27.svg" alt="">ドレイク](/ja/action/drake) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 14 | スタミナ（戦闘） | 2 | 2 | — |
-| [<img class="wiki-icon" src="assets/icon/a8cd83eedf6ac3f1.svg" alt="">ホッキョクグマ](/ja/action/polar-bear) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 14 | スタミナ（戦闘） | 2 | — | — |
+| [<img class="wiki-icon" src="assets/icon/9e3063d1b00c9f27.svg" alt="">ドレイク](/ja/action/drake) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 14 | スタミナ（戦闘） | 2 | 2 | 3 |
+| [<img class="wiki-icon" src="assets/icon/a8cd83eedf6ac3f1.svg" alt="">ホッキョクグマ](/ja/action/polar-bear) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 14 | スタミナ（戦闘） | 2 | 2 | 3 |
 | [<img class="wiki-icon" src="assets/icon/76acb221c339059c.svg" alt="">旧型作業ロボ](/ja/action/old-work-robot) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 14 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/85fb750f8b81f006.svg" alt="">巨大クレーン](/ja/action/giant-crane) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 14 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/9ec762b2c27c2721.svg" alt="">ミュータント](/ja/action/mutant) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 15 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/cf13bcbb21d1a79d.svg" alt="">暴走ロボット](/ja/action/rampaging-robot) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 15 | スタミナ（戦闘） | 0 | — | — |
-| [<img class="wiki-icon" src="assets/icon/fe99be048a5764e4.svg" alt="">プレス機](/ja/action/press-machine) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 15 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/9ec762b2c27c2721.svg" alt="">ミュータント](/ja/action/mutant) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 15 | スタミナ（戦闘） | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/cf13bcbb21d1a79d.svg" alt="">暴走ロボット](/ja/action/rampaging-robot) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 15 | スタミナ（戦闘） | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/fe99be048a5764e4.svg" alt="">プレス機](/ja/action/press-machine) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 15 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/b46f66ee088a069f.svg" alt="">溶岩ゴーレム](/ja/action/lava-golem) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 15 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/164e5a20757e6728.svg" alt="">炉の番人](/ja/action/furnace-keeper) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 15 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/5eb0d3e7e1467725.svg" alt="">マグマワーム](/ja/action/magma-worm) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 16 | スタミナ（戦闘） | 0 | 0 | 0 |
@@ -500,16 +500,16 @@
 | [<img class="wiki-icon" src="assets/icon/ddc072b9213bf3de.svg" alt="">ゴーレム](/ja/action/golem) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 16 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/4cf5aeed2a7e772b.svg" alt="">騎士](/ja/action/knight) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 17 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/6c3069c276750054.svg" alt="">亡霊騎士](/ja/action/ghost-knight) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 17 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/0c0348d8c43a934d.svg" alt="">牢番](/ja/action/jailer) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 17 | スタミナ（戦闘） | 0 | 0 | — |
+| [<img class="wiki-icon" src="assets/icon/0c0348d8c43a934d.svg" alt="">牢番](/ja/action/jailer) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 17 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/0218c089efa72a77.svg" alt="">ミイラ](/ja/action/mummy) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 17 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/1dd26ec4c50a4c5d.svg" alt="">ベヒモス](/ja/action/behemoth) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 18 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/58090c8ec941246b.svg" alt="">ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 18 | スタミナ（戦闘） | 0 | — | — |
-| [<img class="wiki-icon" src="assets/icon/a6aa062ef47dc4a9.svg" alt="">腐った暴君](/ja/action/rotten-tyrant) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 18 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/434f9ba7725923c7.svg" alt="">ケルベロス](/ja/action/cerberus) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 18 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/1dd26ec4c50a4c5d.svg" alt="">ベヒモス](/ja/action/behemoth) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 18 | スタミナ（戦闘） | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/58090c8ec941246b.svg" alt="">ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 18 | スタミナ（戦闘） | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/a6aa062ef47dc4a9.svg" alt="">腐った暴君](/ja/action/rotten-tyrant) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 18 | スタミナ（戦闘） | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/434f9ba7725923c7.svg" alt="">ケルベロス](/ja/action/cerberus) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 18 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/394a604ae0c49dba.svg" alt="">スパゲッティモンスター](/ja/action/spaghetti-monster) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 18 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/7fbc1f845aef614f.svg" alt="">大きなタヌキ？](/ja/action/big-tanuki) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 18 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/c1042b00a01b59d1.svg" alt="">大佐](/ja/action/colonel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 18 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/cb264fde782cfa00.svg" alt="">天使](/ja/action/angel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 18 | スタミナ（戦闘） | 0 | 0 | — |
+| [<img class="wiki-icon" src="assets/icon/cb264fde782cfa00.svg" alt="">天使](/ja/action/angel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 18 | スタミナ（戦闘） | 0 | 0 | 0 |
 
 ## 🎯 投擲武器
 
@@ -520,28 +520,28 @@
 | [<img class="wiki-icon" src="assets/icon/60c9754ad81bb635.svg" alt="">グレムリン](/ja/action/gremlin) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 2 | スタミナ（戦闘） | 12 | 16 | 20 |
 | [<img class="wiki-icon" src="assets/icon/7d17b80929b706cc.svg" alt="">盗賊](/ja/action/thief) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 2 | スタミナ（戦闘） | 12 | 16 | 20 |
 | [<img class="wiki-icon" src="assets/icon/99401bbf87efddfd.svg" alt="">サーペント](/ja/action/serpent) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 2 | スタミナ（戦闘） | 7 | 10 | 12 |
-| [<img class="wiki-icon" src="assets/icon/bcb019bf5c706cb3.svg" alt="">マーメイド](/ja/action/mermaid) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 2 | スタミナ（戦闘） | 7 | — | — |
+| [<img class="wiki-icon" src="assets/icon/bcb019bf5c706cb3.svg" alt="">マーメイド](/ja/action/mermaid) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 2 | スタミナ（戦闘） | 7 | 10 | 12 |
 | [<img class="wiki-icon" src="assets/icon/2e8f0ddee3c24d6d.svg" alt="">グリフィン](/ja/action/griffin) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 2 | スタミナ（戦闘） | 1 | 1 | 1 |
 | [<img class="wiki-icon" src="assets/icon/e1bd57a21d5fa216.svg" alt="">フェニックス](/ja/action/phoenix) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 3 | スタミナ（戦闘） | 1 | 1 | 1 |
 | [<img class="wiki-icon" src="assets/icon/68dfa87f0523444a.svg" alt="">ワイバーン](/ja/action/wyvern) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 4 | スタミナ（戦闘） | 1 | 1 | 1 |
 | [<img class="wiki-icon" src="assets/icon/0f1ebb270ccc2726.svg" alt="">ボム](/ja/action/bomb) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 6 | スタミナ（戦闘） | 1 | 1 | 1 |
 | [<img class="wiki-icon" src="assets/icon/d14738bbe2aee0a1.svg" alt="">警備ドローン](/ja/action/security-drone) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 8 | スタミナ（戦闘） | 1 | 1 | 1 |
-| [<img class="wiki-icon" src="assets/icon/89c610e4308f7183.svg" alt="">監視カメラの群れ](/ja/action/camera-swarm) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 8 | スタミナ（戦闘） | 1 | 1 | — |
+| [<img class="wiki-icon" src="assets/icon/89c610e4308f7183.svg" alt="">監視カメラの群れ](/ja/action/camera-swarm) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 8 | スタミナ（戦闘） | 1 | 1 | 1 |
 | [<img class="wiki-icon" src="assets/icon/f9fd0a0c8a75a1c9.svg" alt="">サラマンダー](/ja/action/salamander) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 8 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/c52037117c465fd7.svg" alt="">ファイアドレイク](/ja/action/fire-drake) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 9 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/1b2297a6cd429b94.svg" alt="">火喰い鳥](/ja/action/fire-eating-bird) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 9 | スタミナ（戦闘） | 0 | 0 | — |
+| [<img class="wiki-icon" src="assets/icon/c52037117c465fd7.svg" alt="">ファイアドレイク](/ja/action/fire-drake) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 9 | スタミナ（戦闘） | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/1b2297a6cd429b94.svg" alt="">火喰い鳥](/ja/action/fire-eating-bird) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 9 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/88313a9dc8e4e6f5.svg" alt="">妖精](/ja/action/fairy) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 9 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/544de9bef8647904.svg" alt="">リス](/ja/action/squirrel) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 9 | スタミナ（戦闘） | 0 | 0 | — |
+| [<img class="wiki-icon" src="assets/icon/544de9bef8647904.svg" alt="">リス](/ja/action/squirrel) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 9 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/b8dfc337e8669e69.svg" alt="">ネクロマンサー](/ja/action/necromancer) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 9 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/94a2922ab82673de.svg" alt="">宴の亡霊](/ja/action/banquet-ghost) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 9 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/94a2922ab82673de.svg" alt="">宴の亡霊](/ja/action/banquet-ghost) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 9 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/3bc4421543721689.svg" alt="">バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 9 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/8558fc8f4fdb9def.svg" alt="">メデューサ](/ja/action/medusa) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 9 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/657885362fae1efc.svg" alt="">化け猫](/ja/action/bakeneko) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 10 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/bc5719e3beef9c93.svg" alt="">コウモリ](/ja/action/bat) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 11 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/9f2b3b58eb91f6ca.svg" alt="">バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 11 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/9f2b3b58eb91f6ca.svg" alt="">バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 11 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 11 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/9635026f25519f71.svg" alt="">ペガサス](/ja/action/pegasus) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 12 | スタミナ（戦闘） | 0 | 0 | — |
-| [<img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 12 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/9635026f25519f71.svg" alt="">ペガサス](/ja/action/pegasus) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 12 | スタミナ（戦闘） | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 12 | スタミナ（戦闘） | 0 | 0 | 0 |
 
 ## 💣 爆発武器
 
@@ -551,21 +551,21 @@
 | [<img class="wiki-icon" src="assets/icon/6b4bee93ce40e393.svg" alt="">教祖](/ja/action/cult-leader) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | 1 | スタミナ（戦闘） | 7 | 9 | 11 |
 | [<img class="wiki-icon" src="assets/icon/5b9eec78a0de50a1.svg" alt="">歩くキノコ](/ja/action/walking-mushroom) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | 4 | スタミナ（戦闘） | 9 | 11 | 14 |
 | [<img class="wiki-icon" src="assets/icon/726cdf61e0805eb5.svg" alt="">クトゥルフ](/ja/action/cthulhu) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 4 | スタミナ（戦闘） | 1 | 1 | 2 |
-| [<img class="wiki-icon" src="assets/icon/8a25194356ea6eb5.svg" alt="">タートル](/ja/action/sea-turtle) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 5 | スタミナ（戦闘） | 1 | 2 | — |
-| [<img class="wiki-icon" src="assets/icon/60b7195e9620edc7.svg" alt="">氷](/ja/action/ice) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 5 | スタミナ（戦闘） | 1 | 1 | — |
-| [<img class="wiki-icon" src="assets/icon/a1510fdde9715652.svg" alt="">巨神兵](/ja/action/god-warrior) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 5 | スタミナ（戦闘） | 1 | 1 | — |
-| [<img class="wiki-icon" src="assets/icon/2306e5eaf3792660.svg" alt="">バハムート](/ja/action/bahamut) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 5 | スタミナ（戦闘） | 1 | — | — |
+| [<img class="wiki-icon" src="assets/icon/8a25194356ea6eb5.svg" alt="">タートル](/ja/action/sea-turtle) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | 5 | スタミナ（戦闘） | 1 | 2 | 2 |
+| [<img class="wiki-icon" src="assets/icon/60b7195e9620edc7.svg" alt="">氷](/ja/action/ice) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 5 | スタミナ（戦闘） | 1 | 1 | 1 |
+| [<img class="wiki-icon" src="assets/icon/a1510fdde9715652.svg" alt="">巨神兵](/ja/action/god-warrior) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 5 | スタミナ（戦闘） | 1 | 1 | 1 |
+| [<img class="wiki-icon" src="assets/icon/2306e5eaf3792660.svg" alt="">バハムート](/ja/action/bahamut) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | 5 | スタミナ（戦闘） | 1 | 1 | 1 |
 | [<img class="wiki-icon" src="assets/icon/6e8705b278892508.svg" alt="">マッドサイエンティスト](/ja/action/mad-scientist) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 5 | スタミナ（戦闘） | 0 | 1 | 1 |
 | [<img class="wiki-icon" src="assets/icon/b9649d31a41a0cd9.svg" alt="">無人フォークリフト](/ja/action/unmanned-forklift) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | 7 | スタミナ（戦闘） | 1 | 1 | 1 |
-| [<img class="wiki-icon" src="assets/icon/1c69fa1f35cbd5b4.svg" alt="">黒曜石のガーゴイル](/ja/action/obsidian-gargoyle) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 7 | スタミナ（戦闘） | 0 | — | — |
-| [<img class="wiki-icon" src="assets/icon/a00ac0267c6ec1f0.svg" alt="">灼熱の甲虫](/ja/action/scorching-beetle) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 7 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/1c69fa1f35cbd5b4.svg" alt="">黒曜石のガーゴイル](/ja/action/obsidian-gargoyle) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 7 | スタミナ（戦闘） | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/a00ac0267c6ec1f0.svg" alt="">灼熱の甲虫](/ja/action/scorching-beetle) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | 7 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/3aad8de08b0fee46.svg" alt="">エレメンタリスト](/ja/action/elementalist) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 7 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/b148d196aa5fc19f.svg" alt="">魔法の鏡](/ja/action/magic-mirror) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 7 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/3bd66d6ecb71b73e.svg" alt="">ガーゴイル](/ja/action/gargoyle) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 9 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/3bd66d6ecb71b73e.svg" alt="">ガーゴイル](/ja/action/gargoyle) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | 9 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/28d9275128ba3d5b.svg" alt="">イフリート](/ja/action/ifrit) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 9 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/a1198ac4d82115d0.svg" alt="">フリーズ様](/ja/action/lord-freeze) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 10 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/a399a48719b8f036.svg" alt="">悪魔](/ja/action/demon) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 10 | スタミナ（戦闘） | 0 | 0 | — |
+| [<img class="wiki-icon" src="assets/icon/a399a48719b8f036.svg" alt="">悪魔](/ja/action/demon) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 10 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/2fe1c02a6322d541.svg" alt="">人食い箱](/ja/action/man-eating-box) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | 10 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/300032c34ac7363c.svg" alt="">司祭](/ja/action/priest) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 10 | スタミナ（戦闘） | 0 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/52aeba6fbc728c0d.svg" alt="">ねこリムジン](/ja/action/cat-limousine) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 11 | スタミナ（戦闘） | 0 | 0 | 0 |
-| [<img class="wiki-icon" src="assets/icon/0f2bdf78d9abe485.svg" alt="">パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 11 | スタミナ（戦闘） | 0 | — | — |
+| [<img class="wiki-icon" src="assets/icon/0f2bdf78d9abe485.svg" alt="">パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | 11 | スタミナ（戦闘） | 0 | 0 | 0 |

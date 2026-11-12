@@ -2,7 +2,7 @@
 import type * as Type from "../../source/type/worldType.ts";
 import { calculateActionStats, experienceReturnRate, experienceToNext } from "../lib/calc.ts";
 import { cellList, join, link, number, percent, section, table } from "../lib/format.ts";
-import { actionEconomy, baseStats, requirementText, type Context, type Page } from "./common.ts";
+import { actionEconomy, baseStats, CAPPED, requirementText, type Context, type Page } from "./common.ts";
 import { levelGapsOf } from "./action.ts";
 
 export const REFERENCE_PAGES: { path: string; title: string }[] = [
@@ -93,7 +93,7 @@ function experienceRatePage(context: Context): Page {
 				const available = levelGapsOf(context, action);
 				const perHour = (gap: number): string => {
 					const share = calculateActionStats(model.world, action, model.actionBasis(action), gap).shares.find((entry) => entry.categoryId === id);
-					return number(share?.experiencePerHour ?? 0, 0);
+					return share?.capped ? CAPPED : number(share?.experiencePerHour ?? 0, 0);
 				};
 				return [
 					link(model, "action", action.information.id),

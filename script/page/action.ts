@@ -31,15 +31,14 @@ export function actionPages(context: Context): Page[] {
 }
 
 /**
- * そのアクションで並べるレベル差（系統と経験値の入り先のどのカテゴリでも最大レベルを超えない差だけ）。
- * 系統のカテゴリが numeric=false なら差0のみ
+ * そのアクションで並べるレベル差（系統のカテゴリが最大レベルを超えない差だけ）。系統のカテゴリが numeric=false なら差0のみ。
+ * 所属カテゴリが先に最大レベルへ届く分は、計算で最大レベルに止める（calculateActionStats）
  */
 export function levelGapsOf(context: Context, action: Type.Action): number[] {
 	const basis = context.model.actionBasis(action);
 	if (!basis.numeric) return [0];
 	const max = context.model.world.basic.general.maxCategoryLevels;
-	const highest = Math.max(basis.level, ...basis.targets.map((target) => target.level));
-	return LEVEL_GAPS.filter((gap) => gap === 0 || highest + gap <= max);
+	return LEVEL_GAPS.filter((gap) => gap === 0 || basis.level + gap <= max);
 }
 
 function actionPage(context: Context, action: Type.Action): Page {
@@ -209,7 +208,7 @@ function statsSection(context: Context, action: Type.Action): string {
 			? `レベル差＝${hasDiscipline ? "系統のカテゴリのレベル − 系統の必要Lv" : "所属カテゴリのレベル − 必要Lv"}。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。`
 			: `${hasDiscipline ? "系統の" : ""}カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。`,
 		hasDiscipline
-			? "所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。"
+			? "所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなし、最大レベルを超える分は最大レベルで止める（最大レベルのカテゴリには経験値が入らないので「上限」）。"
 			: "",
 	];
 	return section("計算値", join(table(headers, rows), notes.filter(Boolean).join("")));
