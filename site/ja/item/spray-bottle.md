@@ -1,6 +1,6 @@
 # 霧吹き
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">霧吹き</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💦</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/special"><span class="wiki-icon">💎</span>特別品</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>5 <a href="#/ja/item/treasure-medal"><span class="wiki-icon">🏅</span>秘宝メダル</a></td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>解放済み</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">霧吹き</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/009549a55af4a728.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/special"><img class="wiki-icon" src="assets/icon/492e684d14677ca4.svg" alt="">特別品</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>5 <a href="#/ja/item/treasure-medal"><img class="wiki-icon" src="assets/icon/35c3b1c389d2126f.svg" alt="">秘宝メダル</a></td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>解放済み</td></tr></table></div>
 
 > 猫に向けると逃げる。
 
@@ -9,9 +9,9 @@
 
 ### 購入
 
-5 <a href="#/ja/item/treasure-medal"><span class="wiki-icon">🏅</span>秘宝メダル</a> で購入できる。
+5 <a href="#/ja/item/treasure-medal"><img class="wiki-icon" src="assets/icon/35c3b1c389d2126f.svg" alt="">秘宝メダル</a> で購入できる。
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 特別品</div><div class="wiki-navbox-body"><a href="#/ja/item/paper-plane"><span class="wiki-icon">✈️</span>紙飛行機</a> ・ <a href="#/ja/item/spray-bottle"><span class="wiki-icon">💦</span>霧吹き</a> ・ <a href="#/ja/item/apology-stone"><span class="wiki-icon">🙏</span>詫び石</a> ・ <a href="#/ja/item/beehive"><span class="wiki-icon">🐝</span>ハチの巣</a> ・ <a href="#/ja/item/youth"><span class="wiki-icon">🌸</span>青春</a> ・ <a href="#/ja/item/roach-trap"><span class="wiki-icon">🪳</span>ゴキブリホイホイ</a> ・ <a href="#/ja/item/correction-fluid"><span class="wiki-icon">🖊️</span>修正液</a> ・ <a href="#/ja/item/forbidden-button"><span class="wiki-icon">🔴</span>絶対に押しては行けないボタン</a> ・ <a href="#/ja/item/synthetic-diamond-tiara"><span class="wiki-icon">👑</span>人工ダイアモンドのティアラ</a></div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 特別品</div><div class="wiki-navbox-body"><a href="#/ja/item/park-guide-map"><span class="wiki-icon">🗺️</span>公園の案内図</a> ・ <a href="#/ja/item/park-proof"><span class="wiki-icon">🏅</span>公園の証</a> ・ <a href="#/ja/item/forest-guide-map"><span class="wiki-icon">🗺️</span>森の案内図</a> ・ <a href="#/ja/item/forest-proof"><span class="wiki-icon">🏅</span>森の証</a> ・ <a href="#/ja/item/town-guide-map"><span class="wiki-icon">🗺️</span>街の案内図</a> ・ <a href="#/ja/item/town-proof"><span class="wiki-icon">🏅</span>街の証</a> ・ <a href="#/ja/item/sea-guide-map"><span class="wiki-icon">🗺️</span>海の案内図</a> ・ <a href="#/ja/item/sea-proof"><span class="wiki-icon">🏅</span>海の証</a> ・ <a href="#/ja/item/northland-guide-map"><span class="wiki-icon">🗺️</span>北国の案内図</a> ・ <a href="#/ja/item/northland-proof"><span class="wiki-icon">🏅</span>北国の証</a> ・ <a href="#/ja/item/factory-guide-map"><span class="wiki-icon">🗺️</span>工場の案内図</a> ・ <a href="#/ja/item/factory-proof"><span class="wiki-icon">🏅</span>工場の証</a> ・ <a href="#/ja/item/volcano-guide-map"><span class="wiki-icon">🗺️</span>火山の案内図</a> ・ <a href="#/ja/item/volcano-proof"><span class="wiki-icon">🏅</span>火山の証</a> ・ <a href="#/ja/item/castle-guide-map"><span class="wiki-icon">🗺️</span>城の案内図</a> ・ <a href="#/ja/item/castle-proof"><span class="wiki-icon">🏅</span>城の証</a> ・ <a href="#/ja/item/hell-guide-map"><span class="wiki-icon">🗺️</span>地獄の案内図</a> ・ <a href="#/ja/item/hell-proof"><span class="wiki-icon">🏅</span>地獄の証</a> ・ <a href="#/ja/item/sky-garden-guide-map"><span class="wiki-icon">🗺️</span>天空のお庭の案内図</a> ・ <a href="#/ja/item/sky-garden-proof"><span class="wiki-icon">🏅</span>天空のお庭の証</a> ・ <a href="#/ja/item/paper-plane"><img class="wiki-icon" src="assets/icon/9d496f2733e3594a.svg" alt="">紙飛行機</a> ・ <a href="#/ja/item/spray-bottle"><img class="wiki-icon" src="assets/icon/009549a55af4a728.svg" alt="">霧吹き</a> ・ <a href="#/ja/item/apology-stone"><img class="wiki-icon" src="assets/icon/7fbd2de8cf89f05c.svg" alt="">詫び石</a> ・ <a href="#/ja/item/beehive"><img class="wiki-icon" src="assets/icon/586ca5c6d2660b50.svg" alt="">ハチの巣</a> ・ <a href="#/ja/item/youth"><img class="wiki-icon" src="assets/icon/ba51016367920315.svg" alt="">青春</a> ・ <a href="#/ja/item/roach-trap"><img class="wiki-icon" src="assets/icon/2dbd2ef6ee7e2654.svg" alt="">ゴキブリホイホイ</a> ・ <a href="#/ja/item/correction-fluid"><img class="wiki-icon" src="assets/icon/21fd16a1dfa6202a.svg" alt="">修正液</a> ・ <a href="#/ja/item/forbidden-button"><img class="wiki-icon" src="assets/icon/62b944b4bece4029.svg" alt="">絶対に押しては行けないボタン</a> ・ <a href="#/ja/item/synthetic-diamond-tiara"><img class="wiki-icon" src="assets/icon/b092e4135b9be0e2.svg" alt="">人工ダイアモンドのティアラ</a></div></div>
 
 ## 開発者向け情報
 
@@ -44,7 +44,7 @@
 		"icon": {
 			"emoji": "💦",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/009549a55af4a728.svg）"
 		},
 		"color": ""
 	},

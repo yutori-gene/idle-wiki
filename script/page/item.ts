@@ -1,7 +1,7 @@
 // アイテムページ（item/<id>）。通貨・枠（容量・キュー）も player と同じくアイテムとして扱う
 import type * as Type from "../../source/type/worldType.ts";
 import type { ItemEntry } from "../lib/model.ts";
-import { expectedAcquisition, slotPrice } from "../lib/calc.ts";
+import { countsTowardCapacity, expectedAcquisition, slotPrice } from "../lib/calc.ts";
 import { amount, cellList, details, escapeHtml, infobox, join, link, linkHtml, navbox, number, percent, section, signed, table, type InfoboxRow } from "../lib/format.ts";
 import {
 	baseStats,
@@ -56,6 +56,7 @@ function normalItem(context: Context, path: string, item: Type.Item): string {
 		{ label: "売値", value: item.sellingValue > 0 ? price(context, item.sellingValue, item.coinId) : "売却不可" },
 		{ label: "買値", value: item.buyingValue > 0 ? price(context, item.buyingValue, item.coinId) : "購入不可" },
 		{ label: "所持上限", value: item.maximum > 0 ? number(item.maximum) : label.unlimited },
+		{ label: "所持枠", value: countsTowardCapacity(item) ? "" : "数えない（手放せない持ち物）" },
 		{ label: "スキル", value: item.skill ? linkHtml(model, "skill", item.skill) : "" },
 		{ label: "入手経路", value: sourceSummary.length ? escapeHtml(sourceSummary.join("・")) : "なし" },
 		{ label: "初期状態", value: htmlValue(label.locked[item.unlocked]) },
@@ -220,7 +221,7 @@ function slotItem(context: Context, path: string, entry: ItemEntry): string {
 	const coin = model.coinOf(slot.coinId);
 	const limit = slot.buyingLimit;
 	const rows: InfoboxRow[] = [
-		{ label: "種類", value: entry.kind === "capacity" ? "所持枠（アイテムの種類数）" : "作業予定の枠（アクションの予約数）" },
+		{ label: "種類", value: entry.kind === "capacity" ? "所持枠（アイテムの種類数。手放せない持ち物は数えない）" : "作業予定の枠（アクションの予約数）" },
 		{ label: "初期の枠", value: number(slot.initialCount) },
 		{ label: "購入", value: limit < 0 ? "購入不可" : `${linkHtml(model, "item", coin.id)}で購入${limit > 0 ? `（${number(limit)}回まで）` : "（上限なし）"}` },
 	];

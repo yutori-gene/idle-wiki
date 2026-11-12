@@ -1,6 +1,6 @@
 # 厚着
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">厚着</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧥</span></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>防御+4</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">厚着</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/573ace9e8b8cae50.svg" alt=""></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>防御+4</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 重ねた枚数だけ、痛みが遠い。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🍄</span>歩くキノコ](/ja/action/walking-mushroom) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 |
-| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 |
+| [<img class="wiki-icon" src="assets/icon/5b9eec78a0de50a1.svg" alt="">歩くキノコ](/ja/action/walking-mushroom) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv9 |
+| [<img class="wiki-icon" src="assets/icon/a8cd83eedf6ac3f1.svg" alt="">ホッキョクグマ](/ja/action/polar-bear) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv50 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎓</span>学ラン](/ja/item/gakuran) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/5ce0c0e27ec8a300.svg" alt="">学ラン](/ja/item/gakuran) | [<img class="wiki-icon" src="assets/icon/0f29202c4827bbc2.svg" alt="">胴体装備](/ja/group/body-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🧥",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/573ace9e8b8cae50.svg）"
 		},
 		"color": ""
 	},

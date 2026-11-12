@@ -1,6 +1,6 @@
 # 盤石
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">盤石</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪨</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>防御+8・回復+5</td></tr><tr><th>持つ敵</th><td>6体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">盤石</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/092fedf7c53622bb.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>防御+8・回復+5</td></tr><tr><th>持つ敵</th><td>6体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 一歩も引かない者は、一歩も削られない。
 
@@ -17,18 +17,18 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐻</span>クマ](/ja/action/bear) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 |
-| [<span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ](/ja/action/polar-bear) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 |
-| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv34 |
-| [<span class="wiki-icon">🗿</span>ゴーレム](/ja/action/golem) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv38 |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv47 |
-| [<span class="wiki-icon">🍝</span>スパゲッティモンスター](/ja/action/spaghetti-monster) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/f3cda161292208a6.svg" alt="">クマ](/ja/action/bear) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv31 |
+| [<img class="wiki-icon" src="assets/icon/a8cd83eedf6ac3f1.svg" alt="">ホッキョクグマ](/ja/action/polar-bear) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/164e5a20757e6728.svg" alt="">炉の番人](/ja/action/furnace-keeper) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv7 |
+| [<img class="wiki-icon" src="assets/icon/ddc072b9213bf3de.svg" alt="">ゴーレム](/ja/action/golem) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv1 |
+| [<img class="wiki-icon" src="assets/icon/58090c8ec941246b.svg" alt="">ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv42 |
+| [<img class="wiki-icon" src="assets/icon/394a604ae0c49dba.svg" alt="">スパゲッティモンスター](/ja/action/spaghetti-monster) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv17 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/item/beam-saber) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/73fc95c0da10d99c.svg" alt="">ビームサーベル](/ja/item/beam-saber) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -51,7 +51,7 @@
 		"icon": {
 			"emoji": "🪨",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/092fedf7c53622bb.svg）"
 		},
 		"color": ""
 	},

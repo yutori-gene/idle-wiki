@@ -1,17 +1,17 @@
 # 地下市場
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">地下市場</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏪</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">地下市場</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/ffaa99142c9cd39f.svg" alt=""></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 
 ## 発生条件
 
 数量が変化したとき、**その1回で増えた量**が次の値以上なら発動する（何度でも繰り返す）。画面には表示されない。
 
-- [<span class="wiki-icon">🕳️</span>マンホール](/ja/item/manhole) ×1
+- [<img class="wiki-icon" src="assets/icon/fef3c1e972de9275.svg" alt="">マンホール](/ja/item/manhole) ×1
 
 ## 報酬
 
-- [<span class="wiki-icon">⚡</span>電柱](/ja/item/utility-pole) ×1
+- [<img class="wiki-icon" src="assets/icon/8e89b64dcfbb9575.svg" alt="">電柱](/ja/item/utility-pole) ×1
 
 ## 開発者向け情報
 
@@ -38,7 +38,7 @@
 		"icon": {
 			"emoji": "🏪",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/ffaa99142c9cd39f.svg）"
 		},
 		"color": ""
 	},

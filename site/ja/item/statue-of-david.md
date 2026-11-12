@@ -1,6 +1,6 @@
 # ダビデ像
 
-<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">ダビデ像</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏛️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/floor"><span class="wiki-icon">🟫</span>床</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">ダビデ像</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/12c7fb07f3dfcbe1.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/floor"><img class="wiki-icon" src="assets/icon/1302287d6df4da87.svg" alt="">床</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 巨人に挑む直前の一瞬を、石が覚えている。床に飾ると、すべてのカテゴリの経験値が増える。
 
@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏛️</span>ダビデ像](/ja/action/craft-statue-of-david) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv36 | 1 | 100% | 1 | 0.143 |
+| [<img class="wiki-icon" src="assets/icon/75635773a28b19b4.svg" alt="">ダビデ像](/ja/action/craft-statue-of-david) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv36 | 1 | 100% | 1 | 0.143 |
 
-<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 床</div><div class="wiki-navbox-body"><a href="#/ja/item/mimic"><span class="wiki-icon">🦷</span>ミミック</a> ・ <a href="#/ja/item/dancing-statue"><span class="wiki-icon">🕺</span>踊る銅像</a> ・ <a href="#/ja/item/statue-of-david"><span class="wiki-icon">🏛️</span>ダビデ像</a> ・ <a href="#/ja/item/grandfather-clock"><span class="wiki-icon">🕰️</span>おじいさんの時計</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 床</div><div class="wiki-navbox-body"><a href="#/ja/item/mimic"><img class="wiki-icon" src="assets/icon/f035c4566b81cf4b.svg" alt="">ミミック</a> ・ <a href="#/ja/item/dancing-statue"><img class="wiki-icon" src="assets/icon/295c886c43ff81d3.svg" alt="">踊る銅像</a> ・ <a href="#/ja/item/statue-of-david"><img class="wiki-icon" src="assets/icon/12c7fb07f3dfcbe1.svg" alt="">ダビデ像</a> ・ <a href="#/ja/item/grandfather-clock"><img class="wiki-icon" src="assets/icon/38074d36bf98c41d.svg" alt="">おじいさんの時計</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,7 +54,7 @@
 		"icon": {
 			"emoji": "🏛️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/12c7fb07f3dfcbe1.svg）"
 		},
 		"color": ""
 	},

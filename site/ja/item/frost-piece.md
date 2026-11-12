@@ -1,6 +1,6 @@
 # 霜のかけら
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">霜のかけら</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">❄️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>15 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">霜のかけら</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/0700fbc7d07497f4.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>15 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 朝日で消える儚さ。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>凍った湖畔](/ja/action/frozen-lakeside) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv3 | 3 | 48% | 0.72 | 51.8 |
+| [<img class="wiki-icon" src="assets/icon/7c6f087ad4dc298b.svg" alt="">凍った湖畔](/ja/action/frozen-lakeside) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv3 | 3 | 48% | 0.72 | 51.8 |
 
 ## 用途
 
@@ -19,7 +19,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">❄️</span>スノードーム](/ja/action/craft-snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv25 | 8 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/672226342dc8e971.svg" alt="">スノードーム](/ja/action/craft-snow-globe) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv25 | 8 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/03d5f05461f7013a.svg" alt="">入れ歯](/ja/action/craft-dentures) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 5 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -54,7 +55,7 @@
 		"icon": {
 			"emoji": "❄️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/0700fbc7d07497f4.svg）"
 		},
 		"color": ""
 	},

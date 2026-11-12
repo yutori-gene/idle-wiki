@@ -1,6 +1,6 @@
 # 自律型AIチップ
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">自律型AIチップ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💾</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>13,122 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">自律型AIチップ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/702ae4073d9e25a9.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>13,122 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 考える機械の心臓部。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐀</span>ネズミの宝箱](/ja/action/open-rat-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv27 | 3 | 25.3% | 0.645 | 0.43 |
-| [<span class="wiki-icon">🎃</span>かぼちゃの馬車](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv33 | 2 | 59.7% | 1.1 | 0.43 |
+| [<img class="wiki-icon" src="assets/icon/b6932513f07c909a.svg" alt="">ネズミの宝箱](/ja/action/open-rat-treasure) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv27 | 3 | 25.3% | 0.645 | 0.43 |
+| [<img class="wiki-icon" src="assets/icon/af156afb68db88e1.svg" alt="">かぼちゃの馬車](/ja/action/open-pumpkin-carriage) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv33 | 2 | 59.7% | 1.1 | 0.43 |
 
 ## 用途
 
@@ -20,8 +20,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/action/craft-solar-panel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv35 | 3 | 100% |  |
-| [<span class="wiki-icon">🔩</span>発電機の部品](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv39 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/8f2c721187701b2f.svg" alt="">ソーラーパネルの部品](/ja/action/craft-solar-panel-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv35 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/919ca0ee4fca874c.svg" alt="">発電機の部品](/ja/action/craft-generator-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv39 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -56,7 +56,7 @@
 		"icon": {
 			"emoji": "💾",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/702ae4073d9e25a9.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # 気品
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">気品</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💐</span></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>回避+5</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">気品</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/7406f82be5ec43d3.svg" alt=""></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>回避+5</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 美しく立つ者には、刃が向けにくい。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 |
-| [<span class="wiki-icon">🐉</span>火山竜](/ja/action/volcano-dragon) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 |
+| [<img class="wiki-icon" src="assets/icon/6b4bee93ce40e393.svg" alt="">教祖](/ja/action/cult-leader) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv5 |
+| [<img class="wiki-icon" src="assets/icon/b6232dc1b5865e01.svg" alt="">火山竜](/ja/action/volcano-dragon) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv26 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎖️</span>勲章](/ja/item/medal) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/7088dcc36a3c9179.svg" alt="">勲章](/ja/item/medal) | [<img class="wiki-icon" src="assets/icon/90105f31f000c615.svg" alt="">ブローチ](/ja/group/brooch) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "💐",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/7406f82be5ec43d3.svg）"
 		},
 		"color": ""
 	},

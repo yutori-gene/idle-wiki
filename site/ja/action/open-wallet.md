@@ -1,6 +1,6 @@
 # 財布
 
-<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">財布</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e355af4b224f1b36.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>99</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">財布</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e355af4b224f1b36.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>99</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > チャックを開けて中身を確認する。
 
@@ -18,9 +18,9 @@
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) ×3 | 成功時 | 96% | 2.9 | 34.6 |
-| [<span class="wiki-icon">🎈</span>風船](/ja/item/balloon) ×3 | 成功時 | 96% | 2.9 | 34.6 |
-| [<span class="wiki-icon">🍉</span>スイカ](/ja/item/watermelon) ×1 | 成功時 | 82.9% | 0.829 | 9.9 |
-| [<span class="wiki-icon">🗿</span>公園の守り神の像](/ja/item/park-guardian-statue) ×1 | 成功時 | 35.8% | 0.358 | 4.3 |
+| [<img class="wiki-icon" src="assets/icon/eec5aaecaf95a916.svg" alt="">風船](/ja/item/balloon) ×3 | 成功時 | 96% | 2.9 | 34.6 |
+| [<img class="wiki-icon" src="assets/icon/fc4c1d61f1342ca9.svg" alt="">スイカ](/ja/item/watermelon) ×1 | 成功時 | 82.9% | 0.829 | 9.9 |
+| [<img class="wiki-icon" src="assets/icon/a128f57c34aa845b.svg" alt="">公園の守り神の像](/ja/item/park-guardian-statue) ×1 | 成功時 | 35.8% | 0.358 | 4.3 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -29,11 +29,11 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv1） | 5分 | 100% | 99 | 12 | 1,188 |
-| +10（Lv11） | 4分5秒 | 100% | 66 | 14.7 | 342 |
-| +20（Lv21） | 3分20秒 | 100% | 44 | 18 | 98 |
-| +30（Lv31） | 2分43秒 | 100% | 29.33 | 22 | 28 |
+| +10（Lv11） | 4分5秒 | 100% | 53.89 | 14.7 | 279 |
+| +20（Lv21） | 3分20秒 | 100% | 29.33 | 18 | 65 |
+| +30（Lv31） | 2分43秒 | 100% | 15.97 | 22 | 15 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -43,7 +43,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布</a> ・ <a href="#/ja/action/open-donation-box"><img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱</a> ・ <a href="#/ja/action/open-offering-box"><span class="wiki-icon">⛩️</span>賽銭箱</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/action/open-iron-maiden"><span class="wiki-icon">⛓️</span>鉄の処女</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/action/open-antarctic-ice"><span class="wiki-icon">🧊</span>南極の氷</a> ・ <a href="#/ja/action/open-beaver-lodge"><span class="wiki-icon">🦫</span>ビーバーの巣</a> ・ <a href="#/ja/action/open-rat-treasure"><span class="wiki-icon">🐀</span>ネズミの宝箱</a> ・ <a href="#/ja/action/open-dragon-nest"><span class="wiki-icon">🐉</span>ドラゴンの巣</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/action/open-fairy-gold-pot"><span class="wiki-icon">🌈</span>妖精の黄金の壺</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a></div></div>
+<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布</a> ・ <a href="#/ja/action/open-donation-box"><img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱</a> ・ <a href="#/ja/action/open-offering-box"><img class="wiki-icon" src="assets/icon/9d01ad605c6bcd9e.svg" alt="">賽銭箱</a> ・ <a href="#/ja/action/open-vaulting-box"><img class="wiki-icon" src="assets/icon/c459ec365d2a9d7b.svg" alt="">跳び箱</a> ・ <a href="#/ja/action/open-time-capsule"><img class="wiki-icon" src="assets/icon/ccca6f4a52bc604a.svg" alt="">タイムカプセル</a> ・ <a href="#/ja/action/open-iron-maiden"><img class="wiki-icon" src="assets/icon/f171def16b536121.svg" alt="">鉄の処女</a> ・ <a href="#/ja/action/open-great-treasure"><img class="wiki-icon" src="assets/icon/ed252afa50d7b2dd.svg" alt="">大秘宝</a> ・ <a href="#/ja/action/open-antarctic-ice"><img class="wiki-icon" src="assets/icon/cdc90a92d58442ff.svg" alt="">南極の氷</a> ・ <a href="#/ja/action/open-beaver-lodge"><img class="wiki-icon" src="assets/icon/3adf474b0cfbe3cb.svg" alt="">ビーバーの巣</a> ・ <a href="#/ja/action/open-rat-treasure"><img class="wiki-icon" src="assets/icon/b6932513f07c909a.svg" alt="">ネズミの宝箱</a> ・ <a href="#/ja/action/open-dragon-nest"><img class="wiki-icon" src="assets/icon/bba3a7073b73e2e4.svg" alt="">ドラゴンの巣</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><img class="wiki-icon" src="assets/icon/af156afb68db88e1.svg" alt="">かぼちゃの馬車</a> ・ <a href="#/ja/action/open-ark-of-covenant"><img class="wiki-icon" src="assets/icon/89ba6d971c364db8.svg" alt="">聖櫃</a> ・ <a href="#/ja/action/open-vampire-coffin"><img class="wiki-icon" src="assets/icon/978885d9a4c3ef08.svg" alt="">吸血鬼の棺</a> ・ <a href="#/ja/action/open-sith-box"><img class="wiki-icon" src="assets/icon/c532f87d79b4a4c9.svg" alt="">シスの箱</a> ・ <a href="#/ja/action/open-fairy-gold-pot"><img class="wiki-icon" src="assets/icon/fdbf755487888437.svg" alt="">妖精の黄金の壺</a> ・ <a href="#/ja/action/open-schrodingers-box"><img class="wiki-icon" src="assets/icon/715c3e1ef5540e1d.svg" alt="">シュレーディンガーの箱</a> ・ <a href="#/ja/action/open-pandoras-box"><img class="wiki-icon" src="assets/icon/6b2141ac9d8cc925.svg" alt="">パンドラの箱</a></div></div>
 
 ## 開発者向け情報
 
@@ -51,10 +51,11 @@
 | --- | --- |
 | id | `open-wallet` |
 | `category` | `loft` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `unlock` |
 | `unlocked` | `hidden` |
 | `level` | `1` |
+| `disciplineLevel` | `0` |
 | `experience` | `99` |
 | `seconds` | `300` |
 | `chance` | `1` |
@@ -80,10 +81,11 @@
 		"color": ""
 	},
 	"category": "loft",
-	"attribute": "",
+	"discipline": "",
 	"group": "unlock",
 	"unlocked": "hidden",
 	"level": 1,
+	"disciplineLevel": 0,
 	"experience": 99,
 	"seconds": 300,
 	"chance": 1,

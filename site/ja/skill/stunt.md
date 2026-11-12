@@ -1,6 +1,6 @@
 # 曲芸
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">曲芸</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🤹</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>精度+5・回避+9・回復+3</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">曲芸</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/68e47acdab7f330c.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>精度+5・回避+9・回復+3</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 当てるついでに、避けておく。
 
@@ -17,16 +17,16 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv22 |
-| [<span class="wiki-icon">🧚</span>妖精](/ja/action/fairy) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv40 |
-| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv43 |
-| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv44 |
+| [<img class="wiki-icon" src="assets/icon/bcb019bf5c706cb3.svg" alt="">マーメイド](/ja/action/mermaid) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/88313a9dc8e4e6f5.svg" alt="">妖精](/ja/action/fairy) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv30 |
+| [<img class="wiki-icon" src="assets/icon/3bc4421543721689.svg" alt="">バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv12 |
+| [<img class="wiki-icon" src="assets/icon/8558fc8f4fdb9def.svg" alt="">メデューサ](/ja/action/medusa) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv5 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎼</span>時のリコーダー](/ja/item/recorder-of-time) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/19258e860c7a0422.svg" alt="">時のリコーダー](/ja/item/recorder-of-time) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -49,7 +49,7 @@
 		"icon": {
 			"emoji": "🤹",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/68e47acdab7f330c.svg）"
 		},
 		"color": ""
 	},

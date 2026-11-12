@@ -1,6 +1,6 @@
 # 堅牢
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">堅牢</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧱</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>防御+9・回避+5</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">堅牢</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b0f98444a91a9a52.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>防御+9・回避+5</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 硬くて、しかも動く。理不尽の形。
 
@@ -17,15 +17,15 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 |
-| [<span class="wiki-icon">🪲</span>灼熱の甲虫](/ja/action/scorching-beetle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 |
-| [<span class="wiki-icon">🔥</span>イフリート](/ja/action/ifrit) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv43 |
+| [<img class="wiki-icon" src="assets/icon/8a25194356ea6eb5.svg" alt="">タートル](/ja/action/sea-turtle) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv39 |
+| [<img class="wiki-icon" src="assets/icon/a00ac0267c6ec1f0.svg" alt="">灼熱の甲虫](/ja/action/scorching-beetle) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/28d9275128ba3d5b.svg" alt="">イフリート](/ja/action/ifrit) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv9 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/item/odm-boots) | [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/f3dc5cc462bdada5.svg" alt="">立体機動ブーツ](/ja/item/odm-boots) | [<img class="wiki-icon" src="assets/icon/b520170afa4d40a8.svg" alt="">脚部装備](/ja/group/leg-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -48,7 +48,7 @@
 		"icon": {
 			"emoji": "🧱",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/b0f98444a91a9a52.svg）"
 		},
 		"color": ""
 	},

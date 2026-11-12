@@ -1,6 +1,6 @@
 # 隠された北国への道
 
-<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">隠された北国への道</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧭</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/knowledge"><span class="wiki-icon">🧠</span>知識</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">隠された北国への道</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/07145ca4be58e6a7.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/study"><img class="wiki-icon" src="assets/icon/2e8e4cc8d396fd3f.svg" alt="">書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/knowledge"><img class="wiki-icon" src="assets/icon/ae86d6f81fb656b1.svg" alt="">知識</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 古びた地図が示す、北国へ抜ける秘密の道。
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗺️</span>古びた地図](/ja/action/read-map) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv1 | 1 | 100% | 1 | 0.056 |
+| [<img class="wiki-icon" src="assets/icon/e66a3ab86a353533.svg" alt="">古びた地図](/ja/action/read-map) | [<img class="wiki-icon" src="assets/icon/2e8e4cc8d396fd3f.svg" alt="">書斎](/ja/category/study) | Lv1 | 1 | 100% | 1 | 0.056 |
 
 ## 用途
 
@@ -27,10 +27,10 @@
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | カテゴリの解放条件 | [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) ×1 |
-| [<span class="wiki-icon">🏛️</span>海底の遺跡](/ja/event/undersea-ruins) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) ×1 |
+| [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | カテゴリの解放条件 | [<img class="wiki-icon" src="assets/icon/07145ca4be58e6a7.svg" alt="">隠された北国への道](/ja/item/hidden-path-to-northland) ×1 |
+| [<img class="wiki-icon" src="assets/icon/399196758d8173ae.svg" alt="">海底の遺跡](/ja/event/undersea-ruins) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/07145ca4be58e6a7.svg" alt="">隠された北国への道](/ja/item/hidden-path-to-northland) ×1 |
 
-<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 知識</div><div class="wiki-navbox-body"><a href="#/ja/item/cruel-heart"><span class="wiki-icon">🔪</span>残忍な心</a> ・ <a href="#/ja/item/conspiracy-theory"><span class="wiki-icon">🛸</span>陰謀論</a> ・ <a href="#/ja/item/cut-out-threat-letter"><span class="wiki-icon">✂️</span>切り抜き文字の脅迫文</a> ・ <a href="#/ja/item/nerve"><span class="wiki-icon">🦁</span>度胸</a> ・ <a href="#/ja/item/rubbernecking"><span class="wiki-icon">👀</span>野次馬心</a> ・ <a href="#/ja/item/suspicion"><span class="wiki-icon">🤨</span>猜疑心</a> ・ <a href="#/ja/item/bravado"><span class="wiki-icon">🦚</span>虚勢</a> ・ <a href="#/ja/item/erudition"><span class="wiki-icon">🧠</span>博識</a> ・ <a href="#/ja/item/aesthetic-eye"><span class="wiki-icon">🎨</span>審美眼</a> ・ <a href="#/ja/item/cunning"><span class="wiki-icon">🦊</span>悪知恵</a> ・ <a href="#/ja/item/cooking-knowledge"><span class="wiki-icon">🍳</span>料理知識</a> ・ <a href="#/ja/item/hidden-path-to-northland"><span class="wiki-icon">🧭</span>隠された北国への道</a> ・ <a href="#/ja/item/history-knowledge"><span class="wiki-icon">📜</span>歴史知識</a> ・ <a href="#/ja/item/necromancy"><span class="wiki-icon">💀</span>ネクロマンス</a> ・ <a href="#/ja/item/truth-of-the-universe"><span class="wiki-icon">🌌</span>宇宙の真理</a></div></div>
+<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 知識</div><div class="wiki-navbox-body"><a href="#/ja/item/cruel-heart"><img class="wiki-icon" src="assets/icon/e20f2410162f3de5.svg" alt="">残忍な心</a> ・ <a href="#/ja/item/conspiracy-theory"><img class="wiki-icon" src="assets/icon/e224efa05b611b51.svg" alt="">陰謀論</a> ・ <a href="#/ja/item/cut-out-threat-letter"><img class="wiki-icon" src="assets/icon/d271323e17549bbd.svg" alt="">切り抜き文字の脅迫文</a> ・ <a href="#/ja/item/nerve"><img class="wiki-icon" src="assets/icon/c2bd8733067be588.svg" alt="">度胸</a> ・ <a href="#/ja/item/rubbernecking"><img class="wiki-icon" src="assets/icon/73b3b41bf68f80cd.svg" alt="">野次馬心</a> ・ <a href="#/ja/item/suspicion"><img class="wiki-icon" src="assets/icon/268404846b9fc365.svg" alt="">猜疑心</a> ・ <a href="#/ja/item/bravado"><img class="wiki-icon" src="assets/icon/54729b4869174f6b.svg" alt="">虚勢</a> ・ <a href="#/ja/item/erudition"><img class="wiki-icon" src="assets/icon/a7adf370c3bc609a.svg" alt="">博識</a> ・ <a href="#/ja/item/aesthetic-eye"><img class="wiki-icon" src="assets/icon/f842f4822ef639e6.svg" alt="">審美眼</a> ・ <a href="#/ja/item/cunning"><img class="wiki-icon" src="assets/icon/ddf1b495bfcceaa1.svg" alt="">悪知恵</a> ・ <a href="#/ja/item/cooking-knowledge"><img class="wiki-icon" src="assets/icon/e8dbedd65beac075.svg" alt="">料理知識</a> ・ <a href="#/ja/item/hidden-path-to-northland"><img class="wiki-icon" src="assets/icon/07145ca4be58e6a7.svg" alt="">隠された北国への道</a> ・ <a href="#/ja/item/history-knowledge"><img class="wiki-icon" src="assets/icon/dfd065435a728eaf.svg" alt="">歴史知識</a> ・ <a href="#/ja/item/necromancy"><img class="wiki-icon" src="assets/icon/e9fce296a96d8fdd.svg" alt="">ネクロマンス</a> ・ <a href="#/ja/item/truth-of-the-universe"><img class="wiki-icon" src="assets/icon/0f215a6233178fcf.svg" alt="">宇宙の真理</a></div></div>
 
 ## 開発者向け情報
 
@@ -63,7 +63,7 @@
 		"icon": {
 			"emoji": "🧭",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/07145ca4be58e6a7.svg）"
 		},
 		"color": ""
 	},

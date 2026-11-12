@@ -17,16 +17,16 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 |
-| [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 |
-| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
-| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/6b4bee93ce40e393.svg" alt="">教祖](/ja/action/cult-leader) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv5 |
+| [<img class="wiki-icon" src="assets/icon/a71a25b5d0b12010.svg" alt="">海賊の頭](/ja/action/pirate-captain) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv6 |
+| [<img class="wiki-icon" src="assets/icon/4cf5aeed2a7e772b.svg" alt="">騎士](/ja/action/knight) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv16 |
+| [<img class="wiki-icon" src="assets/icon/c1042b00a01b59d1.svg" alt="">大佐](/ja/action/colonel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv28 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🗳️</span>清き一票](/ja/item/clean-vote) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<img class="wiki-icon" src="assets/icon/de5f9818990501e4.svg" alt="">清き一票](/ja/item/clean-vote) | [<img class="wiki-icon" src="assets/icon/7c7dbb617148ad3b.svg" alt="">能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 

@@ -1,6 +1,6 @@
 # 遊ぶ
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">遊ぶ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎾</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>18本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">遊ぶ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/58468227b38a0e13.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>18本</td></tr></table></div>
 
 
 ## アクション
@@ -9,24 +9,24 @@
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）](/ja/action/play-with-chick) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv1 | 連続 |
-| [<span class="wiki-icon">🐟</span>メダカ](/ja/action/feed-killifish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv3 | 連続 |
-| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/action/run-hamster) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv8 | 連続 |
-| [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/action/pluck-walking-cactus-thorn) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv11 | 連続 |
-| [<span class="wiki-icon">🐔</span>ピヨちゃん](/ja/action/care-for-chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv18 | 連続 |
-| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/action/bathe-duck) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv21 | 連続 |
-| [<span class="wiki-icon">🐕</span>パブロフ](/ja/action/cheer-up-underdog) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv23 | 連続 |
-| [<span class="wiki-icon">🐢</span>クッパ](/ja/action/walk-turtle) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv25 | 連続 |
-| [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/action/talk-with-parroting-parrot) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv28 | 連続 |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/action/take-out-jones) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv30 | 連続 |
-| [<span class="wiki-icon">🐧</span>ペンペン](/ja/action/pen-pen-fishing) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv33 | 連続 |
-| [<span class="wiki-icon">🤖</span>R2D2](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv35 | 連続 |
-| [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/action/bathe-kero-chan) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv38 | 連続 |
-| [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/action/play-with-flame-fox) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv40 | 連続 |
-| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/action/play-with-fire-bird) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv43 | 連続 |
-| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/action/ask-five-color-cat) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv45 | 連続 |
-| [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/action/feed-flying-goldfish) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv48 | 連続 |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/action/ride-flying-pig) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv50 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/b6f0ef88ffc25bab.svg" alt="">ピヨちゃん（ジュニア）](/ja/action/play-with-chick) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv1 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/826f925b2f88bac8.svg" alt="">メダカ](/ja/action/feed-killifish) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv3 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/5e4aa0f5e0469129.svg" alt="">ハム右衛門](/ja/action/run-hamster) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv8 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/6ee75866a4cd9bfe.svg" alt="">歩くサボテン](/ja/action/pluck-walking-cactus-thorn) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv11 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/722720b253eb31b6.svg" alt="">ピヨちゃん](/ja/action/care-for-chicken) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv18 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/3a4af8dd6d19c04d.svg" alt="">醜いアヒル](/ja/action/bathe-duck) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv21 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/056df9b2abd17a5a.svg" alt="">パブロフ](/ja/action/cheer-up-underdog) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv23 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/73da99684cb1b3ac.svg" alt="">クッパ](/ja/action/walk-turtle) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv25 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/ada1a971c2bc3f51.svg" alt="">オウム返しするオウム](/ja/action/talk-with-parroting-parrot) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv28 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/5d2614f177a8901a.svg" alt="">ジョーンズ](/ja/action/take-out-jones) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv30 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/1ea177292f004030.svg" alt="">ペンペン](/ja/action/pen-pen-fishing) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv33 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/a2083bedd68b34b6.svg" alt="">R2D2](/ja/action/scout-with-r2d2) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv35 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/d9e248bf9fab6bf0.svg" alt="">ケロちゃん](/ja/action/bathe-kero-chan) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv38 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/b8b458fce0e261b9.svg" alt="">炎のキツネ](/ja/action/play-with-flame-fox) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv40 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/b83b74ee1f05fa49.svg" alt="">炎の鳥](/ja/action/play-with-fire-bird) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv43 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/534f5c61426efa3a.svg" alt="">シュレーディンガー](/ja/action/ask-five-color-cat) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv45 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/1b1cbe8b6897b3e6.svg" alt="">空飛ぶ金魚](/ja/action/feed-flying-goldfish) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv48 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/8bd14d8bf4299206.svg" alt="">空飛ぶブタ](/ja/action/ride-flying-pig) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv50 | 連続 |
 
 ## 開発者向け情報
 
@@ -50,7 +50,7 @@
 	"icon": {
 		"emoji": "🎾",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/58468227b38a0e13.svg）"
 	},
 	"color": ""
 }

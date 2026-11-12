@@ -1,6 +1,6 @@
 # 導火線
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">導火線</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧨</span></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>攻撃+5</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">導火線</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/8bf5fb0d4d17087f.svg" alt=""></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>攻撃+5</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 待つ時間が、いちばん楽しい。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>ボム](/ja/action/bomb) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 |
+| [<img class="wiki-icon" src="assets/icon/0f1ebb270ccc2726.svg" alt="">ボム](/ja/action/bomb) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv1 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船](/ja/item/water-balloon) | [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船](/ja/item/water-balloon) | [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🧨",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/8bf5fb0d4d17087f.svg）"
 		},
 		"color": ""
 	},

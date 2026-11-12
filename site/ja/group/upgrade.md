@@ -1,15 +1,15 @@
 # グレードアップ
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">グレードアップ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⏫</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>3本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">グレードアップ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/fb23c58f72e7e5dd.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>3本</td></tr></table></div>
 
 
 ## アクション
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">💥</span>閃光弾](/ja/action/upgrade-flashbang) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv24 | 連続 |
-| [<span class="wiki-icon">☢️</span>核爆弾](/ja/action/upgrade-nuclear-bomb) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv50 | 連続 |
-| [<span class="wiki-icon">🌟</span>元気玉](/ja/action/upgrade-spirit-bomb) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv50 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/6f25565f350c82fb.svg" alt="">閃光弾](/ja/action/upgrade-flashbang) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv24 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/7ccb9d917ef01891.svg" alt="">核爆弾](/ja/action/upgrade-nuclear-bomb) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv50 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/142fc7698e7944b7.svg" alt="">元気玉](/ja/action/upgrade-spirit-bomb) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv50 | 連続 |
 
 ## 開発者向け情報
 
@@ -33,7 +33,7 @@
 	"icon": {
 		"emoji": "⏫",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/fb23c58f72e7e5dd.svg）"
 	},
 	"color": ""
 }

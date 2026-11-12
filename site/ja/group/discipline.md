@@ -1,15 +1,15 @@
 # しつけ
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">しつけ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦴</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>3本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">しつけ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/14ec568616182b43.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>3本</td></tr></table></div>
 
 
 ## アクション
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 | スタミナ（戦闘） |
-| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv13 | スタミナ（戦闘） |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv16 | スタミナ（戦闘） |
+| [<img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ](/ja/action/chicken) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv6 | スタミナ（戦闘） |
+| [<img class="wiki-icon" src="assets/icon/c86edc0f27aaa3ab.svg" alt="">パンシー](/ja/action/pansy) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv13 | スタミナ（戦闘） |
+| [<img class="wiki-icon" src="assets/icon/c7d3ecb34b9e3294.svg" alt="">ミミズ](/ja/action/earthworm) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv16 | スタミナ（戦闘） |
 
 ## 開発者向け情報
 
@@ -33,7 +33,7 @@
 	"icon": {
 		"emoji": "🦴",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/14ec568616182b43.svg）"
 	},
 	"color": ""
 }

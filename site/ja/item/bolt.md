@@ -1,6 +1,6 @@
 # ボルト
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ボルト</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔩</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ボルト</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/8e486e4f25fa6ade.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ナットと組んで真価を発揮。
 
@@ -11,9 +11,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏭</span>ベルトコンベア漁り](/ja/action/conveyor-scavenging) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv1 | 5 | 56% | 1.4 | 84 |
-| [<span class="wiki-icon">💣</span>ボム](/ja/action/bomb) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 | 1 | 0.96% | 0.005 | 0.022 |
-| [<span class="wiki-icon">🚜</span>無人フォークリフト](/ja/action/unmanned-forklift) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv30 | 1 | 4.36% | 0.022 | 0.063 |
+| [<img class="wiki-icon" src="assets/icon/6c40c4939eb20707.svg" alt="">ベルトコンベア漁り](/ja/action/conveyor-scavenging) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv1 | 5 | 56% | 1.4 | 84 |
+| [<img class="wiki-icon" src="assets/icon/0f1ebb270ccc2726.svg" alt="">ボム](/ja/action/bomb) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv1 | 1 | 0.96% | 0.005 | 0.027 |
+| [<img class="wiki-icon" src="assets/icon/b9649d31a41a0cd9.svg" alt="">無人フォークリフト](/ja/action/unmanned-forklift) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv23 | 1 | 4.36% | 0.022 | 0.075 |
 
 ## 用途
 
@@ -21,7 +21,7 @@
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>ネジ拾い](/ja/event/screw-pickup) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt) ×10 |
+| [<img class="wiki-icon" src="assets/icon/23e527da1aaaf52f.svg" alt="">ネジ拾い](/ja/event/screw-pickup) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/8e486e4f25fa6ade.svg" alt="">ボルト](/ja/item/bolt) ×10 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -56,7 +56,7 @@
 		"icon": {
 			"emoji": "🔩",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/8e486e4f25fa6ade.svg）"
 		},
 		"color": ""
 	},

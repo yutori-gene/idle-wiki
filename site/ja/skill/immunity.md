@@ -17,15 +17,15 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 |
-| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 |
-| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv13 |
+| [<img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ](/ja/action/hydra) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/cb264fde782cfa00.svg" alt="">天使](/ja/action/angel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv39 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🛡️</span>抗体](/ja/item/antibody) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<img class="wiki-icon" src="assets/icon/369e6a3d6aefa7c0.svg" alt="">抗体](/ja/item/antibody) | [<img class="wiki-icon" src="assets/icon/7c7dbb617148ad3b.svg" alt="">能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 

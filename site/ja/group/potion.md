@@ -1,6 +1,6 @@
 # ポーション
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">ポーション</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧪</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>25種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">ポーション</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/4815effeebbe3bb0.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>25種</td></tr></table></div>
 
 
 ## アイテム
@@ -9,31 +9,31 @@
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 3 |
-| [<span class="wiki-icon">🩹</span>絆創膏](/ja/item/bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 3 |
-| [<span class="wiki-icon">💊</span>風邪薬](/ja/item/cold-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 9 |
-| [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/item/bubbling-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 27 |
-| [<span class="wiki-icon">💊</span>阿片](/ja/item/opium) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 81 |
-| [<span class="wiki-icon">🔥</span>カイロ](/ja/item/heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 4 |
-| [<span class="wiki-icon">👁️</span>目薬](/ja/item/eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 4 |
-| [<span class="wiki-icon">✨</span>発光する薬](/ja/item/glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 36 |
-| [<img class="wiki-icon" src="assets/icon/ff59e56b98270140.svg" alt="">エーテル](/ja/item/ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 324 |
-| [<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 5 |
-| [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 18 |
-| [<span class="wiki-icon">☕</span>眠気覚まし](/ja/item/anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 21 |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/item/phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 1,701 |
-| [<span class="wiki-icon">💊</span>下剤](/ja/item/laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 8 |
-| [<span class="wiki-icon">🧪</span>毒瓶](/ja/item/poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 72 |
-| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/item/laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 72 |
-| [<span class="wiki-icon">💊</span>滋養強壮剤](/ja/item/tonic) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 216 |
-| [<span class="wiki-icon">💉</span>ワクチン](/ja/item/vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 648 |
-| [<span class="wiki-icon">🧪</span>LCL](/ja/item/lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 19,683 |
-| [<span class="wiki-icon">💧</span>聖水](/ja/item/holy-water) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 270 |
-| [<span class="wiki-icon">💊</span>げんきのかけら](/ja/item/revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 810 |
-| [<span class="wiki-icon">💊</span>万能薬](/ja/item/panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 2,430 |
-| [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/item/bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 7,290 |
-| [<span class="wiki-icon">🧪</span>エリクサー](/ja/item/elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 7,290 |
-| [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/item/felix-felicis) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | 消費装備 | 65,610 |
+| [<img class="wiki-icon" src="assets/icon/2796f130e39f252a.svg" alt="">キズ薬](/ja/item/wound-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 3 |
+| [<img class="wiki-icon" src="assets/icon/69190e58d7835f31.svg" alt="">絆創膏](/ja/item/bandage) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 3 |
+| [<img class="wiki-icon" src="assets/icon/0ca5b2976a1f12e0.svg" alt="">風邪薬](/ja/item/cold-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 9 |
+| [<img class="wiki-icon" src="assets/icon/6a770ad0787317b4.svg" alt="">泡立つ薬](/ja/item/bubbling-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 27 |
+| [<img class="wiki-icon" src="assets/icon/321dc2a4f2dac680.svg" alt="">阿片](/ja/item/opium) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 81 |
+| [<img class="wiki-icon" src="assets/icon/95fda7d4cdea5922.svg" alt="">カイロ](/ja/item/heat-pack) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 4 |
+| [<img class="wiki-icon" src="assets/icon/c7051e8cc27b6f64.svg" alt="">目薬](/ja/item/eye-drops) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 4 |
+| [<img class="wiki-icon" src="assets/icon/1e4c8ea32eb11441.svg" alt="">発光する薬](/ja/item/glowing-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 36 |
+| [<img class="wiki-icon" src="assets/icon/ff59e56b98270140.svg" alt="">エーテル](/ja/item/ether) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 324 |
+| [<img class="wiki-icon" src="assets/icon/75d124e9d37102be.svg" alt="">保冷剤](/ja/item/cold-pack) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 5 |
+| [<img class="wiki-icon" src="assets/icon/214b7e32c793a361.svg" alt="">鎮痛剤](/ja/item/painkiller) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 18 |
+| [<img class="wiki-icon" src="assets/icon/2021ac1dfe331d7c.svg" alt="">眠気覚まし](/ja/item/anti-drowsiness) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 21 |
+| [<img class="wiki-icon" src="assets/icon/dd013b133084cd4d.svg" alt="">フェニックスの尾](/ja/item/phoenix-tail) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 1,701 |
+| [<img class="wiki-icon" src="assets/icon/17f951483fcbe4c7.svg" alt="">下剤](/ja/item/laxative) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 8 |
+| [<img class="wiki-icon" src="assets/icon/38b69b883b545ce9.svg" alt="">毒瓶](/ja/item/poison-vial) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 72 |
+| [<img class="wiki-icon" src="assets/icon/716add8f2b08d3c0.svg" alt="">下剤（ゴリラ用）](/ja/item/laxative-for-gorilla) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 72 |
+| [<img class="wiki-icon" src="assets/icon/ab6af308b96381d7.svg" alt="">滋養強壮剤](/ja/item/tonic) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 216 |
+| [<img class="wiki-icon" src="assets/icon/7230528b5b48d1ef.svg" alt="">ワクチン](/ja/item/vaccine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 648 |
+| [<img class="wiki-icon" src="assets/icon/def365d07b69a30a.svg" alt="">LCL](/ja/item/lcl) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 19,683 |
+| [<img class="wiki-icon" src="assets/icon/b1c14e2f36ba75bf.svg" alt="">聖水](/ja/item/holy-water) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 270 |
+| [<img class="wiki-icon" src="assets/icon/66b124862601eed4.svg" alt="">げんきのかけら](/ja/item/revive-piece) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 810 |
+| [<img class="wiki-icon" src="assets/icon/67f30828b622a31f.svg" alt="">万能薬](/ja/item/panacea) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 2,430 |
+| [<img class="wiki-icon" src="assets/icon/50c9e20220e3ae9e.svg" alt="">精霊の入ったビン](/ja/item/bottled-spirit) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 7,290 |
+| [<img class="wiki-icon" src="assets/icon/4156e82a5f7cdd3f.svg" alt="">エリクサー](/ja/item/elixir) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 7,290 |
+| [<img class="wiki-icon" src="assets/icon/d99e647cce95a969.svg" alt="">フェリックスフェリシス](/ja/item/felix-felicis) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | 消費装備 | 65,610 |
 
 ## 開発者向け情報
 
@@ -57,7 +57,7 @@
 	"icon": {
 		"emoji": "🧪",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/4815effeebbe3bb0.svg）"
 	},
 	"color": ""
 }

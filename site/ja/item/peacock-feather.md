@@ -1,6 +1,6 @@
 # 孔雀の羽
 
-<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">孔雀の羽</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪶</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/wall"><span class="wiki-icon">🖼️</span>壁</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">孔雀の羽</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/5ef9e5408cbf91a9.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/wall"><img class="wiki-icon" src="assets/icon/6e8845fc56627540.svg" alt="">壁</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 虹色に輝く自然の芸術。壁に飾ると、すべてのカテゴリの経験値が増える。
 
@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/action/bundle-peacock-feather) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv21 | 1 | 100% | 1 | 0.25 |
+| [<img class="wiki-icon" src="assets/icon/84692c4ba909a815.svg" alt="">孔雀の羽](/ja/action/bundle-peacock-feather) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv21 | 1 | 100% | 1 | 0.25 |
 
-<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 壁</div><div class="wiki-navbox-body"><a href="#/ja/item/peacock-feather"><span class="wiki-icon">🪶</span>孔雀の羽</a> ・ <a href="#/ja/item/burning-passion"><span class="wiki-icon">🔥</span>熱い想い</a> ・ <a href="#/ja/item/will-document"><span class="wiki-icon">📜</span>遺言書</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 壁</div><div class="wiki-navbox-body"><a href="#/ja/item/peacock-feather"><img class="wiki-icon" src="assets/icon/5ef9e5408cbf91a9.svg" alt="">孔雀の羽</a> ・ <a href="#/ja/item/burning-passion"><img class="wiki-icon" src="assets/icon/3ac8fca292fd46a6.svg" alt="">熱い想い</a> ・ <a href="#/ja/item/will-document"><img class="wiki-icon" src="assets/icon/8f6fc6466924b5ac.svg" alt="">遺言書</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,7 +54,7 @@
 		"icon": {
 			"emoji": "🪶",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/5ef9e5408cbf91a9.svg）"
 		},
 		"color": ""
 	},

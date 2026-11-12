@@ -18,6 +18,7 @@
 | `offlineMaxHours` | `24` |
 | `maxCategoryLevels` | `50` |
 | `levelCommonRatio` | `1.11` |
+| `experienceReturnRate` | `0.8` |
 | `actionLevelLimit` | `true` |
 | `propertyRatio` | `1.5` |
 
@@ -30,7 +31,7 @@
 ## 通貨・枠
 
 - [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)
-- [<span class="wiki-icon">🏅</span>秘宝メダル](/ja/item/treasure-medal)
+- [<img class="wiki-icon" src="assets/icon/35c3b1c389d2126f.svg" alt="">秘宝メダル](/ja/item/treasure-medal)
 - [<span class="wiki-icon">📦</span>物置](/ja/item/capacity)
 - [<span class="wiki-icon">📋</span>作業予定](/ja/item/queue)
 
@@ -91,7 +92,7 @@
 				"icon": {
 					"emoji": "🏅",
 					"iconify": "",
-					"image": ""
+					"image": "（data URI の画像。site/assets/icon/35c3b1c389d2126f.svg）"
 				},
 				"color": ""
 			}
@@ -133,6 +134,7 @@
 			"buyingLimit": 4
 		},
 		"levelCommonRatio": 1.11,
+		"experienceReturnRate": 0.8,
 		"actionLevelLimit": true,
 		"propertyRatio": 1.5,
 		"defaultCombat": {

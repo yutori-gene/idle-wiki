@@ -1,6 +1,6 @@
 # 天空の鍵
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">天空の鍵</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗝️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>270 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">天空の鍵</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e6be96accbbbca55.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>270 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 雲の上の扉を開く。
 
@@ -11,13 +11,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦄</span>ペガサス](/ja/action/pegasus) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.045% | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/9635026f25519f71.svg" alt="">ペガサス](/ja/action/pegasus) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv34 | 1 | 0.045% | 0 | 0 |
 
 ### イベント
 
 | イベント | タイミング | 個数 | 確率 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🙏</span>神官の祝福](/ja/event/priest-blessing) | 条件達成（タスク） | 1 | 100% |
+| [<img class="wiki-icon" src="assets/icon/008b32cd84c8025f.svg" alt="">神官の祝福](/ja/event/priest-blessing) | 条件達成（タスク） | 1 | 100% |
 
 ## 用途
 
@@ -25,9 +25,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.333% |  |
+| [<img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.333% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -60,7 +60,7 @@
 		"icon": {
 			"emoji": "🗝️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/e6be96accbbbca55.svg）"
 		},
 		"color": ""
 	},

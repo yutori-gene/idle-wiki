@@ -1,6 +1,6 @@
 # 手当て
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">手当て</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🩹</span></div><table><tr><th>発動率</th><td>7%／ターン</td></tr><tr><th>効果</th><td>回復+7</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">手当て</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/18fd87bf6f6fa017.svg" alt=""></div><table><tr><th>発動率</th><td>7%／ターン</td></tr><tr><th>効果</th><td>回復+7</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 戦いながら傷を縫う。慣れの問題。
 
@@ -17,15 +17,15 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 |
-| [<span class="wiki-icon">🧟</span>ミイラ](/ja/action/mummy) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv43 |
-| [<span class="wiki-icon">😇</span>天使](/ja/action/angel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/a71a25b5d0b12010.svg" alt="">海賊の頭](/ja/action/pirate-captain) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv6 |
+| [<img class="wiki-icon" src="assets/icon/0218c089efa72a77.svg" alt="">ミイラ](/ja/action/mummy) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv1 |
+| [<img class="wiki-icon" src="assets/icon/cb264fde782cfa00.svg" alt="">天使](/ja/action/angel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv39 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🪄</span>封印の杖](/ja/item/sealing-staff) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/d1dd0a3456be4a21.svg" alt="">封印の杖](/ja/item/sealing-staff) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -48,7 +48,7 @@
 		"icon": {
 			"emoji": "🩹",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/18fd87bf6f6fa017.svg）"
 		},
 		"color": ""
 	},

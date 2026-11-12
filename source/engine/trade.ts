@@ -197,7 +197,17 @@ export function isSlotItem(item: Type.dictionary.Item): boolean {
 }
 
 export function getCurrentItemTypesCount(): number {
-	return Data.dictionary.getList(true).items.filter((item) => item.itemType === "normal" && item.user.countNow > 0).length;
+	return Data.dictionary.getList(true).items.filter((item) => countsTowardCapacity(item) && item.user.countNow > 0).length;
+}
+
+/**
+ * 所持枠（容量）の種類数に数えるアイテムか。
+ * 売れず・買えず・1個しか持てないもの（ペット・知識・道具・美術品・ダンジョンの案内図や証など、手放せない持ち物）は数えない。
+ * 数えると手放せない持ち物が増えるほど枠が恒久的に埋まり、拾ったものを入れる枠が無くなる（2026-11-12 ユーザー決定）
+ */
+export function countsTowardCapacity(item: Type.dictionary.Item): boolean {
+	if (item.itemType !== "normal") return false;
+	return !(item.world.sellingValue <= 0 && item.world.buyingValue <= 0 && item.world.maximum == 1);
 }
 
 // 枠アイテム（容量・キュー）の実体を取得。ワールド定義に無い場合はundefined

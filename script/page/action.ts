@@ -1,7 +1,7 @@
 // アクションページ（action/<id>）
 import type * as Type from "../../source/type/worldType.ts";
-import { calculateActionStats, expectedAcquisition, LEVEL_GAPS, type ActionStats, type CombatEstimate } from "../lib/calc.ts";
-import { amount, duration, infobox, join, link, linkHtml, navbox, number, percent, percentValue, section, table, type InfoboxRow } from "../lib/format.ts";
+import { calculateActionStats, expectedAcquisition, experienceReturnRate, LEVEL_GAPS, type ActionStats, type CombatEstimate } from "../lib/calc.ts";
+import { amount, duration, escapeHtml, escapeMarkdown, infobox, join, link, linkHtml, navbox, number, percent, percentValue, section, table, type InfoboxRow } from "../lib/format.ts";
 import {
 	actionEconomy,
 	acquisitionText,
@@ -9,6 +9,7 @@ import {
 	developerSection,
 	htmlValue,
 	lead,
+	levelPercentCell,
 	referencedBySection,
 	referencesFor,
 	requirementList,
@@ -29,12 +30,16 @@ export function actionPages(context: Context): Page[] {
 	return context.model.world.actions.map((action) => actionPage(context, action));
 }
 
-/** そのアクションで並べるレベル差（カテゴリの最大レベルを超えない差だけ）。numeric=false なら差0のみ */
+/**
+ * そのアクションで並べるレベル差（系統と経験値の入り先のどのカテゴリでも最大レベルを超えない差だけ）。
+ * 系統のカテゴリが numeric=false なら差0のみ
+ */
 export function levelGapsOf(context: Context, action: Type.Action): number[] {
-	const numeric = context.model.experienceCategory(action)?.numeric ?? false;
-	if (!numeric) return [0];
+	const basis = context.model.actionBasis(action);
+	if (!basis.numeric) return [0];
 	const max = context.model.world.basic.general.maxCategoryLevels;
-	return LEVEL_GAPS.filter((gap) => gap === 0 || action.level + gap <= max);
+	const highest = Math.max(basis.level, ...basis.targets.map((target) => target.level));
+	return LEVEL_GAPS.filter((gap) => gap === 0 || highest + gap <= max);
 }
 
 function actionPage(context: Context, action: Type.Action): Page {
@@ -43,18 +48,22 @@ function actionPage(context: Context, action: Type.Action): Page {
 	const id = action.information.id;
 	const path = `action/${id}`;
 	const stats = baseStats(context, action);
-	const experienceCategory = model.experienceCategory(action);
+	const basis = model.actionBasis(action);
+	const hasDiscipline = model.hasDiscipline(action);
+	const ownNumeric = model.categories.get(action.category)?.numeric ?? false;
 	const units = label.time;
 
 	const rows: InfoboxRow[] = [
 		{ label: "場所", value: linkHtml(model, "category", action.category) },
-		{ label: "経験値の入り先", value: action.attribute && action.attribute !== action.category ? linkHtml(model, "category", action.attribute) : "" },
+		{ label: "系統", value: hasDiscipline ? linkHtml(model, "category", action.discipline) : "" },
 		{ label: "グループ", value: action.group ? linkHtml(model, "group", action.group) : "" },
 		{ label: "進行", value: htmlValue(label.progress[action.progressType]) },
-		{ label: "必要Lv", value: experienceCategory?.numeric ? `Lv${number(action.level)}` : "" },
+		{ label: "必要Lv", value: ownNumeric ? `Lv${number(action.level)}` : "" },
+		{ label: "系統の必要Lv", value: hasDiscipline && basis.numeric ? `Lv${number(basis.level)}` : "" },
 		{ label: "所要時間", value: action.progressType === "snap" ? "即時" : htmlValue(duration(action.seconds, units) + (action.progressType === "stamina" ? "／ターン" : "")) },
 		{ label: "成功率", value: htmlValue(percent(action.chance)) },
-		{ label: "経験値", value: experienceCategory?.numeric ? htmlValue(number(action.experience)) : "" },
+		{ label: "経験値", value: basis.targets.length ? htmlValue(number(action.experience)) : "" },
+		{ label: "経験値の配分", value: hasDiscipline ? experienceSplit(context, action) : "" },
 		{ label: "最大回数", value: action.maximum > 0 ? `${number(action.maximum)}回` : label.unlimited },
 		{ label: "初期状態", value: htmlValue(label.locked[action.unlocked]) },
 	];
@@ -77,18 +86,32 @@ function actionPage(context: Context, action: Type.Action): Page {
 	};
 }
 
+/** 経験値の配分（インフォボックス用）。numeric=false の入り先は「入らない」 */
+function experienceSplit(context: Context, action: Type.Action): string {
+	const model = context.model;
+	const rate = experienceReturnRate(model.world.basic.general);
+	const part = (categoryId: string, value: number): string =>
+		`${linkHtml(model, "category", categoryId)} ${model.categories.get(categoryId)?.numeric ? escapeHtml(percent(value)) : "（レベルが無いので入らない）"}`;
+	return `${part(action.category, rate)}、${part(action.discipline, 1 - rate)}`;
+}
+
 function requirementSection(context: Context, action: Type.Action): string {
 	const model = context.model;
-	const category = model.experienceCategory(action);
-	const level =
-		model.world.basic.general.actionLevelLimit && category?.numeric && action.level > 1
-			? `- ${link(model, "category", category.information.id)} Lv${number(action.level)}以上（経験値の入り先カテゴリのレベル）`
-			: "";
+	const levelLimit = model.world.basic.general.actionLevelLimit;
+	const own = model.categories.get(action.category);
+	const lines: string[] = [];
+	if (levelLimit && own?.numeric && action.level > 1) lines.push(`- ${link(model, "category", action.category)} Lv${number(action.level)}以上（所属カテゴリのレベル）`);
+	if (model.hasDiscipline(action)) {
+		// player は系統のカテゴリが解放されるまでアクションをロックする（check.ts）
+		const level = model.disciplineLevel(action);
+		const leveled = levelLimit && model.disciplineCategory(action)?.numeric && level > 1;
+		lines.push(`- ${link(model, "category", action.discipline)} が解放されている${leveled ? `・Lv${number(level)}以上` : ""}（系統のカテゴリ）`);
+	}
 	const items = requirementList(context, action.requirements, false, true);
 	const hasConsuming = action.requirements.some((requirement) => requirement.type === "item" && requirement.chance > 0);
 	return section(
 		"必要なもの",
-		join([level, items].filter(Boolean).join("\n"), hasConsuming ? "材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。" : ""),
+		join([...lines, items].filter(Boolean).join("\n"), hasConsuming ? "材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。" : ""),
 	);
 }
 
@@ -122,9 +145,9 @@ function combatSection(context: Context, action: Type.Action): string {
 		return `- ${link(model, "skill", skillId)}${skill ? `：毎ターン ${percent(skill.chance)} で発動、${skillEffect(context, skill)}` : ""}`;
 	});
 	const estimates = levelGapsOf(context, action).map((gap) => {
-		const combat = calculateActionStats(model.world, action, model.experienceCategory(action)?.numeric ?? false, gap).combat!;
+		const combat = calculateActionStats(model.world, action, model.actionBasis(action), gap).combat!;
 		return [
-			gapLabel(action, gap),
+			gapLabel(model.disciplineLevel(action), gap),
 			percentValue(combat.attack),
 			percentValue(combat.defence),
 			percentValue(combat.accuracy),
@@ -157,29 +180,39 @@ function combatSection(context: Context, action: Type.Action): string {
 	);
 }
 
-function gapLabel(action: Type.Action, gap: number): string {
-	return gap === 0 ? `±0（Lv${number(action.level)}）` : `+${gap}（Lv${number(action.level + gap)}）`;
+/** レベル差の見出し。level は系統の必要レベル（系統が無ければ必要Lv） */
+function gapLabel(level: number, gap: number): string {
+	return gap === 0 ? `±0（Lv${number(level)}）` : `+${gap}（Lv${number(level + gap)}）`;
 }
 
 function statsSection(context: Context, action: Type.Action): string {
 	const model = context.model;
-	const numeric = model.experienceCategory(action)?.numeric ?? false;
+	const basis = model.actionBasis(action);
+	const hasDiscipline = model.hasDiscipline(action);
 	const units = model.label.time;
+	// 系統を持つアクションは経験値%/時を入り先カテゴリごとの列に分ける
+	const targetHeader = (categoryId: string): string => (hasDiscipline ? `経験値%/時（${escapeMarkdown(model.categories.get(categoryId)?.information.name ?? categoryId)}）` : "経験値%/時");
 	const rows = levelGapsOf(context, action).map((gap) => {
-		const stats = calculateActionStats(model.world, action, numeric, gap);
+		const stats = calculateActionStats(model.world, action, basis, gap);
 		return [
-			numeric ? gapLabel(action, gap) : "—",
+			basis.numeric ? gapLabel(basis.level, gap) : "—",
 			action.progressType === "snap" ? "即時" : duration(stats.seconds, units),
 			percent(stats.chance),
-			numeric ? number(stats.experience, 2) : model.label.none,
+			basis.targets.length ? number(stats.experience, 2) : model.label.none,
 			stats.runsPerHour !== undefined ? number(stats.runsPerHour, 1) : model.label.none,
-			stats.levelPercentPerHour !== undefined && numeric ? number(stats.levelPercentPerHour, 0) : model.label.none,
+			...(basis.targets.length ? basis.targets.map((target) => levelPercentCell(context, stats, target.categoryId)) : [model.label.none]),
 		];
 	});
-	const note = numeric
-		? "レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。"
-		: "経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。";
-	return section("計算値", join(table(["レベル差", "所要時間", "成功率", "経験値/成功", "実行回数/時", "経験値%/時"], rows), note));
+	const headers = ["レベル差", "所要時間", "成功率", "経験値/成功", "実行回数/時", ...(basis.targets.length ? basis.targets.map((target) => targetHeader(target.categoryId)) : ["経験値%/時"])];
+	const notes = [
+		basis.numeric
+			? `レベル差＝${hasDiscipline ? "系統のカテゴリのレベル − 系統の必要Lv" : "所属カテゴリのレベル − 必要Lv"}。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。`
+			: `${hasDiscipline ? "系統の" : ""}カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。`,
+		hasDiscipline
+			? "所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。"
+			: "",
+	];
+	return section("計算値", join(table(headers, rows), notes.filter(Boolean).join("")));
 }
 
 function economySection(context: Context, action: Type.Action, stats: ActionStats): string {

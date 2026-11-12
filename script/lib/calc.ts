@@ -1,9 +1,9 @@
 // 計算値の式。idle の player の式を写したもの（wiki は player を動かせないので、表示に要る式だけを持つ）。
 //
 // 出どころ（source/engine/ に取り込んでいる）:
-//   calculateRatio / calculateProperty / propertyWeights … player/control/game/property.ts
+//   calculateRatio / calculateProperty / propertyWeights・経験値の配分（calculateExperienceShares） … player/control/game/property.ts
 //   レベルアップ（levelCommonRatio）・成功判定・戦闘ターン   … player/control/game/update.ts
-//   取得物の抽選（正の chance=成功時 / 負=失敗時）・要求の消費 … player/control/economy/trade.ts
+//   取得物の抽選（正の chance=成功時 / 負=失敗時）・要求の消費・所持枠に数えるアイテム … player/control/economy/trade.ts
 //   最短の所要時間 minimumActionSecond                       … player/data/constant.ts
 //
 // ENGINE_DIGESTS は「この式を写したときの出どころのダイジェスト」。npm run wiki-check が source/snapshot.json と突き合わせ、
@@ -12,9 +12,9 @@ import type * as Type from "../../source/type/worldType.ts";
 import type * as Condition from "../../source/type/conditionType.ts";
 
 export const ENGINE_DIGESTS: { [file: string]: string } = {
-	"engine/property.ts": "31fd773db6400b4d5dcbdd5cbdad57904385b63fae6969a500959ec1b3b43338",
-	"engine/update.ts": "6695c8eba36734062c31eff1fb722bebbec3b0c102f036046ba44233bee76198",
-	"engine/trade.ts": "2d6a8b12a66b5f7ebc49cb1af4d641d7a183613bc257103d05adcc46383356d2",
+	"engine/property.ts": "aeccfbcc2071d1ea10bfb0265e22a8e3bb3b5da426869eec04bcd5173acab67a",
+	"engine/update.ts": "fe794e96c504d0a45e6451279a645afee0ba13286478fe730d4c27d86d6792b9",
+	"engine/trade.ts": "8f525aff0d247e92191cec9b4271826ceab041b2d2f26f1e52404459e4055c64",
 	"engine/constant.ts": "4a2f3ff7aeabb1561a88ec3f013fccf8f40fef4d11c5bdb579f848dc1342b473",
 };
 
@@ -29,10 +29,10 @@ const propertyWeights: Record<Condition.PropertyTypes, number> = {
 	restore: 1,
 	speed: 0.5,
 	chance: 1,
-	experience: 1,
+	experience: 1.5,
 };
 
-/** レベル差の表で並べる差。経験値の入り先カテゴリのレベル − アクションの必要レベル */
+/** レベル差の表で並べる差。系統のカテゴリのレベル − 系統の必要レベル（系統が無ければ所属カテゴリと必要Lv） */
 export const LEVEL_GAPS = [0, 10, 20, 30];
 
 function getPropertyRatio(general: Type.General): number {
@@ -107,28 +107,69 @@ export interface ActionStats {
 	seconds: number;
 	/** 成功率（0〜1） */
 	chance: number;
-	/** 成功1回の経験値。入り先カテゴリが numeric=false なら 0 */
+	/** 成功1回の経験値（入り先すべての合計）。入り先がどれも numeric=false なら 0 */
 	experience: number;
+	/** 入り先カテゴリごとの経験値（所属 → 系統の順。numeric=false の入り先は含まない） */
+	shares: ExperienceShareStats[];
 	/** 1回の完了にかかる秒数（戦闘は1戦ぶん）。即時は 0 */
 	cycleSeconds: number;
 	/** 1時間あたりの完了回数。即時は undefined */
 	runsPerHour?: number;
 	experiencePerHour?: number;
-	/** 1時間あたりの経験値を、入り先カテゴリのレベル（必要Lv＋レベル差）での「レベル1つ分＝100%」に換算した値。即時は undefined */
-	levelPercentPerHour?: number;
 	combat?: CombatEstimate;
 }
 
 /**
- * アクションのレベル差 gap での値を出す。player の calculatePropertties を装備補正・スキル補正なしで写したもの
- * @param numeric 経験値の入り先カテゴリが numeric か（false ならレベル差は効かない）
+ * 経験値の入り先1つ。系統が無いアクションは所属カテゴリだけ（rate=1）、
+ * 系統があるアクションは所属カテゴリ（experienceReturnRate）と系統のカテゴリ（1 − experienceReturnRate）
  */
-export function calculateActionStats(world: Type.World, action: Type.Action, numeric: boolean, gap: number): ActionStats {
+export interface ExperienceTarget {
+	categoryId: string;
+	/** そのカテゴリの必要レベル（所属は level、系統は disciplineLevel） */
+	level: number;
+	/** そのカテゴリへ入る割合（0〜1） */
+	rate: number;
+}
+
+/** アクションのレベル差の基準。レベル差は系統のカテゴリで測る */
+export interface ActionBasis {
+	/** 系統のカテゴリが numeric か（false ならレベル差は効かない） */
+	numeric: boolean;
+	/** 系統の必要レベル（系統が無ければ必要Lv） */
+	level: number;
+	/** 経験値の入り先（numeric=true のカテゴリだけ） */
+	targets: ExperienceTarget[];
+}
+
+/** あるレベル差での、入り先カテゴリ1つぶんの経験値 */
+export interface ExperienceShareStats {
+	categoryId: string;
+	/** 成功1回でこのカテゴリへ入る経験値 */
+	experience: number;
+	experiencePerHour?: number;
+	/** 1時間あたりの経験値を、このカテゴリのレベル（必要Lv＋レベル差）での「レベル1つ分＝100%」に換算した値。即時は undefined */
+	levelPercentPerHour?: number;
+}
+
+/** 系統を持つアクションの経験値のうち、所属カテゴリへ分ける割合。player の getExperienceReturnRate と同じく 0〜1 に収める */
+export function experienceReturnRate(general: Type.General): number {
+	const rate = general.experienceReturnRate;
+	return Math.min(Math.max(Number.isFinite(rate) ? rate : 0, 0), 1);
+}
+
+/**
+ * アクションのレベル差 gap での値を出す。player の calculatePropertties・calculateExperienceShares を装備補正・スキル補正なしで写したもの。
+ * 所属カテゴリのレベル差は系統と同じ gap とみなす（所属・系統それぞれの必要Lvから同じだけ上にいる）
+ * @param basis 系統のカテゴリと経験値の入り先（model.actionBasis）
+ */
+export function calculateActionStats(world: Type.World, action: Type.Action, basis: ActionBasis, gap: number): ActionStats {
 	const general = world.basic.general;
-	const levelGap = numeric ? gap : 0;
+	const levelGap = basis.numeric ? gap : 0;
 	const seconds = Math.max(calculateProperty(general, action.seconds, levelGap, "speed"), minimumActionSecond);
 	const chance = calculateProperty(general, action.chance * 100, levelGap, "chance") / 100;
-	const experience = numeric ? calculateProperty(general, action.experience, -levelGap, "experience") : 0;
+	// 入り先ごとに、そのカテゴリのレベル差（経験値なので逆向き）で計算して割合を掛ける
+	const shareExperiences = basis.targets.map((target) => ({ target, experience: calculateProperty(general, action.experience, -gap, "experience") * target.rate }));
+	const experience = shareExperiences.reduce((total, share) => total + share.experience, 0);
 
 	let cycleSeconds = action.progressType === "snap" ? 0 : seconds;
 	let combat: CombatEstimate | undefined;
@@ -137,20 +178,19 @@ export function calculateActionStats(world: Type.World, action: Type.Action, num
 		cycleSeconds = combat.seconds;
 	}
 	const runsPerHour = cycleSeconds > 0 && Number.isFinite(cycleSeconds) ? 3600 / cycleSeconds : undefined;
-	const experiencePerHour = runsPerHour !== undefined ? runsPerHour * chance * experience : undefined;
-	// player は 経験値 / 100 / levelCommonRatio^(いまのレベル − 1) だけレベルを進める（update.ts）
-	const level = Math.floor(action.level + levelGap);
-	return {
-		gap,
-		seconds,
-		chance,
-		experience,
-		cycleSeconds,
-		runsPerHour,
-		experiencePerHour,
-		levelPercentPerHour: experiencePerHour !== undefined ? (experiencePerHour * 100) / experienceToNext(general, level) : undefined,
-		combat,
-	};
+	const perHour = (value: number): number | undefined => (runsPerHour !== undefined ? runsPerHour * chance * value : undefined);
+	const shares = shareExperiences.map(({ target, experience: value }): ExperienceShareStats => {
+		const experiencePerHour = perHour(value);
+		// player は 経験値 / 100 / levelCommonRatio^(入る先のいまのレベル − 1) だけレベルを進める（update.ts）
+		const level = Math.floor(target.level + gap);
+		return {
+			categoryId: target.categoryId,
+			experience: value,
+			experiencePerHour,
+			levelPercentPerHour: experiencePerHour !== undefined ? (experiencePerHour * 100) / experienceToNext(general, level) : undefined,
+		};
+	});
+	return { gap, seconds, chance, experience, shares, cycleSeconds, runsPerHour, experiencePerHour: perHour(experience), combat };
 }
 
 function estimateCombat(world: Type.World, action: Type.Action, levelGap: number, turnSeconds: number): CombatEstimate {
@@ -181,6 +221,14 @@ export function expectedAcquisition(acquisition: Type.Acquisition, chance: numbe
 /** 要求アイテム1件の、アクション1回あたりの期待消費数（成功・失敗にかかわらず chance で抽選して消費する） */
 export function expectedConsumption(requirement: Type.Requirement): number {
 	return requirement.type === "item" ? requirement.count * requirement.chance : 0;
+}
+
+/**
+ * 所持枠（容量）の種類数に数えるアイテムか。player の countsTowardCapacity と同じ。
+ * 売れず・買えず・1個しか持てないもの（手放せない持ち物）は数えない
+ */
+export function countsTowardCapacity(item: Type.Item): boolean {
+	return !(item.sellingValue <= 0 && item.buyingValue <= 0 && item.maximum == 1);
 }
 
 /** 枠（容量・キュー）の n 回目（1始まり）の購入価格。player の getSlotBuyingPrice と同じ */

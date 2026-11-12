@@ -10,6 +10,7 @@ import {
 	developerSection,
 	htmlValue,
 	lead,
+	levelPercentCell,
 	referencedBySection,
 	referenceOwner,
 	referencesFor,
@@ -51,7 +52,7 @@ function categoryPage(context: Context, category: Type.Category): Page {
 			lead(context, path, category.information, infobox(category.information, model.color("category", id), rows)),
 			unlockSection(context, category),
 			actionSection(context, "アクション", actions, false),
-			actionSection(context, "よそのカテゴリから経験値が入るアクション", model.attributedActions.get(id) ?? [], true),
+			actionSection(context, "これを系統にしているアクション", model.disciplineActions.get(id) ?? [], true),
 			itemSection(context, items),
 			propertySection(context, id),
 			category.numeric ? levelSection(context, category) : referencedBySection(context, model.referencesOf("category", id).filter((reference) => reference.kind !== "action-requirement")),
@@ -73,7 +74,10 @@ function actionSection(context: Context, heading: string, actions: Type.Action[]
 	if (actions.length === 0) return "";
 	const model = context.model;
 	const units = model.label.time;
-	const sorted = [...actions].sort((a, b) => a.level - b.level);
+	// 系統として並べる表（showPlace）は系統の必要Lv、所属の表は必要Lvで並べる。経験値%/時はこのカテゴリへ入るぶん
+	const levelOf = (action: Type.Action): number => (showPlace ? model.disciplineLevel(action) : action.level);
+	const sorted = [...actions].sort((a, b) => levelOf(a) - levelOf(b));
+	const categoryId = sorted[0] ? (showPlace ? sorted[0].discipline : sorted[0].category) : "";
 	const rows = sorted.map((action) => {
 		const stats = baseStats(context, action);
 		return [
@@ -81,10 +85,10 @@ function actionSection(context: Context, heading: string, actions: Type.Action[]
 			...(showPlace ? [link(model, "category", action.category)] : []),
 			action.group ? link(model, "group", action.group) : "",
 			model.label.progress[action.progressType],
-			`Lv${number(action.level)}`,
+			`Lv${number(levelOf(action))}`,
 			action.progressType === "snap" ? "即時" : duration(action.seconds, units),
 			percent(action.chance),
-			stats.levelPercentPerHour !== undefined && stats.experience > 0 ? number(stats.levelPercentPerHour, 0) : model.label.none,
+			levelPercentCell(context, stats, categoryId),
 			shortConsumptions(context, action),
 			shortAcquisitions(context, action),
 		];
@@ -93,7 +97,9 @@ function actionSection(context: Context, heading: string, actions: Type.Action[]
 		heading,
 		join(
 			table(["アクション", ...(showPlace ? ["場所"] : []), "グループ", "進行", "必要Lv", "時間", "成功率", "経験値%/時", "消費物", "取得物"], rows, { filter: rows.length > 15 }),
-			heading === "アクション" ? `経験値%/時は1時間に上がるレベルを%で表した値（必要Lvのときのレベル1つ分＝100%）。レベル差0・装備なしの目安で、戦闘は1戦の見込み時間で割った値。${SHORT_NOTE}` : "",
+			showPlace
+				? "必要Lvは系統の必要Lv。所要時間・成功率・戦闘はこのカテゴリのレベル差で決まり、経験値は配分のうちこのカテゴリへ入るぶんを経験値%/時に示す。"
+				: `経験値%/時は1時間に上がるレベルを%で表した値（必要Lvのときのレベル1つ分＝100%）で、このカテゴリへ入るぶん。系統を持つアクションは経験値の一部が系統のカテゴリへ入る。レベル差0・装備なしの目安で、戦闘は1戦の見込み時間で割った値。${SHORT_NOTE}`,
 		),
 	);
 }
@@ -148,9 +154,9 @@ function levelSection(context: Context, category: Type.Category): string {
 		if (list) list.push(text);
 		else byLevel.set(level, [text]);
 	};
-	for (const action of [...(model.categoryActions.get(id) ?? []), ...(model.attributedActions.get(id) ?? [])]) {
-		if (model.experienceCategory(action)?.information.id === id) add(Math.floor(action.level), `${link(model, "action", action.information.id)}（実行）`);
-	}
+	// 所属のアクションは必要Lv、系統にしているアクションは系統の必要Lvで開く
+	for (const action of model.categoryActions.get(id) ?? []) add(Math.floor(action.level), `${link(model, "action", action.information.id)}（実行）`);
+	for (const action of model.disciplineActions.get(id) ?? []) add(Math.floor(model.disciplineLevel(action)), `${link(model, "action", action.information.id)}（実行・系統）`);
 	for (const reference of model.referencesOf("category", id)) {
 		if (reference.kind === "action-acquisition" || reference.kind === "event-acquisition") continue;
 		const requirement = "requirement" in reference ? reference.requirement : undefined;

@@ -1,6 +1,6 @@
 # 新聞紙
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">新聞紙</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📰</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">新聞紙</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/5ecb076429178ac4.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 包むにも敷くにも便利。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔦</span>路地裏の探し物](/ja/action/alley-search) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv1 | 5 | 56% | 1.4 | 168 |
-| [<span class="wiki-icon">🗡️</span>山賊](/ja/action/bandit) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 | 1 | 2.96% | 0.015 | 1.9 |
+| [<img class="wiki-icon" src="assets/icon/27e1636641b63801.svg" alt="">路地裏の探し物](/ja/action/alley-search) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv1 | 5 | 56% | 1.4 | 168 |
+| [<img class="wiki-icon" src="assets/icon/e0653ffa6617e0e6.svg" alt="">山賊](/ja/action/bandit) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv10 | 1 | 2.96% | 0.015 | 1.8 |
 
 ## 用途
 
@@ -20,13 +20,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>新聞紙（分解）](/ja/action/disassemble-newspaper-sheet) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv14 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/0560a7f6021f419a.svg" alt="">新聞紙（分解）](/ja/action/disassemble-newspaper-sheet) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv14 | 1 | 100% |  |
 
 ### 条件にしているもの
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">📄</span>謎のチラシ](/ja/event/mysterious-flyer) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">📰</span>新聞紙](/ja/item/newspaper-sheet) ×3 |
+| [<img class="wiki-icon" src="assets/icon/c134e17a5e1a7ab3.svg" alt="">謎のチラシ](/ja/event/mysterious-flyer) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/5ecb076429178ac4.svg" alt="">新聞紙](/ja/item/newspaper-sheet) ×3 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -61,7 +61,7 @@
 		"icon": {
 			"emoji": "📰",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/5ecb076429178ac4.svg）"
 		},
 		"color": ""
 	},

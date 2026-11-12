@@ -1,6 +1,6 @@
 # 軽量化
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">軽量化</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪶</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>防御-9・回避+13</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">軽量化</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/56c1d495547cbebf.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>防御-9・回避+13</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 守りを削って得た速さは、守りより頼りになる。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🚗</span>ねこリムジン](/ja/action/cat-limousine) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/52aeba6fbc728c0d.svg" alt="">ねこリムジン](/ja/action/cat-limousine) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv23 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/item/winged-shoes) | [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/9e6b83f112f4bcac.svg" alt="">羽のついた靴](/ja/item/winged-shoes) | [<img class="wiki-icon" src="assets/icon/b520170afa4d40a8.svg" alt="">脚部装備](/ja/group/leg-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🪶",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/56c1d495547cbebf.svg）"
 		},
 		"color": ""
 	},

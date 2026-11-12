@@ -1,15 +1,15 @@
 # 壁
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">壁</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🖼️</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>3種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">壁</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/6e8845fc56627540.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>3種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/item/peacock-feather) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">📜</span>遺言書](/ja/item/will-document) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/5ef9e5408cbf91a9.svg" alt="">孔雀の羽](/ja/item/peacock-feather) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/3ac8fca292fd46a6.svg" alt="">熱い想い](/ja/item/burning-passion) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/8f6fc6466924b5ac.svg" alt="">遺言書](/ja/item/will-document) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
 
 ## 開発者向け情報
 
@@ -33,7 +33,7 @@
 	"icon": {
 		"emoji": "🖼️",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/6e8845fc56627540.svg）"
 	},
 	"color": ""
 }

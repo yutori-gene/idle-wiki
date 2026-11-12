@@ -1,6 +1,6 @@
 # 蒸気バルブ
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">蒸気バルブ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">♨️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">蒸気バルブ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/44e505def69875af.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 開ければ力が溢れ出す。
 
@@ -11,10 +11,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 1 | 0.8% | 0.004 | 0.007 |
-| [<span class="wiki-icon">☣️</span>地下廃棄プラント](/ja/action/underground-disposal-plant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv40 | 1 | 25.9% | 0.259 | 0.086 |
-| [<span class="wiki-icon">🔩</span>鉄くず（分解）](/ja/action/disassemble-scrap-iron) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv30 | 1 | 100% | 1 | 2 |
-| [<span class="wiki-icon">🔩</span>パイプ（分解）](/ja/action/disassemble-pipe) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv30 | 1 | 100% | 1 | 2 |
+| [<img class="wiki-icon" src="assets/icon/fe99be048a5764e4.svg" alt="">プレス機](/ja/action/press-machine) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv50 | 1 | 0.8% | 0.004 | 0.008 |
+| [<img class="wiki-icon" src="assets/icon/0c093308110a9536.svg" alt="">地下廃棄プラント](/ja/action/underground-disposal-plant) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv40 | 1 | 25.9% | 0.259 | 0.086 |
+| [<img class="wiki-icon" src="assets/icon/123add51df7c5c47.svg" alt="">鉄くず（分解）](/ja/action/disassemble-scrap-iron) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv30 | 1 | 100% | 1 | 2 |
+| [<img class="wiki-icon" src="assets/icon/c793513f73fad105.svg" alt="">パイプ（分解）](/ja/action/disassemble-pipe) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv30 | 1 | 100% | 1 | 2 |
 
 ## 用途
 
@@ -22,7 +22,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🚰</span>蛇口のハンドル](/ja/action/craft-faucet-handle) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv31 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/2ae1d518c32f0f73.svg" alt="">蛇口のハンドル](/ja/action/craft-faucet-handle) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv31 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -57,7 +57,7 @@
 		"icon": {
 			"emoji": "♨️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/44e505def69875af.svg）"
 		},
 		"color": ""
 	},

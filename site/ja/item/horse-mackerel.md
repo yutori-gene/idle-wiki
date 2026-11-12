@@ -1,6 +1,6 @@
 # アジ
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">アジ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐟</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">アジ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/6f4069b8d66875c7.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 庶民的で美味しい魚。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐚</span>磯の潮干狩り](/ja/action/tidal-flat-clamming) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv3 | 3 | 48% | 0.72 | 64.8 |
+| [<img class="wiki-icon" src="assets/icon/0cb0250c411d7734.svg" alt="">磯の潮干狩り](/ja/action/tidal-flat-clamming) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv3 | 3 | 48% | 0.72 | 64.8 |
 
 ## 用途
 
@@ -19,19 +19,19 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🤲</span>救いの手](/ja/action/craft-helping-hand) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 5 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/d4a1e0f3ddb9fc11.svg" alt="">救いの手](/ja/action/craft-helping-hand) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 5 | 100% |  |
 
 ### 条件にしているもの
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎣</span>漁師の手伝い](/ja/event/fisherman-help) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🐟</span>アジ](/ja/item/horse-mackerel) ×3 |
+| [<img class="wiki-icon" src="assets/icon/2f072622be6d1927.svg" alt="">漁師の手伝い](/ja/event/fisherman-help) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/6f4069b8d66875c7.svg" alt="">アジ](/ja/item/horse-mackerel) ×3 |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">🌊</span>海](/ja/category/sea) Lv7以上
+- [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) Lv7以上
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -66,7 +66,7 @@
 		"icon": {
 			"emoji": "🐟",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/6f4069b8d66875c7.svg）"
 		},
 		"color": ""
 	},

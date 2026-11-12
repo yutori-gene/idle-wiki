@@ -1,6 +1,6 @@
 # 生贄
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">生贄</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔪</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃-10・回復+15</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">生贄</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/808113e416028f4c.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃-10・回復+15</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 自分の牙を捧げて、命を買い戻す。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 |
-| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
+| [<img class="wiki-icon" src="assets/icon/6e8705b278892508.svg" alt="">マッドサイエンティスト](/ja/action/mad-scientist) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv6 |
+| [<img class="wiki-icon" src="assets/icon/b8dfc337e8669e69.svg" alt="">ネクロマンサー](/ja/action/necromancer) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv20 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🌹</span>獣の薔薧](/ja/item/beast-rose) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/105bde7a3679d087.svg" alt="">獣の薔薧](/ja/item/beast-rose) | [<img class="wiki-icon" src="assets/icon/90105f31f000c615.svg" alt="">ブローチ](/ja/group/brooch) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🔪",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/808113e416028f4c.svg）"
 		},
 		"color": ""
 	},

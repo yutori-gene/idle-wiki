@@ -1,6 +1,6 @@
 # 釘
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">釘</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔩</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">釘</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/61e178f1fba791da.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 一本で家を支えることもある。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔦</span>路地裏の探し物](/ja/action/alley-search) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv1 | 7 | 91% | 3.2 | 382 |
+| [<img class="wiki-icon" src="assets/icon/27e1636641b63801.svg" alt="">路地裏の探し物](/ja/action/alley-search) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv1 | 7 | 91% | 3.2 | 382 |
 
 ## 用途
 
@@ -19,14 +19,14 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛓️</span>鉄の処女](/ja/action/open-iron-maiden) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv15 | 1 | 100% |  |
-| [<span class="wiki-icon">⛄</span>雪玉](/ja/action/craft-snowball) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv14 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/f171def16b536121.svg" alt="">鉄の処女](/ja/action/open-iron-maiden) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv15 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/917029b6a686d4d9.svg" alt="">雪玉](/ja/action/craft-snowball) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv14 | 3 | 100% |  |
 
 ### 条件にしているもの
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🛡️</span>騎士の修練](/ja/event/knight-training) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🔩</span>釘](/ja/item/nail) ×5 |
+| [<img class="wiki-icon" src="assets/icon/810244f1b2027851.svg" alt="">騎士の修練](/ja/event/knight-training) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/61e178f1fba791da.svg" alt="">釘](/ja/item/nail) ×5 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a> を参照</div></div>
 
@@ -61,7 +61,7 @@
 		"icon": {
 			"emoji": "🔩",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/61e178f1fba791da.svg）"
 		},
 		"color": ""
 	},

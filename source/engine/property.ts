@@ -90,12 +90,12 @@ export function calculatePropertties(actionId: string, correction?: Type.control
 	const opposite = (key: keyof Type.world.Combat): number => action.world.property[key] + (correction?.opposite[key] ?? 0);
 	const thisside = (key: keyof Type.world.Combat): number => correction?.thisside[key] ?? 0;
 
-	// 経験値が入るカテゴリを決定（attributeが指定されていればそちらを使用）
-	const experienceCategoryId = action.world.attribute || action.categoryId;
-	const category = Data.dictionary.getCategory(experienceCategoryId);
+	// レベル差・装備補正は系統（discipline）のカテゴリと系統のレベルで測る。
+	// 系統が無いアクションは辞書の正規化で discipline=所属カテゴリ・disciplineLevel=level になっている
+	const category = Data.dictionary.getCategory(action.world.discipline);
 
 	const userLevel = Math.floor(category.user.level);
-	const actionLevel = Math.floor(action.world.level);
+	const actionLevel = Math.floor(action.world.disciplineLevel);
 	const defaultCombat = Data.world.basic.general.defaultCombat;
 
 	// 各プロパティタイプについて計算
@@ -210,6 +210,44 @@ export function calculatePropertties(actionId: string, correction?: Type.control
 	return properties;
 }
 
+/** 1回の成功で1つのカテゴリへ入る経験値（%。100で1レベルぶん、levelCommonRatio で割る前） */
+export interface ExperienceShare {
+	category: Type.dictionary.Category;
+	value: number;
+}
+
+/**
+ * アクション成功時の経験値を、入るカテゴリごとに分ける。
+ * 系統が無いアクションは所属カテゴリへ全量。系統があるアクションは、所属カテゴリと系統のカテゴリそれぞれの
+ * レベル差（とそのカテゴリ宛ての装備の経験値補正）で経験値を計算し、所属へ還元率ぶん・系統へ残りを分ける。
+ * レベルの上がらないカテゴリ（numeric=false）の取り分は捨てる（もう一方へは回さない）
+ * @param disciplineExperience 系統側の経験値（calculatePropertties の experience。系統のレベル差と装備補正を含む）
+ */
+export function calculateExperienceShares(action: Type.dictionary.Action, disciplineExperience: number): ExperienceShare[] {
+	const discipline = Data.dictionary.getCategory(action.world.discipline);
+	if (discipline.id == action.categoryId) return discipline.world.numeric ? [{ category: discipline, value: disciplineExperience }] : [];
+
+	const own = Data.dictionary.getCategory(action.categoryId);
+	const rate = getExperienceReturnRate();
+	const shares: ExperienceShare[] = [];
+	if (own.world.numeric) {
+		// 所属側は所属カテゴリのレベル差（経験値なので逆向き）と所属カテゴリ宛ての経験値補正で計算する
+		const levelGap = -(Math.floor(own.user.level) - Math.floor(action.world.level)) + (own.summerizedProperties.get("experience")?.value || 0);
+		shares.push({ category: own, value: calculateProperty(action.world.experience, levelGap, "experience") * rate });
+	}
+	if (discipline.world.numeric) shares.push({ category: discipline, value: disciplineExperience * (1 - rate) });
+	return shares;
+}
+
+/**
+ * 系統を持つアクションの経験値のうち、所属カテゴリへ分ける割合（0〜1）。
+ * 範囲外の値は0〜1に収める（読み込み時に未設定は既定値で補ってある）
+ */
+export function getExperienceReturnRate(): number {
+	const rate = Data.world.basic.general.experienceReturnRate;
+	return Math.min(Math.max(Number.isFinite(rate) ? rate : 0, 0), 1);
+}
+
 // 除算側の倍率の下限。ここまで下がると効果は頭打ちになる（base÷minimumRatioで最大100倍）
 const minimumRatio = 0.01;
 
@@ -226,6 +264,10 @@ const defaultPropertyRatio = 2;
  * speedを半分にしているのは、所要時間が「単位時間あたりの実行回数」として他のすべてのプロパティと
  * 掛け算になるため。経験値と揃って掛かるとレベルアップ速度が倍率の2乗で伸び、レベルが上がるほど
  * 加速する発散（propertyRatioがlevelCommonRatioの累乗を超える状態）を起こしやすい
+ *
+ * experienceを1.5にしているのは、開いたばかりの上のアクションへ乗り換えるほど経験値が伸びるようにするため。
+ * 1では成功確率のオッズの伸びと所要時間の短縮が経験値の割り引きをほぼ打ち消し、低いレベルのアクションを
+ * 回し続けても経験値がほとんど落ちなかった（2026-11-12 ユーザー決定）
  */
 const propertyWeights: Record<Type.condition.PropertyTypes, number> = {
 	attack: 1,
@@ -235,7 +277,7 @@ const propertyWeights: Record<Type.condition.PropertyTypes, number> = {
 	restore: 1,
 	speed: 0.5,
 	chance: 1,
-	experience: 1,
+	experience: 1.5,
 };
 
 /**

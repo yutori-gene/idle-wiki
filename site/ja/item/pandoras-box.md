@@ -1,6 +1,6 @@
 # パンドラの箱
 
-<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">パンドラの箱</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📦</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/treasure-chest"><span class="wiki-icon">🎁</span>宝箱</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">パンドラの箱</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/80a9fcc7ba91c599.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/loft"><img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/treasure-chest"><img class="wiki-icon" src="assets/icon/bba0a7cf66fef7f0.svg" alt="">宝箱</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > あらゆる災いが詰められた箱。ただし希望も箱の底にある。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">☁️</span>雲上の遺跡](/ja/action/ruins-above-clouds) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv8 | 2 | 41.8% | 0.836 | 0.167 |
+| [<img class="wiki-icon" src="assets/icon/c9ceb66ca4ebf9e5.svg" alt="">雲上の遺跡](/ja/action/ruins-above-clouds) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv8 | 2 | 41.8% | 0.836 | 0.167 |
 
 ## 用途
 
@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📦</span>パンドラの箱](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv50 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/6b2141ac9d8cc925.svg" alt="">パンドラの箱](/ja/action/open-pandoras-box) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv50 | 1 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">グループ: 宝箱</div><div class="wiki-navbox-body"><a href="#/ja/item/donation-box"><img class="wiki-icon" src="assets/icon/5676c877b5bc47f0.svg" alt="">募金箱</a> ・ <a href="#/ja/item/wallet"><img class="wiki-icon" src="assets/icon/2a12bcdb457a4a71.svg" alt="">財布</a> ・ <a href="#/ja/item/offering-box"><span class="wiki-icon">⛩️</span>賽銭箱</a> ・ <a href="#/ja/item/time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/item/vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/item/iron-maiden"><span class="wiki-icon">⛓️</span>鉄の処女</a> ・ <a href="#/ja/item/great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/item/antarctic-ice"><span class="wiki-icon">🧊</span>南極の氷</a> ・ <a href="#/ja/item/beaver-lodge"><span class="wiki-icon">🦫</span>ビーバーの巣</a> ・ <a href="#/ja/item/rat-treasure"><span class="wiki-icon">🐀</span>ネズミの宝箱</a> ・ <a href="#/ja/item/dragon-nest"><span class="wiki-icon">🐉</span>ドラゴンの巣</a> ・ <a href="#/ja/item/pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/item/ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/item/vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/item/sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/item/pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a> ・ <a href="#/ja/item/fairy-gold-pot"><span class="wiki-icon">🌈</span>妖精の黄金の壺</a> ・ <a href="#/ja/item/schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a></div></div>
+<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">グループ: 宝箱</div><div class="wiki-navbox-body"><a href="#/ja/item/donation-box"><img class="wiki-icon" src="assets/icon/5676c877b5bc47f0.svg" alt="">募金箱</a> ・ <a href="#/ja/item/wallet"><img class="wiki-icon" src="assets/icon/2a12bcdb457a4a71.svg" alt="">財布</a> ・ <a href="#/ja/item/offering-box"><img class="wiki-icon" src="assets/icon/c4186f8fe3645219.svg" alt="">賽銭箱</a> ・ <a href="#/ja/item/time-capsule"><img class="wiki-icon" src="assets/icon/4d41d92a61f84d95.svg" alt="">タイムカプセル</a> ・ <a href="#/ja/item/vaulting-box"><img class="wiki-icon" src="assets/icon/854c96c4b99e9cd9.svg" alt="">跳び箱</a> ・ <a href="#/ja/item/iron-maiden"><img class="wiki-icon" src="assets/icon/01b64cdcbb2f7f60.svg" alt="">鉄の処女</a> ・ <a href="#/ja/item/great-treasure"><img class="wiki-icon" src="assets/icon/f0946cc8eca76495.svg" alt="">大秘宝</a> ・ <a href="#/ja/item/antarctic-ice"><img class="wiki-icon" src="assets/icon/6e31d1d1017715dd.svg" alt="">南極の氷</a> ・ <a href="#/ja/item/beaver-lodge"><img class="wiki-icon" src="assets/icon/a161d66101d9b255.svg" alt="">ビーバーの巣</a> ・ <a href="#/ja/item/rat-treasure"><img class="wiki-icon" src="assets/icon/a7b564dcb22b670c.svg" alt="">ネズミの宝箱</a> ・ <a href="#/ja/item/dragon-nest"><img class="wiki-icon" src="assets/icon/2bb9fdb57df291e7.svg" alt="">ドラゴンの巣</a> ・ <a href="#/ja/item/pumpkin-carriage"><img class="wiki-icon" src="assets/icon/3398601f21ecf06b.svg" alt="">かぼちゃの馬車</a> ・ <a href="#/ja/item/ark-of-covenant"><img class="wiki-icon" src="assets/icon/33f70a342e48e6d5.svg" alt="">聖櫃</a> ・ <a href="#/ja/item/vampire-coffin"><img class="wiki-icon" src="assets/icon/7f997b82f6e3617b.svg" alt="">吸血鬼の棺</a> ・ <a href="#/ja/item/sith-box"><img class="wiki-icon" src="assets/icon/b653823540502a7c.svg" alt="">シスの箱</a> ・ <a href="#/ja/item/pandoras-box"><img class="wiki-icon" src="assets/icon/80a9fcc7ba91c599.svg" alt="">パンドラの箱</a> ・ <a href="#/ja/item/fairy-gold-pot"><img class="wiki-icon" src="assets/icon/39140375704428ed.svg" alt="">妖精の黄金の壺</a> ・ <a href="#/ja/item/schrodingers-box"><img class="wiki-icon" src="assets/icon/8851d21a9c209319.svg" alt="">シュレーディンガーの箱</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,7 +54,7 @@
 		"icon": {
 			"emoji": "📦",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/80a9fcc7ba91c599.svg）"
 		},
 		"color": ""
 	},

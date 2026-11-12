@@ -1,6 +1,6 @@
 # タンクトップ
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">タンクトップ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎽</span></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">タンクトップ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/aa9c5304e73a3558.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><img class="wiki-icon" src="assets/icon/c9bb2836ebd5ad26.svg" alt="">合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 四つ葉のクローバーからタンクトップを仕立てる。
 
@@ -27,7 +27,7 @@
 | --- | --- | --- | --- | --- | --- |
 | — | 30分 | 100% | — | 2 | — |
 
-経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
+カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
 
 ## 収支（1時間あたり）
 
@@ -37,7 +37,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">防具のアクション</div><div class="wiki-navbox-body">67件。一覧は <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">防具のアクション</div><div class="wiki-navbox-body">90件。一覧は <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -45,10 +45,11 @@
 | --- | --- |
 | id | `craft-tank-top` |
 | `category` | `armor` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `synthesize` |
 | `unlocked` | `hinted` |
 | `level` | `5` |
+| `disciplineLevel` | `0` |
 | `experience` | `515` |
 | `seconds` | `1800` |
 | `chance` | `1` |
@@ -69,15 +70,16 @@
 		"icon": {
 			"emoji": "🎽",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/aa9c5304e73a3558.svg）"
 		},
 		"color": ""
 	},
 	"category": "armor",
-	"attribute": "",
+	"discipline": "",
 	"group": "synthesize",
 	"unlocked": "hinted",
 	"level": 5,
+	"disciplineLevel": 0,
 	"experience": 515,
 	"seconds": 1800,
 	"chance": 1,

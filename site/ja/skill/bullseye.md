@@ -1,6 +1,6 @@
 # 百発百中
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">百発百中</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💯</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+6・精度+10・回避+4</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">百発百中</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/9db724af804bd11e.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+6・精度+10・回避+4</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 外す理由が、ひとつも見当たらない。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 |
+| [<img class="wiki-icon" src="assets/icon/d14738bbe2aee0a1.svg" alt="">警備ドローン](/ja/action/security-drone) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv28 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/item/spear-of-longinus) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/a838dd3fe94052eb.svg" alt="">ロンギヌスの槍](/ja/item/spear-of-longinus) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "💯",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/9db724af804bd11e.svg）"
 		},
 		"color": ""
 	},

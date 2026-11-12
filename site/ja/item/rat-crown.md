@@ -1,6 +1,6 @@
 # ネズミの王冠
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ネズミの王冠</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👑</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>81 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ネズミの王冠</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/71c4c435ccc2b6a1.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>81 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 下水道の王者の証。
 
@@ -11,9 +11,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 0.144% | 0.001 | 0.117 |
-| [<span class="wiki-icon">🕵️</span>裏通りの情報屋](/ja/action/backstreet-informant) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv30 | 2 | 17.3% | 0.346 | 0.231 |
-| [<span class="wiki-icon">🐀</span>ネズミの宝箱](/ja/action/open-rat-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv27 | 3 | 35.2% | 0.898 | 0.598 |
+| [<img class="wiki-icon" src="assets/icon/a4e9edb1cd6bdef5.svg" alt="">ドブネズミ](/ja/action/sewer-rat) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv50 | 1 | 0.144% | 0.001 | 0.113 |
+| [<img class="wiki-icon" src="assets/icon/0b0577fa2a9b9c91.svg" alt="">裏通りの情報屋](/ja/action/backstreet-informant) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv30 | 2 | 17.3% | 0.346 | 0.231 |
+| [<img class="wiki-icon" src="assets/icon/b6932513f07c909a.svg" alt="">ネズミの宝箱](/ja/action/open-rat-treasure) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv27 | 3 | 35.2% | 0.898 | 0.598 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -48,7 +48,7 @@
 		"icon": {
 			"emoji": "👑",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/71c4c435ccc2b6a1.svg）"
 		},
 		"color": ""
 	},

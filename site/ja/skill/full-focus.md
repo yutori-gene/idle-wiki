@@ -1,6 +1,6 @@
 # 全集中
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">全集中</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌬️</span></div><table><tr><th>発動率</th><td>8%／ターン</td></tr><tr><th>効果</th><td>攻撃+7</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">全集中</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/1738834f5975c420.svg" alt=""></div><table><tr><th>発動率</th><td>8%／ターン</td></tr><tr><th>効果</th><td>攻撃+7</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 呼吸を整えるだけで、世界が遅くなる。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 |
-| [<span class="wiki-icon">🐉</span>火山竜](/ja/action/volcano-dragon) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 |
+| [<img class="wiki-icon" src="assets/icon/f7396d0f10a22c13.svg" alt="">カメの大魔王](/ja/action/turtle-demon-king) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv28 |
+| [<img class="wiki-icon" src="assets/icon/b6232dc1b5865e01.svg" alt="">火山竜](/ja/action/volcano-dragon) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv26 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎩</span>エリート志向](/ja/item/elitism) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<img class="wiki-icon" src="assets/icon/c5ee2a497eda97c8.svg" alt="">エリート志向](/ja/item/elitism) | [<img class="wiki-icon" src="assets/icon/7c7dbb617148ad3b.svg" alt="">能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🌬️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/1738834f5975c420.svg）"
 		},
 		"color": ""
 	},

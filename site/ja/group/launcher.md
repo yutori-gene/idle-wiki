@@ -1,19 +1,19 @@
 # 射出装置
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">射出装置</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏹</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>7種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">射出装置</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b36df1ddeb26deea.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>7種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 3 |
-| [<img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット](/ja/item/slingshot) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 36 |
-| [<span class="wiki-icon">🎣</span>釣竿](/ja/item/fishing-rod) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 36 |
-| [<span class="wiki-icon">🪢</span>愛の鞭](/ja/item/whip-of-love) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 189 |
-| [<span class="wiki-icon">💋</span>投げキッス](/ja/item/blown-kiss) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 189 |
-| [<span class="wiki-icon">⚽</span>サッカーボール](/ja/item/soccer-ball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 216 |
-| [<span class="wiki-icon">🍬</span>飴と鞭](/ja/item/carrot-and-stick) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | 装備必須 | 648 |
+| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) | 装備必須 | 3 |
+| [<img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット](/ja/item/slingshot) | [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) | 装備必須 | 36 |
+| [<img class="wiki-icon" src="assets/icon/899600b67bdf663a.svg" alt="">釣竿](/ja/item/fishing-rod) | [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) | 装備必須 | 36 |
+| [<img class="wiki-icon" src="assets/icon/1d0a76a1fdd49640.svg" alt="">愛の鞭](/ja/item/whip-of-love) | [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) | 装備必須 | 189 |
+| [<img class="wiki-icon" src="assets/icon/01438db31063866b.svg" alt="">投げキッス](/ja/item/blown-kiss) | [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) | 装備必須 | 189 |
+| [<img class="wiki-icon" src="assets/icon/4ac2eba5f7d54610.svg" alt="">サッカーボール](/ja/item/soccer-ball) | [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) | 装備必須 | 216 |
+| [<img class="wiki-icon" src="assets/icon/81156bd0468ff283.svg" alt="">飴と鞭](/ja/item/carrot-and-stick) | [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) | 装備必須 | 648 |
 
 ## 開発者向け情報
 
@@ -37,7 +37,7 @@
 	"icon": {
 		"emoji": "🏹",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/b36df1ddeb26deea.svg）"
 	},
 	"color": ""
 }

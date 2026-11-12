@@ -1,6 +1,6 @@
 # 漂流者
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">漂流者</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎩</span></div><table><tr><th>場所</th><td><a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv21</td></tr><tr><th>所要時間</th><td>2.3秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.31</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">漂流者</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/50a2af91aef10938.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/sea"><img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海</a></td></tr><tr><th>系統</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv45</td></tr><tr><th>系統の必要Lv</th><td>Lv13</td></tr><tr><th>所要時間</th><td>2.3秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.31</td></tr><tr><th>経験値の配分</th><td><a href="#/ja/category/sea"><img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海</a> 80%、<a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a> 20%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 沈んだ船と一緒に上がってくる。足だけが先に流れ着く。
 
@@ -9,9 +9,10 @@
 
 ## 必要なもの
 
-- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv21以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🏄</span>サーフボード](/ja/item/surfboard) ×1（消費しない）
-- [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) ×1（0.958%で消費）
+- [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) Lv45以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) が解放されている・Lv13以上（系統のカテゴリ）
+- [<img class="wiki-icon" src="assets/icon/dc1d5a72038d9ba5.svg" alt="">サーフボード](/ja/item/surfboard) ×1（消費しない）
+- [<img class="wiki-icon" src="assets/icon/72048d4de20fb29f.svg" alt="">生肉](/ja/item/raw-meat) ×1（0.958%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,10 +20,10 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦶</span>誰かの足](/ja/item/someones-leg) ×1 | 成功時 | 5.37% | 0.027 | 0.577 |
-| [<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) ×1 | 成功時 | 0.92% | 0.005 | 0.099 |
-| [<span class="wiki-icon">🦷</span>サメの歯](/ja/item/shark-tooth) ×1 | 成功時 | 0.216% | 0.001 | 0.023 |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) ×1 | 成功時 | 0.006% | 0 | 0.001 |
+| [<img class="wiki-icon" src="assets/icon/0f17d738b4102b07.svg" alt="">誰かの足](/ja/item/someones-leg) ×1 | 成功時 | 5.37% | 0.027 | 0.603 |
+| [<img class="wiki-icon" src="assets/icon/fee4914c20d3b8d1.svg" alt="">イワシ](/ja/item/sardine) ×1 | 成功時 | 0.92% | 0.005 | 0.103 |
+| [<img class="wiki-icon" src="assets/icon/7570187d8ae8fab4.svg" alt="">サメの歯](/ja/item/shark-tooth) ×1 | 成功時 | 0.216% | 0.001 | 0.024 |
+| [<img class="wiki-icon" src="assets/icon/5f31ecad836b1229.svg" alt="">ジョーンズ](/ja/item/jones) ×1 | 成功時 | 0.006% | 0 | 0.001 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -32,32 +33,28 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 50 | 57 | 10 | 5 | 11 |
+| 53 | 55 | 9 | 8 | 11 |
 
 **敵のスキル**
 
-- [<span class="wiki-icon">🩸</span>血の滾り](/ja/skill/blood-boil)：毎ターン 3% で発動、攻撃+15・防御-10・回復+10
-- [<span class="wiki-icon">🩸</span>鬼血](/ja/skill/demon-blood)：毎ターン 3% で発動、攻撃+15・回避-10・回復+8
+- [<img class="wiki-icon" src="assets/icon/77926c53727302e1.svg" alt="">血の滾り](/ja/skill/blood-boil)：毎ターン 3% で発動、攻撃+15・防御-10・回復+10
+- [<img class="wiki-icon" src="assets/icon/e38385339052a6b5.svg" alt="">鬼血](/ja/skill/demon-blood)：毎ターン 3% で発動、攻撃+15・回避-10・回復+8
 
 ### 戦闘の見込み（装備・スキルなし）
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv21） | 1.98% | 8.27% | 71% | 21.4% | 15.3% | 71.8 | 466.7% | 2分47秒 | 負ける見込みが高い |
-| +10（Lv31） | 2.97% | 6.75% | 78.6% | 25% | 21.3% | 43.3 | 219% | 1分23秒 | 負ける見込みが高い |
-| +20（Lv41） | 4.46% | 5.51% | 84.6% | 29% | 28.9% | 27.2 | 106.3% | 43.2秒 | 負ける見込みが高い |
+| ±0（Lv13） | 2.15% | 8.79% | 68.4% | 21.7% | 15.3% | 68.7 | 472.2% | 2分40秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
 ## 計算値
 
-| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
-| --- | --- | --- | --- | --- | --- |
-| ±0（Lv21） | 2.3秒 | 50% | 1.31 | 21.5 | 2 |
-| +10（Lv31） | 1.9秒 | 60% | 0.87 | 43.3 | 1 |
-| +20（Lv41） | 1.5秒 | 69.2% | 0.58 | 83.3 | 1 |
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時（海） | 経験値%/時（近接武器） |
+| --- | --- | --- | --- | --- | --- | --- |
+| ±0（Lv13） | 2.3秒 | 50% | 1.31 | 22.5 | 0 | 1 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝系統のカテゴリのレベル − 系統の必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。
 
 ## 収支（1時間あたり）
 
@@ -67,7 +64,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#4a637d"><div class="wiki-navbox-title">海のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/flotsam-collecting"><span class="wiki-icon">🏖️</span>漂着物回収</a> ・ <a href="#/ja/action/tidal-flat-clamming"><span class="wiki-icon">🐚</span>磯の潮干狩り</a> ・ <a href="#/ja/action/beach-shell-gathering"><span class="wiki-icon">🐚</span>浜辺の貝拾い</a> ・ <a href="#/ja/action/pirate"><img class="wiki-icon" src="assets/icon/5d2bd39c66257c15.svg" alt="">海賊</a> ・ <a href="#/ja/action/pirate-captain"><span class="wiki-icon">🏴‍☠️</span>海賊の頭</a> ・ <a href="#/ja/action/cthulhu"><span class="wiki-icon">🐙</span>クトゥルフ</a> ・ <a href="#/ja/action/crocodile"><span class="wiki-icon">🐊</span>クロコダイル</a> ・ <a href="#/ja/action/serpent"><span class="wiki-icon">🐍</span>サーペント</a> ・ <a href="#/ja/action/turtle-demon-king"><span class="wiki-icon">🐢</span>カメの大魔王</a> ・ <a href="#/ja/action/kraken"><span class="wiki-icon">🦑</span>クラーケン</a> ・ <a href="#/ja/action/sea-turtle"><span class="wiki-icon">🐢</span>タートル</a> ・ <a href="#/ja/action/castaway"><span class="wiki-icon">🎩</span>漂流者</a> ・ <a href="#/ja/action/mermaid"><span class="wiki-icon">🧜</span>マーメイド</a> ・ <a href="#/ja/action/desert-island-drift"><span class="wiki-icon">🏝️</span>無人島漂流</a> ・ <a href="#/ja/action/shipwreck-survey"><img class="wiki-icon" src="assets/icon/eb3d79c11d7eaf0a.svg" alt="">沈没船探査</a> ・ <a href="#/ja/action/lighthouse-keeper-hut"><span class="wiki-icon">🗼</span>灯台守の小屋</a> ・ <a href="#/ja/action/undersea-cave"><span class="wiki-icon">🐚</span>海底洞窟</a></div></div>
+<div class="wiki-navbox" style="--accent:#4a637d"><div class="wiki-navbox-title">海のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/flotsam-collecting"><img class="wiki-icon" src="assets/icon/7174ce7efc49f9e9.svg" alt="">漂着物回収</a> ・ <a href="#/ja/action/tidal-flat-clamming"><img class="wiki-icon" src="assets/icon/0cb0250c411d7734.svg" alt="">磯の潮干狩り</a> ・ <a href="#/ja/action/beach-shell-gathering"><img class="wiki-icon" src="assets/icon/3a285c0be3547be2.svg" alt="">浜辺の貝拾い</a> ・ <a href="#/ja/action/serpent"><img class="wiki-icon" src="assets/icon/99401bbf87efddfd.svg" alt="">サーペント</a> ・ <a href="#/ja/action/mermaid"><img class="wiki-icon" src="assets/icon/bcb019bf5c706cb3.svg" alt="">マーメイド</a> ・ <a href="#/ja/action/cthulhu"><img class="wiki-icon" src="assets/icon/726cdf61e0805eb5.svg" alt="">クトゥルフ</a> ・ <a href="#/ja/action/sea-turtle"><img class="wiki-icon" src="assets/icon/8a25194356ea6eb5.svg" alt="">タートル</a> ・ <a href="#/ja/action/pirate"><img class="wiki-icon" src="assets/icon/5d2bd39c66257c15.svg" alt="">海賊</a> ・ <a href="#/ja/action/pirate-captain"><img class="wiki-icon" src="assets/icon/a71a25b5d0b12010.svg" alt="">海賊の頭</a> ・ <a href="#/ja/action/crocodile"><img class="wiki-icon" src="assets/icon/fed17d75923f9e8c.svg" alt="">クロコダイル</a> ・ <a href="#/ja/action/castaway"><img class="wiki-icon" src="assets/icon/50a2af91aef10938.svg" alt="">漂流者</a> ・ <a href="#/ja/action/turtle-demon-king"><img class="wiki-icon" src="assets/icon/f7396d0f10a22c13.svg" alt="">カメの大魔王</a> ・ <a href="#/ja/action/kraken"><img class="wiki-icon" src="assets/icon/94e82149543a0649.svg" alt="">クラーケン</a> ・ <a href="#/ja/action/desert-island-drift"><img class="wiki-icon" src="assets/icon/090dfa72ac79791c.svg" alt="">無人島漂流</a> ・ <a href="#/ja/action/shipwreck-survey"><img class="wiki-icon" src="assets/icon/eb3d79c11d7eaf0a.svg" alt="">沈没船探査</a> ・ <a href="#/ja/action/lighthouse-keeper-hut"><img class="wiki-icon" src="assets/icon/9e6ea89fa2931b2a.svg" alt="">灯台守の小屋</a> ・ <a href="#/ja/action/undersea-cave"><img class="wiki-icon" src="assets/icon/c245a227042ab9a9.svg" alt="">海底洞窟</a></div></div>
 
 ## 開発者向け情報
 
@@ -75,10 +72,11 @@
 | --- | --- |
 | id | `castaway` |
 | `category` | `sea` |
-| `attribute` | `melee-weapon` |
+| `discipline` | `melee-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `21` |
+| `level` | `45` |
+| `disciplineLevel` | `13` |
 | `experience` | `1.31` |
 | `seconds` | `2.3` |
 | `chance` | `0.5` |
@@ -100,15 +98,16 @@
 		"icon": {
 			"emoji": "🎩",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/50a2af91aef10938.svg）"
 		},
 		"color": ""
 	},
 	"category": "sea",
-	"attribute": "melee-weapon",
+	"discipline": "melee-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 21,
+	"level": 45,
+	"disciplineLevel": 13,
 	"experience": 1.31,
 	"seconds": 2.3,
 	"chance": 0.5,
@@ -157,10 +156,10 @@
 	],
 	"progressType": "stamina",
 	"property": {
-		"attack": 50,
-		"defence": 57,
-		"accuracy": 10,
-		"evasion": 5,
+		"attack": 53,
+		"defence": 55,
+		"accuracy": 9,
+		"evasion": 8,
 		"restore": 11
 	},
 	"skills": [

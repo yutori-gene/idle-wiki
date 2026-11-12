@@ -1,6 +1,6 @@
 # すり鉢
 
-<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">すり鉢</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥣</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">すり鉢</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/5aab5f9a8cbc2ee4.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 基本的な調合道具。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥣</span>すり鉢](/ja/action/buy-mortar) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv1 | 1 | 100% | 1 | 36,000 |
+| [<img class="wiki-icon" src="assets/icon/9ec136b077924eef.svg" alt="">すり鉢](/ja/action/buy-mortar) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv1 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -19,17 +19,17 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🩹</span>絆創膏](/ja/action/brew-bandage) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（消費しない） |
-| [<span class="wiki-icon">💊</span>キズ薬](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（消費しない） |
-| [<span class="wiki-icon">💊</span>風邪薬](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（消費しない） |
-| [<span class="wiki-icon">💊</span>阿片](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（消費しない） |
-| [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（消費しない） |
-| [<span class="wiki-icon">💊</span>鎮痛剤](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（消費しない） |
-| [<span class="wiki-icon">☕</span>眠気覚まし](/ja/action/brew-anti-drowsiness) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（消費しない） |
-| [<span class="wiki-icon">💊</span>下剤](/ja/action/brew-laxative) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（消費しない） |
-| [<span class="wiki-icon">💊</span>下剤（ゴリラ用）](/ja/action/brew-laxative-for-gorilla) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">🥣</span>すり鉢](/ja/item/mortar) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/73d8a27ffa087749.svg" alt="">絆創膏](/ja/action/brew-bandage) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/5aab5f9a8cbc2ee4.svg" alt="">すり鉢](/ja/item/mortar) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/b16612e9084bb0c3.svg" alt="">キズ薬](/ja/action/brew-wound-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/5aab5f9a8cbc2ee4.svg" alt="">すり鉢](/ja/item/mortar) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/bd63a5e926528fce.svg" alt="">風邪薬](/ja/action/brew-cold-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/5aab5f9a8cbc2ee4.svg" alt="">すり鉢](/ja/item/mortar) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/5bb2ff3535a97a41.svg" alt="">阿片](/ja/action/brew-opium) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/5aab5f9a8cbc2ee4.svg" alt="">すり鉢](/ja/item/mortar) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/8f3c0eb34779d5a4.svg" alt="">目薬](/ja/action/brew-eye-drops) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/5aab5f9a8cbc2ee4.svg" alt="">すり鉢](/ja/item/mortar) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/d9856d270c9bf353.svg" alt="">鎮痛剤](/ja/action/brew-painkiller) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/5aab5f9a8cbc2ee4.svg" alt="">すり鉢](/ja/item/mortar) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/1a69a548afe27966.svg" alt="">眠気覚まし](/ja/action/brew-anti-drowsiness) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/5aab5f9a8cbc2ee4.svg" alt="">すり鉢](/ja/item/mortar) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/ee66651f6cba6034.svg" alt="">下剤](/ja/action/brew-laxative) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/5aab5f9a8cbc2ee4.svg" alt="">すり鉢](/ja/item/mortar) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/82635a806a296e89.svg" alt="">下剤（ゴリラ用）](/ja/action/brew-laxative-for-gorilla) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/5aab5f9a8cbc2ee4.svg" alt="">すり鉢](/ja/item/mortar) ×1（消費しない） |
 
-<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -62,7 +62,7 @@
 		"icon": {
 			"emoji": "🥣",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/5aab5f9a8cbc2ee4.svg）"
 		},
 		"color": ""
 	},

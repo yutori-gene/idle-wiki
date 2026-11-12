@@ -1,6 +1,6 @@
 # 火山灰
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">火山灰</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌋</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>7 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">火山灰</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/7749cfa5e36758c4.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>7 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 遠くの空を灰色に染める。
 
@@ -11,8 +11,16 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">♨️</span>温泉の沈殿物すくい](/ja/action/hot-spring-sediment-scooping) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv3 | 7 | 91% | 3.2 | 164 |
-| [<span class="wiki-icon">⛏️</span>溶岩の縁の採掘](/ja/action/lava-edge-mining) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv7 | 5 | 56% | 1.4 | 72 |
+| [<img class="wiki-icon" src="assets/icon/b5b65ed321d1e32b.svg" alt="">温泉の沈殿物すくい](/ja/action/hot-spring-sediment-scooping) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv3 | 7 | 91% | 3.2 | 164 |
+| [<img class="wiki-icon" src="assets/icon/92a6cf9b35bb30b6.svg" alt="">溶岩の縁の採掘](/ja/action/lava-edge-mining) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv7 | 5 | 56% | 1.4 | 72 |
+
+## 用途
+
+### 材料として消費
+
+| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
+| --- | --- | --- | --- | --- | --- |
+| [<img class="wiki-icon" src="assets/icon/133ecbcfeb300b2b.svg" alt="">だるま](/ja/action/craft-daruma) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv33 | 5 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a> を参照</div></div>
 
@@ -47,7 +55,7 @@
 		"icon": {
 			"emoji": "🌋",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/7749cfa5e36758c4.svg）"
 		},
 		"color": ""
 	},

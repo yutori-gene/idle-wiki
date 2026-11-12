@@ -1,6 +1,6 @@
 # ニュータイプ
 
-<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">ニュータイプ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👁️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ability"><span class="wiki-icon">✨</span>能力</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/foresight"><img class="wiki-icon" src="assets/icon/58401ee48ed166a9.svg" alt="">先読み</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">ニュータイプ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f67c0db7729bfca4.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/study"><img class="wiki-icon" src="assets/icon/2e8e4cc8d396fd3f.svg" alt="">書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ability"><img class="wiki-icon" src="assets/icon/7c7dbb617148ad3b.svg" alt="">能力</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>スキル</th><td><a href="#/ja/skill/foresight"><img class="wiki-icon" src="assets/icon/58401ee48ed166a9.svg" alt="">先読み</a></td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 時代を先取りする感覚。
 
@@ -15,9 +15,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📓</span>デスノート](/ja/action/read-death-note) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv1 | 1 | 100% | 1 | 0.021 |
+| [<img class="wiki-icon" src="assets/icon/67de30c80a9ebc29.svg" alt="">デスノート](/ja/action/read-death-note) | [<img class="wiki-icon" src="assets/icon/2e8e4cc8d396fd3f.svg" alt="">書斎](/ja/category/study) | Lv1 | 1 | 100% | 1 | 0.021 |
 
-<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 能力</div><div class="wiki-navbox-body"><a href="#/ja/item/elitism"><span class="wiki-icon">🎩</span>エリート志向</a> ・ <a href="#/ja/item/youth-memory"><span class="wiki-icon">💞</span>青春の思い出</a> ・ <a href="#/ja/item/dark-past"><span class="wiki-icon">🫣</span>黒歴史</a> ・ <a href="#/ja/item/clean-vote"><span class="wiki-icon">🗳️</span>清き一票</a> ・ <a href="#/ja/item/antibody"><span class="wiki-icon">🛡️</span>抗体</a> ・ <a href="#/ja/item/misfortune"><span class="wiki-icon">🌧️</span>不幸</a> ・ <a href="#/ja/item/triforce"><span class="wiki-icon">🔺</span>トライフォース</a> ・ <a href="#/ja/item/attack-barrier"><span class="wiki-icon">🛡️</span>攻性防壁</a> ・ <a href="#/ja/item/devil-worship"><span class="wiki-icon">😈</span>悪魔信仰</a> ・ <a href="#/ja/item/newtype"><span class="wiki-icon">👁️</span>ニュータイプ</a> ・ <a href="#/ja/item/force"><span class="wiki-icon">✨</span>フォース</a> ・ <a href="#/ja/item/rye"><span class="wiki-icon">🌾</span>ライ麦</a></div></div>
+<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 能力</div><div class="wiki-navbox-body"><a href="#/ja/item/elitism"><img class="wiki-icon" src="assets/icon/c5ee2a497eda97c8.svg" alt="">エリート志向</a> ・ <a href="#/ja/item/youth-memory"><img class="wiki-icon" src="assets/icon/3577727f837dae02.svg" alt="">青春の思い出</a> ・ <a href="#/ja/item/dark-past"><img class="wiki-icon" src="assets/icon/199d37908aae3fcc.svg" alt="">黒歴史</a> ・ <a href="#/ja/item/clean-vote"><img class="wiki-icon" src="assets/icon/de5f9818990501e4.svg" alt="">清き一票</a> ・ <a href="#/ja/item/antibody"><img class="wiki-icon" src="assets/icon/369e6a3d6aefa7c0.svg" alt="">抗体</a> ・ <a href="#/ja/item/misfortune"><img class="wiki-icon" src="assets/icon/df14fcc4928d1eb1.svg" alt="">不幸</a> ・ <a href="#/ja/item/triforce"><img class="wiki-icon" src="assets/icon/3a481dfec01e1c82.svg" alt="">トライフォース</a> ・ <a href="#/ja/item/attack-barrier"><img class="wiki-icon" src="assets/icon/bd8bba80ceedd894.svg" alt="">攻性防壁</a> ・ <a href="#/ja/item/devil-worship"><img class="wiki-icon" src="assets/icon/28e21aebbaaf7a0a.svg" alt="">悪魔信仰</a> ・ <a href="#/ja/item/newtype"><img class="wiki-icon" src="assets/icon/f67c0db7729bfca4.svg" alt="">ニュータイプ</a> ・ <a href="#/ja/item/force"><img class="wiki-icon" src="assets/icon/220f28203410df27.svg" alt="">フォース</a> ・ <a href="#/ja/item/rye"><img class="wiki-icon" src="assets/icon/78d3ddb750b44362.svg" alt="">ライ麦</a></div></div>
 
 ## 開発者向け情報
 
@@ -50,7 +50,7 @@
 		"icon": {
 			"emoji": "👁️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/f67c0db7729bfca4.svg）"
 		},
 		"color": ""
 	},

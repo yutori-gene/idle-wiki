@@ -1,6 +1,6 @@
 # 捕手
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">捕手</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧤</span></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>防御+5・回復+5</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">捕手</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/34a9813c034756be.svg" alt=""></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>防御+5・回復+5</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 落ちる前に、つかまえる。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 |
+| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv1 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🌾</span>ライ麦](/ja/item/rye) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<img class="wiki-icon" src="assets/icon/78d3ddb750b44362.svg" alt="">ライ麦](/ja/item/rye) | [<img class="wiki-icon" src="assets/icon/7c7dbb617148ad3b.svg" alt="">能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🧤",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/34a9813c034756be.svg）"
 		},
 		"color": ""
 	},

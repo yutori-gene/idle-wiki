@@ -1,6 +1,6 @@
 # 焦土
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">焦土</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+13・防御+8・回復-10</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">焦土</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/a3426675d67bd1ba.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+13・防御+8・回復-10</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 燃やし尽くせば、傷を癒す草も残らない。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 |
-| [<span class="wiki-icon">🔥</span>イフリート](/ja/action/ifrit) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv43 |
+| [<img class="wiki-icon" src="assets/icon/a1510fdde9715652.svg" alt="">巨神兵](/ja/action/god-warrior) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv39 |
+| [<img class="wiki-icon" src="assets/icon/28d9275128ba3d5b.svg" alt="">イフリート](/ja/action/ifrit) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv9 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">☢️</span>核爆弾](/ja/item/nuclear-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/c322f19c1d62edc8.svg" alt="">核爆弾](/ja/item/nuclear-bomb) | [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🔥",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/a3426675d67bd1ba.svg）"
 		},
 		"color": ""
 	},

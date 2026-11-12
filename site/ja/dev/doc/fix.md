@@ -2,7 +2,7 @@
 
 # 実装上の懸念事項（demoワールド作成・検証で判明）
 
-> idle リポジトリ `world/doc/fix.md` の写し（3b432c4 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
+> idle リポジトリ `world/doc/fix.md` の写し（6682a95 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
 
 対象: demo/yutri-idle-world-demo-20260626-214729.json
 実エンジン（`player/control/game/`）のロジックを写経した実プレイ・シミュレーションで判明した、ワールド作成時に踏まないと完動しない/誤解しやすいポイントの記録。
@@ -50,8 +50,8 @@
 - 実際は `spiliProperties`（utilize.ts:15）がロード時に "*" を全カテゴリへ展開するため動作する。この前処理に依存している点に注意。
 
 ### B-4. actionLevelLimit は「実行回数」ではなく「カテゴリLv≧action.level」
-- 有効時、各アクションに `{type:"category", id:属性, count:action.level}` を自動付与（initialize.ts:290-306）。
-- 「同属性の実行回数」という説明文([general.md])と実装（カテゴリLv要求）が食い違って読める。`numeric:false` のカテゴリはスキップ。
+- 有効時、各アクションに `{type:"category", id:所属カテゴリ, count:action.level}` と、系統があれば `{type:"category", id:系統（discipline）, count:action.disciplineLevel}` を自動付与（2026-11-11 から2本）（initialize.ts:290-306）。
+- 「同系統の実行回数」という説明文([general.md])と実装（カテゴリLv要求）が食い違って読める。`numeric:false` のカテゴリはスキップ。
 - 解放段階＝アクションの `level` 設計で制御できる（demoはこれを進行軸に使用）。
 
 ### B-5. `offlineMaxHours` はワールド設定にあるが、プレイヤーの進行計算では読まれていない

@@ -1,6 +1,6 @@
 # 狙い澄まし
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">狙い澄まし</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎯</span></div><table><tr><th>発動率</th><td>9%／ターン</td></tr><tr><th>効果</th><td>精度+6</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">狙い澄まし</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/97cd5e7dacd21025.svg" alt=""></div><table><tr><th>発動率</th><td>9%／ターン</td></tr><tr><th>効果</th><td>精度+6</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 息を止める一瞬だけ、風が凪ぐ。
 
@@ -17,15 +17,15 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv24 |
-| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv47 |
-| [<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv49 |
+| [<img class="wiki-icon" src="assets/icon/68dfa87f0523444a.svg" alt="">ワイバーン](/ja/action/wyvern) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv12 |
+| [<img class="wiki-icon" src="assets/icon/9f2b3b58eb91f6ca.svg" alt="">バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv12 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">👊</span>ロケットパンチ](/ja/item/rocket-punch) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/c80f4e26e34f8a62.svg" alt="">ロケットパンチ](/ja/item/rocket-punch) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -48,7 +48,7 @@
 		"icon": {
 			"emoji": "🎯",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/97cd5e7dacd21025.svg）"
 		},
 		"color": ""
 	},

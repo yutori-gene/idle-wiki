@@ -1,6 +1,6 @@
 # 薬草
 
-<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">薬草</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌿</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/herb"><span class="wiki-icon">🌿</span>薬草</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>18 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">薬草</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e755ac0db8874321.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/greenhouse"><img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/herb"><img class="wiki-icon" src="assets/icon/5ee26ae375c27672.svg" alt="">薬草</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>18 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 煎じれば傷に効く。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌿</span>薬草](/ja/action/grow-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv28 | 123 | 100% | 80 | 4 |
+| [<img class="wiki-icon" src="assets/icon/2290f162e85f7351.svg" alt="">薬草](/ja/action/grow-herb) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | Lv28 | 123 | 100% | 80 | 4 |
 
 ## 用途
 
@@ -19,15 +19,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>キズ薬](/ja/action/brew-wound-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv3 | 1 | 100% |  |
-| [<span class="wiki-icon">💊</span>風邪薬](/ja/action/brew-cold-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv5 | 2 | 100% |  |
-| [<span class="wiki-icon">🧪</span>泡立つ薬](/ja/action/brew-bubbling-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv7 | 4 | 100% |  |
-| [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv17 | 2 | 100% |  |
-| [<span class="wiki-icon">💊</span>鎮痛剤](/ja/action/brew-painkiller) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv21 | 2 | 100% |  |
-| [<span class="wiki-icon">💉</span>ワクチン](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv30 | 2 | 100% |  |
-| [<span class="wiki-icon">💊</span>万能薬](/ja/action/brew-panacea) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv44 | 6 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/b16612e9084bb0c3.svg" alt="">キズ薬](/ja/action/brew-wound-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv3 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/bd63a5e926528fce.svg" alt="">風邪薬](/ja/action/brew-cold-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv5 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/2d32f6dba0c06950.svg" alt="">泡立つ薬](/ja/action/brew-bubbling-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv7 | 4 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/8f3c0eb34779d5a4.svg" alt="">目薬](/ja/action/brew-eye-drops) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv17 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/d9856d270c9bf353.svg" alt="">鎮痛剤](/ja/action/brew-painkiller) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv21 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/b6e4a80aa75245d1.svg" alt="">ワクチン](/ja/action/brew-vaccine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv30 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/1683c3363eface44.svg" alt="">万能薬](/ja/action/brew-panacea) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv44 | 6 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 薬草</div><div class="wiki-navbox-body"><a href="#/ja/item/hemp"><span class="wiki-icon">🌿</span>大麻</a> ・ <a href="#/ja/item/herb"><span class="wiki-icon">🌿</span>薬草</a> ・ <a href="#/ja/item/chili"><span class="wiki-icon">🌶️</span>とうがらし</a> ・ <a href="#/ja/item/poison-herb"><span class="wiki-icon">☠️</span>毒草</a> ・ <a href="#/ja/item/aromatic-herb"><span class="wiki-icon">🌿</span>香草</a> ・ <a href="#/ja/item/world-tree-leaf"><span class="wiki-icon">🍃</span>世界樹の葉</a></div></div>
+<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 薬草</div><div class="wiki-navbox-body"><a href="#/ja/item/hemp"><img class="wiki-icon" src="assets/icon/d170080c7cf36f0b.svg" alt="">大麻</a> ・ <a href="#/ja/item/herb"><img class="wiki-icon" src="assets/icon/e755ac0db8874321.svg" alt="">薬草</a> ・ <a href="#/ja/item/chili"><img class="wiki-icon" src="assets/icon/3091f067d2e95db7.svg" alt="">とうがらし</a> ・ <a href="#/ja/item/poison-herb"><img class="wiki-icon" src="assets/icon/b8be92acdd3abd67.svg" alt="">毒草</a> ・ <a href="#/ja/item/aromatic-herb"><img class="wiki-icon" src="assets/icon/53c7ad769ec28ebe.svg" alt="">香草</a> ・ <a href="#/ja/item/world-tree-leaf"><img class="wiki-icon" src="assets/icon/ea1c03441f5696c2.svg" alt="">世界樹の葉</a></div></div>
 
 ## 開発者向け情報
 
@@ -60,7 +60,7 @@
 		"icon": {
 			"emoji": "🌿",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/e755ac0db8874321.svg）"
 		},
 		"color": ""
 	},

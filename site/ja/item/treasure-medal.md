@@ -1,10 +1,10 @@
 # 秘宝メダル
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">秘宝メダル</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏅</span></div><table><tr><th>種類</th><td>通貨</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">秘宝メダル</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/35c3b1c389d2126f.svg" alt=""></div><table><tr><th>種類</th><td>通貨</td></tr></table></div>
 
 > 秘宝を鑑定して得られる、特別な品とだけ交換できるメダル
 
-秘宝（グループ [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure)）を手に入れると、隠しイベント [<span class="wiki-icon">🔍</span>秘宝の鑑定](/ja/event/treasure-appraisal) で1枚もらえる。売却では手に入らない。作業予定の枠（[<span class="wiki-icon">📋</span>作業予定](/ja/item/queue)）と、いくつかの特別品が買える。
+秘宝（グループ [<img class="wiki-icon" src="assets/icon/0bdbbfafe8d83437.svg" alt="">秘宝](/ja/group/treasure)）を手に入れると、隠しイベント [<img class="wiki-icon" src="assets/icon/86ec0c9c648b0264.svg" alt="">秘宝の鑑定](/ja/event/treasure-appraisal) で1枚もらえる。売却では手に入らない。作業予定の枠（[<span class="wiki-icon">📋</span>作業予定](/ja/item/queue)）と、いくつかの特別品が買える。
 
 
 ## 入手方法
@@ -13,8 +13,8 @@
 
 | イベント | タイミング | 個数 | 確率 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎖️</span>公園の常連](/ja/event/park-regular) | 条件達成（タスク） | 5 | 100% |
-| [<span class="wiki-icon">🔍</span>秘宝の鑑定](/ja/event/treasure-appraisal) | 変化時（隠し） | 1 | 100% |
+| [<img class="wiki-icon" src="assets/icon/73e7a6dd1a037732.svg" alt="">公園の常連](/ja/event/park-regular) | 条件達成（タスク） | 5 | 100% |
+| [<img class="wiki-icon" src="assets/icon/86ec0c9c648b0264.svg" alt="">秘宝の鑑定](/ja/event/treasure-appraisal) | 変化時（隠し） | 1 | 100% |
 
 ## この通貨で買えるもの
 
@@ -22,15 +22,15 @@
 
 | アイテム | 価格 | 解放条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">✈️</span>紙飛行機](/ja/item/paper-plane) | 5 |  |
-| [<span class="wiki-icon">💦</span>霧吹き](/ja/item/spray-bottle) | 5 |  |
-| [<span class="wiki-icon">🙏</span>詫び石](/ja/item/apology-stone) | 5 |  |
-| [<span class="wiki-icon">🪳</span>ゴキブリホイホイ](/ja/item/roach-trap) | 5 |  |
-| [<span class="wiki-icon">🖊️</span>修正液](/ja/item/correction-fluid) | 10 |  |
-| [<span class="wiki-icon">🐝</span>ハチの巣](/ja/item/beehive) | 15 |  |
-| [<span class="wiki-icon">🌸</span>青春](/ja/item/youth) | 15 |  |
-| [<span class="wiki-icon">🔴</span>絶対に押しては行けないボタン](/ja/item/forbidden-button) | 20 |  |
-| [<span class="wiki-icon">👑</span>人工ダイアモンドのティアラ](/ja/item/synthetic-diamond-tiara) | 30 |  |
+| [<img class="wiki-icon" src="assets/icon/9d496f2733e3594a.svg" alt="">紙飛行機](/ja/item/paper-plane) | 5 |  |
+| [<img class="wiki-icon" src="assets/icon/009549a55af4a728.svg" alt="">霧吹き](/ja/item/spray-bottle) | 5 |  |
+| [<img class="wiki-icon" src="assets/icon/7fbd2de8cf89f05c.svg" alt="">詫び石](/ja/item/apology-stone) | 5 |  |
+| [<img class="wiki-icon" src="assets/icon/2dbd2ef6ee7e2654.svg" alt="">ゴキブリホイホイ](/ja/item/roach-trap) | 5 |  |
+| [<img class="wiki-icon" src="assets/icon/21fd16a1dfa6202a.svg" alt="">修正液](/ja/item/correction-fluid) | 10 |  |
+| [<img class="wiki-icon" src="assets/icon/586ca5c6d2660b50.svg" alt="">ハチの巣](/ja/item/beehive) | 15 |  |
+| [<img class="wiki-icon" src="assets/icon/ba51016367920315.svg" alt="">青春](/ja/item/youth) | 15 |  |
+| [<img class="wiki-icon" src="assets/icon/62b944b4bece4029.svg" alt="">絶対に押しては行けないボタン](/ja/item/forbidden-button) | 20 |  |
+| [<img class="wiki-icon" src="assets/icon/b092e4135b9be0e2.svg" alt="">人工ダイアモンドのティアラ](/ja/item/synthetic-diamond-tiara) | 30 |  |
 
 ## 開発者向け情報
 
@@ -52,7 +52,7 @@
 	"icon": {
 		"emoji": "🏅",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/35c3b1c389d2126f.svg）"
 	},
 	"color": ""
 }

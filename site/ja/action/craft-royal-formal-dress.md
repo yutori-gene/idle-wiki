@@ -1,16 +1,17 @@
 # 王族の正装
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">王族の正装</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👑</span></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>4時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">王族の正装</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/42836b5c686b2df8.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><img class="wiki-icon" src="assets/icon/c9bb2836ebd5ad26.svg" alt="">合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>4時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
-> 石壁の破片から王族の正装を仕立てる。
+> スケイルメイルに石壁の破片を足して王族の正装に仕立て直す。
 
 
 **単発**: 1回ずつ進む。100%になったら開封して報酬を受け取る。
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard) ×5（消費する）
-- [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) ×2（消費する）
+- [<img class="wiki-icon" src="assets/icon/2de63c4e6b2ac4f8.svg" alt="">石壁の破片](/ja/item/stone-wall-shard) ×5（消費する）
+- [<img class="wiki-icon" src="assets/icon/7b16b3b28f7756e8.svg" alt="">なめし革の断片](/ja/item/tanned-leather-piece) ×2（消費する）
+- [<img class="wiki-icon" src="assets/icon/7075594a670b12f0.svg" alt="">スケイルメイル](/ja/item/scale-mail) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,7 +19,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) ×1 | 成功時 | 100% | 1 | 0.25 |
+| [<img class="wiki-icon" src="assets/icon/e749a12b853ca048.svg" alt="">王族の正装](/ja/item/royal-formal-dress) ×1 | 成功時 | 100% | 1 | 0.25 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -28,17 +29,17 @@
 | --- | --- | --- | --- | --- | --- |
 | — | 4時間 | 100% | — | 0.3 | — |
 
-経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
+カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
 
 ## 収支（1時間あたり）
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 486 | 132 | 355 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 486 | 294 | 193 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">防具のアクション</div><div class="wiki-navbox-body">67件。一覧は <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">防具のアクション</div><div class="wiki-navbox-body">90件。一覧は <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -46,10 +47,11 @@
 | --- | --- |
 | id | `craft-royal-formal-dress` |
 | `category` | `armor` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `synthesize` |
 | `unlocked` | `hinted` |
 | `level` | `40` |
+| `disciplineLevel` | `0` |
 | `experience` | `4115` |
 | `seconds` | `14400` |
 | `chance` | `1` |
@@ -66,19 +68,20 @@
 	"information": {
 		"id": "craft-royal-formal-dress",
 		"name": "王族の正装",
-		"explanation": "石壁の破片から王族の正装を仕立てる。",
+		"explanation": "スケイルメイルに石壁の破片を足して王族の正装に仕立て直す。",
 		"icon": {
 			"emoji": "👑",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/42836b5c686b2df8.svg）"
 		},
 		"color": ""
 	},
 	"category": "armor",
-	"attribute": "",
+	"discipline": "",
 	"group": "synthesize",
 	"unlocked": "hinted",
 	"level": 40,
+	"disciplineLevel": 0,
 	"experience": 4115,
 	"seconds": 14400,
 	"chance": 1,
@@ -95,6 +98,13 @@
 			"type": "item",
 			"id": "tanned-leather-piece",
 			"count": 2,
+			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "scale-mail",
+			"count": 1,
 			"chance": 1,
 			"equipment": false
 		}

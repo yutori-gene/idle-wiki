@@ -1,10 +1,10 @@
 # 海神のトライデント
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">海神のトライデント</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔱</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>972 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">海神のトライデント</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/838a5b09cdb9713c.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>972 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 海を揺るがす三叉矛。
 
-?> **進行素材**。[<span class="wiki-icon">🌊</span>海](/ja/category/sea) のレベルとあわせて、次のダンジョン [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) を開く条件になる。繰り返し手に入るので、売ってしまっても取り直せる。物置がいっぱいのときに売らないよう注意。エピローグ（[<span class="wiki-icon">📖</span>エピローグ](/ja/event/epilogue)）では10種すべてが条件になる。
+?> **進行素材**。[<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) のレベルとあわせて、次のダンジョン [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) を開く条件になる。繰り返し手に入るので、売ってしまっても取り直せる。物置がいっぱいのときに売らないよう注意。エピローグ（[<img class="wiki-icon" src="assets/icon/877c82c4015cfc92.svg" alt="">エピローグ](/ja/event/epilogue)）では10種すべてが条件になる。
 
 
 ## 入手方法
@@ -13,7 +13,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/eb3d79c11d7eaf0a.svg" alt="">沈没船探査](/ja/action/shipwreck-survey) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv12 | 1 | 100% | 1 | 0.5 |
+| [<img class="wiki-icon" src="assets/icon/eb3d79c11d7eaf0a.svg" alt="">沈没船探査](/ja/action/shipwreck-survey) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv12 | 1 | 100% | 1 | 0.5 |
 
 ## 用途
 
@@ -21,12 +21,12 @@
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | カテゴリの解放条件 | [<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) ×1 |
-| [<span class="wiki-icon">🏛️</span>海底の遺跡](/ja/event/undersea-ruins) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) ×1 |
-| [<span class="wiki-icon">❄️</span>雪原への旅](/ja/event/journey-to-snowfield) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) ×1 |
-| [<span class="wiki-icon">📖</span>エピローグ](/ja/event/epilogue) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🔱</span>海神のトライデント](/ja/item/sea-god-trident) ×1 |
+| [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | カテゴリの解放条件 | [<img class="wiki-icon" src="assets/icon/838a5b09cdb9713c.svg" alt="">海神のトライデント](/ja/item/sea-god-trident) ×1 |
+| [<img class="wiki-icon" src="assets/icon/399196758d8173ae.svg" alt="">海底の遺跡](/ja/event/undersea-ruins) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/838a5b09cdb9713c.svg" alt="">海神のトライデント](/ja/item/sea-god-trident) ×1 |
+| [<img class="wiki-icon" src="assets/icon/7f0f78e7f5fb3828.svg" alt="">雪原への旅](/ja/event/journey-to-snowfield) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/838a5b09cdb9713c.svg" alt="">海神のトライデント](/ja/item/sea-god-trident) ×1 |
+| [<img class="wiki-icon" src="assets/icon/877c82c4015cfc92.svg" alt="">エピローグ](/ja/event/epilogue) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/838a5b09cdb9713c.svg" alt="">海神のトライデント](/ja/item/sea-god-trident) ×1 |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -59,7 +59,7 @@
 		"icon": {
 			"emoji": "🔱",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/838a5b09cdb9713c.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # 万華鏡
 
-<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">万華鏡</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔮</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/windowsill"><span class="wiki-icon">🪟</span>窓辺</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">万華鏡</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/a86c642796c9391d.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/windowsill"><img class="wiki-icon" src="assets/icon/c179bb1a8db28828.svg" alt="">窓辺</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 覗くたび違う世界が広がる。窓辺に飾ると、すべてのカテゴリの経験値が増える。
 
@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔮</span>万華鏡](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 1 | 100% | 1 | 0.143 |
+| [<img class="wiki-icon" src="assets/icon/8924e028e77e6849.svg" alt="">万華鏡](/ja/action/craft-kaleidoscope) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv35 | 1 | 100% | 1 | 0.143 |
 
-<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 窓辺</div><div class="wiki-navbox-body"><a href="#/ja/item/message-in-a-bottle"><span class="wiki-icon">✉️</span>ボトルメール</a> ・ <a href="#/ja/item/snow-globe"><span class="wiki-icon">❄️</span>スノードーム</a> ・ <a href="#/ja/item/kaleidoscope"><span class="wiki-icon">🔮</span>万華鏡</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 窓辺</div><div class="wiki-navbox-body"><a href="#/ja/item/message-in-a-bottle"><img class="wiki-icon" src="assets/icon/ae46ba8a5140b2e2.svg" alt="">ボトルメール</a> ・ <a href="#/ja/item/snow-globe"><img class="wiki-icon" src="assets/icon/5025d18dce83f03a.svg" alt="">スノードーム</a> ・ <a href="#/ja/item/kaleidoscope"><img class="wiki-icon" src="assets/icon/a86c642796c9391d.svg" alt="">万華鏡</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,7 +54,7 @@
 		"icon": {
 			"emoji": "🔮",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/a86c642796c9391d.svg）"
 		},
 		"color": ""
 	},

@@ -17,16 +17,16 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬](/ja/action/pavlovs-dog) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv6 |
-| [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 |
-| [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 |
-| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv46 |
+| [<img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬](/ja/action/pavlovs-dog) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv26 |
+| [<img class="wiki-icon" src="assets/icon/6b4bee93ce40e393.svg" alt="">教祖](/ja/action/cult-leader) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv5 |
+| [<img class="wiki-icon" src="assets/icon/2306e5eaf3792660.svg" alt="">バハムート](/ja/action/bahamut) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv46 |
+| [<img class="wiki-icon" src="assets/icon/1dd26ec4c50a4c5d.svg" alt="">ベヒモス](/ja/action/behemoth) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv31 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💍</span>力の指輪](/ja/item/ring-of-power) | [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/1edd9c423bacf047.svg" alt="">力の指輪](/ja/item/ring-of-power) | [<img class="wiki-icon" src="assets/icon/8af37373ea914d8b.svg" alt="">指輪](/ja/group/ring) | 装備必須 |
 
 ## 開発者向け情報
 

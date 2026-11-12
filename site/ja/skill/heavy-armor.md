@@ -1,6 +1,6 @@
 # 重装甲
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">重装甲</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🛡️</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>防御+12・回避-8</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">重装甲</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c917aaaa6326c40a.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>防御+12・回避-8</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 動けないほど硬いなら、動かなければいい。
 
@@ -17,15 +17,15 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 |
-| [<span class="wiki-icon">🗿</span>ガーゴイル](/ja/action/gargoyle) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv42 |
-| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/cc8c2cabf2063181.svg" alt="">マンモス](/ja/action/mammoth) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv16 |
+| [<img class="wiki-icon" src="assets/icon/3bd66d6ecb71b73e.svg" alt="">ガーゴイル](/ja/action/gargoyle) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv45 |
+| [<img class="wiki-icon" src="assets/icon/0f2bdf78d9abe485.svg" alt="">パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv45 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/63676804b5e2bf95.svg" alt="">プラグスーツ](/ja/item/plug-suit) | [<img class="wiki-icon" src="assets/icon/0f29202c4827bbc2.svg" alt="">胴体装備](/ja/group/body-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -48,7 +48,7 @@
 		"icon": {
 			"emoji": "🛡️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/c917aaaa6326c40a.svg）"
 		},
 		"color": ""
 	},

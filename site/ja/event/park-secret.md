@@ -1,6 +1,6 @@
 # 公園の秘密
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">公園の秘密</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌳</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">公園の秘密</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e5aed1144fdd65ce.svg" alt=""></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 虫取り網を手に、公園のすべてを見て回った。
 
@@ -40,7 +40,7 @@
 		"icon": {
 			"emoji": "🌳",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/e5aed1144fdd65ce.svg）"
 		},
 		"color": ""
 	},

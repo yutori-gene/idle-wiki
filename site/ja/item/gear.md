@@ -1,6 +1,6 @@
 # 歯車
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">歯車</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚙️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">歯車</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b02a8c712acef79e.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 噛み合えば世界が動く。
 
@@ -11,9 +11,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏭</span>ベルトコンベア漁り](/ja/action/conveyor-scavenging) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv1 | 7 | 91% | 3.2 | 191 |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv47 | 1 | 2.07% | 0.01 | 0 |
-| [<span class="wiki-icon">🤖</span>R2D2](/ja/action/scout-with-r2d2) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv35 | 7 | 100% | 6.3 | 1 |
+| [<img class="wiki-icon" src="assets/icon/6c40c4939eb20707.svg" alt="">ベルトコンベア漁り](/ja/action/conveyor-scavenging) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv1 | 7 | 91% | 3.2 | 191 |
+| [<img class="wiki-icon" src="assets/icon/58090c8ec941246b.svg" alt="">ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv42 | 1 | 2.07% | 0.01 | 0 |
+| [<img class="wiki-icon" src="assets/icon/a2083bedd68b34b6.svg" alt="">R2D2](/ja/action/scout-with-r2d2) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv35 | 7 | 100% | 6.3 | 1 |
 
 ## 用途
 
@@ -21,19 +21,19 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦫</span>ビーバーの巣](/ja/action/open-beaver-lodge) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 1 | 100% |  |
-| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/action/repair-grandfather-clock) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv44 | 25 | 100% |  |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 2 | 100% |  |
-| [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 6 | 100% |  |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 1 | 100% |  |
-| [<span class="wiki-icon">🔩</span>発電機の部品](/ja/action/craft-generator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv39 | 6 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 25 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/3adf474b0cfbe3cb.svg" alt="">ビーバーの巣](/ja/action/open-beaver-lodge) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv24 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/987de3fc02a4d1e9.svg" alt="">おじいさんの時計](/ja/action/repair-grandfather-clock) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv44 | 25 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/8173da749d7a3dca.svg" alt="">芝刈り機の部品](/ja/action/assemble-lawn-mower-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv16 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/552f45ee7971103d.svg" alt="">オーブンの部品](/ja/action/craft-oven-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv20 | 6 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/957ae06f3cd80af7.svg" alt="">イヌ小屋の部品](/ja/action/craft-dog-house-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv24 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/919ca0ee4fca874c.svg" alt="">発電機の部品](/ja/action/craft-generator-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv39 | 6 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/bbbafcec10021a77.svg" alt="">ハムスターの回車の部品](/ja/action/craft-hamster-wheel-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv42 | 25 | 100% |  |
 
 ### 条件にしているもの
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🤖</span>壊れたロボ](/ja/event/broken-robot) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">⚙️</span>歯車](/ja/item/gear) ×5 |
+| [<img class="wiki-icon" src="assets/icon/b5fe4abd5e9acbbb.svg" alt="">壊れたロボ](/ja/event/broken-robot) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/b02a8c712acef79e.svg" alt="">歯車](/ja/item/gear) ×5 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -69,7 +69,7 @@
 		"icon": {
 			"emoji": "⚙️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/b02a8c712acef79e.svg）"
 		},
 		"color": ""
 	},

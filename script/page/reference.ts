@@ -1,7 +1,7 @@
 // 参照表（reference/<名前>）。ワールド全体を横断して計算する表
 import type * as Type from "../../source/type/worldType.ts";
-import { calculateActionStats, experienceToNext } from "../lib/calc.ts";
-import { cellList, join, link, number, section, table } from "../lib/format.ts";
+import { calculateActionStats, experienceReturnRate, experienceToNext } from "../lib/calc.ts";
+import { cellList, join, link, number, percent, section, table } from "../lib/format.ts";
 import { actionEconomy, baseStats, requirementText, type Context, type Page } from "./common.ts";
 import { levelGapsOf } from "./action.ts";
 
@@ -34,7 +34,7 @@ function experiencePage(context: Context): Page {
 		context,
 		"reference/experience",
 		`レベル L から L+1 に上がるのに要る経験値は **100 × ${number(general.levelCommonRatio)}^(L−1)**（levelCommonRatio = ${number(general.levelCommonRatio)}）。レベルの上限は ${number(general.maxCategoryLevels)}。`,
-		"レベルがあるのは numeric のカテゴリだけ。アクションが成功すると、経験値の入り先カテゴリ（アクションの attribute、無ければ置かれたカテゴリ）に経験値が入る。",
+		`レベルがあるのは numeric のカテゴリだけ。アクションが成功すると、置かれたカテゴリ（所属）に経験値が入る。系統（discipline）を持つアクションは、経験値の ${percent(experienceReturnRate(general))} を所属カテゴリへ、残りを系統のカテゴリへ配分する（experienceReturnRate）。`,
 		table(["レベル", "必要経験値", "累計"], rows),
 	);
 }
@@ -79,21 +79,28 @@ function experienceRatePage(context: Context): Page {
 	for (const category of model.world.categories) {
 		if (!category.numeric) continue;
 		const id = category.information.id;
-		const actions = [...(model.categoryActions.get(id) ?? []), ...(model.attributedActions.get(id) ?? [])].filter(
-			(action) => model.experienceCategory(action)?.information.id === id && action.experience > 0 && action.progressType !== "snap",
+		// このカテゴリへ経験値が入るアクション（所属・系統のどちらでも）
+		const actions = [...(model.categoryActions.get(id) ?? []), ...(model.disciplineActions.get(id) ?? [])].filter(
+			(action) => model.actionBasis(action).targets.some((target) => target.categoryId === id) && action.experience > 0 && action.progressType !== "snap",
 		);
 		if (actions.length === 0) continue;
 		const gaps = [0, 10, 20];
+		// 必要Lvはこのカテゴリでの必要レベル（系統として入るなら系統の必要Lv）
+		const levelOf = (action: Type.Action): number => (action.category === id ? action.level : model.disciplineLevel(action));
 		const rows = [...actions]
-			.sort((a, b) => a.level - b.level)
+			.sort((a, b) => levelOf(a) - levelOf(b))
 			.map((action) => {
 				const available = levelGapsOf(context, action);
+				const perHour = (gap: number): string => {
+					const share = calculateActionStats(model.world, action, model.actionBasis(action), gap).shares.find((entry) => entry.categoryId === id);
+					return number(share?.experiencePerHour ?? 0, 0);
+				};
 				return [
 					link(model, "action", action.information.id),
 					action.category !== id ? link(model, "category", action.category) : "",
-					number(action.level),
+					number(levelOf(action)),
 					model.label.progress[action.progressType],
-					...gaps.map((gap) => (available.includes(gap) ? number(calculateActionStats(model.world, action, true, gap).experiencePerHour ?? 0, 0) : "—")),
+					...gaps.map((gap) => (available.includes(gap) ? perHour(gap) : "—")),
 				];
 			});
 		blocks.push(section(`${category.information.icon.emoji} ${category.information.name}`, table(["アクション", "場所", "必要Lv", "進行", "±0", "+10", "+20"], rows), 2));
@@ -101,7 +108,7 @@ function experienceRatePage(context: Context): Page {
 	return page(
 		context,
 		"reference/experience-rate",
-		"カテゴリごとに、経験値が入るアクションの「1時間あたりの経験値」をレベル差別に並べる（装備なし）。レベル差が大きいほど速く・成功しやすくなるが1回の経験値は減るので、効率の良いアクションはレベルとともに移る。",
+		"カテゴリごとに、経験値が入るアクションの「1時間あたりの経験値」をレベル差別に並べる（装備なし）。系統を持つアクションは、配分のうちそのカテゴリへ入るぶん。レベル差が大きいほど速く・成功しやすくなるが1回の経験値は減るので、効率の良いアクションはレベルとともに移る。",
 		...blocks,
 	);
 }

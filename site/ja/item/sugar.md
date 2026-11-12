@@ -1,6 +1,6 @@
 # 砂糖
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">砂糖</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍚</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>1 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>2 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">砂糖</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/509eb9fa27f693c2.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>1 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>2 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 甘さの基本単位。
 
@@ -17,8 +17,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 5 | 100% |  |
-| [<span class="wiki-icon">🥧</span>パイ](/ja/action/cook-pie) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv7 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/d705d18d6a8d6d56.svg" alt="">飴](/ja/action/cook-candy) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv1 | 5 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/1a1e2d297dfb9467.svg" alt="">パイ](/ja/action/cook-pie) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv7 | 2 | 100% |  |
 
 ## 解放条件
 
@@ -60,7 +60,7 @@
 		"icon": {
 			"emoji": "🍚",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/509eb9fa27f693c2.svg）"
 		},
 		"color": ""
 	},

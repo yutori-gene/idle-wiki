@@ -1,6 +1,6 @@
 # 連撃
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">連撃</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚔️</span></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>攻撃+7・精度+5</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">連撃</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/64c601c4adaf88e2.svg" alt=""></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>攻撃+7・精度+5</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 止まらない手は、読まれても止められない。
 
@@ -17,16 +17,16 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐕</span>野良犬の群れ](/ja/action/stray-dog-pack) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 |
-| [<span class="wiki-icon">🦑</span>クラーケン](/ja/action/kraken) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 |
-| [<span class="wiki-icon">🔥</span>炉の番人](/ja/action/furnace-keeper) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv34 |
-| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv47 |
+| [<img class="wiki-icon" src="assets/icon/0db6569084ef29a0.svg" alt="">野良犬の群れ](/ja/action/stray-dog-pack) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv14 |
+| [<img class="wiki-icon" src="assets/icon/94e82149543a0649.svg" alt="">クラーケン](/ja/action/kraken) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv34 |
+| [<img class="wiki-icon" src="assets/icon/164e5a20757e6728.svg" alt="">炉の番人](/ja/action/furnace-keeper) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv7 |
+| [<img class="wiki-icon" src="assets/icon/434f9ba7725923c7.svg" alt="">ケルベロス](/ja/action/cerberus) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv46 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🗡️</span>グラディウス](/ja/item/gladius) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/91f538cc8d339b5b.svg" alt="">グラディウス](/ja/item/gladius) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -49,7 +49,7 @@
 		"icon": {
 			"emoji": "⚔️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/64c601c4adaf88e2.svg）"
 		},
 		"color": ""
 	},

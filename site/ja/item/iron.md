@@ -1,6 +1,6 @@
 # 鉄
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">鉄</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚙️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>27 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">鉄</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b561878ce119f934.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>27 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 様々な武器や道具に使える基本的な素材。
 
@@ -11,9 +11,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>ATM（分解）](/ja/action/disassemble-atm) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv14 | 1 | 100% | 1 | 4 |
-| [<span class="wiki-icon">🔩</span>体重計（分解）](/ja/action/disassemble-weight-scale) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv14 | 1 | 100% | 1 | 4 |
-| [<span class="wiki-icon">🔩</span>キャッシュカード（分解）](/ja/action/disassemble-cash-card) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv14 | 1 | 100% | 1 | 4 |
+| [<img class="wiki-icon" src="assets/icon/3983f467c78e86e4.svg" alt="">ATM（分解）](/ja/action/disassemble-atm) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv14 | 1 | 100% | 1 | 4 |
+| [<img class="wiki-icon" src="assets/icon/3cc410e2b204a272.svg" alt="">体重計（分解）](/ja/action/disassemble-weight-scale) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv14 | 1 | 100% | 1 | 4 |
+| [<img class="wiki-icon" src="assets/icon/9e85d5e3a2148843.svg" alt="">キャッシュカード（分解）](/ja/action/disassemble-cash-card) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv14 | 1 | 100% | 1 | 4 |
 
 ### 購入
 
@@ -25,21 +25,21 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 4 | 100% |  |
-| [<span class="wiki-icon">🚰</span>蛇口のハンドル](/ja/action/craft-faucet-handle) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv31 | 3 | 100% |  |
-| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/action/craft-dancing-statue) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv37 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>ウサギ小屋の部品](/ja/action/craft-rabbit-hutch-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv5 | 3 | 100% |  |
-| [<span class="wiki-icon">🔩</span>井戸の部品](/ja/action/craft-well-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv12 | 8 | 100% |  |
-| [<span class="wiki-icon">🔩</span>芝刈り機の部品](/ja/action/assemble-lawn-mower-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv16 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>オーブンの部品](/ja/action/craft-oven-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv20 | 10 | 100% |  |
-| [<span class="wiki-icon">🔩</span>イヌ小屋の部品](/ja/action/craft-dog-house-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv24 | 4 | 100% |  |
-| [<span class="wiki-icon">🔩</span>冷蔵庫の部品](/ja/action/craft-refrigerator-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv31 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/4687a628a4156fbe.svg" alt="">カイロ](/ja/action/brew-heat-pack) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv15 | 4 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/2ae1d518c32f0f73.svg" alt="">蛇口のハンドル](/ja/action/craft-faucet-handle) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv31 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/93c7b48f506d481f.svg" alt="">踊る銅像](/ja/action/craft-dancing-statue) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv37 | 4 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/23edfa4675c19fe4.svg" alt="">ウサギ小屋の部品](/ja/action/craft-rabbit-hutch-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv5 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/d20e9576e4413495.svg" alt="">井戸の部品](/ja/action/craft-well-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv12 | 8 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/8173da749d7a3dca.svg" alt="">芝刈り機の部品](/ja/action/assemble-lawn-mower-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv16 | 4 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/552f45ee7971103d.svg" alt="">オーブンの部品](/ja/action/craft-oven-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv20 | 10 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/957ae06f3cd80af7.svg" alt="">イヌ小屋の部品](/ja/action/craft-dog-house-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv24 | 4 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/4cae3568b1c47521.svg" alt="">冷蔵庫の部品](/ja/action/craft-refrigerator-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv31 | 2 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる（購入もできるようになる）。
 
-- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv14以上
+- [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) Lv14以上
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -74,7 +74,7 @@
 		"icon": {
 			"emoji": "⚙️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/b561878ce119f934.svg）"
 		},
 		"color": ""
 	},

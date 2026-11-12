@@ -1,6 +1,6 @@
 # バンパイヤ
 
-<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">バンパイヤ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧛</span></div><table><tr><th>場所</th><td><a href="#/ja/category/hell"><img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv44</td></tr><tr><th>所要時間</th><td>1.6秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.91</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">バンパイヤ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/3bc4421543721689.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/hell"><img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄</a></td></tr><tr><th>系統</th><td><a href="#/ja/category/throwing-weapon"><img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv12</td></tr><tr><th>系統の必要Lv</th><td>Lv9</td></tr><tr><th>所要時間</th><td>1.6秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.91</td></tr><tr><th>経験値の配分</th><td><a href="#/ja/category/hell"><img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄</a> 80%、<a href="#/ja/category/throwing-weapon"><img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器</a> 20%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 棺から起き出す夜の貴族。血の匂いには抗えない。
 
@@ -9,9 +9,10 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv44以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) ×1（0.296%で消費）
-- [<span class="wiki-icon">🍴</span>銀の食器](/ja/item/silver-tableware) ×1（0.296%で消費）
+- [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) Lv12以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) が解放されている・Lv9以上（系統のカテゴリ）
+- [<img class="wiki-icon" src="assets/icon/9b054aa5cc93c19a.svg" alt="">ニンニク](/ja/item/garlic) ×1（0.296%で消費）
+- [<img class="wiki-icon" src="assets/icon/0f3cb7ac22f46644.svg" alt="">銀の食器](/ja/item/silver-tableware) ×1（0.296%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,9 +20,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🩸</span>血の滴](/ja/item/blood-drop) ×1 | 成功時 | 1.66% | 0.008 | 0 |
-| [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) ×1 | 成功時 | 0.683% | 0.003 | 0 |
-| [<span class="wiki-icon">⚰️</span>吸血鬼の棺](/ja/item/vampire-coffin) ×1 | 成功時 | 0.09% | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/fa3c9f70400bfec1.svg" alt="">血の滴](/ja/item/blood-drop) ×1 | 成功時 | 1.66% | 0.008 | 0 |
+| [<img class="wiki-icon" src="assets/icon/b50f3310d210d4d5.svg" alt="">牙](/ja/item/fang) ×1 | 成功時 | 0.683% | 0.003 | 0 |
+| [<img class="wiki-icon" src="assets/icon/7f997b82f6e3617b.svg" alt="">吸血鬼の棺](/ja/item/vampire-coffin) ×1 | 成功時 | 0.09% | 0 | 0 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -31,28 +32,34 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 231 | 215 | 10 | 29 | 8 |
+| 270 | 205 | 7 | 27 | 9 |
 
 **敵のスキル**
 
-- [<span class="wiki-icon">🐦</span>身軽](/ja/skill/light-footed)：毎ターン 4% で発動、防御-9・回避+12
-- [<span class="wiki-icon">🤹</span>曲芸](/ja/skill/stunt)：毎ターン 5% で発動、精度+5・回避+9・回復+3
+- [<img class="wiki-icon" src="assets/icon/94a89c0cea67ba6b.svg" alt="">身軽](/ja/skill/light-footed)：毎ターン 4% で発動、防御-9・回避+12
+- [<img class="wiki-icon" src="assets/icon/68e47acdab7f330c.svg" alt="">曲芸](/ja/skill/stunt)：毎ターン 5% で発動、精度+5・回避+9・回復+3
 
 ### 戦闘の見込み（装備・スキルなし）
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv44） | 0.003% | 300% | 48.1% | 21.4% | 16.9% | 63,542.7 | 14,984,533.3% | 1日4時間 | 負ける見込みが高い |
+| ±0（Lv9） | 0.005% | 300% | 50.1% | 22.4% | 16.4% | 40,647.6 | 9,458,564.1% | 18時間3分 | 負ける見込みが高い |
+| +10（Lv19） | 0.007% | 300% | 60.1% | 26.2% | 22.7% | 22,591.8 | 5,004,703.8% | 8時間11分 | 負ける見込みが高い |
+| +20（Lv29） | 0.011% | 300% | 69.3% | 30.3% | 30.6% | 13,058.2 | 2,732,126.2% | 3時間52分 | 負ける見込みが高い |
+| +30（Lv39） | 0.017% | 300% | 77.2% | 34.7% | 39.8% | 7,815 | 1,530,992.6% | 1時間53分 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
 ## 計算値
 
-| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
-| --- | --- | --- | --- | --- | --- |
-| ±0（Lv44） | 1.6秒 | 50% | 0.91 | 0 | 0 |
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時（地獄） | 経験値%/時（投擲武器） |
+| --- | --- | --- | --- | --- | --- | --- |
+| ±0（Lv9） | 1.6秒 | 50% | 0.91 | 0.1 | 0 | 0 |
+| +10（Lv19） | 1.3秒 | 60% | 0.5 | 0.1 | 0 | 0 |
+| +20（Lv29） | 1.1秒 | 69.2% | 0.27 | 0.3 | 0 | 0 |
+| +30（Lv39） | 0.9秒 | 77.1% | 0.15 | 0.5 | 0 | 0 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝系統のカテゴリのレベル − 系統の必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。
 
 ## 収支（1時間あたり）
 
@@ -62,7 +69,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6e4c5b"><div class="wiki-navbox-title">地獄のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/sulfur-valley"><span class="wiki-icon">🟡</span>硫黄の谷</a> ・ <a href="#/ja/action/bone-gathering"><span class="wiki-icon">💀</span>骸骨拾い</a> ・ <a href="#/ja/action/mummy"><span class="wiki-icon">🧟</span>ミイラ</a> ・ <a href="#/ja/action/medusa"><span class="wiki-icon">🐍</span>メデューサ</a> ・ <a href="#/ja/action/ifrit"><span class="wiki-icon">🔥</span>イフリート</a> ・ <a href="#/ja/action/vampire"><span class="wiki-icon">🧛</span>バンパイヤ</a> ・ <a href="#/ja/action/bakeneko"><span class="wiki-icon">🐱</span>化け猫</a> ・ <a href="#/ja/action/lord-freeze"><span class="wiki-icon">🥶</span>フリーズ様</a> ・ <a href="#/ja/action/bat"><span class="wiki-icon">🦇</span>コウモリ</a> ・ <a href="#/ja/action/man-eating-box"><span class="wiki-icon">📦</span>人食い箱</a> ・ <a href="#/ja/action/behemoth"><span class="wiki-icon">🐘</span>ベヒモス</a> ・ <a href="#/ja/action/rotten-tyrant"><span class="wiki-icon">🧟</span>腐った暴君</a> ・ <a href="#/ja/action/demon"><span class="wiki-icon">😈</span>悪魔</a> ・ <a href="#/ja/action/dwarf"><span class="wiki-icon">🧔</span>ドワーフ</a> ・ <a href="#/ja/action/cerberus"><span class="wiki-icon">🐺</span>ケルベロス</a> ・ <a href="#/ja/action/basilisk"><span class="wiki-icon">🐍</span>バジリスク</a> ・ <a href="#/ja/action/enma-court"><span class="wiki-icon">⚖️</span>閻魔の法廷</a></div></div>
+<div class="wiki-navbox" style="--accent:#6e4c5b"><div class="wiki-navbox-title">地獄のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/sulfur-valley"><img class="wiki-icon" src="assets/icon/6ac9bc8ea194652e.svg" alt="">硫黄の谷</a> ・ <a href="#/ja/action/bone-gathering"><img class="wiki-icon" src="assets/icon/99681c3b8d9ffd3e.svg" alt="">骸骨拾い</a> ・ <a href="#/ja/action/vampire"><img class="wiki-icon" src="assets/icon/3bc4421543721689.svg" alt="">バンパイヤ</a> ・ <a href="#/ja/action/medusa"><img class="wiki-icon" src="assets/icon/8558fc8f4fdb9def.svg" alt="">メデューサ</a> ・ <a href="#/ja/action/ifrit"><img class="wiki-icon" src="assets/icon/28d9275128ba3d5b.svg" alt="">イフリート</a> ・ <a href="#/ja/action/bakeneko"><img class="wiki-icon" src="assets/icon/657885362fae1efc.svg" alt="">化け猫</a> ・ <a href="#/ja/action/lord-freeze"><img class="wiki-icon" src="assets/icon/a1198ac4d82115d0.svg" alt="">フリーズ様</a> ・ <a href="#/ja/action/demon"><img class="wiki-icon" src="assets/icon/a399a48719b8f036.svg" alt="">悪魔</a> ・ <a href="#/ja/action/man-eating-box"><img class="wiki-icon" src="assets/icon/2fe1c02a6322d541.svg" alt="">人食い箱</a> ・ <a href="#/ja/action/bat"><img class="wiki-icon" src="assets/icon/bc5719e3beef9c93.svg" alt="">コウモリ</a> ・ <a href="#/ja/action/basilisk"><img class="wiki-icon" src="assets/icon/9f2b3b58eb91f6ca.svg" alt="">バジリスク</a> ・ <a href="#/ja/action/mummy"><img class="wiki-icon" src="assets/icon/0218c089efa72a77.svg" alt="">ミイラ</a> ・ <a href="#/ja/action/behemoth"><img class="wiki-icon" src="assets/icon/1dd26ec4c50a4c5d.svg" alt="">ベヒモス</a> ・ <a href="#/ja/action/dwarf"><img class="wiki-icon" src="assets/icon/58090c8ec941246b.svg" alt="">ドワーフ</a> ・ <a href="#/ja/action/rotten-tyrant"><img class="wiki-icon" src="assets/icon/a6aa062ef47dc4a9.svg" alt="">腐った暴君</a> ・ <a href="#/ja/action/cerberus"><img class="wiki-icon" src="assets/icon/434f9ba7725923c7.svg" alt="">ケルベロス</a> ・ <a href="#/ja/action/enma-court"><img class="wiki-icon" src="assets/icon/2f292d9ebea19f1c.svg" alt="">閻魔の法廷</a></div></div>
 
 ## 開発者向け情報
 
@@ -70,10 +77,11 @@
 | --- | --- |
 | id | `vampire` |
 | `category` | `hell` |
-| `attribute` | `throwing-weapon` |
+| `discipline` | `throwing-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `44` |
+| `level` | `12` |
+| `disciplineLevel` | `9` |
 | `experience` | `0.914` |
 | `seconds` | `1.6` |
 | `chance` | `0.5` |
@@ -95,15 +103,16 @@
 		"icon": {
 			"emoji": "🧛",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/3bc4421543721689.svg）"
 		},
 		"color": ""
 	},
 	"category": "hell",
-	"attribute": "throwing-weapon",
+	"discipline": "throwing-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 44,
+	"level": 12,
+	"disciplineLevel": 9,
 	"experience": 0.914,
 	"seconds": 1.6,
 	"chance": 0.5,
@@ -146,11 +155,11 @@
 	],
 	"progressType": "stamina",
 	"property": {
-		"attack": 231,
-		"defence": 215,
-		"accuracy": 10,
-		"evasion": 29,
-		"restore": 8
+		"attack": 270,
+		"defence": 205,
+		"accuracy": 7,
+		"evasion": 27,
+		"restore": 9
 	},
 	"skills": [
 		"light-footed",

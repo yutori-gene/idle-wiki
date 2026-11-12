@@ -1,6 +1,6 @@
 # とうがらし
 
-<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">とうがらし</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌶️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cultivate"><span class="wiki-icon">🌱</span>栽培</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv41</td></tr><tr><th>所要時間</th><td>1日12時間</td></tr><tr><th>成功率</th><td>60%</td></tr><tr><th>経験値</th><td>5,249</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">とうがらし</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/4c6de2300e4edeb2.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/greenhouse"><img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cultivate"><img class="wiki-icon" src="assets/icon/68a3e0aa3d79fed1.svg" alt="">栽培</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv41</td></tr><tr><th>所要時間</th><td>1日12時間</td></tr><tr><th>成功率</th><td>60%</td></tr><tr><th>経験値</th><td>5,249</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 種からとうがらしを育てる。
 
@@ -9,8 +9,8 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv41以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🌶️</span>とうがらしの種](/ja/item/chili-seed) ×1（80%で消費）
+- [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) Lv41以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/27c1e91476f7c477.svg" alt="">とうがらしの種](/ja/item/chili-seed) ×1（80%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,9 +18,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌶️</span>とうがらし](/ja/item/chili) ×360 | 成功時 | 100% | 216 | 6 |
-| [<span class="wiki-icon">🌶️</span>とうがらしの種](/ja/item/chili-seed) ×1 | 成功時 | 30% | 0.18 | 0.005 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) ×1 | 成功時 | 50% | 0.3 | 0.008 |
+| [<img class="wiki-icon" src="assets/icon/3091f067d2e95db7.svg" alt="">とうがらし](/ja/item/chili) ×360 | 成功時 | 100% | 216 | 6 |
+| [<img class="wiki-icon" src="assets/icon/27c1e91476f7c477.svg" alt="">とうがらしの種](/ja/item/chili-seed) ×1 | 成功時 | 30% | 0.18 | 0.005 |
+| [<img class="wiki-icon" src="assets/icon/2ffee8df6bc4f871.svg" alt="">ミミズ](/ja/item/earthworm) ×1 | 成功時 | 50% | 0.3 | 0.008 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 60%（レベル差0・装備なし）で按分した値。
 
@@ -30,7 +30,7 @@
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv41） | 1日12時間 | 60% | 5,249 | 0 | 1 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -40,7 +40,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">温室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/grow-carrot"><span class="wiki-icon">🥕</span>ニンジン</a> ・ <a href="#/ja/action/cut-earthworm"><span class="wiki-icon">🪱</span>ミミズの切断</a> ・ <a href="#/ja/action/grow-pumpkin"><span class="wiki-icon">🎃</span>カボチャ</a> ・ <a href="#/ja/action/grow-tomato"><span class="wiki-icon">🍅</span>トマト</a> ・ <a href="#/ja/action/grow-garlic"><span class="wiki-icon">🧄</span>ニンニク</a> ・ <a href="#/ja/action/grow-wheat"><span class="wiki-icon">🌾</span>小麦</a> ・ <a href="#/ja/action/grow-lettuce"><span class="wiki-icon">🥬</span>サラダ菜</a> ・ <a href="#/ja/action/grow-banana"><span class="wiki-icon">🍌</span>バナナ</a> ・ <a href="#/ja/action/grow-apple"><span class="wiki-icon">🍎</span>リンゴ</a> ・ <a href="#/ja/action/harvest-honey"><span class="wiki-icon">🍯</span>蜂蜜</a> ・ <a href="#/ja/action/breed-axolotl"><span class="wiki-icon">🦎</span>ウーパールーパー</a> ・ <a href="#/ja/action/grow-herb"><span class="wiki-icon">🌿</span>薬草</a> ・ <a href="#/ja/action/grow-hemp"><span class="wiki-icon">🌿</span>大麻</a> ・ <a href="#/ja/action/grow-potato"><span class="wiki-icon">🥔</span>ジャガイモ</a> ・ <a href="#/ja/action/grow-truffle"><span class="wiki-icon">🍄</span>トリュフ</a> ・ <a href="#/ja/action/grow-chili"><span class="wiki-icon">🌶️</span>とうがらし</a> ・ <a href="#/ja/action/grow-poison-herb"><span class="wiki-icon">☠️</span>毒草</a> ・ <a href="#/ja/action/grow-aromatic-herb"><span class="wiki-icon">🌿</span>香草</a> ・ <a href="#/ja/action/grow-world-tree-leaf"><span class="wiki-icon">🌳</span>世界樹の葉</a></div></div>
+<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">温室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/grow-carrot"><img class="wiki-icon" src="assets/icon/bc1fd810997b8f25.svg" alt="">ニンジン</a> ・ <a href="#/ja/action/cut-earthworm"><img class="wiki-icon" src="assets/icon/ddb2cf6c8ce043aa.svg" alt="">ミミズの切断</a> ・ <a href="#/ja/action/grow-pumpkin"><img class="wiki-icon" src="assets/icon/e17a28e5722acdad.svg" alt="">カボチャ</a> ・ <a href="#/ja/action/grow-tomato"><img class="wiki-icon" src="assets/icon/9e543a2cfebc0171.svg" alt="">トマト</a> ・ <a href="#/ja/action/grow-garlic"><img class="wiki-icon" src="assets/icon/d527ac5f713d9667.svg" alt="">ニンニク</a> ・ <a href="#/ja/action/grow-wheat"><img class="wiki-icon" src="assets/icon/fc3d592702db5cdd.svg" alt="">小麦</a> ・ <a href="#/ja/action/grow-lettuce"><img class="wiki-icon" src="assets/icon/89fce9907ca86f45.svg" alt="">サラダ菜</a> ・ <a href="#/ja/action/grow-banana"><img class="wiki-icon" src="assets/icon/756f87132aac61b9.svg" alt="">バナナ</a> ・ <a href="#/ja/action/grow-apple"><img class="wiki-icon" src="assets/icon/602928fa565d31f0.svg" alt="">リンゴ</a> ・ <a href="#/ja/action/harvest-honey"><img class="wiki-icon" src="assets/icon/3e5c9e9074bec355.svg" alt="">蜂蜜</a> ・ <a href="#/ja/action/breed-axolotl"><img class="wiki-icon" src="assets/icon/4647213fe2cde463.svg" alt="">ウーパールーパー</a> ・ <a href="#/ja/action/grow-herb"><img class="wiki-icon" src="assets/icon/2290f162e85f7351.svg" alt="">薬草</a> ・ <a href="#/ja/action/grow-hemp"><img class="wiki-icon" src="assets/icon/587b3d9d040eb4e2.svg" alt="">大麻</a> ・ <a href="#/ja/action/grow-potato"><img class="wiki-icon" src="assets/icon/8e349f01a29e96f1.svg" alt="">ジャガイモ</a> ・ <a href="#/ja/action/grow-truffle"><img class="wiki-icon" src="assets/icon/f607403ff4dcf5e8.svg" alt="">トリュフ</a> ・ <a href="#/ja/action/grow-chili"><img class="wiki-icon" src="assets/icon/4c6de2300e4edeb2.svg" alt="">とうがらし</a> ・ <a href="#/ja/action/grow-poison-herb"><img class="wiki-icon" src="assets/icon/8052d09163e7534f.svg" alt="">毒草</a> ・ <a href="#/ja/action/grow-aromatic-herb"><img class="wiki-icon" src="assets/icon/af353c73681da889.svg" alt="">香草</a> ・ <a href="#/ja/action/grow-world-tree-leaf"><img class="wiki-icon" src="assets/icon/d5a3d7a39bbb7442.svg" alt="">世界樹の葉</a></div></div>
 
 ## 開発者向け情報
 
@@ -48,10 +48,11 @@
 | --- | --- |
 | id | `grow-chili` |
 | `category` | `greenhouse` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `cultivate` |
 | `unlocked` | `hidden` |
 | `level` | `41` |
+| `disciplineLevel` | `0` |
 | `experience` | `5249` |
 | `seconds` | `129600` |
 | `chance` | `0.6` |
@@ -72,15 +73,16 @@
 		"icon": {
 			"emoji": "🌶️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/4c6de2300e4edeb2.svg）"
 		},
 		"color": ""
 	},
 	"category": "greenhouse",
-	"attribute": "",
+	"discipline": "",
 	"group": "cultivate",
 	"unlocked": "hidden",
 	"level": 41,
+	"disciplineLevel": 0,
 	"experience": 5249,
 	"seconds": 129600,
 	"chance": 0.6,

@@ -1,6 +1,6 @@
 # 耐衝撃
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">耐衝撃</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪖</span></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>防御+5</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">耐衝撃</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b10b3840d1c67529.svg" alt=""></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>防御+5</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 自分の爆風には慣れている。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🚜</span>無人フォークリフト](/ja/action/unmanned-forklift) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv30 |
+| [<img class="wiki-icon" src="assets/icon/b9649d31a41a0cd9.svg" alt="">無人フォークリフト](/ja/action/unmanned-forklift) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv23 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🚰</span>蛇口のハンドル](/ja/item/faucet-handle) | [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/2140e5ac1ad9588c.svg" alt="">蛇口のハンドル](/ja/item/faucet-handle) | [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🪖",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/b10b3840d1c67529.svg）"
 		},
 		"color": ""
 	},

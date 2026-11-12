@@ -1,16 +1,17 @@
 # プラグスーツ
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">プラグスーツ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🅿️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>4時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">プラグスーツ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/cad77327d29fa8d7.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><img class="wiki-icon" src="assets/icon/c9bb2836ebd5ad26.svg" alt="">合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>4時間30分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
-> 材料を組み合わせてプラグスーツを作る。
+> 神衣に魔王の印璽を足してプラグスーツに仕立て直す。
 
 
 **単発**: 1回ずつ進む。100%になったら開封して報酬を受け取る。
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🖋️</span>魔王の印璽](/ja/item/demon-lord-seal) ×1（消費する）
-- [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) ×2（消費する）
+- [<img class="wiki-icon" src="assets/icon/e2a4e5f6cb41c3d2.svg" alt="">魔王の印璽](/ja/item/demon-lord-seal) ×1（消費する）
+- [<img class="wiki-icon" src="assets/icon/7b16b3b28f7756e8.svg" alt="">なめし革の断片](/ja/item/tanned-leather-piece) ×2（消費する）
+- [<img class="wiki-icon" src="assets/icon/f86fcc20c5212d0a.svg" alt="">神衣](/ja/item/god-robe) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,7 +19,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) ×1 | 成功時 | 100% | 1 | 0.222 |
+| [<img class="wiki-icon" src="assets/icon/63676804b5e2bf95.svg" alt="">プラグスーツ](/ja/item/plug-suit) ×1 | 成功時 | 100% | 1 | 0.222 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -28,17 +29,17 @@
 | --- | --- | --- | --- | --- | --- |
 | — | 4時間30分 | 100% | — | 0.2 | — |
 
-経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
+カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
 
 ## 収支（1時間あたり）
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 486 | 594 | -108 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 486 | 1,080 | -594 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">防具のアクション</div><div class="wiki-navbox-body">67件。一覧は <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">防具のアクション</div><div class="wiki-navbox-body">90件。一覧は <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -46,10 +47,11 @@
 | --- | --- |
 | id | `craft-plug-suit` |
 | `category` | `armor` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `synthesize` |
 | `unlocked` | `hinted` |
 | `level` | `47` |
+| `disciplineLevel` | `0` |
 | `experience` | `4629` |
 | `seconds` | `16200` |
 | `chance` | `1` |
@@ -66,19 +68,20 @@
 	"information": {
 		"id": "craft-plug-suit",
 		"name": "プラグスーツ",
-		"explanation": "材料を組み合わせてプラグスーツを作る。",
+		"explanation": "神衣に魔王の印璽を足してプラグスーツに仕立て直す。",
 		"icon": {
 			"emoji": "🅿️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/cad77327d29fa8d7.svg）"
 		},
 		"color": ""
 	},
 	"category": "armor",
-	"attribute": "",
+	"discipline": "",
 	"group": "synthesize",
 	"unlocked": "hinted",
 	"level": 47,
+	"disciplineLevel": 0,
 	"experience": 4629,
 	"seconds": 16200,
 	"chance": 1,
@@ -95,6 +98,13 @@
 			"type": "item",
 			"id": "tanned-leather-piece",
 			"count": 2,
+			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "god-robe",
+			"count": 1,
 			"chance": 1,
 			"equipment": false
 		}

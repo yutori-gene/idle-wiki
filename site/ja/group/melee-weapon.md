@@ -1,6 +1,6 @@
 # 近接武器
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">近接武器</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗡️</span></div><table><tr><th>使う種別</th><td>アクション・アイテム</td></tr><tr><th>アイテム</th><td>25種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">近接武器</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/8c20036e34b28104.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション・アイテム</td></tr><tr><th>アイテム</th><td>25種</td></tr></table></div>
 
 
 ## アイテム
@@ -11,29 +11,29 @@
 | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/a853f3f0e7b15e1c.svg" alt="">木の棒](/ja/item/wooden-stick) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | — |
 | [<img class="wiki-icon" src="assets/icon/038883e27a6d1f09.svg" alt="">ネギ](/ja/item/green-onion) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 9 |
-| [<span class="wiki-icon">🥖</span>フランスパン](/ja/item/baguette) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 6 |
-| [<span class="wiki-icon">🎏</span>物干し竿](/ja/item/laundry-pole) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 18 |
-| [<span class="wiki-icon">📚</span>百科事典](/ja/item/encyclopedia) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | — |
-| [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/item/frozen-tuna) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 9 |
-| [<span class="wiki-icon">🔩</span>鉄の棒](/ja/item/iron-rod) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 27 |
-| [<span class="wiki-icon">🔨</span>ハンマー](/ja/item/hammer) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 27 |
-| [<span class="wiki-icon">🦯</span>松葉杖](/ja/item/crutch) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 12 |
-| [<span class="wiki-icon">🏏</span>釘バット](/ja/item/nail-bat) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 36 |
-| [<span class="wiki-icon">🔨</span>ピコハンマー](/ja/item/pico-hammer) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 45 |
-| [<span class="wiki-icon">💼</span>アタッシュケース](/ja/item/attache-case) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 135 |
+| [<img class="wiki-icon" src="assets/icon/d369c8ae7552f02e.svg" alt="">フランスパン](/ja/item/baguette) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 6 |
+| [<img class="wiki-icon" src="assets/icon/c53c62a653c2665f.svg" alt="">物干し竿](/ja/item/laundry-pole) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 18 |
+| [<img class="wiki-icon" src="assets/icon/faabdcd897c56ba1.svg" alt="">百科事典](/ja/item/encyclopedia) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/8fd0d0ebc7899d7e.svg" alt="">冷凍マグロ](/ja/item/frozen-tuna) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 9 |
+| [<img class="wiki-icon" src="assets/icon/aeba92e397d0564b.svg" alt="">鉄の棒](/ja/item/iron-rod) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 27 |
+| [<img class="wiki-icon" src="assets/icon/4869d9d753339e7f.svg" alt="">ハンマー](/ja/item/hammer) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 27 |
+| [<img class="wiki-icon" src="assets/icon/1a5d5f97413f4302.svg" alt="">松葉杖](/ja/item/crutch) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 12 |
+| [<img class="wiki-icon" src="assets/icon/0462116687afc944.svg" alt="">釘バット](/ja/item/nail-bat) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 36 |
+| [<img class="wiki-icon" src="assets/icon/d456c1fcb70b7cdc.svg" alt="">ピコハンマー](/ja/item/pico-hammer) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 45 |
+| [<img class="wiki-icon" src="assets/icon/d6cda10e90e3cd2f.svg" alt="">アタッシュケース](/ja/item/attache-case) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 135 |
 | [<img class="wiki-icon" src="assets/icon/ba24921e1a11094c.svg" alt="">ギター](/ja/item/guitar) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 54 |
-| [<span class="wiki-icon">🔱</span>さすまた](/ja/item/sasumata) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 162 |
-| [<span class="wiki-icon">🗡️</span>グラディウス](/ja/item/gladius) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 189 |
-| [<span class="wiki-icon">⚔️</span>諸刃の剣](/ja/item/double-edged-sword) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 567 |
-| [<span class="wiki-icon">🪄</span>魔法少女のステッキ](/ja/item/magical-girl-wand) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 216 |
-| [<span class="wiki-icon">🐟</span>メカジキ](/ja/item/swordfish) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 648 |
-| [<span class="wiki-icon">🪄</span>封印の杖](/ja/item/sealing-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 729 |
-| [<span class="wiki-icon">🗡️</span>ムラマサ](/ja/item/muramasa) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,187 |
-| [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/item/beam-saber) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,187 |
-| [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/item/excalibur) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,430 |
-| [<span class="wiki-icon">⚔️</span>マスターソード](/ja/item/master-sword) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,430 |
-| [<span class="wiki-icon">🪄</span>如意棒](/ja/item/ruyi-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 7,290 |
-| [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/item/key-blade) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 21,870 |
+| [<img class="wiki-icon" src="assets/icon/1525c15ca59503a8.svg" alt="">さすまた](/ja/item/sasumata) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 162 |
+| [<img class="wiki-icon" src="assets/icon/91f538cc8d339b5b.svg" alt="">グラディウス](/ja/item/gladius) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 189 |
+| [<img class="wiki-icon" src="assets/icon/92d262f973bd96fe.svg" alt="">諸刃の剣](/ja/item/double-edged-sword) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 567 |
+| [<img class="wiki-icon" src="assets/icon/30755669957a807f.svg" alt="">魔法少女のステッキ](/ja/item/magical-girl-wand) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 216 |
+| [<img class="wiki-icon" src="assets/icon/3f28786f91884760.svg" alt="">メカジキ](/ja/item/swordfish) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 648 |
+| [<img class="wiki-icon" src="assets/icon/d1dd0a3456be4a21.svg" alt="">封印の杖](/ja/item/sealing-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 729 |
+| [<img class="wiki-icon" src="assets/icon/00a694fa6a95875b.svg" alt="">ムラマサ](/ja/item/muramasa) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,187 |
+| [<img class="wiki-icon" src="assets/icon/73fc95c0da10d99c.svg" alt="">ビームサーベル](/ja/item/beam-saber) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,187 |
+| [<img class="wiki-icon" src="assets/icon/6359e3756965c87e.svg" alt="">エクスカリバー](/ja/item/excalibur) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,430 |
+| [<img class="wiki-icon" src="assets/icon/585013cc1a3555f7.svg" alt="">マスターソード](/ja/item/master-sword) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 2,430 |
+| [<img class="wiki-icon" src="assets/icon/331c8c28a213bc53.svg" alt="">如意棒](/ja/item/ruyi-staff) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 7,290 |
+| [<img class="wiki-icon" src="assets/icon/2e60f425eca28339.svg" alt="">🔑ブレード](/ja/item/key-blade) | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | 装備必須 | 21,870 |
 
 ## 開発者向け情報
 
@@ -57,7 +57,7 @@
 	"icon": {
 		"emoji": "🗡️",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/8c20036e34b28104.svg）"
 	},
 	"color": ""
 }

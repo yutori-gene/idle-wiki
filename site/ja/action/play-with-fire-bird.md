@@ -1,6 +1,6 @@
 # 炎の鳥
 
-<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">炎の鳥</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐦‍🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/play"><span class="wiki-icon">🎾</span>遊ぶ</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv43</td></tr><tr><th>所要時間</th><td>9時間</td></tr><tr><th>成功率</th><td>80%</td></tr><tr><th>経験値</th><td>1,025</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">炎の鳥</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b83b74ee1f05fa49.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/garden"><img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/play"><img class="wiki-icon" src="assets/icon/58468227b38a0e13.svg" alt="">遊ぶ</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv43</td></tr><tr><th>所要時間</th><td>9時間</td></tr><tr><th>成功率</th><td>80%</td></tr><tr><th>経験値</th><td>1,025</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 炭をくべると機嫌よく燃え上がる。燃え尽きたあとの灰は大事に取っておく。
 
@@ -9,9 +9,9 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) Lv43以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) ×1（消費しない）
-- [<span class="wiki-icon">⚫</span>炭](/ja/item/charcoal) ×2（消費する）
+- [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) Lv43以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/b49d48a060b23777.svg" alt="">炎の鳥](/ja/item/fire-bird) ×1（消費しない）
+- [<img class="wiki-icon" src="assets/icon/f3ff2859fe0780c5.svg" alt="">炭](/ja/item/charcoal) ×2（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,8 +19,8 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐦‍🔥</span>不死鳥の灰](/ja/item/phoenix-ash) ×1 | 成功時 | 100% | 0.8 | 0.089 |
-| [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×4 | 成功時 | 100% | 3.2 | 0.356 |
+| [<img class="wiki-icon" src="assets/icon/58ce4180549fd15e.svg" alt="">不死鳥の灰](/ja/item/phoenix-ash) ×1 | 成功時 | 100% | 0.8 | 0.089 |
+| [<img class="wiki-icon" src="assets/icon/2364d7fb0796e1b8.svg" alt="">羽根](/ja/item/feather) ×4 | 成功時 | 100% | 3.2 | 0.356 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 80%（レベル差0・装備なし）で按分した値。
 
@@ -30,7 +30,7 @@
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv43） | 9時間 | 80% | 1,025 | 0.1 | 1 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -40,7 +40,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">庭のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/play-with-chick"><span class="wiki-icon">🐥</span>ピヨちゃん（ジュニア）</a> ・ <a href="#/ja/action/feed-killifish"><span class="wiki-icon">🐟</span>メダカ</a> ・ <a href="#/ja/action/run-hamster"><span class="wiki-icon">🐹</span>ハム右衛門</a> ・ <a href="#/ja/action/pluck-walking-cactus-thorn"><span class="wiki-icon">🌵</span>歩くサボテン</a> ・ <a href="#/ja/action/care-for-chicken"><span class="wiki-icon">🐔</span>ピヨちゃん</a> ・ <a href="#/ja/action/bathe-duck"><span class="wiki-icon">🦆</span>醜いアヒル</a> ・ <a href="#/ja/action/cheer-up-underdog"><span class="wiki-icon">🐕</span>パブロフ</a> ・ <a href="#/ja/action/walk-turtle"><span class="wiki-icon">🐢</span>クッパ</a> ・ <a href="#/ja/action/talk-with-parroting-parrot"><span class="wiki-icon">🦜</span>オウム返しするオウム</a> ・ <a href="#/ja/action/take-out-jones"><span class="wiki-icon">🎩</span>ジョーンズ</a> ・ <a href="#/ja/action/pen-pen-fishing"><span class="wiki-icon">🐧</span>ペンペン</a> ・ <a href="#/ja/action/scout-with-r2d2"><span class="wiki-icon">🤖</span>R2D2</a> ・ <a href="#/ja/action/bathe-kero-chan"><span class="wiki-icon">🐸</span>ケロちゃん</a> ・ <a href="#/ja/action/play-with-flame-fox"><span class="wiki-icon">🦊</span>炎のキツネ</a> ・ <a href="#/ja/action/play-with-fire-bird"><span class="wiki-icon">🐦‍🔥</span>炎の鳥</a> ・ <a href="#/ja/action/ask-five-color-cat"><span class="wiki-icon">🐱</span>シュレーディンガー</a> ・ <a href="#/ja/action/feed-flying-goldfish"><span class="wiki-icon">🐠</span>空飛ぶ金魚</a> ・ <a href="#/ja/action/ride-flying-pig"><span class="wiki-icon">🐷</span>空飛ぶブタ</a> ・ <a href="#/ja/action/chicken"><img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ</a> ・ <a href="#/ja/action/pansy"><span class="wiki-icon">🐈</span>パンシー</a> ・ <a href="#/ja/action/earthworm"><span class="wiki-icon">🪱</span>ミミズ</a></div></div>
+<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">庭のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/play-with-chick"><img class="wiki-icon" src="assets/icon/b6f0ef88ffc25bab.svg" alt="">ピヨちゃん（ジュニア）</a> ・ <a href="#/ja/action/feed-killifish"><img class="wiki-icon" src="assets/icon/826f925b2f88bac8.svg" alt="">メダカ</a> ・ <a href="#/ja/action/run-hamster"><img class="wiki-icon" src="assets/icon/5e4aa0f5e0469129.svg" alt="">ハム右衛門</a> ・ <a href="#/ja/action/pluck-walking-cactus-thorn"><img class="wiki-icon" src="assets/icon/6ee75866a4cd9bfe.svg" alt="">歩くサボテン</a> ・ <a href="#/ja/action/care-for-chicken"><img class="wiki-icon" src="assets/icon/722720b253eb31b6.svg" alt="">ピヨちゃん</a> ・ <a href="#/ja/action/bathe-duck"><img class="wiki-icon" src="assets/icon/3a4af8dd6d19c04d.svg" alt="">醜いアヒル</a> ・ <a href="#/ja/action/cheer-up-underdog"><img class="wiki-icon" src="assets/icon/056df9b2abd17a5a.svg" alt="">パブロフ</a> ・ <a href="#/ja/action/walk-turtle"><img class="wiki-icon" src="assets/icon/73da99684cb1b3ac.svg" alt="">クッパ</a> ・ <a href="#/ja/action/talk-with-parroting-parrot"><img class="wiki-icon" src="assets/icon/ada1a971c2bc3f51.svg" alt="">オウム返しするオウム</a> ・ <a href="#/ja/action/take-out-jones"><img class="wiki-icon" src="assets/icon/5d2614f177a8901a.svg" alt="">ジョーンズ</a> ・ <a href="#/ja/action/pen-pen-fishing"><img class="wiki-icon" src="assets/icon/1ea177292f004030.svg" alt="">ペンペン</a> ・ <a href="#/ja/action/scout-with-r2d2"><img class="wiki-icon" src="assets/icon/a2083bedd68b34b6.svg" alt="">R2D2</a> ・ <a href="#/ja/action/bathe-kero-chan"><img class="wiki-icon" src="assets/icon/d9e248bf9fab6bf0.svg" alt="">ケロちゃん</a> ・ <a href="#/ja/action/play-with-flame-fox"><img class="wiki-icon" src="assets/icon/b8b458fce0e261b9.svg" alt="">炎のキツネ</a> ・ <a href="#/ja/action/play-with-fire-bird"><img class="wiki-icon" src="assets/icon/b83b74ee1f05fa49.svg" alt="">炎の鳥</a> ・ <a href="#/ja/action/ask-five-color-cat"><img class="wiki-icon" src="assets/icon/534f5c61426efa3a.svg" alt="">シュレーディンガー</a> ・ <a href="#/ja/action/feed-flying-goldfish"><img class="wiki-icon" src="assets/icon/1b1cbe8b6897b3e6.svg" alt="">空飛ぶ金魚</a> ・ <a href="#/ja/action/ride-flying-pig"><img class="wiki-icon" src="assets/icon/8bd14d8bf4299206.svg" alt="">空飛ぶブタ</a> ・ <a href="#/ja/action/chicken"><img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ</a> ・ <a href="#/ja/action/pansy"><img class="wiki-icon" src="assets/icon/c86edc0f27aaa3ab.svg" alt="">パンシー</a> ・ <a href="#/ja/action/earthworm"><img class="wiki-icon" src="assets/icon/c7d3ecb34b9e3294.svg" alt="">ミミズ</a></div></div>
 
 ## 開発者向け情報
 
@@ -48,10 +48,11 @@
 | --- | --- |
 | id | `play-with-fire-bird` |
 | `category` | `garden` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `play` |
 | `unlocked` | `hidden` |
 | `level` | `43` |
+| `disciplineLevel` | `0` |
 | `experience` | `1025` |
 | `seconds` | `32400` |
 | `chance` | `0.8` |
@@ -72,15 +73,16 @@
 		"icon": {
 			"emoji": "🐦‍🔥",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/b83b74ee1f05fa49.svg）"
 		},
 		"color": ""
 	},
 	"category": "garden",
-	"attribute": "",
+	"discipline": "",
 	"group": "play",
 	"unlocked": "hidden",
 	"level": 43,
+	"disciplineLevel": 0,
 	"experience": 1025,
 	"seconds": 32400,
 	"chance": 0.8,

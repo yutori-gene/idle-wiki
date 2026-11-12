@@ -1,6 +1,6 @@
 # 不幸
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">不幸</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌧️</span></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>防御+8・回避-4</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">不幸</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/59d9d410ca03d0e8.svg" alt=""></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>防御+8・回避-4</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 不幸に慣れた者は、もう転ばない。
 
@@ -17,7 +17,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🌧️</span>不幸](/ja/item/misfortune) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<img class="wiki-icon" src="assets/icon/df14fcc4928d1eb1.svg" alt="">不幸](/ja/item/misfortune) | [<img class="wiki-icon" src="assets/icon/7c7dbb617148ad3b.svg" alt="">能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 
@@ -40,7 +40,7 @@
 		"icon": {
 			"emoji": "🌧️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/59d9d410ca03d0e8.svg）"
 		},
 		"color": ""
 	},

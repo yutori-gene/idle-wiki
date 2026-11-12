@@ -1,6 +1,6 @@
 # おかえり
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">おかえり</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏠</span></div><table><tr><th>タイミング</th><td>おかえりなさい</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">おかえり</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/a80e24e413003b27.svg" alt=""></div><table><tr><th>タイミング</th><td>おかえりなさい</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > しばらくぶりだね。進行はちゃんと続いていたよ
 
@@ -34,7 +34,7 @@
 		"icon": {
 			"emoji": "🏠",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/a80e24e413003b27.svg）"
 		},
 		"color": ""
 	},

@@ -1,15 +1,15 @@
 # 天井
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">天井</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏮</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>3種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">天井</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/a2309d1bd3aa4d11.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>3種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/item/heart-piece) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/5da9042d095fa0bd.svg" alt="">ハートのカケラ](/ja/item/heart-piece) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/05f4f88a09c04f05.svg" alt="">空飛ぶ絨毯](/ja/item/flying-carpet) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/5d84e53d91eb4985.svg" alt="">千年パズル](/ja/item/millennium-puzzle) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
 
 ## 開発者向け情報
 
@@ -33,7 +33,7 @@
 	"icon": {
 		"emoji": "🏮",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/a2309d1bd3aa4d11.svg）"
 	},
 	"color": ""
 }

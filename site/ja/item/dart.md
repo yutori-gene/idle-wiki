@@ -1,6 +1,6 @@
 # ダーツ
 
-<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">ダーツ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎯</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>50%</td></tr><tr><th>売値</th><td>18 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">ダーツ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/6900a5b22ba2e279.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/throwing-weapon"><img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/throwing-weapon"><img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>50%</td></tr><tr><th>売値</th><td>18 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 狙いが定まれば百発百中。
 
@@ -11,7 +11,7 @@
 
 | 効き先 | 攻撃 | 精度 | 速度 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | +6 | +2 | +1 |
+| [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) | +6 | +2 | +1 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv3 | 1 | 22.2% | 0.111 | 20 |
+| [<img class="wiki-icon" src="assets/icon/f6b774fbdf6117d2.svg" alt="">倒木あさり](/ja/action/scavenge-fallen-tree) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv3 | 1 | 22.2% | 0.111 | 20 |
 
 ## 用途
 
@@ -27,15 +27,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎯</span>ダーツ（分解）](/ja/action/disassemble-dart) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv9 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/0a1f40a28838e65d.svg" alt="">ダーツ（分解）](/ja/action/disassemble-dart) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv9 | 1 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv8以上
+- [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) Lv8以上
 
-<div class="wiki-navbox" style="--accent:#656a5a"><div class="wiki-navbox-title">グループ: 投擲武器</div><div class="wiki-navbox-body"><a href="#/ja/item/bee"><img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ</a> ・ <a href="#/ja/item/blowgun"><span class="wiki-icon">🎯</span>吹き矢</a> ・ <a href="#/ja/item/dart"><span class="wiki-icon">🎯</span>ダーツ</a> ・ <a href="#/ja/item/snowball"><span class="wiki-icon">⛄</span>雪玉</a> ・ <a href="#/ja/item/brick"><span class="wiki-icon">🧱</span>レンガ</a> ・ <a href="#/ja/item/turtle-shell"><span class="wiki-icon">🐢</span>カメの甲羅</a> ・ <a href="#/ja/item/sea-urchin"><span class="wiki-icon">🦔</span>ウニ</a> ・ <a href="#/ja/item/dvd"><span class="wiki-icon">💿</span>DVD</a> ・ <a href="#/ja/item/rocket-punch"><span class="wiki-icon">👊</span>ロケットパンチ</a> ・ <a href="#/ja/item/tomahawk"><span class="wiki-icon">🪓</span>トマホーク</a> ・ <a href="#/ja/item/batarang"><span class="wiki-icon">🦇</span>バットラング</a> ・ <a href="#/ja/item/monster-ball"><span class="wiki-icon">🔴</span>モンスターボール</a> ・ <a href="#/ja/item/recorder-of-time"><span class="wiki-icon">🎼</span>時のリコーダー</a> ・ <a href="#/ja/item/russian-roulette"><span class="wiki-icon">🔫</span>ロシアンルーレット</a> ・ <a href="#/ja/item/spear-of-longinus"><span class="wiki-icon">🔱</span>ロンギヌスの槍</a> ・ <a href="#/ja/item/stand-arrow"><span class="wiki-icon">🏹</span>スタンドの矢</a> ・ <a href="#/ja/item/tuna-rocket"><span class="wiki-icon">🚀</span>マグロケット</a></div></div>
+<div class="wiki-navbox" style="--accent:#656a5a"><div class="wiki-navbox-title">グループ: 投擲武器</div><div class="wiki-navbox-body"><a href="#/ja/item/bee"><img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ</a> ・ <a href="#/ja/item/blowgun"><img class="wiki-icon" src="assets/icon/47da5d96819c57be.svg" alt="">吹き矢</a> ・ <a href="#/ja/item/dart"><img class="wiki-icon" src="assets/icon/6900a5b22ba2e279.svg" alt="">ダーツ</a> ・ <a href="#/ja/item/snowball"><img class="wiki-icon" src="assets/icon/47ec7d4b68d417f6.svg" alt="">雪玉</a> ・ <a href="#/ja/item/brick"><img class="wiki-icon" src="assets/icon/9a056284bfa44aa4.svg" alt="">レンガ</a> ・ <a href="#/ja/item/turtle-shell"><img class="wiki-icon" src="assets/icon/98246f25e012ed26.svg" alt="">カメの甲羅</a> ・ <a href="#/ja/item/sea-urchin"><img class="wiki-icon" src="assets/icon/4ffa5f81d2846df4.svg" alt="">ウニ</a> ・ <a href="#/ja/item/dvd"><img class="wiki-icon" src="assets/icon/6f5d148c590b4f9f.svg" alt="">DVD</a> ・ <a href="#/ja/item/rocket-punch"><img class="wiki-icon" src="assets/icon/c80f4e26e34f8a62.svg" alt="">ロケットパンチ</a> ・ <a href="#/ja/item/tomahawk"><img class="wiki-icon" src="assets/icon/e0b08cdaab5d2f53.svg" alt="">トマホーク</a> ・ <a href="#/ja/item/batarang"><img class="wiki-icon" src="assets/icon/3e0a845491a96b79.svg" alt="">バットラング</a> ・ <a href="#/ja/item/monster-ball"><img class="wiki-icon" src="assets/icon/a917ec403a65830e.svg" alt="">モンスターボール</a> ・ <a href="#/ja/item/recorder-of-time"><img class="wiki-icon" src="assets/icon/19258e860c7a0422.svg" alt="">時のリコーダー</a> ・ <a href="#/ja/item/russian-roulette"><img class="wiki-icon" src="assets/icon/c9c6b1f5798054cc.svg" alt="">ロシアンルーレット</a> ・ <a href="#/ja/item/spear-of-longinus"><img class="wiki-icon" src="assets/icon/a838dd3fe94052eb.svg" alt="">ロンギヌスの槍</a> ・ <a href="#/ja/item/stand-arrow"><img class="wiki-icon" src="assets/icon/150e4b9643c0268b.svg" alt="">スタンドの矢</a> ・ <a href="#/ja/item/tuna-rocket"><img class="wiki-icon" src="assets/icon/58b2a016832ea29b.svg" alt="">マグロケット</a></div></div>
 
 ## 開発者向け情報
 
@@ -68,7 +68,7 @@
 		"icon": {
 			"emoji": "🎯",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/6900a5b22ba2e279.svg）"
 		},
 		"color": ""
 	},

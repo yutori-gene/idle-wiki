@@ -5,66 +5,66 @@
 | グループ | 使う種別 | カテゴリ | アクション | アイテム | イベント |
 | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/d951ade1a5f324ab.svg" alt="">ダンジョン](/ja/group/dungeon) | カテゴリ | 10 | 0 | 0 | 0 |
-| [<span class="wiki-icon">🏠</span>拠点](/ja/group/base) | カテゴリ | 10 | 0 | 0 | 0 |
-| [<span class="wiki-icon">🛠️</span>装備管理](/ja/group/equipment) | カテゴリ | 5 | 0 | 0 | 0 |
-| [<span class="wiki-icon">🔰</span>チュートリアル](/ja/group/tutorial) | イベント | 0 | 0 | 0 | 17 |
-| [<span class="wiki-icon">📜</span>ストーリー](/ja/group/story) | イベント | 0 | 0 | 0 | 34 |
-| [<span class="wiki-icon">📋</span>依頼](/ja/group/request) | イベント | 0 | 0 | 0 | 20 |
-| [<span class="wiki-icon">🐾</span>ペット](/ja/group/pet) | アイテム | 0 | 0 | 18 | 0 |
-| [<span class="wiki-icon">🎾</span>遊ぶ](/ja/group/play) | アクション | 0 | 18 | 0 | 0 |
-| [<span class="wiki-icon">🦴</span>しつけ](/ja/group/discipline) | アクション | 0 | 3 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/01a95f48afed5202.svg" alt="">拠点](/ja/group/base) | カテゴリ | 10 | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/5151dbe09bd7b939.svg" alt="">装備管理](/ja/group/equipment) | カテゴリ | 5 | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/da259a8fc66841ad.svg" alt="">チュートリアル](/ja/group/tutorial) | イベント | 0 | 0 | 0 | 17 |
+| [<img class="wiki-icon" src="assets/icon/89e64834e9ec4a6f.svg" alt="">ストーリー](/ja/group/story) | イベント | 0 | 0 | 0 | 54 |
+| [<img class="wiki-icon" src="assets/icon/09c85630a7f583a2.svg" alt="">依頼](/ja/group/request) | イベント | 0 | 0 | 0 | 20 |
+| [<img class="wiki-icon" src="assets/icon/df475084f2ad9ee8.svg" alt="">ペット](/ja/group/pet) | アイテム | 0 | 0 | 18 | 0 |
+| [<img class="wiki-icon" src="assets/icon/58468227b38a0e13.svg" alt="">遊ぶ](/ja/group/play) | アクション | 0 | 18 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/14ec568616182b43.svg" alt="">しつけ](/ja/group/discipline) | アクション | 0 | 3 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集](/ja/group/gather) | アクション | 0 | 32 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | アクション | 0 | 110 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索](/ja/group/explore) | アクション | 0 | 26 | 0 | 0 |
-| [<span class="wiki-icon">♻️</span>分解](/ja/group/disassemble) | アクション | 0 | 67 | 0 | 0 |
-| [<span class="wiki-icon">🔨</span>合成](/ja/group/synthesize) | アクション | 0 | 61 | 0 | 0 |
-| [<span class="wiki-icon">⏫</span>グレードアップ](/ja/group/upgrade) | アクション | 0 | 3 | 0 | 0 |
-| [<span class="wiki-icon">🛒</span>購入](/ja/group/purchase) | アクション | 0 | 7 | 0 | 0 |
-| [<span class="wiki-icon">🔧</span>加工](/ja/group/process) | アクション | 0 | 2 | 0 | 0 |
-| [<span class="wiki-icon">⚗️</span>調合](/ja/group/brew) | アクション | 0 | 26 | 0 | 0 |
-| [<span class="wiki-icon">🌱</span>栽培](/ja/group/cultivate) | アクション | 0 | 19 | 0 | 0 |
-| [<span class="wiki-icon">📖</span>読書](/ja/group/reading) | アクション | 0 | 23 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/efa102bd8077b945.svg" alt="">分解](/ja/group/disassemble) | アクション | 0 | 67 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/c9bb2836ebd5ad26.svg" alt="">合成](/ja/group/synthesize) | アクション | 0 | 84 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/fb23c58f72e7e5dd.svg" alt="">グレードアップ](/ja/group/upgrade) | アクション | 0 | 3 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/78641bd6173342fa.svg" alt="">購入](/ja/group/purchase) | アクション | 0 | 7 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/02c65713837148f6.svg" alt="">加工](/ja/group/process) | アクション | 0 | 2 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/64f3a66c76456749.svg" alt="">調合](/ja/group/brew) | アクション | 0 | 26 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/68a3e0aa3d79fed1.svg" alt="">栽培](/ja/group/cultivate) | アクション | 0 | 19 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/7742674deebc2ebc.svg" alt="">読書](/ja/group/reading) | アクション | 0 | 23 | 0 | 0 |
 | [<img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠](/ja/group/unlock) | アクション | 0 | 18 | 0 | 0 |
-| [<span class="wiki-icon">🏭</span>生産](/ja/group/produce) | アクション | 0 | 0 | 0 | 0 |
-| [<span class="wiki-icon">🔨</span>製作](/ja/group/craft) | アクション | 0 | 0 | 0 | 0 |
-| [<span class="wiki-icon">🎬</span>イベント](/ja/group/event) | アクション | 0 | 0 | 0 | 0 |
-| [<span class="wiki-icon">🌰</span>種苗](/ja/group/seedling) | アイテム | 0 | 0 | 14 | 0 |
-| [<span class="wiki-icon">🥕</span>食材](/ja/group/ingredient) | アクション・アイテム | 0 | 0 | 32 | 0 |
+| [<img class="wiki-icon" src="assets/icon/8a0a117f6e73039f.svg" alt="">生産](/ja/group/produce) | アクション | 0 | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/6f21491d0e434baa.svg" alt="">製作](/ja/group/craft) | アクション | 0 | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/e7fab315a4f6d13d.svg" alt="">イベント](/ja/group/event) | アクション | 0 | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/02ea98da97943878.svg" alt="">種苗](/ja/group/seedling) | アイテム | 0 | 0 | 14 | 0 |
+| [<img class="wiki-icon" src="assets/icon/48219f83df889f1c.svg" alt="">食材](/ja/group/ingredient) | アクション・アイテム | 0 | 0 | 32 | 0 |
 | [<img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理](/ja/group/cooking) | アクション・アイテム | 0 | 13 | 12 | 0 |
-| [<span class="wiki-icon">🌿</span>薬草](/ja/group/herb) | アイテム | 0 | 0 | 6 | 0 |
-| [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | アイテム | 0 | 0 | 25 | 0 |
+| [<img class="wiki-icon" src="assets/icon/5ee26ae375c27672.svg" alt="">薬草](/ja/group/herb) | アイテム | 0 | 0 | 6 | 0 |
+| [<img class="wiki-icon" src="assets/icon/4815effeebbe3bb0.svg" alt="">ポーション](/ja/group/potion) | アイテム | 0 | 0 | 25 | 0 |
 | [<img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材](/ja/group/material) | アイテム | 0 | 0 | 215 | 0 |
-| [<span class="wiki-icon">⚙️</span>加工品](/ja/group/processed-goods) | アイテム | 0 | 0 | 6 | 0 |
-| [<span class="wiki-icon">♻️</span>リサイクル素材](/ja/group/recycled-material) | アイテム | 0 | 0 | 4 | 0 |
-| [<span class="wiki-icon">🔩</span>部品](/ja/group/parts) | アクション・アイテム | 0 | 14 | 14 | 0 |
-| [<span class="wiki-icon">🪛</span>組立](/ja/group/assembly) | アクション | 0 | 14 | 0 | 0 |
-| [<span class="wiki-icon">🏗️</span>インフラ](/ja/group/infrastructure) | アイテム | 0 | 0 | 14 | 0 |
-| [<span class="wiki-icon">🎒</span>容器](/ja/group/container) | アイテム | 0 | 0 | 10 | 0 |
-| [<span class="wiki-icon">🧰</span>道具](/ja/group/tool) | アイテム | 0 | 0 | 52 | 0 |
-| [<span class="wiki-icon">💎</span>特別品](/ja/group/special) | アイテム | 0 | 0 | 9 | 0 |
-| [<span class="wiki-icon">💰</span>秘宝](/ja/group/treasure) | アイテム | 0 | 0 | 28 | 0 |
+| [<img class="wiki-icon" src="assets/icon/6d6032deee23fa82.svg" alt="">加工品](/ja/group/processed-goods) | アイテム | 0 | 0 | 6 | 0 |
+| [<img class="wiki-icon" src="assets/icon/509a5ccefb88d602.svg" alt="">リサイクル素材](/ja/group/recycled-material) | アイテム | 0 | 0 | 4 | 0 |
+| [<img class="wiki-icon" src="assets/icon/ede0f331a74ba223.svg" alt="">部品](/ja/group/parts) | アクション・アイテム | 0 | 14 | 14 | 0 |
+| [<img class="wiki-icon" src="assets/icon/f00d0bdb244c4866.svg" alt="">組立](/ja/group/assembly) | アクション | 0 | 14 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/e6d8b373dab1d666.svg" alt="">インフラ](/ja/group/infrastructure) | アイテム | 0 | 0 | 14 | 0 |
+| [<img class="wiki-icon" src="assets/icon/3589d353f01045a6.svg" alt="">容器](/ja/group/container) | アイテム | 0 | 0 | 10 | 0 |
+| [<img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具](/ja/group/tool) | アイテム | 0 | 0 | 52 | 0 |
+| [<img class="wiki-icon" src="assets/icon/492e684d14677ca4.svg" alt="">特別品](/ja/group/special) | アイテム | 0 | 0 | 29 | 0 |
+| [<img class="wiki-icon" src="assets/icon/0bdbbfafe8d83437.svg" alt="">秘宝](/ja/group/treasure) | アイテム | 0 | 0 | 28 | 0 |
 | [<img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ](/ja/group/junk) | アイテム | 0 | 0 | 63 | 0 |
-| [<span class="wiki-icon">📕</span>本](/ja/group/book) | アイテム | 0 | 0 | 23 | 0 |
-| [<span class="wiki-icon">🧠</span>知識](/ja/group/knowledge) | アイテム | 0 | 0 | 15 | 0 |
-| [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | アイテム | 0 | 0 | 12 | 0 |
-| [<span class="wiki-icon">🟫</span>床](/ja/group/floor) | アイテム | 0 | 0 | 4 | 0 |
-| [<span class="wiki-icon">🖼️</span>壁](/ja/group/wall) | アイテム | 0 | 0 | 3 | 0 |
-| [<span class="wiki-icon">📚</span>棚](/ja/group/shelf) | アイテム | 0 | 0 | 3 | 0 |
-| [<span class="wiki-icon">🏮</span>天井](/ja/group/ceiling) | アイテム | 0 | 0 | 3 | 0 |
-| [<span class="wiki-icon">🪟</span>窓辺](/ja/group/windowsill) | アイテム | 0 | 0 | 3 | 0 |
-| [<span class="wiki-icon">🎨</span>制作](/ja/group/creation) | アクション | 0 | 15 | 0 | 0 |
-| [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | アクション・アイテム | 0 | 0 | 23 | 0 |
-| [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | アクション・アイテム | 0 | 0 | 21 | 0 |
-| [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | アクション・アイテム | 0 | 0 | 18 | 0 |
-| [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | アクション・アイテム | 0 | 0 | 19 | 0 |
-| [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | アクション・アイテム | 0 | 0 | 15 | 0 |
-| [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | アクション・アイテム | 0 | 0 | 21 | 0 |
-| [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | アクション・アイテム | 0 | 0 | 15 | 0 |
-| [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | アクション・アイテム | 0 | 0 | 25 | 0 |
-| [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | アクション・アイテム | 0 | 0 | 17 | 0 |
-| [<span class="wiki-icon">🏹</span>射出装置](/ja/group/launcher) | アイテム | 0 | 0 | 7 | 0 |
-| [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | アクション・アイテム | 0 | 0 | 24 | 0 |
-| [<span class="wiki-icon">🎁</span>宝箱](/ja/group/treasure-chest) | アイテム | 0 | 0 | 18 | 0 |
+| [<img class="wiki-icon" src="assets/icon/95065541d11b109e.svg" alt="">本](/ja/group/book) | アイテム | 0 | 0 | 23 | 0 |
+| [<img class="wiki-icon" src="assets/icon/ae86d6f81fb656b1.svg" alt="">知識](/ja/group/knowledge) | アイテム | 0 | 0 | 15 | 0 |
+| [<img class="wiki-icon" src="assets/icon/7c7dbb617148ad3b.svg" alt="">能力](/ja/group/ability) | アイテム | 0 | 0 | 12 | 0 |
+| [<img class="wiki-icon" src="assets/icon/1302287d6df4da87.svg" alt="">床](/ja/group/floor) | アイテム | 0 | 0 | 4 | 0 |
+| [<img class="wiki-icon" src="assets/icon/6e8845fc56627540.svg" alt="">壁](/ja/group/wall) | アイテム | 0 | 0 | 3 | 0 |
+| [<img class="wiki-icon" src="assets/icon/c2df00050a8531ca.svg" alt="">棚](/ja/group/shelf) | アイテム | 0 | 0 | 3 | 0 |
+| [<img class="wiki-icon" src="assets/icon/a2309d1bd3aa4d11.svg" alt="">天井](/ja/group/ceiling) | アイテム | 0 | 0 | 3 | 0 |
+| [<img class="wiki-icon" src="assets/icon/c179bb1a8db28828.svg" alt="">窓辺](/ja/group/windowsill) | アイテム | 0 | 0 | 3 | 0 |
+| [<img class="wiki-icon" src="assets/icon/313a9258024029f6.svg" alt="">制作](/ja/group/creation) | アクション | 0 | 15 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/6c462d8e036e535b.svg" alt="">頭部防具](/ja/group/head-armor) | アクション・アイテム | 0 | 0 | 23 | 0 |
+| [<img class="wiki-icon" src="assets/icon/0f29202c4827bbc2.svg" alt="">胴体装備](/ja/group/body-armor) | アクション・アイテム | 0 | 0 | 21 | 0 |
+| [<img class="wiki-icon" src="assets/icon/fb530857299597e8.svg" alt="">腕部装備](/ja/group/arm-armor) | アクション・アイテム | 0 | 0 | 18 | 0 |
+| [<img class="wiki-icon" src="assets/icon/b520170afa4d40a8.svg" alt="">脚部装備](/ja/group/leg-armor) | アクション・アイテム | 0 | 0 | 19 | 0 |
+| [<img class="wiki-icon" src="assets/icon/47ba4b0004eb0e60.svg" alt="">アクセサリー](/ja/group/accessory) | アクション・アイテム | 0 | 0 | 15 | 0 |
+| [<img class="wiki-icon" src="assets/icon/90105f31f000c615.svg" alt="">ブローチ](/ja/group/brooch) | アクション・アイテム | 0 | 0 | 21 | 0 |
+| [<img class="wiki-icon" src="assets/icon/8af37373ea914d8b.svg" alt="">指輪](/ja/group/ring) | アクション・アイテム | 0 | 0 | 15 | 0 |
+| [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | アクション・アイテム | 0 | 0 | 25 | 0 |
+| [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | アクション・アイテム | 0 | 0 | 17 | 0 |
+| [<img class="wiki-icon" src="assets/icon/b36df1ddeb26deea.svg" alt="">射出装置](/ja/group/launcher) | アイテム | 0 | 0 | 7 | 0 |
+| [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | アクション・アイテム | 0 | 0 | 24 | 0 |
+| [<img class="wiki-icon" src="assets/icon/bba0a7cf66fef7f0.svg" alt="">宝箱](/ja/group/treasure-chest) | アイテム | 0 | 0 | 18 | 0 |
 | [<img class="wiki-icon" src="assets/icon/01163b1df7b4d2b2.svg" alt="">通貨](/ja/group/currency) | アイテム | 0 | 0 | 0 | 0 |
-| [<span class="wiki-icon">🚫</span>未使用](/ja/group/unused) | アクション | 0 | 0 | 0 | 0 |
-| [<span class="wiki-icon">🪱</span>畑の恵み](/ja/group/field-blessing) | アイテム | 0 | 0 | 2 | 0 |
+| [<img class="wiki-icon" src="assets/icon/c3938a499044fc7c.svg" alt="">未使用](/ja/group/unused) | アクション | 0 | 0 | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/8c54bce91d5f1518.svg" alt="">畑の恵み](/ja/group/field-blessing) | アイテム | 0 | 0 | 2 | 0 |

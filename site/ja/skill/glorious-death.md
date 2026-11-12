@@ -1,6 +1,6 @@
 # 玉砕
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">玉砕</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💥</span></div><table><tr><th>発動率</th><td>3%／ターン</td></tr><tr><th>効果</th><td>攻撃+15・防御-10・精度+10・回避-8</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">玉砕</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c1930f5d9b9b9a66.svg" alt=""></div><table><tr><th>発動率</th><td>3%／ターン</td></tr><tr><th>効果</th><td>攻撃+15・防御-10・精度+10・回避-8</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 散り際だけは、誰よりも美しく。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>イフリート](/ja/action/ifrit) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv43 |
+| [<img class="wiki-icon" src="assets/icon/28d9275128ba3d5b.svg" alt="">イフリート](/ja/action/ifrit) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv9 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>N2爆雷](/ja/item/n2-mine) | [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/3babec7a1bb3ab59.svg" alt="">N2爆雷](/ja/item/n2-mine) | [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "💥",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/c1930f5d9b9b9a66.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # 未使用
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">未使用</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🚫</span></div><table><tr><th>使う種別</th><td>アクション</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">未使用</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c3938a499044fc7c.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション</td></tr></table></div>
 
 
 ## 開発者向け情報
@@ -25,7 +25,7 @@
 	"icon": {
 		"emoji": "🚫",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/c3938a499044fc7c.svg）"
 	},
 	"color": ""
 }

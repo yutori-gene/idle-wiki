@@ -17,15 +17,15 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ](/ja/action/snail) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv7 |
-| [<span class="wiki-icon">👥</span>ドッペルゲンガー](/ja/action/doppelganger) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 |
-| [<span class="wiki-icon">🛡️</span>騎士](/ja/action/knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
+| [<img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ](/ja/action/snail) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/8271839a5554488c.svg" alt="">ドッペルゲンガー](/ja/action/doppelganger) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv23 |
+| [<img class="wiki-icon" src="assets/icon/4cf5aeed2a7e772b.svg" alt="">騎士](/ja/action/knight) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv16 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>鉄の棒](/ja/item/iron-rod) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/aeba92e397d0564b.svg" alt="">鉄の棒](/ja/item/iron-rod) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 

@@ -1,6 +1,6 @@
 # 岩石
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">岩石</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪨</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>7 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">岩石</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/7470de924ccddf10.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>7 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 山の欠片。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛏️</span>埋もれた鉱夫町](/ja/action/buried-miner-town) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv5 | 7 | 91% | 3.2 | 164 |
-| [<span class="wiki-icon">🗿</span>溶岩ゴーレム](/ja/action/lava-golem) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv33 | 1 | 3.2% | 0.016 | 0.001 |
+| [<img class="wiki-icon" src="assets/icon/552075f2479bf84e.svg" alt="">埋もれた鉱夫町](/ja/action/buried-miner-town) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv5 | 7 | 91% | 3.2 | 164 |
+| [<img class="wiki-icon" src="assets/icon/b46f66ee088a069f.svg" alt="">溶岩ゴーレム](/ja/action/lava-golem) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv1 | 1 | 3.2% | 0.016 | 0.002 |
 
 ## 用途
 
@@ -20,13 +20,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏛️</span>ダビデ像](/ja/action/craft-statue-of-david) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv36 | 20 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/75635773a28b19b4.svg" alt="">ダビデ像](/ja/action/craft-statue-of-david) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv36 | 20 | 100% |  |
 
 ### 条件にしているもの
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">⛏️</span>鉱夫の酒盛り](/ja/event/miner-feast) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🪨</span>岩石](/ja/item/boulder) ×10 |
+| [<img class="wiki-icon" src="assets/icon/664e91fb2b2f39f1.svg" alt="">鉱夫の酒盛り](/ja/event/miner-feast) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/7470de924ccddf10.svg" alt="">岩石](/ja/item/boulder) ×10 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -61,7 +61,7 @@
 		"icon": {
 			"emoji": "🪨",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/7470de924ccddf10.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # ハト
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ハト</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/a6c87b93b31c1653.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ハト</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/a6c87b93b31c1653.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 平和の象徴、餌には貪欲。
 
@@ -20,7 +20,7 @@
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐦</span>迷子の小鳥](/ja/event/lost-bird) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/a6c87b93b31c1653.svg" alt="">ハト](/ja/item/pigeon) ×1 |
+| [<img class="wiki-icon" src="assets/icon/b9d09caf0d4d2df0.svg" alt="">迷子の小鳥](/ja/event/lost-bird) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/a6c87b93b31c1653.svg" alt="">ハト](/ja/item/pigeon) ×1 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 

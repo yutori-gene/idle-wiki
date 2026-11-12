@@ -1,17 +1,17 @@
 # 人魚の贈り物
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">人魚の贈り物</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧜</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">人魚の贈り物</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/8449013f4e381609.svg" alt=""></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 
 ## 発生条件
 
 数量が変化したとき、**その1回で増えた量**が次の値以上なら発動する（何度でも繰り返す）。画面には表示されない。
 
-- [<span class="wiki-icon">🧜</span>人魚の鱗](/ja/item/mermaid-scale) ×1
+- [<img class="wiki-icon" src="assets/icon/c1a4e9ecd7313902.svg" alt="">人魚の鱗](/ja/item/mermaid-scale) ×1
 
 ## 報酬
 
-- [<span class="wiki-icon">💰</span>大秘宝](/ja/item/great-treasure) ×1
+- [<img class="wiki-icon" src="assets/icon/f0946cc8eca76495.svg" alt="">大秘宝](/ja/item/great-treasure) ×1
 
 ## 開発者向け情報
 
@@ -38,7 +38,7 @@
 		"icon": {
 			"emoji": "🧜",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/8449013f4e381609.svg）"
 		},
 		"color": ""
 	},

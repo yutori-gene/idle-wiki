@@ -1,6 +1,6 @@
 # 血の滾り
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">血の滾り</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🩸</span></div><table><tr><th>発動率</th><td>3%／ターン</td></tr><tr><th>効果</th><td>攻撃+15・防御-10・回復+10</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">血の滾り</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/77926c53727302e1.svg" alt=""></div><table><tr><th>発動率</th><td>3%／ターン</td></tr><tr><th>効果</th><td>攻撃+15・防御-10・回復+10</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 痛みが快感に変わる頃には、もう止まれない。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎩</span>漂流者](/ja/action/castaway) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 |
-| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv46 |
+| [<img class="wiki-icon" src="assets/icon/50a2af91aef10938.svg" alt="">漂流者](/ja/action/castaway) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv45 |
+| [<img class="wiki-icon" src="assets/icon/a6aa062ef47dc4a9.svg" alt="">腐った暴君](/ja/action/rotten-tyrant) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv35 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🗡️</span>ムラマサ](/ja/item/muramasa) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/00a694fa6a95875b.svg" alt="">ムラマサ](/ja/item/muramasa) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🩸",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/77926c53727302e1.svg）"
 		},
 		"color": ""
 	},

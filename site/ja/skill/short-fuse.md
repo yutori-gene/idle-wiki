@@ -1,6 +1,6 @@
 # 導火線を短く
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">導火線を短く</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⏱️</span></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>攻撃+10・回避-6</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">導火線を短く</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f5aa70e41f2a978f.svg" alt=""></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>攻撃+10・回避-6</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 早く咲く花は、近くで散る。
 
@@ -17,7 +17,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>手榴弾](/ja/item/grenade) | [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/876ea6752604a6a2.svg" alt="">手榴弾](/ja/item/grenade) | [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -40,7 +40,7 @@
 		"icon": {
 			"emoji": "⏱️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/f5aa70e41f2a978f.svg）"
 		},
 		"color": ""
 	},

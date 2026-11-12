@@ -1,6 +1,6 @@
 # 爆風回避
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">爆風回避</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💨</span></div><table><tr><th>発動率</th><td>8%／ターン</td></tr><tr><th>効果</th><td>回避+7</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">爆風回避</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/936b43101efe5018.svg" alt=""></div><table><tr><th>発動率</th><td>8%／ターン</td></tr><tr><th>効果</th><td>回避+7</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 投げたら、まず伏せる。
 
@@ -17,7 +17,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔋</span>リチウムバッテリー](/ja/item/lithium-battery) | [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/b9d25a99fb279860.svg" alt="">リチウムバッテリー](/ja/item/lithium-battery) | [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -40,7 +40,7 @@
 		"icon": {
 			"emoji": "💨",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/936b43101efe5018.svg）"
 		},
 		"color": ""
 	},

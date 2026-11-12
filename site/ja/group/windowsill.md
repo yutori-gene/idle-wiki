@@ -1,15 +1,15 @@
 # 窓辺
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">窓辺</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪟</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>3種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">窓辺</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c179bb1a8db28828.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>3種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">✉️</span>ボトルメール](/ja/item/message-in-a-bottle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">❄️</span>スノードーム](/ja/item/snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">🔮</span>万華鏡](/ja/item/kaleidoscope) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/ae46ba8a5140b2e2.svg" alt="">ボトルメール](/ja/item/message-in-a-bottle) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/5025d18dce83f03a.svg" alt="">スノードーム](/ja/item/snow-globe) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/a86c642796c9391d.svg" alt="">万華鏡](/ja/item/kaleidoscope) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
 
 ## 開発者向け情報
 
@@ -33,7 +33,7 @@
 	"icon": {
 		"emoji": "🪟",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/c179bb1a8db28828.svg）"
 	},
 	"color": ""
 }

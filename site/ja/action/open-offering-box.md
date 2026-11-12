@@ -1,6 +1,6 @@
 # 賽銭箱
 
-<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">賽銭箱</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⛩️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><span class="wiki-icon">🗃️</span>ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv7</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>90%</td></tr><tr><th>経験値</th><td>110</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886e67"><div class="wiki-infobox-title">賽銭箱</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/9d01ad605c6bcd9e.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/loft"><img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/unlock"><img class="wiki-icon" src="assets/icon/f19b8946f7da57a2.svg" alt="">開錠</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv7</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>90%</td></tr><tr><th>経験値</th><td>110</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 罰当たりにも斧で叩き割る。
 
@@ -9,9 +9,10 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) Lv7以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">⛩️</span>賽銭箱](/ja/item/offering-box) ×1（消費する）
-- [<span class="wiki-icon">🪓</span>斧](/ja/item/axe) ×1（消費しない）
+- [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) Lv7以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/c4186f8fe3645219.svg" alt="">賽銭箱](/ja/item/offering-box) ×1（消費する）
+- [<img class="wiki-icon" src="assets/icon/12a4f1610195e9e3.svg" alt="">斧](/ja/item/axe) ×1（消費しない）
+- [<span class="wiki-icon">🏅</span>公園の証](/ja/item/park-proof) ×1（消費しない）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -22,8 +23,8 @@
 | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) ×50 | 成功時 | 74.7% | 33.6 | 403 |
 | [<img class="wiki-icon" src="assets/icon/8979ad3bc457f36b.svg" alt="">四つ葉のクローバー](/ja/item/four-leaf-clover) ×1 | 成功時 | 67.2% | 0.605 | 7.3 |
 | [<img class="wiki-icon" src="assets/icon/1e476358e19d8676.svg" alt="">噴水のコイン](/ja/item/fountain-coin) ×1 | 成功時 | 38.7% | 0.348 | 4.2 |
-| [<span class="wiki-icon">🧚</span>森の精霊の涙](/ja/item/forest-spirit-tear) ×1 | 成功時 | 23.3% | 0.21 | 2.5 |
-| [<span class="wiki-icon">📚</span>百科事典](/ja/item/encyclopedia) ×1 | 成功時 | 24.6% | 0.221 | 2.7 |
+| [<img class="wiki-icon" src="assets/icon/21c388bd32262bf9.svg" alt="">森の精霊の涙](/ja/item/forest-spirit-tear) ×1 | 成功時 | 23.3% | 0.21 | 2.5 |
+| [<img class="wiki-icon" src="assets/icon/faabdcd897c56ba1.svg" alt="">百科事典](/ja/item/encyclopedia) ×1 | 成功時 | 24.6% | 0.221 | 2.7 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 90%（レベル差0・装備なし）で按分した値。
 
@@ -32,11 +33,11 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv7） | 5分 | 90% | 110 | 12 | 635 |
-| +10（Lv17） | 4分5秒 | 93.1% | 73.33 | 14.7 | 189 |
-| +20（Lv27） | 3分20秒 | 95.3% | 48.89 | 18 | 56 |
-| +30（Lv37） | 2分43秒 | 96.8% | 32.59 | 22 | 16 |
+| +10（Lv17） | 4分5秒 | 93.1% | 59.88 | 14.7 | 154 |
+| +20（Lv27） | 3分20秒 | 95.3% | 32.59 | 18 | 37 |
+| +30（Lv37） | 2分43秒 | 96.8% | 17.74 | 22 | 9 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -46,7 +47,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布</a> ・ <a href="#/ja/action/open-donation-box"><img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱</a> ・ <a href="#/ja/action/open-offering-box"><span class="wiki-icon">⛩️</span>賽銭箱</a> ・ <a href="#/ja/action/open-vaulting-box"><span class="wiki-icon">📦</span>跳び箱</a> ・ <a href="#/ja/action/open-time-capsule"><span class="wiki-icon">📦</span>タイムカプセル</a> ・ <a href="#/ja/action/open-iron-maiden"><span class="wiki-icon">⛓️</span>鉄の処女</a> ・ <a href="#/ja/action/open-great-treasure"><span class="wiki-icon">💰</span>大秘宝</a> ・ <a href="#/ja/action/open-antarctic-ice"><span class="wiki-icon">🧊</span>南極の氷</a> ・ <a href="#/ja/action/open-beaver-lodge"><span class="wiki-icon">🦫</span>ビーバーの巣</a> ・ <a href="#/ja/action/open-rat-treasure"><span class="wiki-icon">🐀</span>ネズミの宝箱</a> ・ <a href="#/ja/action/open-dragon-nest"><span class="wiki-icon">🐉</span>ドラゴンの巣</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><span class="wiki-icon">🎃</span>かぼちゃの馬車</a> ・ <a href="#/ja/action/open-ark-of-covenant"><span class="wiki-icon">🕍</span>聖櫃</a> ・ <a href="#/ja/action/open-vampire-coffin"><span class="wiki-icon">⚰️</span>吸血鬼の棺</a> ・ <a href="#/ja/action/open-sith-box"><span class="wiki-icon">⚫</span>シスの箱</a> ・ <a href="#/ja/action/open-fairy-gold-pot"><span class="wiki-icon">🌈</span>妖精の黄金の壺</a> ・ <a href="#/ja/action/open-schrodingers-box"><span class="wiki-icon">📦</span>シュレーディンガーの箱</a> ・ <a href="#/ja/action/open-pandoras-box"><span class="wiki-icon">📦</span>パンドラの箱</a></div></div>
+<div class="wiki-navbox" style="--accent:#886e67"><div class="wiki-navbox-title">ロフトのアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/open-wallet"><img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布</a> ・ <a href="#/ja/action/open-donation-box"><img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱</a> ・ <a href="#/ja/action/open-offering-box"><img class="wiki-icon" src="assets/icon/9d01ad605c6bcd9e.svg" alt="">賽銭箱</a> ・ <a href="#/ja/action/open-vaulting-box"><img class="wiki-icon" src="assets/icon/c459ec365d2a9d7b.svg" alt="">跳び箱</a> ・ <a href="#/ja/action/open-time-capsule"><img class="wiki-icon" src="assets/icon/ccca6f4a52bc604a.svg" alt="">タイムカプセル</a> ・ <a href="#/ja/action/open-iron-maiden"><img class="wiki-icon" src="assets/icon/f171def16b536121.svg" alt="">鉄の処女</a> ・ <a href="#/ja/action/open-great-treasure"><img class="wiki-icon" src="assets/icon/ed252afa50d7b2dd.svg" alt="">大秘宝</a> ・ <a href="#/ja/action/open-antarctic-ice"><img class="wiki-icon" src="assets/icon/cdc90a92d58442ff.svg" alt="">南極の氷</a> ・ <a href="#/ja/action/open-beaver-lodge"><img class="wiki-icon" src="assets/icon/3adf474b0cfbe3cb.svg" alt="">ビーバーの巣</a> ・ <a href="#/ja/action/open-rat-treasure"><img class="wiki-icon" src="assets/icon/b6932513f07c909a.svg" alt="">ネズミの宝箱</a> ・ <a href="#/ja/action/open-dragon-nest"><img class="wiki-icon" src="assets/icon/bba3a7073b73e2e4.svg" alt="">ドラゴンの巣</a> ・ <a href="#/ja/action/open-pumpkin-carriage"><img class="wiki-icon" src="assets/icon/af156afb68db88e1.svg" alt="">かぼちゃの馬車</a> ・ <a href="#/ja/action/open-ark-of-covenant"><img class="wiki-icon" src="assets/icon/89ba6d971c364db8.svg" alt="">聖櫃</a> ・ <a href="#/ja/action/open-vampire-coffin"><img class="wiki-icon" src="assets/icon/978885d9a4c3ef08.svg" alt="">吸血鬼の棺</a> ・ <a href="#/ja/action/open-sith-box"><img class="wiki-icon" src="assets/icon/c532f87d79b4a4c9.svg" alt="">シスの箱</a> ・ <a href="#/ja/action/open-fairy-gold-pot"><img class="wiki-icon" src="assets/icon/fdbf755487888437.svg" alt="">妖精の黄金の壺</a> ・ <a href="#/ja/action/open-schrodingers-box"><img class="wiki-icon" src="assets/icon/715c3e1ef5540e1d.svg" alt="">シュレーディンガーの箱</a> ・ <a href="#/ja/action/open-pandoras-box"><img class="wiki-icon" src="assets/icon/6b2141ac9d8cc925.svg" alt="">パンドラの箱</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,10 +55,11 @@
 | --- | --- |
 | id | `open-offering-box` |
 | `category` | `loft` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `unlock` |
 | `unlocked` | `hidden` |
 | `level` | `7` |
+| `disciplineLevel` | `0` |
 | `experience` | `110` |
 | `seconds` | `300` |
 | `chance` | `0.9` |
@@ -78,15 +80,16 @@
 		"icon": {
 			"emoji": "⛩️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/9d01ad605c6bcd9e.svg）"
 		},
 		"color": ""
 	},
 	"category": "loft",
-	"attribute": "",
+	"discipline": "",
 	"group": "unlock",
 	"unlocked": "hidden",
 	"level": 7,
+	"disciplineLevel": 0,
 	"experience": 110,
 	"seconds": 300,
 	"chance": 0.9,
@@ -102,6 +105,13 @@
 		{
 			"type": "item",
 			"id": "axe",
+			"count": 1,
+			"chance": 0,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "park-proof",
 			"count": 1,
 			"chance": 0,
 			"equipment": false

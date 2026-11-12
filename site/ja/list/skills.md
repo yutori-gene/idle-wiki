@@ -6,105 +6,105 @@
 
 | スキル | 発動率 | 効果 | 持つ敵 | 持つ装備 |
 | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/19cba0b59889f58a.svg" alt="">安眠](/ja/skill/sound-sleep) | 12% | 回復+4 | 1 | [<span class="wiki-icon">💞</span>青春の思い出](/ja/item/youth-memory) |
-| [<img class="wiki-icon" src="assets/icon/439c68be5d817fbd.svg" alt="">統率](/ja/skill/command) | 11% | 精度+5 | 4 | [<span class="wiki-icon">🗳️</span>清き一票](/ja/item/clean-vote) |
-| [<img class="wiki-icon" src="assets/icon/0001f65c6734e52a.svg" alt="">免疫](/ja/skill/immunity) | 9% | 防御+6 | 3 | [<span class="wiki-icon">🛡️</span>抗体](/ja/item/antibody) |
-| [<span class="wiki-icon">🌬️</span>全集中](/ja/skill/full-focus) | 8% | 攻撃+7 | 2 | [<span class="wiki-icon">🎩</span>エリート志向](/ja/item/elitism) |
-| [<span class="wiki-icon">🔮</span>念動](/ja/skill/telekinesis) | 8% | 回避+7 | 3 | [<span class="wiki-icon">🫣</span>黒歴史](/ja/item/dark-past) |
-| [<span class="wiki-icon">✨</span>天啓](/ja/skill/revelation) | 7% | 精度+8 | 3 | [<span class="wiki-icon">✨</span>フォース](/ja/item/force) |
-| [<img class="wiki-icon" src="assets/icon/58401ee48ed166a9.svg" alt="">先読み](/ja/skill/foresight) | 5% | 精度+6・回避+8 | 2 | [<span class="wiki-icon">👁️</span>ニュータイプ](/ja/item/newtype) |
-| [<span class="wiki-icon">🛡️</span>反撃機構](/ja/skill/counter-mechanism) | 4% | 攻撃+6・防御+9 | 1 | [<span class="wiki-icon">🛡️</span>攻性防壁](/ja/item/attack-barrier) |
-| [<span class="wiki-icon">🔺</span>聖悪の相剋](/ja/skill/holy-evil-clash) | 4% | 攻撃+13・防御-8 | 2 | [<span class="wiki-icon">🔺</span>トライフォース](/ja/item/triforce) |
-| [<span class="wiki-icon">🩸</span>鬼血](/ja/skill/demon-blood) | 3% | 攻撃+15・回避-10・回復+8 | 2 | [<span class="wiki-icon">😈</span>悪魔信仰](/ja/item/devil-worship) |
-| [<span class="wiki-icon">🌧️</span>不幸](/ja/skill/misfortune) | 6% | 防御+8・回避-4 | 0 | [<span class="wiki-icon">🌧️</span>不幸](/ja/item/misfortune) |
-| [<span class="wiki-icon">🧤</span>捕手](/ja/skill/catcher) | 6% | 防御+5・回復+5 | 1 | [<span class="wiki-icon">🌾</span>ライ麦](/ja/item/rye) |
-| [<img class="wiki-icon" src="assets/icon/81ebbbf085f9279e.svg" alt="">受け流し](/ja/skill/parry) | 12% | 防御+3 | 3 | [<span class="wiki-icon">🔩</span>鉄の棒](/ja/item/iron-rod) |
-| [<img class="wiki-icon" src="assets/icon/97ce360d6f35556b.svg" alt="">二の太刀](/ja/skill/second-strike) | 12% | 攻撃+4 | 5 | [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/item/frozen-tuna) |
-| [<span class="wiki-icon">😤</span>深呼吸](/ja/skill/deep-breath) | 11% | 回復+4 | 1 | [<img class="wiki-icon" src="assets/icon/ba24921e1a11094c.svg" alt="">ギター](/ja/item/guitar) |
-| [<span class="wiki-icon">🏃</span>踏み込み](/ja/skill/step-in) | 10% | 精度+5 | 2 | [<span class="wiki-icon">🔨</span>ハンマー](/ja/item/hammer) |
-| [<span class="wiki-icon">🤺</span>構え直し](/ja/skill/reset-stance) | 8% | 防御+6 | 3 | [<span class="wiki-icon">🔱</span>さすまた](/ja/item/sasumata) |
-| [<span class="wiki-icon">🩹</span>手当て](/ja/skill/first-aid) | 7% | 回復+7 | 3 | [<span class="wiki-icon">🪄</span>封印の杖](/ja/item/sealing-staff) |
-| [<span class="wiki-icon">⚔️</span>連撃](/ja/skill/combo) | 6% | 攻撃+7・精度+5 | 4 | [<span class="wiki-icon">🗡️</span>グラディウス](/ja/item/gladius) |
-| [<span class="wiki-icon">🪨</span>盤石](/ja/skill/solid-ground) | 5% | 防御+8・回復+5 | 6 | [<span class="wiki-icon">⚔️</span>ビームサーベル](/ja/item/beam-saber) |
-| [<span class="wiki-icon">⚔️</span>剣気](/ja/skill/sword-aura) | 5% | 攻撃+6・防御+6・精度+4 | 3 | [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/item/key-blade) |
-| [<span class="wiki-icon">💪</span>不撓不屈](/ja/skill/indomitable) | 4% | 防御+7・回避+3・回復+9 | 4 | [<span class="wiki-icon">⚔️</span>エクスカリバー](/ja/item/excalibur) |
-| [<span class="wiki-icon">💥</span>捨て身](/ja/skill/reckless) | 5% | 攻撃+12・防御-7 | 3 | [<span class="wiki-icon">⚔️</span>諸刃の剣](/ja/item/double-edged-sword) |
-| [<span class="wiki-icon">🪓</span>大振り](/ja/skill/wild-swing) | 4% | 攻撃+14・精度-9 | 4 | [<span class="wiki-icon">🪄</span>如意棒](/ja/item/ruyi-staff) |
-| [<span class="wiki-icon">⚔️</span>削り合い](/ja/skill/war-of-attrition) | 4% | 攻撃+10・回避-8・回復+8 | 6 | [<span class="wiki-icon">⚔️</span>マスターソード](/ja/item/master-sword) |
-| [<span class="wiki-icon">🩸</span>血の滾り](/ja/skill/blood-boil) | 3% | 攻撃+15・防御-10・回復+10 | 2 | [<span class="wiki-icon">🗡️</span>ムラマサ](/ja/item/muramasa) |
-| [<span class="wiki-icon">👊</span>手数](/ja/skill/many-blows) | 12% | 精度+3 | 3 | [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) |
-| [<span class="wiki-icon">👁️</span>見切り](/ja/skill/perception) | 12% | 回避+4 | 6 | [<span class="wiki-icon">⛄</span>雪玉](/ja/item/snowball) |
-| [<span class="wiki-icon">🏃</span>助走](/ja/skill/run-up) | 11% | 攻撃+4 | 3 | [<span class="wiki-icon">💿</span>DVD](/ja/item/dvd) |
-| [<span class="wiki-icon">🎯</span>狙い澄まし](/ja/skill/careful-aim) | 9% | 精度+6 | 3 | [<span class="wiki-icon">👊</span>ロケットパンチ](/ja/item/rocket-punch) |
-| [<span class="wiki-icon">🤸</span>軽業](/ja/skill/acrobatics) | 8% | 回避+7 | 4 | [<span class="wiki-icon">🪓</span>トマホーク](/ja/item/tomahawk) |
-| [<span class="wiki-icon">🌬️</span>息継ぎ](/ja/skill/breather) | 8% | 回復+6 | 2 | [<span class="wiki-icon">🪢</span>愛の鞭](/ja/item/whip-of-love) |
-| [<span class="wiki-icon">🔁</span>連投](/ja/skill/rapid-throw) | 6% | 攻撃+5・精度+8 | 1 | [<span class="wiki-icon">🔴</span>モンスターボール](/ja/item/monster-ball) |
-| [<span class="wiki-icon">🍃</span>風読み](/ja/skill/wind-reading) | 6% | 精度+7・回避+6 | 3 | [<span class="wiki-icon">💋</span>投げキッス](/ja/item/blown-kiss) |
-| [<span class="wiki-icon">🤹</span>曲芸](/ja/skill/stunt) | 5% | 精度+5・回避+9・回復+3 | 4 | [<span class="wiki-icon">🎼</span>時のリコーダー](/ja/item/recorder-of-time) |
-| [<span class="wiki-icon">💯</span>百発百中](/ja/skill/bullseye) | 4% | 攻撃+6・精度+10・回避+4 | 1 | [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/item/spear-of-longinus) |
-| [<span class="wiki-icon">💥</span>弾幕](/ja/skill/barrage) | 5% | 攻撃+11・精度-8 | 2 | [<span class="wiki-icon">🔫</span>ロシアンルーレット](/ja/item/russian-roulette) |
-| [<span class="wiki-icon">🚀</span>全弾発射](/ja/skill/full-volley) | 4% | 攻撃+13・防御-10・精度+8 | 1 | [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/item/stand-arrow) |
-| [<span class="wiki-icon">🐦</span>身軽](/ja/skill/light-footed) | 4% | 防御-9・回避+12 | 5 | [<span class="wiki-icon">🦇</span>バットラング](/ja/item/batarang) |
-| [<span class="wiki-icon">♟️</span>捨て駒](/ja/skill/sacrificial-pawn) | 3% | 精度+15・回復-9 | 1 | [<span class="wiki-icon">🚀</span>マグロケット](/ja/item/tuna-rocket) |
-| [<span class="wiki-icon">🧨</span>導火線](/ja/skill/fuse) | 11% | 攻撃+5 | 1 | [<img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船](/ja/item/water-balloon) |
-| [<span class="wiki-icon">💥</span>破片](/ja/skill/shrapnel) | 10% | 攻撃+6 | 1 | [<span class="wiki-icon">🥤</span>メントス入りソーダ](/ja/item/mentos-soda) |
-| [<span class="wiki-icon">🪖</span>耐衝撃](/ja/skill/shock-resistance) | 10% | 防御+5 | 1 | [<span class="wiki-icon">🚰</span>蛇口のハンドル](/ja/item/faucet-handle) |
-| [<span class="wiki-icon">💨</span>爆風回避](/ja/skill/blast-dodge) | 8% | 回避+7 | 0 | [<span class="wiki-icon">🔋</span>リチウムバッテリー](/ja/item/lithium-battery) |
-| [<span class="wiki-icon">💥</span>連鎖爆発](/ja/skill/chain-explosion) | 6% | 攻撃+9・精度+4 | 1 | [<span class="wiki-icon">🧨</span>ダイナマイト](/ja/item/dynamite) |
-| [<span class="wiki-icon">💣</span>誘爆](/ja/skill/induced-explosion) | 5% | 攻撃+8・回避+5 | 2 | [<span class="wiki-icon">🍎</span>時計仕掛けのリンゴ](/ja/item/clockwork-apple) |
-| [<span class="wiki-icon">🎯</span>制圧](/ja/skill/suppression) | 4% | 攻撃+10・防御+5・精度+3 | 1 | [<span class="wiki-icon">🪄</span>スターロッド](/ja/item/star-rod) |
-| [<span class="wiki-icon">⏱️</span>導火線を短く](/ja/skill/short-fuse) | 6% | 攻撃+10・回避-6 | 0 | [<span class="wiki-icon">💣</span>手榴弾](/ja/item/grenade) |
-| [<span class="wiki-icon">🔥</span>過剰装薬](/ja/skill/overcharge) | 5% | 攻撃+12・精度-8 | 1 | [<span class="wiki-icon">🐴</span>トロイの木馬](/ja/item/trojan-horse) |
-| [<span class="wiki-icon">💣</span>自爆覚悟](/ja/skill/self-destruct-resolve) | 5% | 攻撃+14・防御-9 | 1 | [<span class="wiki-icon">🐬</span>軍用イルカ](/ja/item/military-dolphin) |
-| [<span class="wiki-icon">😵</span>目潰し](/ja/skill/blinding) | 5% | 攻撃-7・精度+12 | 1 | [<span class="wiki-icon">🏷️</span>幽霊退治の札](/ja/item/ghost-ward) |
-| [<span class="wiki-icon">🎲</span>一擲乾坤](/ja/skill/all-or-nothing) | 4% | 攻撃+15・精度-10 | 1 | [<span class="wiki-icon">🌕</span>元気玉](/ja/item/spirit-bomb) |
-| [<span class="wiki-icon">🔥</span>焦土](/ja/skill/scorched-earth) | 4% | 攻撃+13・防御+8・回復-10 | 2 | [<span class="wiki-icon">☢️</span>核爆弾](/ja/item/nuclear-bomb) |
-| [<span class="wiki-icon">💥</span>玉砕](/ja/skill/glorious-death) | 3% | 攻撃+15・防御-10・精度+10・回避-8 | 1 | [<span class="wiki-icon">💣</span>N2爆雷](/ja/item/n2-mine) |
-| [<img class="wiki-icon" src="assets/icon/d21813beac521f02.svg" alt="">硬化](/ja/skill/hardening) | 12% | 防御+3 | 5 | [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) |
-| [<span class="wiki-icon">🤕</span>受け身](/ja/skill/breakfall) | 12% | 回避+3 | 1 | [<span class="wiki-icon">👞</span>安全靴](/ja/item/safety-shoes) |
-| [<span class="wiki-icon">🧥</span>厚着](/ja/skill/heavy-clothing) | 11% | 防御+4 | 2 | [<span class="wiki-icon">🎓</span>学ラン](/ja/item/gakuran) |
-| [<span class="wiki-icon">👕</span>軽装](/ja/skill/light-clothing) | 11% | 回避+4 | 1 | [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) |
-| [<span class="wiki-icon">🦵</span>踏ん張り](/ja/skill/foothold) | 10% | 防御+5 | 2 | [<span class="wiki-icon">🥾</span>革のブーツ](/ja/item/leather-boots) |
-| [<span class="wiki-icon">💨</span>身をかわす](/ja/skill/sidestep) | 10% | 回避+5 | 1 | [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) |
-| [<span class="wiki-icon">💊</span>傷薬](/ja/skill/salve) | 10% | 回復+5 | 1 | [<span class="wiki-icon">🧤</span>革の手袋](/ja/item/leather-gloves) |
-| [<span class="wiki-icon">⛑️</span>兜割り耐性](/ja/skill/helm-split-resistance) | 9% | 防御+6 | 2 | [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/item/iron-helmet) |
-| [<span class="wiki-icon">🌀</span>すり抜け](/ja/skill/slip-through) | 8% | 回避+7 | 1 | [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/item/pumpkin-head) |
-| [<span class="wiki-icon">💚</span>治癒力](/ja/skill/healing-power) | 7% | 回復+8 | 5 | [<span class="wiki-icon">⏰</span>麻酔時計](/ja/item/anesthetic-watch) |
-| [<span class="wiki-icon">🛡️</span>装甲](/ja/skill/armor-plating) | 6% | 防御+8・回復+4 | 4 | [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) |
-| [<span class="wiki-icon">💨</span>回避機動](/ja/skill/evasive-maneuver) | 6% | 精度+4・回避+8 | 2 | [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/item/kick-boost-shoes) |
-| [<span class="wiki-icon">🧱</span>堅牢](/ja/skill/sturdy) | 5% | 防御+9・回避+5 | 3 | [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/item/odm-boots) |
-| [<span class="wiki-icon">🛡️</span>護りの構え](/ja/skill/guard-stance) | 5% | 防御+7・回避+4・回復+7 | 2 | [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/item/jade-hairpin) |
-| [<span class="wiki-icon">🏰</span>鉄壁](/ja/skill/iron-wall) | 4% | 防御+10・精度+3・回避+6・回復+5 | 4 | [<span class="wiki-icon">🛡️</span>矛盾](/ja/item/contradiction) |
-| [<span class="wiki-icon">🛡️</span>重装甲](/ja/skill/heavy-armor) | 5% | 防御+12・回避-8 | 3 | [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) |
-| [<span class="wiki-icon">🪶</span>軽量化](/ja/skill/lightening) | 5% | 防御-9・回避+13 | 1 | [<span class="wiki-icon">👟</span>羽のついた靴](/ja/item/winged-shoes) |
-| [<span class="wiki-icon">🛡️</span>捨て身の守り](/ja/skill/desperate-defence) | 4% | 攻撃-9・防御+14 | 2 | [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/item/box-gundam) |
-| [<span class="wiki-icon">🦔</span>棘の鎧](/ja/skill/thorn-armor) | 4% | 攻撃+10・防御+8・回復-8 | 4 | [<span class="wiki-icon">🧤</span>無限の手袋](/ja/item/infinity-gauntlet) |
-| [<span class="wiki-icon">♾️</span>不死身](/ja/skill/immortal) | 3% | 防御+10・精度-10・回復+15 | 2 | [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/item/crystal-skull) |
-| [<img class="wiki-icon" src="assets/icon/5ae75d891552a1d4.svg" alt="">お守り](/ja/skill/charm) | 12% | 防御+3 | 3 | [<span class="wiki-icon">🔯</span>六芒星のお守り](/ja/item/hexagram-charm) |
-| [<span class="wiki-icon">🍀</span>幸運](/ja/skill/luck) | 12% | 精度+4 | 1 | [<span class="wiki-icon">🍀</span>99葉のクローバー](/ja/item/ninety-nine-leaf-clover) |
-| [<img class="wiki-icon" src="assets/icon/5eb28ad72ed965e5.svg" alt="">加護](/ja/skill/divine-protection) | 11% | 回復+4 | 3 | [<span class="wiki-icon">💍</span>ドラゴンの指輪](/ja/item/dragon-ring) |
-| [<span class="wiki-icon">💐</span>気品](/ja/skill/grace) | 10% | 回避+5 | 2 | [<span class="wiki-icon">🎖️</span>勲章](/ja/item/medal) |
-| [<img class="wiki-icon" src="assets/icon/b37f7307eb97a29c.svg" alt="">威圧](/ja/skill/intimidation) | 10% | 攻撃+5 | 4 | [<span class="wiki-icon">💍</span>力の指輪](/ja/item/ring-of-power) |
-| [<span class="wiki-icon">✨</span>祝福](/ja/skill/blessing) | 8% | 回復+7 | 2 | [<span class="wiki-icon">🔴</span>賢者の石](/ja/item/philosophers-stone) |
-| [<span class="wiki-icon">🌸</span>華麗](/ja/skill/brilliance) | 6% | 精度+5・回避+7 | 1 | [<span class="wiki-icon">🔮</span>闇のペンダント](/ja/item/dark-pendant) |
-| [<span class="wiki-icon">🔥</span>気迫](/ja/skill/fighting-spirit) | 6% | 攻撃+7・防御+5 | 3 | [<span class="wiki-icon">🎖️</span>ジムバッジ](/ja/item/gym-badge) |
-| [<span class="wiki-icon">💎</span>洗練](/ja/skill/refinement) | 5% | 精度+8・回避+5・回復+3 | 1 | [<span class="wiki-icon">🪪</span>認証バッジ](/ja/item/verified-badge) |
-| [<span class="wiki-icon">⭐</span>星の導き](/ja/skill/star-guidance) | 5% | 攻撃+6・精度+7・回復+4 | 2 | [<span class="wiki-icon">🌀</span>黄金の回転](/ja/item/golden-spin) |
-| [<span class="wiki-icon">⭕</span>円環の理](/ja/skill/eternal-circle) | 4% | 防御+8・回避+4・回復+7 | 1 | [<span class="wiki-icon">🔺</span>ATフィールド](/ja/item/at-field) |
-| [<span class="wiki-icon">🌈</span>万能](/ja/skill/all-round) | 3% | 攻撃+6・防御+6・精度+6・回避+6・回復+6 | 1 | [<span class="wiki-icon">⏳</span>時を止める砂時計](/ja/item/time-stopping-hourglass) |
-| [<span class="wiki-icon">🎭</span>見栄](/ja/skill/vanity) | 6% | 攻撃+11・防御-7 | 2 | [<span class="wiki-icon">⌚</span>スマートリング](/ja/item/smart-ring) |
-| [<span class="wiki-icon">💍</span>呪いの指輪](/ja/skill/cursed-ring) | 5% | 攻撃+13・回復-9 | 2 | [<span class="wiki-icon">💍</span>取れない指輪](/ja/item/stuck-ring) |
-| [<span class="wiki-icon">💄</span>虚飾](/ja/skill/ostentation) | 5% | 精度-8・回避+12 | 2 | [<span class="wiki-icon">🥸</span>変装ブローチ](/ja/item/disguise-brooch) |
-| [<span class="wiki-icon">📜</span>血の契約](/ja/skill/blood-pact) | 4% | 攻撃+14・精度+9・回復-10 | 2 | [<span class="wiki-icon">💍</span>一つの指輪](/ja/item/one-ring) |
-| [<span class="wiki-icon">🔪</span>生贄](/ja/skill/sacrifice) | 4% | 攻撃-10・回復+15 | 2 | [<span class="wiki-icon">🌹</span>獣の薔薧](/ja/item/beast-rose) |
-| [<span class="wiki-icon">🟣</span>禁忌の宝玉](/ja/skill/forbidden-orb) | 3% | 攻撃+15・防御+12・精度-9・回避-10 | 3 | [<span class="wiki-icon">⚙️</span>S2機関](/ja/item/s2-engine) |
-| [<span class="wiki-icon">💊</span>気付け薬](/ja/skill/smelling-salts) | 20% | 回復+8 | 0 | [<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine) |
-| [<span class="wiki-icon">⚡</span>興奮剤](/ja/skill/stimulant) | 18% | 攻撃+8 | 0 | [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller) |
-| [<span class="wiki-icon">🚑</span>応急処置](/ja/skill/emergency-care) | 18% | 防御+6・回復+9 | 0 | [<span class="wiki-icon">🩹</span>絆創膏](/ja/item/bandage) |
-| [<span class="wiki-icon">🧪</span>強化薬](/ja/skill/enhance-drug) | 16% | 攻撃+9・精度+6 | 0 | [<span class="wiki-icon">💊</span>滋養強壮剤](/ja/item/tonic) |
-| [<span class="wiki-icon">🥤</span>硬化薬](/ja/skill/harden-drug) | 15% | 防御+10・回復+6 | 0 | [<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack) |
-| [<span class="wiki-icon">💨</span>俊敏の薬](/ja/skill/agility-drug) | 14% | 精度+7・回避+10 | 0 | [<span class="wiki-icon">☕</span>眠気覚まし](/ja/item/anti-drowsiness) |
-| [<span class="wiki-icon">🧴</span>秘薬](/ja/skill/secret-drug) | 12% | 防御+8・精度+4・回避+6・回復+10 | 0 | [<span class="wiki-icon">🧪</span>エリクサー](/ja/item/elixir) |
-| [<span class="wiki-icon">⚗️</span>調和の薬](/ja/skill/harmony-drug) | 10% | 攻撃+7・防御+7・精度+7・回避+7・回復+7 | 0 | [<span class="wiki-icon">💊</span>万能薬](/ja/item/panacea) |
-| [<span class="wiki-icon">☠️</span>劇薬](/ja/skill/potent-drug) | 12% | 攻撃+15・防御-10・精度+10 | 0 | [<span class="wiki-icon">💊</span>阿片](/ja/item/opium) |
-| [<span class="wiki-icon">🧪</span>禁断の霊薬](/ja/skill/forbidden-elixir) | 10% | 攻撃+15・防御-10・回避-10・回復+15 | 0 | [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/item/felix-felicis) |
+| [<img class="wiki-icon" src="assets/icon/19cba0b59889f58a.svg" alt="">安眠](/ja/skill/sound-sleep) | 12% | 回復+4 | 1 | [<img class="wiki-icon" src="assets/icon/3577727f837dae02.svg" alt="">青春の思い出](/ja/item/youth-memory) |
+| [<img class="wiki-icon" src="assets/icon/439c68be5d817fbd.svg" alt="">統率](/ja/skill/command) | 11% | 精度+5 | 4 | [<img class="wiki-icon" src="assets/icon/de5f9818990501e4.svg" alt="">清き一票](/ja/item/clean-vote) |
+| [<img class="wiki-icon" src="assets/icon/0001f65c6734e52a.svg" alt="">免疫](/ja/skill/immunity) | 9% | 防御+6 | 3 | [<img class="wiki-icon" src="assets/icon/369e6a3d6aefa7c0.svg" alt="">抗体](/ja/item/antibody) |
+| [<img class="wiki-icon" src="assets/icon/1738834f5975c420.svg" alt="">全集中](/ja/skill/full-focus) | 8% | 攻撃+7 | 2 | [<img class="wiki-icon" src="assets/icon/c5ee2a497eda97c8.svg" alt="">エリート志向](/ja/item/elitism) |
+| [<img class="wiki-icon" src="assets/icon/5bfc7d0e67159a30.svg" alt="">念動](/ja/skill/telekinesis) | 8% | 回避+7 | 3 | [<img class="wiki-icon" src="assets/icon/199d37908aae3fcc.svg" alt="">黒歴史](/ja/item/dark-past) |
+| [<img class="wiki-icon" src="assets/icon/fb63353f9797d95d.svg" alt="">天啓](/ja/skill/revelation) | 7% | 精度+8 | 3 | [<img class="wiki-icon" src="assets/icon/220f28203410df27.svg" alt="">フォース](/ja/item/force) |
+| [<img class="wiki-icon" src="assets/icon/58401ee48ed166a9.svg" alt="">先読み](/ja/skill/foresight) | 5% | 精度+6・回避+8 | 2 | [<img class="wiki-icon" src="assets/icon/f67c0db7729bfca4.svg" alt="">ニュータイプ](/ja/item/newtype) |
+| [<img class="wiki-icon" src="assets/icon/a6541975b1f13a88.svg" alt="">反撃機構](/ja/skill/counter-mechanism) | 4% | 攻撃+6・防御+9 | 1 | [<img class="wiki-icon" src="assets/icon/bd8bba80ceedd894.svg" alt="">攻性防壁](/ja/item/attack-barrier) |
+| [<img class="wiki-icon" src="assets/icon/f7a1361e7007fc43.svg" alt="">聖悪の相剋](/ja/skill/holy-evil-clash) | 4% | 攻撃+13・防御-8 | 2 | [<img class="wiki-icon" src="assets/icon/3a481dfec01e1c82.svg" alt="">トライフォース](/ja/item/triforce) |
+| [<img class="wiki-icon" src="assets/icon/e38385339052a6b5.svg" alt="">鬼血](/ja/skill/demon-blood) | 3% | 攻撃+15・回避-10・回復+8 | 2 | [<img class="wiki-icon" src="assets/icon/28e21aebbaaf7a0a.svg" alt="">悪魔信仰](/ja/item/devil-worship) |
+| [<img class="wiki-icon" src="assets/icon/59d9d410ca03d0e8.svg" alt="">不幸](/ja/skill/misfortune) | 6% | 防御+8・回避-4 | 0 | [<img class="wiki-icon" src="assets/icon/df14fcc4928d1eb1.svg" alt="">不幸](/ja/item/misfortune) |
+| [<img class="wiki-icon" src="assets/icon/34a9813c034756be.svg" alt="">捕手](/ja/skill/catcher) | 6% | 防御+5・回復+5 | 1 | [<img class="wiki-icon" src="assets/icon/78d3ddb750b44362.svg" alt="">ライ麦](/ja/item/rye) |
+| [<img class="wiki-icon" src="assets/icon/81ebbbf085f9279e.svg" alt="">受け流し](/ja/skill/parry) | 12% | 防御+3 | 3 | [<img class="wiki-icon" src="assets/icon/aeba92e397d0564b.svg" alt="">鉄の棒](/ja/item/iron-rod) |
+| [<img class="wiki-icon" src="assets/icon/97ce360d6f35556b.svg" alt="">二の太刀](/ja/skill/second-strike) | 12% | 攻撃+4 | 5 | [<img class="wiki-icon" src="assets/icon/8fd0d0ebc7899d7e.svg" alt="">冷凍マグロ](/ja/item/frozen-tuna) |
+| [<img class="wiki-icon" src="assets/icon/4f8981e498451902.svg" alt="">深呼吸](/ja/skill/deep-breath) | 11% | 回復+4 | 1 | [<img class="wiki-icon" src="assets/icon/ba24921e1a11094c.svg" alt="">ギター](/ja/item/guitar) |
+| [<img class="wiki-icon" src="assets/icon/91fd04ba248a6863.svg" alt="">踏み込み](/ja/skill/step-in) | 10% | 精度+5 | 2 | [<img class="wiki-icon" src="assets/icon/4869d9d753339e7f.svg" alt="">ハンマー](/ja/item/hammer) |
+| [<img class="wiki-icon" src="assets/icon/40a6515c04dd9177.svg" alt="">構え直し](/ja/skill/reset-stance) | 8% | 防御+6 | 3 | [<img class="wiki-icon" src="assets/icon/1525c15ca59503a8.svg" alt="">さすまた](/ja/item/sasumata) |
+| [<img class="wiki-icon" src="assets/icon/18fd87bf6f6fa017.svg" alt="">手当て](/ja/skill/first-aid) | 7% | 回復+7 | 3 | [<img class="wiki-icon" src="assets/icon/d1dd0a3456be4a21.svg" alt="">封印の杖](/ja/item/sealing-staff) |
+| [<img class="wiki-icon" src="assets/icon/64c601c4adaf88e2.svg" alt="">連撃](/ja/skill/combo) | 6% | 攻撃+7・精度+5 | 4 | [<img class="wiki-icon" src="assets/icon/91f538cc8d339b5b.svg" alt="">グラディウス](/ja/item/gladius) |
+| [<img class="wiki-icon" src="assets/icon/092fedf7c53622bb.svg" alt="">盤石](/ja/skill/solid-ground) | 5% | 防御+8・回復+5 | 6 | [<img class="wiki-icon" src="assets/icon/73fc95c0da10d99c.svg" alt="">ビームサーベル](/ja/item/beam-saber) |
+| [<img class="wiki-icon" src="assets/icon/526a10fb5971033c.svg" alt="">剣気](/ja/skill/sword-aura) | 5% | 攻撃+6・防御+6・精度+4 | 3 | [<img class="wiki-icon" src="assets/icon/2e60f425eca28339.svg" alt="">🔑ブレード](/ja/item/key-blade) |
+| [<img class="wiki-icon" src="assets/icon/a46ea7d680460845.svg" alt="">不撓不屈](/ja/skill/indomitable) | 4% | 防御+7・回避+3・回復+9 | 4 | [<img class="wiki-icon" src="assets/icon/6359e3756965c87e.svg" alt="">エクスカリバー](/ja/item/excalibur) |
+| [<img class="wiki-icon" src="assets/icon/6c5da84df3d8fce0.svg" alt="">捨て身](/ja/skill/reckless) | 5% | 攻撃+12・防御-7 | 3 | [<img class="wiki-icon" src="assets/icon/92d262f973bd96fe.svg" alt="">諸刃の剣](/ja/item/double-edged-sword) |
+| [<img class="wiki-icon" src="assets/icon/fb717544586539c6.svg" alt="">大振り](/ja/skill/wild-swing) | 4% | 攻撃+14・精度-9 | 4 | [<img class="wiki-icon" src="assets/icon/331c8c28a213bc53.svg" alt="">如意棒](/ja/item/ruyi-staff) |
+| [<img class="wiki-icon" src="assets/icon/2aa914fca537798a.svg" alt="">削り合い](/ja/skill/war-of-attrition) | 4% | 攻撃+10・回避-8・回復+8 | 6 | [<img class="wiki-icon" src="assets/icon/585013cc1a3555f7.svg" alt="">マスターソード](/ja/item/master-sword) |
+| [<img class="wiki-icon" src="assets/icon/77926c53727302e1.svg" alt="">血の滾り](/ja/skill/blood-boil) | 3% | 攻撃+15・防御-10・回復+10 | 2 | [<img class="wiki-icon" src="assets/icon/00a694fa6a95875b.svg" alt="">ムラマサ](/ja/item/muramasa) |
+| [<img class="wiki-icon" src="assets/icon/44472e3e0e1e652f.svg" alt="">手数](/ja/skill/many-blows) | 12% | 精度+3 | 3 | [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) |
+| [<img class="wiki-icon" src="assets/icon/af21eb96325d1902.svg" alt="">見切り](/ja/skill/perception) | 12% | 回避+4 | 6 | [<img class="wiki-icon" src="assets/icon/47ec7d4b68d417f6.svg" alt="">雪玉](/ja/item/snowball) |
+| [<img class="wiki-icon" src="assets/icon/e7ecc536bbae6449.svg" alt="">助走](/ja/skill/run-up) | 11% | 攻撃+4 | 3 | [<img class="wiki-icon" src="assets/icon/6f5d148c590b4f9f.svg" alt="">DVD](/ja/item/dvd) |
+| [<img class="wiki-icon" src="assets/icon/97cd5e7dacd21025.svg" alt="">狙い澄まし](/ja/skill/careful-aim) | 9% | 精度+6 | 3 | [<img class="wiki-icon" src="assets/icon/c80f4e26e34f8a62.svg" alt="">ロケットパンチ](/ja/item/rocket-punch) |
+| [<img class="wiki-icon" src="assets/icon/1d690111bf208639.svg" alt="">軽業](/ja/skill/acrobatics) | 8% | 回避+7 | 4 | [<img class="wiki-icon" src="assets/icon/e0b08cdaab5d2f53.svg" alt="">トマホーク](/ja/item/tomahawk) |
+| [<img class="wiki-icon" src="assets/icon/1c625f4c17663d66.svg" alt="">息継ぎ](/ja/skill/breather) | 8% | 回復+6 | 2 | [<img class="wiki-icon" src="assets/icon/1d0a76a1fdd49640.svg" alt="">愛の鞭](/ja/item/whip-of-love) |
+| [<img class="wiki-icon" src="assets/icon/cde44c49db4e3506.svg" alt="">連投](/ja/skill/rapid-throw) | 6% | 攻撃+5・精度+8 | 1 | [<img class="wiki-icon" src="assets/icon/a917ec403a65830e.svg" alt="">モンスターボール](/ja/item/monster-ball) |
+| [<img class="wiki-icon" src="assets/icon/b0cf0ac5f40111f5.svg" alt="">風読み](/ja/skill/wind-reading) | 6% | 精度+7・回避+6 | 3 | [<img class="wiki-icon" src="assets/icon/01438db31063866b.svg" alt="">投げキッス](/ja/item/blown-kiss) |
+| [<img class="wiki-icon" src="assets/icon/68e47acdab7f330c.svg" alt="">曲芸](/ja/skill/stunt) | 5% | 精度+5・回避+9・回復+3 | 4 | [<img class="wiki-icon" src="assets/icon/19258e860c7a0422.svg" alt="">時のリコーダー](/ja/item/recorder-of-time) |
+| [<img class="wiki-icon" src="assets/icon/9db724af804bd11e.svg" alt="">百発百中](/ja/skill/bullseye) | 4% | 攻撃+6・精度+10・回避+4 | 1 | [<img class="wiki-icon" src="assets/icon/a838dd3fe94052eb.svg" alt="">ロンギヌスの槍](/ja/item/spear-of-longinus) |
+| [<img class="wiki-icon" src="assets/icon/178348f87da1be37.svg" alt="">弾幕](/ja/skill/barrage) | 5% | 攻撃+11・精度-8 | 2 | [<img class="wiki-icon" src="assets/icon/c9c6b1f5798054cc.svg" alt="">ロシアンルーレット](/ja/item/russian-roulette) |
+| [<img class="wiki-icon" src="assets/icon/7cc8a3f86ac9edac.svg" alt="">全弾発射](/ja/skill/full-volley) | 4% | 攻撃+13・防御-10・精度+8 | 1 | [<img class="wiki-icon" src="assets/icon/150e4b9643c0268b.svg" alt="">スタンドの矢](/ja/item/stand-arrow) |
+| [<img class="wiki-icon" src="assets/icon/94a89c0cea67ba6b.svg" alt="">身軽](/ja/skill/light-footed) | 4% | 防御-9・回避+12 | 5 | [<img class="wiki-icon" src="assets/icon/3e0a845491a96b79.svg" alt="">バットラング](/ja/item/batarang) |
+| [<img class="wiki-icon" src="assets/icon/688c526fa9f4b239.svg" alt="">捨て駒](/ja/skill/sacrificial-pawn) | 3% | 精度+15・回復-9 | 1 | [<img class="wiki-icon" src="assets/icon/58b2a016832ea29b.svg" alt="">マグロケット](/ja/item/tuna-rocket) |
+| [<img class="wiki-icon" src="assets/icon/8bf5fb0d4d17087f.svg" alt="">導火線](/ja/skill/fuse) | 11% | 攻撃+5 | 1 | [<img class="wiki-icon" src="assets/icon/bca7ebdb757a7fc6.svg" alt="">水風船](/ja/item/water-balloon) |
+| [<img class="wiki-icon" src="assets/icon/2eebda31f109ea34.svg" alt="">破片](/ja/skill/shrapnel) | 10% | 攻撃+6 | 1 | [<img class="wiki-icon" src="assets/icon/a1d0c7130fab74d0.svg" alt="">メントス入りソーダ](/ja/item/mentos-soda) |
+| [<img class="wiki-icon" src="assets/icon/b10b3840d1c67529.svg" alt="">耐衝撃](/ja/skill/shock-resistance) | 10% | 防御+5 | 1 | [<img class="wiki-icon" src="assets/icon/2140e5ac1ad9588c.svg" alt="">蛇口のハンドル](/ja/item/faucet-handle) |
+| [<img class="wiki-icon" src="assets/icon/936b43101efe5018.svg" alt="">爆風回避](/ja/skill/blast-dodge) | 8% | 回避+7 | 0 | [<img class="wiki-icon" src="assets/icon/b9d25a99fb279860.svg" alt="">リチウムバッテリー](/ja/item/lithium-battery) |
+| [<img class="wiki-icon" src="assets/icon/eac0fcf20bae7d1f.svg" alt="">連鎖爆発](/ja/skill/chain-explosion) | 6% | 攻撃+9・精度+4 | 1 | [<img class="wiki-icon" src="assets/icon/84015b80a3fff51f.svg" alt="">ダイナマイト](/ja/item/dynamite) |
+| [<img class="wiki-icon" src="assets/icon/8522a298c65a276d.svg" alt="">誘爆](/ja/skill/induced-explosion) | 5% | 攻撃+8・回避+5 | 2 | [<img class="wiki-icon" src="assets/icon/296b167d02c3dd86.svg" alt="">時計仕掛けのリンゴ](/ja/item/clockwork-apple) |
+| [<img class="wiki-icon" src="assets/icon/be243b34812f0143.svg" alt="">制圧](/ja/skill/suppression) | 4% | 攻撃+10・防御+5・精度+3 | 1 | [<img class="wiki-icon" src="assets/icon/c2a1cf1b51b66360.svg" alt="">スターロッド](/ja/item/star-rod) |
+| [<img class="wiki-icon" src="assets/icon/f5aa70e41f2a978f.svg" alt="">導火線を短く](/ja/skill/short-fuse) | 6% | 攻撃+10・回避-6 | 0 | [<img class="wiki-icon" src="assets/icon/876ea6752604a6a2.svg" alt="">手榴弾](/ja/item/grenade) |
+| [<img class="wiki-icon" src="assets/icon/bdc72488c194c66d.svg" alt="">過剰装薬](/ja/skill/overcharge) | 5% | 攻撃+12・精度-8 | 1 | [<img class="wiki-icon" src="assets/icon/b1e5fb60e1ab8e43.svg" alt="">トロイの木馬](/ja/item/trojan-horse) |
+| [<img class="wiki-icon" src="assets/icon/6b9a0388bd36bcc7.svg" alt="">自爆覚悟](/ja/skill/self-destruct-resolve) | 5% | 攻撃+14・防御-9 | 1 | [<img class="wiki-icon" src="assets/icon/e63755c51e29d520.svg" alt="">軍用イルカ](/ja/item/military-dolphin) |
+| [<img class="wiki-icon" src="assets/icon/d98c4c8490aa35dd.svg" alt="">目潰し](/ja/skill/blinding) | 5% | 攻撃-7・精度+12 | 1 | [<img class="wiki-icon" src="assets/icon/318141aa34dd7285.svg" alt="">幽霊退治の札](/ja/item/ghost-ward) |
+| [<img class="wiki-icon" src="assets/icon/9e78475122321ff0.svg" alt="">一擲乾坤](/ja/skill/all-or-nothing) | 4% | 攻撃+15・精度-10 | 1 | [<img class="wiki-icon" src="assets/icon/8add866f74ab863e.svg" alt="">元気玉](/ja/item/spirit-bomb) |
+| [<img class="wiki-icon" src="assets/icon/a3426675d67bd1ba.svg" alt="">焦土](/ja/skill/scorched-earth) | 4% | 攻撃+13・防御+8・回復-10 | 2 | [<img class="wiki-icon" src="assets/icon/c322f19c1d62edc8.svg" alt="">核爆弾](/ja/item/nuclear-bomb) |
+| [<img class="wiki-icon" src="assets/icon/c1930f5d9b9b9a66.svg" alt="">玉砕](/ja/skill/glorious-death) | 3% | 攻撃+15・防御-10・精度+10・回避-8 | 1 | [<img class="wiki-icon" src="assets/icon/3babec7a1bb3ab59.svg" alt="">N2爆雷](/ja/item/n2-mine) |
+| [<img class="wiki-icon" src="assets/icon/d21813beac521f02.svg" alt="">硬化](/ja/skill/hardening) | 12% | 防御+3 | 5 | [<img class="wiki-icon" src="assets/icon/92705e62cce0aba8.svg" alt="">軍手](/ja/item/work-gloves) |
+| [<img class="wiki-icon" src="assets/icon/72ee7142661ce841.svg" alt="">受け身](/ja/skill/breakfall) | 12% | 回避+3 | 1 | [<img class="wiki-icon" src="assets/icon/adb331fbb5666398.svg" alt="">安全靴](/ja/item/safety-shoes) |
+| [<img class="wiki-icon" src="assets/icon/573ace9e8b8cae50.svg" alt="">厚着](/ja/skill/heavy-clothing) | 11% | 防御+4 | 2 | [<img class="wiki-icon" src="assets/icon/5ce0c0e27ec8a300.svg" alt="">学ラン](/ja/item/gakuran) |
+| [<img class="wiki-icon" src="assets/icon/e269af0e827c880a.svg" alt="">軽装](/ja/skill/light-clothing) | 11% | 回避+4 | 1 | [<img class="wiki-icon" src="assets/icon/9439912679b9993f.svg" alt="">マスク](/ja/item/mask) |
+| [<img class="wiki-icon" src="assets/icon/35851648d91656c3.svg" alt="">踏ん張り](/ja/skill/foothold) | 10% | 防御+5 | 2 | [<img class="wiki-icon" src="assets/icon/cdb0077c7d7847d1.svg" alt="">革のブーツ](/ja/item/leather-boots) |
+| [<img class="wiki-icon" src="assets/icon/cd1e44318708ae0f.svg" alt="">身をかわす](/ja/skill/sidestep) | 10% | 回避+5 | 1 | [<img class="wiki-icon" src="assets/icon/b7b4d181abf33dd4.svg" alt="">防弾チョッキ](/ja/item/bulletproof-vest) |
+| [<img class="wiki-icon" src="assets/icon/c52eb9a11ae26a6e.svg" alt="">傷薬](/ja/skill/salve) | 10% | 回復+5 | 1 | [<img class="wiki-icon" src="assets/icon/6006b6e463663102.svg" alt="">革の手袋](/ja/item/leather-gloves) |
+| [<img class="wiki-icon" src="assets/icon/319dd132d20efe18.svg" alt="">兜割り耐性](/ja/skill/helm-split-resistance) | 9% | 防御+6 | 2 | [<img class="wiki-icon" src="assets/icon/a5a1cc4a6c31a1ee.svg" alt="">鉄の兜](/ja/item/iron-helmet) |
+| [<img class="wiki-icon" src="assets/icon/68dead47d3050126.svg" alt="">すり抜け](/ja/skill/slip-through) | 8% | 回避+7 | 1 | [<img class="wiki-icon" src="assets/icon/9d893f7c8881adcd.svg" alt="">パンプキンヘッド](/ja/item/pumpkin-head) |
+| [<img class="wiki-icon" src="assets/icon/33c15442b76d44aa.svg" alt="">治癒力](/ja/skill/healing-power) | 7% | 回復+8 | 5 | [<img class="wiki-icon" src="assets/icon/e85744d6ecaf4853.svg" alt="">麻酔時計](/ja/item/anesthetic-watch) |
+| [<img class="wiki-icon" src="assets/icon/d9517812a50147d7.svg" alt="">装甲](/ja/skill/armor-plating) | 6% | 防御+8・回復+4 | 4 | [<img class="wiki-icon" src="assets/icon/fb77d9c7fa10a1ce.svg" alt="">鉄の胸当](/ja/item/iron-breastplate) |
+| [<img class="wiki-icon" src="assets/icon/3c3abf104ff30226.svg" alt="">回避機動](/ja/skill/evasive-maneuver) | 6% | 精度+4・回避+8 | 2 | [<img class="wiki-icon" src="assets/icon/82050a7f9f2e7ff6.svg" alt="">キック力増強シューズ](/ja/item/kick-boost-shoes) |
+| [<img class="wiki-icon" src="assets/icon/b0f98444a91a9a52.svg" alt="">堅牢](/ja/skill/sturdy) | 5% | 防御+9・回避+5 | 3 | [<img class="wiki-icon" src="assets/icon/f3dc5cc462bdada5.svg" alt="">立体機動ブーツ](/ja/item/odm-boots) |
+| [<img class="wiki-icon" src="assets/icon/27a7a8183f2f17f8.svg" alt="">護りの構え](/ja/skill/guard-stance) | 5% | 防御+7・回避+4・回復+7 | 2 | [<img class="wiki-icon" src="assets/icon/3d1e6025d4c76b14.svg" alt="">翡翠のかんざし](/ja/item/jade-hairpin) |
+| [<img class="wiki-icon" src="assets/icon/3ab1e4c1b0921009.svg" alt="">鉄壁](/ja/skill/iron-wall) | 4% | 防御+10・精度+3・回避+6・回復+5 | 4 | [<img class="wiki-icon" src="assets/icon/2b1e18576369c12c.svg" alt="">矛盾](/ja/item/contradiction) |
+| [<img class="wiki-icon" src="assets/icon/c917aaaa6326c40a.svg" alt="">重装甲](/ja/skill/heavy-armor) | 5% | 防御+12・回避-8 | 3 | [<img class="wiki-icon" src="assets/icon/63676804b5e2bf95.svg" alt="">プラグスーツ](/ja/item/plug-suit) |
+| [<img class="wiki-icon" src="assets/icon/56c1d495547cbebf.svg" alt="">軽量化](/ja/skill/lightening) | 5% | 防御-9・回避+13 | 1 | [<img class="wiki-icon" src="assets/icon/9e6b83f112f4bcac.svg" alt="">羽のついた靴](/ja/item/winged-shoes) |
+| [<img class="wiki-icon" src="assets/icon/f3153957a33fa2ff.svg" alt="">捨て身の守り](/ja/skill/desperate-defence) | 4% | 攻撃-9・防御+14 | 2 | [<img class="wiki-icon" src="assets/icon/3292882519d9db0b.svg" alt="">箱ガンダム](/ja/item/box-gundam) |
+| [<img class="wiki-icon" src="assets/icon/c8fa1bc61efa88ab.svg" alt="">棘の鎧](/ja/skill/thorn-armor) | 4% | 攻撃+10・防御+8・回復-8 | 4 | [<img class="wiki-icon" src="assets/icon/bd717c714d3098a7.svg" alt="">無限の手袋](/ja/item/infinity-gauntlet) |
+| [<img class="wiki-icon" src="assets/icon/c79d631fd866d1d1.svg" alt="">不死身](/ja/skill/immortal) | 3% | 防御+10・精度-10・回復+15 | 2 | [<img class="wiki-icon" src="assets/icon/51b4ab74cb0a9e72.svg" alt="">クリスタルスカル](/ja/item/crystal-skull) |
+| [<img class="wiki-icon" src="assets/icon/5ae75d891552a1d4.svg" alt="">お守り](/ja/skill/charm) | 12% | 防御+3 | 3 | [<img class="wiki-icon" src="assets/icon/9bb0ac6e7bc5e941.svg" alt="">六芒星のお守り](/ja/item/hexagram-charm) |
+| [<img class="wiki-icon" src="assets/icon/0f45e5a8a7b1bb5c.svg" alt="">幸運](/ja/skill/luck) | 12% | 精度+4 | 1 | [<img class="wiki-icon" src="assets/icon/5c0ddadfb207a03c.svg" alt="">99葉のクローバー](/ja/item/ninety-nine-leaf-clover) |
+| [<img class="wiki-icon" src="assets/icon/5eb28ad72ed965e5.svg" alt="">加護](/ja/skill/divine-protection) | 11% | 回復+4 | 3 | [<img class="wiki-icon" src="assets/icon/db647daaa6ffafe3.svg" alt="">ドラゴンの指輪](/ja/item/dragon-ring) |
+| [<img class="wiki-icon" src="assets/icon/7406f82be5ec43d3.svg" alt="">気品](/ja/skill/grace) | 10% | 回避+5 | 2 | [<img class="wiki-icon" src="assets/icon/7088dcc36a3c9179.svg" alt="">勲章](/ja/item/medal) |
+| [<img class="wiki-icon" src="assets/icon/b37f7307eb97a29c.svg" alt="">威圧](/ja/skill/intimidation) | 10% | 攻撃+5 | 4 | [<img class="wiki-icon" src="assets/icon/1edd9c423bacf047.svg" alt="">力の指輪](/ja/item/ring-of-power) |
+| [<img class="wiki-icon" src="assets/icon/100f5a738f0a4b87.svg" alt="">祝福](/ja/skill/blessing) | 8% | 回復+7 | 2 | [<img class="wiki-icon" src="assets/icon/f8e9aa004b3b3c4e.svg" alt="">賢者の石](/ja/item/philosophers-stone) |
+| [<img class="wiki-icon" src="assets/icon/b248104664270e2d.svg" alt="">華麗](/ja/skill/brilliance) | 6% | 精度+5・回避+7 | 1 | [<img class="wiki-icon" src="assets/icon/c577e7c14198d595.svg" alt="">闇のペンダント](/ja/item/dark-pendant) |
+| [<img class="wiki-icon" src="assets/icon/410a83f70809ca10.svg" alt="">気迫](/ja/skill/fighting-spirit) | 6% | 攻撃+7・防御+5 | 3 | [<img class="wiki-icon" src="assets/icon/3e6cef4c2105b9d2.svg" alt="">ジムバッジ](/ja/item/gym-badge) |
+| [<img class="wiki-icon" src="assets/icon/cbd28659b3924ffe.svg" alt="">洗練](/ja/skill/refinement) | 5% | 精度+8・回避+5・回復+3 | 1 | [<img class="wiki-icon" src="assets/icon/deb9bea6748c9a50.svg" alt="">認証バッジ](/ja/item/verified-badge) |
+| [<img class="wiki-icon" src="assets/icon/1f34ffbe96d4756f.svg" alt="">星の導き](/ja/skill/star-guidance) | 5% | 攻撃+6・精度+7・回復+4 | 2 | [<img class="wiki-icon" src="assets/icon/bdb4ec7a42ce04d5.svg" alt="">黄金の回転](/ja/item/golden-spin) |
+| [<img class="wiki-icon" src="assets/icon/98964f82f522f4c2.svg" alt="">円環の理](/ja/skill/eternal-circle) | 4% | 防御+8・回避+4・回復+7 | 1 | [<img class="wiki-icon" src="assets/icon/56d8e0e4b6f4e0da.svg" alt="">ATフィールド](/ja/item/at-field) |
+| [<img class="wiki-icon" src="assets/icon/65a2b02df837b7ee.svg" alt="">万能](/ja/skill/all-round) | 3% | 攻撃+6・防御+6・精度+6・回避+6・回復+6 | 1 | [<img class="wiki-icon" src="assets/icon/44caa25ecd4b33aa.svg" alt="">時を止める砂時計](/ja/item/time-stopping-hourglass) |
+| [<img class="wiki-icon" src="assets/icon/5f1675d49e0d0355.svg" alt="">見栄](/ja/skill/vanity) | 6% | 攻撃+11・防御-7 | 2 | [<img class="wiki-icon" src="assets/icon/a6e200b891427258.svg" alt="">スマートリング](/ja/item/smart-ring) |
+| [<img class="wiki-icon" src="assets/icon/c9bd900be1ad9c06.svg" alt="">呪いの指輪](/ja/skill/cursed-ring) | 5% | 攻撃+13・回復-9 | 2 | [<img class="wiki-icon" src="assets/icon/70d4fce7ae348de1.svg" alt="">取れない指輪](/ja/item/stuck-ring) |
+| [<img class="wiki-icon" src="assets/icon/e47064f085ba60af.svg" alt="">虚飾](/ja/skill/ostentation) | 5% | 精度-8・回避+12 | 2 | [<img class="wiki-icon" src="assets/icon/ac75e735ace50710.svg" alt="">変装ブローチ](/ja/item/disguise-brooch) |
+| [<img class="wiki-icon" src="assets/icon/bf247ad234ae0a81.svg" alt="">血の契約](/ja/skill/blood-pact) | 4% | 攻撃+14・精度+9・回復-10 | 2 | [<img class="wiki-icon" src="assets/icon/7eb5038393af1927.svg" alt="">一つの指輪](/ja/item/one-ring) |
+| [<img class="wiki-icon" src="assets/icon/808113e416028f4c.svg" alt="">生贄](/ja/skill/sacrifice) | 4% | 攻撃-10・回復+15 | 2 | [<img class="wiki-icon" src="assets/icon/105bde7a3679d087.svg" alt="">獣の薔薧](/ja/item/beast-rose) |
+| [<img class="wiki-icon" src="assets/icon/8546a2f67c718930.svg" alt="">禁忌の宝玉](/ja/skill/forbidden-orb) | 3% | 攻撃+15・防御+12・精度-9・回避-10 | 3 | [<img class="wiki-icon" src="assets/icon/deccc98f2928c80e.svg" alt="">S2機関](/ja/item/s2-engine) |
+| [<img class="wiki-icon" src="assets/icon/76be3129c17ef12a.svg" alt="">気付け薬](/ja/skill/smelling-salts) | 20% | 回復+8 | 0 | [<img class="wiki-icon" src="assets/icon/2796f130e39f252a.svg" alt="">キズ薬](/ja/item/wound-medicine) |
+| [<img class="wiki-icon" src="assets/icon/8ddd0d7863c968cd.svg" alt="">興奮剤](/ja/skill/stimulant) | 18% | 攻撃+8 | 0 | [<img class="wiki-icon" src="assets/icon/214b7e32c793a361.svg" alt="">鎮痛剤](/ja/item/painkiller) |
+| [<img class="wiki-icon" src="assets/icon/5c4dc9796113baa5.svg" alt="">応急処置](/ja/skill/emergency-care) | 18% | 防御+6・回復+9 | 0 | [<img class="wiki-icon" src="assets/icon/69190e58d7835f31.svg" alt="">絆創膏](/ja/item/bandage) |
+| [<img class="wiki-icon" src="assets/icon/9252f9a1b9601193.svg" alt="">強化薬](/ja/skill/enhance-drug) | 16% | 攻撃+9・精度+6 | 0 | [<img class="wiki-icon" src="assets/icon/ab6af308b96381d7.svg" alt="">滋養強壮剤](/ja/item/tonic) |
+| [<img class="wiki-icon" src="assets/icon/e753294e46ecc817.svg" alt="">硬化薬](/ja/skill/harden-drug) | 15% | 防御+10・回復+6 | 0 | [<img class="wiki-icon" src="assets/icon/75d124e9d37102be.svg" alt="">保冷剤](/ja/item/cold-pack) |
+| [<img class="wiki-icon" src="assets/icon/2c28b18a3d4b2cc6.svg" alt="">俊敏の薬](/ja/skill/agility-drug) | 14% | 精度+7・回避+10 | 0 | [<img class="wiki-icon" src="assets/icon/2021ac1dfe331d7c.svg" alt="">眠気覚まし](/ja/item/anti-drowsiness) |
+| [<img class="wiki-icon" src="assets/icon/fea324a9750b80c9.svg" alt="">秘薬](/ja/skill/secret-drug) | 12% | 防御+8・精度+4・回避+6・回復+10 | 0 | [<img class="wiki-icon" src="assets/icon/4156e82a5f7cdd3f.svg" alt="">エリクサー](/ja/item/elixir) |
+| [<img class="wiki-icon" src="assets/icon/b6a0b32a64417481.svg" alt="">調和の薬](/ja/skill/harmony-drug) | 10% | 攻撃+7・防御+7・精度+7・回避+7・回復+7 | 0 | [<img class="wiki-icon" src="assets/icon/67f30828b622a31f.svg" alt="">万能薬](/ja/item/panacea) |
+| [<img class="wiki-icon" src="assets/icon/1255de93bdc4c106.svg" alt="">劇薬](/ja/skill/potent-drug) | 12% | 攻撃+15・防御-10・精度+10 | 0 | [<img class="wiki-icon" src="assets/icon/321dc2a4f2dac680.svg" alt="">阿片](/ja/item/opium) |
+| [<img class="wiki-icon" src="assets/icon/718af06812fe8fd7.svg" alt="">禁断の霊薬](/ja/skill/forbidden-elixir) | 10% | 攻撃+15・防御-10・回避-10・回復+15 | 0 | [<img class="wiki-icon" src="assets/icon/d99e647cce95a969.svg" alt="">フェリックスフェリシス](/ja/item/felix-felicis) |

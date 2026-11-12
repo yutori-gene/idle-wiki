@@ -1,10 +1,10 @@
 # フェニックスの羽
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">フェニックスの羽</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐦‍🔥</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>567 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">フェニックスの羽</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/ae75eed1f905cd29.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>567 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 燃えても再生する不死の羽。
 
-?> **進行素材**。[<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) のレベルとあわせて、次のダンジョン [<span class="wiki-icon">🏰</span>城](/ja/category/castle) を開く条件になる。繰り返し手に入るので、売ってしまっても取り直せる。物置がいっぱいのときに売らないよう注意。エピローグ（[<span class="wiki-icon">📖</span>エピローグ](/ja/event/epilogue)）では10種すべてが条件になる。
+?> **進行素材**。[<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) のレベルとあわせて、次のダンジョン [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) を開く条件になる。繰り返し手に入るので、売ってしまっても取り直せる。物置がいっぱいのときに売らないよう注意。エピローグ（[<img class="wiki-icon" src="assets/icon/877c82c4015cfc92.svg" alt="">エピローグ](/ja/event/epilogue)）では10種すべてが条件になる。
 
 
 ## 入手方法
@@ -13,7 +13,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌋</span>火口の底](/ja/action/crater-floor) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv12 | 1 | 100% | 1 | 0.286 |
+| [<img class="wiki-icon" src="assets/icon/5b0361a69d51d567.svg" alt="">火口の底](/ja/action/crater-floor) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv12 | 1 | 100% | 1 | 0.286 |
 
 ## 用途
 
@@ -21,10 +21,10 @@
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | カテゴリの解放条件 | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの羽](/ja/item/phoenix-feather) ×1 |
-| [<span class="wiki-icon">⛩️</span>火山の祠](/ja/event/volcano-shrine) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの羽](/ja/item/phoenix-feather) ×1 |
-| [<span class="wiki-icon">🏰</span>城門突破](/ja/event/breach-castle-gate) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの羽](/ja/item/phoenix-feather) ×1 |
-| [<span class="wiki-icon">📖</span>エピローグ](/ja/event/epilogue) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🐦‍🔥</span>フェニックスの羽](/ja/item/phoenix-feather) ×1 |
+| [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | カテゴリの解放条件 | [<img class="wiki-icon" src="assets/icon/ae75eed1f905cd29.svg" alt="">フェニックスの羽](/ja/item/phoenix-feather) ×1 |
+| [<img class="wiki-icon" src="assets/icon/cf46a3d7261d1d61.svg" alt="">火山の祠](/ja/event/volcano-shrine) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/ae75eed1f905cd29.svg" alt="">フェニックスの羽](/ja/item/phoenix-feather) ×1 |
+| [<img class="wiki-icon" src="assets/icon/bdc51ab2388a5931.svg" alt="">城門突破](/ja/event/breach-castle-gate) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/ae75eed1f905cd29.svg" alt="">フェニックスの羽](/ja/item/phoenix-feather) ×1 |
+| [<img class="wiki-icon" src="assets/icon/877c82c4015cfc92.svg" alt="">エピローグ](/ja/event/epilogue) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/ae75eed1f905cd29.svg" alt="">フェニックスの羽](/ja/item/phoenix-feather) ×1 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -59,7 +59,7 @@
 		"icon": {
 			"emoji": "🐦‍🔥",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/ae75eed1f905cd29.svg）"
 		},
 		"color": ""
 	},

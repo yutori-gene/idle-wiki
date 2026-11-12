@@ -1,6 +1,6 @@
 # 虚飾
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">虚飾</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💄</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>精度-8・回避+12</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">虚飾</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e47064f085ba60af.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>精度-8・回避+12</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 飾りは目を引く。自分の目も。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>火山竜](/ja/action/volcano-dragon) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 |
-| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 |
+| [<img class="wiki-icon" src="assets/icon/b6232dc1b5865e01.svg" alt="">火山竜](/ja/action/volcano-dragon) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv26 |
+| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv1 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🥸</span>変装ブローチ](/ja/item/disguise-brooch) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/ac75e735ace50710.svg" alt="">変装ブローチ](/ja/item/disguise-brooch) | [<img class="wiki-icon" src="assets/icon/90105f31f000c615.svg" alt="">ブローチ](/ja/group/brooch) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "💄",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/e47064f085ba60af.svg）"
 		},
 		"color": ""
 	},

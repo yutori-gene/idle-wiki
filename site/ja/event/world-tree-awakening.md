@@ -1,17 +1,17 @@
 # 世界樹の目覚め
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">世界樹の目覚め</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌳</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">世界樹の目覚め</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/3aea983beb237a5f.svg" alt=""></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 
 ## 発生条件
 
 数量が変化したとき、**その1回で増えた量**が次の値以上なら発動する（何度でも繰り返す）。画面には表示されない。
 
-- [<span class="wiki-icon">🌳</span>世界樹の実](/ja/item/world-tree-fruit) ×1
+- [<img class="wiki-icon" src="assets/icon/bc496c7c1cf23134.svg" alt="">世界樹の実](/ja/item/world-tree-fruit) ×1
 
 ## 報酬
 
-- [<span class="wiki-icon">🏛️</span>神殿の柱石](/ja/item/temple-pillar-stone) ×1
+- [<img class="wiki-icon" src="assets/icon/f7152151d05f0bdc.svg" alt="">神殿の柱石](/ja/item/temple-pillar-stone) ×1
 
 ## 開発者向け情報
 
@@ -38,7 +38,7 @@
 		"icon": {
 			"emoji": "🌳",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/3aea983beb237a5f.svg）"
 		},
 		"color": ""
 	},

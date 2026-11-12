@@ -1,6 +1,6 @@
 # 鬼血
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">鬼血</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🩸</span></div><table><tr><th>発動率</th><td>3%／ターン</td></tr><tr><th>効果</th><td>攻撃+15・回避-10・回復+8</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">鬼血</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e38385339052a6b5.svg" alt=""></div><table><tr><th>発動率</th><td>3%／ターン</td></tr><tr><th>効果</th><td>攻撃+15・回避-10・回復+8</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 力は血から湧く。血は身体から減る。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🎩</span>漂流者](/ja/action/castaway) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 |
-| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
+| [<img class="wiki-icon" src="assets/icon/50a2af91aef10938.svg" alt="">漂流者](/ja/action/castaway) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv45 |
+| [<img class="wiki-icon" src="assets/icon/b8dfc337e8669e69.svg" alt="">ネクロマンサー](/ja/action/necromancer) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv20 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">😈</span>悪魔信仰](/ja/item/devil-worship) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<img class="wiki-icon" src="assets/icon/28e21aebbaaf7a0a.svg" alt="">悪魔信仰](/ja/item/devil-worship) | [<img class="wiki-icon" src="assets/icon/7c7dbb617148ad3b.svg" alt="">能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🩸",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/e38385339052a6b5.svg）"
 		},
 		"color": ""
 	},

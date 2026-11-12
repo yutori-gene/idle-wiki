@@ -1,6 +1,6 @@
 # 輪廻の歯車
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">輪廻の歯車</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚙️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>65,610 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">輪廻の歯車</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/5b6ac85c24033810.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>65,610 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 生死を巡る運命の装置。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚫</span>シスの箱](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv41 | 2 | 13.9% | 0.236 | 0.158 |
-| [<span class="wiki-icon">📦</span>パンドラの箱](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv50 | 1 | 15% | 0.15 | 0.025 |
+| [<img class="wiki-icon" src="assets/icon/c532f87d79b4a4c9.svg" alt="">シスの箱](/ja/action/open-sith-box) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv41 | 2 | 13.9% | 0.236 | 0.158 |
+| [<img class="wiki-icon" src="assets/icon/6b2141ac9d8cc925.svg" alt="">パンドラの箱](/ja/action/open-pandoras-box) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv50 | 1 | 15% | 0.15 | 0.025 |
 
 ## 用途
 
@@ -20,8 +20,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍎</span>時計仕掛けのリンゴ](/ja/action/craft-clockwork-apple) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv43 | 1 | 100% |  |
-| [<span class="wiki-icon">🧩</span>千年パズル](/ja/action/assemble-millennium-puzzle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv50 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/570c925b1b7c7fa2.svg" alt="">時計仕掛けのリンゴ](/ja/action/craft-clockwork-apple) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv43 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/be74a6e697bd7212.svg" alt="">千年パズル](/ja/action/assemble-millennium-puzzle) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv50 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -56,7 +56,7 @@
 		"icon": {
 			"emoji": "⚙️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/5b6ac85c24033810.svg）"
 		},
 		"color": ""
 	},

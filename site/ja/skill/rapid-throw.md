@@ -1,6 +1,6 @@
 # 連投
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">連投</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔁</span></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>攻撃+5・精度+8</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">連投</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/cde44c49db4e3506.svg" alt=""></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>攻撃+5・精度+8</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 腕が覚えている軌道は、目より速い。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>ファイアドレイク](/ja/action/fire-drake) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 |
+| [<img class="wiki-icon" src="assets/icon/c52037117c465fd7.svg" alt="">ファイアドレイク](/ja/action/fire-drake) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv32 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔴</span>モンスターボール](/ja/item/monster-ball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/a917ec403a65830e.svg" alt="">モンスターボール](/ja/item/monster-ball) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🔁",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/cde44c49db4e3506.svg）"
 		},
 		"color": ""
 	},

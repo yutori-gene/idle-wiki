@@ -1,10 +1,10 @@
 # 金色の石板
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">金色の石板</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📜</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>270 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">金色の石板</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/2255981f3dd32a49.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>270 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 神の言葉が刻まれている。
 
-?> **最後の進行素材**。[<span class="wiki-icon">⚔️</span>最終決戦](/ja/event/final-battle)・[<span class="wiki-icon">🌍</span>世界の変化](/ja/event/world-change)・[<span class="wiki-icon">📖</span>エピローグ](/ja/event/epilogue) の条件になる。
+?> **最後の進行素材**。[<img class="wiki-icon" src="assets/icon/e313ea56c6553b88.svg" alt="">最終決戦](/ja/event/final-battle)・[<img class="wiki-icon" src="assets/icon/524f5d6abff0cb2a.svg" alt="">世界の変化](/ja/event/world-change)・[<img class="wiki-icon" src="assets/icon/877c82c4015cfc92.svg" alt="">エピローグ](/ja/event/epilogue) の条件になる。
 
 
 ## 入手方法
@@ -13,7 +13,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.333% | 0.002 | 0 |
+| [<img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.333% | 0.002 | 0 |
 
 ## 用途
 
@@ -21,11 +21,11 @@
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">⚔️</span>最終決戦](/ja/event/final-battle) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">📜</span>金色の石板](/ja/item/golden-tablet) ×1 |
-| [<span class="wiki-icon">🌍</span>世界の変化](/ja/event/world-change) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">📜</span>金色の石板](/ja/item/golden-tablet) ×1 |
-| [<span class="wiki-icon">📖</span>エピローグ](/ja/event/epilogue) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">📜</span>金色の石板](/ja/item/golden-tablet) ×1 |
+| [<img class="wiki-icon" src="assets/icon/e313ea56c6553b88.svg" alt="">最終決戦](/ja/event/final-battle) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/2255981f3dd32a49.svg" alt="">金色の石板](/ja/item/golden-tablet) ×1 |
+| [<img class="wiki-icon" src="assets/icon/524f5d6abff0cb2a.svg" alt="">世界の変化](/ja/event/world-change) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/2255981f3dd32a49.svg" alt="">金色の石板](/ja/item/golden-tablet) ×1 |
+| [<img class="wiki-icon" src="assets/icon/877c82c4015cfc92.svg" alt="">エピローグ](/ja/event/epilogue) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/2255981f3dd32a49.svg" alt="">金色の石板](/ja/item/golden-tablet) ×1 |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -58,7 +58,7 @@
 		"icon": {
 			"emoji": "📜",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/2255981f3dd32a49.svg）"
 		},
 		"color": ""
 	},

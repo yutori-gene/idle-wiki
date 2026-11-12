@@ -1,6 +1,6 @@
 # 剣気
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">剣気</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚔️</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>攻撃+6・防御+6・精度+4</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">剣気</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/526a10fb5971033c.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>攻撃+6・防御+6・精度+4</td></tr><tr><th>持つ敵</th><td>3体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 刃より先に、殺気が届く。
 
@@ -17,15 +17,15 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🤠</span>賞金稼ぎ](/ja/action/bounty-hunter) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 |
-| [<img class="wiki-icon" src="assets/icon/5d2bd39c66257c15.svg" alt="">海賊](/ja/action/pirate) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 |
-| [<span class="wiki-icon">🎖️</span>大佐](/ja/action/colonel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/e946f5cd0103012b.svg" alt="">賞金稼ぎ](/ja/action/bounty-hunter) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv46 |
+| [<img class="wiki-icon" src="assets/icon/5d2bd39c66257c15.svg" alt="">海賊](/ja/action/pirate) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv1 |
+| [<img class="wiki-icon" src="assets/icon/c1042b00a01b59d1.svg" alt="">大佐](/ja/action/colonel) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv28 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🗝️</span>🔑ブレード](/ja/item/key-blade) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/2e60f425eca28339.svg" alt="">🔑ブレード](/ja/item/key-blade) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -48,7 +48,7 @@
 		"icon": {
 			"emoji": "⚔️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/526a10fb5971033c.svg）"
 		},
 		"color": ""
 	},

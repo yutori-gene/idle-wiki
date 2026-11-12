@@ -1,6 +1,6 @@
 # 大麻
 
-<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">大麻</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌿</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/herb"><span class="wiki-icon">🌿</span>薬草</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>18 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">大麻</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/d170080c7cf36f0b.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/greenhouse"><img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/herb"><img class="wiki-icon" src="assets/icon/5ee26ae375c27672.svg" alt="">薬草</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>18 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ポーションの原料。芳香剤としてもセレブの間で人気。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌿</span>大麻](/ja/action/grow-hemp) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv32 | 44 | 100% | 39.6 | 4 |
+| [<img class="wiki-icon" src="assets/icon/587b3d9d040eb4e2.svg" alt="">大麻](/ja/action/grow-hemp) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | Lv32 | 44 | 100% | 39.6 | 4 |
 
 ## 用途
 
@@ -19,10 +19,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>阿片](/ja/action/brew-opium) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv9 | 1 | 100% |  |
-| [<span class="wiki-icon">💊</span>滋養強壮剤](/ja/action/brew-tonic) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv28 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/5bb2ff3535a97a41.svg" alt="">阿片](/ja/action/brew-opium) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv9 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/44f047bc711646f2.svg" alt="">滋養強壮剤](/ja/action/brew-tonic) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv28 | 3 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 薬草</div><div class="wiki-navbox-body"><a href="#/ja/item/hemp"><span class="wiki-icon">🌿</span>大麻</a> ・ <a href="#/ja/item/herb"><span class="wiki-icon">🌿</span>薬草</a> ・ <a href="#/ja/item/chili"><span class="wiki-icon">🌶️</span>とうがらし</a> ・ <a href="#/ja/item/poison-herb"><span class="wiki-icon">☠️</span>毒草</a> ・ <a href="#/ja/item/aromatic-herb"><span class="wiki-icon">🌿</span>香草</a> ・ <a href="#/ja/item/world-tree-leaf"><span class="wiki-icon">🍃</span>世界樹の葉</a></div></div>
+<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 薬草</div><div class="wiki-navbox-body"><a href="#/ja/item/hemp"><img class="wiki-icon" src="assets/icon/d170080c7cf36f0b.svg" alt="">大麻</a> ・ <a href="#/ja/item/herb"><img class="wiki-icon" src="assets/icon/e755ac0db8874321.svg" alt="">薬草</a> ・ <a href="#/ja/item/chili"><img class="wiki-icon" src="assets/icon/3091f067d2e95db7.svg" alt="">とうがらし</a> ・ <a href="#/ja/item/poison-herb"><img class="wiki-icon" src="assets/icon/b8be92acdd3abd67.svg" alt="">毒草</a> ・ <a href="#/ja/item/aromatic-herb"><img class="wiki-icon" src="assets/icon/53c7ad769ec28ebe.svg" alt="">香草</a> ・ <a href="#/ja/item/world-tree-leaf"><img class="wiki-icon" src="assets/icon/ea1c03441f5696c2.svg" alt="">世界樹の葉</a></div></div>
 
 ## 開発者向け情報
 
@@ -55,7 +55,7 @@
 		"icon": {
 			"emoji": "🌿",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/d170080c7cf36f0b.svg）"
 		},
 		"color": ""
 	},

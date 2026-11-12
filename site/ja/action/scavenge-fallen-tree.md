@@ -1,6 +1,6 @@
 # 倒木あさり
 
-<div class="wiki-infobox" style="--accent:#426251"><div class="wiki-infobox-title">倒木あさり</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪵</span></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv3</td></tr><tr><th>所要時間</th><td>20秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>12</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#426251"><div class="wiki-infobox-title">倒木あさり</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f6b774fbdf6117d2.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv3</td></tr><tr><th>所要時間</th><td>20秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>12</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 朽ちた木にはお宝が潜む。
 
@@ -9,21 +9,21 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv3以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) Lv3以上（所属カテゴリのレベル）
 
 ## 取得物
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🟫</span>革](/ja/item/leather) ×7 | 成功時 | 91% | 3.2 | 573 |
-| [<span class="wiki-icon">🥀</span>枯れ枝](/ja/item/dead-branch) ×7 | 成功時 | 91% | 3.2 | 573 |
-| [<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) ×5 | 成功時 | 56% | 1.4 | 252 |
-| [<span class="wiki-icon">🪨</span>岩](/ja/item/rock) ×5 | 成功時 | 56% | 1.4 | 252 |
-| [<span class="wiki-icon">🌿</span>シダ](/ja/item/fern) ×5 | 成功時 | 56% | 1.4 | 252 |
-| [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×5 | 成功時 | 67.2% | 1.7 | 302 |
-| [<span class="wiki-icon">🪓</span>斧](/ja/item/axe) ×1 | 成功時 | 6% | 0.03 | 5.4 |
-| [<span class="wiki-icon">🪨</span>森の精霊石](/ja/item/forest-spirit-stone) ×1 | 成功時 | 100% | 0.5 | 90 |
-| [<span class="wiki-icon">🎯</span>ダーツ](/ja/item/dart) ×1 | 成功時 | 22.2% | 0.111 | 20 |
+| [<img class="wiki-icon" src="assets/icon/27711bbe59e3dadd.svg" alt="">革](/ja/item/leather) ×7 | 成功時 | 91% | 3.2 | 573 |
+| [<img class="wiki-icon" src="assets/icon/1b278ad03cb35a64.svg" alt="">枯れ枝](/ja/item/dead-branch) ×7 | 成功時 | 91% | 3.2 | 573 |
+| [<img class="wiki-icon" src="assets/icon/c188baa033147b65.svg" alt="">腐葉土](/ja/item/leaf-mold) ×5 | 成功時 | 56% | 1.4 | 252 |
+| [<img class="wiki-icon" src="assets/icon/02b0cbd538b27e93.svg" alt="">岩](/ja/item/rock) ×5 | 成功時 | 56% | 1.4 | 252 |
+| [<img class="wiki-icon" src="assets/icon/aeb422b5770e850b.svg" alt="">シダ](/ja/item/fern) ×5 | 成功時 | 56% | 1.4 | 252 |
+| [<img class="wiki-icon" src="assets/icon/2364d7fb0796e1b8.svg" alt="">羽根](/ja/item/feather) ×5 | 成功時 | 67.2% | 1.7 | 302 |
+| [<img class="wiki-icon" src="assets/icon/12a4f1610195e9e3.svg" alt="">斧](/ja/item/axe) ×1 | 成功時 | 6% | 0.03 | 5.4 |
+| [<img class="wiki-icon" src="assets/icon/27332c1b1aefc710.svg" alt="">森の精霊石](/ja/item/forest-spirit-stone) ×1 | 成功時 | 100% | 0.5 | 90 |
+| [<img class="wiki-icon" src="assets/icon/6900a5b22ba2e279.svg" alt="">ダーツ](/ja/item/dart) ×1 | 成功時 | 22.2% | 0.111 | 20 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -32,11 +32,11 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv3） | 20秒 | 50% | 12 | 180 | 877 |
-| +10（Lv13） | 16.3秒 | 60% | 8 | 220.5 | 302 |
-| +20（Lv23） | 13.3秒 | 69.2% | 5.33 | 270 | 100 |
-| +30（Lv33） | 10.9秒 | 77.1% | 3.56 | 330.7 | 32 |
+| +10（Lv13） | 16.3秒 | 60% | 6.53 | 220.5 | 247 |
+| +20（Lv23） | 13.3秒 | 69.2% | 3.56 | 270 | 67 |
+| +30（Lv33） | 10.9秒 | 77.1% | 1.94 | 330.7 | 18 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -46,7 +46,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><span class="wiki-icon">🌰</span>木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><span class="wiki-icon">🪵</span>倒木あさり</a> ・ <a href="#/ja/action/rabbit-girl"><span class="wiki-icon">🐰</span>ラビットガール</a> ・ <a href="#/ja/action/snake"><span class="wiki-icon">🐍</span>ヘビ</a> ・ <a href="#/ja/action/walking-mushroom"><span class="wiki-icon">🍄</span>歩くキノコ</a> ・ <a href="#/ja/action/man-eating-plant"><span class="wiki-icon">🌱</span>食人植物</a> ・ <a href="#/ja/action/cockatrice"><span class="wiki-icon">🐔</span>コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/druid"><span class="wiki-icon">🧙</span>ドルイド</a> ・ <a href="#/ja/action/bear"><span class="wiki-icon">🐻</span>クマ</a> ・ <a href="#/ja/action/orc"><span class="wiki-icon">👹</span>オーク</a> ・ <a href="#/ja/action/flying-elephant"><span class="wiki-icon">🐘</span>空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><span class="wiki-icon">🐎</span>ケンタウロス</a> ・ <a href="#/ja/action/wolf"><span class="wiki-icon">🐺</span>ウルフ</a> ・ <a href="#/ja/action/hydra"><span class="wiki-icon">🐉</span>ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><span class="wiki-icon">⛩️</span>古い祠の調査</a></div></div>
+<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><img class="wiki-icon" src="assets/icon/2081317ebebd178d.svg" alt="">木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><img class="wiki-icon" src="assets/icon/f6b774fbdf6117d2.svg" alt="">倒木あさり</a> ・ <a href="#/ja/action/rabbit-girl"><img class="wiki-icon" src="assets/icon/ca6d048476ae39f9.svg" alt="">ラビットガール</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/walking-mushroom"><img class="wiki-icon" src="assets/icon/5b9eec78a0de50a1.svg" alt="">歩くキノコ</a> ・ <a href="#/ja/action/snake"><img class="wiki-icon" src="assets/icon/4a396b8649ead6c1.svg" alt="">ヘビ</a> ・ <a href="#/ja/action/man-eating-plant"><img class="wiki-icon" src="assets/icon/201d7af6f34effd1.svg" alt="">食人植物</a> ・ <a href="#/ja/action/cockatrice"><img class="wiki-icon" src="assets/icon/ea5fece55cd26243.svg" alt="">コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/flying-elephant"><img class="wiki-icon" src="assets/icon/e3daf5030f26dcd0.svg" alt="">空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><img class="wiki-icon" src="assets/icon/43113159f0664f4b.svg" alt="">ケンタウロス</a> ・ <a href="#/ja/action/druid"><img class="wiki-icon" src="assets/icon/f31490361b7ac246.svg" alt="">ドルイド</a> ・ <a href="#/ja/action/bear"><img class="wiki-icon" src="assets/icon/f3cda161292208a6.svg" alt="">クマ</a> ・ <a href="#/ja/action/wolf"><img class="wiki-icon" src="assets/icon/15c5deccdd555c48.svg" alt="">ウルフ</a> ・ <a href="#/ja/action/orc"><img class="wiki-icon" src="assets/icon/caf79c699a6ed796.svg" alt="">オーク</a> ・ <a href="#/ja/action/hydra"><img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><img class="wiki-icon" src="assets/icon/2674008c6dd247bc.svg" alt="">古い祠の調査</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,10 +54,11 @@
 | --- | --- |
 | id | `scavenge-fallen-tree` |
 | `category` | `forest` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `gather` |
 | `unlocked` | `hidden` |
 | `level` | `3` |
+| `disciplineLevel` | `0` |
 | `experience` | `12` |
 | `seconds` | `20` |
 | `chance` | `0.5` |
@@ -78,15 +79,16 @@
 		"icon": {
 			"emoji": "🪵",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/f6b774fbdf6117d2.svg）"
 		},
 		"color": ""
 	},
 	"category": "forest",
-	"attribute": "",
+	"discipline": "",
 	"group": "gather",
 	"unlocked": "hidden",
 	"level": 3,
+	"disciplineLevel": 0,
 	"experience": 12,
 	"seconds": 20,
 	"chance": 0.5,

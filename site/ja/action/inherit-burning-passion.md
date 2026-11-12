@@ -1,6 +1,6 @@
 # 熱い想い
 
-<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">熱い想い</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/creation"><span class="wiki-icon">🎨</span>制作</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>7時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">熱い想い</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b1fbaa1c62ddb5df.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/bedroom"><img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/creation"><img class="wiki-icon" src="assets/icon/313a9258024029f6.svg" alt="">制作</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>7時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 溶岩の心臓を絶やさずに運ぶ。冷ませば、ただの石になる。
 
@@ -9,9 +9,10 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">❤️‍🔥</span>溶岩の心臓](/ja/item/lava-heart) ×2（消費する）
-- [<span class="wiki-icon">🌋</span>マグマコア](/ja/item/magma-core) ×3（消費する）
-- [<span class="wiki-icon">🌺</span>炎の花](/ja/item/flame-flower) ×5（消費する）
+- [<img class="wiki-icon" src="assets/icon/f3b74a6b97b3e040.svg" alt="">溶岩の心臓](/ja/item/lava-heart) ×2（消費する）
+- [<img class="wiki-icon" src="assets/icon/cd1ee1b0e7bdadc1.svg" alt="">マグマコア](/ja/item/magma-core) ×3（消費する）
+- [<img class="wiki-icon" src="assets/icon/b18e32a62b7288e1.svg" alt="">炎の花](/ja/item/flame-flower) ×5（消費する）
+- [<span class="wiki-icon">🏅</span>工場の証](/ja/item/factory-proof) ×1（消費しない）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -19,7 +20,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) ×1 | 成功時 | 100% | 1 | 0.143 |
+| [<img class="wiki-icon" src="assets/icon/3ac8fca292fd46a6.svg" alt="">熱い想い](/ja/item/burning-passion) ×1 | 成功時 | 100% | 1 | 0.143 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -29,7 +30,7 @@
 | --- | --- | --- | --- | --- | --- |
 | — | 7時間 | 100% | — | 0.1 | — |
 
-経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
+カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
 
 ## 収支（1時間あたり）
 
@@ -39,7 +40,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">寝室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/mimic"><img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック</a> ・ <a href="#/ja/action/seal-message-in-a-bottle"><span class="wiki-icon">✉️</span>ボトルメール</a> ・ <a href="#/ja/action/craft-sand-castle"><span class="wiki-icon">🏖️</span>砂の城</a> ・ <a href="#/ja/action/bundle-peacock-feather"><span class="wiki-icon">🪶</span>孔雀の羽</a> ・ <a href="#/ja/action/connect-heart-piece"><span class="wiki-icon">💔</span>ハートのカケラ</a> ・ <a href="#/ja/action/craft-snow-globe"><span class="wiki-icon">❄️</span>スノードーム</a> ・ <a href="#/ja/action/weave-flying-carpet"><span class="wiki-icon">🧞</span>空飛ぶ絨毯</a> ・ <a href="#/ja/action/craft-kaleidoscope"><span class="wiki-icon">🔮</span>万華鏡</a> ・ <a href="#/ja/action/inherit-burning-passion"><span class="wiki-icon">🔥</span>熱い想い</a> ・ <a href="#/ja/action/craft-statue-of-david"><span class="wiki-icon">🏛️</span>ダビデ像</a> ・ <a href="#/ja/action/craft-dancing-statue"><span class="wiki-icon">🕺</span>踊る銅像</a> ・ <a href="#/ja/action/write-will-document"><span class="wiki-icon">📜</span>遺言書</a> ・ <a href="#/ja/action/copy-infinite-loop-videotape"><span class="wiki-icon">📼</span>無限ループするビデオテープ</a> ・ <a href="#/ja/action/repair-grandfather-clock"><span class="wiki-icon">🕰️</span>おじいさんの時計</a> ・ <a href="#/ja/action/assemble-millennium-puzzle"><span class="wiki-icon">🧩</span>千年パズル</a> ・ <a href="#/ja/action/polish-golden-orb"><span class="wiki-icon">🟡</span>金の玉</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">寝室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/mimic"><img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック</a> ・ <a href="#/ja/action/seal-message-in-a-bottle"><img class="wiki-icon" src="assets/icon/67854644bf13e7c9.svg" alt="">ボトルメール</a> ・ <a href="#/ja/action/craft-sand-castle"><img class="wiki-icon" src="assets/icon/e271b8239f402532.svg" alt="">砂の城</a> ・ <a href="#/ja/action/bundle-peacock-feather"><img class="wiki-icon" src="assets/icon/84692c4ba909a815.svg" alt="">孔雀の羽</a> ・ <a href="#/ja/action/connect-heart-piece"><img class="wiki-icon" src="assets/icon/a36f4b9f125819ad.svg" alt="">ハートのカケラ</a> ・ <a href="#/ja/action/craft-snow-globe"><img class="wiki-icon" src="assets/icon/672226342dc8e971.svg" alt="">スノードーム</a> ・ <a href="#/ja/action/weave-flying-carpet"><img class="wiki-icon" src="assets/icon/053add087b55189d.svg" alt="">空飛ぶ絨毯</a> ・ <a href="#/ja/action/craft-kaleidoscope"><img class="wiki-icon" src="assets/icon/8924e028e77e6849.svg" alt="">万華鏡</a> ・ <a href="#/ja/action/inherit-burning-passion"><img class="wiki-icon" src="assets/icon/b1fbaa1c62ddb5df.svg" alt="">熱い想い</a> ・ <a href="#/ja/action/craft-statue-of-david"><img class="wiki-icon" src="assets/icon/75635773a28b19b4.svg" alt="">ダビデ像</a> ・ <a href="#/ja/action/craft-dancing-statue"><img class="wiki-icon" src="assets/icon/93c7b48f506d481f.svg" alt="">踊る銅像</a> ・ <a href="#/ja/action/write-will-document"><img class="wiki-icon" src="assets/icon/3651add6bd46b346.svg" alt="">遺言書</a> ・ <a href="#/ja/action/copy-infinite-loop-videotape"><img class="wiki-icon" src="assets/icon/84455bcc84de54dd.svg" alt="">無限ループするビデオテープ</a> ・ <a href="#/ja/action/repair-grandfather-clock"><img class="wiki-icon" src="assets/icon/987de3fc02a4d1e9.svg" alt="">おじいさんの時計</a> ・ <a href="#/ja/action/assemble-millennium-puzzle"><img class="wiki-icon" src="assets/icon/be74a6e697bd7212.svg" alt="">千年パズル</a> ・ <a href="#/ja/action/polish-golden-orb"><img class="wiki-icon" src="assets/icon/9bc801c4d1013f57.svg" alt="">金の玉</a></div></div>
 
 ## 開発者向け情報
 
@@ -47,10 +48,11 @@
 | --- | --- |
 | id | `inherit-burning-passion` |
 | `category` | `bedroom` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `creation` |
 | `unlocked` | `hinted` |
 | `level` | `35` |
+| `disciplineLevel` | `0` |
 | `experience` | `7200` |
 | `seconds` | `25200` |
 | `chance` | `1` |
@@ -71,15 +73,16 @@
 		"icon": {
 			"emoji": "🔥",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/b1fbaa1c62ddb5df.svg）"
 		},
 		"color": ""
 	},
 	"category": "bedroom",
-	"attribute": "",
+	"discipline": "",
 	"group": "creation",
 	"unlocked": "hinted",
 	"level": 35,
+	"disciplineLevel": 0,
 	"experience": 7200,
 	"seconds": 25200,
 	"chance": 1,
@@ -104,6 +107,13 @@
 			"id": "flame-flower",
 			"count": 5,
 			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "factory-proof",
+			"count": 1,
+			"chance": 0,
 			"equipment": false
 		}
 	],

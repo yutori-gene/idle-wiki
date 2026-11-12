@@ -1,6 +1,6 @@
 # 革の胸当
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">革の胸当</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥋</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/body-armor"><span class="wiki-icon">👕</span>胴体装備</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>45 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">革の胸当</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/afcf319873c08863.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/body-armor"><img class="wiki-icon" src="assets/icon/0f29202c4827bbc2.svg" alt="">胴体装備</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>45 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 軽量で動きやすい定番防具。
 
@@ -11,7 +11,7 @@
 
 | 効き先 | 防御 | 回復 |
 | --- | --- | --- |
-| 全カテゴリ | +25 | +3 |
+| 全カテゴリ | +30 | +4 |
 
 ## 入手方法
 
@@ -19,7 +19,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥋</span>革の胸当](/ja/action/craft-leather-breastplate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 1 | 100% | 1 | 0.4 |
+| [<img class="wiki-icon" src="assets/icon/53de6f79a8a54bdd.svg" alt="">革の胸当](/ja/action/craft-leather-breastplate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 1 | 100% | 1 | 0.4 |
 
 ## 用途
 
@@ -27,9 +27,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🥋</span>革の胸当（分解）](/ja/action/disassemble-leather-breastplate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/665978ad83d057a0.svg" alt="">革の胸当（分解）](/ja/action/disassemble-leather-breastplate) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/f3e0ccbb7f446bd5.svg" alt="">絹の服](/ja/action/craft-silk-clothes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv25 | 1 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 胴体装備</div><div class="wiki-navbox-body"><a href="#/ja/item/apron"><img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン</a> ・ <a href="#/ja/item/tank-top"><img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ</a> ・ <a href="#/ja/item/farmer-work-clothes"><span class="wiki-icon">👨‍🌾</span>農夫の作業着</a> ・ <a href="#/ja/item/raincoat"><span class="wiki-icon">☂️</span>雨具</a> ・ <a href="#/ja/item/sailor-uniform"><span class="wiki-icon">⚓</span>セーラー服</a> ・ <a href="#/ja/item/gakuran"><span class="wiki-icon">🎓</span>学ラン</a> ・ <a href="#/ja/item/belly-warmer"><span class="wiki-icon">🩹</span>腹巻き</a> ・ <a href="#/ja/item/emperors-new-clothes"><span class="wiki-icon">👑</span>裸の王様の服</a> ・ <a href="#/ja/item/leather-breastplate"><span class="wiki-icon">🥋</span>革の胸当</a> ・ <a href="#/ja/item/silk-clothes"><span class="wiki-icon">👘</span>絹の服</a> ・ <a href="#/ja/item/chainmail"><img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル</a> ・ <a href="#/ja/item/bulletproof-vest"><span class="wiki-icon">🦺</span>防弾チョッキ</a> ・ <a href="#/ja/item/bikini-armor"><span class="wiki-icon">👙</span>ビキニアーマー</a> ・ <a href="#/ja/item/iron-breastplate"><span class="wiki-icon">🥋</span>鉄の胸当</a> ・ <a href="#/ja/item/scale-mail"><span class="wiki-icon">🥋</span>スケイルメイル</a> ・ <a href="#/ja/item/priest-robe"><span class="wiki-icon">👘</span>僧侶の法衣</a> ・ <a href="#/ja/item/royal-formal-dress"><span class="wiki-icon">👑</span>王族の正装</a> ・ <a href="#/ja/item/god-robe"><span class="wiki-icon">👘</span>神衣</a> ・ <a href="#/ja/item/plug-suit"><span class="wiki-icon">🅿️</span>プラグスーツ</a> ・ <a href="#/ja/item/holy-cloth"><span class="wiki-icon">👘</span>聖衣</a> ・ <a href="#/ja/item/box-gundam"><span class="wiki-icon">🤖</span>箱ガンダム</a></div></div>
+<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">グループ: 胴体装備</div><div class="wiki-navbox-body"><a href="#/ja/item/apron"><img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン</a> ・ <a href="#/ja/item/tank-top"><img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ</a> ・ <a href="#/ja/item/farmer-work-clothes"><img class="wiki-icon" src="assets/icon/7015a8fab91bdf0f.svg" alt="">農夫の作業着</a> ・ <a href="#/ja/item/raincoat"><img class="wiki-icon" src="assets/icon/a5d62c385eb7e411.svg" alt="">雨具</a> ・ <a href="#/ja/item/sailor-uniform"><img class="wiki-icon" src="assets/icon/dc564301b21e26cb.svg" alt="">セーラー服</a> ・ <a href="#/ja/item/gakuran"><img class="wiki-icon" src="assets/icon/5ce0c0e27ec8a300.svg" alt="">学ラン</a> ・ <a href="#/ja/item/belly-warmer"><img class="wiki-icon" src="assets/icon/ec514ea5b483e140.svg" alt="">腹巻き</a> ・ <a href="#/ja/item/emperors-new-clothes"><img class="wiki-icon" src="assets/icon/fcb73bc6a984c7ff.svg" alt="">裸の王様の服</a> ・ <a href="#/ja/item/leather-breastplate"><img class="wiki-icon" src="assets/icon/afcf319873c08863.svg" alt="">革の胸当</a> ・ <a href="#/ja/item/silk-clothes"><img class="wiki-icon" src="assets/icon/7974f7b071f93112.svg" alt="">絹の服</a> ・ <a href="#/ja/item/chainmail"><img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル</a> ・ <a href="#/ja/item/bulletproof-vest"><img class="wiki-icon" src="assets/icon/b7b4d181abf33dd4.svg" alt="">防弾チョッキ</a> ・ <a href="#/ja/item/bikini-armor"><img class="wiki-icon" src="assets/icon/b03061c2936196ad.svg" alt="">ビキニアーマー</a> ・ <a href="#/ja/item/iron-breastplate"><img class="wiki-icon" src="assets/icon/fb77d9c7fa10a1ce.svg" alt="">鉄の胸当</a> ・ <a href="#/ja/item/scale-mail"><img class="wiki-icon" src="assets/icon/7075594a670b12f0.svg" alt="">スケイルメイル</a> ・ <a href="#/ja/item/priest-robe"><img class="wiki-icon" src="assets/icon/c8ffbfa8a6e5afa8.svg" alt="">僧侶の法衣</a> ・ <a href="#/ja/item/royal-formal-dress"><img class="wiki-icon" src="assets/icon/e749a12b853ca048.svg" alt="">王族の正装</a> ・ <a href="#/ja/item/god-robe"><img class="wiki-icon" src="assets/icon/f86fcc20c5212d0a.svg" alt="">神衣</a> ・ <a href="#/ja/item/plug-suit"><img class="wiki-icon" src="assets/icon/63676804b5e2bf95.svg" alt="">プラグスーツ</a> ・ <a href="#/ja/item/holy-cloth"><img class="wiki-icon" src="assets/icon/3f658559a8a69f17.svg" alt="">聖衣</a> ・ <a href="#/ja/item/box-gundam"><img class="wiki-icon" src="assets/icon/3292882519d9db0b.svg" alt="">箱ガンダム</a></div></div>
 
 ## 開発者向け情報
 
@@ -62,7 +63,7 @@
 		"icon": {
 			"emoji": "🥋",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/afcf319873c08863.svg）"
 		},
 		"color": ""
 	},
@@ -80,10 +81,10 @@
 		{
 			"category": "*",
 			"attack": 0,
-			"defence": 25,
+			"defence": 30,
 			"accuracy": 0,
 			"evasion": 0,
-			"restore": 3,
+			"restore": 4,
 			"speed": 0,
 			"chance": 0,
 			"experience": 0

@@ -1,6 +1,6 @@
 # どんぐりショット（分解）
 
-<div class="wiki-infobox" style="--accent:#463476"><div class="wiki-infobox-title">どんぐりショット（分解）</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/985f799d5f99660a.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><span class="wiki-icon">♻️</span>分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>86</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#463476"><div class="wiki-infobox-title">どんぐりショット（分解）</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/985f799d5f99660a.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/atelier"><img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/disassemble"><img class="wiki-icon" src="assets/icon/efa102bd8077b945.svg" alt="">分解</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>5分</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>86</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 炉に放り込んで低級の金属を回収する。
 
@@ -17,7 +17,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) ×1 | 成功時 | 100% | 1 | 12 |
+| [<img class="wiki-icon" src="assets/icon/d071640cd4afaf27.svg" alt="">錆びた金属片](/ja/item/rusty-metal-piece) ×1 | 成功時 | 100% | 1 | 12 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -26,11 +26,11 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv1） | 5分 | 100% | 86 | 12 | 1,032 |
-| +10（Lv11） | 4分5秒 | 100% | 57.33 | 14.7 | 297 |
-| +20（Lv21） | 3分20秒 | 100% | 38.22 | 18 | 85 |
-| +30（Lv31） | 2分43秒 | 100% | 25.48 | 22 | 25 |
+| +10（Lv11） | 4分5秒 | 100% | 46.81 | 14.7 | 242 |
+| +20（Lv21） | 3分20秒 | 100% | 25.48 | 18 | 57 |
+| +30（Lv31） | 2分43秒 | 100% | 13.87 | 22 | 13 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -40,7 +40,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#463476"><div class="wiki-navbox-title">工房のアクション</div><div class="wiki-navbox-body">64件。一覧は <a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#463476"><div class="wiki-navbox-title">工房のアクション</div><div class="wiki-navbox-body">64件。一覧は <a href="#/ja/category/atelier"><img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -48,10 +48,11 @@
 | --- | --- |
 | id | `disassemble-acorn-shot` |
 | `category` | `atelier` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `disassemble` |
 | `unlocked` | `hidden` |
 | `level` | `1` |
+| `disciplineLevel` | `0` |
 | `experience` | `86` |
 | `seconds` | `300` |
 | `chance` | `1` |
@@ -77,10 +78,11 @@
 		"color": ""
 	},
 	"category": "atelier",
-	"attribute": "",
+	"discipline": "",
 	"group": "disassemble",
 	"unlocked": "hidden",
 	"level": 1,
+	"disciplineLevel": 0,
 	"experience": 86,
 	"seconds": 300,
 	"chance": 1,

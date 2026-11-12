@@ -1,6 +1,6 @@
 # ペガサス
 
-<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">ペガサス</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦄</span></div><table><tr><th>場所</th><td><a href="#/ja/category/sky-garden"><img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv50</td></tr><tr><th>所要時間</th><td>1.2秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.69</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">ペガサス</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/9635026f25519f71.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/sky-garden"><img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭</a></td></tr><tr><th>系統</th><td><a href="#/ja/category/throwing-weapon"><img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv34</td></tr><tr><th>系統の必要Lv</th><td>Lv12</td></tr><tr><th>所要時間</th><td>1.2秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.69</td></tr><tr><th>経験値の配分</th><td><a href="#/ja/category/sky-garden"><img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭</a> 80%、<a href="#/ja/category/throwing-weapon"><img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器</a> 20%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 神話の飛行馬。その美しさは比類なし。
 
@@ -9,16 +9,17 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv50以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) Lv34以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) が解放されている・Lv12以上（系統のカテゴリ）
 
 ## 取得物
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×1 | 成功時 | 1.34% | 0.007 | 0 |
-| [<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) ×1 | 成功時 | 0.192% | 0.001 | 0 |
-| [<span class="wiki-icon">🗝️</span>天空の鍵](/ja/item/sky-key) ×1 | 成功時 | 0.045% | 0 | 0 |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) ×1 | 成功時 | 0.002% | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/2364d7fb0796e1b8.svg" alt="">羽根](/ja/item/feather) ×1 | 成功時 | 1.34% | 0.007 | 0 |
+| [<img class="wiki-icon" src="assets/icon/513ce62f8335e096.svg" alt="">天空の苔](/ja/item/sky-moss) ×1 | 成功時 | 0.192% | 0.001 | 0 |
+| [<img class="wiki-icon" src="assets/icon/e6be96accbbbca55.svg" alt="">天空の鍵](/ja/item/sky-key) ×1 | 成功時 | 0.045% | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/fc53380c72c2bec5.svg" alt="">空飛ぶブタ](/ja/item/flying-pig) ×1 | 成功時 | 0.002% | 0 | 0 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -28,28 +29,30 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 347 | 294 | 11 | 30 | 8 |
+| 405 | 276 | 8 | 28 | 9 |
 
 **敵のスキル**
 
-- [<span class="wiki-icon">🐦</span>身軽](/ja/skill/light-footed)：毎ターン 4% で発動、防御-9・回避+12
-- [<span class="wiki-icon">🏃</span>助走](/ja/skill/run-up)：毎ターン 11% で発動、攻撃+4
+- [<img class="wiki-icon" src="assets/icon/94a89c0cea67ba6b.svg" alt="">身軽](/ja/skill/light-footed)：毎ターン 4% で発動、防御-9・回避+12
+- [<img class="wiki-icon" src="assets/icon/e7ecc536bbae6449.svg" alt="">助走](/ja/skill/run-up)：毎ターン 11% で発動、攻撃+4
 
 ### 戦闘の見込み（装備・スキルなし）
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv50） | 0% | 300% | 47.1% | 21.1% | 16.9% | 1,597,394.4 | 378,319,275.3% | 22日4時間 | 負ける見込みが高い |
+| ±0（Lv12） | 0% | 300% | 49.1% | 22.1% | 16.4% | 738,176.3 | 172,548,017.3% | 10日6時間 | 負ける見込みが高い |
+| +10（Lv22） | 0% | 300% | 59.1% | 25.8% | 22.7% | 408,592.9 | 90,992,098.8% | 4日15時間 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
 ## 計算値
 
-| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
-| --- | --- | --- | --- | --- | --- |
-| ±0（Lv50） | 1.2秒 | 50% | 0.69 | 0 | 0 |
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時（天空のお庭） | 経験値%/時（投擲武器） |
+| --- | --- | --- | --- | --- | --- | --- |
+| ±0（Lv12） | 1.2秒 | 50% | 0.69 | 0 | 0 | 0 |
+| +10（Lv22） | 1秒 | 60% | 0.37 | 0 | 0 | 0 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝系統のカテゴリのレベル − 系統の必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。
 
 ## 収支（1時間あたり）
 
@@ -59,7 +62,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#9c95b5"><div class="wiki-navbox-title">天空のお庭のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/stardust-gathering"><span class="wiki-icon">✨</span>星屑集め</a> ・ <a href="#/ja/action/haze-grove"><span class="wiki-icon">🌫️</span>霞の林</a> ・ <a href="#/ja/action/tend-cloud-field"><span class="wiki-icon">☁️</span>雲の畑の手入れ</a> ・ <a href="#/ja/action/priest"><img class="wiki-icon" src="assets/icon/300032c34ac7363c.svg" alt="">司祭</a> ・ <a href="#/ja/action/big-tanuki"><span class="wiki-icon">🦝</span>大きなタヌキ？</a> ・ <a href="#/ja/action/valkyrie"><img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー</a> ・ <a href="#/ja/action/spaghetti-monster"><span class="wiki-icon">🍝</span>スパゲッティモンスター</a> ・ <a href="#/ja/action/cat-limousine"><span class="wiki-icon">🚗</span>ねこリムジン</a> ・ <a href="#/ja/action/colonel"><span class="wiki-icon">🎖️</span>大佐</a> ・ <a href="#/ja/action/pegasus"><span class="wiki-icon">🦄</span>ペガサス</a> ・ <a href="#/ja/action/angel"><span class="wiki-icon">😇</span>天使</a> ・ <a href="#/ja/action/paladin"><span class="wiki-icon">🛡️</span>パラディン</a> ・ <a href="#/ja/action/seraph"><span class="wiki-icon">😇</span>熾天使</a> ・ <a href="#/ja/action/ruins-above-clouds"><span class="wiki-icon">☁️</span>雲上の遺跡</a> ・ <a href="#/ja/action/sky-library"><span class="wiki-icon">📚</span>天空の図書館</a> ・ <a href="#/ja/action/temple-innermost"><span class="wiki-icon">🏛️</span>神殿の最奥</a> ・ <a href="#/ja/action/world-tree-root"><span class="wiki-icon">🌳</span>世界樹の根元</a></div></div>
+<div class="wiki-navbox" style="--accent:#9c95b5"><div class="wiki-navbox-title">天空のお庭のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/stardust-gathering"><img class="wiki-icon" src="assets/icon/e8f5c81d046cfb80.svg" alt="">星屑集め</a> ・ <a href="#/ja/action/haze-grove"><img class="wiki-icon" src="assets/icon/1f5e709acf8c7dbb.svg" alt="">霞の林</a> ・ <a href="#/ja/action/tend-cloud-field"><img class="wiki-icon" src="assets/icon/49fc2f62b2003f67.svg" alt="">雲の畑の手入れ</a> ・ <a href="#/ja/action/priest"><img class="wiki-icon" src="assets/icon/300032c34ac7363c.svg" alt="">司祭</a> ・ <a href="#/ja/action/cat-limousine"><img class="wiki-icon" src="assets/icon/52aeba6fbc728c0d.svg" alt="">ねこリムジン</a> ・ <a href="#/ja/action/valkyrie"><img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー</a> ・ <a href="#/ja/action/paladin"><img class="wiki-icon" src="assets/icon/0f2bdf78d9abe485.svg" alt="">パラディン</a> ・ <a href="#/ja/action/pegasus"><img class="wiki-icon" src="assets/icon/9635026f25519f71.svg" alt="">ペガサス</a> ・ <a href="#/ja/action/seraph"><img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使</a> ・ <a href="#/ja/action/spaghetti-monster"><img class="wiki-icon" src="assets/icon/394a604ae0c49dba.svg" alt="">スパゲッティモンスター</a> ・ <a href="#/ja/action/big-tanuki"><img class="wiki-icon" src="assets/icon/7fbc1f845aef614f.svg" alt="">大きなタヌキ？</a> ・ <a href="#/ja/action/colonel"><img class="wiki-icon" src="assets/icon/c1042b00a01b59d1.svg" alt="">大佐</a> ・ <a href="#/ja/action/angel"><img class="wiki-icon" src="assets/icon/cb264fde782cfa00.svg" alt="">天使</a> ・ <a href="#/ja/action/ruins-above-clouds"><img class="wiki-icon" src="assets/icon/c9ceb66ca4ebf9e5.svg" alt="">雲上の遺跡</a> ・ <a href="#/ja/action/sky-library"><img class="wiki-icon" src="assets/icon/b6a2c1b24b809e3a.svg" alt="">天空の図書館</a> ・ <a href="#/ja/action/temple-innermost"><img class="wiki-icon" src="assets/icon/eb58fa75c41f87ab.svg" alt="">神殿の最奥</a> ・ <a href="#/ja/action/world-tree-root"><img class="wiki-icon" src="assets/icon/6ddaf80260c8fae5.svg" alt="">世界樹の根元</a></div></div>
 
 ## 開発者向け情報
 
@@ -67,10 +70,11 @@
 | --- | --- |
 | id | `pegasus` |
 | `category` | `sky-garden` |
-| `attribute` | `throwing-weapon` |
+| `discipline` | `throwing-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `50` |
+| `level` | `34` |
+| `disciplineLevel` | `12` |
 | `experience` | `0.686` |
 | `seconds` | `1.2` |
 | `chance` | `0.5` |
@@ -92,15 +96,16 @@
 		"icon": {
 			"emoji": "🦄",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/9635026f25519f71.svg）"
 		},
 		"color": ""
 	},
 	"category": "sky-garden",
-	"attribute": "throwing-weapon",
+	"discipline": "throwing-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 50,
+	"level": 34,
+	"disciplineLevel": 12,
 	"experience": 0.686,
 	"seconds": 1.2,
 	"chance": 0.5,
@@ -134,11 +139,11 @@
 	],
 	"progressType": "stamina",
 	"property": {
-		"attack": 347,
-		"defence": 294,
-		"accuracy": 11,
-		"evasion": 30,
-		"restore": 8
+		"attack": 405,
+		"defence": 276,
+		"accuracy": 8,
+		"evasion": 28,
+		"restore": 9
 	},
 	"skills": [
 		"light-footed",

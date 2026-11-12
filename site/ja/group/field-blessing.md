@@ -1,14 +1,14 @@
 # 畑の恵み
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">畑の恵み</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪱</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>2種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">畑の恵み</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/8c54bce91d5f1518.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>2種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 消費装備 | 1 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/item/earthworm) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 消費装備 | 1 |
+| [<img class="wiki-icon" src="assets/icon/9b054aa5cc93c19a.svg" alt="">ニンニク](/ja/item/garlic) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | 消費装備 | 1 |
+| [<img class="wiki-icon" src="assets/icon/2ffee8df6bc4f871.svg" alt="">ミミズ](/ja/item/earthworm) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | 消費装備 | 1 |
 
 ## 開発者向け情報
 
@@ -32,7 +32,7 @@
 	"icon": {
 		"emoji": "🪱",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/8c54bce91d5f1518.svg）"
 	},
 	"color": ""
 }

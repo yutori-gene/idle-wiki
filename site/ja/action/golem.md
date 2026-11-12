@@ -1,6 +1,6 @@
 # ゴーレム
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">ゴーレム</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗿</span></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv38</td></tr><tr><th>所要時間</th><td>2.5秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.43</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">ゴーレム</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/ddc072b9213bf3de.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城</a></td></tr><tr><th>系統</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>系統の必要Lv</th><td>Lv16</td></tr><tr><th>所要時間</th><td>2.5秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.43</td></tr><tr><th>経験値の配分</th><td><a href="#/ja/category/castle"><img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城</a> 80%、<a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a> 20%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 魔法で動く土の巨人。
 
@@ -9,15 +9,15 @@
 
 ## 必要なもの
 
-- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv38以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) が解放されている・Lv16以上（系統のカテゴリ）
 
 ## 取得物
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💨</span>土埃](/ja/item/dust) ×1 | 成功時 | 2.92% | 0.015 | 0 |
-| [<span class="wiki-icon">🧱</span>石壁の破片](/ja/item/stone-wall-shard) ×1 | 成功時 | 1% | 0.005 | 0 |
-| [<span class="wiki-icon">💎</span>王笏の宝玉](/ja/item/scepter-jewel) ×1 | 成功時 | 0.065% | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/eee3becf8c1b5c9f.svg" alt="">土埃](/ja/item/dust) ×1 | 成功時 | 2.92% | 0.015 | 0.001 |
+| [<img class="wiki-icon" src="assets/icon/2de63c4e6b2ac4f8.svg" alt="">石壁の破片](/ja/item/stone-wall-shard) ×1 | 成功時 | 1% | 0.005 | 0 |
+| [<img class="wiki-icon" src="assets/icon/743ce36f680259c3.svg" alt="">王笏の宝玉](/ja/item/scepter-jewel) ×1 | 成功時 | 0.065% | 0 | 0 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -27,30 +27,34 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 218 | 217 | 16 | 13 | 15 |
+| 250 | 208 | 14 | 11 | 16 |
 
 **敵のスキル**
 
-- [<span class="wiki-icon">🪨</span>盤石](/ja/skill/solid-ground)：毎ターン 5% で発動、防御+8・回復+5
-- [<span class="wiki-icon">🔮</span>念動](/ja/skill/telekinesis)：毎ターン 8% で発動、回避+7
+- [<img class="wiki-icon" src="assets/icon/092fedf7c53622bb.svg" alt="">盤石](/ja/skill/solid-ground)：毎ターン 5% で発動、防御+8・回復+5
+- [<img class="wiki-icon" src="assets/icon/5bfc7d0e67159a30.svg" alt="">念動](/ja/skill/telekinesis)：毎ターン 8% で発動、回避+7
 
 ### 戦闘の見込み（装備・スキルなし）
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv38） | 0.003% | 249.2% | 63.9% | 19.4% | 13.3% | 51,829.8 | 10,407,010.6% | 1日11時間 | 負ける見込みが高い |
-| +10（Lv48） | 0.005% | 203.5% | 72.7% | 22.8% | 18.7% | 30,397.5 | 4,775,140.8% | 17時間14分 | 負ける見込みが高い |
+| ±0（Lv16） | 0.004% | 300% | 65.8% | 20.1% | 12.8% | 34,971.3 | 8,386,632.1% | 1日 | 負ける見込みが高い |
+| +10（Lv26） | 0.007% | 300% | 74.2% | 23.5% | 18.1% | 20,654.1 | 4,739,474.5% | 11時間42分 | 負ける見込みが高い |
+| +20（Lv36） | 0.01% | 300% | 81.2% | 27.3% | 24.9% | 12,586.3 | 2,743,215.5% | 5時間49分 | 負ける見込みが高い |
+| +30（Lv46） | 0.015% | 259.5% | 86.6% | 31.6% | 33.2% | 7,865.3 | 1,396,920.1% | 2時間58分 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
 ## 計算値
 
-| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
-| --- | --- | --- | --- | --- | --- |
-| ±0（Lv38） | 2.5秒 | 50% | 1.43 | 0 | 0 |
-| +10（Lv48） | 2秒 | 60% | 0.95 | 0.1 | 0 |
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時（城） | 経験値%/時（近接武器） |
+| --- | --- | --- | --- | --- | --- | --- |
+| ±0（Lv16） | 2.5秒 | 50% | 1.43 | 0 | 0 | 0 |
+| +10（Lv26） | 2秒 | 60% | 0.78 | 0.1 | 0 | 0 |
+| +20（Lv36） | 1.7秒 | 69.2% | 0.42 | 0.2 | 0 | 0 |
+| +30（Lv46） | 1.4秒 | 77.1% | 0.23 | 0.3 | 0 | 0 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝系統のカテゴリのレベル − 系統の必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。
 
 ## 収支（1時間あたり）
 
@@ -60,7 +64,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#776a48"><div class="wiki-navbox-title">城のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/rampart-patrol"><span class="wiki-icon">🏰</span>城壁の見回り</a> ・ <a href="#/ja/action/archive-research"><span class="wiki-icon">📚</span>書庫の調べ物</a> ・ <a href="#/ja/action/treasury-sorting"><span class="wiki-icon">💰</span>宝物庫の整理</a> ・ <a href="#/ja/action/golem"><span class="wiki-icon">🗿</span>ゴーレム</a> ・ <a href="#/ja/action/elementalist"><span class="wiki-icon">🧙</span>エレメンタリスト</a> ・ <a href="#/ja/action/magic-mirror"><span class="wiki-icon">🪞</span>魔法の鏡</a> ・ <a href="#/ja/action/knight"><span class="wiki-icon">🛡️</span>騎士</a> ・ <a href="#/ja/action/ghost-knight"><span class="wiki-icon">👻</span>亡霊騎士</a> ・ <a href="#/ja/action/necromancer"><span class="wiki-icon">💀</span>ネクロマンサー</a> ・ <a href="#/ja/action/fairy"><span class="wiki-icon">🧚</span>妖精</a> ・ <a href="#/ja/action/jailer"><span class="wiki-icon">🔒</span>牢番</a> ・ <a href="#/ja/action/squirrel"><span class="wiki-icon">🐿️</span>リス</a> ・ <a href="#/ja/action/gargoyle"><span class="wiki-icon">🗿</span>ガーゴイル</a> ・ <a href="#/ja/action/banquet-ghost"><span class="wiki-icon">👻</span>宴の亡霊</a> ・ <a href="#/ja/action/deep-dungeon-cell"><span class="wiki-icon">⛓️</span>地下牢の奥</a> ・ <a href="#/ja/action/hidden-passage-survey"><span class="wiki-icon">🚪</span>隠し通路の調査</a> ・ <a href="#/ja/action/throne-room-secret"><span class="wiki-icon">👑</span>王の間の秘密</a></div></div>
+<div class="wiki-navbox" style="--accent:#776a48"><div class="wiki-navbox-title">城のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/rampart-patrol"><img class="wiki-icon" src="assets/icon/6800a285339cbe7c.svg" alt="">城壁の見回り</a> ・ <a href="#/ja/action/archive-research"><img class="wiki-icon" src="assets/icon/ef96ea3c75b9fd31.svg" alt="">書庫の調べ物</a> ・ <a href="#/ja/action/treasury-sorting"><img class="wiki-icon" src="assets/icon/6acb26a6fe78542c.svg" alt="">宝物庫の整理</a> ・ <a href="#/ja/action/elementalist"><img class="wiki-icon" src="assets/icon/3aad8de08b0fee46.svg" alt="">エレメンタリスト</a> ・ <a href="#/ja/action/magic-mirror"><img class="wiki-icon" src="assets/icon/b148d196aa5fc19f.svg" alt="">魔法の鏡</a> ・ <a href="#/ja/action/fairy"><img class="wiki-icon" src="assets/icon/88313a9dc8e4e6f5.svg" alt="">妖精</a> ・ <a href="#/ja/action/squirrel"><img class="wiki-icon" src="assets/icon/544de9bef8647904.svg" alt="">リス</a> ・ <a href="#/ja/action/gargoyle"><img class="wiki-icon" src="assets/icon/3bd66d6ecb71b73e.svg" alt="">ガーゴイル</a> ・ <a href="#/ja/action/necromancer"><img class="wiki-icon" src="assets/icon/b8dfc337e8669e69.svg" alt="">ネクロマンサー</a> ・ <a href="#/ja/action/banquet-ghost"><img class="wiki-icon" src="assets/icon/94a2922ab82673de.svg" alt="">宴の亡霊</a> ・ <a href="#/ja/action/golem"><img class="wiki-icon" src="assets/icon/ddc072b9213bf3de.svg" alt="">ゴーレム</a> ・ <a href="#/ja/action/knight"><img class="wiki-icon" src="assets/icon/4cf5aeed2a7e772b.svg" alt="">騎士</a> ・ <a href="#/ja/action/ghost-knight"><img class="wiki-icon" src="assets/icon/6c3069c276750054.svg" alt="">亡霊騎士</a> ・ <a href="#/ja/action/jailer"><img class="wiki-icon" src="assets/icon/0c0348d8c43a934d.svg" alt="">牢番</a> ・ <a href="#/ja/action/deep-dungeon-cell"><img class="wiki-icon" src="assets/icon/4e50f8830b6c51c0.svg" alt="">地下牢の奥</a> ・ <a href="#/ja/action/hidden-passage-survey"><img class="wiki-icon" src="assets/icon/2e3814868e6b6f25.svg" alt="">隠し通路の調査</a> ・ <a href="#/ja/action/throne-room-secret"><img class="wiki-icon" src="assets/icon/3457029812b6df6f.svg" alt="">王の間の秘密</a></div></div>
 
 ## 開発者向け情報
 
@@ -68,10 +72,11 @@
 | --- | --- |
 | id | `golem` |
 | `category` | `castle` |
-| `attribute` | `melee-weapon` |
+| `discipline` | `melee-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `38` |
+| `level` | `1` |
+| `disciplineLevel` | `16` |
 | `experience` | `1.43` |
 | `seconds` | `2.5` |
 | `chance` | `0.5` |
@@ -93,15 +98,16 @@
 		"icon": {
 			"emoji": "🗿",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/ddc072b9213bf3de.svg）"
 		},
 		"color": ""
 	},
 	"category": "castle",
-	"attribute": "melee-weapon",
+	"discipline": "melee-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 38,
+	"level": 1,
+	"disciplineLevel": 16,
 	"experience": 1.43,
 	"seconds": 2.5,
 	"chance": 0.5,
@@ -129,11 +135,11 @@
 	],
 	"progressType": "stamina",
 	"property": {
-		"attack": 218,
-		"defence": 217,
-		"accuracy": 16,
-		"evasion": 13,
-		"restore": 15
+		"attack": 250,
+		"defence": 208,
+		"accuracy": 14,
+		"evasion": 11,
+		"restore": 16
 	},
 	"skills": [
 		"solid-ground",

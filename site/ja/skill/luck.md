@@ -1,6 +1,6 @@
 # 幸運
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">幸運</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍀</span></div><table><tr><th>発動率</th><td>12%／ターン</td></tr><tr><th>効果</th><td>精度+4</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">幸運</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/0f45e5a8a7b1bb5c.svg" alt=""></div><table><tr><th>発動率</th><td>12%／ターン</td></tr><tr><th>効果</th><td>精度+4</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 運がいいのではない。運を数えているだけだ。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 |
+| [<img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ](/ja/action/hydra) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv50 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🍀</span>99葉のクローバー](/ja/item/ninety-nine-leaf-clover) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/5c0ddadfb207a03c.svg" alt="">99葉のクローバー](/ja/item/ninety-nine-leaf-clover) | [<img class="wiki-icon" src="assets/icon/47ba4b0004eb0e60.svg" alt="">アクセサリー](/ja/group/accessory) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🍀",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/0f45e5a8a7b1bb5c.svg）"
 		},
 		"color": ""
 	},

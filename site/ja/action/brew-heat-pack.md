@@ -1,6 +1,6 @@
 # カイロ
 
-<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">カイロ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔥</span></div><table><tr><th>場所</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brew"><span class="wiki-icon">⚗️</span>調合</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv15</td></tr><tr><th>所要時間</th><td>4分</td></tr><tr><th>成功率</th><td>60%</td></tr><tr><th>経験値</th><td>134</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">カイロ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/4687a628a4156fbe.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/basement"><img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brew"><img class="wiki-icon" src="assets/icon/64f3a66c76456749.svg" alt="">調合</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv15</td></tr><tr><th>所要時間</th><td>4分</td></tr><tr><th>成功率</th><td>60%</td></tr><tr><th>経験値</th><td>134</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 鉄粉と塩を炉で焼き合わせる。振れば温まる冬の味方。
 
@@ -9,10 +9,11 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv15以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない）
-- [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron) ×4（消費する）
-- [<span class="wiki-icon">🧂</span>塩](/ja/item/salt) ×6（消費する）
+- [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) Lv15以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/f333ccfe63965377.svg" alt="">るつぼ](/ja/item/crucible) ×1（消費しない）
+- [<img class="wiki-icon" src="assets/icon/b561878ce119f934.svg" alt="">鉄](/ja/item/iron) ×4（消費する）
+- [<img class="wiki-icon" src="assets/icon/0311c363b8e9f708.svg" alt="">塩](/ja/item/salt) ×6（消費する）
+- [<span class="wiki-icon">🏅</span>街の証](/ja/item/town-proof) ×1（消費しない）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -20,7 +21,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>カイロ](/ja/item/heat-pack) ×50 | 成功時 | 100% | 30 | 450 |
+| [<img class="wiki-icon" src="assets/icon/95fda7d4cdea5922.svg" alt="">カイロ](/ja/item/heat-pack) ×50 | 成功時 | 100% | 30 | 450 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 60%（レベル差0・装備なし）で按分した値。
 
@@ -29,11 +30,11 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv15） | 4分 | 60% | 134 | 15 | 280 |
-| +10（Lv25） | 3分16秒 | 69.2% | 89.33 | 18.4 | 93 |
-| +20（Lv35） | 2分40秒 | 77.1% | 59.56 | 22.5 | 30 |
-| +30（Lv45） | 2分11秒 | 83.5% | 39.7 | 27.6 | 9 |
+| +10（Lv25） | 3分16秒 | 69.2% | 72.94 | 18.4 | 76 |
+| +20（Lv35） | 2分40秒 | 77.1% | 39.7 | 22.5 | 20 |
+| +30（Lv45） | 2分11秒 | 83.5% | 21.61 | 27.6 | 5 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -43,7 +44,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">地下室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-mortar"><span class="wiki-icon">🥣</span>すり鉢</a> ・ <a href="#/ja/action/buy-still"><span class="wiki-icon">⚗️</span>蒸留器</a> ・ <a href="#/ja/action/buy-crucible"><span class="wiki-icon">⚗️</span>るつぼ</a> ・ <a href="#/ja/action/brew-bandage"><span class="wiki-icon">🩹</span>絆創膏</a> ・ <a href="#/ja/action/brew-wound-medicine"><span class="wiki-icon">💊</span>キズ薬</a> ・ <a href="#/ja/action/brew-cold-medicine"><span class="wiki-icon">💊</span>風邪薬</a> ・ <a href="#/ja/action/brew-bubbling-medicine"><span class="wiki-icon">🧪</span>泡立つ薬</a> ・ <a href="#/ja/action/brew-opium"><span class="wiki-icon">💊</span>阿片</a> ・ <a href="#/ja/action/brew-glowing-medicine"><span class="wiki-icon">✨</span>発光する薬</a> ・ <a href="#/ja/action/brew-ether"><img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル</a> ・ <a href="#/ja/action/brew-heat-pack"><span class="wiki-icon">🔥</span>カイロ</a> ・ <a href="#/ja/action/brew-eye-drops"><span class="wiki-icon">👁️</span>目薬</a> ・ <a href="#/ja/action/brew-cold-pack"><span class="wiki-icon">🧊</span>保冷剤</a> ・ <a href="#/ja/action/brew-molotov"><span class="wiki-icon">🍾</span>火炎ビン</a> ・ <a href="#/ja/action/brew-painkiller"><span class="wiki-icon">💊</span>鎮痛剤</a> ・ <a href="#/ja/action/brew-phoenix-tail"><span class="wiki-icon">🐦‍🔥</span>フェニックスの尾</a> ・ <a href="#/ja/action/brew-anti-drowsiness"><span class="wiki-icon">☕</span>眠気覚まし</a> ・ <a href="#/ja/action/brew-tonic"><span class="wiki-icon">💊</span>滋養強壮剤</a> ・ <a href="#/ja/action/brew-vaccine"><span class="wiki-icon">💉</span>ワクチン</a> ・ <a href="#/ja/action/brew-laxative"><span class="wiki-icon">💊</span>下剤</a> ・ <a href="#/ja/action/brew-laxative-for-gorilla"><span class="wiki-icon">💊</span>下剤（ゴリラ用）</a> ・ <a href="#/ja/action/brew-poison-vial"><span class="wiki-icon">🧪</span>毒瓶</a> ・ <a href="#/ja/action/brew-lcl"><span class="wiki-icon">🧪</span>LCL</a> ・ <a href="#/ja/action/brew-holy-water"><span class="wiki-icon">💧</span>聖水</a> ・ <a href="#/ja/action/brew-bottled-spirit"><span class="wiki-icon">🧞</span>精霊の入ったビン</a> ・ <a href="#/ja/action/brew-panacea"><span class="wiki-icon">💊</span>万能薬</a> ・ <a href="#/ja/action/brew-revive-piece"><span class="wiki-icon">💊</span>げんきのかけら</a> ・ <a href="#/ja/action/brew-elixir"><span class="wiki-icon">🧪</span>エリクサー</a> ・ <a href="#/ja/action/brew-felix-felicis"><span class="wiki-icon">🍀</span>フェリックスフェリシス</a></div></div>
+<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">地下室のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/buy-mortar"><img class="wiki-icon" src="assets/icon/9ec136b077924eef.svg" alt="">すり鉢</a> ・ <a href="#/ja/action/buy-still"><img class="wiki-icon" src="assets/icon/90195c4553de9ae3.svg" alt="">蒸留器</a> ・ <a href="#/ja/action/buy-crucible"><img class="wiki-icon" src="assets/icon/079b0c36aa0e32fb.svg" alt="">るつぼ</a> ・ <a href="#/ja/action/brew-bandage"><img class="wiki-icon" src="assets/icon/73d8a27ffa087749.svg" alt="">絆創膏</a> ・ <a href="#/ja/action/brew-wound-medicine"><img class="wiki-icon" src="assets/icon/b16612e9084bb0c3.svg" alt="">キズ薬</a> ・ <a href="#/ja/action/brew-cold-medicine"><img class="wiki-icon" src="assets/icon/bd63a5e926528fce.svg" alt="">風邪薬</a> ・ <a href="#/ja/action/brew-bubbling-medicine"><img class="wiki-icon" src="assets/icon/2d32f6dba0c06950.svg" alt="">泡立つ薬</a> ・ <a href="#/ja/action/brew-opium"><img class="wiki-icon" src="assets/icon/5bb2ff3535a97a41.svg" alt="">阿片</a> ・ <a href="#/ja/action/brew-glowing-medicine"><img class="wiki-icon" src="assets/icon/dcd9c58488f87e30.svg" alt="">発光する薬</a> ・ <a href="#/ja/action/brew-ether"><img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル</a> ・ <a href="#/ja/action/brew-heat-pack"><img class="wiki-icon" src="assets/icon/4687a628a4156fbe.svg" alt="">カイロ</a> ・ <a href="#/ja/action/brew-eye-drops"><img class="wiki-icon" src="assets/icon/8f3c0eb34779d5a4.svg" alt="">目薬</a> ・ <a href="#/ja/action/brew-cold-pack"><img class="wiki-icon" src="assets/icon/915983fdc4381b0e.svg" alt="">保冷剤</a> ・ <a href="#/ja/action/brew-molotov"><img class="wiki-icon" src="assets/icon/7452f4a0d99e4066.svg" alt="">火炎ビン</a> ・ <a href="#/ja/action/brew-painkiller"><img class="wiki-icon" src="assets/icon/d9856d270c9bf353.svg" alt="">鎮痛剤</a> ・ <a href="#/ja/action/brew-phoenix-tail"><img class="wiki-icon" src="assets/icon/255a7bf74ab07615.svg" alt="">フェニックスの尾</a> ・ <a href="#/ja/action/brew-anti-drowsiness"><img class="wiki-icon" src="assets/icon/1a69a548afe27966.svg" alt="">眠気覚まし</a> ・ <a href="#/ja/action/brew-tonic"><img class="wiki-icon" src="assets/icon/44f047bc711646f2.svg" alt="">滋養強壮剤</a> ・ <a href="#/ja/action/brew-vaccine"><img class="wiki-icon" src="assets/icon/b6e4a80aa75245d1.svg" alt="">ワクチン</a> ・ <a href="#/ja/action/brew-laxative"><img class="wiki-icon" src="assets/icon/ee66651f6cba6034.svg" alt="">下剤</a> ・ <a href="#/ja/action/brew-laxative-for-gorilla"><img class="wiki-icon" src="assets/icon/82635a806a296e89.svg" alt="">下剤（ゴリラ用）</a> ・ <a href="#/ja/action/brew-poison-vial"><img class="wiki-icon" src="assets/icon/1c92b87d748930e9.svg" alt="">毒瓶</a> ・ <a href="#/ja/action/brew-lcl"><img class="wiki-icon" src="assets/icon/0f59f9c567987876.svg" alt="">LCL</a> ・ <a href="#/ja/action/brew-holy-water"><img class="wiki-icon" src="assets/icon/66def38d7f486133.svg" alt="">聖水</a> ・ <a href="#/ja/action/brew-bottled-spirit"><img class="wiki-icon" src="assets/icon/bf8ea96214134b73.svg" alt="">精霊の入ったビン</a> ・ <a href="#/ja/action/brew-panacea"><img class="wiki-icon" src="assets/icon/1683c3363eface44.svg" alt="">万能薬</a> ・ <a href="#/ja/action/brew-revive-piece"><img class="wiki-icon" src="assets/icon/a6e1559582444f43.svg" alt="">げんきのかけら</a> ・ <a href="#/ja/action/brew-elixir"><img class="wiki-icon" src="assets/icon/0156d3b4685e61c6.svg" alt="">エリクサー</a> ・ <a href="#/ja/action/brew-felix-felicis"><img class="wiki-icon" src="assets/icon/b395012fc80a4b1a.svg" alt="">フェリックスフェリシス</a></div></div>
 
 ## 開発者向け情報
 
@@ -51,10 +52,11 @@
 | --- | --- |
 | id | `brew-heat-pack` |
 | `category` | `basement` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `brew` |
 | `unlocked` | `hidden` |
 | `level` | `15` |
+| `disciplineLevel` | `0` |
 | `experience` | `134` |
 | `seconds` | `240` |
 | `chance` | `0.6` |
@@ -75,15 +77,16 @@
 		"icon": {
 			"emoji": "🔥",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/4687a628a4156fbe.svg）"
 		},
 		"color": ""
 	},
 	"category": "basement",
-	"attribute": "",
+	"discipline": "",
 	"group": "brew",
 	"unlocked": "hidden",
 	"level": 15,
+	"disciplineLevel": 0,
 	"experience": 134,
 	"seconds": 240,
 	"chance": 0.6,
@@ -108,6 +111,13 @@
 			"id": "salt",
 			"count": 6,
 			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "town-proof",
+			"count": 1,
+			"chance": 0,
 			"equipment": false
 		}
 	],

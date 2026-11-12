@@ -1,6 +1,6 @@
 # 蛇口のハンドル
 
-<div class="wiki-infobox" style="--accent:#463476"><div class="wiki-infobox-title">蛇口のハンドル</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🚰</span></div><table><tr><th>場所</th><td><a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv31</td></tr><tr><th>所要時間</th><td>3時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,086</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#463476"><div class="wiki-infobox-title">蛇口のハンドル</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/2ae1d518c32f0f73.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/atelier"><img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><img class="wiki-icon" src="assets/icon/c9bb2836ebd5ad26.svg" alt="">合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv31</td></tr><tr><th>所要時間</th><td>3時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>3,086</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 蒸気バルブを削って刃を立てる。手裏剣の職人がいなくなった現代の代用品。
 
@@ -9,10 +9,11 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) Lv31以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">♨️</span>蒸気バルブ](/ja/item/steam-valve) ×2（消費する）
-- [<span class="wiki-icon">⚙️</span>鉄](/ja/item/iron) ×3（消費する）
-- [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) ×10（消費する）
+- [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) Lv31以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/44e505def69875af.svg" alt="">蒸気バルブ](/ja/item/steam-valve) ×2（消費する）
+- [<img class="wiki-icon" src="assets/icon/b561878ce119f934.svg" alt="">鉄](/ja/item/iron) ×3（消費する）
+- [<img class="wiki-icon" src="assets/icon/d071640cd4afaf27.svg" alt="">錆びた金属片](/ja/item/rusty-metal-piece) ×10（消費する）
+- [<span class="wiki-icon">🏅</span>北国の証](/ja/item/northland-proof) ×1（消費しない）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -20,7 +21,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🚰</span>蛇口のハンドル](/ja/item/faucet-handle) ×80 | 成功時 | 100% | 80 | 26.7 |
+| [<img class="wiki-icon" src="assets/icon/2140e5ac1ad9588c.svg" alt="">蛇口のハンドル](/ja/item/faucet-handle) ×80 | 成功時 | 100% | 80 | 26.7 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -29,9 +30,9 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv31） | 3時間 | 100% | 3,086 | 0.3 | 45 |
-| +10（Lv41） | 2時間26分 | 100% | 2,057.33 | 0.4 | 13 |
+| +10（Lv41） | 2時間26分 | 100% | 1,679.81 | 0.4 | 11 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -41,7 +42,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#463476"><div class="wiki-navbox-title">工房のアクション</div><div class="wiki-navbox-body">64件。一覧は <a href="#/ja/category/atelier"><span class="wiki-icon">⚒️</span>工房</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#463476"><div class="wiki-navbox-title">工房のアクション</div><div class="wiki-navbox-body">64件。一覧は <a href="#/ja/category/atelier"><img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -49,10 +50,11 @@
 | --- | --- |
 | id | `craft-faucet-handle` |
 | `category` | `atelier` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `synthesize` |
 | `unlocked` | `hidden` |
 | `level` | `31` |
+| `disciplineLevel` | `0` |
 | `experience` | `3086` |
 | `seconds` | `10800` |
 | `chance` | `1` |
@@ -73,15 +75,16 @@
 		"icon": {
 			"emoji": "🚰",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/2ae1d518c32f0f73.svg）"
 		},
 		"color": ""
 	},
 	"category": "atelier",
-	"attribute": "",
+	"discipline": "",
 	"group": "synthesize",
 	"unlocked": "hidden",
 	"level": 31,
+	"disciplineLevel": 0,
 	"experience": 3086,
 	"seconds": 10800,
 	"chance": 1,
@@ -106,6 +109,13 @@
 			"id": "rusty-metal-piece",
 			"count": 10,
 			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "northland-proof",
+			"count": 1,
+			"chance": 0,
 			"equipment": false
 		}
 	],

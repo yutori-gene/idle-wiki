@@ -1,6 +1,6 @@
 # 装甲
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">装甲</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🛡️</span></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>防御+8・回復+4</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">装甲</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/d9517812a50147d7.svg" alt=""></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>防御+8・回復+4</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 硬さは、時間を稼ぐという意味だ。
 
@@ -17,16 +17,16 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐘</span>空飛ぶ象](/ja/action/flying-elephant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 |
-| [<span class="wiki-icon">🧊</span>氷](/ja/action/ice) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 |
-| [<span class="wiki-icon">🧙</span>エレメンタリスト](/ja/action/elementalist) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
-| [<span class="wiki-icon">🥶</span>フリーズ様](/ja/action/lord-freeze) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv45 |
+| [<img class="wiki-icon" src="assets/icon/e3daf5030f26dcd0.svg" alt="">空飛ぶ象](/ja/action/flying-elephant) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv39 |
+| [<img class="wiki-icon" src="assets/icon/60b7195e9620edc7.svg" alt="">氷](/ja/action/ice) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv35 |
+| [<img class="wiki-icon" src="assets/icon/3aad8de08b0fee46.svg" alt="">エレメンタリスト](/ja/action/elementalist) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv6 |
+| [<img class="wiki-icon" src="assets/icon/a1198ac4d82115d0.svg" alt="">フリーズ様](/ja/action/lord-freeze) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv20 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/fb77d9c7fa10a1ce.svg" alt="">鉄の胸当](/ja/item/iron-breastplate) | [<img class="wiki-icon" src="assets/icon/0f29202c4827bbc2.svg" alt="">胴体装備](/ja/group/body-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -49,7 +49,7 @@
 		"icon": {
 			"emoji": "🛡️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/d9517812a50147d7.svg）"
 		},
 		"color": ""
 	},

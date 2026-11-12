@@ -1,6 +1,6 @@
 # 魔王の印璽
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">魔王の印璽</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🖋️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>2,187 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">魔王の印璽</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e2a4e5f6cb41c3d2.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>2,187 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 押された者は魔に落ちる。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv46 | 1 | 0.023% | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/1dd26ec4c50a4c5d.svg" alt="">ベヒモス](/ja/action/behemoth) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv31 | 1 | 0.023% | 0 | 0 |
 
 ## 用途
 
@@ -19,10 +19,10 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪄</span>スターロッド](/ja/action/craft-star-rod) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv46 | 1 | 100% |  |
-| [<span class="wiki-icon">👘</span>神衣](/ja/action/craft-god-robe) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv43 | 1 | 100% |  |
-| [<span class="wiki-icon">🛡️</span>矛盾](/ja/action/craft-contradiction) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv44 | 1 | 100% |  |
-| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/action/craft-plug-suit) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv47 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/f0e3bbaa400e8d7a.svg" alt="">スターロッド](/ja/action/craft-star-rod) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv46 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/3cdf7bc8331b8d8e.svg" alt="">神衣](/ja/action/craft-god-robe) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv43 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/24248e151a520a7a.svg" alt="">矛盾](/ja/action/craft-contradiction) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv44 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/cad77327d29fa8d7.svg" alt="">プラグスーツ](/ja/action/craft-plug-suit) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv47 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -57,7 +57,7 @@
 		"icon": {
 			"emoji": "🖋️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/e2a4e5f6cb41c3d2.svg）"
 		},
 		"color": ""
 	},

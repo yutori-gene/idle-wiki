@@ -1,6 +1,6 @@
 # 溶岩の心臓
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">溶岩の心臓</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">❤️‍🔥</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>189 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">溶岩の心臓</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f3b74a6b97b3e040.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>189 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 脈打つ熱の源。
 
@@ -11,13 +11,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪱</span>マグマワーム](/ja/action/magma-worm) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 | 1 | 0.113% | 0.001 | 0 |
+| [<img class="wiki-icon" src="assets/icon/5eb0d3e7e1467725.svg" alt="">マグマワーム](/ja/action/magma-worm) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv19 | 1 | 0.113% | 0.001 | 0 |
 
 ### イベント
 
 | イベント | タイミング | 個数 | 確率 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>火焔の試練](/ja/event/flame-trial) | 条件達成（タスク） | 2 | 100% |
+| [<img class="wiki-icon" src="assets/icon/4e8408d31f1b9b3d.svg" alt="">火焔の試練](/ja/event/flame-trial) | 条件達成（タスク） | 2 | 100% |
 
 ## 用途
 
@@ -25,7 +25,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>熱い想い](/ja/action/inherit-burning-passion) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/b1fbaa1c62ddb5df.svg" alt="">熱い想い](/ja/action/inherit-burning-passion) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv35 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -60,7 +60,7 @@
 		"icon": {
 			"emoji": "❤️‍🔥",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/f3b74a6b97b3e040.svg）"
 		},
 		"color": ""
 	},

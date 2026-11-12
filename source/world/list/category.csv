@@ -1,14 +1,14 @@
 ﻿id,name,locked,explanation,emoji,color,group,tier,req-0-id,req-1-id,req-2-id,req-0-count,req-1-count,req-2-count,req-0-chance,req-1-chance,req-2-chance,req-0-equipment,req-1-equipment,req-2-equipment,req-0-type,req-1-type,req-2-type,numeric,standaloneProgress,memo,feature
 park,公園,false,,🌳,#697852,ダンジョン,1,,,,,,,,,,,,,,,,O,,,
-forest,森,true,,🌲,#426251,ダンジョン,2,公園,伝説のボール,,20,,,,,,,,,category,item,,O,,,
-town,街,true,,🏙️,#856654,ダンジョン,3,森,森の精霊石,,20,,,,,,,,,category,item,,O,,,
-sea,海,true,,🌊,#4a637d,ダンジョン,4,街,都市伝説の鍵,,20,,,,,,,,,category,item,,O,,,
-northland,北国,true,,❄️,#6b8a92,ダンジョン,5,海,海神のトライデント,隠された北国への道,20,,1,,,,,,,category,item,item,O,,,解禁条件に書斎の古びた地図から得る隠された北国への道を足した（海Lv20＋海神のトライデント＋隠された北国への道）
-factory,工場,true,,🏭,#717476,ダンジョン,6,北国,極夜の結晶,,20,,,,,,,,,category,item,,O,,,
-volcano,火山,true,,🌋,#8f6059,ダンジョン,7,工場,永久機関,,20,,,,,,,,,category,item,,O,,,
-castle,城,true,,🏰,#776a48,ダンジョン,8,火山,フェニックスの羽,,20,,,,,,,,,category,item,,O,,,
-hell,地獄,true,,🔥,#6e4c5b,ダンジョン,9,城,王家の秘宝,,20,,,,,,,,,category,item,,O,,,
-sky-garden,天空のお庭,true,,☁️,#9c95b5,ダンジョン,10,地獄,奈落の宝珠,,20,,,,,,,,,category,item,,O,,,
+forest,森,true,,🌲,#426251,ダンジョン,2,公園,伝説のボール,,35,,,,,,,,,category,item,,O,,,
+town,街,true,,🏙️,#856654,ダンジョン,3,森,森の精霊石,,35,,,,,,,,,category,item,,O,,,
+sea,海,true,,🌊,#4a637d,ダンジョン,4,街,都市伝説の鍵,,35,,,,,,,,,category,item,,O,,,
+northland,北国,true,,❄️,#6b8a92,ダンジョン,5,海,海神のトライデント,隠された北国への道,35,,1,,,,,,,category,item,item,O,,,解禁条件に書斎の古びた地図から得る隠された北国への道を足した（海Lv20＋海神のトライデント＋隠された北国への道）
+factory,工場,true,,🏭,#717476,ダンジョン,6,北国,極夜の結晶,,35,,,,,,,,,category,item,,O,,,
+volcano,火山,true,,🌋,#8f6059,ダンジョン,7,工場,永久機関,,35,,,,,,,,,category,item,,O,,,
+castle,城,true,,🏰,#776a48,ダンジョン,8,火山,フェニックスの羽,,35,,,,,,,,,category,item,,O,,,
+hell,地獄,true,,🔥,#6e4c5b,ダンジョン,9,城,王家の秘宝,,35,,,,,,,,,category,item,,O,,,
+sky-garden,天空のお庭,true,,☁️,#9c95b5,ダンジョン,10,地獄,奈落の宝珠,,35,,,,,,,,,category,item,,O,,,
 greenhouse,温室,true,,🌱,#849b88,拠点,,公園,,,8,,,,,,,,,category,,,O,O,,Lv50まで連続で乗り継いで約70日の長期レーン。装備枠は2つ（畑の恵み：ミミズ／ニンニク、食材：バナナ／リンゴ／サラダ。食材の枠は2026-10-31 に追加）
 kitchen,台所,true,,🍳,#9b7d61,拠点,,森,,,5,,,,,,,,,category,,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）。2026-10-30 に縮小して料理12・加工2・購入4の18本。調理器具4種は道具グループで装備不要（所持していれば使える）。料理は回復量（p-restore）を tier 連動で持つ（2026-10-31）
 basement,地下室,true,,⚗️,#736883,拠点,,街,,,3,,,,,,,,,category,,,O,,,Lv1〜50 に1本ずつ均等（tier順）。秒数1〜30分・成功率50〜100%。Lv50まで連続で約146時間（排他レーン）。調合器具3種（すり鉢・蒸留器・るつぼ）は道具グループで装備不要（所持していれば調合に使える・2026-10-31）

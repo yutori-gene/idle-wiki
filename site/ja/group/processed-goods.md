@@ -1,18 +1,18 @@
 # 加工品
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">加工品</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚙️</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>6種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">加工品</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/6d6032deee23fa82.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>6種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚖️</span>体重計](/ja/item/weight-scale) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 9 |
-| [<span class="wiki-icon">💳</span>キャッシュカード](/ja/item/cash-card) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 81 |
-| [<span class="wiki-icon">🏧</span>ATM](/ja/item/atm) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 81 |
-| [<span class="wiki-icon">🥩</span>培養肉](/ja/item/cultured-meat) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 54 |
-| [<span class="wiki-icon">🥩</span>ソイミート](/ja/item/soy-meat) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 54 |
-| [<span class="wiki-icon">🧬</span>Gウイルス](/ja/item/g-virus) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 162 |
+| [<img class="wiki-icon" src="assets/icon/65fcd715e4a0c21d.svg" alt="">体重計](/ja/item/weight-scale) | [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | 装備不可 | 9 |
+| [<img class="wiki-icon" src="assets/icon/fe34e67ebf4ee5ca.svg" alt="">キャッシュカード](/ja/item/cash-card) | [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | 装備不可 | 81 |
+| [<img class="wiki-icon" src="assets/icon/a8df5b2291a0b3c8.svg" alt="">ATM](/ja/item/atm) | [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | 装備不可 | 81 |
+| [<img class="wiki-icon" src="assets/icon/4a4a0bb204e363d8.svg" alt="">培養肉](/ja/item/cultured-meat) | [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | 装備不可 | 54 |
+| [<img class="wiki-icon" src="assets/icon/2157f1f6ec64792d.svg" alt="">ソイミート](/ja/item/soy-meat) | [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | 装備不可 | 54 |
+| [<img class="wiki-icon" src="assets/icon/def0936f480dd038.svg" alt="">Gウイルス](/ja/item/g-virus) | [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | 装備不可 | 162 |
 
 ## 開発者向け情報
 
@@ -36,7 +36,7 @@
 	"icon": {
 		"emoji": "⚙️",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/6d6032deee23fa82.svg）"
 	},
 	"color": ""
 }

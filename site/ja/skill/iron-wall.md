@@ -1,6 +1,6 @@
 # 鉄壁
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">鉄壁</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏰</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>防御+10・精度+3・回避+6・回復+5</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">鉄壁</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/3ab1e4c1b0921009.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>防御+10・精度+3・回避+6・回復+5</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 抜けないと分かった相手は、勝手に諦める。
 
@@ -17,16 +17,16 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 |
-| [<span class="wiki-icon">🗿</span>ガーゴイル](/ja/action/gargoyle) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv42 |
-| [<span class="wiki-icon">📦</span>人食い箱](/ja/action/man-eating-box) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv45 |
-| [<img class="wiki-icon" src="assets/icon/300032c34ac7363c.svg" alt="">司祭](/ja/action/priest) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv48 |
+| [<img class="wiki-icon" src="assets/icon/2306e5eaf3792660.svg" alt="">バハムート](/ja/action/bahamut) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv46 |
+| [<img class="wiki-icon" src="assets/icon/3bd66d6ecb71b73e.svg" alt="">ガーゴイル](/ja/action/gargoyle) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv45 |
+| [<img class="wiki-icon" src="assets/icon/2fe1c02a6322d541.svg" alt="">人食い箱](/ja/action/man-eating-box) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv27 |
+| [<img class="wiki-icon" src="assets/icon/300032c34ac7363c.svg" alt="">司祭](/ja/action/priest) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv1 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🛡️</span>矛盾](/ja/item/contradiction) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/2b1e18576369c12c.svg" alt="">矛盾](/ja/item/contradiction) | [<img class="wiki-icon" src="assets/icon/fb530857299597e8.svg" alt="">腕部装備](/ja/group/arm-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -49,7 +49,7 @@
 		"icon": {
 			"emoji": "🏰",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/3ab1e4c1b0921009.svg）"
 		},
 		"color": ""
 	},

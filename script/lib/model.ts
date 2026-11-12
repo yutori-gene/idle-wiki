@@ -3,6 +3,7 @@ import type * as Type from "../../source/type/worldType.ts";
 import type * as Condition from "../../source/type/conditionType.ts";
 import type { Language } from "../../config/wiki.ts";
 import type { CsvRow, Source } from "./source.ts";
+import { experienceReturnRate, type ActionBasis, type ExperienceTarget } from "./calc.ts";
 import { labels, type Labels, type PageType } from "./label.ts";
 
 /**
@@ -72,8 +73,8 @@ export class Model {
 
 	/** カテゴリ id → そのカテゴリに置かれたアクション（ワールドの並び順） */
 	readonly categoryActions = new Map<string, Type.Action[]>();
-	/** カテゴリ id → attribute でそのカテゴリへ経験値を入れる、よそのカテゴリのアクション */
-	readonly attributedActions = new Map<string, Type.Action[]>();
+	/** カテゴリ id → そのカテゴリを系統（discipline）にしている、よそのカテゴリのアクション */
+	readonly disciplineActions = new Map<string, Type.Action[]>();
 	/** カテゴリ id → そのカテゴリが管理するアイテム */
 	readonly categoryItems = new Map<string, Type.Item[]>();
 	/** カテゴリ id → そこへ効くプロパティ（"*" は全カテゴリに入る） */
@@ -126,7 +127,7 @@ export class Model {
 		}
 		for (const action of world.actions) {
 			push(this.categoryActions, action.category, action);
-			if (action.attribute && action.attribute !== action.category) push(this.attributedActions, action.attribute, action);
+			if (this.hasDiscipline(action)) push(this.disciplineActions, action.discipline, action);
 			member(action.group)?.actions.push(action);
 			for (const requirement of action.requirements) this.addReference(requirement, false, { kind: "action-requirement", action, requirement });
 			for (const acquisition of action.acquisitions) this.addReference(acquisition, false, { kind: "action-acquisition", action, acquisition });
@@ -202,7 +203,7 @@ export class Model {
 
 	/**
 	 * 表示色。player と同じく、色を持つのはカテゴリだけで、アクション・アイテム・イベントは所属カテゴリから継承する
-	 * （attribute を持つアクションは attribute 側のカテゴリ色）。どれも無ければワールドの色
+	 * （系統を持つアクションは系統のカテゴリ色）。どれも無ければワールドの色
 	 */
 	color(type: PageType, id: string): string {
 		const own = this.information(type, id)?.color;
@@ -211,7 +212,7 @@ export class Model {
 		let inherited = "";
 		if (type === "action") {
 			const action = this.actions.get(id);
-			if (action) inherited = categoryColor(action.attribute || action.category);
+			if (action) inherited = categoryColor(this.disciplineId(action));
 		} else if (type === "item") {
 			const item = this.items.get(id)?.world;
 			if (item) inherited = categoryColor(item.category);
@@ -222,9 +223,39 @@ export class Model {
 		return inherited || this.world.basic.overview.information.color || "#888888";
 	}
 
-	/** 経験値の入り先カテゴリ（attribute があればそちら） */
-	experienceCategory(action: Type.Action): Type.Category | undefined {
-		return this.categories.get(action.attribute || action.category);
+	/** 系統（discipline）のカテゴリ id。空なら所属カテゴリ（player の辞書の正規化と同じ） */
+	disciplineId(action: Type.Action): string {
+		return action.discipline || action.category;
+	}
+
+	/** 所属カテゴリとは別の系統を持つか */
+	hasDiscipline(action: Type.Action): boolean {
+		return this.disciplineId(action) !== action.category;
+	}
+
+	/** 系統のカテゴリ。レベル差・装備の効き先はこのカテゴリで測る */
+	disciplineCategory(action: Type.Action): Type.Category | undefined {
+		return this.categories.get(this.disciplineId(action));
+	}
+
+	/** 系統の必要レベル。系統が無ければ必要Lv、系統があって未入力（0）なら1（player の辞書の正規化と同じ） */
+	disciplineLevel(action: Type.Action): number {
+		return this.hasDiscipline(action) ? Math.max(1, action.disciplineLevel) : action.level;
+	}
+
+	/** 計算値の基準（系統のカテゴリと経験値の入り先）。経験値は numeric のカテゴリにだけ入る */
+	actionBasis(action: Type.Action): ActionBasis {
+		const numeric = (categoryId: string): boolean => this.categories.get(categoryId)?.numeric ?? false;
+		const discipline = this.disciplineId(action);
+		const targets: ExperienceTarget[] = [];
+		if (!this.hasDiscipline(action)) {
+			if (numeric(discipline)) targets.push({ categoryId: discipline, level: action.level, rate: 1 });
+		} else {
+			const rate = experienceReturnRate(this.world.basic.general);
+			if (numeric(action.category)) targets.push({ categoryId: action.category, level: action.level, rate });
+			if (numeric(discipline)) targets.push({ categoryId: discipline, level: this.disciplineLevel(action), rate: 1 - rate });
+		}
+		return { numeric: numeric(discipline), level: this.disciplineLevel(action), targets };
 	}
 
 	/** 売買の通貨。空・未知の id はメイン通貨（coins[0]）にフォールバックする（player と同じ） */

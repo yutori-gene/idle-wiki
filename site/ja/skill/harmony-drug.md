@@ -1,6 +1,6 @@
 # 調和の薬
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">調和の薬</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>攻撃+7・防御+7・精度+7・回避+7・回復+7</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">調和の薬</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b6a0b32a64417481.svg" alt=""></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>攻撃+7・防御+7・精度+7・回避+7・回復+7</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > すべてが少しずつ良くなる、それだけの薬。
 
@@ -17,7 +17,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>万能薬](/ja/item/panacea) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/67f30828b622a31f.svg" alt="">万能薬](/ja/item/panacea) | [<img class="wiki-icon" src="assets/icon/4815effeebbe3bb0.svg" alt="">ポーション](/ja/group/potion) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -40,7 +40,7 @@
 		"icon": {
 			"emoji": "⚗️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/b6a0b32a64417481.svg）"
 		},
 		"color": ""
 	},

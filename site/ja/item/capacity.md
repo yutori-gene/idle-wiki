@@ -1,12 +1,12 @@
 # 物置
 
-<div class="wiki-infobox" style="--accent:#8a5a2b"><div class="wiki-infobox-title">物置</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📦</span></div><table><tr><th>種類</th><td>所持枠（アイテムの種類数）</td></tr><tr><th>初期の枠</th><td>30</td></tr><tr><th>購入</th><td><a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a>で購入（上限なし）</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#8a5a2b"><div class="wiki-infobox-title">物置</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📦</span></div><table><tr><th>種類</th><td>所持枠（アイテムの種類数。手放せない持ち物は数えない）</td></tr><tr><th>初期の枠</th><td>30</td></tr><tr><th>購入</th><td><a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a>で購入（上限なし）</td></tr></table></div>
 
 > 同時に置いておけるアイテムの種類数。コインで枠を買えるほか、ダンジョンで容器を見つけると増える
 
 物置は**アイテムの種類数**の上限。同じアイテムはいくつ持っても1枠。いっぱいになると、まだ持っていない種類のアイテムを受け取れない。
 
-コインで買うと1枠ずつ増えるが、買うたびに高くなる。ダンジョンの探索で手に入る**容器**（容器グループ: [<span class="wiki-icon">🎒</span>容器](/ja/group/container)）を手に入れると、隠しイベントで一度に大きく増える。
+コインで買うと1枠ずつ増えるが、買うたびに高くなる。ダンジョンの探索で手に入る**容器**（容器グループ: [<img class="wiki-icon" src="assets/icon/3589d353f01045a6.svg" alt="">容器](/ja/group/container)）を手に入れると、隠しイベントで一度に大きく増える。
 
 
 ## 購入価格
@@ -44,16 +44,16 @@ n回目の価格 = 100 × 1.3^(n−1)（切り捨て）。上限は無いので�
 
 | イベント | タイミング | 個数 | 確率 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛍️</span>エコバッグを手に入れた](/ja/event/storage-eco-bag) | 変化時（隠し） | 10 | 100% |
-| [<span class="wiki-icon">🧺</span>ピクニックバスケットを手に入れた](/ja/event/storage-picnic-basket) | 変化時（隠し） | 10 | 100% |
-| [<span class="wiki-icon">🏺</span>壺を手に入れた](/ja/event/storage-jar) | 変化時（隠し） | 10 | 100% |
-| [<span class="wiki-icon">🎒</span>リュックサックを手に入れた](/ja/event/storage-backpack) | 変化時（隠し） | 15 | 100% |
-| [<span class="wiki-icon">🦘</span>カンガルーの袋を手に入れた](/ja/event/storage-kangaroo-pouch) | 変化時（隠し） | 15 | 100% |
-| [<span class="wiki-icon">💊</span>ホイポイカプセルを手に入れた](/ja/event/storage-hoi-poi-capsule) | 変化時（隠し） | 20 | 100% |
-| [<span class="wiki-icon">📦</span>コンテナを手に入れた](/ja/event/storage-shipping-container) | 変化時（隠し） | 20 | 100% |
-| [<span class="wiki-icon">⚰️</span>棺桶を手に入れた](/ja/event/storage-coffin) | 変化時（隠し） | 25 | 100% |
-| [<span class="wiki-icon">🌀</span>3次元ポケットを手に入れた](/ja/event/storage-3d-pocket) | 変化時（隠し） | 30 | 100% |
-| [<span class="wiki-icon">🔌</span>エントリープラグを手に入れた](/ja/event/storage-entry-plug) | 変化時（隠し） | 35 | 100% |
+| [<img class="wiki-icon" src="assets/icon/786d87e7f10c9e18.svg" alt="">エコバッグを手に入れた](/ja/event/storage-eco-bag) | 変化時（隠し） | 10 | 100% |
+| [<img class="wiki-icon" src="assets/icon/cb9cdd821d080835.svg" alt="">ピクニックバスケットを手に入れた](/ja/event/storage-picnic-basket) | 変化時（隠し） | 10 | 100% |
+| [<img class="wiki-icon" src="assets/icon/6d83430ce6f01537.svg" alt="">壺を手に入れた](/ja/event/storage-jar) | 変化時（隠し） | 10 | 100% |
+| [<img class="wiki-icon" src="assets/icon/7f54cbc60ecb5a93.svg" alt="">リュックサックを手に入れた](/ja/event/storage-backpack) | 変化時（隠し） | 15 | 100% |
+| [<img class="wiki-icon" src="assets/icon/68891d3555e983c9.svg" alt="">カンガルーの袋を手に入れた](/ja/event/storage-kangaroo-pouch) | 変化時（隠し） | 15 | 100% |
+| [<img class="wiki-icon" src="assets/icon/763eb725922c493f.svg" alt="">ホイポイカプセルを手に入れた](/ja/event/storage-hoi-poi-capsule) | 変化時（隠し） | 20 | 100% |
+| [<img class="wiki-icon" src="assets/icon/6390f2ea8d17b1b0.svg" alt="">コンテナを手に入れた](/ja/event/storage-shipping-container) | 変化時（隠し） | 20 | 100% |
+| [<img class="wiki-icon" src="assets/icon/a6dfbb250a089243.svg" alt="">棺桶を手に入れた](/ja/event/storage-coffin) | 変化時（隠し） | 25 | 100% |
+| [<img class="wiki-icon" src="assets/icon/578ab5a7ccbdb378.svg" alt="">3次元ポケットを手に入れた](/ja/event/storage-3d-pocket) | 変化時（隠し） | 30 | 100% |
+| [<img class="wiki-icon" src="assets/icon/a7b5fc35110ebe50.svg" alt="">エントリープラグを手に入れた](/ja/event/storage-entry-plug) | 変化時（隠し） | 35 | 100% |
 
 ## 開発者向け情報
 

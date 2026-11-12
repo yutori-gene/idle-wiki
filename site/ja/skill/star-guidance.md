@@ -1,6 +1,6 @@
 # 星の導き
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">星の導き</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⭐</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>攻撃+6・精度+7・回復+4</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">星の導き</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/1f34ffbe96d4756f.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>攻撃+6・精度+7・回復+4</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 進む方角が決まっていれば、迷いは消える。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 |
-| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/2306e5eaf3792660.svg" alt="">バハムート](/ja/action/bahamut) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv46 |
+| [<img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🌀</span>黄金の回転](/ja/item/golden-spin) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/bdb4ec7a42ce04d5.svg" alt="">黄金の回転](/ja/item/golden-spin) | [<img class="wiki-icon" src="assets/icon/90105f31f000c615.svg" alt="">ブローチ](/ja/group/brooch) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "⭐",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/1f34ffbe96d4756f.svg）"
 		},
 		"color": ""
 	},

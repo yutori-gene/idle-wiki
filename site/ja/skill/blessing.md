@@ -1,6 +1,6 @@
 # 祝福
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">祝福</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">✨</span></div><table><tr><th>発動率</th><td>8%／ターン</td></tr><tr><th>効果</th><td>回復+7</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">祝福</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/100f5a738f0a4b87.svg" alt=""></div><table><tr><th>発動率</th><td>8%／ターン</td></tr><tr><th>効果</th><td>回復+7</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 信じる者は、少しだけ長く立っていられる。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🙏</span>教祖](/ja/action/cult-leader) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv14 |
-| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/6b4bee93ce40e393.svg" alt="">教祖](/ja/action/cult-leader) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv5 |
+| [<img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔴</span>賢者の石](/ja/item/philosophers-stone) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/f8e9aa004b3b3c4e.svg" alt="">賢者の石](/ja/item/philosophers-stone) | [<img class="wiki-icon" src="assets/icon/47ba4b0004eb0e60.svg" alt="">アクセサリー](/ja/group/accessory) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "✨",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/100f5a738f0a4b87.svg）"
 		},
 		"color": ""
 	},

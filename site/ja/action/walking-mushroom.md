@@ -1,6 +1,6 @@
 # 歩くキノコ
 
-<div class="wiki-infobox" style="--accent:#968358"><div class="wiki-infobox-title">歩くキノコ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍄</span></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv8</td></tr><tr><th>所要時間</th><td>2.7秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.54</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#968358"><div class="wiki-infobox-title">歩くキノコ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/5b9eec78a0de50a1.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森</a></td></tr><tr><th>系統</th><td><a href="#/ja/category/explosive-weapon"><img class="wiki-icon" src="assets/icon/354851e7b6da8b2e.svg" alt="">爆発武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv9</td></tr><tr><th>系統の必要Lv</th><td>Lv4</td></tr><tr><th>所要時間</th><td>2.7秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.54</td></tr><tr><th>経験値の配分</th><td><a href="#/ja/category/forest"><img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森</a> 80%、<a href="#/ja/category/explosive-weapon"><img class="wiki-icon" src="assets/icon/354851e7b6da8b2e.svg" alt="">爆発武器</a> 20%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 自ら歩く菌類。胞子は危険。
 
@@ -9,7 +9,8 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv8以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) Lv9以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/354851e7b6da8b2e.svg" alt="">爆発武器](/ja/category/explosive-weapon) が解放されている・Lv4以上（系統のカテゴリ）
 - [<img class="wiki-icon" src="assets/icon/4396836ca6fee37c.svg" alt="">腐った肉](/ja/item/rotten-meat) ×1（2.25%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -18,9 +19,9 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) ×1 | 成功時 | 6.22% | 0.031 | 1.8 |
-| [<span class="wiki-icon">🍄</span>キノコ](/ja/item/mushroom) ×1 | 成功時 | 12.6% | 0.063 | 3.5 |
-| [<span class="wiki-icon">🍂</span>腐葉土](/ja/item/leaf-mold) ×1 | 成功時 | 6.3% | 0.032 | 1.8 |
+| [<img class="wiki-icon" src="assets/icon/7f1736be8e7f5e05.svg" alt="">エリンギ](/ja/item/king-oyster-mushroom) ×1 | 成功時 | 6.22% | 0.031 | 1.9 |
+| [<img class="wiki-icon" src="assets/icon/a7deb49a898fb6e6.svg" alt="">キノコ](/ja/item/mushroom) ×1 | 成功時 | 12.6% | 0.063 | 3.8 |
+| [<img class="wiki-icon" src="assets/icon/c188baa033147b65.svg" alt="">腐葉土](/ja/item/leaf-mold) ×1 | 成功時 | 6.3% | 0.032 | 1.9 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -30,43 +31,43 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 51 | 29 | 6 | 0 | 0 |
+| 52 | 28 | 5 | 0 | 0 |
 
 **敵のスキル**
 
-- [<span class="wiki-icon">🧥</span>厚着](/ja/skill/heavy-clothing)：毎ターン 11% で発動、防御+4
+- [<img class="wiki-icon" src="assets/icon/573ace9e8b8cae50.svg" alt="">厚着](/ja/skill/heavy-clothing)：毎ターン 11% で発動、防御+4
 
 ### 戦闘の見込み（装備・スキルなし）
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv8） | 6.17% | 8.44% | 75% | 22.8% | 22% | 22.7 | 147.6% | 1分4秒 | 負ける見込みが高い |
-| +10（Lv18） | 9.26% | 6.89% | 81.8% | 26.6% | 29.7% | 13.4 | 68% | 31.8秒 | 連戦で少しずつ消耗する |
-| +20（Lv28） | 13.9% | 5.62% | 87.1% | 30.7% | 38.8% | 9.2 | 35.8% | 18.3秒 | 放置で連戦できる |
-| +30（Lv38） | 20.8% | 4.59% | 91% | 35.2% | 48.8% | 5.5 | 16.4% | 9.5秒 | 放置で連戦できる |
+| ±0（Lv4） | 6.43% | 8.61% | 75% | 23.1% | 22% | 21.3 | 141.1% | 1分 | 負ける見込みが高い |
+| +10（Lv14） | 9.64% | 7.03% | 81.8% | 26.9% | 29.7% | 13.4 | 69% | 31.8秒 | 連戦で少しずつ消耗する |
+| +20（Lv24） | 14.5% | 5.74% | 87.1% | 31.1% | 38.8% | 8 | 31.8% | 16.3秒 | 放置で連戦できる |
+| +30（Lv34） | 21.7% | 4.69% | 91% | 35.6% | 48.8% | 5.5 | 16.6% | 9.5秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
 ## 計算値
 
-| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
-| --- | --- | --- | --- | --- | --- |
-| ±0（Lv8） | 2.7秒 | 50% | 1.54 | 56.3 | 21 |
-| +10（Lv18） | 2.2秒 | 60% | 1.03 | 113.1 | 12 |
-| +20（Lv28） | 1.8秒 | 69.2% | 0.68 | 196.4 | 6 |
-| +30（Lv38） | 1.5秒 | 77.1% | 0.46 | 377.2 | 3 |
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時（森） | 経験値%/時（爆発武器） |
+| --- | --- | --- | --- | --- | --- | --- |
+| ±0（Lv4） | 2.7秒 | 50% | 1.54 | 59.7 | 16 | 7 |
+| +10（Lv14） | 2.2秒 | 60% | 0.84 | 113.1 | 7 | 3 |
+| +20（Lv24） | 1.8秒 | 69.2% | 0.46 | 221.3 | 3 | 1 |
+| +30（Lv34） | 1.5秒 | 77.1% | 0.25 | 377.2 | 1 | 0 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝系統のカテゴリのレベル − 系統の必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。
 
 ## 収支（1時間あたり）
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 42 | 11 | 31 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 45 | 12 | 33 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><span class="wiki-icon">🌰</span>木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><span class="wiki-icon">🪵</span>倒木あさり</a> ・ <a href="#/ja/action/rabbit-girl"><span class="wiki-icon">🐰</span>ラビットガール</a> ・ <a href="#/ja/action/snake"><span class="wiki-icon">🐍</span>ヘビ</a> ・ <a href="#/ja/action/walking-mushroom"><span class="wiki-icon">🍄</span>歩くキノコ</a> ・ <a href="#/ja/action/man-eating-plant"><span class="wiki-icon">🌱</span>食人植物</a> ・ <a href="#/ja/action/cockatrice"><span class="wiki-icon">🐔</span>コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/druid"><span class="wiki-icon">🧙</span>ドルイド</a> ・ <a href="#/ja/action/bear"><span class="wiki-icon">🐻</span>クマ</a> ・ <a href="#/ja/action/orc"><span class="wiki-icon">👹</span>オーク</a> ・ <a href="#/ja/action/flying-elephant"><span class="wiki-icon">🐘</span>空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><span class="wiki-icon">🐎</span>ケンタウロス</a> ・ <a href="#/ja/action/wolf"><span class="wiki-icon">🐺</span>ウルフ</a> ・ <a href="#/ja/action/hydra"><span class="wiki-icon">🐉</span>ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><span class="wiki-icon">⛩️</span>古い祠の調査</a></div></div>
+<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><img class="wiki-icon" src="assets/icon/2081317ebebd178d.svg" alt="">木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><img class="wiki-icon" src="assets/icon/f6b774fbdf6117d2.svg" alt="">倒木あさり</a> ・ <a href="#/ja/action/rabbit-girl"><img class="wiki-icon" src="assets/icon/ca6d048476ae39f9.svg" alt="">ラビットガール</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/walking-mushroom"><img class="wiki-icon" src="assets/icon/5b9eec78a0de50a1.svg" alt="">歩くキノコ</a> ・ <a href="#/ja/action/snake"><img class="wiki-icon" src="assets/icon/4a396b8649ead6c1.svg" alt="">ヘビ</a> ・ <a href="#/ja/action/man-eating-plant"><img class="wiki-icon" src="assets/icon/201d7af6f34effd1.svg" alt="">食人植物</a> ・ <a href="#/ja/action/cockatrice"><img class="wiki-icon" src="assets/icon/ea5fece55cd26243.svg" alt="">コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/flying-elephant"><img class="wiki-icon" src="assets/icon/e3daf5030f26dcd0.svg" alt="">空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><img class="wiki-icon" src="assets/icon/43113159f0664f4b.svg" alt="">ケンタウロス</a> ・ <a href="#/ja/action/druid"><img class="wiki-icon" src="assets/icon/f31490361b7ac246.svg" alt="">ドルイド</a> ・ <a href="#/ja/action/bear"><img class="wiki-icon" src="assets/icon/f3cda161292208a6.svg" alt="">クマ</a> ・ <a href="#/ja/action/wolf"><img class="wiki-icon" src="assets/icon/15c5deccdd555c48.svg" alt="">ウルフ</a> ・ <a href="#/ja/action/orc"><img class="wiki-icon" src="assets/icon/caf79c699a6ed796.svg" alt="">オーク</a> ・ <a href="#/ja/action/hydra"><img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><img class="wiki-icon" src="assets/icon/2674008c6dd247bc.svg" alt="">古い祠の調査</a></div></div>
 
 ## 開発者向け情報
 
@@ -74,10 +75,11 @@
 | --- | --- |
 | id | `walking-mushroom` |
 | `category` | `forest` |
-| `attribute` | `explosive-weapon` |
+| `discipline` | `explosive-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `8` |
+| `level` | `9` |
+| `disciplineLevel` | `4` |
 | `experience` | `1.54` |
 | `seconds` | `2.7` |
 | `chance` | `0.5` |
@@ -99,15 +101,16 @@
 		"icon": {
 			"emoji": "🍄",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/5b9eec78a0de50a1.svg）"
 		},
 		"color": ""
 	},
 	"category": "forest",
-	"attribute": "explosive-weapon",
+	"discipline": "explosive-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 8,
+	"level": 9,
+	"disciplineLevel": 4,
 	"experience": 1.54,
 	"seconds": 2.7,
 	"chance": 0.5,
@@ -143,9 +146,9 @@
 	],
 	"progressType": "stamina",
 	"property": {
-		"attack": 51,
-		"defence": 29,
-		"accuracy": 6,
+		"attack": 52,
+		"defence": 28,
+		"accuracy": 5,
 		"evasion": 0,
 		"restore": 0
 	},

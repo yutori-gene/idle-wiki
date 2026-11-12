@@ -1,16 +1,16 @@
 # 床
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">床</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🟫</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>4種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">床</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/1302287d6df4da87.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>4種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦷</span>ミミック](/ja/item/mimic) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">🏛️</span>ダビデ像](/ja/item/statue-of-david) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/item/grandfather-clock) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/f035c4566b81cf4b.svg" alt="">ミミック](/ja/item/mimic) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/295c886c43ff81d3.svg" alt="">踊る銅像](/ja/item/dancing-statue) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/12c7fb07f3dfcbe1.svg" alt="">ダビデ像](/ja/item/statue-of-david) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/38074d36bf98c41d.svg" alt="">おじいさんの時計](/ja/item/grandfather-clock) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
 
 ## 開発者向け情報
 
@@ -34,7 +34,7 @@
 	"icon": {
 		"emoji": "🟫",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/1302287d6df4da87.svg）"
 	},
 	"color": ""
 }

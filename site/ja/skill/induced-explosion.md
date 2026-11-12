@@ -1,6 +1,6 @@
 # 誘爆
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">誘爆</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💣</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>攻撃+8・回避+5</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">誘爆</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/8522a298c65a276d.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>攻撃+8・回避+5</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 相手の持ち物にも、火は点く。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>ドレイク](/ja/action/drake) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 |
-| [<span class="wiki-icon">🪲</span>灼熱の甲虫](/ja/action/scorching-beetle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 |
+| [<img class="wiki-icon" src="assets/icon/9e3063d1b00c9f27.svg" alt="">ドレイク](/ja/action/drake) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv31 |
+| [<img class="wiki-icon" src="assets/icon/a00ac0267c6ec1f0.svg" alt="">灼熱の甲虫](/ja/action/scorching-beetle) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv50 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🍎</span>時計仕掛けのリンゴ](/ja/item/clockwork-apple) | [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/296b167d02c3dd86.svg" alt="">時計仕掛けのリンゴ](/ja/item/clockwork-apple) | [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "💣",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/8522a298c65a276d.svg）"
 		},
 		"color": ""
 	},

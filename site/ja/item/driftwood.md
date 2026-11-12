@@ -1,6 +1,6 @@
 # 流木
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">流木</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪵</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>4 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">流木</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/dc94c3b943f96475.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>4 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 波に磨かれた自然の芸術。
 
@@ -11,8 +11,16 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐚</span>浜辺の貝拾い](/ja/action/beach-shell-gathering) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv5 | 5 | 56% | 1.4 | 126 |
-| [<span class="wiki-icon">🦫</span>ビーバーの巣](/ja/action/open-beaver-lodge) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 6 | 100% | 3.9 | 11.7 |
+| [<img class="wiki-icon" src="assets/icon/3a285c0be3547be2.svg" alt="">浜辺の貝拾い](/ja/action/beach-shell-gathering) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv5 | 5 | 56% | 1.4 | 126 |
+| [<img class="wiki-icon" src="assets/icon/3adf474b0cfbe3cb.svg" alt="">ビーバーの巣](/ja/action/open-beaver-lodge) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv24 | 6 | 100% | 3.9 | 11.7 |
+
+## 用途
+
+### 材料として消費
+
+| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
+| --- | --- | --- | --- | --- | --- |
+| [<img class="wiki-icon" src="assets/icon/381d035aaa929de7.svg" alt="">アイパッチ](/ja/action/craft-eyepatch) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 5 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a> を参照</div></div>
 
@@ -47,7 +55,7 @@
 		"icon": {
 			"emoji": "🪵",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/dc94c3b943f96475.svg）"
 		},
 		"color": ""
 	},

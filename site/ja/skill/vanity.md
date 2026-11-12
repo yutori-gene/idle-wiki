@@ -1,6 +1,6 @@
 # 見栄
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">見栄</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎭</span></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>攻撃+11・防御-7</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">見栄</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/5f1675d49e0d0355.svg" alt=""></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>攻撃+11・防御-7</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 強く見せた分だけ、隙が生まれる。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐘</span>ベヒモス](/ja/action/behemoth) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv46 |
-| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 |
+| [<img class="wiki-icon" src="assets/icon/1dd26ec4c50a4c5d.svg" alt="">ベヒモス](/ja/action/behemoth) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv31 |
+| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv1 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">⌚</span>スマートリング](/ja/item/smart-ring) | [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/a6e200b891427258.svg" alt="">スマートリング](/ja/item/smart-ring) | [<img class="wiki-icon" src="assets/icon/8af37373ea914d8b.svg" alt="">指輪](/ja/group/ring) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🎭",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/5f1675d49e0d0355.svg）"
 		},
 		"color": ""
 	},

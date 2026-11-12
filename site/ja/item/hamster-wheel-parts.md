@@ -1,6 +1,6 @@
 # ハムスターの回車の部品
 
-<div class="wiki-infobox" style="--accent:#627777"><div class="wiki-infobox-title">ハムスターの回車の部品</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔩</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/parts"><span class="wiki-icon">🔩</span>部品</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>118,098 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#627777"><div class="wiki-infobox-title">ハムスターの回車の部品</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/bc7e07041c2932cb.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/workshop"><img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/parts"><img class="wiki-icon" src="assets/icon/ede0f331a74ba223.svg" alt="">部品</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>118,098 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 組み立てれば小動物の運動場。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📦</span>シュレーディンガーの箱](/ja/action/open-schrodingers-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv47 | 2 | 26.1% | 0.47 | 0.188 |
-| [<span class="wiki-icon">🔩</span>ハムスターの回車の部品](/ja/action/craft-hamster-wheel-parts) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 10 | 100% | 5 | 10 |
+| [<img class="wiki-icon" src="assets/icon/715c3e1ef5540e1d.svg" alt="">シュレーディンガーの箱](/ja/action/open-schrodingers-box) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv47 | 2 | 26.1% | 0.47 | 0.188 |
+| [<img class="wiki-icon" src="assets/icon/bbbafcec10021a77.svg" alt="">ハムスターの回車の部品](/ja/action/craft-hamster-wheel-parts) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv42 | 10 | 100% | 5 | 10 |
 
 ## 用途
 
@@ -20,9 +20,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/action/craft-hamster-wheel) | [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | Lv42 | 100 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/1ad1a797e13f837c.svg" alt="">ハムスターの回車](/ja/action/craft-hamster-wheel) | [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | Lv42 | 100 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">グループ: 部品</div><div class="wiki-navbox-body"><a href="#/ja/item/rabbit-hutch-parts"><span class="wiki-icon">🔩</span>ウサギ小屋の部品</a> ・ <a href="#/ja/item/ruining-cushion-parts"><span class="wiki-icon">🔩</span>人をダメにするクッションの部品</a> ・ <a href="#/ja/item/well-parts"><span class="wiki-icon">🔩</span>井戸の部品</a> ・ <a href="#/ja/item/bookshelf-parts"><span class="wiki-icon">🔩</span>本棚の部品</a> ・ <a href="#/ja/item/lawn-mower-parts"><span class="wiki-icon">🔩</span>芝刈り機の部品</a> ・ <a href="#/ja/item/oven-parts"><span class="wiki-icon">🔩</span>オーブンの部品</a> ・ <a href="#/ja/item/solar-panel-parts"><span class="wiki-icon">🔩</span>ソーラーパネルの部品</a> ・ <a href="#/ja/item/dog-house-parts"><span class="wiki-icon">🔩</span>イヌ小屋の部品</a> ・ <a href="#/ja/item/weather-box-parts"><span class="wiki-icon">🔩</span>百葉箱の部品</a> ・ <a href="#/ja/item/refrigerator-parts"><span class="wiki-icon">🔩</span>冷蔵庫の部品</a> ・ <a href="#/ja/item/generator-parts"><span class="wiki-icon">🔩</span>発電機の部品</a> ・ <a href="#/ja/item/hamster-wheel-parts"><span class="wiki-icon">🔩</span>ハムスターの回車の部品</a> ・ <a href="#/ja/item/stove-parts"><span class="wiki-icon">🔩</span>かまどの部品</a> ・ <a href="#/ja/item/fireplace-parts"><span class="wiki-icon">🔩</span>暖炉の部品</a></div></div>
+<div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">グループ: 部品</div><div class="wiki-navbox-body"><a href="#/ja/item/rabbit-hutch-parts"><img class="wiki-icon" src="assets/icon/b7be1bff28f942c6.svg" alt="">ウサギ小屋の部品</a> ・ <a href="#/ja/item/ruining-cushion-parts"><img class="wiki-icon" src="assets/icon/39956c27e0995118.svg" alt="">人をダメにするクッションの部品</a> ・ <a href="#/ja/item/well-parts"><img class="wiki-icon" src="assets/icon/506d4f92660acb22.svg" alt="">井戸の部品</a> ・ <a href="#/ja/item/bookshelf-parts"><img class="wiki-icon" src="assets/icon/9de25004f58f6e0f.svg" alt="">本棚の部品</a> ・ <a href="#/ja/item/lawn-mower-parts"><img class="wiki-icon" src="assets/icon/fe3f378a69b5507b.svg" alt="">芝刈り機の部品</a> ・ <a href="#/ja/item/oven-parts"><img class="wiki-icon" src="assets/icon/10eee47f17614296.svg" alt="">オーブンの部品</a> ・ <a href="#/ja/item/solar-panel-parts"><img class="wiki-icon" src="assets/icon/a0894e475ee26356.svg" alt="">ソーラーパネルの部品</a> ・ <a href="#/ja/item/dog-house-parts"><img class="wiki-icon" src="assets/icon/784354fdf9e32e6a.svg" alt="">イヌ小屋の部品</a> ・ <a href="#/ja/item/weather-box-parts"><img class="wiki-icon" src="assets/icon/45f1bb7967699a60.svg" alt="">百葉箱の部品</a> ・ <a href="#/ja/item/refrigerator-parts"><img class="wiki-icon" src="assets/icon/92c414932be28a1a.svg" alt="">冷蔵庫の部品</a> ・ <a href="#/ja/item/generator-parts"><img class="wiki-icon" src="assets/icon/f3f50e47e2bc408d.svg" alt="">発電機の部品</a> ・ <a href="#/ja/item/hamster-wheel-parts"><img class="wiki-icon" src="assets/icon/bc7e07041c2932cb.svg" alt="">ハムスターの回車の部品</a> ・ <a href="#/ja/item/stove-parts"><img class="wiki-icon" src="assets/icon/165cfcf8d6ef2f80.svg" alt="">かまどの部品</a> ・ <a href="#/ja/item/fireplace-parts"><img class="wiki-icon" src="assets/icon/cff4bb8e19d1aa4c.svg" alt="">暖炉の部品</a></div></div>
 
 ## 開発者向け情報
 
@@ -55,7 +55,7 @@
 		"icon": {
 			"emoji": "🔩",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/bc7e07041c2932cb.svg）"
 		},
 		"color": ""
 	},

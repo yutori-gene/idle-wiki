@@ -1,6 +1,6 @@
 # 傷薬
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">傷薬</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💊</span></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>回復+5</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">傷薬</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c52eb9a11ae26a6e.svg" alt=""></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>回復+5</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 効くかどうかより、塗ったという安心。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/300032c34ac7363c.svg" alt="">司祭](/ja/action/priest) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv48 |
+| [<img class="wiki-icon" src="assets/icon/300032c34ac7363c.svg" alt="">司祭](/ja/action/priest) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv1 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧤</span>革の手袋](/ja/item/leather-gloves) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/6006b6e463663102.svg" alt="">革の手袋](/ja/item/leather-gloves) | [<img class="wiki-icon" src="assets/icon/fb530857299597e8.svg" alt="">腕部装備](/ja/group/arm-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "💊",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/c52eb9a11ae26a6e.svg）"
 		},
 		"color": ""
 	},

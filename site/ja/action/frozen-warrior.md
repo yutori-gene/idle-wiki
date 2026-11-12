@@ -1,6 +1,6 @@
 # 氷漬けの戦士
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">氷漬けの戦士</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧊</span></div><table><tr><th>場所</th><td><a href="#/ja/category/northland"><span class="wiki-icon">❄️</span>北国</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv23</td></tr><tr><th>所要時間</th><td>2.4秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.37</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">氷漬けの戦士</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/534edc2a28c044ce.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/northland"><img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国</a></td></tr><tr><th>系統</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv9</td></tr><tr><th>系統の必要Lv</th><td>Lv13</td></tr><tr><th>所要時間</th><td>2.4秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.37</td></tr><tr><th>経験値の配分</th><td><a href="#/ja/category/northland"><img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国</a> 80%、<a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a> 20%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 遺跡の真ん中に立ったまま凍りついている。近づくと、ゆっくり首が回る。
 
@@ -9,16 +9,17 @@
 
 ## 必要なもの
 
-- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv23以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) Lv9以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) が解放されている・Lv13以上（系統のカテゴリ）
 
 ## 取得物
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×1 | 成功時 | 1.84% | 0.009 | 0.092 |
-| [<span class="wiki-icon">🧵</span>布](/ja/item/cloth) ×1 | 成功時 | 0.768% | 0.004 | 0.038 |
-| [<span class="wiki-icon">🗡️</span>氷の剣](/ja/item/ice-sword) ×1 | 成功時 | 0.18% | 0.001 | 0.009 |
-| [<span class="wiki-icon">🧊</span>永久凍土の心臓](/ja/item/permafrost-heart) ×1 | 成功時 | 0.083% | 0 | 0.004 |
+| [<img class="wiki-icon" src="assets/icon/8b8473145ed2088d.svg" alt="">大きな骨](/ja/item/big-bone) ×1 | 成功時 | 1.84% | 0.009 | 0.105 |
+| [<img class="wiki-icon" src="assets/icon/11f7c064d8793443.svg" alt="">布](/ja/item/cloth) ×1 | 成功時 | 0.768% | 0.004 | 0.044 |
+| [<img class="wiki-icon" src="assets/icon/0345d21115a6a671.svg" alt="">氷の剣](/ja/item/ice-sword) ×1 | 成功時 | 0.18% | 0.001 | 0.01 |
+| [<img class="wiki-icon" src="assets/icon/ccac27c2896e6439.svg" alt="">永久凍土の心臓](/ja/item/permafrost-heart) ×1 | 成功時 | 0.083% | 0 | 0.005 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -28,42 +29,44 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 72 | 75 | 12 | 6 | 13 |
+| 79 | 72 | 10 | 5 | 14 |
 
 **敵のスキル**
 
-- [<span class="wiki-icon">♾️</span>不死身](/ja/skill/immortal)：毎ターン 3% で発動、防御+10・精度-10・回復+15
-- [<span class="wiki-icon">🤺</span>構え直し](/ja/skill/reset-stance)：毎ターン 8% で発動、防御+6
+- [<img class="wiki-icon" src="assets/icon/c79d631fd866d1d1.svg" alt="">不死身](/ja/skill/immortal)：毎ターン 3% で発動、防御+10・精度-10・回復+15
+- [<img class="wiki-icon" src="assets/icon/40a6515c04dd9177.svg" alt="">構え直し](/ja/skill/reset-stance)：毎ターン 8% で発動、防御+6
 
 ### 戦闘の見込み（装備・スキルなし）
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv23） | 0.956% | 12.9% | 70.2% | 20.7% | 14.3% | 149.6 | 1,532% | 6分2秒 | 負ける見込みが高い |
-| +10（Lv33） | 1.43% | 10.5% | 77.9% | 24.2% | 20% | 89.8 | 717.6% | 2分58秒 | 負ける見込みが高い |
-| +20（Lv43） | 2.15% | 8.61% | 84.1% | 28.2% | 27.3% | 55.9 | 345.6% | 1分31秒 | 負ける見込みが高い |
+| ±0（Lv13） | 1.08% | 14.9% | 71% | 21.4% | 13.8% | 131 | 1,532.1% | 5分17秒 | 負ける見込みが高い |
+| +10（Lv23） | 1.62% | 12.2% | 78.6% | 25% | 19.3% | 78.9 | 718.8% | 2分37秒 | 負ける見込みが高い |
+| +20（Lv33） | 2.43% | 9.92% | 84.6% | 29% | 26.5% | 49.6 | 349.6% | 1分21秒 | 負ける見込みが高い |
+| +30（Lv43） | 3.64% | 8.1% | 89.2% | 33.3% | 35% | 31.4 | 169.5% | 42.3秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
 ## 計算値
 
-| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
-| --- | --- | --- | --- | --- | --- |
-| ±0（Lv23） | 2.4秒 | 50% | 1.37 | 10 | 1 |
-| +10（Lv33） | 2秒 | 60% | 0.91 | 20.2 | 0 |
-| +20（Lv43） | 1.6秒 | 69.2% | 0.61 | 39.6 | 0 |
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時（北国） | 経験値%/時（近接武器） |
+| --- | --- | --- | --- | --- | --- | --- |
+| ±0（Lv13） | 2.4秒 | 50% | 1.37 | 11.4 | 3 | 0 |
+| +10（Lv23） | 2秒 | 60% | 0.75 | 23 | 1 | 0 |
+| +20（Lv33） | 1.6秒 | 69.2% | 0.41 | 44.4 | 1 | 0 |
+| +30（Lv43） | 1.3秒 | 77.1% | 0.22 | 85.1 | 0 | 0 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝系統のカテゴリのレベル − 系統の必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。
 
 ## 収支（1時間あたり）
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 3 | 0 | 3 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 4 | 0 | 4 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6b8a92"><div class="wiki-navbox-title">北国のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/snowfield-ruins"><span class="wiki-icon">🏛️</span>雪原の遺跡</a> ・ <a href="#/ja/action/frozen-lakeside"><span class="wiki-icon">🧊</span>凍った湖畔</a> ・ <a href="#/ja/action/griffin"><span class="wiki-icon">🦅</span>グリフィン</a> ・ <a href="#/ja/action/phoenix"><span class="wiki-icon">🐦‍🔥</span>フェニックス</a> ・ <a href="#/ja/action/frozen-warrior"><span class="wiki-icon">🧊</span>氷漬けの戦士</a> ・ <a href="#/ja/action/wyvern"><span class="wiki-icon">🐉</span>ワイバーン</a> ・ <a href="#/ja/action/mammoth"><span class="wiki-icon">🦣</span>マンモス</a> ・ <a href="#/ja/action/dragon-kid"><span class="wiki-icon">🐲</span>ドラゴンキッズ</a> ・ <a href="#/ja/action/tiger"><span class="wiki-icon">🐯</span>トラ</a> ・ <a href="#/ja/action/manticore"><span class="wiki-icon">🦁</span>マンティコア</a> ・ <a href="#/ja/action/drake"><span class="wiki-icon">🐉</span>ドレイク</a> ・ <a href="#/ja/action/ice"><span class="wiki-icon">🧊</span>氷</a> ・ <a href="#/ja/action/god-warrior"><span class="wiki-icon">🗿</span>巨神兵</a> ・ <a href="#/ja/action/wild-door"><span class="wiki-icon">🚪</span>ワイルドドア</a> ・ <a href="#/ja/action/bahamut"><span class="wiki-icon">🐉</span>バハムート</a> ・ <a href="#/ja/action/polar-bear"><span class="wiki-icon">🐻‍❄️</span>ホッキョクグマ</a> ・ <a href="#/ja/action/dragon-den"><span class="wiki-icon">🐉</span>竜の巣穴</a></div></div>
+<div class="wiki-navbox" style="--accent:#6b8a92"><div class="wiki-navbox-title">北国のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/snowfield-ruins"><img class="wiki-icon" src="assets/icon/44c05d5f6d105bf5.svg" alt="">雪原の遺跡</a> ・ <a href="#/ja/action/frozen-lakeside"><img class="wiki-icon" src="assets/icon/7c6f087ad4dc298b.svg" alt="">凍った湖畔</a> ・ <a href="#/ja/action/griffin"><img class="wiki-icon" src="assets/icon/2e8f0ddee3c24d6d.svg" alt="">グリフィン</a> ・ <a href="#/ja/action/phoenix"><img class="wiki-icon" src="assets/icon/e1bd57a21d5fa216.svg" alt="">フェニックス</a> ・ <a href="#/ja/action/wyvern"><img class="wiki-icon" src="assets/icon/68dfa87f0523444a.svg" alt="">ワイバーン</a> ・ <a href="#/ja/action/ice"><img class="wiki-icon" src="assets/icon/60b7195e9620edc7.svg" alt="">氷</a> ・ <a href="#/ja/action/god-warrior"><img class="wiki-icon" src="assets/icon/a1510fdde9715652.svg" alt="">巨神兵</a> ・ <a href="#/ja/action/bahamut"><img class="wiki-icon" src="assets/icon/2306e5eaf3792660.svg" alt="">バハムート</a> ・ <a href="#/ja/action/frozen-warrior"><img class="wiki-icon" src="assets/icon/534edc2a28c044ce.svg" alt="">氷漬けの戦士</a> ・ <a href="#/ja/action/mammoth"><img class="wiki-icon" src="assets/icon/cc8c2cabf2063181.svg" alt="">マンモス</a> ・ <a href="#/ja/action/tiger"><img class="wiki-icon" src="assets/icon/bc9d0bdd94514ebd.svg" alt="">トラ</a> ・ <a href="#/ja/action/dragon-kid"><img class="wiki-icon" src="assets/icon/09ecaa0c1b48e7eb.svg" alt="">ドラゴンキッズ</a> ・ <a href="#/ja/action/wild-door"><img class="wiki-icon" src="assets/icon/a0d753414f493a1b.svg" alt="">ワイルドドア</a> ・ <a href="#/ja/action/manticore"><img class="wiki-icon" src="assets/icon/b93d28a3d64e0381.svg" alt="">マンティコア</a> ・ <a href="#/ja/action/drake"><img class="wiki-icon" src="assets/icon/9e3063d1b00c9f27.svg" alt="">ドレイク</a> ・ <a href="#/ja/action/polar-bear"><img class="wiki-icon" src="assets/icon/a8cd83eedf6ac3f1.svg" alt="">ホッキョクグマ</a> ・ <a href="#/ja/action/dragon-den"><img class="wiki-icon" src="assets/icon/215e93b79353c27b.svg" alt="">竜の巣穴</a></div></div>
 
 ## 開発者向け情報
 
@@ -71,10 +74,11 @@
 | --- | --- |
 | id | `frozen-warrior` |
 | `category` | `northland` |
-| `attribute` | `melee-weapon` |
+| `discipline` | `melee-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `23` |
+| `level` | `9` |
+| `disciplineLevel` | `13` |
 | `experience` | `1.37` |
 | `seconds` | `2.4` |
 | `chance` | `0.5` |
@@ -96,15 +100,16 @@
 		"icon": {
 			"emoji": "🧊",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/534edc2a28c044ce.svg）"
 		},
 		"color": ""
 	},
 	"category": "northland",
-	"attribute": "melee-weapon",
+	"discipline": "melee-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 23,
+	"level": 9,
+	"disciplineLevel": 13,
 	"experience": 1.37,
 	"seconds": 2.4,
 	"chance": 0.5,
@@ -138,11 +143,11 @@
 	],
 	"progressType": "stamina",
 	"property": {
-		"attack": 72,
-		"defence": 75,
-		"accuracy": 12,
-		"evasion": 6,
-		"restore": 13
+		"attack": 79,
+		"defence": 72,
+		"accuracy": 10,
+		"evasion": 5,
+		"restore": 14
 	},
 	"skills": [
 		"immortal",

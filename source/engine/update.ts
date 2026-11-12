@@ -136,11 +136,9 @@ export function updateAction(progressing: Type.user.Progressing, online: boolean
 	const properties = Control.game.property.listToMap(Control.game.property.calculatePropertties(progressing.general.id, skills?.correction));
 	const matchedRequirements = Control.economy.trade.countMatchedRequirements(action.world.requirements) > 0;
 
-	// 経験値を入れるカテゴリを決定（attributeまたはactionのcategoryId）
-	const experienceCategoryId = action.world.attribute || action.categoryId;
-	const experienceCategory = Data.dictionary.getCategory(experienceCategoryId);
-
-	let leveledUp = false;
+	// 経験値が入ったカテゴリと、そのうちレベルが上がったもの（系統を持つアクションは所属と系統の2つになりうる）
+	let experienced: Type.dictionary.Category[] = [];
+	const leveledCategories: Type.dictionary.Category[] = [];
 	let trades: Type.user.Trade[] = [];
 	// completedは定数だ！と怒られる
 	const completed = action.world.progressType == "stamina" ? updateCombat(action, progressing, properties) : updateNonCombat();
@@ -171,34 +169,34 @@ export function updateAction(progressing: Type.user.Progressing, online: boolean
 				Control.ui.toaster.showActionFailed(action);
 			} else {
 				// chance判定成功時: 通常の報酬処理
-				// 経験値計算前のレベル
-				const previousLevel = experienceCategory.user.level;
-
 				// 取得物の処理
 				trades = [...consumedTrades, ...Control.economy.trade.addAcquisitions(action.world.acquisitions, 1)];
 
-				// levelCommonRatioによるレベルアップ難易度の指数的増加
-				const currentLevel = Math.floor(experienceCategory.user.level);
-				const levelDivisor = Math.pow(Data.world.basic.general.levelCommonRatio, Math.max(0, currentLevel - 1));
-
-				// アクション自身の経験値の計算（attributeのカテゴリに追加）
-				if (experienceCategory.world.numeric) {
-					experienceCategory.user.level += (properties.get("experience")!.value / 100) / levelDivisor;
+				// アクション自身の経験値。系統を持つアクションは所属カテゴリと系統のカテゴリへ還元率で分ける
+				// （取り分の計算は property.ts の calculateExperienceShares。numeric=false の側の取り分は捨てる）
+				const shares = Control.game.property.calculateExperienceShares(action, properties.get("experience")!.value);
+				experienced = shares.map((share) => share.category);
+				for (const share of shares) {
+					const target = share.category;
+					const previousLevel = target.user.level;
+					// levelCommonRatioによるレベルアップ難易度の指数的増加。入る先のカテゴリのレベルで割る
+					const levelDivisor = Math.pow(Data.world.basic.general.levelCommonRatio, Math.max(0, Math.floor(previousLevel) - 1));
+					const gained = share.value / 100 / levelDivisor;
+					target.user.level += gained;
 
 					// レベル上限チェック
-					if (experienceCategory.user.level < 0) experienceCategory.user.level = 0;
-					if (experienceCategory.user.level > Data.world.basic.general.maxCategoryLevels) {
-						experienceCategory.user.level = Data.world.basic.general.maxCategoryLevels;
+					if (target.user.level < 0) target.user.level = 0;
+					if (target.user.level > Data.world.basic.general.maxCategoryLevels) {
+						target.user.level = Data.world.basic.general.maxCategoryLevels;
 					}
 
-					leveledUp = Math.floor(previousLevel) < Math.floor(experienceCategory.user.level);
+					if (Math.floor(previousLevel) < Math.floor(target.user.level)) leveledCategories.push(target);
+					// アクションの記録。入ったカテゴリをまたいで合計する
+					progressing.active.experience += gained;
 				}
 
 				// アクションの記録（成功時のみ）
 				progressing.active.count++;
-				if (experienceCategory.world.numeric) {
-					progressing.active.experience += (properties.get("experience")!.value / 100) / levelDivisor;
-				}
 
 				// アクションのカウント増加（成功時のみ）
 				action.user.count++;
@@ -216,7 +214,7 @@ export function updateAction(progressing: Type.user.Progressing, online: boolean
 		else progressing.time.percentage -= 1; //パーセントを100%引くという意味
 
 		Control.ui.toaster.showTrade(trades);
-		if (leveledUp) Control.ui.toaster.showLeveled(experienceCategoryId);
+		for (const leveled of leveledCategories) Control.ui.toaster.showLeveled(leveled.id);
 
 		if (online) {
 			// check()で成立したイベント（completed等）はhashが変わらないと自動表示されないため、
@@ -226,7 +224,7 @@ export function updateAction(progressing: Type.user.Progressing, online: boolean
 		} else if (completed) {
 			// completed==falseは戦闘の回復ターンなど「まだ決着していないターン」。記録すると
 			// stamina型の実行回数（勝利数）が戦闘ターン数にずれてしまうため、決着したときだけ積む
-			Control.game.offline.record(progressing, experienceCategory, trades, leveledUp);
+			Control.game.offline.record(progressing, experienced, leveledCategories, trades);
 		}
 
 		// opening（single開封）は actSnap のローカルprogressingで一発実行するため、

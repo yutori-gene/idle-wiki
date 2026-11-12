@@ -1,6 +1,6 @@
 # 深呼吸
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">深呼吸</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">😤</span></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>回復+4</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">深呼吸</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/4f8981e498451902.svg" alt=""></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>回復+4</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 間合いの外で、肺を満たす。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐢</span>カメの大魔王](/ja/action/turtle-demon-king) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 |
+| [<img class="wiki-icon" src="assets/icon/f7396d0f10a22c13.svg" alt="">カメの大魔王](/ja/action/turtle-demon-king) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv28 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/ba24921e1a11094c.svg" alt="">ギター](/ja/item/guitar) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/ba24921e1a11094c.svg" alt="">ギター](/ja/item/guitar) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "😤",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/4f8981e498451902.svg）"
 		},
 		"color": ""
 	},

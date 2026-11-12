@@ -1,6 +1,6 @@
 # 気付け薬
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">気付け薬</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💊</span></div><table><tr><th>発動率</th><td>20%／ターン</td></tr><tr><th>効果</th><td>回復+8</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">気付け薬</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/76be3129c17ef12a.svg" alt=""></div><table><tr><th>発動率</th><td>20%／ターン</td></tr><tr><th>効果</th><td>回復+8</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 鼻を突く匂いで、意識が戻る。
 
@@ -17,7 +17,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/2796f130e39f252a.svg" alt="">キズ薬](/ja/item/wound-medicine) | [<img class="wiki-icon" src="assets/icon/4815effeebbe3bb0.svg" alt="">ポーション](/ja/group/potion) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -40,7 +40,7 @@
 		"icon": {
 			"emoji": "💊",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/76be3129c17ef12a.svg）"
 		},
 		"color": ""
 	},

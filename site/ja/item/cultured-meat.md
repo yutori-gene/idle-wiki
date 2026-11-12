@@ -1,6 +1,6 @@
 # 培養肉
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">培養肉</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥩</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/processed-goods"><span class="wiki-icon">⚙️</span>加工品</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">培養肉</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/4a4a0bb204e363d8.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/processed-goods"><img class="wiki-icon" src="assets/icon/6d6032deee23fa82.svg" alt="">加工品</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 不気味な肉片。まだ脈動しており、鮮度がいいようだ。
 
@@ -11,9 +11,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 1 | 1.54% | 0.008 | 0.016 |
+| [<img class="wiki-icon" src="assets/icon/9ec762b2c27c2721.svg" alt="">ミュータント](/ja/action/mutant) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv39 | 1 | 1.54% | 0.008 | 0.019 |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 加工品</div><div class="wiki-navbox-body"><a href="#/ja/item/weight-scale"><span class="wiki-icon">⚖️</span>体重計</a> ・ <a href="#/ja/item/cash-card"><span class="wiki-icon">💳</span>キャッシュカード</a> ・ <a href="#/ja/item/atm"><span class="wiki-icon">🏧</span>ATM</a> ・ <a href="#/ja/item/cultured-meat"><span class="wiki-icon">🥩</span>培養肉</a> ・ <a href="#/ja/item/soy-meat"><span class="wiki-icon">🥩</span>ソイミート</a> ・ <a href="#/ja/item/g-virus"><span class="wiki-icon">🧬</span>Gウイルス</a></div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 加工品</div><div class="wiki-navbox-body"><a href="#/ja/item/weight-scale"><img class="wiki-icon" src="assets/icon/65fcd715e4a0c21d.svg" alt="">体重計</a> ・ <a href="#/ja/item/cash-card"><img class="wiki-icon" src="assets/icon/fe34e67ebf4ee5ca.svg" alt="">キャッシュカード</a> ・ <a href="#/ja/item/atm"><img class="wiki-icon" src="assets/icon/a8df5b2291a0b3c8.svg" alt="">ATM</a> ・ <a href="#/ja/item/cultured-meat"><img class="wiki-icon" src="assets/icon/4a4a0bb204e363d8.svg" alt="">培養肉</a> ・ <a href="#/ja/item/soy-meat"><img class="wiki-icon" src="assets/icon/2157f1f6ec64792d.svg" alt="">ソイミート</a> ・ <a href="#/ja/item/g-virus"><img class="wiki-icon" src="assets/icon/def0936f480dd038.svg" alt="">Gウイルス</a></div></div>
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🥩",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/4a4a0bb204e363d8.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # 世界樹の種
 
-<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">世界樹の種</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌳</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/seedling"><span class="wiki-icon">🌰</span>種苗</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>90 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>180 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">世界樹の種</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/501f1c1552247009.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/greenhouse"><img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/seedling"><img class="wiki-icon" src="assets/icon/02ea98da97943878.svg" alt="">種苗</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>90 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>180 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 世界を支える樹の、はじまりの一粒。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌳</span>世界樹の葉](/ja/action/grow-world-tree-leaf) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv50 | 1 | 43.2% | 0.302 | 0.008 |
-| [<span class="wiki-icon">🌈</span>妖精の黄金の壺](/ja/action/open-fairy-gold-pot) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv44 | 3 | 13% | 0.39 | 0.065 |
+| [<img class="wiki-icon" src="assets/icon/d5a3d7a39bbb7442.svg" alt="">世界樹の葉](/ja/action/grow-world-tree-leaf) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | Lv50 | 1 | 43.2% | 0.302 | 0.008 |
+| [<img class="wiki-icon" src="assets/icon/fdbf755487888437.svg" alt="">妖精の黄金の壺](/ja/action/open-fairy-gold-pot) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv44 | 3 | 13% | 0.39 | 0.065 |
 
 ### 購入
 
@@ -24,15 +24,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌳</span>世界樹の葉](/ja/action/grow-world-tree-leaf) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv50 | 1 | 80% |  |
+| [<img class="wiki-icon" src="assets/icon/d5a3d7a39bbb7442.svg" alt="">世界樹の葉](/ja/action/grow-world-tree-leaf) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | Lv50 | 1 | 80% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる（購入もできるようになる）。
 
-- [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) Lv50以上
+- [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) Lv50以上
 
-<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 種苗</div><div class="wiki-navbox-body"><a href="#/ja/item/wheat-seed"><span class="wiki-icon">🌾</span>小麦の種</a> ・ <a href="#/ja/item/tomato-seedling"><span class="wiki-icon">🌱</span>トマトの苗</a> ・ <a href="#/ja/item/lettuce-seed"><span class="wiki-icon">🥬</span>サラダ菜の種</a> ・ <a href="#/ja/item/banana-seedling"><span class="wiki-icon">🌱</span>バナナの苗</a> ・ <a href="#/ja/item/apple-seedling"><span class="wiki-icon">🌱</span>リンゴの苗</a> ・ <a href="#/ja/item/herb-seed"><span class="wiki-icon">🌿</span>薬草の種</a> ・ <a href="#/ja/item/honey-hive"><span class="wiki-icon">🍯</span>蜂蜜の巣箱</a> ・ <a href="#/ja/item/axolotl-egg"><span class="wiki-icon">🥚</span>ウーパールーパーの卵</a> ・ <a href="#/ja/item/hemp-seed"><span class="wiki-icon">🌿</span>大麻の種</a> ・ <a href="#/ja/item/truffle-bed"><span class="wiki-icon">🍄</span>トリュフの菌床</a> ・ <a href="#/ja/item/chili-seed"><span class="wiki-icon">🌶️</span>とうがらしの種</a> ・ <a href="#/ja/item/poison-herb-seed"><span class="wiki-icon">☠️</span>毒草の種</a> ・ <a href="#/ja/item/aromatic-herb-seed"><span class="wiki-icon">🌿</span>香草の種</a> ・ <a href="#/ja/item/world-tree-seed"><span class="wiki-icon">🌳</span>世界樹の種</a></div></div>
+<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 種苗</div><div class="wiki-navbox-body"><a href="#/ja/item/wheat-seed"><img class="wiki-icon" src="assets/icon/27aeb08a23aabf5c.svg" alt="">小麦の種</a> ・ <a href="#/ja/item/tomato-seedling"><img class="wiki-icon" src="assets/icon/51b1389921be7aa9.svg" alt="">トマトの苗</a> ・ <a href="#/ja/item/lettuce-seed"><img class="wiki-icon" src="assets/icon/36a07a1c35dc48b5.svg" alt="">サラダ菜の種</a> ・ <a href="#/ja/item/banana-seedling"><img class="wiki-icon" src="assets/icon/304a37a6ef000a6e.svg" alt="">バナナの苗</a> ・ <a href="#/ja/item/apple-seedling"><img class="wiki-icon" src="assets/icon/37cbb430c4f7dec6.svg" alt="">リンゴの苗</a> ・ <a href="#/ja/item/herb-seed"><img class="wiki-icon" src="assets/icon/27e66d289e016059.svg" alt="">薬草の種</a> ・ <a href="#/ja/item/honey-hive"><img class="wiki-icon" src="assets/icon/6d99fc447cef41e4.svg" alt="">蜂蜜の巣箱</a> ・ <a href="#/ja/item/axolotl-egg"><img class="wiki-icon" src="assets/icon/8b30bd6daf6fc71d.svg" alt="">ウーパールーパーの卵</a> ・ <a href="#/ja/item/hemp-seed"><img class="wiki-icon" src="assets/icon/fe1057caf419568c.svg" alt="">大麻の種</a> ・ <a href="#/ja/item/truffle-bed"><img class="wiki-icon" src="assets/icon/ea4b4f3c067561e9.svg" alt="">トリュフの菌床</a> ・ <a href="#/ja/item/chili-seed"><img class="wiki-icon" src="assets/icon/27c1e91476f7c477.svg" alt="">とうがらしの種</a> ・ <a href="#/ja/item/poison-herb-seed"><img class="wiki-icon" src="assets/icon/de0c89b454839b69.svg" alt="">毒草の種</a> ・ <a href="#/ja/item/aromatic-herb-seed"><img class="wiki-icon" src="assets/icon/431cdd575b9abcda.svg" alt="">香草の種</a> ・ <a href="#/ja/item/world-tree-seed"><img class="wiki-icon" src="assets/icon/501f1c1552247009.svg" alt="">世界樹の種</a></div></div>
 
 ## 開発者向け情報
 
@@ -65,7 +65,7 @@
 		"icon": {
 			"emoji": "🌳",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/501f1c1552247009.svg）"
 		},
 		"color": ""
 	},

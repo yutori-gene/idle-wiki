@@ -1,17 +1,17 @@
 # 魔王の遺産
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">魔王の遺産</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👹</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">魔王の遺産</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/1875ded085bdb184.svg" alt=""></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 
 ## 発生条件
 
 数量が変化したとき、**その1回で増えた量**が次の値以上なら発動する（何度でも繰り返す）。画面には表示されない。
 
-- [<span class="wiki-icon">❤️‍🔥</span>魔王の心臓](/ja/item/demon-lord-heart) ×1
+- [<img class="wiki-icon" src="assets/icon/33ea34fd909f560a.svg" alt="">魔王の心臓](/ja/item/demon-lord-heart) ×1
 
 ## 報酬
 
-- [<span class="wiki-icon">🗝️</span>地獄の門の鍵](/ja/item/hell-gate-key) ×1
+- [<img class="wiki-icon" src="assets/icon/31bf615c0ce0dc9d.svg" alt="">地獄の門の鍵](/ja/item/hell-gate-key) ×1
 
 ## 開発者向け情報
 
@@ -38,7 +38,7 @@
 		"icon": {
 			"emoji": "👹",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/1875ded085bdb184.svg）"
 		},
 		"color": ""
 	},

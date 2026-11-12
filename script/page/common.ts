@@ -275,9 +275,18 @@ const baseStatsCache = new WeakMap<Type.Action, ActionStats>();
 export function baseStats(context: Context, action: Type.Action): ActionStats {
 	const cached = baseStatsCache.get(action);
 	if (cached) return cached;
-	const stats = calculateActionStats(context.model.world, action, context.model.experienceCategory(action)?.numeric ?? false, 0);
+	const stats = calculateActionStats(context.model.world, action, context.model.actionBasis(action), 0);
 	baseStatsCache.set(action, stats);
 	return stats;
+}
+
+/**
+ * 経験値%/時のマス。categoryId を渡すとそのカテゴリへ入るぶんだけ、省くと入り先すべてを「／」でつなぐ（所属 → 系統の順）。
+ * 経験値が入らない・即時なら「—」
+ */
+export function levelPercentCell(context: Context, stats: ActionStats, categoryId?: string): string {
+	const shares = stats.shares.filter((share) => (categoryId === undefined || share.categoryId === categoryId) && share.experience > 0 && share.levelPercentPerHour !== undefined);
+	return shares.length ? shares.map((share) => number(share.levelPercentPerHour!, 0)).join("／") : context.model.label.none;
 }
 
 /** アクション1回あたりの収支（通貨 id → 額）。収入は取得物の売値、支出は消費する材料の売値（売れば得られた額＝機会費用） */

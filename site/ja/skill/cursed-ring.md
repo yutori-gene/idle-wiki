@@ -1,6 +1,6 @@
 # 呪いの指輪
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">呪いの指輪</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💍</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>攻撃+13・回復-9</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">呪いの指輪</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c9bd900be1ad9c06.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>攻撃+13・回復-9</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 外れないから、効き続ける。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
-| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 |
+| [<img class="wiki-icon" src="assets/icon/b8dfc337e8669e69.svg" alt="">ネクロマンサー](/ja/action/necromancer) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv20 |
+| [<img class="wiki-icon" src="assets/icon/e18b4916860bbce0.svg" alt="">ミミック](/ja/action/mimic) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv1 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💍</span>取れない指輪](/ja/item/stuck-ring) | [<span class="wiki-icon">💍</span>指輪](/ja/group/ring) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/70d4fce7ae348de1.svg" alt="">取れない指輪](/ja/item/stuck-ring) | [<img class="wiki-icon" src="assets/icon/8af37373ea914d8b.svg" alt="">指輪](/ja/group/ring) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "💍",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/c9bd900be1ad9c06.svg）"
 		},
 		"color": ""
 	},

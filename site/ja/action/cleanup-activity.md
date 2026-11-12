@@ -7,7 +7,7 @@
 
 ## 必要なもの
 
-- [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv3以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv3以上（所属カテゴリのレベル）
 
 ## 取得物
 
@@ -29,11 +29,11 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv3） | 10秒 | 50% | 6 | 360 | 877 |
-| +10（Lv13） | 8.2秒 | 60% | 4 | 440.9 | 302 |
-| +20（Lv23） | 6.7秒 | 69.2% | 2.67 | 540 | 100 |
-| +30（Lv33） | 5.4秒 | 77.1% | 1.78 | 661.4 | 32 |
+| +10（Lv13） | 8.2秒 | 60% | 3.27 | 440.9 | 247 |
+| +20（Lv23） | 6.7秒 | 69.2% | 1.78 | 540 | 67 |
+| +30（Lv33） | 5.4秒 | 77.1% | 0.97 | 661.4 | 18 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -43,7 +43,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#697852"><div class="wiki-navbox-title">公園のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-fallen-leaves"><img class="wiki-icon" src="assets/icon/732665ba6a1aee85.svg" alt="">落ち葉拾い</a> ・ <a href="#/ja/action/cleanup-activity"><img class="wiki-icon" src="assets/icon/dc1ff4797b8cfa39.svg" alt="">清掃活動</a> ・ <a href="#/ja/action/dig-sandbox"><img class="wiki-icon" src="assets/icon/eee8a2d4f6796b24.svg" alt="">砂場掘り</a> ・ <a href="#/ja/action/tend-flower-bed"><img class="wiki-icon" src="assets/icon/b9f2fd9a42b74ce8.svg" alt="">花壇の手入れ</a> ・ <a href="#/ja/action/pond-side"><img class="wiki-icon" src="assets/icon/8037b426178499e5.svg" alt="">池のほとり</a> ・ <a href="#/ja/action/giant-spider"><img class="wiki-icon" src="assets/icon/f4a063e2ef801314.svg" alt="">巨大なクモ</a> ・ <a href="#/ja/action/shut-in-guard"><img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員</a> ・ <a href="#/ja/action/pavlovs-dog"><img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬</a> ・ <a href="#/ja/action/beetle"><img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ</a> ・ <a href="#/ja/action/snail"><img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ</a> ・ <a href="#/ja/action/deep-in-the-bushes"><img class="wiki-icon" src="assets/icon/ffc8dfbf2e954eb8.svg" alt="">茂みの奥</a> ・ <a href="#/ja/action/twilight-promenade"><img class="wiki-icon" src="assets/icon/849075a43bb2d535.svg" alt="">夕暮れの散歩道</a> ・ <a href="#/ja/action/boathouse"><img class="wiki-icon" src="assets/icon/1aee9dfc0a917e5f.svg" alt="">ボート小屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#697852"><div class="wiki-navbox-title">公園のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-fallen-leaves"><img class="wiki-icon" src="assets/icon/732665ba6a1aee85.svg" alt="">落ち葉拾い</a> ・ <a href="#/ja/action/cleanup-activity"><img class="wiki-icon" src="assets/icon/dc1ff4797b8cfa39.svg" alt="">清掃活動</a> ・ <a href="#/ja/action/dig-sandbox"><img class="wiki-icon" src="assets/icon/eee8a2d4f6796b24.svg" alt="">砂場掘り</a> ・ <a href="#/ja/action/tend-flower-bed"><img class="wiki-icon" src="assets/icon/b9f2fd9a42b74ce8.svg" alt="">花壇の手入れ</a> ・ <a href="#/ja/action/pond-side"><img class="wiki-icon" src="assets/icon/8037b426178499e5.svg" alt="">池のほとり</a> ・ <a href="#/ja/action/giant-spider"><img class="wiki-icon" src="assets/icon/f4a063e2ef801314.svg" alt="">巨大なクモ</a> ・ <a href="#/ja/action/shut-in-guard"><img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員</a> ・ <a href="#/ja/action/beetle"><img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ</a> ・ <a href="#/ja/action/snail"><img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ</a> ・ <a href="#/ja/action/pavlovs-dog"><img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬</a> ・ <a href="#/ja/action/deep-in-the-bushes"><img class="wiki-icon" src="assets/icon/ffc8dfbf2e954eb8.svg" alt="">茂みの奥</a> ・ <a href="#/ja/action/twilight-promenade"><img class="wiki-icon" src="assets/icon/849075a43bb2d535.svg" alt="">夕暮れの散歩道</a> ・ <a href="#/ja/action/boathouse"><img class="wiki-icon" src="assets/icon/1aee9dfc0a917e5f.svg" alt="">ボート小屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -51,10 +51,11 @@
 | --- | --- |
 | id | `cleanup-activity` |
 | `category` | `park` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `gather` |
 | `unlocked` | `hidden` |
 | `level` | `3` |
+| `disciplineLevel` | `0` |
 | `experience` | `6` |
 | `seconds` | `10` |
 | `chance` | `0.5` |
@@ -80,10 +81,11 @@
 		"color": ""
 	},
 	"category": "park",
-	"attribute": "",
+	"discipline": "",
 	"group": "gather",
 	"unlocked": "hidden",
 	"level": 3,
+	"disciplineLevel": 0,
 	"experience": 6,
 	"seconds": 10,
 	"chance": 0.5,

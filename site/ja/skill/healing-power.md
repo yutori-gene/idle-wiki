@@ -1,6 +1,6 @@
 # 治癒力
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">治癒力</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💚</span></div><table><tr><th>発動率</th><td>7%／ターン</td></tr><tr><th>効果</th><td>回復+8</td></tr><tr><th>持つ敵</th><td>5体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">治癒力</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/33c15442b76d44aa.svg" alt=""></div><table><tr><th>発動率</th><td>7%／ターン</td></tr><tr><th>効果</th><td>回復+8</td></tr><tr><th>持つ敵</th><td>5体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 寝れば治る。だいたいのことは。
 
@@ -17,17 +17,17 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックス](/ja/action/phoenix) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv23 |
-| [<span class="wiki-icon">🧙</span>エレメンタリスト](/ja/action/elementalist) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
-| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv46 |
-| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv16 |
+| [<img class="wiki-icon" src="assets/icon/e1bd57a21d5fa216.svg" alt="">フェニックス](/ja/action/phoenix) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv5 |
+| [<img class="wiki-icon" src="assets/icon/3aad8de08b0fee46.svg" alt="">エレメンタリスト](/ja/action/elementalist) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv6 |
+| [<img class="wiki-icon" src="assets/icon/a399a48719b8f036.svg" alt="">悪魔](/ja/action/demon) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv39 |
+| [<img class="wiki-icon" src="assets/icon/0f2bdf78d9abe485.svg" alt="">パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv45 |
+| [<img class="wiki-icon" src="assets/icon/c7d3ecb34b9e3294.svg" alt="">ミミズ](/ja/action/earthworm) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv16 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">⏰</span>麻酔時計](/ja/item/anesthetic-watch) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/e85744d6ecaf4853.svg" alt="">麻酔時計](/ja/item/anesthetic-watch) | [<img class="wiki-icon" src="assets/icon/fb530857299597e8.svg" alt="">腕部装備](/ja/group/arm-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -50,7 +50,7 @@
 		"icon": {
 			"emoji": "💚",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/33c15442b76d44aa.svg）"
 		},
 		"color": ""
 	},

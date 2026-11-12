@@ -1,6 +1,6 @@
 # 野良猫の首輪
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">野良猫の首輪</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐈</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>27 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">野良猫の首輪</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/d3eddffb22bca667.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>27 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 誰かと共に暮らした証。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌃</span>深夜の路上](/ja/action/midnight-street) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv3 | 2 | 57.6% | 0.576 | 69.1 |
+| [<img class="wiki-icon" src="assets/icon/7cd052438a680aa5.svg" alt="">深夜の路上](/ja/action/midnight-street) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv3 | 2 | 57.6% | 0.576 | 69.1 |
 
 ### 購入
 
@@ -23,8 +23,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎓</span>学ラン](/ja/action/craft-gakuran) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 3 | 100% |  |
-| [<span class="wiki-icon">⚓</span>セーラー服](/ja/action/craft-sailor-uniform) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv15 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/450456d1e3acac8e.svg" alt="">学ラン](/ja/action/craft-gakuran) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv13 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/f8c1cbc1c4a0a628.svg" alt="">セーラー服](/ja/action/craft-sailor-uniform) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv15 | 3 | 100% |  |
 
 ## 解放条件
 
@@ -65,7 +65,7 @@
 		"icon": {
 			"emoji": "🐈",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/d3eddffb22bca667.svg）"
 		},
 		"color": ""
 	},

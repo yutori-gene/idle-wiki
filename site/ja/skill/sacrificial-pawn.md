@@ -1,6 +1,6 @@
 # 捨て駒
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">捨て駒</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">♟️</span></div><table><tr><th>発動率</th><td>3%／ターン</td></tr><tr><th>効果</th><td>精度+15・回復-9</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">捨て駒</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/688c526fa9f4b239.svg" alt=""></div><table><tr><th>発動率</th><td>3%／ターン</td></tr><tr><th>効果</th><td>精度+15・回復-9</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 自分の身体も、投げるものの一つ。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🏗️</span>巨大クレーン](/ja/action/giant-crane) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv29 |
+| [<img class="wiki-icon" src="assets/icon/85fb750f8b81f006.svg" alt="">巨大クレーン](/ja/action/giant-crane) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv17 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🚀</span>マグロケット](/ja/item/tuna-rocket) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/58b2a016832ea29b.svg" alt="">マグロケット](/ja/item/tuna-rocket) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "♟️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/688c526fa9f4b239.svg）"
 		},
 		"color": ""
 	},

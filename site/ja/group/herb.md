@@ -1,18 +1,18 @@
 # 薬草
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">薬草</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌿</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>6種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">薬草</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/5ee26ae375c27672.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>6種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌿</span>大麻](/ja/item/hemp) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 18 |
-| [<span class="wiki-icon">🌿</span>薬草](/ja/item/herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 18 |
-| [<span class="wiki-icon">🌶️</span>とうがらし](/ja/item/chili) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 21 |
-| [<span class="wiki-icon">☠️</span>毒草](/ja/item/poison-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 24 |
-| [<span class="wiki-icon">🌿</span>香草](/ja/item/aromatic-herb) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 24 |
-| [<span class="wiki-icon">🍃</span>世界樹の葉](/ja/item/world-tree-leaf) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | 装備不可 | 90 |
+| [<img class="wiki-icon" src="assets/icon/d170080c7cf36f0b.svg" alt="">大麻](/ja/item/hemp) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | 装備不可 | 18 |
+| [<img class="wiki-icon" src="assets/icon/e755ac0db8874321.svg" alt="">薬草](/ja/item/herb) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | 装備不可 | 18 |
+| [<img class="wiki-icon" src="assets/icon/3091f067d2e95db7.svg" alt="">とうがらし](/ja/item/chili) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | 装備不可 | 21 |
+| [<img class="wiki-icon" src="assets/icon/b8be92acdd3abd67.svg" alt="">毒草](/ja/item/poison-herb) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | 装備不可 | 24 |
+| [<img class="wiki-icon" src="assets/icon/53c7ad769ec28ebe.svg" alt="">香草](/ja/item/aromatic-herb) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | 装備不可 | 24 |
+| [<img class="wiki-icon" src="assets/icon/ea1c03441f5696c2.svg" alt="">世界樹の葉](/ja/item/world-tree-leaf) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | 装備不可 | 90 |
 
 ## 開発者向け情報
 
@@ -36,7 +36,7 @@
 	"icon": {
 		"emoji": "🌿",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/5ee26ae375c27672.svg）"
 	},
 	"color": ""
 }

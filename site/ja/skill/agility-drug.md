@@ -1,6 +1,6 @@
 # 俊敏の薬
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">俊敏の薬</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💨</span></div><table><tr><th>発動率</th><td>14%／ターン</td></tr><tr><th>効果</th><td>精度+7・回避+10</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">俊敏の薬</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/2c28b18a3d4b2cc6.svg" alt=""></div><table><tr><th>発動率</th><td>14%／ターン</td></tr><tr><th>効果</th><td>精度+7・回避+10</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 景色が遅れて流れていく。
 
@@ -17,7 +17,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">☕</span>眠気覚まし](/ja/item/anti-drowsiness) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/2021ac1dfe331d7c.svg" alt="">眠気覚まし](/ja/item/anti-drowsiness) | [<img class="wiki-icon" src="assets/icon/4815effeebbe3bb0.svg" alt="">ポーション](/ja/group/potion) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -40,7 +40,7 @@
 		"icon": {
 			"emoji": "💨",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/2c28b18a3d4b2cc6.svg）"
 		},
 		"color": ""
 	},

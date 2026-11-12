@@ -1,6 +1,6 @@
 # 円環の理
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">円環の理</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⭕</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>防御+8・回避+4・回復+7</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">円環の理</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/98964f82f522f4c2.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>防御+8・回避+4・回復+7</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 終わりは始まりに、傷は癒しに繋がっている。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐙</span>クトゥルフ](/ja/action/cthulhu) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 |
+| [<img class="wiki-icon" src="assets/icon/726cdf61e0805eb5.svg" alt="">クトゥルフ](/ja/action/cthulhu) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv12 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔺</span>ATフィールド](/ja/item/at-field) | [<span class="wiki-icon">🎖️</span>ブローチ](/ja/group/brooch) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/56d8e0e4b6f4e0da.svg" alt="">ATフィールド](/ja/item/at-field) | [<img class="wiki-icon" src="assets/icon/90105f31f000c615.svg" alt="">ブローチ](/ja/group/brooch) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "⭕",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/98964f82f522f4c2.svg）"
 		},
 		"color": ""
 	},

@@ -1,12 +1,12 @@
 # 作業予定
 
-<div class="wiki-infobox" style="--accent:#4a6572"><div class="wiki-infobox-title">作業予定</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📋</span></div><table><tr><th>種類</th><td>作業予定の枠（アクションの予約数）</td></tr><tr><th>初期の枠</th><td>1</td></tr><tr><th>購入</th><td><a href="#/ja/item/treasure-medal"><span class="wiki-icon">🏅</span>秘宝メダル</a>で購入（4回まで）</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4a6572"><div class="wiki-infobox-title">作業予定</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📋</span></div><table><tr><th>種類</th><td>作業予定の枠（アクションの予約数）</td></tr><tr><th>初期の枠</th><td>1</td></tr><tr><th>購入</th><td><a href="#/ja/item/treasure-medal"><img class="wiki-icon" src="assets/icon/35c3b1c389d2126f.svg" alt="">秘宝メダル</a>で購入（4回まで）</td></tr></table></div>
 
 > 続けて実行するアクションの予約枠。秘宝メダルで4回まで増やせる
 
 作業予定は、続けて実行するアクションの予約数（実行中のものを含む）。予約しておくと、いまのアクションが終わったあと自動で次へ進む。
 
-[<span class="wiki-icon">🏅</span>秘宝メダル](/ja/item/treasure-medal) でしか買えない。
+[<img class="wiki-icon" src="assets/icon/35c3b1c389d2126f.svg" alt="">秘宝メダル](/ja/item/treasure-medal) でしか買えない。
 
 
 ## 購入価格

@@ -1,6 +1,6 @@
 # ダンボール
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ダンボール</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/25af4bafc91e56d6.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>9 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">ダンボール</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/25af4bafc91e56d6.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>9 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 敵から完全に隠れることができる。
 
@@ -20,8 +20,8 @@
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/dc1ff4797b8cfa39.svg" alt="">清掃活動](/ja/action/cleanup-activity) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv3 | 7 | 16% | 0.56 | 202 |
-| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 | 1 | 36.7% | 0.184 | 28.5 |
-| [<span class="wiki-icon">🐢</span>タートル](/ja/action/sea-turtle) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv21 | 1 | 10.2% | 0.051 | 0.347 |
+| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv13 | 1 | 36.7% | 0.184 | 28.2 |
+| [<img class="wiki-icon" src="assets/icon/8a25194356ea6eb5.svg" alt="">タートル](/ja/action/sea-turtle) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv39 | 1 | 10.2% | 0.051 | 0.362 |
 
 ## 用途
 
@@ -29,13 +29,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 | 1 | 3.67% |  |
+| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv13 | 1 | 3.67% |  |
 
 ### 条件にしているもの
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧙</span>路地裏の商人](/ja/event/alley-merchant) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) ×10 |
+| [<img class="wiki-icon" src="assets/icon/a66d648222854cb8.svg" alt="">路地裏の商人](/ja/event/alley-merchant) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) ×10 |
 
 ## 解放条件
 

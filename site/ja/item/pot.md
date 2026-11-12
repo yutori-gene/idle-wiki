@@ -1,6 +1,6 @@
 # 鍋
 
-<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">鍋</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍲</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">鍋</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/113be4c103e4e198.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > かぶれば即席ヘルメット。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍲</span>鍋](/ja/action/buy-pot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 1 | 100% | 1 | 36,000 |
+| [<img class="wiki-icon" src="assets/icon/b2b64d3bc633f407.svg" alt="">鍋](/ja/action/buy-pot) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv1 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -19,11 +19,11 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) ×1（消費しない） |
-| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) ×1（消費しない） |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | [<span class="wiki-icon">🍲</span>鍋](/ja/item/pot) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/d705d18d6a8d6d56.svg" alt="">飴](/ja/action/cook-candy) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | [<img class="wiki-icon" src="assets/icon/113be4c103e4e198.svg" alt="">鍋](/ja/item/pot) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/f143fb3a738275de.svg" alt="">肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | [<img class="wiki-icon" src="assets/icon/113be4c103e4e198.svg" alt="">鍋](/ja/item/pot) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/bc150632bd6fb7c2.svg" alt="">燃える豆腐](/ja/action/cook-burning-tofu) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | [<img class="wiki-icon" src="assets/icon/113be4c103e4e198.svg" alt="">鍋](/ja/item/pot) ×1（消費しない） |
 
-<div class="wiki-navbox" style="--accent:#9b7d61"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#9b7d61"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -56,7 +56,7 @@
 		"icon": {
 			"emoji": "🍲",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/113be4c103e4e198.svg）"
 		},
 		"color": ""
 	},

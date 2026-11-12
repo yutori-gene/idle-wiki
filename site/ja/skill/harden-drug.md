@@ -1,6 +1,6 @@
 # 硬化薬
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">硬化薬</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥤</span></div><table><tr><th>発動率</th><td>15%／ターン</td></tr><tr><th>効果</th><td>防御+10・回復+6</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">硬化薬</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e753294e46ecc817.svg" alt=""></div><table><tr><th>発動率</th><td>15%／ターン</td></tr><tr><th>効果</th><td>防御+10・回復+6</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 皮膚が鎧になる。しばらくの間だけ。
 
@@ -17,7 +17,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>保冷剤](/ja/item/cold-pack) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/75d124e9d37102be.svg" alt="">保冷剤](/ja/item/cold-pack) | [<img class="wiki-icon" src="assets/icon/4815effeebbe3bb0.svg" alt="">ポーション](/ja/group/potion) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -40,7 +40,7 @@
 		"icon": {
 			"emoji": "🥤",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/e753294e46ecc817.svg）"
 		},
 		"color": ""
 	},

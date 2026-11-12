@@ -1,6 +1,6 @@
 # 硫黄の谷
 
-<div class="wiki-infobox" style="--accent:#6e4c5b"><div class="wiki-infobox-title">硫黄の谷</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🟡</span></div><table><tr><th>場所</th><td><a href="#/ja/category/hell"><img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>1分30秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>52</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#6e4c5b"><div class="wiki-infobox-title">硫黄の谷</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/6ac9bc8ea194652e.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/hell"><img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>1分30秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>52</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 地の底から硫黄が噴き出す谷。息を止めても喉が焼ける。
 
@@ -11,12 +11,12 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🟡</span>硫黄石](/ja/item/sulfur-stone) ×7 | 成功時 | 91% | 3.2 | 127 |
-| [<span class="wiki-icon">🔥</span>焦げ土](/ja/item/scorched-soil) ×5 | 成功時 | 56% | 1.4 | 56 |
-| [<span class="wiki-icon">⚫</span>煤](/ja/item/soot) ×5 | 成功時 | 56% | 1.4 | 56 |
-| [<span class="wiki-icon">⚫</span>黒い砂](/ja/item/black-sand) ×5 | 成功時 | 56% | 1.4 | 56 |
-| [<span class="wiki-icon">⛓️</span>鎖](/ja/item/chain) ×3 | 成功時 | 48% | 0.72 | 28.8 |
-| [<span class="wiki-icon">🔴</span>モンスターボール](/ja/item/monster-ball) ×2 | 成功時 | 50% | 0.5 | 20 |
+| [<img class="wiki-icon" src="assets/icon/398932625e43cf55.svg" alt="">硫黄石](/ja/item/sulfur-stone) ×7 | 成功時 | 91% | 3.2 | 127 |
+| [<img class="wiki-icon" src="assets/icon/34b8c78aa0b56152.svg" alt="">焦げ土](/ja/item/scorched-soil) ×5 | 成功時 | 56% | 1.4 | 56 |
+| [<img class="wiki-icon" src="assets/icon/3cddf44abc0cab5a.svg" alt="">煤](/ja/item/soot) ×5 | 成功時 | 56% | 1.4 | 56 |
+| [<img class="wiki-icon" src="assets/icon/e2ed8f649f029802.svg" alt="">黒い砂](/ja/item/black-sand) ×5 | 成功時 | 56% | 1.4 | 56 |
+| [<img class="wiki-icon" src="assets/icon/4ba6ff2edee2f77b.svg" alt="">鎖](/ja/item/chain) ×3 | 成功時 | 48% | 0.72 | 28.8 |
+| [<img class="wiki-icon" src="assets/icon/a917ec403a65830e.svg" alt="">モンスターボール](/ja/item/monster-ball) ×2 | 成功時 | 50% | 0.5 | 20 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -25,11 +25,11 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv1） | 1分30秒 | 50% | 52 | 40 | 1,040 |
-| +10（Lv11） | 1分13秒 | 60% | 34.67 | 49 | 359 |
-| +20（Lv21） | 1分 | 69.2% | 23.11 | 60 | 119 |
-| +30（Lv31） | 49秒 | 77.1% | 15.41 | 73.5 | 38 |
+| +10（Lv11） | 1分13秒 | 60% | 28.31 | 49 | 293 |
+| +20（Lv21） | 1分 | 69.2% | 15.41 | 60 | 79 |
+| +30（Lv31） | 49秒 | 77.1% | 8.39 | 73.5 | 21 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -39,7 +39,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#6e4c5b"><div class="wiki-navbox-title">地獄のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/sulfur-valley"><span class="wiki-icon">🟡</span>硫黄の谷</a> ・ <a href="#/ja/action/bone-gathering"><span class="wiki-icon">💀</span>骸骨拾い</a> ・ <a href="#/ja/action/mummy"><span class="wiki-icon">🧟</span>ミイラ</a> ・ <a href="#/ja/action/medusa"><span class="wiki-icon">🐍</span>メデューサ</a> ・ <a href="#/ja/action/ifrit"><span class="wiki-icon">🔥</span>イフリート</a> ・ <a href="#/ja/action/vampire"><span class="wiki-icon">🧛</span>バンパイヤ</a> ・ <a href="#/ja/action/bakeneko"><span class="wiki-icon">🐱</span>化け猫</a> ・ <a href="#/ja/action/lord-freeze"><span class="wiki-icon">🥶</span>フリーズ様</a> ・ <a href="#/ja/action/bat"><span class="wiki-icon">🦇</span>コウモリ</a> ・ <a href="#/ja/action/man-eating-box"><span class="wiki-icon">📦</span>人食い箱</a> ・ <a href="#/ja/action/behemoth"><span class="wiki-icon">🐘</span>ベヒモス</a> ・ <a href="#/ja/action/rotten-tyrant"><span class="wiki-icon">🧟</span>腐った暴君</a> ・ <a href="#/ja/action/demon"><span class="wiki-icon">😈</span>悪魔</a> ・ <a href="#/ja/action/dwarf"><span class="wiki-icon">🧔</span>ドワーフ</a> ・ <a href="#/ja/action/cerberus"><span class="wiki-icon">🐺</span>ケルベロス</a> ・ <a href="#/ja/action/basilisk"><span class="wiki-icon">🐍</span>バジリスク</a> ・ <a href="#/ja/action/enma-court"><span class="wiki-icon">⚖️</span>閻魔の法廷</a></div></div>
+<div class="wiki-navbox" style="--accent:#6e4c5b"><div class="wiki-navbox-title">地獄のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/sulfur-valley"><img class="wiki-icon" src="assets/icon/6ac9bc8ea194652e.svg" alt="">硫黄の谷</a> ・ <a href="#/ja/action/bone-gathering"><img class="wiki-icon" src="assets/icon/99681c3b8d9ffd3e.svg" alt="">骸骨拾い</a> ・ <a href="#/ja/action/vampire"><img class="wiki-icon" src="assets/icon/3bc4421543721689.svg" alt="">バンパイヤ</a> ・ <a href="#/ja/action/medusa"><img class="wiki-icon" src="assets/icon/8558fc8f4fdb9def.svg" alt="">メデューサ</a> ・ <a href="#/ja/action/ifrit"><img class="wiki-icon" src="assets/icon/28d9275128ba3d5b.svg" alt="">イフリート</a> ・ <a href="#/ja/action/bakeneko"><img class="wiki-icon" src="assets/icon/657885362fae1efc.svg" alt="">化け猫</a> ・ <a href="#/ja/action/lord-freeze"><img class="wiki-icon" src="assets/icon/a1198ac4d82115d0.svg" alt="">フリーズ様</a> ・ <a href="#/ja/action/demon"><img class="wiki-icon" src="assets/icon/a399a48719b8f036.svg" alt="">悪魔</a> ・ <a href="#/ja/action/man-eating-box"><img class="wiki-icon" src="assets/icon/2fe1c02a6322d541.svg" alt="">人食い箱</a> ・ <a href="#/ja/action/bat"><img class="wiki-icon" src="assets/icon/bc5719e3beef9c93.svg" alt="">コウモリ</a> ・ <a href="#/ja/action/basilisk"><img class="wiki-icon" src="assets/icon/9f2b3b58eb91f6ca.svg" alt="">バジリスク</a> ・ <a href="#/ja/action/mummy"><img class="wiki-icon" src="assets/icon/0218c089efa72a77.svg" alt="">ミイラ</a> ・ <a href="#/ja/action/behemoth"><img class="wiki-icon" src="assets/icon/1dd26ec4c50a4c5d.svg" alt="">ベヒモス</a> ・ <a href="#/ja/action/dwarf"><img class="wiki-icon" src="assets/icon/58090c8ec941246b.svg" alt="">ドワーフ</a> ・ <a href="#/ja/action/rotten-tyrant"><img class="wiki-icon" src="assets/icon/a6aa062ef47dc4a9.svg" alt="">腐った暴君</a> ・ <a href="#/ja/action/cerberus"><img class="wiki-icon" src="assets/icon/434f9ba7725923c7.svg" alt="">ケルベロス</a> ・ <a href="#/ja/action/enma-court"><img class="wiki-icon" src="assets/icon/2f292d9ebea19f1c.svg" alt="">閻魔の法廷</a></div></div>
 
 ## 開発者向け情報
 
@@ -47,10 +47,11 @@
 | --- | --- |
 | id | `sulfur-valley` |
 | `category` | `hell` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `gather` |
 | `unlocked` | `hidden` |
 | `level` | `1` |
+| `disciplineLevel` | `0` |
 | `experience` | `52` |
 | `seconds` | `90` |
 | `chance` | `0.5` |
@@ -71,15 +72,16 @@
 		"icon": {
 			"emoji": "🟡",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/6ac9bc8ea194652e.svg）"
 		},
 		"color": ""
 	},
 	"category": "hell",
-	"attribute": "",
+	"discipline": "",
 	"group": "gather",
 	"unlocked": "hidden",
 	"level": 1,
+	"disciplineLevel": 0,
 	"experience": 52,
 	"seconds": 90,
 	"chance": 0.5,

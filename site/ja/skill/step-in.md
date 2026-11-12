@@ -1,6 +1,6 @@
 # 踏み込み
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">踏み込み</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏃</span></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>精度+5</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">踏み込み</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/91fd04ba248a6863.svg" alt=""></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>精度+5</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 半歩で、届く距離が変わる。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐺</span>ウルフ](/ja/action/wolf) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 |
-| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv40 |
+| [<img class="wiki-icon" src="assets/icon/15c5deccdd555c48.svg" alt="">ウルフ](/ja/action/wolf) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv46 |
+| [<img class="wiki-icon" src="assets/icon/0c0348d8c43a934d.svg" alt="">牢番](/ja/action/jailer) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv35 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔨</span>ハンマー](/ja/item/hammer) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/4869d9d753339e7f.svg" alt="">ハンマー](/ja/item/hammer) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🏃",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/91fd04ba248a6863.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # 神殿の柱石
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">神殿の柱石</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏛️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>2,430 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">神殿の柱石</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f7152151d05f0bdc.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>2,430 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 古の信仰を支えていた。
 
@@ -11,14 +11,14 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🛡️</span>パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 | 1 | 0.027% | 0 | 0 |
-| [<span class="wiki-icon">☁️</span>雲上の遺跡](/ja/action/ruins-above-clouds) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv8 | 1 | 4.98% | 0.05 | 0.01 |
+| [<img class="wiki-icon" src="assets/icon/0f2bdf78d9abe485.svg" alt="">パラディン](/ja/action/paladin) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv45 | 1 | 0.027% | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/c9ceb66ca4ebf9e5.svg" alt="">雲上の遺跡](/ja/action/ruins-above-clouds) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv8 | 1 | 4.98% | 0.05 | 0.01 |
 
 ### イベント
 
 | イベント | タイミング | 個数 | 確率 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🌳</span>世界樹の目覚め](/ja/event/world-tree-awakening) | 変化時（隠し） | 1 | 100% |
+| [<img class="wiki-icon" src="assets/icon/3aea983beb237a5f.svg" alt="">世界樹の目覚め](/ja/event/world-tree-awakening) | 変化時（隠し） | 1 | 100% |
 
 ## 用途
 
@@ -26,14 +26,14 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/action/craft-stand-arrow) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/action/craft-spear-of-longinus) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">💣</span>N2爆雷](/ja/action/craft-n2-mine) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🐴</span>トロイの木馬](/ja/action/craft-trojan-horse) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🐬</span>軍用イルカ](/ja/action/craft-military-dolphin) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/action/craft-box-gundam) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv48 | 1 | 100% |  |
-| [<span class="wiki-icon">👘</span>聖衣](/ja/action/craft-holy-cloth) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
-| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/action/craft-infinity-gauntlet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/4ddee4a3cbcc548d.svg" alt="">スタンドの矢](/ja/action/craft-stand-arrow) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv50 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/789177e005d9d1b3.svg" alt="">ロンギヌスの槍](/ja/action/craft-spear-of-longinus) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv50 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/e772d34c4caf8d87.svg" alt="">N2爆雷](/ja/action/craft-n2-mine) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv50 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/5cf93dc6f35ee148.svg" alt="">トロイの木馬](/ja/action/craft-trojan-horse) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv50 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/63fa6e9ee9b4f416.svg" alt="">軍用イルカ](/ja/action/craft-military-dolphin) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv50 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/c9f186e3942b7170.svg" alt="">箱ガンダム](/ja/action/craft-box-gundam) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv48 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/61e8dc95114f284b.svg" alt="">聖衣](/ja/action/craft-holy-cloth) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/038c47ea094ae5f3.svg" alt="">無限の手袋](/ja/action/craft-infinity-gauntlet) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv50 | 1 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -68,7 +68,7 @@
 		"icon": {
 			"emoji": "🏛️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/f7152151d05f0bdc.svg）"
 		},
 		"color": ""
 	},

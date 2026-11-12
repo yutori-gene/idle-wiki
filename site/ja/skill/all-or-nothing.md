@@ -1,6 +1,6 @@
 # 一擲乾坤
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">一擲乾坤</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎲</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+15・精度-10</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">一擲乾坤</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/9e78475122321ff0.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+15・精度-10</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 一度だけ、すべてを賭ける。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>バハムート](/ja/action/bahamut) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 |
+| [<img class="wiki-icon" src="assets/icon/2306e5eaf3792660.svg" alt="">バハムート](/ja/action/bahamut) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv46 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🌕</span>元気玉](/ja/item/spirit-bomb) | [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/8add866f74ab863e.svg" alt="">元気玉](/ja/item/spirit-bomb) | [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🎲",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/9e78475122321ff0.svg）"
 		},
 		"color": ""
 	},

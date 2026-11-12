@@ -1,6 +1,6 @@
 # 削り合い
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">削り合い</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚔️</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+10・回避-8・回復+8</td></tr><tr><th>持つ敵</th><td>6体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">削り合い</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/2aa914fca537798a.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+10・回避-8・回復+8</td></tr><tr><th>持つ敵</th><td>6体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 先に倒れなければ、それが勝ちだ。
 
@@ -17,18 +17,18 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 |
-| [<span class="wiki-icon">🐊</span>クロコダイル](/ja/action/crocodile) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 |
-| [<span class="wiki-icon">🪱</span>マグマワーム](/ja/action/magma-worm) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 |
-| [<span class="wiki-icon">👻</span>亡霊騎士](/ja/action/ghost-knight) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
-| [<span class="wiki-icon">🐺</span>ケルベロス](/ja/action/cerberus) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv47 |
-| [<span class="wiki-icon">🍝</span>スパゲッティモンスター](/ja/action/spaghetti-monster) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/a4e9edb1cd6bdef5.svg" alt="">ドブネズミ](/ja/action/sewer-rat) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/fed17d75923f9e8c.svg" alt="">クロコダイル](/ja/action/crocodile) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv17 |
+| [<img class="wiki-icon" src="assets/icon/5eb0d3e7e1467725.svg" alt="">マグマワーム](/ja/action/magma-worm) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv19 |
+| [<img class="wiki-icon" src="assets/icon/6c3069c276750054.svg" alt="">亡霊騎士](/ja/action/ghost-knight) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv21 |
+| [<img class="wiki-icon" src="assets/icon/434f9ba7725923c7.svg" alt="">ケルベロス](/ja/action/cerberus) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv46 |
+| [<img class="wiki-icon" src="assets/icon/394a604ae0c49dba.svg" alt="">スパゲッティモンスター](/ja/action/spaghetti-monster) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv17 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">⚔️</span>マスターソード](/ja/item/master-sword) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/585013cc1a3555f7.svg" alt="">マスターソード](/ja/item/master-sword) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -51,7 +51,7 @@
 		"icon": {
 			"emoji": "⚔️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/2aa914fca537798a.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # 興奮剤
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">興奮剤</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚡</span></div><table><tr><th>発動率</th><td>18%／ターン</td></tr><tr><th>効果</th><td>攻撃+8</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">興奮剤</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/8ddd0d7863c968cd.svg" alt=""></div><table><tr><th>発動率</th><td>18%／ターン</td></tr><tr><th>効果</th><td>攻撃+8</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 痛みを感じなくなるだけで、こんなに戦える。
 
@@ -17,7 +17,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>鎮痛剤](/ja/item/painkiller) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/214b7e32c793a361.svg" alt="">鎮痛剤](/ja/item/painkiller) | [<img class="wiki-icon" src="assets/icon/4815effeebbe3bb0.svg" alt="">ポーション](/ja/group/potion) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -40,7 +40,7 @@
 		"icon": {
 			"emoji": "⚡",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/8ddd0d7863c968cd.svg）"
 		},
 		"color": ""
 	},

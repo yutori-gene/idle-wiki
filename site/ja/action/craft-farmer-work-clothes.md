@@ -1,15 +1,16 @@
 # 農夫の作業着
 
-<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">農夫の作業着</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👨‍🌾</span></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><span class="wiki-icon">🔨</span>合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>1時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#3a4047"><div class="wiki-infobox-title">農夫の作業着</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/d74c9fee024217f5.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/synthesize"><img class="wiki-icon" src="assets/icon/c9bb2836ebd5ad26.svg" alt="">合成</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>1時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
-> 枯れ枝から農夫の作業着を仕立てる。
+> エプロンに枯れ枝を足して農夫の作業着に仕立て直す。
 
 
 **単発**: 1回ずつ進む。100%になったら開封して報酬を受け取る。
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🥀</span>枯れ枝](/ja/item/dead-branch) ×5（消費する）
+- [<img class="wiki-icon" src="assets/icon/1b278ad03cb35a64.svg" alt="">枯れ枝](/ja/item/dead-branch) ×5（消費する）
+- [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) ×1（消費する）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -17,7 +18,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) ×1 | 成功時 | 100% | 1 | 1 |
+| [<img class="wiki-icon" src="assets/icon/7015a8fab91bdf0f.svg" alt="">農夫の作業着](/ja/item/farmer-work-clothes) ×1 | 成功時 | 100% | 1 | 1 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -27,17 +28,17 @@
 | --- | --- | --- | --- | --- | --- |
 | — | 1時間 | 100% | — | 1 | — |
 
-経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
+カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
 
 ## 収支（1時間あたり）
 
 | 通貨 | 収入 | 材料費 | 差引 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 6 | 10 | -4 |
+| [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) | 6 | 13 | -7 |
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">防具のアクション</div><div class="wiki-navbox-body">67件。一覧は <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#3a4047"><div class="wiki-navbox-title">防具のアクション</div><div class="wiki-navbox-body">90件。一覧は <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -45,10 +46,11 @@
 | --- | --- |
 | id | `craft-farmer-work-clothes` |
 | `category` | `armor` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `synthesize` |
 | `unlocked` | `hinted` |
 | `level` | `10` |
+| `disciplineLevel` | `0` |
 | `experience` | `1029` |
 | `seconds` | `3600` |
 | `chance` | `1` |
@@ -65,19 +67,20 @@
 	"information": {
 		"id": "craft-farmer-work-clothes",
 		"name": "農夫の作業着",
-		"explanation": "枯れ枝から農夫の作業着を仕立てる。",
+		"explanation": "エプロンに枯れ枝を足して農夫の作業着に仕立て直す。",
 		"icon": {
 			"emoji": "👨‍🌾",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/d74c9fee024217f5.svg）"
 		},
 		"color": ""
 	},
 	"category": "armor",
-	"attribute": "",
+	"discipline": "",
 	"group": "synthesize",
 	"unlocked": "hinted",
 	"level": 10,
+	"disciplineLevel": 0,
 	"experience": 1029,
 	"seconds": 3600,
 	"chance": 1,
@@ -87,6 +90,13 @@
 			"type": "item",
 			"id": "dead-branch",
 			"count": 5,
+			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "apron",
+			"count": 1,
 			"chance": 1,
 			"equipment": false
 		}

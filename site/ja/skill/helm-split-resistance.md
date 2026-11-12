@@ -1,6 +1,6 @@
 # 兜割り耐性
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">兜割り耐性</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⛑️</span></div><table><tr><th>発動率</th><td>9%／ターン</td></tr><tr><th>効果</th><td>防御+6</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">兜割り耐性</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/319dd132d20efe18.svg" alt=""></div><table><tr><th>発動率</th><td>9%／ターン</td></tr><tr><th>効果</th><td>防御+6</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 頭さえ守れば、たいてい生きている。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐲</span>ドラゴンキッズ](/ja/action/dragon-kid) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 |
-| [<span class="wiki-icon">🗿</span>黒曜石のガーゴイル](/ja/action/obsidian-gargoyle) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv37 |
+| [<img class="wiki-icon" src="assets/icon/09ecaa0c1b48e7eb.svg" alt="">ドラゴンキッズ](/ja/action/dragon-kid) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv20 |
+| [<img class="wiki-icon" src="assets/icon/1c69fa1f35cbd5b4.svg" alt="">黒曜石のガーゴイル](/ja/action/obsidian-gargoyle) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv44 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/item/iron-helmet) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/a5a1cc4a6c31a1ee.svg" alt="">鉄の兜](/ja/item/iron-helmet) | [<img class="wiki-icon" src="assets/icon/6c462d8e036e535b.svg" alt="">頭部防具](/ja/group/head-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "⛑️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/319dd132d20efe18.svg）"
 		},
 		"color": ""
 	},

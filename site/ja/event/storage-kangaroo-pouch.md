@@ -1,6 +1,6 @@
 # カンガルーの袋を手に入れた
 
-<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">カンガルーの袋を手に入れた</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦘</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">カンガルーの袋を手に入れた</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/68891d3555e983c9.svg" alt=""></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>カテゴリ</th><td><a href="#/ja/category/garden"><img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 伸び縮みする袋は、見た目より多くを飲み込む。
 
@@ -9,7 +9,7 @@
 
 数量が変化したとき、**その1回で増えた量**が次の値以上なら発動する（何度でも繰り返す）。画面には表示されない。
 
-- [<span class="wiki-icon">🦘</span>カンガルーの袋](/ja/item/kangaroo-pouch) ×1
+- [<img class="wiki-icon" src="assets/icon/0da404830dc52c88.svg" alt="">カンガルーの袋](/ja/item/kangaroo-pouch) ×1
 
 ## 報酬
 
@@ -41,7 +41,7 @@
 		"icon": {
 			"emoji": "🦘",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/68891d3555e983c9.svg）"
 		},
 		"color": ""
 	},

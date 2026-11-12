@@ -1,27 +1,27 @@
 # 制作
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">制作</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎨</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>15本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">制作</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/313a9258024029f6.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>15本</td></tr></table></div>
 
 
 ## アクション
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">✉️</span>ボトルメール](/ja/action/seal-message-in-a-bottle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv18 | 単発 |
-| [<span class="wiki-icon">🏖️</span>砂の城](/ja/action/craft-sand-castle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv20 | 単発 |
-| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/action/bundle-peacock-feather) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv21 | 単発 |
-| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/action/connect-heart-piece) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv24 | 単発 |
-| [<span class="wiki-icon">❄️</span>スノードーム](/ja/action/craft-snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv25 | 単発 |
-| [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/action/weave-flying-carpet) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv33 | 単発 |
-| [<span class="wiki-icon">🔮</span>万華鏡](/ja/action/craft-kaleidoscope) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 単発 |
-| [<span class="wiki-icon">🔥</span>熱い想い](/ja/action/inherit-burning-passion) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv35 | 単発 |
-| [<span class="wiki-icon">🏛️</span>ダビデ像](/ja/action/craft-statue-of-david) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv36 | 単発 |
-| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/action/craft-dancing-statue) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv37 | 単発 |
-| [<span class="wiki-icon">📜</span>遺言書](/ja/action/write-will-document) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv41 | 単発 |
-| [<span class="wiki-icon">📼</span>無限ループするビデオテープ](/ja/action/copy-infinite-loop-videotape) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv42 | 単発 |
-| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/action/repair-grandfather-clock) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv44 | 単発 |
-| [<span class="wiki-icon">🧩</span>千年パズル](/ja/action/assemble-millennium-puzzle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv50 | 単発 |
-| [<span class="wiki-icon">🟡</span>金の玉](/ja/action/polish-golden-orb) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv50 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/67854644bf13e7c9.svg" alt="">ボトルメール](/ja/action/seal-message-in-a-bottle) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv18 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/e271b8239f402532.svg" alt="">砂の城](/ja/action/craft-sand-castle) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv20 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/84692c4ba909a815.svg" alt="">孔雀の羽](/ja/action/bundle-peacock-feather) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv21 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/a36f4b9f125819ad.svg" alt="">ハートのカケラ](/ja/action/connect-heart-piece) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv24 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/672226342dc8e971.svg" alt="">スノードーム](/ja/action/craft-snow-globe) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv25 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/053add087b55189d.svg" alt="">空飛ぶ絨毯](/ja/action/weave-flying-carpet) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv33 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/8924e028e77e6849.svg" alt="">万華鏡](/ja/action/craft-kaleidoscope) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv35 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/b1fbaa1c62ddb5df.svg" alt="">熱い想い](/ja/action/inherit-burning-passion) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv35 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/75635773a28b19b4.svg" alt="">ダビデ像](/ja/action/craft-statue-of-david) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv36 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/93c7b48f506d481f.svg" alt="">踊る銅像](/ja/action/craft-dancing-statue) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv37 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/3651add6bd46b346.svg" alt="">遺言書](/ja/action/write-will-document) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv41 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/84455bcc84de54dd.svg" alt="">無限ループするビデオテープ](/ja/action/copy-infinite-loop-videotape) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv42 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/987de3fc02a4d1e9.svg" alt="">おじいさんの時計](/ja/action/repair-grandfather-clock) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv44 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/be74a6e697bd7212.svg" alt="">千年パズル](/ja/action/assemble-millennium-puzzle) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv50 | 単発 |
+| [<img class="wiki-icon" src="assets/icon/9bc801c4d1013f57.svg" alt="">金の玉](/ja/action/polish-golden-orb) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv50 | 単発 |
 
 ## 開発者向け情報
 
@@ -45,7 +45,7 @@
 	"icon": {
 		"emoji": "🎨",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/313a9258024029f6.svg）"
 	},
 	"color": ""
 }

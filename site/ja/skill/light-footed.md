@@ -1,6 +1,6 @@
 # 身軽
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">身軽</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐦</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>防御-9・回避+12</td></tr><tr><th>持つ敵</th><td>5体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">身軽</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/94a89c0cea67ba6b.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>防御-9・回避+12</td></tr><tr><th>持つ敵</th><td>5体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 何も背負わなければ、何にも当たらない。
 
@@ -17,17 +17,17 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv20 |
-| [<span class="wiki-icon">🦎</span>サラマンダー](/ja/action/salamander) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv35 |
-| [<span class="wiki-icon">🧚</span>妖精](/ja/action/fairy) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv40 |
-| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv44 |
-| [<span class="wiki-icon">🦄</span>ペガサス](/ja/action/pegasus) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/99401bbf87efddfd.svg" alt="">サーペント](/ja/action/serpent) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv23 |
+| [<img class="wiki-icon" src="assets/icon/f9fd0a0c8a75a1c9.svg" alt="">サラマンダー](/ja/action/salamander) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv13 |
+| [<img class="wiki-icon" src="assets/icon/88313a9dc8e4e6f5.svg" alt="">妖精](/ja/action/fairy) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv30 |
+| [<img class="wiki-icon" src="assets/icon/3bc4421543721689.svg" alt="">バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv12 |
+| [<img class="wiki-icon" src="assets/icon/9635026f25519f71.svg" alt="">ペガサス](/ja/action/pegasus) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv34 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🦇</span>バットラング](/ja/item/batarang) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/3e0a845491a96b79.svg" alt="">バットラング](/ja/item/batarang) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -50,7 +50,7 @@
 		"icon": {
 			"emoji": "🐦",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/94a89c0cea67ba6b.svg）"
 		},
 		"color": ""
 	},

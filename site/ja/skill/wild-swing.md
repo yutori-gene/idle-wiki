@@ -1,6 +1,6 @@
 # 大振り
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">大振り</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪓</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+14・精度-9</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">大振り</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/fb717544586539c6.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+14・精度-9</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 当たれば終わる。当たれば。
 
@@ -17,16 +17,16 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">👹</span>オーク](/ja/action/orc) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv11 |
-| [<span class="wiki-icon">⚙️</span>プレス機](/ja/action/press-machine) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 |
-| [<span class="wiki-icon">🔒</span>牢番](/ja/action/jailer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv40 |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv47 |
+| [<img class="wiki-icon" src="assets/icon/caf79c699a6ed796.svg" alt="">オーク](/ja/action/orc) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv35 |
+| [<img class="wiki-icon" src="assets/icon/fe99be048a5764e4.svg" alt="">プレス機](/ja/action/press-machine) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/0c0348d8c43a934d.svg" alt="">牢番](/ja/action/jailer) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv35 |
+| [<img class="wiki-icon" src="assets/icon/58090c8ec941246b.svg" alt="">ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv42 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🪄</span>如意棒](/ja/item/ruyi-staff) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/331c8c28a213bc53.svg" alt="">如意棒](/ja/item/ruyi-staff) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -49,7 +49,7 @@
 		"icon": {
 			"emoji": "🪓",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/fb717544586539c6.svg）"
 		},
 		"color": ""
 	},

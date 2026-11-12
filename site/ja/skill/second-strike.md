@@ -17,17 +17,17 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ](/ja/action/beetle) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv7 |
-| [<span class="wiki-icon">🐍</span>ヘビ](/ja/action/snake) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 |
-| [<span class="wiki-icon">🦁</span>マンティコア](/ja/action/manticore) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv26 |
-| [<span class="wiki-icon">🦝</span>大きなタヌキ？](/ja/action/big-tanuki) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv49 |
-| [<img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ](/ja/action/chicken) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv6 |
+| [<img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ](/ja/action/beetle) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv38 |
+| [<img class="wiki-icon" src="assets/icon/4a396b8649ead6c1.svg" alt="">ヘビ](/ja/action/snake) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv5 |
+| [<img class="wiki-icon" src="assets/icon/b93d28a3d64e0381.svg" alt="">マンティコア](/ja/action/manticore) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv27 |
+| [<img class="wiki-icon" src="assets/icon/7fbc1f845aef614f.svg" alt="">大きなタヌキ？](/ja/action/big-tanuki) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | Lv6 |
+| [<img class="wiki-icon" src="assets/icon/cd2af1c05dce2911.svg" alt="">ニワトリ](/ja/action/chicken) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv6 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🐟</span>冷凍マグロ](/ja/item/frozen-tuna) | [<span class="wiki-icon">🗡️</span>近接武器](/ja/group/melee-weapon) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/8fd0d0ebc7899d7e.svg" alt="">冷凍マグロ](/ja/item/frozen-tuna) | [<img class="wiki-icon" src="assets/icon/8c20036e34b28104.svg" alt="">近接武器](/ja/group/melee-weapon) | 装備必須 |
 
 ## 開発者向け情報
 

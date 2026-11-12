@@ -1,6 +1,6 @@
 # 火山水晶
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">火山水晶</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔮</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>63 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">火山水晶</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/a0df5cf9621cf41b.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>63 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 熱と時が生んだ透明石。
 
@@ -11,15 +11,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔮</span>火口付近の結晶拾い](/ja/action/crater-crystal-gathering) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv9 | 2 | 25.9% | 0.259 | 13.3 |
-| [<span class="wiki-icon">🌋</span>火口の底](/ja/action/crater-floor) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv12 | 2 | 41.8% | 0.836 | 0.239 |
+| [<img class="wiki-icon" src="assets/icon/b0f573fd58b54765.svg" alt="">火口付近の結晶拾い](/ja/action/crater-crystal-gathering) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv9 | 2 | 25.9% | 0.259 | 13.3 |
+| [<img class="wiki-icon" src="assets/icon/5b0361a69d51d567.svg" alt="">火口の底](/ja/action/crater-floor) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv12 | 2 | 41.8% | 0.836 | 0.239 |
 
 ### イベント
 
 | イベント | タイミング | 個数 | 確率 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛏️</span>鉱夫の酒盛り](/ja/event/miner-feast) | 条件達成（タスク） | 2 | 100% |
-| [<span class="wiki-icon">🐉</span>迷子の火竜](/ja/event/lost-fire-dragon) | 条件達成（タスク） | 2 | 100% |
+| [<img class="wiki-icon" src="assets/icon/664e91fb2b2f39f1.svg" alt="">鉱夫の酒盛り](/ja/event/miner-feast) | 条件達成（タスク） | 2 | 100% |
+| [<img class="wiki-icon" src="assets/icon/9037a275bf3995c6.svg" alt="">迷子の火竜](/ja/event/lost-fire-dragon) | 条件達成（タスク） | 2 | 100% |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -54,7 +54,7 @@
 		"icon": {
 			"emoji": "🔮",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/a0df5cf9621cf41b.svg）"
 		},
 		"color": ""
 	},

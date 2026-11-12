@@ -1,6 +1,6 @@
 # ニンニク
 
-<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">ニンニク</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧄</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/greenhouse"><span class="wiki-icon">🌱</span>温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/field-blessing"><span class="wiki-icon">🪱</span>畑の恵み</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>1 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#849b88"><div class="wiki-infobox-title">ニンニク</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/9b054aa5cc93c19a.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/greenhouse"><img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/field-blessing"><img class="wiki-icon" src="assets/icon/8c54bce91d5f1518.svg" alt="">畑の恵み</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>1 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 臭うけれど元気になる。
 
@@ -19,8 +19,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 | 1 | 3.67% | 0.018 | 2.9 |
-| [<span class="wiki-icon">🧄</span>ニンニク](/ja/action/grow-garlic) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv7 | 13 | 100% | 9.8 | 9.8 |
+| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv13 | 1 | 3.67% | 0.018 | 2.8 |
+| [<img class="wiki-icon" src="assets/icon/d527ac5f713d9667.svg" alt="">ニンニク](/ja/action/grow-garlic) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | Lv7 | 13 | 100% | 9.8 | 9.8 |
 
 ## 用途
 
@@ -28,14 +28,14 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv44 | 1 | 0.296% |  |
-| [<span class="wiki-icon">🧄</span>ニンニク](/ja/action/grow-garlic) | [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | Lv7 | 1 | 100% |  |
-| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv16 | 5 | 100% |  |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv27 | 4 | 100% |  |
-| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv31 | 5 | 100% |  |
-| [<span class="wiki-icon">⚰️</span>吸血鬼の棺](/ja/action/open-vampire-coffin) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv38 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/3bc4421543721689.svg" alt="">バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv12 | 1 | 0.296% |  |
+| [<img class="wiki-icon" src="assets/icon/d527ac5f713d9667.svg" alt="">ニンニク](/ja/action/grow-garlic) | [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | Lv7 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/06e9295ca54210aa.svg" alt="">エスカルゴ](/ja/action/cook-escargot) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv16 | 5 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/0bdf96a03145f595.svg" alt="">野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv27 | 4 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/f143fb3a738275de.svg" alt="">肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv31 | 5 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/978885d9a4c3ef08.svg" alt="">吸血鬼の棺](/ja/action/open-vampire-coffin) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv38 | 2 | 100% |  |
 
-<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 畑の恵み</div><div class="wiki-navbox-body"><a href="#/ja/item/garlic"><span class="wiki-icon">🧄</span>ニンニク</a> ・ <a href="#/ja/item/earthworm"><span class="wiki-icon">🪱</span>ミミズ</a></div></div>
+<div class="wiki-navbox" style="--accent:#849b88"><div class="wiki-navbox-title">グループ: 畑の恵み</div><div class="wiki-navbox-body"><a href="#/ja/item/garlic"><img class="wiki-icon" src="assets/icon/9b054aa5cc93c19a.svg" alt="">ニンニク</a> ・ <a href="#/ja/item/earthworm"><img class="wiki-icon" src="assets/icon/2ffee8df6bc4f871.svg" alt="">ミミズ</a></div></div>
 
 ## 開発者向け情報
 
@@ -69,7 +69,7 @@
 		"icon": {
 			"emoji": "🧄",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/9b054aa5cc93c19a.svg）"
 		},
 		"color": ""
 	},

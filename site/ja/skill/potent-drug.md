@@ -1,6 +1,6 @@
 # 劇薬
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">劇薬</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">☠️</span></div><table><tr><th>発動率</th><td>12%／ターン</td></tr><tr><th>効果</th><td>攻撃+15・防御-10・精度+10</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">劇薬</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/1255de93bdc4c106.svg" alt=""></div><table><tr><th>発動率</th><td>12%／ターン</td></tr><tr><th>効果</th><td>攻撃+15・防御-10・精度+10</td></tr><tr><th>持つ敵</th><td>0体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 効きすぎる薬は、たいてい毒でもある。
 
@@ -17,7 +17,7 @@
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💊</span>阿片](/ja/item/opium) | [<span class="wiki-icon">🧪</span>ポーション](/ja/group/potion) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/321dc2a4f2dac680.svg" alt="">阿片](/ja/item/opium) | [<img class="wiki-icon" src="assets/icon/4815effeebbe3bb0.svg" alt="">ポーション](/ja/group/potion) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -40,7 +40,7 @@
 		"icon": {
 			"emoji": "☠️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/1255de93bdc4c106.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # カウベル
 
-<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">カウベル</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f7bf170d11af7fc6.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/accessory"><span class="wiki-icon">📿</span>アクセサリー</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">カウベル</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f7bf170d11af7fc6.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/accessory"><img class="wiki-icon" src="assets/icon/f78f0d1c14ad5a8d.svg" alt="">装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/accessory"><img class="wiki-icon" src="assets/icon/47ba4b0004eb0e60.svg" alt="">アクセサリー</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 首に下げると牛の気分。
 
@@ -11,7 +11,7 @@
 
 | 効き先 | 経験値 |
 | --- | --- |
-| [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | +2 |
+| [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | +2 |
 
 ## 入手方法
 
@@ -19,9 +19,9 @@
 
 | イベント | タイミング | 個数 | 確率 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">💍</span>装飾で補強しよう](/ja/event/reinforce-with-accessory) | 条件達成（タスク） | 1 | 100% |
+| [<img class="wiki-icon" src="assets/icon/5e67531b83f70fd9.svg" alt="">装飾で補強しよう](/ja/event/reinforce-with-accessory) | 条件達成（タスク） | 1 | 100% |
 
-<div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: アクセサリー</div><div class="wiki-navbox-body"><a href="#/ja/item/cowbell"><img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル</a> ・ <a href="#/ja/item/one-leaf-clover"><img class="wiki-icon" src="assets/icon/7bb40479a17528a9.svg" alt="">1葉のクローバー</a> ・ <a href="#/ja/item/dog-collar"><img class="wiki-icon" src="assets/icon/57382b8c9d69e156.svg" alt="">犬の首輪</a> ・ <a href="#/ja/item/shark-tooth-necklace"><span class="wiki-icon">🦈</span>サメ歯ネックレス</a> ・ <a href="#/ja/item/broccoli"><span class="wiki-icon">🥦</span>ブロッコリー</a> ・ <a href="#/ja/item/philosophers-stone"><span class="wiki-icon">🔴</span>賢者の石</a> ・ <a href="#/ja/item/secret-stone"><span class="wiki-icon">💎</span>秘石</a> ・ <a href="#/ja/item/crystal-pendant"><span class="wiki-icon">🔮</span>水晶のペンダント</a> ・ <a href="#/ja/item/minus-four-leaf-clover"><span class="wiki-icon">🍀</span>-4葉のクローバー</a> ・ <a href="#/ja/item/hexagram-charm"><span class="wiki-icon">🔯</span>六芒星のお守り</a> ・ <a href="#/ja/item/dark-pendant"><span class="wiki-icon">🔮</span>闇のペンダント</a> ・ <a href="#/ja/item/diamond-tiara"><span class="wiki-icon">👑</span>ダイヤモンドのティアラ</a> ・ <a href="#/ja/item/holy-grail"><span class="wiki-icon">🏆</span>聖杯</a> ・ <a href="#/ja/item/ninety-nine-leaf-clover"><span class="wiki-icon">🍀</span>99葉のクローバー</a> ・ <a href="#/ja/item/time-stopping-hourglass"><span class="wiki-icon">⏳</span>時を止める砂時計</a></div></div>
+<div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: アクセサリー</div><div class="wiki-navbox-body"><a href="#/ja/item/cowbell"><img class="wiki-icon" src="assets/icon/f7bf170d11af7fc6.svg" alt="">カウベル</a> ・ <a href="#/ja/item/one-leaf-clover"><img class="wiki-icon" src="assets/icon/7bb40479a17528a9.svg" alt="">1葉のクローバー</a> ・ <a href="#/ja/item/dog-collar"><img class="wiki-icon" src="assets/icon/57382b8c9d69e156.svg" alt="">犬の首輪</a> ・ <a href="#/ja/item/shark-tooth-necklace"><img class="wiki-icon" src="assets/icon/7ee65e9d2fcf90cd.svg" alt="">サメ歯ネックレス</a> ・ <a href="#/ja/item/broccoli"><img class="wiki-icon" src="assets/icon/f48b5014d6b0d0be.svg" alt="">ブロッコリー</a> ・ <a href="#/ja/item/philosophers-stone"><img class="wiki-icon" src="assets/icon/f8e9aa004b3b3c4e.svg" alt="">賢者の石</a> ・ <a href="#/ja/item/secret-stone"><img class="wiki-icon" src="assets/icon/fda1973778b48b57.svg" alt="">秘石</a> ・ <a href="#/ja/item/crystal-pendant"><img class="wiki-icon" src="assets/icon/f20ccc9a563b3957.svg" alt="">水晶のペンダント</a> ・ <a href="#/ja/item/minus-four-leaf-clover"><img class="wiki-icon" src="assets/icon/d32da695f0cada2b.svg" alt="">-4葉のクローバー</a> ・ <a href="#/ja/item/hexagram-charm"><img class="wiki-icon" src="assets/icon/9bb0ac6e7bc5e941.svg" alt="">六芒星のお守り</a> ・ <a href="#/ja/item/dark-pendant"><img class="wiki-icon" src="assets/icon/c577e7c14198d595.svg" alt="">闇のペンダント</a> ・ <a href="#/ja/item/diamond-tiara"><img class="wiki-icon" src="assets/icon/b5394860ab633999.svg" alt="">ダイヤモンドのティアラ</a> ・ <a href="#/ja/item/holy-grail"><img class="wiki-icon" src="assets/icon/bd1ca80d8e7b7f25.svg" alt="">聖杯</a> ・ <a href="#/ja/item/ninety-nine-leaf-clover"><img class="wiki-icon" src="assets/icon/5c0ddadfb207a03c.svg" alt="">99葉のクローバー</a> ・ <a href="#/ja/item/time-stopping-hourglass"><img class="wiki-icon" src="assets/icon/44caa25ecd4b33aa.svg" alt="">時を止める砂時計</a></div></div>
 
 ## 開発者向け情報
 

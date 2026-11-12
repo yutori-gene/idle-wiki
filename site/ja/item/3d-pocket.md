@@ -1,6 +1,6 @@
 # 3次元ポケット
 
-<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">3次元ポケット</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌀</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/garden"><span class="wiki-icon">🐾</span>庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/container"><span class="wiki-icon">🎒</span>容器</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#a58793"><div class="wiki-infobox-title">3次元ポケット</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/8cac76ebe545ff88.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/garden"><img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/container"><img class="wiki-icon" src="assets/icon/3589d353f01045a6.svg" alt="">容器</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ロボット達に人気のオシャレアイテム。無限には入らない。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚖️</span>閻魔の法廷](/ja/action/enma-court) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv8 | 1 | 100% | 1 | 0.222 |
+| [<img class="wiki-icon" src="assets/icon/2f292d9ebea19f1c.svg" alt="">閻魔の法廷](/ja/action/enma-court) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv8 | 1 | 100% | 1 | 0.222 |
 
 ## 用途
 
@@ -19,9 +19,9 @@
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🌀</span>3次元ポケットを手に入れた](/ja/event/storage-3d-pocket) | イベントの条件（変化時（隠し）） | [<span class="wiki-icon">🌀</span>3次元ポケット](/ja/item/3d-pocket) ×1 |
+| [<img class="wiki-icon" src="assets/icon/578ab5a7ccbdb378.svg" alt="">3次元ポケットを手に入れた](/ja/event/storage-3d-pocket) | イベントの条件（変化時（隠し）） | [<img class="wiki-icon" src="assets/icon/8cac76ebe545ff88.svg" alt="">3次元ポケット](/ja/item/3d-pocket) ×1 |
 
-<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">グループ: 容器</div><div class="wiki-navbox-body"><a href="#/ja/item/eco-bag"><img class="wiki-icon" src="assets/icon/1573065dab7cb0f0.svg" alt="">エコバッグ</a> ・ <a href="#/ja/item/picnic-basket"><img class="wiki-icon" src="assets/icon/6d83bc87fd0524a2.svg" alt="">ピクニックバスケット</a> ・ <a href="#/ja/item/jar"><span class="wiki-icon">🏺</span>壺</a> ・ <a href="#/ja/item/backpack"><span class="wiki-icon">🎒</span>リュックサック</a> ・ <a href="#/ja/item/kangaroo-pouch"><span class="wiki-icon">🦘</span>カンガルーの袋</a> ・ <a href="#/ja/item/hoi-poi-capsule"><span class="wiki-icon">💊</span>ホイポイカプセル</a> ・ <a href="#/ja/item/shipping-container"><span class="wiki-icon">📦</span>コンテナ</a> ・ <a href="#/ja/item/coffin"><span class="wiki-icon">⚰️</span>棺桶</a> ・ <a href="#/ja/item/3d-pocket"><span class="wiki-icon">🌀</span>3次元ポケット</a> ・ <a href="#/ja/item/entry-plug"><span class="wiki-icon">🔌</span>エントリープラグ</a></div></div>
+<div class="wiki-navbox" style="--accent:#a58793"><div class="wiki-navbox-title">グループ: 容器</div><div class="wiki-navbox-body"><a href="#/ja/item/eco-bag"><img class="wiki-icon" src="assets/icon/1573065dab7cb0f0.svg" alt="">エコバッグ</a> ・ <a href="#/ja/item/picnic-basket"><img class="wiki-icon" src="assets/icon/6d83bc87fd0524a2.svg" alt="">ピクニックバスケット</a> ・ <a href="#/ja/item/jar"><img class="wiki-icon" src="assets/icon/374bb9e9f7c6cb70.svg" alt="">壺</a> ・ <a href="#/ja/item/backpack"><img class="wiki-icon" src="assets/icon/2f6b3bbe6a33cb6e.svg" alt="">リュックサック</a> ・ <a href="#/ja/item/kangaroo-pouch"><img class="wiki-icon" src="assets/icon/0da404830dc52c88.svg" alt="">カンガルーの袋</a> ・ <a href="#/ja/item/hoi-poi-capsule"><img class="wiki-icon" src="assets/icon/f192138a6d599a20.svg" alt="">ホイポイカプセル</a> ・ <a href="#/ja/item/shipping-container"><img class="wiki-icon" src="assets/icon/4711814cd0a89edb.svg" alt="">コンテナ</a> ・ <a href="#/ja/item/coffin"><img class="wiki-icon" src="assets/icon/b44324362771c99f.svg" alt="">棺桶</a> ・ <a href="#/ja/item/3d-pocket"><img class="wiki-icon" src="assets/icon/8cac76ebe545ff88.svg" alt="">3次元ポケット</a> ・ <a href="#/ja/item/entry-plug"><img class="wiki-icon" src="assets/icon/a3e864c0b48b6a99.svg" alt="">エントリープラグ</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,7 +54,7 @@
 		"icon": {
 			"emoji": "🌀",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/8cac76ebe545ff88.svg）"
 		},
 		"color": ""
 	},

@@ -20,7 +20,7 @@
 ## 隠しイベント
 
 - **容器**: 容器を手に入れると物置が広がる（[<span class="wiki-icon">📦</span>物置](/ja/item/capacity) のページ）
-- **秘宝の鑑定**: 秘宝を手に入れると [<span class="wiki-icon">🏅</span>秘宝メダル](/ja/item/treasure-medal) がもらえる
+- **秘宝の鑑定**: 秘宝を手に入れると [<img class="wiki-icon" src="assets/icon/35c3b1c389d2126f.svg" alt="">秘宝メダル](/ja/item/treasure-medal) がもらえる
 - **ダンジョンの秘密**: 各ダンジョンのレア素材を手に入れると、別のアイテムがもらえる
 
 一覧は [イベント一覧](/ja/list/events)。

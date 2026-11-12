@@ -1,6 +1,6 @@
 # 火薬
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">火薬</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧨</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>7 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">火薬</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b01078aebc2d5eb4.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>7 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 爆発の原料、扱い注意。
 
@@ -11,11 +11,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⛏️</span>鍾乳洞の鉱石掘り](/ja/action/limestone-cave-ore-digging) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv11 | 5 | 56% | 1.4 | 72 |
-| [<span class="wiki-icon">🔩</span>硫黄（分解）](/ja/action/disassemble-sulfur) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv35 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🔩</span>燃え殻（分解）](/ja/action/disassemble-cinder) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv35 | 1 | 100% | 1 | 1.7 |
-| [<span class="wiki-icon">🔩</span>硫黄石（分解）](/ja/action/disassemble-sulfur-stone) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv43 | 1 | 100% | 1 | 1.3 |
-| [<span class="wiki-icon">🔩</span>煤（分解）](/ja/action/disassemble-soot) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv43 | 1 | 100% | 1 | 1.3 |
+| [<img class="wiki-icon" src="assets/icon/b3cd4e996733160e.svg" alt="">鍾乳洞の鉱石掘り](/ja/action/limestone-cave-ore-digging) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv11 | 5 | 56% | 1.4 | 72 |
+| [<img class="wiki-icon" src="assets/icon/227bcd479fe040e7.svg" alt="">硫黄（分解）](/ja/action/disassemble-sulfur) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv35 | 1 | 100% | 1 | 1.7 |
+| [<img class="wiki-icon" src="assets/icon/608f50705d56e039.svg" alt="">燃え殻（分解）](/ja/action/disassemble-cinder) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv35 | 1 | 100% | 1 | 1.7 |
+| [<img class="wiki-icon" src="assets/icon/8c5b00df0bcbe423.svg" alt="">硫黄石（分解）](/ja/action/disassemble-sulfur-stone) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv43 | 1 | 100% | 1 | 1.3 |
+| [<img class="wiki-icon" src="assets/icon/8fbaf98a63999788.svg" alt="">煤（分解）](/ja/action/disassemble-soot) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv43 | 1 | 100% | 1 | 1.3 |
 
 ## 用途
 
@@ -23,8 +23,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💣</span>手榴弾](/ja/action/craft-grenade) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv33 | 2 | 100% |  |
-| [<span class="wiki-icon">🧨</span>ダイナマイト](/ja/action/craft-dynamite) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv35 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/9ccad08ed7a6eb20.svg" alt="">手榴弾](/ja/action/craft-grenade) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv33 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/d59414645f03a0d5.svg" alt="">ダイナマイト](/ja/action/craft-dynamite) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv35 | 3 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -59,7 +59,7 @@
 		"icon": {
 			"emoji": "🧨",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/b01078aebc2d5eb4.svg）"
 		},
 		"color": ""
 	},

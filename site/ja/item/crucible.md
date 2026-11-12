@@ -1,6 +1,6 @@
 # るつぼ
 
-<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">るつぼ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚗️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><span class="wiki-icon">⚗️</span>地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#736883"><div class="wiki-infobox-title">るつぼ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f333ccfe63965377.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/basement"><img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a></td></tr><tr><th>装備</th><td>装備不要</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 高温処理が必要な調合に使う。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚗️</span>るつぼ](/ja/action/buy-crucible) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv15 | 1 | 100% | 1 | 36,000 |
+| [<img class="wiki-icon" src="assets/icon/079b0c36aa0e32fb.svg" alt="">るつぼ](/ja/action/buy-crucible) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv15 | 1 | 100% | 1 | 36,000 |
 
 ## 用途
 
@@ -19,15 +19,15 @@
 
 | アクション | 場所 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔥</span>カイロ](/ja/action/brew-heat-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックスの尾](/ja/action/brew-phoenix-tail) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
-| [<span class="wiki-icon">💉</span>ワクチン](/ja/action/brew-vaccine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
-| [<span class="wiki-icon">🧪</span>LCL](/ja/action/brew-lcl) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
-| [<span class="wiki-icon">💊</span>げんきのかけら](/ja/action/brew-revive-piece) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
-| [<span class="wiki-icon">🧪</span>エリクサー](/ja/action/brew-elixir) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
-| [<span class="wiki-icon">🍀</span>フェリックスフェリシス](/ja/action/brew-felix-felicis) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | [<span class="wiki-icon">⚗️</span>るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/4687a628a4156fbe.svg" alt="">カイロ](/ja/action/brew-heat-pack) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/f333ccfe63965377.svg" alt="">るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/255a7bf74ab07615.svg" alt="">フェニックスの尾](/ja/action/brew-phoenix-tail) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/f333ccfe63965377.svg" alt="">るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/b6e4a80aa75245d1.svg" alt="">ワクチン](/ja/action/brew-vaccine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/f333ccfe63965377.svg" alt="">るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/0f59f9c567987876.svg" alt="">LCL](/ja/action/brew-lcl) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/f333ccfe63965377.svg" alt="">るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/a6e1559582444f43.svg" alt="">げんきのかけら](/ja/action/brew-revive-piece) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/f333ccfe63965377.svg" alt="">るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/0156d3b4685e61c6.svg" alt="">エリクサー](/ja/action/brew-elixir) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/f333ccfe63965377.svg" alt="">るつぼ](/ja/item/crucible) ×1（消費しない） |
+| [<img class="wiki-icon" src="assets/icon/b395012fc80a4b1a.svg" alt="">フェリックスフェリシス](/ja/action/brew-felix-felicis) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | [<img class="wiki-icon" src="assets/icon/f333ccfe63965377.svg" alt="">るつぼ](/ja/item/crucible) ×1（消費しない） |
 
-<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><span class="wiki-icon">🧰</span>道具</a> を参照</div></div>
+<div class="wiki-navbox" style="--accent:#736883"><div class="wiki-navbox-title">グループ: 道具</div><div class="wiki-navbox-body">52件。一覧は <a href="#/ja/group/tool"><img class="wiki-icon" src="assets/icon/74b40467c7128029.svg" alt="">道具</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -60,7 +60,7 @@
 		"icon": {
 			"emoji": "⚗️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/f333ccfe63965377.svg）"
 		},
 		"color": ""
 	},

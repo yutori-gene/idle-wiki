@@ -1,6 +1,6 @@
 # 装備管理
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">装備管理</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🛠️</span></div><table><tr><th>使う種別</th><td>カテゴリ</td></tr><tr><th>カテゴリ</th><td>5</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">装備管理</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/5151dbe09bd7b939.svg" alt=""></div><table><tr><th>使う種別</th><td>カテゴリ</td></tr><tr><th>カテゴリ</th><td>5</td></tr></table></div>
 
 
 ## カテゴリ
@@ -8,10 +8,10 @@
 | カテゴリ | レベル |
 | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) | あり |
-| [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | あり |
+| [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) | あり |
 | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | なし |
-| [<span class="wiki-icon">💍</span>装飾](/ja/category/accessory) | なし |
-| [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) | あり |
+| [<img class="wiki-icon" src="assets/icon/f78f0d1c14ad5a8d.svg" alt="">装飾](/ja/category/accessory) | なし |
+| [<img class="wiki-icon" src="assets/icon/354851e7b6da8b2e.svg" alt="">爆発武器](/ja/category/explosive-weapon) | あり |
 
 ## 開発者向け情報
 
@@ -35,7 +35,7 @@
 	"icon": {
 		"emoji": "🛠️",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/5151dbe09bd7b939.svg）"
 	},
 	"color": ""
 }

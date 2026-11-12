@@ -9,24 +9,24 @@
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布](/ja/action/open-wallet) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv1 | 連続 |
-| [<img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱](/ja/action/open-donation-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv4 | 連続 |
-| [<span class="wiki-icon">⛩️</span>賽銭箱](/ja/action/open-offering-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv7 | 連続 |
-| [<span class="wiki-icon">📦</span>跳び箱](/ja/action/open-vaulting-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv10 | 連続 |
-| [<span class="wiki-icon">📦</span>タイムカプセル](/ja/action/open-time-capsule) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv13 | 連続 |
-| [<span class="wiki-icon">⛓️</span>鉄の処女](/ja/action/open-iron-maiden) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv15 | 連続 |
-| [<span class="wiki-icon">💰</span>大秘宝](/ja/action/open-great-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv18 | 連続 |
-| [<span class="wiki-icon">🧊</span>南極の氷](/ja/action/open-antarctic-ice) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv21 | 連続 |
-| [<span class="wiki-icon">🦫</span>ビーバーの巣](/ja/action/open-beaver-lodge) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv24 | 連続 |
-| [<span class="wiki-icon">🐀</span>ネズミの宝箱](/ja/action/open-rat-treasure) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv27 | 連続 |
-| [<span class="wiki-icon">🐉</span>ドラゴンの巣](/ja/action/open-dragon-nest) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv30 | 連続 |
-| [<span class="wiki-icon">🎃</span>かぼちゃの馬車](/ja/action/open-pumpkin-carriage) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv33 | 連続 |
-| [<span class="wiki-icon">🕍</span>聖櫃](/ja/action/open-ark-of-covenant) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv36 | 連続 |
-| [<span class="wiki-icon">⚰️</span>吸血鬼の棺](/ja/action/open-vampire-coffin) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv38 | 連続 |
-| [<span class="wiki-icon">⚫</span>シスの箱](/ja/action/open-sith-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv41 | 連続 |
-| [<span class="wiki-icon">🌈</span>妖精の黄金の壺](/ja/action/open-fairy-gold-pot) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv44 | 連続 |
-| [<span class="wiki-icon">📦</span>シュレーディンガーの箱](/ja/action/open-schrodingers-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv47 | 連続 |
-| [<span class="wiki-icon">📦</span>パンドラの箱](/ja/action/open-pandoras-box) | [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | Lv50 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/e355af4b224f1b36.svg" alt="">財布](/ja/action/open-wallet) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv1 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/9472befdce7d671c.svg" alt="">募金箱](/ja/action/open-donation-box) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv4 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/9d01ad605c6bcd9e.svg" alt="">賽銭箱](/ja/action/open-offering-box) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv7 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/c459ec365d2a9d7b.svg" alt="">跳び箱](/ja/action/open-vaulting-box) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv10 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/ccca6f4a52bc604a.svg" alt="">タイムカプセル](/ja/action/open-time-capsule) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv13 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/f171def16b536121.svg" alt="">鉄の処女](/ja/action/open-iron-maiden) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv15 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/ed252afa50d7b2dd.svg" alt="">大秘宝](/ja/action/open-great-treasure) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv18 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/cdc90a92d58442ff.svg" alt="">南極の氷](/ja/action/open-antarctic-ice) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv21 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/3adf474b0cfbe3cb.svg" alt="">ビーバーの巣](/ja/action/open-beaver-lodge) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv24 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/b6932513f07c909a.svg" alt="">ネズミの宝箱](/ja/action/open-rat-treasure) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv27 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/bba3a7073b73e2e4.svg" alt="">ドラゴンの巣](/ja/action/open-dragon-nest) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv30 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/af156afb68db88e1.svg" alt="">かぼちゃの馬車](/ja/action/open-pumpkin-carriage) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv33 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/89ba6d971c364db8.svg" alt="">聖櫃](/ja/action/open-ark-of-covenant) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv36 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/978885d9a4c3ef08.svg" alt="">吸血鬼の棺](/ja/action/open-vampire-coffin) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv38 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/c532f87d79b4a4c9.svg" alt="">シスの箱](/ja/action/open-sith-box) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv41 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/fdbf755487888437.svg" alt="">妖精の黄金の壺](/ja/action/open-fairy-gold-pot) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv44 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/715c3e1ef5540e1d.svg" alt="">シュレーディンガーの箱](/ja/action/open-schrodingers-box) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv47 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/6b2141ac9d8cc925.svg" alt="">パンドラの箱](/ja/action/open-pandoras-box) | [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | Lv50 | 連続 |
 
 ## 開発者向け情報
 

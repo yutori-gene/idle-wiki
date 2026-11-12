@@ -1,6 +1,6 @@
 # 旧型作業ロボ
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">旧型作業ロボ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🤖</span></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><span class="wiki-icon">🏭</span>工場</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv28</td></tr><tr><th>所要時間</th><td>2.4秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.37</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">旧型作業ロボ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/76acb221c339059c.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/factory"><img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場</a></td></tr><tr><th>系統</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv12</td></tr><tr><th>系統の必要Lv</th><td>Lv14</td></tr><tr><th>所要時間</th><td>2.4秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>1.37</td></tr><tr><th>経験値の配分</th><td><a href="#/ja/category/factory"><img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場</a> 80%、<a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a> 20%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 耐用年数を三度過ぎている。まだ動くのが問題だ。
 
@@ -9,16 +9,17 @@
 
 ## 必要なもの
 
-- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv28以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) Lv12以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) が解放されている・Lv14以上（系統のカテゴリ）
 
 ## 取得物
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>鉄くず](/ja/item/scrap-iron) ×1 | 成功時 | 3.73% | 0.019 | 0.032 |
-| [<span class="wiki-icon">🦾</span>ロボットアーム](/ja/item/robot-arm) ×1 | 成功時 | 0.15% | 0.001 | 0.001 |
-| [<span class="wiki-icon">🎛️</span>制御盤](/ja/item/control-panel) ×1 | 成功時 | 0.15% | 0.001 | 0.001 |
-| [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) ×1 | 成功時 | 0.005% | 0 | 0 |
+| [<img class="wiki-icon" src="assets/icon/ef7d418d2f2f7bfa.svg" alt="">鉄くず](/ja/item/scrap-iron) ×1 | 成功時 | 3.73% | 0.019 | 0.038 |
+| [<img class="wiki-icon" src="assets/icon/06d7d69740af032d.svg" alt="">ロボットアーム](/ja/item/robot-arm) ×1 | 成功時 | 0.15% | 0.001 | 0.002 |
+| [<img class="wiki-icon" src="assets/icon/f82f02e73b4e87a6.svg" alt="">制御盤](/ja/item/control-panel) ×1 | 成功時 | 0.15% | 0.001 | 0.002 |
+| [<img class="wiki-icon" src="assets/icon/b746d2efc907e6c3.svg" alt="">R2D2](/ja/item/r2d2) ×1 | 成功時 | 0.005% | 0 | 0 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -28,32 +29,34 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 86 | 118 | 13 | 8 | 13 |
+| 101 | 114 | 11 | 7 | 14 |
 
 **敵のスキル**
 
-- [<span class="wiki-icon">💪</span>不撓不屈](/ja/skill/indomitable)：毎ターン 4% で発動、防御+7・回避+3・回復+9
-- [<span class="wiki-icon">🤕</span>受け身](/ja/skill/breakfall)：毎ターン 12% で発動、回避+3
+- [<img class="wiki-icon" src="assets/icon/a46ea7d680460845.svg" alt="">不撓不屈](/ja/skill/indomitable)：毎ターン 4% で発動、防御+7・回避+3・回復+9
+- [<img class="wiki-icon" src="assets/icon/72ee7142661ce841.svg" alt="">受け身](/ja/skill/breakfall)：毎ターン 12% で発動、回避+3
 
 ### 戦闘の見込み（装備・スキルなし）
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv28） | 0.167% | 17.2% | 68.4% | 20.4% | 14.3% | 875.2 | 11,950.3% | 35分3秒 | 負ける見込みが高い |
-| +10（Lv38） | 0.251% | 14% | 76.5% | 23.9% | 20% | 521.6 | 5,561% | 17分4秒 | 負ける見込みが高い |
-| +20（Lv48） | 0.376% | 11.4% | 83% | 27.8% | 27.3% | 320.5 | 2,647.7% | 8分34秒 | 負ける見込みが高い |
+| ±0（Lv14） | 0.197% | 23.2% | 69.3% | 21.1% | 13.8% | 734.4 | 13,477.6% | 29分25秒 | 負ける見込みが高い |
+| +10（Lv24） | 0.295% | 19% | 77.2% | 24.6% | 19.3% | 440.4 | 6,300.6% | 14分25秒 | 負ける見込みが高い |
+| +20（Lv34） | 0.442% | 15.5% | 83.6% | 28.6% | 26.5% | 271.7 | 3,007.3% | 7分16秒 | 負ける見込みが高い |
+| +30（Lv44） | 0.664% | 12.7% | 88.4% | 32.9% | 35% | 170.8 | 1,450.7% | 3分44秒 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
 ## 計算値
 
-| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
-| --- | --- | --- | --- | --- | --- |
-| ±0（Lv28） | 2.4秒 | 50% | 1.37 | 1.7 | 0 |
-| +10（Lv38） | 2秒 | 60% | 0.91 | 3.5 | 0 |
-| +20（Lv48） | 1.6秒 | 69.2% | 0.61 | 7 | 0 |
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時（工場） | 経験値%/時（近接武器） |
+| --- | --- | --- | --- | --- | --- | --- |
+| ±0（Lv14） | 2.4秒 | 50% | 1.37 | 2 | 0 | 0 |
+| +10（Lv24） | 2秒 | 60% | 0.75 | 4.2 | 0 | 0 |
+| +20（Lv34） | 1.6秒 | 69.2% | 0.41 | 8.3 | 0 | 0 |
+| +30（Lv44） | 1.3秒 | 77.1% | 0.22 | 16 | 0 | 0 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝系統のカテゴリのレベル − 系統の必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。
 
 ## 収支（1時間あたり）
 
@@ -63,7 +66,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#717476"><div class="wiki-navbox-title">工場のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/conveyor-scavenging"><span class="wiki-icon">🏭</span>ベルトコンベア漁り</a> ・ <a href="#/ja/action/tool-room-inventory"><span class="wiki-icon">🧰</span>工具室の棚卸し</a> ・ <a href="#/ja/action/scrap-gathering"><span class="wiki-icon">🔩</span>廃材拾い</a> ・ <a href="#/ja/action/bomb"><span class="wiki-icon">💣</span>ボム</a> ・ <a href="#/ja/action/mad-scientist"><span class="wiki-icon">🧪</span>マッドサイエンティスト</a> ・ <a href="#/ja/action/old-work-robot"><span class="wiki-icon">🤖</span>旧型作業ロボ</a> ・ <a href="#/ja/action/giant-crane"><span class="wiki-icon">🏗️</span>巨大クレーン</a> ・ <a href="#/ja/action/unmanned-forklift"><span class="wiki-icon">🚜</span>無人フォークリフト</a> ・ <a href="#/ja/action/security-drone"><span class="wiki-icon">🛸</span>警備ドローン</a> ・ <a href="#/ja/action/camera-swarm"><span class="wiki-icon">📹</span>監視カメラの群れ</a> ・ <a href="#/ja/action/mutant"><span class="wiki-icon">🧟</span>ミュータント</a> ・ <a href="#/ja/action/rampaging-robot"><span class="wiki-icon">🤖</span>暴走ロボット</a> ・ <a href="#/ja/action/press-machine"><span class="wiki-icon">⚙️</span>プレス機</a> ・ <a href="#/ja/action/central-control-room"><span class="wiki-icon">🖥️</span>中央制御室</a> ・ <a href="#/ja/action/sealed-research-wing"><span class="wiki-icon">🏢</span>封鎖された研究棟</a> ・ <a href="#/ja/action/contaminated-zone-survey"><span class="wiki-icon">☣️</span>汚染区画の調査</a> ・ <a href="#/ja/action/underground-disposal-plant"><span class="wiki-icon">☣️</span>地下廃棄プラント</a></div></div>
+<div class="wiki-navbox" style="--accent:#717476"><div class="wiki-navbox-title">工場のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/conveyor-scavenging"><img class="wiki-icon" src="assets/icon/6c40c4939eb20707.svg" alt="">ベルトコンベア漁り</a> ・ <a href="#/ja/action/tool-room-inventory"><img class="wiki-icon" src="assets/icon/3554c0b2b3d69b0c.svg" alt="">工具室の棚卸し</a> ・ <a href="#/ja/action/scrap-gathering"><img class="wiki-icon" src="assets/icon/26f5c3c6efc8d1a3.svg" alt="">廃材拾い</a> ・ <a href="#/ja/action/mad-scientist"><img class="wiki-icon" src="assets/icon/6e8705b278892508.svg" alt="">マッドサイエンティスト</a> ・ <a href="#/ja/action/bomb"><img class="wiki-icon" src="assets/icon/0f1ebb270ccc2726.svg" alt="">ボム</a> ・ <a href="#/ja/action/unmanned-forklift"><img class="wiki-icon" src="assets/icon/b9649d31a41a0cd9.svg" alt="">無人フォークリフト</a> ・ <a href="#/ja/action/security-drone"><img class="wiki-icon" src="assets/icon/d14738bbe2aee0a1.svg" alt="">警備ドローン</a> ・ <a href="#/ja/action/camera-swarm"><img class="wiki-icon" src="assets/icon/89c610e4308f7183.svg" alt="">監視カメラの群れ</a> ・ <a href="#/ja/action/old-work-robot"><img class="wiki-icon" src="assets/icon/76acb221c339059c.svg" alt="">旧型作業ロボ</a> ・ <a href="#/ja/action/giant-crane"><img class="wiki-icon" src="assets/icon/85fb750f8b81f006.svg" alt="">巨大クレーン</a> ・ <a href="#/ja/action/mutant"><img class="wiki-icon" src="assets/icon/9ec762b2c27c2721.svg" alt="">ミュータント</a> ・ <a href="#/ja/action/rampaging-robot"><img class="wiki-icon" src="assets/icon/cf13bcbb21d1a79d.svg" alt="">暴走ロボット</a> ・ <a href="#/ja/action/press-machine"><img class="wiki-icon" src="assets/icon/fe99be048a5764e4.svg" alt="">プレス機</a> ・ <a href="#/ja/action/central-control-room"><img class="wiki-icon" src="assets/icon/80eb7b221e8b9886.svg" alt="">中央制御室</a> ・ <a href="#/ja/action/sealed-research-wing"><img class="wiki-icon" src="assets/icon/ad756d0998230e7a.svg" alt="">封鎖された研究棟</a> ・ <a href="#/ja/action/contaminated-zone-survey"><img class="wiki-icon" src="assets/icon/3e59793710a254dd.svg" alt="">汚染区画の調査</a> ・ <a href="#/ja/action/underground-disposal-plant"><img class="wiki-icon" src="assets/icon/0c093308110a9536.svg" alt="">地下廃棄プラント</a></div></div>
 
 ## 開発者向け情報
 
@@ -71,10 +74,11 @@
 | --- | --- |
 | id | `old-work-robot` |
 | `category` | `factory` |
-| `attribute` | `melee-weapon` |
+| `discipline` | `melee-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `28` |
+| `level` | `12` |
+| `disciplineLevel` | `14` |
 | `experience` | `1.37` |
 | `seconds` | `2.4` |
 | `chance` | `0.5` |
@@ -96,15 +100,16 @@
 		"icon": {
 			"emoji": "🤖",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/76acb221c339059c.svg）"
 		},
 		"color": ""
 	},
 	"category": "factory",
-	"attribute": "melee-weapon",
+	"discipline": "melee-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 28,
+	"level": 12,
+	"disciplineLevel": 14,
 	"experience": 1.37,
 	"seconds": 2.4,
 	"chance": 0.5,
@@ -138,11 +143,11 @@
 	],
 	"progressType": "stamina",
 	"property": {
-		"attack": 86,
-		"defence": 118,
-		"accuracy": 13,
-		"evasion": 8,
-		"restore": 13
+		"attack": 101,
+		"defence": 114,
+		"accuracy": 11,
+		"evasion": 7,
+		"restore": 14
 	},
 	"skills": [
 		"indomitable",

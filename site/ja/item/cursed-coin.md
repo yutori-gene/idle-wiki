@@ -1,6 +1,6 @@
 # 呪いのコイン
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">呪いのコイン</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪙</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>108 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">呪いのコイン</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f12f89242f9a0ebd.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>108 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 永遠の命と呪いの代償
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏴‍☠️</span>海賊の頭](/ja/action/pirate-captain) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv19 | 1 | 0.076% | 0 | 0.009 |
-| [<span class="wiki-icon">🐚</span>海底洞窟](/ja/action/undersea-cave) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv40 | 1 | 10.4% | 0.104 | 0.052 |
+| [<img class="wiki-icon" src="assets/icon/a71a25b5d0b12010.svg" alt="">海賊の頭](/ja/action/pirate-captain) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv6 | 1 | 0.076% | 0 | 0.009 |
+| [<img class="wiki-icon" src="assets/icon/c245a227042ab9a9.svg" alt="">海底洞窟](/ja/action/undersea-cave) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv40 | 1 | 10.4% | 0.104 | 0.052 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🪙",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/f12f89242f9a0ebd.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # 毛虫
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">毛虫</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b9c2295c04c97dd4.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">毛虫</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b9c2295c04c97dd4.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ニョッキ
 
@@ -13,10 +13,18 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/b9f2fd9a42b74ce8.svg" alt="">花壇の手入れ](/ja/action/tend-flower-bed) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv7 | 1 | 21.6% | 0.108 | 38.9 |
 | [<img class="wiki-icon" src="assets/icon/f4a063e2ef801314.svg" alt="">巨大なクモ](/ja/action/giant-spider) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv1 | 1 | 6.91% | 0.035 | 9 |
-| [<img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ](/ja/action/beetle) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv7 | 1 | 6.91% | 0.035 | 9 |
-| [<span class="wiki-icon">🐲</span>ドラゴンキッズ](/ja/action/dragon-kid) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 | 1 | 0.512% | 0.003 | 0.038 |
-| [<span class="wiki-icon">🧟</span>腐った暴君](/ja/action/rotten-tyrant) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv46 | 1 | 0.427% | 0.002 | 0 |
-| [<span class="wiki-icon">🪱</span>ミミズ](/ja/action/earthworm) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv16 | 6 | 100% | 4.5 | 1.1 |
+| [<img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ](/ja/action/beetle) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv38 | 1 | 6.91% | 0.035 | 9 |
+| [<img class="wiki-icon" src="assets/icon/09ecaa0c1b48e7eb.svg" alt="">ドラゴンキッズ](/ja/action/dragon-kid) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv20 | 1 | 0.512% | 0.003 | 0.044 |
+| [<img class="wiki-icon" src="assets/icon/a6aa062ef47dc4a9.svg" alt="">腐った暴君](/ja/action/rotten-tyrant) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv35 | 1 | 0.427% | 0.002 | 0 |
+| [<img class="wiki-icon" src="assets/icon/c7d3ecb34b9e3294.svg" alt="">ミミズ](/ja/action/earthworm) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv16 | 6 | 100% | 4.5 | 1.1 |
+
+## 用途
+
+### 材料として消費
+
+| アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
+| --- | --- | --- | --- | --- | --- |
+| [<img class="wiki-icon" src="assets/icon/7cb8835899ab8c83.svg" alt="">つけ髭](/ja/action/craft-fake-beard) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv5 | 5 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: ごみ</div><div class="wiki-navbox-body">63件。一覧は <a href="#/ja/group/junk"><img class="wiki-icon" src="assets/icon/ba67e1a6d072329f.svg" alt="">ごみ</a> を参照</div></div>
 

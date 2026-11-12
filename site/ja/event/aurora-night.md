@@ -1,17 +1,17 @@
 # オーロラの夜
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">オーロラの夜</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌌</span></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">オーロラの夜</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f648db037539f4cc.svg" alt=""></div><table><tr><th>タイミング</th><td>変化時（隠し）</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 
 ## 発生条件
 
 数量が変化したとき、**その1回で増えた量**が次の値以上なら発動する（何度でも繰り返す）。画面には表示されない。
 
-- [<span class="wiki-icon">🌌</span>オーロラの欠片](/ja/item/aurora-fragment) ×1
+- [<img class="wiki-icon" src="assets/icon/37900c18f91e0f49.svg" alt="">オーロラの欠片](/ja/item/aurora-fragment) ×1
 
 ## 報酬
 
-- [<span class="wiki-icon">🧊</span>永久凍土の心臓](/ja/item/permafrost-heart) ×1
+- [<img class="wiki-icon" src="assets/icon/ccac27c2896e6439.svg" alt="">永久凍土の心臓](/ja/item/permafrost-heart) ×1
 
 ## 開発者向け情報
 
@@ -38,7 +38,7 @@
 		"icon": {
 			"emoji": "🌌",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/f648db037539f4cc.svg）"
 		},
 		"color": ""
 	},

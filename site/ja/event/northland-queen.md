@@ -1,6 +1,6 @@
 # 北国の女王
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">北国の女王</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👸</span></div><table><tr><th>タイミング</th><td>条件達成（タスク）</td></tr><tr><th>グループ</th><td><a href="#/ja/group/story"><span class="wiki-icon">📜</span>ストーリー</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">北国の女王</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/0ab0223d32cdc6d1.svg" alt=""></div><table><tr><th>タイミング</th><td>条件達成（タスク）</td></tr><tr><th>グループ</th><td><a href="#/ja/group/story"><img class="wiki-icon" src="assets/icon/89e64834e9ec4a6f.svg" alt="">ストーリー</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 氷の女王と対峙する。白銀のかけらが静かに輝く
 
@@ -9,14 +9,14 @@
 
 次をすべて満たすと達成になり、報酬を受け取れる。条件のアイテムは消費しない。一度達成したら、あとで条件を失っても達成のまま。
 
-- [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) Lv20以上
-- [<span class="wiki-icon">🌌</span>極夜の結晶](/ja/item/polar-night-crystal) ×1
+- [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) Lv35以上
+- [<img class="wiki-icon" src="assets/icon/06f0bf5da902f207.svg" alt="">極夜の結晶](/ja/item/polar-night-crystal) ×1
 
 ## 報酬
 
-- [<span class="wiki-icon">🌙</span>月の紋章](/ja/item/moon-emblem) ×1
+- [<img class="wiki-icon" src="assets/icon/9e59a7800312bd1e.svg" alt="">月の紋章](/ja/item/moon-emblem) ×1
 
-<div class="wiki-navbox" style="--accent:#b8862b"><div class="wiki-navbox-title">ストーリー</div><div class="wiki-navbox-body"><a href="#/ja/event/prologue-departure"><span class="wiki-icon">🚶</span>序章・旅立ち</a> ・ <a href="#/ja/event/park-bug-catching"><span class="wiki-icon">🦗</span>公園で虫取り</a> ・ <a href="#/ja/event/meeting-companions"><span class="wiki-icon">🤝</span>仲間との出会い</a> ・ <a href="#/ja/event/park-regular"><span class="wiki-icon">🎖️</span>公園の常連</a> ・ <a href="#/ja/event/park-lord"><span class="wiki-icon">🌳</span>公園の主</a> ・ <a href="#/ja/event/enter-forest"><span class="wiki-icon">🌲</span>森へ踏み込む</a> ・ <a href="#/ja/event/lost-woods"><span class="wiki-icon">🌳</span>迷いの樹海</a> ・ <a href="#/ja/event/forest-guardian"><span class="wiki-icon">🦌</span>森の守り手</a> ・ <a href="#/ja/event/town-uproar"><span class="wiki-icon">🏙️</span>街の騒動</a> ・ <a href="#/ja/event/back-alley-rumor"><span class="wiki-icon">🕵️</span>裏路地の噂</a> ・ <a href="#/ja/event/town-boss"><span class="wiki-icon">👑</span>街のボス</a> ・ <a href="#/ja/event/to-port-town"><span class="wiki-icon">⚓</span>港町へ</a> ・ <a href="#/ja/event/stormy-waters"><span class="wiki-icon">🌊</span>嵐の海域</a> ・ <a href="#/ja/event/undersea-ruins"><span class="wiki-icon">🏛️</span>海底の遺跡</a> ・ <a href="#/ja/event/journey-to-snowfield"><span class="wiki-icon">❄️</span>雪原への旅</a> ・ <a href="#/ja/event/frozen-trial"><span class="wiki-icon">🧊</span>氷結の試練</a> ・ <a href="#/ja/event/northland-queen"><span class="wiki-icon">👸</span>北国の女王</a> ・ <a href="#/ja/event/infiltrate-abandoned-factory"><span class="wiki-icon">🏭</span>廃工場侵入</a> ・ <a href="#/ja/event/machine-rampage"><span class="wiki-icon">🤖</span>機械の暴走</a> ・ <a href="#/ja/event/factory-main-engine"><span class="wiki-icon">⚙️</span>工場の主機</a> ・ <a href="#/ja/event/volcano-foot"><span class="wiki-icon">🌋</span>火山の麓</a> ・ <a href="#/ja/event/lava-cave"><span class="wiki-icon">🔥</span>溶岩洞窟</a> ・ <a href="#/ja/event/volcano-shrine"><span class="wiki-icon">⛩️</span>火山の祠</a> ・ <a href="#/ja/event/breach-castle-gate"><span class="wiki-icon">🏰</span>城門突破</a> ・ <a href="#/ja/event/stairs-to-throne"><span class="wiki-icon">🪜</span>玉座への階段</a> ・ <a href="#/ja/event/castle-king"><span class="wiki-icon">👑</span>城の王</a> ・ <a href="#/ja/event/gate-of-hell"><span class="wiki-icon">🚪</span>地獄の扉</a> ・ <a href="#/ja/event/hellfire-corridor"><span class="wiki-icon">🔥</span>業火の回廊</a> ・ <a href="#/ja/event/demon-lord"><img class="wiki-icon" src="assets/icon/e662065d77e683cb.svg" alt="">魔王</a> ・ <a href="#/ja/event/ladder-to-heaven"><span class="wiki-icon">🪜</span>天への梯子</a> ・ <a href="#/ja/event/garden-above-clouds"><span class="wiki-icon">☁️</span>雲上の庭園</a> ・ <a href="#/ja/event/final-battle"><span class="wiki-icon">⚔️</span>最終決戦</a> ・ <a href="#/ja/event/world-change"><span class="wiki-icon">🌍</span>世界の変化</a> ・ <a href="#/ja/event/epilogue"><span class="wiki-icon">📖</span>エピローグ</a></div></div>
+<div class="wiki-navbox" style="--accent:#b8862b"><div class="wiki-navbox-title">ストーリー</div><div class="wiki-navbox-body">54件。一覧は <a href="#/ja/group/story"><img class="wiki-icon" src="assets/icon/89e64834e9ec4a6f.svg" alt="">ストーリー</a> を参照</div></div>
 
 ## 開発者向け情報
 
@@ -43,7 +43,7 @@
 		"icon": {
 			"emoji": "👸",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/0ab0223d32cdc6d1.svg）"
 		},
 		"color": ""
 	},
@@ -54,7 +54,7 @@
 		{
 			"type": "category",
 			"id": "northland",
-			"count": 20,
+			"count": 35,
 			"chance": 1,
 			"equipment": false
 		},

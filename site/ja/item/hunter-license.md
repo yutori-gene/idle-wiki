@@ -1,6 +1,6 @@
 # ハンターライセンス
 
-<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">ハンターライセンス</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪪</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brooch"><span class="wiki-icon">🎖️</span>ブローチ</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>108 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#886b86"><div class="wiki-infobox-title">ハンターライセンス</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/4b9344893f887a47.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/accessory"><img class="wiki-icon" src="assets/icon/f78f0d1c14ad5a8d.svg" alt="">装飾</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/brooch"><img class="wiki-icon" src="assets/icon/90105f31f000c615.svg" alt="">ブローチ</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>108 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 何でも買えて、何処にでも行ける。
 
@@ -11,9 +11,9 @@
 
 | 効き先 | 経験値 |
 | --- | --- |
-| [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | +3 |
-| [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | +2 |
-| [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | +1 |
+| [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | +3 |
+| [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | +2 |
+| [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | +1 |
 
 ## 入手方法
 
@@ -21,9 +21,9 @@
 
 | イベント | タイミング | 個数 | 確率 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏛️</span>海底の遺跡](/ja/event/undersea-ruins) | 条件達成（タスク） | 1 | 100% |
+| [<img class="wiki-icon" src="assets/icon/399196758d8173ae.svg" alt="">海底の遺跡](/ja/event/undersea-ruins) | 条件達成（タスク） | 1 | 100% |
 
-<div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: ブローチ</div><div class="wiki-navbox-body"><a href="#/ja/item/firefly"><img class="wiki-icon" src="assets/icon/c4f9d12979bdfc90.svg" alt="">ホタル</a> ・ <a href="#/ja/item/pin-badge"><img class="wiki-icon" src="assets/icon/5f67ad53a251b7d6.svg" alt="">ピンバッジ</a> ・ <a href="#/ja/item/heart-brooch"><span class="wiki-icon">💗</span>ハートブローチ</a> ・ <a href="#/ja/item/employee-badge"><span class="wiki-icon">🪪</span>社員証</a> ・ <a href="#/ja/item/gym-badge"><span class="wiki-icon">🎖️</span>ジムバッジ</a> ・ <a href="#/ja/item/verified-badge"><span class="wiki-icon">🪪</span>認証バッジ</a> ・ <a href="#/ja/item/police-badge"><span class="wiki-icon">👮</span>警察バッジ</a> ・ <a href="#/ja/item/hunter-license"><span class="wiki-icon">🪪</span>ハンターライセンス</a> ・ <a href="#/ja/item/cross-rosary"><span class="wiki-icon">📿</span>十字架のロザリオ</a> ・ <a href="#/ja/item/moon-emblem"><span class="wiki-icon">🌙</span>月の紋章</a> ・ <a href="#/ja/item/bowtie-voice-changer"><span class="wiki-icon">🎙️</span>蝶ネクタイ型変声機</a> ・ <a href="#/ja/item/disguise-brooch"><span class="wiki-icon">🥸</span>変装ブローチ</a> ・ <a href="#/ja/item/medal"><span class="wiki-icon">🎖️</span>勲章</a> ・ <a href="#/ja/item/family-crest-brooch"><span class="wiki-icon">🎖️</span>家紋のブローチ</a> ・ <a href="#/ja/item/sos-brigade-badge"><span class="wiki-icon">🎖️</span>SOS団のバッジ</a> ・ <a href="#/ja/item/survey-corps-badge"><span class="wiki-icon">🎖️</span>調査兵団のバッジ</a> ・ <a href="#/ja/item/golden-spin"><span class="wiki-icon">🌀</span>黄金の回転</a> ・ <a href="#/ja/item/dark-matter"><span class="wiki-icon">🌑</span>暗黒物質</a> ・ <a href="#/ja/item/beast-rose"><span class="wiki-icon">🌹</span>獣の薔薧</a> ・ <a href="#/ja/item/at-field"><span class="wiki-icon">🔺</span>ATフィールド</a> ・ <a href="#/ja/item/s2-engine"><span class="wiki-icon">⚙️</span>S2機関</a></div></div>
+<div class="wiki-navbox" style="--accent:#886b86"><div class="wiki-navbox-title">グループ: ブローチ</div><div class="wiki-navbox-body"><a href="#/ja/item/firefly"><img class="wiki-icon" src="assets/icon/c4f9d12979bdfc90.svg" alt="">ホタル</a> ・ <a href="#/ja/item/pin-badge"><img class="wiki-icon" src="assets/icon/5f67ad53a251b7d6.svg" alt="">ピンバッジ</a> ・ <a href="#/ja/item/heart-brooch"><img class="wiki-icon" src="assets/icon/88bd6232400bdea7.svg" alt="">ハートブローチ</a> ・ <a href="#/ja/item/employee-badge"><img class="wiki-icon" src="assets/icon/c22d3fb124b4bb79.svg" alt="">社員証</a> ・ <a href="#/ja/item/gym-badge"><img class="wiki-icon" src="assets/icon/3e6cef4c2105b9d2.svg" alt="">ジムバッジ</a> ・ <a href="#/ja/item/verified-badge"><img class="wiki-icon" src="assets/icon/deb9bea6748c9a50.svg" alt="">認証バッジ</a> ・ <a href="#/ja/item/police-badge"><img class="wiki-icon" src="assets/icon/1867958c8ad83ae3.svg" alt="">警察バッジ</a> ・ <a href="#/ja/item/hunter-license"><img class="wiki-icon" src="assets/icon/4b9344893f887a47.svg" alt="">ハンターライセンス</a> ・ <a href="#/ja/item/cross-rosary"><img class="wiki-icon" src="assets/icon/31a987b1c411eb70.svg" alt="">十字架のロザリオ</a> ・ <a href="#/ja/item/moon-emblem"><img class="wiki-icon" src="assets/icon/9e59a7800312bd1e.svg" alt="">月の紋章</a> ・ <a href="#/ja/item/bowtie-voice-changer"><img class="wiki-icon" src="assets/icon/81c57f077fb96fb0.svg" alt="">蝶ネクタイ型変声機</a> ・ <a href="#/ja/item/disguise-brooch"><img class="wiki-icon" src="assets/icon/ac75e735ace50710.svg" alt="">変装ブローチ</a> ・ <a href="#/ja/item/medal"><img class="wiki-icon" src="assets/icon/7088dcc36a3c9179.svg" alt="">勲章</a> ・ <a href="#/ja/item/family-crest-brooch"><img class="wiki-icon" src="assets/icon/01d9bea3ff7c8ef3.svg" alt="">家紋のブローチ</a> ・ <a href="#/ja/item/sos-brigade-badge"><img class="wiki-icon" src="assets/icon/0914f56aa1a37b80.svg" alt="">SOS団のバッジ</a> ・ <a href="#/ja/item/survey-corps-badge"><img class="wiki-icon" src="assets/icon/6174aae1b8425327.svg" alt="">調査兵団のバッジ</a> ・ <a href="#/ja/item/golden-spin"><img class="wiki-icon" src="assets/icon/bdb4ec7a42ce04d5.svg" alt="">黄金の回転</a> ・ <a href="#/ja/item/dark-matter"><img class="wiki-icon" src="assets/icon/d9240656f3101858.svg" alt="">暗黒物質</a> ・ <a href="#/ja/item/beast-rose"><img class="wiki-icon" src="assets/icon/105bde7a3679d087.svg" alt="">獣の薔薧</a> ・ <a href="#/ja/item/at-field"><img class="wiki-icon" src="assets/icon/56d8e0e4b6f4e0da.svg" alt="">ATフィールド</a> ・ <a href="#/ja/item/s2-engine"><img class="wiki-icon" src="assets/icon/deccc98f2928c80e.svg" alt="">S2機関</a></div></div>
 
 ## 開発者向け情報
 
@@ -56,7 +56,7 @@
 		"icon": {
 			"emoji": "🪪",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/4b9344893f887a47.svg）"
 		},
 		"color": ""
 	},

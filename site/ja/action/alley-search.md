@@ -1,6 +1,6 @@
 # 路地裏の探し物
 
-<div class="wiki-infobox" style="--accent:#856654"><div class="wiki-infobox-title">路地裏の探し物</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔦</span></div><table><tr><th>場所</th><td><a href="#/ja/category/town"><span class="wiki-icon">🏙️</span>街</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>30秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>18</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#856654"><div class="wiki-infobox-title">路地裏の探し物</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/27e1636641b63801.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/town"><img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/gather"><img class="wiki-icon" src="assets/icon/1526f5fadd3c55ca.svg" alt="">収集</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv1</td></tr><tr><th>所要時間</th><td>30秒</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>18</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 裏路地には落とし物が多い。
 
@@ -11,14 +11,14 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>釘](/ja/item/nail) ×7 | 成功時 | 91% | 3.2 | 382 |
-| [<span class="wiki-icon">🪙</span>小銭](/ja/item/small-change) ×7 | 成功時 | 91% | 3.2 | 382 |
-| [<span class="wiki-icon">📰</span>新聞紙](/ja/item/newspaper-sheet) ×5 | 成功時 | 56% | 1.4 | 168 |
-| [<span class="wiki-icon">🪝</span>ハンガー](/ja/item/hanger) ×5 | 成功時 | 56% | 1.4 | 168 |
-| [<span class="wiki-icon">📎</span>洗濯バサミ](/ja/item/clothespin) ×5 | 成功時 | 56% | 1.4 | 168 |
-| [<span class="wiki-icon">📼</span>ガムテープ](/ja/item/duct-tape) ×1 | 成功時 | 21.6% | 0.108 | 13 |
-| [<span class="wiki-icon">🚲</span>自転車](/ja/item/bicycle) ×1 | 成功時 | 8.64% | 0.043 | 5.2 |
-| [<span class="wiki-icon">🧱</span>レンガ](/ja/item/brick) ×1 | 成功時 | 33.3% | 0.167 | 20 |
+| [<img class="wiki-icon" src="assets/icon/61e178f1fba791da.svg" alt="">釘](/ja/item/nail) ×7 | 成功時 | 91% | 3.2 | 382 |
+| [<img class="wiki-icon" src="assets/icon/29ca23b1752e64ab.svg" alt="">小銭](/ja/item/small-change) ×7 | 成功時 | 91% | 3.2 | 382 |
+| [<img class="wiki-icon" src="assets/icon/5ecb076429178ac4.svg" alt="">新聞紙](/ja/item/newspaper-sheet) ×5 | 成功時 | 56% | 1.4 | 168 |
+| [<img class="wiki-icon" src="assets/icon/6f1955d8e089d0c2.svg" alt="">ハンガー](/ja/item/hanger) ×5 | 成功時 | 56% | 1.4 | 168 |
+| [<img class="wiki-icon" src="assets/icon/2fd7f626a91081b0.svg" alt="">洗濯バサミ](/ja/item/clothespin) ×5 | 成功時 | 56% | 1.4 | 168 |
+| [<img class="wiki-icon" src="assets/icon/627ae6d1ecb3ab37.svg" alt="">ガムテープ](/ja/item/duct-tape) ×1 | 成功時 | 21.6% | 0.108 | 13 |
+| [<img class="wiki-icon" src="assets/icon/090ca2f9a809ff28.svg" alt="">自転車](/ja/item/bicycle) ×1 | 成功時 | 8.64% | 0.043 | 5.2 |
+| [<img class="wiki-icon" src="assets/icon/9a056284bfa44aa4.svg" alt="">レンガ](/ja/item/brick) ×1 | 成功時 | 33.3% | 0.167 | 20 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -27,11 +27,11 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv1） | 30秒 | 50% | 18 | 120 | 1,080 |
-| +10（Lv11） | 24.5秒 | 60% | 12 | 147 | 373 |
-| +20（Lv21） | 20秒 | 69.2% | 8 | 180 | 124 |
-| +30（Lv31） | 16.3秒 | 77.1% | 5.33 | 220.5 | 40 |
+| +10（Lv11） | 24.5秒 | 60% | 9.8 | 147 | 304 |
+| +20（Lv21） | 20秒 | 69.2% | 5.33 | 180 | 82 |
+| +30（Lv31） | 16.3秒 | 77.1% | 2.9 | 220.5 | 22 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -41,7 +41,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#856654"><div class="wiki-navbox-title">街のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/alley-search"><span class="wiki-icon">🔦</span>路地裏の探し物</a> ・ <a href="#/ja/action/midnight-street"><span class="wiki-icon">🌃</span>深夜の路上</a> ・ <a href="#/ja/action/rummage-trash-can"><span class="wiki-icon">🗑️</span>ゴミ箱あさり</a> ・ <a href="#/ja/action/rampaging-vending-machine"><span class="wiki-icon">🥤</span>暴れ自販機</a> ・ <a href="#/ja/action/cult-leader"><span class="wiki-icon">🙏</span>教祖</a> ・ <a href="#/ja/action/bandit"><span class="wiki-icon">🗡️</span>山賊</a> ・ <a href="#/ja/action/stray-dog-pack"><span class="wiki-icon">🐕</span>野良犬の群れ</a> ・ <a href="#/ja/action/shaman"><span class="wiki-icon">🧙</span>シャーマン</a> ・ <a href="#/ja/action/doppelganger"><span class="wiki-icon">👥</span>ドッペルゲンガー</a> ・ <a href="#/ja/action/gremlin"><span class="wiki-icon">👺</span>グレムリン</a> ・ <a href="#/ja/action/zombie"><span class="wiki-icon">🧟</span>ゾンビ</a> ・ <a href="#/ja/action/wizard"><span class="wiki-icon">🧙</span>魔法使い</a> ・ <a href="#/ja/action/thief"><span class="wiki-icon">🥷</span>盗賊</a> ・ <a href="#/ja/action/bounty-hunter"><span class="wiki-icon">🤠</span>賞金稼ぎ</a> ・ <a href="#/ja/action/sewer-rat"><span class="wiki-icon">🐀</span>ドブネズミ</a> ・ <a href="#/ja/action/condemned-building"><span class="wiki-icon">🏚️</span>取り壊し前の廃ビル</a> ・ <a href="#/ja/action/sewer-rumor"><span class="wiki-icon">🕳️</span>地下水路の噂</a> ・ <a href="#/ja/action/backstreet-informant"><span class="wiki-icon">🕵️</span>裏通りの情報屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#856654"><div class="wiki-navbox-title">街のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/alley-search"><img class="wiki-icon" src="assets/icon/27e1636641b63801.svg" alt="">路地裏の探し物</a> ・ <a href="#/ja/action/midnight-street"><img class="wiki-icon" src="assets/icon/7cd052438a680aa5.svg" alt="">深夜の路上</a> ・ <a href="#/ja/action/rummage-trash-can"><img class="wiki-icon" src="assets/icon/ba7eb340243f6cda.svg" alt="">ゴミ箱あさり</a> ・ <a href="#/ja/action/rampaging-vending-machine"><img class="wiki-icon" src="assets/icon/c1449d05731c58a5.svg" alt="">暴れ自販機</a> ・ <a href="#/ja/action/cult-leader"><img class="wiki-icon" src="assets/icon/6b4bee93ce40e393.svg" alt="">教祖</a> ・ <a href="#/ja/action/gremlin"><img class="wiki-icon" src="assets/icon/60c9754ad81bb635.svg" alt="">グレムリン</a> ・ <a href="#/ja/action/thief"><img class="wiki-icon" src="assets/icon/7d17b80929b706cc.svg" alt="">盗賊</a> ・ <a href="#/ja/action/bandit"><img class="wiki-icon" src="assets/icon/e0653ffa6617e0e6.svg" alt="">山賊</a> ・ <a href="#/ja/action/stray-dog-pack"><img class="wiki-icon" src="assets/icon/0db6569084ef29a0.svg" alt="">野良犬の群れ</a> ・ <a href="#/ja/action/zombie"><img class="wiki-icon" src="assets/icon/2de7e6dc75e72112.svg" alt="">ゾンビ</a> ・ <a href="#/ja/action/wizard"><img class="wiki-icon" src="assets/icon/9b59bed47660853c.svg" alt="">魔法使い</a> ・ <a href="#/ja/action/shaman"><img class="wiki-icon" src="assets/icon/2dab731f5693bdc8.svg" alt="">シャーマン</a> ・ <a href="#/ja/action/doppelganger"><img class="wiki-icon" src="assets/icon/8271839a5554488c.svg" alt="">ドッペルゲンガー</a> ・ <a href="#/ja/action/bounty-hunter"><img class="wiki-icon" src="assets/icon/e946f5cd0103012b.svg" alt="">賞金稼ぎ</a> ・ <a href="#/ja/action/sewer-rat"><img class="wiki-icon" src="assets/icon/a4e9edb1cd6bdef5.svg" alt="">ドブネズミ</a> ・ <a href="#/ja/action/condemned-building"><img class="wiki-icon" src="assets/icon/5b9a97ac9d611400.svg" alt="">取り壊し前の廃ビル</a> ・ <a href="#/ja/action/sewer-rumor"><img class="wiki-icon" src="assets/icon/b33ec2c043342ba0.svg" alt="">地下水路の噂</a> ・ <a href="#/ja/action/backstreet-informant"><img class="wiki-icon" src="assets/icon/0b0577fa2a9b9c91.svg" alt="">裏通りの情報屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -49,10 +49,11 @@
 | --- | --- |
 | id | `alley-search` |
 | `category` | `town` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `gather` |
 | `unlocked` | `hidden` |
 | `level` | `1` |
+| `disciplineLevel` | `0` |
 | `experience` | `18` |
 | `seconds` | `30` |
 | `chance` | `0.5` |
@@ -73,15 +74,16 @@
 		"icon": {
 			"emoji": "🔦",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/27e1636641b63801.svg）"
 		},
 		"color": ""
 	},
 	"category": "town",
-	"attribute": "",
+	"discipline": "",
 	"group": "gather",
 	"unlocked": "hidden",
 	"level": 1,
+	"disciplineLevel": 0,
 	"experience": 18,
 	"seconds": 30,
 	"chance": 0.5,

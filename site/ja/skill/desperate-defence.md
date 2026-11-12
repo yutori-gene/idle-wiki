@@ -1,6 +1,6 @@
 # 捨て身の守り
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">捨て身の守り</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🛡️</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃-9・防御+14</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">捨て身の守り</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f3153957a33fa2ff.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃-9・防御+14</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 攻撃を捨てれば、誰も倒せないが誰にも倒されない。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🪞</span>魔法の鏡](/ja/action/magic-mirror) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
-| [<span class="wiki-icon">😈</span>悪魔](/ja/action/demon) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv46 |
+| [<img class="wiki-icon" src="assets/icon/b148d196aa5fc19f.svg" alt="">魔法の鏡](/ja/action/magic-mirror) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv11 |
+| [<img class="wiki-icon" src="assets/icon/a399a48719b8f036.svg" alt="">悪魔](/ja/action/demon) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv39 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/item/box-gundam) | [<span class="wiki-icon">👕</span>胴体装備](/ja/group/body-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/3292882519d9db0b.svg" alt="">箱ガンダム](/ja/item/box-gundam) | [<img class="wiki-icon" src="assets/icon/0f29202c4827bbc2.svg" alt="">胴体装備](/ja/group/body-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🛡️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/f3153957a33fa2ff.svg）"
 		},
 		"color": ""
 	},

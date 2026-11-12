@@ -1,6 +1,6 @@
 # 不死身
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">不死身</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">♾️</span></div><table><tr><th>発動率</th><td>3%／ターン</td></tr><tr><th>効果</th><td>防御+10・精度-10・回復+15</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">不死身</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c79d631fd866d1d1.svg" alt=""></div><table><tr><th>発動率</th><td>3%／ターン</td></tr><tr><th>効果</th><td>防御+10・精度-10・回復+15</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 死ななければ、当たっても構わない。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧊</span>氷漬けの戦士](/ja/action/frozen-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv23 |
-| [<span class="wiki-icon">🥶</span>フリーズ様](/ja/action/lord-freeze) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv45 |
+| [<img class="wiki-icon" src="assets/icon/534edc2a28c044ce.svg" alt="">氷漬けの戦士](/ja/action/frozen-warrior) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv9 |
+| [<img class="wiki-icon" src="assets/icon/a1198ac4d82115d0.svg" alt="">フリーズ様](/ja/action/lord-freeze) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv20 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/item/crystal-skull) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/51b4ab74cb0a9e72.svg" alt="">クリスタルスカル](/ja/item/crystal-skull) | [<img class="wiki-icon" src="assets/icon/6c462d8e036e535b.svg" alt="">頭部防具](/ja/group/head-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "♾️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/c79d631fd866d1d1.svg）"
 		},
 		"color": ""
 	},

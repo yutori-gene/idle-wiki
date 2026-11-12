@@ -1,6 +1,6 @@
 # 小銭
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">小銭</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪙</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">小銭</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/29ca23b1752e64ab.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・イベント</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 募金箱の味方。
 
@@ -11,16 +11,16 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔦</span>路地裏の探し物](/ja/action/alley-search) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv1 | 7 | 91% | 3.2 | 382 |
-| [<span class="wiki-icon">🥤</span>暴れ自販機](/ja/action/rampaging-vending-machine) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv1 | 1 | 17.8% | 0.089 | 4.2 |
-| [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 6.53% | 0.033 | 3.8 |
-| [<span class="wiki-icon">🐀</span>ドブネズミ](/ja/action/sewer-rat) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 1 | 5.31% | 0.027 | 4.3 |
+| [<img class="wiki-icon" src="assets/icon/27e1636641b63801.svg" alt="">路地裏の探し物](/ja/action/alley-search) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv1 | 7 | 91% | 3.2 | 382 |
+| [<img class="wiki-icon" src="assets/icon/c1449d05731c58a5.svg" alt="">暴れ自販機](/ja/action/rampaging-vending-machine) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv1 | 1 | 17.8% | 0.089 | 4.3 |
+| [<img class="wiki-icon" src="assets/icon/9b59bed47660853c.svg" alt="">魔法使い](/ja/action/wizard) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv37 | 1 | 6.53% | 0.033 | 3.7 |
+| [<img class="wiki-icon" src="assets/icon/a4e9edb1cd6bdef5.svg" alt="">ドブネズミ](/ja/action/sewer-rat) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv50 | 1 | 5.31% | 0.027 | 4.2 |
 
 ### イベント
 
 | イベント | タイミング | 個数 | 確率 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧙</span>路地裏の商人](/ja/event/alley-merchant) | 条件達成（タスク） | 20 | 100% |
+| [<img class="wiki-icon" src="assets/icon/a66d648222854cb8.svg" alt="">路地裏の商人](/ja/event/alley-merchant) | 条件達成（タスク） | 20 | 100% |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -55,7 +55,7 @@
 		"icon": {
 			"emoji": "🪙",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/29ca23b1752e64ab.svg）"
 		},
 		"color": ""
 	},

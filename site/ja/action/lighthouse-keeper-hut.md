@@ -1,6 +1,6 @@
 # 灯台守の小屋
 
-<div class="wiki-infobox" style="--accent:#4a637d"><div class="wiki-infobox-title">灯台守の小屋</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🗼</span></div><table><tr><th>場所</th><td><a href="#/ja/category/sea"><span class="wiki-icon">🌊</span>海</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explore"><img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv30</td></tr><tr><th>所要時間</th><td>2時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>2,058</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#4a637d"><div class="wiki-infobox-title">灯台守の小屋</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/9e6ea89fa2931b2a.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/sea"><img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/explore"><img class="wiki-icon" src="assets/icon/3d0b09faf74aea45.svg" alt="">探索</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv30</td></tr><tr><th>所要時間</th><td>2時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>2,058</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > もう誰も住んでいない。海図と、書きかけの日誌だけが残っている。
 
@@ -9,18 +9,18 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🌊</span>海](/ja/category/sea) Lv30以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) Lv30以上（所属カテゴリのレベル）
 
 ## 取得物
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">📜</span>歴史書](/ja/item/history-book) ×1 | 成功時 | 100% | 1 | 0.5 |
-| [<span class="wiki-icon">🪨</span>砂浜の石](/ja/item/beach-stone) ×3 | 成功時 | 53% | 1.6 | 0.795 |
-| [<span class="wiki-icon">⭐</span>海星](/ja/item/starfish) ×2 | 成功時 | 50.1% | 1 | 0.501 |
-| [<span class="wiki-icon">🦪</span>真珠](/ja/item/pearl) ×2 | 成功時 | 41.8% | 0.836 | 0.418 |
-| [<span class="wiki-icon">🦯</span>松葉杖](/ja/item/crutch) ×1 | 成功時 | 96% | 0.96 | 0.48 |
-| [<span class="wiki-icon">🔮</span>水晶のペンダント](/ja/item/crystal-pendant) ×1 | 成功時 | 22.1% | 0.221 | 0.111 |
+| [<img class="wiki-icon" src="assets/icon/8a5bf8c1d38530d0.svg" alt="">歴史書](/ja/item/history-book) ×1 | 成功時 | 100% | 1 | 0.5 |
+| [<img class="wiki-icon" src="assets/icon/c52783f803c63c13.svg" alt="">砂浜の石](/ja/item/beach-stone) ×3 | 成功時 | 53% | 1.6 | 0.795 |
+| [<img class="wiki-icon" src="assets/icon/e75e8fb3b010917c.svg" alt="">海星](/ja/item/starfish) ×2 | 成功時 | 50.1% | 1 | 0.501 |
+| [<img class="wiki-icon" src="assets/icon/4243d4d39d36aa83.svg" alt="">真珠](/ja/item/pearl) ×2 | 成功時 | 41.8% | 0.836 | 0.418 |
+| [<img class="wiki-icon" src="assets/icon/1a5d5f97413f4302.svg" alt="">松葉杖](/ja/item/crutch) ×1 | 成功時 | 96% | 0.96 | 0.48 |
+| [<img class="wiki-icon" src="assets/icon/f20ccc9a563b3957.svg" alt="">水晶のペンダント](/ja/item/crystal-pendant) ×1 | 成功時 | 22.1% | 0.221 | 0.111 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -29,10 +29,10 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv30） | 2時間 | 100% | 2,058 | 0.5 | 50 |
-| +10（Lv40） | 1時間37分 | 100% | 1,372 | 0.6 | 14 |
-| +20（Lv50） | 1時間20分 | 100% | 914.67 | 0.8 | 4 |
+| +10（Lv40） | 1時間37分 | 100% | 1,120.23 | 0.6 | 12 |
+| +20（Lv50） | 1時間20分 | 100% | 609.78 | 0.8 | 3 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -42,7 +42,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#4a637d"><div class="wiki-navbox-title">海のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/flotsam-collecting"><span class="wiki-icon">🏖️</span>漂着物回収</a> ・ <a href="#/ja/action/tidal-flat-clamming"><span class="wiki-icon">🐚</span>磯の潮干狩り</a> ・ <a href="#/ja/action/beach-shell-gathering"><span class="wiki-icon">🐚</span>浜辺の貝拾い</a> ・ <a href="#/ja/action/pirate"><img class="wiki-icon" src="assets/icon/5d2bd39c66257c15.svg" alt="">海賊</a> ・ <a href="#/ja/action/pirate-captain"><span class="wiki-icon">🏴‍☠️</span>海賊の頭</a> ・ <a href="#/ja/action/cthulhu"><span class="wiki-icon">🐙</span>クトゥルフ</a> ・ <a href="#/ja/action/crocodile"><span class="wiki-icon">🐊</span>クロコダイル</a> ・ <a href="#/ja/action/serpent"><span class="wiki-icon">🐍</span>サーペント</a> ・ <a href="#/ja/action/turtle-demon-king"><span class="wiki-icon">🐢</span>カメの大魔王</a> ・ <a href="#/ja/action/kraken"><span class="wiki-icon">🦑</span>クラーケン</a> ・ <a href="#/ja/action/sea-turtle"><span class="wiki-icon">🐢</span>タートル</a> ・ <a href="#/ja/action/castaway"><span class="wiki-icon">🎩</span>漂流者</a> ・ <a href="#/ja/action/mermaid"><span class="wiki-icon">🧜</span>マーメイド</a> ・ <a href="#/ja/action/desert-island-drift"><span class="wiki-icon">🏝️</span>無人島漂流</a> ・ <a href="#/ja/action/shipwreck-survey"><img class="wiki-icon" src="assets/icon/eb3d79c11d7eaf0a.svg" alt="">沈没船探査</a> ・ <a href="#/ja/action/lighthouse-keeper-hut"><span class="wiki-icon">🗼</span>灯台守の小屋</a> ・ <a href="#/ja/action/undersea-cave"><span class="wiki-icon">🐚</span>海底洞窟</a></div></div>
+<div class="wiki-navbox" style="--accent:#4a637d"><div class="wiki-navbox-title">海のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/flotsam-collecting"><img class="wiki-icon" src="assets/icon/7174ce7efc49f9e9.svg" alt="">漂着物回収</a> ・ <a href="#/ja/action/tidal-flat-clamming"><img class="wiki-icon" src="assets/icon/0cb0250c411d7734.svg" alt="">磯の潮干狩り</a> ・ <a href="#/ja/action/beach-shell-gathering"><img class="wiki-icon" src="assets/icon/3a285c0be3547be2.svg" alt="">浜辺の貝拾い</a> ・ <a href="#/ja/action/serpent"><img class="wiki-icon" src="assets/icon/99401bbf87efddfd.svg" alt="">サーペント</a> ・ <a href="#/ja/action/mermaid"><img class="wiki-icon" src="assets/icon/bcb019bf5c706cb3.svg" alt="">マーメイド</a> ・ <a href="#/ja/action/cthulhu"><img class="wiki-icon" src="assets/icon/726cdf61e0805eb5.svg" alt="">クトゥルフ</a> ・ <a href="#/ja/action/sea-turtle"><img class="wiki-icon" src="assets/icon/8a25194356ea6eb5.svg" alt="">タートル</a> ・ <a href="#/ja/action/pirate"><img class="wiki-icon" src="assets/icon/5d2bd39c66257c15.svg" alt="">海賊</a> ・ <a href="#/ja/action/pirate-captain"><img class="wiki-icon" src="assets/icon/a71a25b5d0b12010.svg" alt="">海賊の頭</a> ・ <a href="#/ja/action/crocodile"><img class="wiki-icon" src="assets/icon/fed17d75923f9e8c.svg" alt="">クロコダイル</a> ・ <a href="#/ja/action/castaway"><img class="wiki-icon" src="assets/icon/50a2af91aef10938.svg" alt="">漂流者</a> ・ <a href="#/ja/action/turtle-demon-king"><img class="wiki-icon" src="assets/icon/f7396d0f10a22c13.svg" alt="">カメの大魔王</a> ・ <a href="#/ja/action/kraken"><img class="wiki-icon" src="assets/icon/94e82149543a0649.svg" alt="">クラーケン</a> ・ <a href="#/ja/action/desert-island-drift"><img class="wiki-icon" src="assets/icon/090dfa72ac79791c.svg" alt="">無人島漂流</a> ・ <a href="#/ja/action/shipwreck-survey"><img class="wiki-icon" src="assets/icon/eb3d79c11d7eaf0a.svg" alt="">沈没船探査</a> ・ <a href="#/ja/action/lighthouse-keeper-hut"><img class="wiki-icon" src="assets/icon/9e6ea89fa2931b2a.svg" alt="">灯台守の小屋</a> ・ <a href="#/ja/action/undersea-cave"><img class="wiki-icon" src="assets/icon/c245a227042ab9a9.svg" alt="">海底洞窟</a></div></div>
 
 ## 開発者向け情報
 
@@ -50,10 +50,11 @@
 | --- | --- |
 | id | `lighthouse-keeper-hut` |
 | `category` | `sea` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `explore` |
 | `unlocked` | `hidden` |
 | `level` | `30` |
+| `disciplineLevel` | `0` |
 | `experience` | `2058` |
 | `seconds` | `7200` |
 | `chance` | `1` |
@@ -74,15 +75,16 @@
 		"icon": {
 			"emoji": "🗼",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/9e6ea89fa2931b2a.svg）"
 		},
 		"color": ""
 	},
 	"category": "sea",
-	"attribute": "",
+	"discipline": "",
 	"group": "explore",
 	"unlocked": "hidden",
 	"level": 30,
+	"disciplineLevel": 0,
 	"experience": 2058,
 	"seconds": 7200,
 	"chance": 1,

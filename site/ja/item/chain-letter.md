@@ -1,6 +1,6 @@
 # 不幸の手紙
 
-<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">不幸の手紙</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">✉️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/book"><span class="wiki-icon">📕</span>本</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>81 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">不幸の手紙</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/44104702adf5d262.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/study"><img class="wiki-icon" src="assets/icon/2e8e4cc8d396fd3f.svg" alt="">書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/book"><img class="wiki-icon" src="assets/icon/95065541d11b109e.svg" alt="">本</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>81 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > この手紙を10人に送らないと不幸になります。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🕵️</span>裏通りの情報屋](/ja/action/backstreet-informant) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv30 | 1 | 100% | 1 | 0.667 |
+| [<img class="wiki-icon" src="assets/icon/0b0577fa2a9b9c91.svg" alt="">裏通りの情報屋](/ja/action/backstreet-informant) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv30 | 1 | 100% | 1 | 0.667 |
 
 ## 用途
 
@@ -19,15 +19,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">✉️</span>不幸の手紙](/ja/action/read-chain-letter) | [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | Lv1 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/a1e9f94b4bc16237.svg" alt="">不幸の手紙](/ja/action/read-chain-letter) | [<img class="wiki-icon" src="assets/icon/2e8e4cc8d396fd3f.svg" alt="">書斎](/ja/category/study) | Lv1 | 1 | 100% |  |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv10以上
+- [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) Lv10以上
 
-<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 本</div><div class="wiki-navbox-body"><a href="#/ja/item/art-book"><img class="wiki-icon" src="assets/icon/021123683021700b.svg" alt="">美術書</a> ・ <a href="#/ja/item/fairy-tale"><span class="wiki-icon">📙</span>グリム童話</a> ・ <a href="#/ja/item/picture-book"><img class="wiki-icon" src="assets/icon/3e442c2141244790.svg" alt="">飛び出す絵本</a> ・ <a href="#/ja/item/diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/item/self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/item/novel"><span class="wiki-icon">📗</span>探偵小説</a> ・ <a href="#/ja/item/manga"><span class="wiki-icon">📚</span>不健全図書</a> ・ <a href="#/ja/item/newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/item/gossip-magazine"><span class="wiki-icon">🗞️</span>ゴシップ誌</a> ・ <a href="#/ja/item/love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/item/license"><span class="wiki-icon">🪪</span>免許証</a> ・ <a href="#/ja/item/ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/item/residence-certificate"><span class="wiki-icon">📄</span>住民票</a> ・ <a href="#/ja/item/recipe-book"><span class="wiki-icon">📗</span>今夜のおかず🎶レシピ集</a> ・ <a href="#/ja/item/chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/item/map"><span class="wiki-icon">🗺️</span>古びた地図</a> ・ <a href="#/ja/item/history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/item/bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/item/anatomy-book"><span class="wiki-icon">📕</span>解剖学書</a> ・ <a href="#/ja/item/forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/item/death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/item/dead-sea-scrolls"><span class="wiki-icon">📜</span>死海文書</a> ・ <a href="#/ja/item/catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
+<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">グループ: 本</div><div class="wiki-navbox-body"><a href="#/ja/item/art-book"><img class="wiki-icon" src="assets/icon/021123683021700b.svg" alt="">美術書</a> ・ <a href="#/ja/item/fairy-tale"><img class="wiki-icon" src="assets/icon/2a73cb388e2ccbc6.svg" alt="">グリム童話</a> ・ <a href="#/ja/item/picture-book"><img class="wiki-icon" src="assets/icon/6605540d388ec8a0.svg" alt="">飛び出す絵本</a> ・ <a href="#/ja/item/diploma"><img class="wiki-icon" src="assets/icon/94a89b2e05c03b2e.svg" alt="">卒業証書</a> ・ <a href="#/ja/item/self-help-book"><img class="wiki-icon" src="assets/icon/21f8232e06d4e7d4.svg" alt="">自己啓発本</a> ・ <a href="#/ja/item/novel"><img class="wiki-icon" src="assets/icon/4857aabb594bb68e.svg" alt="">探偵小説</a> ・ <a href="#/ja/item/manga"><img class="wiki-icon" src="assets/icon/4f9202ba1a45ccfe.svg" alt="">不健全図書</a> ・ <a href="#/ja/item/newspaper"><img class="wiki-icon" src="assets/icon/e3d76813e962862a.svg" alt="">新聞</a> ・ <a href="#/ja/item/gossip-magazine"><img class="wiki-icon" src="assets/icon/0e93510ff1bd8896.svg" alt="">ゴシップ誌</a> ・ <a href="#/ja/item/love-letter"><img class="wiki-icon" src="assets/icon/b1669537c188a82a.svg" alt="">ラブレター</a> ・ <a href="#/ja/item/license"><img class="wiki-icon" src="assets/icon/fa30f535bceb5463.svg" alt="">免許証</a> ・ <a href="#/ja/item/ballot"><img class="wiki-icon" src="assets/icon/f4302c4b6d2ea066.svg" alt="">投票用紙</a> ・ <a href="#/ja/item/residence-certificate"><img class="wiki-icon" src="assets/icon/883c2259690905f3.svg" alt="">住民票</a> ・ <a href="#/ja/item/recipe-book"><img class="wiki-icon" src="assets/icon/203cf18168ccf509.svg" alt="">今夜のおかず🎶レシピ集</a> ・ <a href="#/ja/item/chain-letter"><img class="wiki-icon" src="assets/icon/44104702adf5d262.svg" alt="">不幸の手紙</a> ・ <a href="#/ja/item/map"><img class="wiki-icon" src="assets/icon/09edc10616d54887.svg" alt="">古びた地図</a> ・ <a href="#/ja/item/history-book"><img class="wiki-icon" src="assets/icon/8a5bf8c1d38530d0.svg" alt="">歴史書</a> ・ <a href="#/ja/item/bible"><img class="wiki-icon" src="assets/icon/e5916f0ebd6746de.svg" alt="">聖書</a> ・ <a href="#/ja/item/anatomy-book"><img class="wiki-icon" src="assets/icon/9416da3c936f8f06.svg" alt="">解剖学書</a> ・ <a href="#/ja/item/forbidden-book"><img class="wiki-icon" src="assets/icon/456480380a77fe74.svg" alt="">禁書</a> ・ <a href="#/ja/item/death-note"><img class="wiki-icon" src="assets/icon/41db525cc96f00c3.svg" alt="">デスノート</a> ・ <a href="#/ja/item/dead-sea-scrolls"><img class="wiki-icon" src="assets/icon/953d6fffa3d83093.svg" alt="">死海文書</a> ・ <a href="#/ja/item/catcher-in-the-rye"><img class="wiki-icon" src="assets/icon/a58aa0539df303db.svg" alt="">ライ麦畑でつかまえて</a></div></div>
 
 ## 開発者向け情報
 
@@ -60,7 +60,7 @@
 		"icon": {
 			"emoji": "✉️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/44104702adf5d262.svg）"
 		},
 		"color": ""
 	},

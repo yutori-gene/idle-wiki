@@ -1,6 +1,6 @@
 # 蛍石
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">蛍石</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">💠</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>108 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">蛍石</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/1d279d3ebe12c855.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>54 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>108 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 暗闇で優しく光る。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 | 1 | 0.173% | 0.001 | 0.109 |
-| [<span class="wiki-icon">⛩️</span>古い祠の調査](/ja/action/investigate-old-shrine) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv8 | 1 | 17.3% | 0.173 | 0.173 |
+| [<img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ](/ja/action/hydra) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv50 | 1 | 0.173% | 0.001 | 0.108 |
+| [<img class="wiki-icon" src="assets/icon/2674008c6dd247bc.svg" alt="">古い祠の調査](/ja/action/investigate-old-shrine) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv8 | 1 | 17.3% | 0.173 | 0.173 |
 
 ### 購入
 
@@ -24,11 +24,11 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧙</span>魔法使い](/ja/action/wizard) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv17 | 2 | 1.17% |  |
-| [<span class="wiki-icon">✨</span>発光する薬](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv11 | 3 | 100% |  |
-| [<img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv13 | 2 | 100% |  |
-| [<span class="wiki-icon">🔥</span>ファイアフラワー](/ja/action/craft-fire-flower) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv18 | 3 | 100% |  |
-| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/action/bundle-peacock-feather) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv21 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/9b59bed47660853c.svg" alt="">魔法使い](/ja/action/wizard) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv37 | 2 | 1.17% |  |
+| [<img class="wiki-icon" src="assets/icon/dcd9c58488f87e30.svg" alt="">発光する薬](/ja/action/brew-glowing-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv11 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル](/ja/action/brew-ether) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv13 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/d5de3e3b12b404b1.svg" alt="">ファイアフラワー](/ja/action/craft-fire-flower) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv18 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/84692c4ba909a815.svg" alt="">孔雀の羽](/ja/action/bundle-peacock-feather) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv21 | 2 | 100% |  |
 
 ## 解放条件
 
@@ -69,7 +69,7 @@
 		"icon": {
 			"emoji": "💠",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/1d279d3ebe12c855.svg）"
 		},
 		"color": ""
 	},

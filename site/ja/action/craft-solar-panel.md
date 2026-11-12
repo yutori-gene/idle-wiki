@@ -1,14 +1,15 @@
 # ソーラーパネル
 
-<div class="wiki-infobox" style="--accent:#627777"><div class="wiki-infobox-title">ソーラーパネル</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">☀️</span></div><table><tr><th>場所</th><td><a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/assembly"><span class="wiki-icon">🪛</span>組立</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv35</td></tr><tr><th>所要時間</th><td>1日6時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>34,128</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#627777"><div class="wiki-infobox-title">ソーラーパネル</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/bcd195702497dc68.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/workshop"><img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/assembly"><img class="wiki-icon" src="assets/icon/f00d0bdb244c4866.svg" alt="">組立</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>必要Lv</th><td>Lv35</td></tr><tr><th>所要時間</th><td>1日6時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>経験値</th><td>34,128</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 
 **単発**: 1回ずつ進む。100%になったら開封して報酬を受け取る。
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) Lv35以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🔩</span>ソーラーパネルの部品](/ja/item/solar-panel-parts) ×100（消費する）
+- [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) Lv35以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/a0894e475ee26356.svg" alt="">ソーラーパネルの部品](/ja/item/solar-panel-parts) ×100（消費する）
+- [<span class="wiki-icon">🏅</span>北国の証](/ja/item/northland-proof) ×1（消費しない）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -16,7 +17,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">☀️</span>ソーラーパネル](/ja/item/solar-panel) ×1 | 成功時 | 100% | 1 | 0.033 |
+| [<img class="wiki-icon" src="assets/icon/97694fb5cc79e9a2.svg" alt="">ソーラーパネル](/ja/item/solar-panel) ×1 | 成功時 | 100% | 1 | 0.033 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -25,9 +26,9 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv35） | 1日6時間 | 100% | 34,128 | 0 | 33 |
-| +10（Lv45） | 1日 | 100% | 22,752 | 0 | 9 |
+| +10（Lv45） | 1日 | 100% | 18,576.93 | 0 | 8 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -37,7 +38,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">作業部屋のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/craft-ruining-cushion-parts"><span class="wiki-icon">🔩</span>人をダメにするクッションの部品</a> ・ <a href="#/ja/action/craft-rabbit-hutch-parts"><span class="wiki-icon">🔩</span>ウサギ小屋の部品</a> ・ <a href="#/ja/action/craft-bookshelf-parts"><span class="wiki-icon">🔩</span>本棚の部品</a> ・ <a href="#/ja/action/craft-well-parts"><span class="wiki-icon">🔩</span>井戸の部品</a> ・ <a href="#/ja/action/assemble-lawn-mower-parts"><span class="wiki-icon">🔩</span>芝刈り機の部品</a> ・ <a href="#/ja/action/craft-oven-parts"><span class="wiki-icon">🔩</span>オーブンの部品</a> ・ <a href="#/ja/action/craft-dog-house-parts"><span class="wiki-icon">🔩</span>イヌ小屋の部品</a> ・ <a href="#/ja/action/craft-weather-box-parts"><span class="wiki-icon">🔩</span>百葉箱の部品</a> ・ <a href="#/ja/action/craft-refrigerator-parts"><span class="wiki-icon">🔩</span>冷蔵庫の部品</a> ・ <a href="#/ja/action/craft-solar-panel-parts"><span class="wiki-icon">🔩</span>ソーラーパネルの部品</a> ・ <a href="#/ja/action/craft-generator-parts"><span class="wiki-icon">🔩</span>発電機の部品</a> ・ <a href="#/ja/action/craft-hamster-wheel-parts"><span class="wiki-icon">🔩</span>ハムスターの回車の部品</a> ・ <a href="#/ja/action/craft-stove-parts"><span class="wiki-icon">🔩</span>かまどの部品</a> ・ <a href="#/ja/action/craft-fireplace-parts"><span class="wiki-icon">🔩</span>暖炉の部品</a> ・ <a href="#/ja/action/craft-ruining-cushion"><span class="wiki-icon">🛋️</span>人をダメにするクッション</a> ・ <a href="#/ja/action/craft-rabbit-hutch"><span class="wiki-icon">🐇</span>ウサギ小屋</a> ・ <a href="#/ja/action/craft-bookshelf"><span class="wiki-icon">📚</span>本棚</a> ・ <a href="#/ja/action/craft-well"><span class="wiki-icon">🪣</span>井戸</a> ・ <a href="#/ja/action/assemble-lawn-mower"><span class="wiki-icon">🌾</span>芝刈り機</a> ・ <a href="#/ja/action/craft-oven"><span class="wiki-icon">🍞</span>オーブン</a> ・ <a href="#/ja/action/craft-dog-house"><span class="wiki-icon">🐕</span>イヌ小屋</a> ・ <a href="#/ja/action/craft-weather-box"><span class="wiki-icon">🌡️</span>百葉箱</a> ・ <a href="#/ja/action/craft-refrigerator"><span class="wiki-icon">🧊</span>冷蔵庫</a> ・ <a href="#/ja/action/craft-solar-panel"><span class="wiki-icon">☀️</span>ソーラーパネル</a> ・ <a href="#/ja/action/craft-generator"><span class="wiki-icon">🔌</span>発電機</a> ・ <a href="#/ja/action/craft-hamster-wheel"><span class="wiki-icon">🐹</span>ハムスターの回車</a> ・ <a href="#/ja/action/craft-stove"><span class="wiki-icon">🔥</span>かまど</a> ・ <a href="#/ja/action/craft-fireplace"><span class="wiki-icon">🔥</span>暖炉</a></div></div>
+<div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">作業部屋のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/craft-ruining-cushion-parts"><img class="wiki-icon" src="assets/icon/62ec59ef24150f3f.svg" alt="">人をダメにするクッションの部品</a> ・ <a href="#/ja/action/craft-rabbit-hutch-parts"><img class="wiki-icon" src="assets/icon/23edfa4675c19fe4.svg" alt="">ウサギ小屋の部品</a> ・ <a href="#/ja/action/craft-bookshelf-parts"><img class="wiki-icon" src="assets/icon/3150d1aa1b70a020.svg" alt="">本棚の部品</a> ・ <a href="#/ja/action/craft-well-parts"><img class="wiki-icon" src="assets/icon/d20e9576e4413495.svg" alt="">井戸の部品</a> ・ <a href="#/ja/action/assemble-lawn-mower-parts"><img class="wiki-icon" src="assets/icon/8173da749d7a3dca.svg" alt="">芝刈り機の部品</a> ・ <a href="#/ja/action/craft-oven-parts"><img class="wiki-icon" src="assets/icon/552f45ee7971103d.svg" alt="">オーブンの部品</a> ・ <a href="#/ja/action/craft-dog-house-parts"><img class="wiki-icon" src="assets/icon/957ae06f3cd80af7.svg" alt="">イヌ小屋の部品</a> ・ <a href="#/ja/action/craft-weather-box-parts"><img class="wiki-icon" src="assets/icon/906d33c5da4359d9.svg" alt="">百葉箱の部品</a> ・ <a href="#/ja/action/craft-refrigerator-parts"><img class="wiki-icon" src="assets/icon/4cae3568b1c47521.svg" alt="">冷蔵庫の部品</a> ・ <a href="#/ja/action/craft-solar-panel-parts"><img class="wiki-icon" src="assets/icon/8f2c721187701b2f.svg" alt="">ソーラーパネルの部品</a> ・ <a href="#/ja/action/craft-generator-parts"><img class="wiki-icon" src="assets/icon/919ca0ee4fca874c.svg" alt="">発電機の部品</a> ・ <a href="#/ja/action/craft-hamster-wheel-parts"><img class="wiki-icon" src="assets/icon/bbbafcec10021a77.svg" alt="">ハムスターの回車の部品</a> ・ <a href="#/ja/action/craft-stove-parts"><img class="wiki-icon" src="assets/icon/65a7f5bbe532a85a.svg" alt="">かまどの部品</a> ・ <a href="#/ja/action/craft-fireplace-parts"><img class="wiki-icon" src="assets/icon/7bba33eaf6c04245.svg" alt="">暖炉の部品</a> ・ <a href="#/ja/action/craft-ruining-cushion"><img class="wiki-icon" src="assets/icon/7ea82e1a5d3390cd.svg" alt="">人をダメにするクッション</a> ・ <a href="#/ja/action/craft-rabbit-hutch"><img class="wiki-icon" src="assets/icon/e23f33a0c0afe5ed.svg" alt="">ウサギ小屋</a> ・ <a href="#/ja/action/craft-bookshelf"><img class="wiki-icon" src="assets/icon/0189883d1cf409ea.svg" alt="">本棚</a> ・ <a href="#/ja/action/craft-well"><img class="wiki-icon" src="assets/icon/6e80c20590139b93.svg" alt="">井戸</a> ・ <a href="#/ja/action/assemble-lawn-mower"><img class="wiki-icon" src="assets/icon/de80af40d0fb281c.svg" alt="">芝刈り機</a> ・ <a href="#/ja/action/craft-oven"><img class="wiki-icon" src="assets/icon/4f49f0cccce3e302.svg" alt="">オーブン</a> ・ <a href="#/ja/action/craft-dog-house"><img class="wiki-icon" src="assets/icon/258ca4bb4e6893e8.svg" alt="">イヌ小屋</a> ・ <a href="#/ja/action/craft-weather-box"><img class="wiki-icon" src="assets/icon/fc32cbc2df3e14ab.svg" alt="">百葉箱</a> ・ <a href="#/ja/action/craft-refrigerator"><img class="wiki-icon" src="assets/icon/0b00332bf09aa47d.svg" alt="">冷蔵庫</a> ・ <a href="#/ja/action/craft-solar-panel"><img class="wiki-icon" src="assets/icon/bcd195702497dc68.svg" alt="">ソーラーパネル</a> ・ <a href="#/ja/action/craft-generator"><img class="wiki-icon" src="assets/icon/957c9addf94d0ba1.svg" alt="">発電機</a> ・ <a href="#/ja/action/craft-hamster-wheel"><img class="wiki-icon" src="assets/icon/1ad1a797e13f837c.svg" alt="">ハムスターの回車</a> ・ <a href="#/ja/action/craft-stove"><img class="wiki-icon" src="assets/icon/688d3d49680af6ed.svg" alt="">かまど</a> ・ <a href="#/ja/action/craft-fireplace"><img class="wiki-icon" src="assets/icon/dd89e0ab02b4da83.svg" alt="">暖炉</a></div></div>
 
 ## 開発者向け情報
 
@@ -45,10 +46,11 @@
 | --- | --- |
 | id | `craft-solar-panel` |
 | `category` | `workshop` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `assembly` |
 | `unlocked` | `hidden` |
 | `level` | `35` |
+| `disciplineLevel` | `0` |
 | `experience` | `34128` |
 | `seconds` | `108000` |
 | `chance` | `1` |
@@ -69,15 +71,16 @@
 		"icon": {
 			"emoji": "☀️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/bcd195702497dc68.svg）"
 		},
 		"color": ""
 	},
 	"category": "workshop",
-	"attribute": "",
+	"discipline": "",
 	"group": "assembly",
 	"unlocked": "hidden",
 	"level": 35,
+	"disciplineLevel": 0,
 	"experience": 34128,
 	"seconds": 108000,
 	"chance": 1,
@@ -88,6 +91,13 @@
 			"id": "solar-panel-parts",
 			"count": 100,
 			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "northland-proof",
+			"count": 1,
+			"chance": 0,
 			"equipment": false
 		}
 	],

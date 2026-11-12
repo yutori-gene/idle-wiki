@@ -1,6 +1,6 @@
 # 息継ぎ
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">息継ぎ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌬️</span></div><table><tr><th>発動率</th><td>8%／ターン</td></tr><tr><th>効果</th><td>回復+6</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">息継ぎ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/1c625f4c17663d66.svg" alt=""></div><table><tr><th>発動率</th><td>8%／ターン</td></tr><tr><th>効果</th><td>回復+6</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 投げ続けるコツは、休み方にある。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv22 |
-| [<span class="wiki-icon">🐉</span>ファイアドレイク](/ja/action/fire-drake) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv36 |
+| [<img class="wiki-icon" src="assets/icon/bcb019bf5c706cb3.svg" alt="">マーメイド](/ja/action/mermaid) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/c52037117c465fd7.svg" alt="">ファイアドレイク](/ja/action/fire-drake) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv32 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🪢</span>愛の鞭](/ja/item/whip-of-love) | [<span class="wiki-icon">🏹</span>射出装置](/ja/group/launcher) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/1d0a76a1fdd49640.svg" alt="">愛の鞭](/ja/item/whip-of-love) | [<img class="wiki-icon" src="assets/icon/b36df1ddeb26deea.svg" alt="">射出装置](/ja/group/launcher) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🌬️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/1c625f4c17663d66.svg）"
 		},
 		"color": ""
 	},

@@ -1,6 +1,6 @@
 # 目潰し
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">目潰し</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">😵</span></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>攻撃-7・精度+12</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">目潰し</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/d98c4c8490aa35dd.svg" alt=""></div><table><tr><th>発動率</th><td>5%／ターン</td></tr><tr><th>効果</th><td>攻撃-7・精度+12</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 見えない相手は、当たらない。お互いに。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 |
+| [<img class="wiki-icon" src="assets/icon/89c610e4308f7183.svg" alt="">監視カメラの群れ](/ja/action/camera-swarm) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv34 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🏷️</span>幽霊退治の札](/ja/item/ghost-ward) | [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/318141aa34dd7285.svg" alt="">幽霊退治の札](/ja/item/ghost-ward) | [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "😵",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/d98c4c8490aa35dd.svg）"
 		},
 		"color": ""
 	},

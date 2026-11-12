@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧙</span>シャーマン](/ja/action/shaman) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 |
-| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv31 |
+| [<img class="wiki-icon" src="assets/icon/2dab731f5693bdc8.svg" alt="">シャーマン](/ja/action/shaman) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv19 |
+| [<img class="wiki-icon" src="assets/icon/89c610e4308f7183.svg" alt="">監視カメラの群れ](/ja/action/camera-swarm) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv34 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">👁️</span>ニュータイプ](/ja/item/newtype) | [<span class="wiki-icon">✨</span>能力](/ja/group/ability) | 装備不要 |
+| [<img class="wiki-icon" src="assets/icon/f67c0db7729bfca4.svg" alt="">ニュータイプ](/ja/item/newtype) | [<img class="wiki-icon" src="assets/icon/7c7dbb617148ad3b.svg" alt="">能力](/ja/group/ability) | 装備不要 |
 
 ## 開発者向け情報
 

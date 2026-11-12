@@ -1,6 +1,6 @@
 # チラシ
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">チラシ</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📄</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">チラシ</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/d28a1a24f08f63d3.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>3 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>6 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション・購入</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > ポストに溢れる情報の山。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🗑️</span>ゴミ箱あさり](/ja/action/rummage-trash-can) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv5 | 7 | 91% | 3.2 | 382 |
-| [<span class="wiki-icon">🧙</span>シャーマン](/ja/action/shaman) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | Lv15 | 1 | 3.27% | 0.016 | 1.9 |
+| [<img class="wiki-icon" src="assets/icon/ba7eb340243f6cda.svg" alt="">ゴミ箱あさり](/ja/action/rummage-trash-can) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv5 | 7 | 91% | 3.2 | 382 |
+| [<img class="wiki-icon" src="assets/icon/2dab731f5693bdc8.svg" alt="">シャーマン](/ja/action/shaman) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | Lv19 | 1 | 3.27% | 0.016 | 1.8 |
 
 ### 購入
 
@@ -24,19 +24,19 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎉</span>パーティークラッカー](/ja/action/craft-party-popper) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv17 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/d613eeab3fbed01a.svg" alt="">パーティークラッカー](/ja/action/craft-party-popper) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv17 | 3 | 100% |  |
 
 ### 条件にしているもの
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">📄</span>謎のチラシ](/ja/event/mysterious-flyer) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">📄</span>チラシ](/ja/item/flyer) ×3 |
+| [<img class="wiki-icon" src="assets/icon/c134e17a5e1a7ab3.svg" alt="">謎のチラシ](/ja/event/mysterious-flyer) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/d28a1a24f08f63d3.svg" alt="">チラシ](/ja/item/flyer) ×3 |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる（購入もできるようになる）。
 
-- [<span class="wiki-icon">💣</span>爆発武器](/ja/category/explosive-weapon) Lv15以上
+- [<img class="wiki-icon" src="assets/icon/354851e7b6da8b2e.svg" alt="">爆発武器](/ja/category/explosive-weapon) Lv15以上
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -71,7 +71,7 @@
 		"icon": {
 			"emoji": "📄",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/d28a1a24f08f63d3.svg）"
 		},
 		"color": ""
 	},

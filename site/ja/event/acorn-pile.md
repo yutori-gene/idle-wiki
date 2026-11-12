@@ -1,6 +1,6 @@
 # どんぐりの小山
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">どんぐりの小山</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌰</span></div><table><tr><th>タイミング</th><td>条件達成（タスク）</td></tr><tr><th>グループ</th><td><a href="#/ja/group/request"><span class="wiki-icon">📋</span>依頼</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">どんぐりの小山</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/fc4167cd3086e392.svg" alt=""></div><table><tr><th>タイミング</th><td>条件達成（タスク）</td></tr><tr><th>グループ</th><td><a href="#/ja/group/request"><img class="wiki-icon" src="assets/icon/09c85630a7f583a2.svg" alt="">依頼</a></td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 
 ## 発生条件
@@ -11,10 +11,10 @@
 
 ## 報酬
 
-- [<span class="wiki-icon">💊</span>キズ薬](/ja/item/wound-medicine) ×3
+- [<img class="wiki-icon" src="assets/icon/2796f130e39f252a.svg" alt="">キズ薬](/ja/item/wound-medicine) ×3
 - [<img class="wiki-icon" src="assets/icon/a124f32c43131da0.svg" alt="">タンポポ](/ja/item/dandelion) ×5
 
-<div class="wiki-navbox" style="--accent:#b8862b"><div class="wiki-navbox-title">依頼</div><div class="wiki-navbox-body"><a href="#/ja/event/acorn-pile"><span class="wiki-icon">🌰</span>どんぐりの小山</a> ・ <a href="#/ja/event/lost-bird"><span class="wiki-icon">🐦</span>迷子の小鳥</a> ・ <a href="#/ja/event/alley-merchant"><span class="wiki-icon">🧙</span>路地裏の商人</a> ・ <a href="#/ja/event/mushroom-master"><span class="wiki-icon">🍄</span>きのこ採り名人</a> ・ <a href="#/ja/event/lost-path"><span class="wiki-icon">🧭</span>迷い道</a> ・ <a href="#/ja/event/mysterious-flyer"><span class="wiki-icon">📄</span>謎のチラシ</a> ・ <a href="#/ja/event/knight-training"><span class="wiki-icon">🛡️</span>騎士の修練</a> ・ <a href="#/ja/event/drifted-bottle"><span class="wiki-icon">🍾</span>漂着ボトル</a> ・ <a href="#/ja/event/fisherman-help"><span class="wiki-icon">🎣</span>漁師の手伝い</a> ・ <a href="#/ja/event/snowman-making"><span class="wiki-icon">⛄</span>雪だるま作り</a> ・ <a href="#/ja/event/herb-gift"><span class="wiki-icon">🌿</span>薬草の贈り物</a> ・ <a href="#/ja/event/screw-pickup"><span class="wiki-icon">🔩</span>ネジ拾い</a> ・ <a href="#/ja/event/broken-robot"><span class="wiki-icon">🤖</span>壊れたロボ</a> ・ <a href="#/ja/event/miner-feast"><span class="wiki-icon">⛏️</span>鉱夫の酒盛り</a> ・ <a href="#/ja/event/lost-fire-dragon"><span class="wiki-icon">🐉</span>迷子の火竜</a> ・ <a href="#/ja/event/cook-in-trouble"><span class="wiki-icon">🍳</span>料理番の窮地</a> ・ <a href="#/ja/event/undead-plea"><span class="wiki-icon">👻</span>亡者の嘆願</a> ・ <a href="#/ja/event/flame-trial"><span class="wiki-icon">🔥</span>火焔の試練</a> ・ <a href="#/ja/event/angel-song"><span class="wiki-icon">😇</span>天使の歌</a> ・ <a href="#/ja/event/priest-blessing"><span class="wiki-icon">🙏</span>神官の祝福</a></div></div>
+<div class="wiki-navbox" style="--accent:#b8862b"><div class="wiki-navbox-title">依頼</div><div class="wiki-navbox-body"><a href="#/ja/event/acorn-pile"><img class="wiki-icon" src="assets/icon/fc4167cd3086e392.svg" alt="">どんぐりの小山</a> ・ <a href="#/ja/event/lost-bird"><img class="wiki-icon" src="assets/icon/b9d09caf0d4d2df0.svg" alt="">迷子の小鳥</a> ・ <a href="#/ja/event/alley-merchant"><img class="wiki-icon" src="assets/icon/a66d648222854cb8.svg" alt="">路地裏の商人</a> ・ <a href="#/ja/event/mushroom-master"><img class="wiki-icon" src="assets/icon/cdf61d35ef60ef37.svg" alt="">きのこ採り名人</a> ・ <a href="#/ja/event/lost-path"><img class="wiki-icon" src="assets/icon/1b3dd0e8517f55c6.svg" alt="">迷い道</a> ・ <a href="#/ja/event/mysterious-flyer"><img class="wiki-icon" src="assets/icon/c134e17a5e1a7ab3.svg" alt="">謎のチラシ</a> ・ <a href="#/ja/event/knight-training"><img class="wiki-icon" src="assets/icon/810244f1b2027851.svg" alt="">騎士の修練</a> ・ <a href="#/ja/event/drifted-bottle"><img class="wiki-icon" src="assets/icon/7bd000fdbc80d20f.svg" alt="">漂着ボトル</a> ・ <a href="#/ja/event/fisherman-help"><img class="wiki-icon" src="assets/icon/2f072622be6d1927.svg" alt="">漁師の手伝い</a> ・ <a href="#/ja/event/snowman-making"><img class="wiki-icon" src="assets/icon/ecdc71e4b0d16771.svg" alt="">雪だるま作り</a> ・ <a href="#/ja/event/herb-gift"><img class="wiki-icon" src="assets/icon/0031996b49f69cc8.svg" alt="">薬草の贈り物</a> ・ <a href="#/ja/event/screw-pickup"><img class="wiki-icon" src="assets/icon/23e527da1aaaf52f.svg" alt="">ネジ拾い</a> ・ <a href="#/ja/event/broken-robot"><img class="wiki-icon" src="assets/icon/b5fe4abd5e9acbbb.svg" alt="">壊れたロボ</a> ・ <a href="#/ja/event/miner-feast"><img class="wiki-icon" src="assets/icon/664e91fb2b2f39f1.svg" alt="">鉱夫の酒盛り</a> ・ <a href="#/ja/event/lost-fire-dragon"><img class="wiki-icon" src="assets/icon/9037a275bf3995c6.svg" alt="">迷子の火竜</a> ・ <a href="#/ja/event/cook-in-trouble"><img class="wiki-icon" src="assets/icon/412b321b3a9d7855.svg" alt="">料理番の窮地</a> ・ <a href="#/ja/event/undead-plea"><img class="wiki-icon" src="assets/icon/2faa65b6f0700b4e.svg" alt="">亡者の嘆願</a> ・ <a href="#/ja/event/flame-trial"><img class="wiki-icon" src="assets/icon/4e8408d31f1b9b3d.svg" alt="">火焔の試練</a> ・ <a href="#/ja/event/angel-song"><img class="wiki-icon" src="assets/icon/d785aef787873585.svg" alt="">天使の歌</a> ・ <a href="#/ja/event/priest-blessing"><img class="wiki-icon" src="assets/icon/008b32cd84c8025f.svg" alt="">神官の祝福</a></div></div>
 
 ## 開発者向け情報
 
@@ -41,7 +41,7 @@
 		"icon": {
 			"emoji": "🌰",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/fc4167cd3086e392.svg）"
 		},
 		"color": ""
 	},

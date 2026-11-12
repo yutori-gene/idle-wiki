@@ -7,36 +7,36 @@
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍬</span>飴](/ja/action/cook-candy) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv1 | 連続 |
-| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/action/cook-potion-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv5 | 連続 |
-| [<span class="wiki-icon">🥧</span>パイ](/ja/action/cook-pie) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv7 | 連続 |
-| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 連続 |
-| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/action/cook-escargot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv16 | 連続 |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/action/cook-meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv20 | 連続 |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv27 | 連続 |
-| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv31 | 連続 |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/action/cook-grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv35 | 連続 |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/action/cook-burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv39 | 連続 |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/action/cook-beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv42 | 連続 |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/action/cook-bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv46 | 連続 |
-| [<span class="wiki-icon">🫘</span>仙豆](/ja/action/cook-senzu-bean) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv50 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/d705d18d6a8d6d56.svg" alt="">飴](/ja/action/cook-candy) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv1 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/bb0690fba55e4b09.svg" alt="">ポーション入りパン](/ja/action/cook-potion-bread) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv5 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/1a1e2d297dfb9467.svg" alt="">パイ](/ja/action/cook-pie) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv7 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/c20f336bc0326fd4.svg" alt="">焼き鳥](/ja/action/cook-yakitori) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv12 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/06e9295ca54210aa.svg" alt="">エスカルゴ](/ja/action/cook-escargot) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv16 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/72835b4d8277feea.svg" alt="">肉まん](/ja/action/cook-meat-bun) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv20 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/0bdf96a03145f595.svg" alt="">野菜炒め](/ja/action/cook-stir-fried-vegetables) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv27 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/f143fb3a738275de.svg" alt="">肉まんのトマト煮](/ja/action/cook-meat-bun-tomato-stew) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv31 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/6654e1e43e207c3e.svg" alt="">焼き魚](/ja/action/cook-grilled-fish) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv35 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/bc150632bd6fb7c2.svg" alt="">燃える豆腐](/ja/action/cook-burning-tofu) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv39 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/b8aa2375e25d203e.svg" alt="">ビーフジャーキー](/ja/action/cook-beef-jerky) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv42 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/f74c0058f665269e.svg" alt="">苦い団子](/ja/action/cook-bitter-dango) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv46 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/b6756167a723a668.svg" alt="">仙豆](/ja/action/cook-senzu-bean) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv50 | 連続 |
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍬</span>飴](/ja/item/candy) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 6 |
-| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/item/potion-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 243 |
-| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 12 |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 36 |
-| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/item/escargot) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 324 |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/item/stir-fried-vegetables) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 15 |
-| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/item/meat-bun-tomato-stew) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 135 |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/item/grilled-fish) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 54 |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/item/beef-jerky) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 63 |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/item/burning-tofu) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 1,701 |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 270 |
-| [<span class="wiki-icon">🫘</span>仙豆](/ja/item/senzu-bean) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | 消費装備 | 65,610 |
+| [<img class="wiki-icon" src="assets/icon/7eb650ff72959a00.svg" alt="">飴](/ja/item/candy) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 6 |
+| [<img class="wiki-icon" src="assets/icon/1d107e82420b8d01.svg" alt="">ポーション入りパン](/ja/item/potion-bread) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 243 |
+| [<img class="wiki-icon" src="assets/icon/70178607c66d65c8.svg" alt="">焼き鳥](/ja/item/yakitori) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 12 |
+| [<img class="wiki-icon" src="assets/icon/70e4c00e86e8753d.svg" alt="">肉まん](/ja/item/meat-bun) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 36 |
+| [<img class="wiki-icon" src="assets/icon/ad8655117bfe735d.svg" alt="">エスカルゴ](/ja/item/escargot) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 324 |
+| [<img class="wiki-icon" src="assets/icon/898a81f104905e75.svg" alt="">野菜炒め](/ja/item/stir-fried-vegetables) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 15 |
+| [<img class="wiki-icon" src="assets/icon/15a7cdde805bcd89.svg" alt="">肉まんのトマト煮](/ja/item/meat-bun-tomato-stew) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 135 |
+| [<img class="wiki-icon" src="assets/icon/84f52bc88a85b710.svg" alt="">焼き魚](/ja/item/grilled-fish) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 54 |
+| [<img class="wiki-icon" src="assets/icon/a9943803d58323b3.svg" alt="">ビーフジャーキー](/ja/item/beef-jerky) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 63 |
+| [<img class="wiki-icon" src="assets/icon/d9438bda1281d7d1.svg" alt="">燃える豆腐](/ja/item/burning-tofu) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 1,701 |
+| [<img class="wiki-icon" src="assets/icon/26d9a17ce8eaa053.svg" alt="">苦い団子](/ja/item/bitter-dango) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 270 |
+| [<img class="wiki-icon" src="assets/icon/56863dd5aea8628b.svg" alt="">仙豆](/ja/item/senzu-bean) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | 消費装備 | 65,610 |
 
 ## 開発者向け情報
 

@@ -1,6 +1,6 @@
 # 焼き鳥
 
-<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">焼き鳥</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍗</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><span class="wiki-icon">🍳</span>台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cooking"><img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9b7d61"><div class="wiki-infobox-title">焼き鳥</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/70178607c66d65c8.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/kitchen"><img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/cooking"><img class="wiki-icon" src="assets/icon/6a5801445eb083cc.svg" alt="">料理</a></td></tr><tr><th>装備</th><td>消費装備</td></tr><tr><th>消費率</th><td>100%</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 上を向いて歩こう。
 
@@ -19,15 +19,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/action/cook-yakitori) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv12 | 234 | 100% | 152 | 2,282 |
+| [<img class="wiki-icon" src="assets/icon/c20f336bc0326fd4.svg" alt="">焼き鳥](/ja/action/cook-yakitori) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv12 | 234 | 100% | 152 | 2,282 |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) Lv12以上
+- [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) Lv12以上
 
-<div class="wiki-navbox" style="--accent:#9b7d61"><div class="wiki-navbox-title">グループ: 料理</div><div class="wiki-navbox-body"><a href="#/ja/item/candy"><span class="wiki-icon">🍬</span>飴</a> ・ <a href="#/ja/item/potion-bread"><span class="wiki-icon">🍞</span>ポーション入りパン</a> ・ <a href="#/ja/item/yakitori"><span class="wiki-icon">🍗</span>焼き鳥</a> ・ <a href="#/ja/item/meat-bun"><span class="wiki-icon">🥟</span>肉まん</a> ・ <a href="#/ja/item/escargot"><span class="wiki-icon">🐌</span>エスカルゴ</a> ・ <a href="#/ja/item/stir-fried-vegetables"><span class="wiki-icon">🥘</span>野菜炒め</a> ・ <a href="#/ja/item/meat-bun-tomato-stew"><span class="wiki-icon">🥟</span>肉まんのトマト煮</a> ・ <a href="#/ja/item/grilled-fish"><span class="wiki-icon">🐟</span>焼き魚</a> ・ <a href="#/ja/item/beef-jerky"><span class="wiki-icon">🥩</span>ビーフジャーキー</a> ・ <a href="#/ja/item/burning-tofu"><span class="wiki-icon">🔥</span>燃える豆腐</a> ・ <a href="#/ja/item/bitter-dango"><span class="wiki-icon">🍡</span>苦い団子</a> ・ <a href="#/ja/item/senzu-bean"><span class="wiki-icon">🫘</span>仙豆</a></div></div>
+<div class="wiki-navbox" style="--accent:#9b7d61"><div class="wiki-navbox-title">グループ: 料理</div><div class="wiki-navbox-body"><a href="#/ja/item/candy"><img class="wiki-icon" src="assets/icon/7eb650ff72959a00.svg" alt="">飴</a> ・ <a href="#/ja/item/potion-bread"><img class="wiki-icon" src="assets/icon/1d107e82420b8d01.svg" alt="">ポーション入りパン</a> ・ <a href="#/ja/item/yakitori"><img class="wiki-icon" src="assets/icon/70178607c66d65c8.svg" alt="">焼き鳥</a> ・ <a href="#/ja/item/meat-bun"><img class="wiki-icon" src="assets/icon/70e4c00e86e8753d.svg" alt="">肉まん</a> ・ <a href="#/ja/item/escargot"><img class="wiki-icon" src="assets/icon/ad8655117bfe735d.svg" alt="">エスカルゴ</a> ・ <a href="#/ja/item/stir-fried-vegetables"><img class="wiki-icon" src="assets/icon/898a81f104905e75.svg" alt="">野菜炒め</a> ・ <a href="#/ja/item/meat-bun-tomato-stew"><img class="wiki-icon" src="assets/icon/15a7cdde805bcd89.svg" alt="">肉まんのトマト煮</a> ・ <a href="#/ja/item/grilled-fish"><img class="wiki-icon" src="assets/icon/84f52bc88a85b710.svg" alt="">焼き魚</a> ・ <a href="#/ja/item/beef-jerky"><img class="wiki-icon" src="assets/icon/a9943803d58323b3.svg" alt="">ビーフジャーキー</a> ・ <a href="#/ja/item/burning-tofu"><img class="wiki-icon" src="assets/icon/d9438bda1281d7d1.svg" alt="">燃える豆腐</a> ・ <a href="#/ja/item/bitter-dango"><img class="wiki-icon" src="assets/icon/26d9a17ce8eaa053.svg" alt="">苦い団子</a> ・ <a href="#/ja/item/senzu-bean"><img class="wiki-icon" src="assets/icon/56863dd5aea8628b.svg" alt="">仙豆</a></div></div>
 
 ## 開発者向け情報
 
@@ -60,7 +60,7 @@
 		"icon": {
 			"emoji": "🍗",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/70178607c66d65c8.svg）"
 		},
 		"color": ""
 	},

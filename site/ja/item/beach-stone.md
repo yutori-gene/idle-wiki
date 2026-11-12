@@ -1,6 +1,6 @@
 # 砂浜の石
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">砂浜の石</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🪨</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>4 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">砂浜の石</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c52783f803c63c13.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>4 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 波に削られた滑らかさ。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐚</span>浜辺の貝拾い](/ja/action/beach-shell-gathering) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv5 | 5 | 56% | 1.4 | 126 |
-| [<span class="wiki-icon">🗼</span>灯台守の小屋](/ja/action/lighthouse-keeper-hut) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv30 | 3 | 53% | 1.6 | 0.795 |
+| [<img class="wiki-icon" src="assets/icon/3a285c0be3547be2.svg" alt="">浜辺の貝拾い](/ja/action/beach-shell-gathering) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv5 | 5 | 56% | 1.4 | 126 |
+| [<img class="wiki-icon" src="assets/icon/9e6ea89fa2931b2a.svg" alt="">灯台守の小屋](/ja/action/lighthouse-keeper-hut) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv30 | 3 | 53% | 1.6 | 0.795 |
 
 ## 用途
 
@@ -20,13 +20,13 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🩹</span>腹巻き](/ja/action/craft-belly-warmer) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 5 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/6787e87d31c96902.svg" alt="">腹巻き](/ja/action/craft-belly-warmer) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 5 | 100% |  |
 
 ### 条件にしているもの
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🍾</span>漂着ボトル](/ja/event/drifted-bottle) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🪨</span>砂浜の石](/ja/item/beach-stone) ×10 |
+| [<img class="wiki-icon" src="assets/icon/7bd000fdbc80d20f.svg" alt="">漂着ボトル](/ja/event/drifted-bottle) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/c52783f803c63c13.svg" alt="">砂浜の石](/ja/item/beach-stone) ×10 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -61,7 +61,7 @@
 		"icon": {
 			"emoji": "🪨",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/c52783f803c63c13.svg）"
 		},
 		"color": ""
 	},

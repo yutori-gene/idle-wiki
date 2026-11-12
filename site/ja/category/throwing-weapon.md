@@ -1,6 +1,6 @@
 # 投擲武器
 
-<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">投擲武器</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎯</span></div><table><tr><th>グループ</th><td><a href="#/ja/group/equipment"><span class="wiki-icon">🛠️</span>装備管理</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>0本</td></tr><tr><th>管理アイテム</th><td>24種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">投擲武器</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/f64249c8966f492b.svg" alt=""></div><table><tr><th>グループ</th><td><a href="#/ja/group/equipment"><img class="wiki-icon" src="assets/icon/5151dbe09bd7b939.svg" alt="">装備管理</a></td></tr><tr><th>レベル</th><td>Lv1〜50</td></tr><tr><th>同時進行</th><td>共通の作業予定で順番に進む</td></tr><tr><th>アクション</th><td>0本</td></tr><tr><th>管理アイテム</th><td>24種</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 **装備管理型**のカテゴリ（武器）。投擲武器の合成・分解と装備をする。弾（消費装備）と射出装置の2枠。投擲武器を使う討伐の経験値はここに入る。**手数型**で、精度・速度が高い。
 
@@ -11,41 +11,43 @@
 
 次をすべて満たすと解放される。
 
-- [<span class="wiki-icon">🌲</span>森](/ja/category/forest) Lv11以上
+- [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) Lv11以上
 
-## よそのカテゴリから経験値が入るアクション
+## これを系統にしているアクション
 
 <div class="wiki-filter"></div>
 
 | アクション | 場所 | グループ | 進行 | 必要Lv | 時間 | 成功率 | 経験値%/時 | 消費物 | 取得物 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🐰</span>ラビットガール](/ja/action/rabbit-girl) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv1 | 1.1秒 | 50% | 99 | [<span class="wiki-icon">🥕</span>ニンジン](/ja/item/carrot) (0.917%) | [<span class="wiki-icon">🦋</span>チョウ](/ja/item/butterfly) (0.143%)、[<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) (0.013%) |
-| [<img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン](/ja/action/goblin) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.3秒 | 50% | 35 | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×5 (1.08%) | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (8.67%)、[<span class="wiki-icon">🔋</span>乾電池](/ja/item/dry-cell) (6.07%)、[<span class="wiki-icon">🥖</span>フランスパン](/ja/item/baguette) (1.04%) |
-| [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv16 | 1.1秒 | 50% | 13 |  | [<span class="wiki-icon">📎</span>クリップ](/ja/item/paper-clip) (6.11%)、[<img class="wiki-icon" src="assets/icon/47721c74865bab5f.svg" alt="">紙](/ja/item/paper) (3.42%)、[<span class="wiki-icon">🌀</span>都市伝説の欠片](/ja/item/urban-legend-fragment) (0.002%) |
-| [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief) | [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv17 | 1秒 | 50% | 12 | [<img class="wiki-icon" src="assets/icon/5824a7cabeddd7b5.svg" alt="">ロープ](/ja/item/rope)×3 (0.556%) | [<span class="wiki-icon">📎</span>クリップ](/ja/item/paper-clip) (3.11%)、[<img class="wiki-icon" src="assets/icon/47721c74865bab5f.svg" alt="">紙](/ja/item/paper) (3.11%)、[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.077%)、[<span class="wiki-icon">🗝️</span>都市伝説の鍵](/ja/item/urban-legend-key) (0.028%) |
-| [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv20 | 1.7秒 | 50% | 5 |  | [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.68%)、[<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) (0.68%)、[<span class="wiki-icon">⭐</span>海星](/ja/item/starfish) (0.159%) |
-| [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv22 | 1.5秒 | 50% | 4 |  | [<span class="wiki-icon">🪸</span>サンゴ](/ja/item/coral) (0.72%)、[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.086%) |
-| [<span class="wiki-icon">🦅</span>グリフィン](/ja/action/griffin) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 1.5秒 | 50% | 0 | [<span class="wiki-icon">🥩</span>生肉](/ja/item/raw-meat) (0.5%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (5%)、[<span class="wiki-icon">🦊</span>銀狐の尾](/ja/item/silver-fox-tail) (0.576%)、[<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) (0.48%)、[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.043%)、[<span class="wiki-icon">🌌</span>オーロラの欠片](/ja/item/aurora-fragment) (0.182%) |
-| [<span class="wiki-icon">🐦‍🔥</span>フェニックス](/ja/action/phoenix) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv23 | 1.4秒 | 50% | 0 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (3.14%)、[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.04%) |
-| [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv24 | 1.5秒 | 50% | 0 | [<span class="wiki-icon">🍄</span>毒キノコ](/ja/item/poison-mushroom)×3 (0.5%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (5%)、[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.48%)、[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.043%) |
-| [<span class="wiki-icon">💣</span>ボム](/ja/action/bomb) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv28 | 1.8秒 | 50% | 0 | [<span class="wiki-icon">🛢️</span>廃油](/ja/item/waste-oil)×3 (0.5%) | [<span class="wiki-icon">🔩</span>ネジ](/ja/item/screw) (2.8%)、[<span class="wiki-icon">🔩</span>ボルト](/ja/item/bolt) (0.96%)、[<span class="wiki-icon">⚫</span>ゴム](/ja/item/rubber) (0.4%) |
-| [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv31 | 1.2秒 | 50% | 0 |  | [<span class="wiki-icon">🧭</span>方位磁石](/ja/item/compass) (0.768%)、[<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium) (0.32%)、[<span class="wiki-icon">🔋</span>電池](/ja/item/battery) (0.384%) |
-| [<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv31 | 1.3秒 | 50% | 0 |  | [<span class="wiki-icon">💾</span>回路基板](/ja/item/circuit-board) (0.416%)、[<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip) (0.416%)、[<span class="wiki-icon">🐀</span>ネズミの宝箱](/ja/item/rat-treasure) (0.109%) |
-| [<span class="wiki-icon">🦎</span>サラマンダー](/ja/action/salamander) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv35 | 1.3秒 | 50% | 0 | [<span class="wiki-icon">🪨</span>火打石](/ja/item/flint) (0.31%) | [<span class="wiki-icon">🧞</span>精霊](/ja/item/spirit) (0.713%)、[<span class="wiki-icon">🌺</span>炎の花](/ja/item/flame-flower) (0.297%)、[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.027%)、[<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) (0.002%) |
-| [<span class="wiki-icon">🐉</span>ファイアドレイク](/ja/action/fire-drake) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv36 | 1.4秒 | 50% | 0 |  | [<span class="wiki-icon">🌋</span>マグマの欠片](/ja/item/magma-fragment) (0.768%)、[<span class="wiki-icon">🐉</span>溶岩の鱗](/ja/item/lava-scale) (0.384%)、[<span class="wiki-icon">⚪</span>ミスリル銀](/ja/item/mithril-silver) (0.384%) |
-| [<span class="wiki-icon">🐦‍🔥</span>火喰い鳥](/ja/action/fire-eating-bird) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv36 | 1.2秒 | 50% | 0 | [<span class="wiki-icon">🌺</span>炎の花](/ja/item/flame-flower) (0.286%) | [<span class="wiki-icon">🔥</span>燃え殻](/ja/item/cinder) (1.6%)、[<span class="wiki-icon">🔥</span>赤熱鉄](/ja/item/red-hot-iron) (0.658%)、[<span class="wiki-icon">🔥</span>溶けた金属塊](/ja/item/molten-metal-ingot) (0.086%)、[<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) (0.001%) |
-| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv39 | 1.9秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/9c9bdad1ea627e76.svg" alt="">ネズミの骨](/ja/item/rat-bone) (2.22%)、[<span class="wiki-icon">💰</span>王家の秘宝](/ja/item/royal-treasure) (0.396%)、[<span class="wiki-icon">🪨</span>呪われた石](/ja/item/cursed-stone) (0.041%) |
-| [<span class="wiki-icon">🧚</span>妖精](/ja/action/fairy) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv40 | 1秒 | 50% | 0 |  | [<span class="wiki-icon">🪶</span>ロウで固めた羽](/ja/item/wax-wing) (1.17%)、[<span class="wiki-icon">🍄</span>エリンギ](/ja/item/king-oyster-mushroom) (0.24%) |
-| [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv41 | 1秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn) (0.208%) | [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn) (1.17%)、[<span class="wiki-icon">🧵</span>布](/ja/item/cloth) (0.48%)、[<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) (0.002%) |
-| [<span class="wiki-icon">👻</span>宴の亡霊](/ja/action/banquet-ghost) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv42 | 1.7秒 | 50% | 0 |  | [<span class="wiki-icon">🍚</span>生米](/ja/item/raw-rice) (1.98%)、[<span class="wiki-icon">🍶</span>酒](/ja/item/liquor) (0.816%)、[<span class="wiki-icon">🍇</span>葡萄](/ja/item/wine-grape) (0.816%)、[<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit) (0.408%) |
-| [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv43 | 1.8秒 | 50% | 0 |  | [<span class="wiki-icon">🧵</span>亡者の布切れ](/ja/item/undead-cloth) (1.87%)、[<span class="wiki-icon">🗡️</span>漆黒の剣](/ja/item/jet-black-sword) (0.075%)、[<img class="wiki-icon" src="assets/icon/5917c2eb05add9f6.svg" alt="">クモの糸](/ja/item/spider-thread) (0.035%) |
-| [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv44 | 1.6秒 | 50% | 0 | [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) (0.296%)、[<span class="wiki-icon">🍴</span>銀の食器](/ja/item/silver-tableware) (0.296%) | [<span class="wiki-icon">🩸</span>血の滴](/ja/item/blood-drop) (1.66%)、[<span class="wiki-icon">🦷</span>牙](/ja/item/fang) (0.683%)、[<span class="wiki-icon">⚰️</span>吸血鬼の棺](/ja/item/vampire-coffin) (0.09%) |
-| [<span class="wiki-icon">🐱</span>化け猫](/ja/action/bakeneko) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 1.2秒 | 50% | 0 |  | [<span class="wiki-icon">🥄</span>曲がったスプーン](/ja/item/bent-spoon) (1.24%)、[<span class="wiki-icon">🖤</span>怨念の結晶](/ja/item/grudge-crystal) (0.512%) |
-| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv45 | 1秒 | 50% | 0 | [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) (0.185%)、[<img class="wiki-icon" src="assets/icon/263d98048a36520b.svg" alt="">耳栓](/ja/item/earplug) (0.185%) | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (0.427%)、[<span class="wiki-icon">🩸</span>血液](/ja/item/blood) (0.427%)、[<span class="wiki-icon">🐟</span>イワシ](/ja/item/sardine) (0.178%)、[<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) (0.178%) |
-| [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv47 | 1.7秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg) (0.315%) | [<span class="wiki-icon">🪨</span>地獄の小石](/ja/item/hell-pebble) (1.76%)、[<span class="wiki-icon">🦷</span>黒曜の牙](/ja/item/obsidian-fang) (0.725%) |
-| [<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv49 | 1.5秒 | 50% | 0 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (1.68%)、[<span class="wiki-icon">⭐</span>星の欠片](/ja/item/star-fragment) (0.288%)、[<span class="wiki-icon">💎</span>ダイヤモンド](/ja/item/diamond) (0.056%) |
-| [<span class="wiki-icon">🦄</span>ペガサス](/ja/action/pegasus) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 1.2秒 | 50% | 0 |  | [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) (1.34%)、[<span class="wiki-icon">☁️</span>天空の苔](/ja/item/sky-moss) (0.192%)、[<span class="wiki-icon">🗝️</span>天空の鍵](/ja/item/sky-key) (0.045%)、[<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) (0.002%) |
-| [<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv50 | 2秒 | 50% | 0 | [<span class="wiki-icon">🗝️</span>天空の鍵](/ja/item/sky-key) (0.333%) | [<span class="wiki-icon">🪨</span>浮遊石](/ja/item/floating-stone) (0.768%)、[<span class="wiki-icon">🦋</span>光る蝶](/ja/item/glowing-butterfly) (0.768%)、[<span class="wiki-icon">😇</span>天空神の羽衣](/ja/item/sky-god-robe) (0.024%)、[<span class="wiki-icon">📜</span>金色の石板](/ja/item/golden-tablet) (0.333%) |
+| [<img class="wiki-icon" src="assets/icon/ca6d048476ae39f9.svg" alt="">ラビットガール](/ja/action/rabbit-girl) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv1 | 1.1秒 | 50% | 20 | [<img class="wiki-icon" src="assets/icon/a58c2c51e4edb1ae.svg" alt="">ニンジン](/ja/item/carrot) (0.917%) | [<img class="wiki-icon" src="assets/icon/27504fabd0cae38e.svg" alt="">チョウ](/ja/item/butterfly) (0.143%)、[<img class="wiki-icon" src="assets/icon/da8e99eae29b4b0a.svg" alt="">ハム右衛門](/ja/item/hamster) (0.013%) |
+| [<img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン](/ja/action/goblin) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv2 | 1.3秒 | 50% | 18 | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin)×5 (1.08%) | [<img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン](/ja/item/coin) (8.67%)、[<img class="wiki-icon" src="assets/icon/c356c4e824765c87.svg" alt="">乾電池](/ja/item/dry-cell) (6.07%)、[<img class="wiki-icon" src="assets/icon/d369c8ae7552f02e.svg" alt="">フランスパン](/ja/item/baguette) (1.04%) |
+| [<img class="wiki-icon" src="assets/icon/60c9754ad81bb635.svg" alt="">グレムリン](/ja/action/gremlin) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv2 | 1.1秒 | 50% | 11 |  | [<img class="wiki-icon" src="assets/icon/f55f7a599c6367a4.svg" alt="">クリップ](/ja/item/paper-clip) (6.11%)、[<img class="wiki-icon" src="assets/icon/47721c74865bab5f.svg" alt="">紙](/ja/item/paper) (3.42%)、[<img class="wiki-icon" src="assets/icon/b17d79b469604526.svg" alt="">都市伝説の欠片](/ja/item/urban-legend-fragment) (0.002%) |
+| [<img class="wiki-icon" src="assets/icon/7d17b80929b706cc.svg" alt="">盗賊](/ja/action/thief) | [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv2 | 1秒 | 50% | 11 | [<img class="wiki-icon" src="assets/icon/5824a7cabeddd7b5.svg" alt="">ロープ](/ja/item/rope)×3 (0.556%) | [<img class="wiki-icon" src="assets/icon/f55f7a599c6367a4.svg" alt="">クリップ](/ja/item/paper-clip) (3.11%)、[<img class="wiki-icon" src="assets/icon/47721c74865bab5f.svg" alt="">紙](/ja/item/paper) (3.11%)、[<img class="wiki-icon" src="assets/icon/1ce278234d73ea36.svg" alt="">ダイヤモンド](/ja/item/diamond) (0.077%)、[<img class="wiki-icon" src="assets/icon/bd1f291b8c70bd6f.svg" alt="">都市伝説の鍵](/ja/item/urban-legend-key) (0.028%) |
+| [<img class="wiki-icon" src="assets/icon/99401bbf87efddfd.svg" alt="">サーペント](/ja/action/serpent) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv2 | 1.7秒 | 50% | 7 |  | [<img class="wiki-icon" src="assets/icon/8b8473145ed2088d.svg" alt="">大きな骨](/ja/item/big-bone) (0.68%)、[<img class="wiki-icon" src="assets/icon/fee4914c20d3b8d1.svg" alt="">イワシ](/ja/item/sardine) (0.68%)、[<img class="wiki-icon" src="assets/icon/e75e8fb3b010917c.svg" alt="">海星](/ja/item/starfish) (0.159%) |
+| [<img class="wiki-icon" src="assets/icon/bcb019bf5c706cb3.svg" alt="">マーメイド](/ja/action/mermaid) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv2 | 1.5秒 | 50% | 7 |  | [<img class="wiki-icon" src="assets/icon/1de6b06ca855689b.svg" alt="">サンゴ](/ja/item/coral) (0.72%)、[<img class="wiki-icon" src="assets/icon/1ce278234d73ea36.svg" alt="">ダイヤモンド](/ja/item/diamond) (0.086%) |
+| [<img class="wiki-icon" src="assets/icon/2e8f0ddee3c24d6d.svg" alt="">グリフィン](/ja/action/griffin) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv2 | 1.5秒 | 50% | 1 | [<img class="wiki-icon" src="assets/icon/72048d4de20fb29f.svg" alt="">生肉](/ja/item/raw-meat) (0.5%) | [<img class="wiki-icon" src="assets/icon/2364d7fb0796e1b8.svg" alt="">羽根](/ja/item/feather) (5%)、[<img class="wiki-icon" src="assets/icon/42a7de9b49060cf7.svg" alt="">銀狐の尾](/ja/item/silver-fox-tail) (0.576%)、[<img class="wiki-icon" src="assets/icon/8b8473145ed2088d.svg" alt="">大きな骨](/ja/item/big-bone) (0.48%)、[<img class="wiki-icon" src="assets/icon/1ce278234d73ea36.svg" alt="">ダイヤモンド](/ja/item/diamond) (0.043%)、[<img class="wiki-icon" src="assets/icon/37900c18f91e0f49.svg" alt="">オーロラの欠片](/ja/item/aurora-fragment) (0.182%) |
+| [<img class="wiki-icon" src="assets/icon/e1bd57a21d5fa216.svg" alt="">フェニックス](/ja/action/phoenix) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv3 | 1.4秒 | 50% | 1 |  | [<img class="wiki-icon" src="assets/icon/2364d7fb0796e1b8.svg" alt="">羽根](/ja/item/feather) (3.14%)、[<img class="wiki-icon" src="assets/icon/1ce278234d73ea36.svg" alt="">ダイヤモンド](/ja/item/diamond) (0.04%) |
+| [<img class="wiki-icon" src="assets/icon/68dfa87f0523444a.svg" alt="">ワイバーン](/ja/action/wyvern) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv4 | 1.5秒 | 50% | 1 | [<img class="wiki-icon" src="assets/icon/a74e99a548faeee2.svg" alt="">毒キノコ](/ja/item/poison-mushroom)×3 (0.5%) | [<img class="wiki-icon" src="assets/icon/2364d7fb0796e1b8.svg" alt="">羽根](/ja/item/feather) (5%)、[<img class="wiki-icon" src="assets/icon/b50f3310d210d4d5.svg" alt="">牙](/ja/item/fang) (0.48%)、[<img class="wiki-icon" src="assets/icon/1ce278234d73ea36.svg" alt="">ダイヤモンド](/ja/item/diamond) (0.043%) |
+| [<img class="wiki-icon" src="assets/icon/0f1ebb270ccc2726.svg" alt="">ボム](/ja/action/bomb) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv6 | 1.8秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/d96be5b775f17319.svg" alt="">廃油](/ja/item/waste-oil)×3 (0.5%) | [<img class="wiki-icon" src="assets/icon/132a63700bb9e5f6.svg" alt="">ネジ](/ja/item/screw) (2.8%)、[<img class="wiki-icon" src="assets/icon/8e486e4f25fa6ade.svg" alt="">ボルト](/ja/item/bolt) (0.96%)、[<img class="wiki-icon" src="assets/icon/21401b2583dc23cf.svg" alt="">ゴム](/ja/item/rubber) (0.4%) |
+| [<img class="wiki-icon" src="assets/icon/d14738bbe2aee0a1.svg" alt="">警備ドローン](/ja/action/security-drone) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 1.2秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/94693dc72abc75b6.svg" alt="">方位磁石](/ja/item/compass) (0.768%)、[<img class="wiki-icon" src="assets/icon/dcd1039e34375b78.svg" alt="">リチウム](/ja/item/lithium) (0.32%)、[<img class="wiki-icon" src="assets/icon/2a91fbeeb6cba4b3.svg" alt="">電池](/ja/item/battery) (0.384%) |
+| [<img class="wiki-icon" src="assets/icon/89c610e4308f7183.svg" alt="">監視カメラの群れ](/ja/action/camera-swarm) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 1.3秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/502c8d589850aec1.svg" alt="">回路基板](/ja/item/circuit-board) (0.416%)、[<img class="wiki-icon" src="assets/icon/94338ed8b5c294ad.svg" alt="">ニュートラルチップ](/ja/item/neutral-chip) (0.416%)、[<img class="wiki-icon" src="assets/icon/a7b564dcb22b670c.svg" alt="">ネズミの宝箱](/ja/item/rat-treasure) (0.109%) |
+| [<img class="wiki-icon" src="assets/icon/f9fd0a0c8a75a1c9.svg" alt="">サラマンダー](/ja/action/salamander) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv8 | 1.3秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/ae29ddd84d650f06.svg" alt="">火打石](/ja/item/flint) (0.31%) | [<img class="wiki-icon" src="assets/icon/c144fe6ebc17f33b.svg" alt="">精霊](/ja/item/spirit) (0.713%)、[<img class="wiki-icon" src="assets/icon/b18e32a62b7288e1.svg" alt="">炎の花](/ja/item/flame-flower) (0.297%)、[<img class="wiki-icon" src="assets/icon/1ce278234d73ea36.svg" alt="">ダイヤモンド](/ja/item/diamond) (0.027%)、[<img class="wiki-icon" src="assets/icon/e2c1386dd27fa4be.svg" alt="">炎のキツネ](/ja/item/flame-fox) (0.002%) |
+| [<img class="wiki-icon" src="assets/icon/c52037117c465fd7.svg" alt="">ファイアドレイク](/ja/action/fire-drake) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1.4秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/b3957c0cc9099c69.svg" alt="">マグマの欠片](/ja/item/magma-fragment) (0.768%)、[<img class="wiki-icon" src="assets/icon/99f68baa884ccc87.svg" alt="">溶岩の鱗](/ja/item/lava-scale) (0.384%)、[<img class="wiki-icon" src="assets/icon/5f310e8dec821751.svg" alt="">ミスリル銀](/ja/item/mithril-silver) (0.384%) |
+| [<img class="wiki-icon" src="assets/icon/1b2297a6cd429b94.svg" alt="">火喰い鳥](/ja/action/fire-eating-bird) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1.2秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/b18e32a62b7288e1.svg" alt="">炎の花](/ja/item/flame-flower) (0.286%) | [<img class="wiki-icon" src="assets/icon/8036788e4e7b013d.svg" alt="">燃え殻](/ja/item/cinder) (1.6%)、[<img class="wiki-icon" src="assets/icon/dbffce946248a088.svg" alt="">赤熱鉄](/ja/item/red-hot-iron) (0.658%)、[<img class="wiki-icon" src="assets/icon/486b14ccd9ce6c16.svg" alt="">溶けた金属塊](/ja/item/molten-metal-ingot) (0.086%)、[<img class="wiki-icon" src="assets/icon/b49d48a060b23777.svg" alt="">炎の鳥](/ja/item/fire-bird) (0.001%) |
+| [<img class="wiki-icon" src="assets/icon/88313a9dc8e4e6f5.svg" alt="">妖精](/ja/action/fairy) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/08a5df114d09803b.svg" alt="">ロウで固めた羽](/ja/item/wax-wing) (1.17%)、[<img class="wiki-icon" src="assets/icon/7f1736be8e7f5e05.svg" alt="">エリンギ](/ja/item/king-oyster-mushroom) (0.24%) |
+| [<img class="wiki-icon" src="assets/icon/544de9bef8647904.svg" alt="">リス](/ja/action/squirrel) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn) (0.208%) | [<img class="wiki-icon" src="assets/icon/604eeaf850c673e0.svg" alt="">ドングリ](/ja/item/acorn) (1.17%)、[<img class="wiki-icon" src="assets/icon/11f7c064d8793443.svg" alt="">布](/ja/item/cloth) (0.48%)、[<img class="wiki-icon" src="assets/icon/68e7cd446093a614.svg" alt="">シュレーディンガー](/ja/item/five-color-cat) (0.002%) |
+| [<img class="wiki-icon" src="assets/icon/b8dfc337e8669e69.svg" alt="">ネクロマンサー](/ja/action/necromancer) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1.9秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/9c9bdad1ea627e76.svg" alt="">ネズミの骨](/ja/item/rat-bone) (2.22%)、[<img class="wiki-icon" src="assets/icon/4565e017a1716396.svg" alt="">王家の秘宝](/ja/item/royal-treasure) (0.396%)、[<img class="wiki-icon" src="assets/icon/0508358a9f2bb7f3.svg" alt="">呪われた石](/ja/item/cursed-stone) (0.041%) |
+| [<img class="wiki-icon" src="assets/icon/94a2922ab82673de.svg" alt="">宴の亡霊](/ja/action/banquet-ghost) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1.7秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/c47a37b00a80d13e.svg" alt="">生米](/ja/item/raw-rice) (1.98%)、[<img class="wiki-icon" src="assets/icon/84951f4d056d7319.svg" alt="">酒](/ja/item/liquor) (0.816%)、[<img class="wiki-icon" src="assets/icon/83e48fe98f9d58fe.svg" alt="">葡萄](/ja/item/wine-grape) (0.816%)、[<img class="wiki-icon" src="assets/icon/c9beb4081ce4f8a7.svg" alt="">禁断の果実](/ja/item/forbidden-fruit) (0.408%) |
+| [<img class="wiki-icon" src="assets/icon/3bc4421543721689.svg" alt="">バンパイヤ](/ja/action/vampire) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1.6秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/9b054aa5cc93c19a.svg" alt="">ニンニク](/ja/item/garlic) (0.296%)、[<img class="wiki-icon" src="assets/icon/0f3cb7ac22f46644.svg" alt="">銀の食器](/ja/item/silver-tableware) (0.296%) | [<img class="wiki-icon" src="assets/icon/fa3c9f70400bfec1.svg" alt="">血の滴](/ja/item/blood-drop) (1.66%)、[<img class="wiki-icon" src="assets/icon/b50f3310d210d4d5.svg" alt="">牙](/ja/item/fang) (0.683%)、[<img class="wiki-icon" src="assets/icon/7f997b82f6e3617b.svg" alt="">吸血鬼の棺](/ja/item/vampire-coffin) (0.09%) |
+| [<img class="wiki-icon" src="assets/icon/8558fc8f4fdb9def.svg" alt="">メデューサ](/ja/action/medusa) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv9 | 1.8秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/1d4dc17c0ef41e42.svg" alt="">亡者の布切れ](/ja/item/undead-cloth) (1.87%)、[<img class="wiki-icon" src="assets/icon/303f7fcd35c386e0.svg" alt="">漆黒の剣](/ja/item/jet-black-sword) (0.075%)、[<img class="wiki-icon" src="assets/icon/5917c2eb05add9f6.svg" alt="">クモの糸](/ja/item/spider-thread) (0.035%) |
+| [<img class="wiki-icon" src="assets/icon/657885362fae1efc.svg" alt="">化け猫](/ja/action/bakeneko) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv10 | 1.2秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/d073f67bcbc89cc1.svg" alt="">曲がったスプーン](/ja/item/bent-spoon) (1.24%)、[<img class="wiki-icon" src="assets/icon/1565290d9ab0fecd.svg" alt="">怨念の結晶](/ja/item/grudge-crystal) (0.512%) |
+| [<img class="wiki-icon" src="assets/icon/bc5719e3beef9c93.svg" alt="">コウモリ](/ja/action/bat) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/1d09a9af7858e91a.svg" alt="">松明](/ja/item/torch) (0.185%)、[<img class="wiki-icon" src="assets/icon/263d98048a36520b.svg" alt="">耳栓](/ja/item/earplug) (0.185%) | [<img class="wiki-icon" src="assets/icon/2364d7fb0796e1b8.svg" alt="">羽根](/ja/item/feather) (0.427%)、[<img class="wiki-icon" src="assets/icon/fb648a09ca7fdf14.svg" alt="">血液](/ja/item/blood) (0.427%)、[<img class="wiki-icon" src="assets/icon/fee4914c20d3b8d1.svg" alt="">イワシ](/ja/item/sardine) (0.178%)、[<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) (0.178%) |
+| [<img class="wiki-icon" src="assets/icon/9f2b3b58eb91f6ca.svg" alt="">バジリスク](/ja/action/basilisk) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.7秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/b09b5f8baff61dcb.svg" alt="">卵](/ja/item/egg) (0.315%) | [<img class="wiki-icon" src="assets/icon/c3f776d0df85f558.svg" alt="">地獄の小石](/ja/item/hell-pebble) (1.76%)、[<img class="wiki-icon" src="assets/icon/c4dcecc3bf5c17ed.svg" alt="">黒曜の牙](/ja/item/obsidian-fang) (0.725%) |
+| [<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv11 | 1.5秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/2364d7fb0796e1b8.svg" alt="">羽根](/ja/item/feather) (1.68%)、[<img class="wiki-icon" src="assets/icon/3f41a87c1f42b366.svg" alt="">星の欠片](/ja/item/star-fragment) (0.288%)、[<img class="wiki-icon" src="assets/icon/1ce278234d73ea36.svg" alt="">ダイヤモンド](/ja/item/diamond) (0.056%) |
+| [<img class="wiki-icon" src="assets/icon/9635026f25519f71.svg" alt="">ペガサス](/ja/action/pegasus) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 1.2秒 | 50% | 0 |  | [<img class="wiki-icon" src="assets/icon/2364d7fb0796e1b8.svg" alt="">羽根](/ja/item/feather) (1.34%)、[<img class="wiki-icon" src="assets/icon/513ce62f8335e096.svg" alt="">天空の苔](/ja/item/sky-moss) (0.192%)、[<img class="wiki-icon" src="assets/icon/e6be96accbbbca55.svg" alt="">天空の鍵](/ja/item/sky-key) (0.045%)、[<img class="wiki-icon" src="assets/icon/fc53380c72c2bec5.svg" alt="">空飛ぶブタ](/ja/item/flying-pig) (0.002%) |
+| [<img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使](/ja/action/seraph) | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | [<img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐](/ja/group/hunt) | スタミナ（戦闘） | Lv12 | 2秒 | 50% | 0 | [<img class="wiki-icon" src="assets/icon/e6be96accbbbca55.svg" alt="">天空の鍵](/ja/item/sky-key) (0.333%) | [<img class="wiki-icon" src="assets/icon/af225cf656027ebe.svg" alt="">浮遊石](/ja/item/floating-stone) (0.768%)、[<img class="wiki-icon" src="assets/icon/0761410ca43ea1fe.svg" alt="">光る蝶](/ja/item/glowing-butterfly) (0.768%)、[<img class="wiki-icon" src="assets/icon/aa1f1526ce3e1592.svg" alt="">天空神の羽衣](/ja/item/sky-god-robe) (0.024%)、[<img class="wiki-icon" src="assets/icon/2255981f3dd32a49.svg" alt="">金色の石板](/ja/item/golden-tablet) (0.333%) |
+
+必要Lvは系統の必要Lv。所要時間・成功率・戦闘はこのカテゴリのレベル差で決まり、経験値は配分のうちこのカテゴリへ入るぶんを経験値%/時に示す。
 
 ## 管理するアイテム
 
@@ -55,30 +57,30 @@
 
 | アイテム | グループ | 装備 | 売値 | 買値 |
 | --- | --- | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ](/ja/item/bee) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | — | 1 |
-| [<span class="wiki-icon">🎯</span>吹き矢](/ja/item/blowgun) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 6 | — |
-| [<span class="wiki-icon">🎯</span>ダーツ](/ja/item/dart) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 18 | — |
-| [<span class="wiki-icon">⛄</span>雪玉](/ja/item/snowball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 9 | — |
-| [<span class="wiki-icon">🧱</span>レンガ](/ja/item/brick) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 27 | — |
-| [<span class="wiki-icon">🐢</span>カメの甲羅](/ja/item/turtle-shell) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 45 | — |
-| [<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 135 | — |
-| [<span class="wiki-icon">💿</span>DVD](/ja/item/dvd) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 54 | — |
-| [<span class="wiki-icon">👊</span>ロケットパンチ](/ja/item/rocket-punch) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 162 | — |
-| [<span class="wiki-icon">🪓</span>トマホーク](/ja/item/tomahawk) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 189 | — |
-| [<span class="wiki-icon">🦇</span>バットラング](/ja/item/batarang) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 648 | — |
-| [<span class="wiki-icon">🔴</span>モンスターボール](/ja/item/monster-ball) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 729 | — |
-| [<span class="wiki-icon">🎼</span>時のリコーダー](/ja/item/recorder-of-time) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 2,187 | — |
-| [<span class="wiki-icon">🔫</span>ロシアンルーレット](/ja/item/russian-roulette) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 2,187 | — |
-| [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/item/spear-of-longinus) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 2,430 | — |
-| [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/item/stand-arrow) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 7,290 | — |
-| [<span class="wiki-icon">🚀</span>マグロケット](/ja/item/tuna-rocket) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 | 21,870 | — |
-| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | [<span class="wiki-icon">🏹</span>射出装置](/ja/group/launcher) | 装備必須 | 3 | — |
-| [<img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット](/ja/item/slingshot) | [<span class="wiki-icon">🏹</span>射出装置](/ja/group/launcher) | 装備必須 | 36 | — |
-| [<span class="wiki-icon">🎣</span>釣竿](/ja/item/fishing-rod) | [<span class="wiki-icon">🏹</span>射出装置](/ja/group/launcher) | 装備必須 | 36 | — |
-| [<span class="wiki-icon">🪢</span>愛の鞭](/ja/item/whip-of-love) | [<span class="wiki-icon">🏹</span>射出装置](/ja/group/launcher) | 装備必須 | 189 | — |
-| [<span class="wiki-icon">💋</span>投げキッス](/ja/item/blown-kiss) | [<span class="wiki-icon">🏹</span>射出装置](/ja/group/launcher) | 装備必須 | 189 | — |
-| [<span class="wiki-icon">⚽</span>サッカーボール](/ja/item/soccer-ball) | [<span class="wiki-icon">🏹</span>射出装置](/ja/group/launcher) | 装備必須 | 216 | — |
-| [<span class="wiki-icon">🍬</span>飴と鞭](/ja/item/carrot-and-stick) | [<span class="wiki-icon">🏹</span>射出装置](/ja/group/launcher) | 装備必須 | 648 | — |
+| [<img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ](/ja/item/bee) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | — | 1 |
+| [<img class="wiki-icon" src="assets/icon/47da5d96819c57be.svg" alt="">吹き矢](/ja/item/blowgun) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 6 | — |
+| [<img class="wiki-icon" src="assets/icon/6900a5b22ba2e279.svg" alt="">ダーツ](/ja/item/dart) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 18 | — |
+| [<img class="wiki-icon" src="assets/icon/47ec7d4b68d417f6.svg" alt="">雪玉](/ja/item/snowball) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 9 | — |
+| [<img class="wiki-icon" src="assets/icon/9a056284bfa44aa4.svg" alt="">レンガ](/ja/item/brick) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 27 | — |
+| [<img class="wiki-icon" src="assets/icon/98246f25e012ed26.svg" alt="">カメの甲羅](/ja/item/turtle-shell) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 45 | — |
+| [<img class="wiki-icon" src="assets/icon/4ffa5f81d2846df4.svg" alt="">ウニ](/ja/item/sea-urchin) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 135 | — |
+| [<img class="wiki-icon" src="assets/icon/6f5d148c590b4f9f.svg" alt="">DVD](/ja/item/dvd) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 54 | — |
+| [<img class="wiki-icon" src="assets/icon/c80f4e26e34f8a62.svg" alt="">ロケットパンチ](/ja/item/rocket-punch) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 162 | — |
+| [<img class="wiki-icon" src="assets/icon/e0b08cdaab5d2f53.svg" alt="">トマホーク](/ja/item/tomahawk) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 189 | — |
+| [<img class="wiki-icon" src="assets/icon/3e0a845491a96b79.svg" alt="">バットラング](/ja/item/batarang) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 648 | — |
+| [<img class="wiki-icon" src="assets/icon/a917ec403a65830e.svg" alt="">モンスターボール](/ja/item/monster-ball) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 729 | — |
+| [<img class="wiki-icon" src="assets/icon/19258e860c7a0422.svg" alt="">時のリコーダー](/ja/item/recorder-of-time) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 2,187 | — |
+| [<img class="wiki-icon" src="assets/icon/c9c6b1f5798054cc.svg" alt="">ロシアンルーレット](/ja/item/russian-roulette) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 2,187 | — |
+| [<img class="wiki-icon" src="assets/icon/a838dd3fe94052eb.svg" alt="">ロンギヌスの槍](/ja/item/spear-of-longinus) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 2,430 | — |
+| [<img class="wiki-icon" src="assets/icon/150e4b9643c0268b.svg" alt="">スタンドの矢](/ja/item/stand-arrow) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 7,290 | — |
+| [<img class="wiki-icon" src="assets/icon/58b2a016832ea29b.svg" alt="">マグロケット](/ja/item/tuna-rocket) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 | 21,870 | — |
+| [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | [<img class="wiki-icon" src="assets/icon/b36df1ddeb26deea.svg" alt="">射出装置](/ja/group/launcher) | 装備必須 | 3 | — |
+| [<img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット](/ja/item/slingshot) | [<img class="wiki-icon" src="assets/icon/b36df1ddeb26deea.svg" alt="">射出装置](/ja/group/launcher) | 装備必須 | 36 | — |
+| [<img class="wiki-icon" src="assets/icon/899600b67bdf663a.svg" alt="">釣竿](/ja/item/fishing-rod) | [<img class="wiki-icon" src="assets/icon/b36df1ddeb26deea.svg" alt="">射出装置](/ja/group/launcher) | 装備必須 | 36 | — |
+| [<img class="wiki-icon" src="assets/icon/1d0a76a1fdd49640.svg" alt="">愛の鞭](/ja/item/whip-of-love) | [<img class="wiki-icon" src="assets/icon/b36df1ddeb26deea.svg" alt="">射出装置](/ja/group/launcher) | 装備必須 | 189 | — |
+| [<img class="wiki-icon" src="assets/icon/01438db31063866b.svg" alt="">投げキッス](/ja/item/blown-kiss) | [<img class="wiki-icon" src="assets/icon/b36df1ddeb26deea.svg" alt="">射出装置](/ja/group/launcher) | 装備必須 | 189 | — |
+| [<img class="wiki-icon" src="assets/icon/4ac2eba5f7d54610.svg" alt="">サッカーボール](/ja/item/soccer-ball) | [<img class="wiki-icon" src="assets/icon/b36df1ddeb26deea.svg" alt="">射出装置](/ja/group/launcher) | 装備必須 | 216 | — |
+| [<img class="wiki-icon" src="assets/icon/81156bd0468ff283.svg" alt="">飴と鞭](/ja/item/carrot-and-stick) | [<img class="wiki-icon" src="assets/icon/b36df1ddeb26deea.svg" alt="">射出装置](/ja/group/launcher) | 装備必須 | 648 | — |
 
 ## 効果を与えるアイテム
 
@@ -88,200 +90,212 @@
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🤨</span>猜疑心](/ja/item/suspicion) | 装備不要 |  |  |  | +1 |  |  |
+| [<img class="wiki-icon" src="assets/icon/268404846b9fc365.svg" alt="">猜疑心](/ja/item/suspicion) | 装備不要 |  |  |  | +1 |  |  |
+| [<img class="wiki-icon" src="assets/icon/ddf1b495bfcceaa1.svg" alt="">悪知恵](/ja/item/cunning) | 装備不要 | +1 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/dfd065435a728eaf.svg" alt="">歴史知識](/ja/item/history-knowledge) | 装備不要 |  | +2 |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ](/ja/item/bee) | 消費装備 | +2 |  | +3 |  |  | +1 |
-| [<span class="wiki-icon">🎯</span>吹き矢](/ja/item/blowgun) | 消費装備 | +5 |  | +1 |  |  | +1 |
-| [<span class="wiki-icon">🎯</span>ダーツ](/ja/item/dart) | 消費装備 | +6 |  | +2 |  |  | +1 |
-| [<span class="wiki-icon">⛄</span>雪玉](/ja/item/snowball) | 消費装備 | +7 |  | +2 |  |  | +2 |
-| [<span class="wiki-icon">🧱</span>レンガ](/ja/item/brick) | 消費装備 | +9 |  | +2 |  |  | +2 |
-| [<span class="wiki-icon">🐢</span>カメの甲羅](/ja/item/turtle-shell) | 消費装備 | +17 |  | +5 |  |  | +3 |
-| [<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin) | 消費装備 | +21 |  | +6 |  |  | +3 |
-| [<span class="wiki-icon">💿</span>DVD](/ja/item/dvd) | 消費装備 | +21 |  | +6 |  |  | +3 |
-| [<span class="wiki-icon">👊</span>ロケットパンチ](/ja/item/rocket-punch) | 消費装備 | +26 |  | +7 |  |  | +3 |
-| [<span class="wiki-icon">🪓</span>トマホーク](/ja/item/tomahawk) | 消費装備 | +31 |  | +6 |  |  | +4 |
-| [<span class="wiki-icon">🦇</span>バットラング](/ja/item/batarang) | 消費装備 | +49 |  | +9 |  |  | +4 |
-| [<span class="wiki-icon">🔴</span>モンスターボール](/ja/item/monster-ball) | 消費装備 | +56 |  | +8 |  |  | +5 |
-| [<span class="wiki-icon">🎼</span>時のリコーダー](/ja/item/recorder-of-time) | 消費装備 | +70 |  | +10 |  |  | +5 |
-| [<span class="wiki-icon">🔫</span>ロシアンルーレット](/ja/item/russian-roulette) | 消費装備 | +70 |  | +10 |  |  | +5 |
-| [<span class="wiki-icon">🔱</span>ロンギヌスの槍](/ja/item/spear-of-longinus) | 消費装備 | +79 |  | +8 |  |  | +5 |
-| [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/item/stand-arrow) | 消費装備 | +95 |  | +10 |  |  | +5 |
-| [<span class="wiki-icon">🚀</span>マグロケット](/ja/item/tuna-rocket) | 消費装備 | +111 |  | +11 |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/47da5d96819c57be.svg" alt="">吹き矢](/ja/item/blowgun) | 消費装備 | +5 |  | +1 |  |  | +1 |
+| [<img class="wiki-icon" src="assets/icon/6900a5b22ba2e279.svg" alt="">ダーツ](/ja/item/dart) | 消費装備 | +6 |  | +2 |  |  | +1 |
+| [<img class="wiki-icon" src="assets/icon/47ec7d4b68d417f6.svg" alt="">雪玉](/ja/item/snowball) | 消費装備 | +7 |  | +2 |  |  | +2 |
+| [<img class="wiki-icon" src="assets/icon/9a056284bfa44aa4.svg" alt="">レンガ](/ja/item/brick) | 消費装備 | +9 |  | +2 |  |  | +2 |
+| [<img class="wiki-icon" src="assets/icon/98246f25e012ed26.svg" alt="">カメの甲羅](/ja/item/turtle-shell) | 消費装備 | +17 |  | +5 |  |  | +3 |
+| [<img class="wiki-icon" src="assets/icon/4ffa5f81d2846df4.svg" alt="">ウニ](/ja/item/sea-urchin) | 消費装備 | +21 |  | +6 |  |  | +3 |
+| [<img class="wiki-icon" src="assets/icon/6f5d148c590b4f9f.svg" alt="">DVD](/ja/item/dvd) | 消費装備 | +21 |  | +6 |  |  | +3 |
+| [<img class="wiki-icon" src="assets/icon/c80f4e26e34f8a62.svg" alt="">ロケットパンチ](/ja/item/rocket-punch) | 消費装備 | +26 |  | +7 |  |  | +3 |
+| [<img class="wiki-icon" src="assets/icon/e0b08cdaab5d2f53.svg" alt="">トマホーク](/ja/item/tomahawk) | 消費装備 | +31 |  | +6 |  |  | +4 |
+| [<img class="wiki-icon" src="assets/icon/3e0a845491a96b79.svg" alt="">バットラング](/ja/item/batarang) | 消費装備 | +49 |  | +9 |  |  | +4 |
+| [<img class="wiki-icon" src="assets/icon/a917ec403a65830e.svg" alt="">モンスターボール](/ja/item/monster-ball) | 消費装備 | +56 |  | +8 |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/19258e860c7a0422.svg" alt="">時のリコーダー](/ja/item/recorder-of-time) | 消費装備 | +70 |  | +10 |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/c9c6b1f5798054cc.svg" alt="">ロシアンルーレット](/ja/item/russian-roulette) | 消費装備 | +70 |  | +10 |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/a838dd3fe94052eb.svg" alt="">ロンギヌスの槍](/ja/item/spear-of-longinus) | 消費装備 | +79 |  | +8 |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/150e4b9643c0268b.svg" alt="">スタンドの矢](/ja/item/stand-arrow) | 消費装備 | +95 |  | +10 |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/58b2a016832ea29b.svg" alt="">マグロケット](/ja/item/tuna-rocket) | 消費装備 | +111 |  | +11 |  |  | +5 |
 | [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot) | 装備必須 | +2 |  | +3 |  |  | +1 |
 | [<img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット](/ja/item/slingshot) | 装備必須 | +13 |  | +4 |  |  | +2 |
-| [<span class="wiki-icon">🎣</span>釣竿](/ja/item/fishing-rod) | 装備必須 | +13 |  | +4 |  |  | +2 |
-| [<span class="wiki-icon">🪢</span>愛の鞭](/ja/item/whip-of-love) | 装備必須 | +31 |  | +6 |  |  | +4 |
-| [<span class="wiki-icon">💋</span>投げキッス](/ja/item/blown-kiss) | 装備必須 | +31 |  | +6 |  |  | +4 |
-| [<span class="wiki-icon">⚽</span>サッカーボール](/ja/item/soccer-ball) | 装備必須 | +36 |  | +7 |  |  | +4 |
-| [<span class="wiki-icon">🍬</span>飴と鞭](/ja/item/carrot-and-stick) | 装備必須 | +49 |  | +9 |  |  | +4 |
+| [<img class="wiki-icon" src="assets/icon/899600b67bdf663a.svg" alt="">釣竿](/ja/item/fishing-rod) | 装備必須 | +13 |  | +4 |  |  | +2 |
+| [<img class="wiki-icon" src="assets/icon/1d0a76a1fdd49640.svg" alt="">愛の鞭](/ja/item/whip-of-love) | 装備必須 | +31 |  | +6 |  |  | +4 |
+| [<img class="wiki-icon" src="assets/icon/01438db31063866b.svg" alt="">投げキッス](/ja/item/blown-kiss) | 装備必須 | +31 |  | +6 |  |  | +4 |
+| [<img class="wiki-icon" src="assets/icon/4ac2eba5f7d54610.svg" alt="">サッカーボール](/ja/item/soccer-ball) | 装備必須 | +36 |  | +7 |  |  | +4 |
+| [<img class="wiki-icon" src="assets/icon/81156bd0468ff283.svg" alt="">飴と鞭](/ja/item/carrot-and-stick) | 装備必須 | +49 |  | +9 |  |  | +4 |
 | [<img class="wiki-icon" src="assets/icon/eea6ffe630b18ce9.svg" alt="">食べられる指輪](/ja/item/edible-ring) | 装備必須 |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🍩</span>バウムクーヘン](/ja/item/baumkuchen) | 装備必須 |  |  | +4 |  |  |  |
-| [<span class="wiki-icon">💍</span>取れない指輪](/ja/item/stuck-ring) | 装備必須 |  | -14 |  |  |  |  |
-| [<span class="wiki-icon">💫</span>高速回転してる指輪](/ja/item/spinning-ring) | 装備必須 | +41 |  |  |  |  |  |
-| [<span class="wiki-icon">🧵</span>運命の赤い糸](/ja/item/red-string-of-fate) | 装備必須 |  |  |  |  | +5 |  |
-| [<span class="wiki-icon">💠</span>ソウルジェム](/ja/item/soul-gem) | 装備必須 |  |  |  | +15 |  |  |
-| [<span class="wiki-icon">💍</span>一つの指輪](/ja/item/one-ring) | 装備必須 | +48 | +36 |  |  | +4 |  |
+| [<img class="wiki-icon" src="assets/icon/30340ccfc5e4ad33.svg" alt="">バウムクーヘン](/ja/item/baumkuchen) | 装備必須 |  |  | +4 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/70d4fce7ae348de1.svg" alt="">取れない指輪](/ja/item/stuck-ring) | 装備必須 |  | -14 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/a7e7b3eae28ac045.svg" alt="">高速回転してる指輪](/ja/item/spinning-ring) | 装備必須 | +41 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f533145983e4c4e0.svg" alt="">運命の赤い糸](/ja/item/red-string-of-fate) | 装備必須 |  |  |  |  | +5 |  |
+| [<img class="wiki-icon" src="assets/icon/193d23de3dc6fc90.svg" alt="">ソウルジェム](/ja/item/soul-gem) | 装備必須 |  |  |  | +15 |  |  |
+| [<img class="wiki-icon" src="assets/icon/7eb5038393af1927.svg" alt="">一つの指輪](/ja/item/one-ring) | 装備必須 | +48 | +36 |  |  | +4 |  |
 
-<details><summary>全カテゴリに効くアイテム（155種）</summary>
+<details><summary>全カテゴリに効くアイテム（165種）</summary>
 
 <div class="wiki-filter"></div>
 
 | アイテム | 装備 | 攻撃 | 防御 | 精度 | 回避 | 回復 | 速度 | 成功率 | 経験値 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [<span class="wiki-icon">🏅</span>公園の証](/ja/item/park-proof) | 装備不要 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">🏅</span>森の証](/ja/item/forest-proof) | 装備不要 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">🏅</span>街の証](/ja/item/town-proof) | 装備不要 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">🏅</span>海の証](/ja/item/sea-proof) | 装備不要 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">🏅</span>北国の証](/ja/item/northland-proof) | 装備不要 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">🏅</span>工場の証](/ja/item/factory-proof) | 装備不要 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">🏅</span>火山の証](/ja/item/volcano-proof) | 装備不要 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">🏅</span>城の証](/ja/item/castle-proof) | 装備不要 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">🏅</span>地獄の証](/ja/item/hell-proof) | 装備不要 |  |  |  |  |  |  |  | +2 |
+| [<span class="wiki-icon">🏅</span>天空のお庭の証](/ja/item/sky-garden-proof) | 装備不要 |  |  |  |  |  |  |  | +2 |
 | [<img class="wiki-icon" src="assets/icon/ff320060939d76ce.svg" alt="">虫取り網](/ja/item/bug-net) | 装備必須 |  | +3 |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/d42662b01d8887cc.svg" alt="">枝](/ja/item/branch) | 装備必須 | +3 |  |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/25af4bafc91e56d6.svg" alt="">ダンボール](/ja/item/cardboard) | 装備必須 |  | +4 |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/314938b8f6759252.svg" alt="">ほうき](/ja/item/broom) | 装備必須 | +2 |  |  |  |  |  |  |  |
-| [<span class="wiki-icon">🥗</span>サラダ](/ja/item/salad) | 消費装備 |  |  |  |  | +1 |  |  |  |
-| [<span class="wiki-icon">🍌</span>バナナ](/ja/item/banana) | 消費装備 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🍎</span>リンゴ](/ja/item/apple) | 消費装備 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🧄</span>ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/b144ca3921252c8c.svg" alt="">サラダ](/ja/item/salad) | 消費装備 |  |  |  |  | +1 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d4a47c2d00b132ca.svg" alt="">バナナ](/ja/item/banana) | 消費装備 |  |  |  |  | +2 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/2f2811eeb17812f2.svg" alt="">リンゴ](/ja/item/apple) | 消費装備 |  |  |  |  | +2 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/9b054aa5cc93c19a.svg" alt="">ニンニク](/ja/item/garlic) | 消費装備 | +3 |  |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/72b9b13ec0747c5c.svg" alt="">ピヨちゃん（ジュニア）](/ja/item/chick) | 装備不要 |  |  |  |  |  |  | +1 |  |
 | [<img class="wiki-icon" src="assets/icon/c8e6d6901baabb54.svg" alt="">メダカ](/ja/item/killifish) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐹</span>ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🌵</span>歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<img class="wiki-icon" src="assets/icon/da8e99eae29b4b0a.svg" alt="">ハム右衛門](/ja/item/hamster) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/232cd1758b741c1e.svg" alt="">歩くサボテン](/ja/item/walking-cactus) | 装備不要 |  |  |  |  |  |  | +2 |  |
 | [<img class="wiki-icon" src="assets/icon/a3c1b5f50f712b2e.svg" alt="">ピヨちゃん](/ja/item/chicken) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🐕</span>パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🦆</span>醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🎩</span>ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐢</span>クッパ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
-| [<span class="wiki-icon">🦜</span>オウム返しするオウム](/ja/item/parroting-parrot) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🐧</span>ペンペン](/ja/item/pen-pen) | 装備不要 |  |  |  |  |  |  | +2 |  |
-| [<span class="wiki-icon">🤖</span>R2D2](/ja/item/r2d2) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🦊</span>炎のキツネ](/ja/item/flame-fox) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🐸</span>ケロちゃん](/ja/item/kero-chan) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐦‍🔥</span>炎の鳥](/ja/item/fire-bird) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🐱</span>シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
-| [<span class="wiki-icon">🐠</span>空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🐷</span>空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🍬</span>飴](/ja/item/candy) | 消費装備 |  |  |  |  | +4 |  |  |  |
-| [<span class="wiki-icon">🍞</span>ポーション入りパン](/ja/item/potion-bread) | 消費装備 |  |  |  |  | +6 |  |  |  |
-| [<span class="wiki-icon">🍗</span>焼き鳥](/ja/item/yakitori) | 消費装備 |  |  |  |  | +7 |  |  |  |
-| [<span class="wiki-icon">🥟</span>肉まん](/ja/item/meat-bun) | 消費装備 |  |  |  |  | +7 |  |  |  |
-| [<span class="wiki-icon">🐌</span>エスカルゴ](/ja/item/escargot) | 消費装備 |  |  |  |  | +7 |  |  |  |
-| [<span class="wiki-icon">🥘</span>野菜炒め](/ja/item/stir-fried-vegetables) | 消費装備 |  |  |  |  | +8 |  |  |  |
-| [<span class="wiki-icon">🥟</span>肉まんのトマト煮](/ja/item/meat-bun-tomato-stew) | 消費装備 |  |  |  |  | +8 |  |  |  |
-| [<span class="wiki-icon">🐟</span>焼き魚](/ja/item/grilled-fish) | 消費装備 |  |  |  |  | +10 |  |  |  |
-| [<span class="wiki-icon">🥩</span>ビーフジャーキー](/ja/item/beef-jerky) | 消費装備 |  |  |  |  | +11 |  |  |  |
-| [<span class="wiki-icon">🔥</span>燃える豆腐](/ja/item/burning-tofu) | 消費装備 |  |  |  |  | +11 |  |  |  |
-| [<span class="wiki-icon">🍡</span>苦い団子](/ja/item/bitter-dango) | 消費装備 |  |  |  |  | +15 |  |  |  |
-| [<span class="wiki-icon">🫘</span>仙豆](/ja/item/senzu-bean) | 消費装備 |  |  |  |  | +15 |  |  |  |
-| [<span class="wiki-icon">🧠</span>博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🎨</span>審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
-| [<span class="wiki-icon">🍳</span>料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🧭</span>隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
-| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🌌</span>宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🦷</span>ミミック](/ja/item/mimic) | 装備必須 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🕺</span>踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +4 |
-| [<span class="wiki-icon">🏛️</span>ダビデ像](/ja/item/statue-of-david) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/item/grandfather-clock) | 装備必須 |  |  |  |  |  |  |  | +6 |
-| [<span class="wiki-icon">🪶</span>孔雀の羽](/ja/item/peacock-feather) | 装備必須 |  |  |  |  |  |  |  | +1 |
-| [<span class="wiki-icon">🔥</span>熱い想い](/ja/item/burning-passion) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">📜</span>遺言書](/ja/item/will-document) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +2 |
-| [<span class="wiki-icon">📼</span>無限ループするビデオテープ](/ja/item/infinite-loop-videotape) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">🟡</span>金の玉](/ja/item/golden-orb) | 装備必須 |  |  |  |  |  |  |  | +7 |
-| [<span class="wiki-icon">💔</span>ハートのカケラ](/ja/item/heart-piece) | 装備必須 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +5 |
-| [<span class="wiki-icon">🧩</span>千年パズル](/ja/item/millennium-puzzle) | 装備必須 |  |  |  |  |  |  |  | +6 |
-| [<span class="wiki-icon">✉️</span>ボトルメール](/ja/item/message-in-a-bottle) | 装備必須 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">❄️</span>スノードーム](/ja/item/snow-globe) | 装備必須 |  |  |  |  |  |  |  | +3 |
-| [<span class="wiki-icon">🔮</span>万華鏡](/ja/item/kaleidoscope) | 装備必須 |  |  |  |  |  |  |  | +4 |
-| [<span class="wiki-icon">🐇</span>ウサギ小屋](/ja/item/rabbit-hutch) | 装備不要 |  |  |  |  |  | +3 |  |  |
-| [<span class="wiki-icon">🛋️</span>人をダメにするクッション](/ja/item/ruining-cushion) | 装備不要 |  |  |  |  |  | +2 |  |  |
-| [<span class="wiki-icon">🪣</span>井戸](/ja/item/well) | 装備不要 |  |  |  |  |  | +6 |  |  |
-| [<span class="wiki-icon">📚</span>本棚](/ja/item/bookshelf) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<span class="wiki-icon">🌾</span>芝刈り機](/ja/item/lawn-mower) | 装備不要 |  |  |  |  |  | +4 |  |  |
-| [<span class="wiki-icon">🍞</span>オーブン](/ja/item/oven) | 装備不要 |  |  |  |  |  | +6 |  |  |
-| [<span class="wiki-icon">☀️</span>ソーラーパネル](/ja/item/solar-panel) | 装備不要 |  |  |  |  |  | +8 |  |  |
-| [<span class="wiki-icon">🐕</span>イヌ小屋](/ja/item/dog-house) | 装備不要 |  |  |  |  |  | +7 |  |  |
-| [<span class="wiki-icon">🌡️</span>百葉箱](/ja/item/weather-box) | 装備不要 |  |  |  |  |  | +7 |  |  |
-| [<span class="wiki-icon">🧊</span>冷蔵庫](/ja/item/refrigerator) | 装備不要 |  |  |  |  |  | +8 |  |  |
-| [<span class="wiki-icon">🔌</span>発電機](/ja/item/generator) | 装備不要 |  |  |  |  |  | +9 |  |  |
-| [<span class="wiki-icon">🐹</span>ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
-| [<span class="wiki-icon">🔥</span>かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
-| [<span class="wiki-icon">🔥</span>暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
-| [<img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭](/ja/item/fake-beard) | 装備必須 |  | +1 | +2 |  |  |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/21c4e6a062160394.svg" alt="">鍋かぶと](/ja/item/pot-helmet) | 装備必須 |  | +1 | +2 |  |  |  |  |  |
-| [<span class="wiki-icon">🧕</span>赤ずきん](/ja/item/red-hood) | 装備必須 |  | +3 | +3 |  |  |  |  |  |
-| [<span class="wiki-icon">🐰</span>ウサミミ](/ja/item/bunny-ears) | 装備必須 |  | +4 | +3 |  |  |  |  |  |
-| [<span class="wiki-icon">👨‍🍳</span>シェフハット](/ja/item/chef-hat) | 装備必須 |  | +5 | +5 |  |  |  |  |  |
-| [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) | 装備必須 |  | +6 | +5 |  |  |  |  |  |
-| [<span class="wiki-icon">👓</span>メガネ](/ja/item/glasses) | 装備必須 |  | +8 | +6 |  |  |  |  |  |
-| [<span class="wiki-icon">🩹</span>アイパッチ](/ja/item/eyepatch) | 装備必須 |  | +8 | +6 |  |  |  |  |  |
-| [<span class="wiki-icon">🏆</span>月桂冠](/ja/item/laurel-crown) | 装備必須 |  | +11 | +8 |  |  |  |  |  |
-| [<span class="wiki-icon">🦷</span>入れ歯](/ja/item/dentures) | 装備必須 |  | +13 | +8 |  |  |  |  |  |
-| [<span class="wiki-icon">🥽</span>スカウター](/ja/item/scouter) | 装備必須 |  | +16 | +9 |  |  |  |  |  |
-| [<span class="wiki-icon">⛑️</span>鉄の兜](/ja/item/iron-helmet) | 装備必須 |  | +16 | +9 |  |  |  |  |  |
-| [<span class="wiki-icon">🎎</span>だるま](/ja/item/daruma) | 装備必須 |  | +20 | +11 |  |  |  |  |  |
-| [<span class="wiki-icon">🎃</span>パンプキンヘッド](/ja/item/pumpkin-head) | 装備必須 |  | +26 | +11 |  |  |  |  |  |
-| [<span class="wiki-icon">👰</span>ウエディングベール](/ja/item/wedding-veil) | 装備必須 |  | +31 | +12 |  |  |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/89b6e6d7412928e1.svg" alt="">絹の帽子](/ja/item/silk-hat) | 装備必須 |  | +31 | +12 |  |  |  |  |  |
-| [<span class="wiki-icon">👑</span>王冠](/ja/item/crown) | 装備必須 |  | +38 | +12 |  |  |  |  |  |
-| [<span class="wiki-icon">💚</span>翡翠のかんざし](/ja/item/jade-hairpin) | 装備必須 |  | +44 | +14 |  |  |  |  |  |
-| [<span class="wiki-icon">⚫</span>虚無のリング](/ja/item/void-ring) | 装備必須 |  | +44 | +14 |  |  |  |  |  |
-| [<span class="wiki-icon">👁️</span>六眼の瞳](/ja/item/six-eyes) | 装備必須 |  | +50 | +15 |  |  |  |  |  |
-| [<span class="wiki-icon">💀</span>クリスタルスカル](/ja/item/crystal-skull) | 装備必須 |  | +60 | +15 |  |  |  |  |  |
-| [<span class="wiki-icon">👁️</span>写輪眼](/ja/item/sharingan) | 装備必須 |  | +60 | +15 |  |  |  |  |  |
-| [<span class="wiki-icon">😇</span>天使の輪](/ja/item/halo) | 装備必須 |  | +70 | +15 |  |  |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +3 |  |  | +1 |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +3 |  |  | +1 |  |  |  |
-| [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +7 |  |  | +1 |  |  |  |
-| [<span class="wiki-icon">☂️</span>雨具](/ja/item/raincoat) | 装備必須 |  | +8 |  |  | +1 |  |  |  |
-| [<span class="wiki-icon">⚓</span>セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +11 |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🎓</span>学ラン](/ja/item/gakuran) | 装備必須 |  | +13 |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🩹</span>腹巻き](/ja/item/belly-warmer) | 装備必須 |  | +19 |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">👑</span>裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +19 |  |  | +2 |  |  |  |
-| [<span class="wiki-icon">🥋</span>革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +25 |  |  | +3 |  |  |  |
-| [<span class="wiki-icon">👘</span>絹の服](/ja/item/silk-clothes) | 装備必須 |  | +31 |  |  | +3 |  |  |  |
-| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +39 |  |  | +3 |  |  |  |
-| [<span class="wiki-icon">🦺</span>防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +39 |  |  | +3 |  |  |  |
-| [<span class="wiki-icon">👙</span>ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +46 |  |  | +4 |  |  |  |
-| [<span class="wiki-icon">🥋</span>鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +62 |  |  | +4 |  |  |  |
-| [<span class="wiki-icon">🥋</span>スケイルメイル](/ja/item/scale-mail) | 装備必須 |  | +73 |  |  | +4 |  |  |  |
-| [<span class="wiki-icon">👘</span>僧侶の法衣](/ja/item/priest-robe) | 装備必須 |  | +73 |  |  | +4 |  |  |  |
-| [<span class="wiki-icon">👑</span>王族の正装](/ja/item/royal-formal-dress) | 装備必須 |  | +91 |  |  | +4 |  |  |  |
-| [<span class="wiki-icon">👘</span>神衣](/ja/item/god-robe) | 装備必須 |  | +105 |  |  | +5 |  |  |  |
-| [<span class="wiki-icon">🅿️</span>プラグスーツ](/ja/item/plug-suit) | 装備必須 |  | +105 |  |  | +5 |  |  |  |
-| [<span class="wiki-icon">👘</span>聖衣](/ja/item/holy-cloth) | 装備必須 |  | +119 |  |  | +5 |  |  |  |
-| [<span class="wiki-icon">🤖</span>箱ガンダム](/ja/item/box-gundam) | 装備必須 |  | +166 |  |  | +5 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/2b3099558cb2acfb.svg" alt="">パブロフ](/ja/item/underdog) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<img class="wiki-icon" src="assets/icon/0e4878961f2aca4e.svg" alt="">醜いアヒル](/ja/item/duck) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/5f31ecad836b1229.svg" alt="">ジョーンズ](/ja/item/jones) | 装備不要 |  |  |  |  |  |  | +3 |  |
+| [<img class="wiki-icon" src="assets/icon/33832997528c33da.svg" alt="">クッパ](/ja/item/turtle) | 装備不要 |  |  |  |  |  |  | +1 |  |
+| [<img class="wiki-icon" src="assets/icon/158cf7a62b6e0a79.svg" alt="">オウム返しするオウム](/ja/item/parroting-parrot) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<img class="wiki-icon" src="assets/icon/eac88e55c7b895f1.svg" alt="">ペンペン](/ja/item/pen-pen) | 装備不要 |  |  |  |  |  |  | +2 |  |
+| [<img class="wiki-icon" src="assets/icon/b746d2efc907e6c3.svg" alt="">R2D2](/ja/item/r2d2) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<img class="wiki-icon" src="assets/icon/e2c1386dd27fa4be.svg" alt="">炎のキツネ](/ja/item/flame-fox) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<img class="wiki-icon" src="assets/icon/3596c359f68e3e34.svg" alt="">ケロちゃん](/ja/item/kero-chan) | 装備不要 |  |  |  |  |  |  | +3 |  |
+| [<img class="wiki-icon" src="assets/icon/b49d48a060b23777.svg" alt="">炎の鳥](/ja/item/fire-bird) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<img class="wiki-icon" src="assets/icon/68e7cd446093a614.svg" alt="">シュレーディンガー](/ja/item/five-color-cat) | 装備不要 |  |  |  |  |  |  | +4 |  |
+| [<img class="wiki-icon" src="assets/icon/e445784986275e6e.svg" alt="">空飛ぶ金魚](/ja/item/flying-goldfish) | 装備不要 |  |  |  |  |  |  | +3 |  |
+| [<img class="wiki-icon" src="assets/icon/fc53380c72c2bec5.svg" alt="">空飛ぶブタ](/ja/item/flying-pig) | 装備不要 |  |  |  |  |  |  | +3 |  |
+| [<img class="wiki-icon" src="assets/icon/7eb650ff72959a00.svg" alt="">飴](/ja/item/candy) | 消費装備 |  |  |  |  | +4 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/1d107e82420b8d01.svg" alt="">ポーション入りパン](/ja/item/potion-bread) | 消費装備 |  |  |  |  | +6 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/70178607c66d65c8.svg" alt="">焼き鳥](/ja/item/yakitori) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/70e4c00e86e8753d.svg" alt="">肉まん](/ja/item/meat-bun) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ad8655117bfe735d.svg" alt="">エスカルゴ](/ja/item/escargot) | 消費装備 |  |  |  |  | +7 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/898a81f104905e75.svg" alt="">野菜炒め](/ja/item/stir-fried-vegetables) | 消費装備 |  |  |  |  | +8 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/15a7cdde805bcd89.svg" alt="">肉まんのトマト煮](/ja/item/meat-bun-tomato-stew) | 消費装備 |  |  |  |  | +8 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/84f52bc88a85b710.svg" alt="">焼き魚](/ja/item/grilled-fish) | 消費装備 |  |  |  |  | +10 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/a9943803d58323b3.svg" alt="">ビーフジャーキー](/ja/item/beef-jerky) | 消費装備 |  |  |  |  | +11 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d9438bda1281d7d1.svg" alt="">燃える豆腐](/ja/item/burning-tofu) | 消費装備 |  |  |  |  | +11 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/26d9a17ce8eaa053.svg" alt="">苦い団子](/ja/item/bitter-dango) | 消費装備 |  |  |  |  | +15 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/56863dd5aea8628b.svg" alt="">仙豆](/ja/item/senzu-bean) | 消費装備 |  |  |  |  | +15 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/a7adf370c3bc609a.svg" alt="">博識](/ja/item/erudition) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<img class="wiki-icon" src="assets/icon/f842f4822ef639e6.svg" alt="">審美眼](/ja/item/aesthetic-eye) | 装備不要 |  |  |  |  |  |  | +3 |  |
+| [<img class="wiki-icon" src="assets/icon/e8dbedd65beac075.svg" alt="">料理知識](/ja/item/cooking-knowledge) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/07145ca4be58e6a7.svg" alt="">隠された北国への道](/ja/item/hidden-path-to-northland) | 装備不要 |  |  |  |  |  | +1 |  |  |
+| [<img class="wiki-icon" src="assets/icon/e9fce296a96d8fdd.svg" alt="">ネクロマンス](/ja/item/necromancy) | 装備不要 |  |  |  |  | +2 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/0f215a6233178fcf.svg" alt="">宇宙の真理](/ja/item/truth-of-the-universe) | 装備不要 |  |  |  |  |  |  |  | +3 |
+| [<img class="wiki-icon" src="assets/icon/f035c4566b81cf4b.svg" alt="">ミミック](/ja/item/mimic) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<img class="wiki-icon" src="assets/icon/295c886c43ff81d3.svg" alt="">踊る銅像](/ja/item/dancing-statue) | 装備必須 |  |  |  |  |  |  |  | +4 |
+| [<img class="wiki-icon" src="assets/icon/12c7fb07f3dfcbe1.svg" alt="">ダビデ像](/ja/item/statue-of-david) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/38074d36bf98c41d.svg" alt="">おじいさんの時計](/ja/item/grandfather-clock) | 装備必須 |  |  |  |  |  |  |  | +6 |
+| [<img class="wiki-icon" src="assets/icon/5ef9e5408cbf91a9.svg" alt="">孔雀の羽](/ja/item/peacock-feather) | 装備必須 |  |  |  |  |  |  |  | +1 |
+| [<img class="wiki-icon" src="assets/icon/3ac8fca292fd46a6.svg" alt="">熱い想い](/ja/item/burning-passion) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/8f6fc6466924b5ac.svg" alt="">遺言書](/ja/item/will-document) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/a900530f1e982ad1.svg" alt="">砂の城](/ja/item/sand-castle) | 装備必須 |  |  |  |  |  |  |  | +2 |
+| [<img class="wiki-icon" src="assets/icon/0b8445bf7e71a7cf.svg" alt="">無限ループするビデオテープ](/ja/item/infinite-loop-videotape) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/df07b589b979ed33.svg" alt="">金の玉](/ja/item/golden-orb) | 装備必須 |  |  |  |  |  |  |  | +7 |
+| [<img class="wiki-icon" src="assets/icon/5da9042d095fa0bd.svg" alt="">ハートのカケラ](/ja/item/heart-piece) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<img class="wiki-icon" src="assets/icon/05f4f88a09c04f05.svg" alt="">空飛ぶ絨毯](/ja/item/flying-carpet) | 装備必須 |  |  |  |  |  |  |  | +5 |
+| [<img class="wiki-icon" src="assets/icon/5d84e53d91eb4985.svg" alt="">千年パズル](/ja/item/millennium-puzzle) | 装備必須 |  |  |  |  |  |  |  | +6 |
+| [<img class="wiki-icon" src="assets/icon/ae46ba8a5140b2e2.svg" alt="">ボトルメール](/ja/item/message-in-a-bottle) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<img class="wiki-icon" src="assets/icon/5025d18dce83f03a.svg" alt="">スノードーム](/ja/item/snow-globe) | 装備必須 |  |  |  |  |  |  |  | +3 |
+| [<img class="wiki-icon" src="assets/icon/a86c642796c9391d.svg" alt="">万華鏡](/ja/item/kaleidoscope) | 装備必須 |  |  |  |  |  |  |  | +4 |
+| [<img class="wiki-icon" src="assets/icon/d20af15fdf84be13.svg" alt="">ウサギ小屋](/ja/item/rabbit-hutch) | 装備不要 |  |  |  |  |  | +3 |  |  |
+| [<img class="wiki-icon" src="assets/icon/d061d0b4fc8017f4.svg" alt="">人をダメにするクッション](/ja/item/ruining-cushion) | 装備不要 |  |  |  |  |  | +2 |  |  |
+| [<img class="wiki-icon" src="assets/icon/2e9ca8a99eeffc3a.svg" alt="">井戸](/ja/item/well) | 装備不要 |  |  |  |  |  | +6 |  |  |
+| [<img class="wiki-icon" src="assets/icon/8ca80b2480d6fb1f.svg" alt="">本棚](/ja/item/bookshelf) | 装備不要 |  |  |  |  |  | +5 |  |  |
+| [<img class="wiki-icon" src="assets/icon/cd80af3b0b87ca59.svg" alt="">芝刈り機](/ja/item/lawn-mower) | 装備不要 |  |  |  |  |  | +4 |  |  |
+| [<img class="wiki-icon" src="assets/icon/8b5db6fffb5bb492.svg" alt="">オーブン](/ja/item/oven) | 装備不要 |  |  |  |  |  | +6 |  |  |
+| [<img class="wiki-icon" src="assets/icon/97694fb5cc79e9a2.svg" alt="">ソーラーパネル](/ja/item/solar-panel) | 装備不要 |  |  |  |  |  | +8 |  |  |
+| [<img class="wiki-icon" src="assets/icon/81b3c58eb8a7539b.svg" alt="">イヌ小屋](/ja/item/dog-house) | 装備不要 |  |  |  |  |  | +7 |  |  |
+| [<img class="wiki-icon" src="assets/icon/4ae919781f2c90a4.svg" alt="">百葉箱](/ja/item/weather-box) | 装備不要 |  |  |  |  |  | +7 |  |  |
+| [<img class="wiki-icon" src="assets/icon/1869c897155c80cc.svg" alt="">冷蔵庫](/ja/item/refrigerator) | 装備不要 |  |  |  |  |  | +8 |  |  |
+| [<img class="wiki-icon" src="assets/icon/5b1800f25518c83f.svg" alt="">発電機](/ja/item/generator) | 装備不要 |  |  |  |  |  | +9 |  |  |
+| [<img class="wiki-icon" src="assets/icon/4260aef47730e5d1.svg" alt="">ハムスターの回車](/ja/item/hamster-wheel) | 装備不要 |  |  |  |  |  | +10 |  |  |
+| [<img class="wiki-icon" src="assets/icon/dde7a8f5b7ef2232.svg" alt="">かまど](/ja/item/stove) | 装備不要 |  |  |  |  |  | +4 |  |  |
+| [<img class="wiki-icon" src="assets/icon/b53a3c89c58babec.svg" alt="">暖炉](/ja/item/fireplace) | 装備不要 |  |  |  |  |  | +5 |  |  |
+| [<img class="wiki-icon" src="assets/icon/c31eccfb162aa5fc.svg" alt="">つけ髭](/ja/item/fake-beard) | 装備必須 |  | +1 | +3 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/21c4e6a062160394.svg" alt="">鍋かぶと](/ja/item/pot-helmet) | 装備必須 |  | +2 | +2 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/dceb80ba50aa5439.svg" alt="">赤ずきん](/ja/item/red-hood) | 装備必須 |  | +5 | +3 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/6860a2628c2d5751.svg" alt="">ウサミミ](/ja/item/bunny-ears) | 装備必須 |  | +3 | +5 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ddd1b6c54fa5b6bc.svg" alt="">シェフハット](/ja/item/chef-hat) | 装備必須 |  | +8 | +4 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/9439912679b9993f.svg" alt="">マスク](/ja/item/mask) | 装備必須 |  | +5 | +8 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/3ae7189262495f89.svg" alt="">メガネ](/ja/item/glasses) | 装備必須 |  | +7 | +9 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/9a88ef83680a42fa.svg" alt="">アイパッチ](/ja/item/eyepatch) | 装備必須 |  | +8 | +9 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/54e436ba42a8d60a.svg" alt="">月桂冠](/ja/item/laurel-crown) | 装備必須 |  | +17 | +7 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/3561c137cba567b2.svg" alt="">入れ歯](/ja/item/dentures) | 装備必須 |  | +11 | +12 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/fd7f37d58a2b13f8.svg" alt="">スカウター](/ja/item/scouter) | 装備必須 |  | +13 | +14 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/a5a1cc4a6c31a1ee.svg" alt="">鉄の兜](/ja/item/iron-helmet) | 装備必須 |  | +25 | +8 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/cf71da61376b8eed.svg" alt="">だるま](/ja/item/daruma) | 装備必須 |  | +31 | +9 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/9d893f7c8881adcd.svg" alt="">パンプキンヘッド](/ja/item/pumpkin-head) | 装備必須 |  | +25 | +15 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/a71c915f29de1ccd.svg" alt="">ウエディングベール](/ja/item/wedding-veil) | 装備必須 |  | +32 | +15 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/89b6e6d7412928e1.svg" alt="">絹の帽子](/ja/item/silk-hat) | 装備必須 |  | +48 | +10 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/8ed4626ff3efbe9a.svg" alt="">王冠](/ja/item/crown) | 装備必須 |  | +59 | +10 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/3d1e6025d4c76b14.svg" alt="">翡翠のかんざし](/ja/item/jade-hairpin) | 装備必須 |  | +69 | +12 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/fced2736280ac708.svg" alt="">虚無のリング](/ja/item/void-ring) | 装備必須 |  | +51 | +15 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/8358b21897c08d0f.svg" alt="">六眼の瞳](/ja/item/six-eyes) | 装備必須 |  | +60 | +15 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/51b4ab74cb0a9e72.svg" alt="">クリスタルスカル](/ja/item/crystal-skull) | 装備必須 |  | +94 | +13 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/753d139eefb14ccb.svg" alt="">写輪眼](/ja/item/sharingan) | 装備必須 |  | +72 | +15 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/11b974c37613d988.svg" alt="">天使の輪](/ja/item/halo) | 装備必須 |  | +109 | +13 |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/df8e4ded456e2261.svg" alt="">エプロン](/ja/item/apron) | 装備必須 |  | +5 |  |  | +1 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62acb7af80d0fd63.svg" alt="">タンクトップ](/ja/item/tank-top) | 装備必須 |  | +4 |  |  | +1 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/7015a8fab91bdf0f.svg" alt="">農夫の作業着](/ja/item/farmer-work-clothes) | 装備必須 |  | +8 |  |  | +1 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/a5d62c385eb7e411.svg" alt="">雨具](/ja/item/raincoat) | 装備必須 |  | +10 |  |  | +1 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/dc564301b21e26cb.svg" alt="">セーラー服](/ja/item/sailor-uniform) | 装備必須 |  | +13 |  |  | +2 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/5ce0c0e27ec8a300.svg" alt="">学ラン](/ja/item/gakuran) | 装備必須 |  | +16 |  |  | +2 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ec514ea5b483e140.svg" alt="">腹巻き](/ja/item/belly-warmer) | 装備必須 |  | +24 |  |  | +2 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/fcb73bc6a984c7ff.svg" alt="">裸の王様の服](/ja/item/emperors-new-clothes) | 装備必須 |  | +23 |  |  | +2 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/afcf319873c08863.svg" alt="">革の胸当](/ja/item/leather-breastplate) | 装備必須 |  | +30 |  |  | +4 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/7974f7b071f93112.svg" alt="">絹の服](/ja/item/silk-clothes) | 装備必須 |  | +37 |  |  | +4 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f6a617104f8284b8.svg" alt="">チェインメイル](/ja/item/chainmail) | 装備必須 |  | +47 |  |  | +4 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/b7b4d181abf33dd4.svg" alt="">防弾チョッキ](/ja/item/bulletproof-vest) | 装備必須 |  | +48 |  |  | +4 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/b03061c2936196ad.svg" alt="">ビキニアーマー](/ja/item/bikini-armor) | 装備必須 |  | +55 |  |  | +5 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/fb77d9c7fa10a1ce.svg" alt="">鉄の胸当](/ja/item/iron-breastplate) | 装備必須 |  | +74 |  |  | +5 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/7075594a670b12f0.svg" alt="">スケイルメイル](/ja/item/scale-mail) | 装備必須 |  | +89 |  |  | +5 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/c8ffbfa8a6e5afa8.svg" alt="">僧侶の法衣](/ja/item/priest-robe) | 装備必須 |  | +88 |  |  | +5 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/e749a12b853ca048.svg" alt="">王族の正装](/ja/item/royal-formal-dress) | 装備必須 |  | +109 |  |  | +5 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f86fcc20c5212d0a.svg" alt="">神衣](/ja/item/god-robe) | 装備必須 |  | +126 |  |  | +6 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/63676804b5e2bf95.svg" alt="">プラグスーツ](/ja/item/plug-suit) | 装備必須 |  | +127 |  |  | +6 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/3f658559a8a69f17.svg" alt="">聖衣](/ja/item/holy-cloth) | 装備必須 |  | +143 |  |  | +6 |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/3292882519d9db0b.svg" alt="">箱ガンダム](/ja/item/box-gundam) | 装備必須 |  | +199 |  |  | +6 |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/57b5c51acdb68045.svg" alt="">ミトン](/ja/item/mitten) | 装備必須 | +2 | +1 |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/16359e1fba4a9c16.svg" alt="">布の手袋](/ja/item/cloth-gloves) | 装備必須 | +2 | +1 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧤</span>ゴム手袋](/ja/item/rubber-gloves) | 装備必須 | +3 | +1 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🩱</span>孫の手](/ja/item/back-scratcher) | 装備必須 | +4 | +1 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧤</span>軍手](/ja/item/work-gloves) | 装備必須 | +6 | +2 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🐾</span>ネコの手](/ja/item/cat-paw) | 装備必須 | +7 | +2 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🏮</span>ランタン](/ja/item/lantern) | 装備必須 | +10 | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🤲</span>救いの手](/ja/item/helping-hand) | 装備必須 | +10 | +3 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🔥</span>松明](/ja/item/torch) | 消費装備 | +12 | +4 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧤</span>6本指の手袋](/ja/item/six-finger-glove) | 装備必須 | +16 | +5 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧤</span>革の手袋](/ja/item/leather-gloves) | 装備必須 | +19 | +6 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🦀</span>カニのハサミ](/ja/item/crab-claw) | 装備必須 | +19 | +6 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧤</span>鉄の籠手](/ja/item/iron-gauntlet) | 装備必須 | +23 | +8 |  |  |  |  |  |  |
-| [<span class="wiki-icon">⏰</span>麻酔時計](/ja/item/anesthetic-watch) | 装備必須 | +31 | +10 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🔺</span>令呪](/ja/item/command-spell) | 消費装備 | +36 | +12 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🛡️</span>ゼウスの盾](/ja/item/aegis) | 装備必須 | +45 | +15 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🛡️</span>矛盾](/ja/item/contradiction) | 装備必須 | +52 | +17 |  |  |  |  |  |  |
-| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/item/infinity-gauntlet) | 装備必須 | +90 | +30 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ec0ca3a4d158d517.svg" alt="">ゴム手袋](/ja/item/rubber-gloves) | 装備必須 | +2 | +1 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/7aa52d6ba2c7588a.svg" alt="">孫の手](/ja/item/back-scratcher) | 装備必須 | +3 | +1 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/92705e62cce0aba8.svg" alt="">軍手](/ja/item/work-gloves) | 装備必須 | +5 | +2 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/b8156c27303d6814.svg" alt="">ネコの手](/ja/item/cat-paw) | 装備必須 | +6 | +2 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/266d18b7ce0c2ec3.svg" alt="">ランタン](/ja/item/lantern) | 装備必須 | +8 | +2 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/d0e9fffef38f98fc.svg" alt="">救いの手](/ja/item/helping-hand) | 装備必須 | +8 | +2 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/1d09a9af7858e91a.svg" alt="">松明](/ja/item/torch) | 消費装備 | +10 | +3 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/ed32f871f26ed1c2.svg" alt="">6本指の手袋](/ja/item/six-finger-glove) | 装備必須 | +13 | +4 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/6006b6e463663102.svg" alt="">革の手袋](/ja/item/leather-gloves) | 装備必須 | +15 | +5 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/8c62e6365080f481.svg" alt="">カニのハサミ](/ja/item/crab-claw) | 装備必須 | +15 | +5 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/49e21fbc371ecd4e.svg" alt="">鉄の籠手](/ja/item/iron-gauntlet) | 装備必須 | +18 | +6 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/e85744d6ecaf4853.svg" alt="">麻酔時計](/ja/item/anesthetic-watch) | 装備必須 | +25 | +8 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/62f734ae1580ebab.svg" alt="">令呪](/ja/item/command-spell) | 消費装備 | +29 | +10 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/6aaff90713c73add.svg" alt="">ゼウスの盾](/ja/item/aegis) | 装備必須 | +36 | +12 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/2b1e18576369c12c.svg" alt="">矛盾](/ja/item/contradiction) | 装備必須 | +42 | +14 |  |  |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/bd717c714d3098a7.svg" alt="">無限の手袋](/ja/item/infinity-gauntlet) | 装備必須 | +72 | +24 |  |  |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/da012127f6ed247b.svg" alt="">臭う靴下](/ja/item/smelly-socks) | 装備必須 |  | +1 |  | +2 |  |  |  |  |
 | [<img class="wiki-icon" src="assets/icon/85a5eb144a623cc8.svg" alt="">スリッパ](/ja/item/slippers) | 装備必須 |  | +1 |  | +2 |  |  |  |  |
-| [<span class="wiki-icon">👞</span>木靴](/ja/item/wooden-clogs) | 装備必須 |  | +2 |  | +3 |  |  |  |  |
-| [<span class="wiki-icon">🧦</span>レッグウォーマー](/ja/item/leg-warmer) | 装備必須 |  | +2 |  | +3 |  |  |  |  |
-| [<span class="wiki-icon">🥾</span>カウボーイブーツ](/ja/item/cowboy-boots) | 装備必須 |  | +3 |  | +5 |  |  |  |  |
-| [<span class="wiki-icon">👞</span>安全靴](/ja/item/safety-shoes) | 装備必須 |  | +4 |  | +5 |  |  |  |  |
-| [<span class="wiki-icon">🏊</span>浮き輪](/ja/item/swim-ring) | 装備必須 |  | +5 |  | +6 |  |  |  |  |
-| [<span class="wiki-icon">👟</span>音が鳴る靴](/ja/item/squeaky-shoes) | 装備必須 |  | +5 |  | +6 |  |  |  |  |
-| [<span class="wiki-icon">⛸️</span>アイススケート](/ja/item/ice-skate) | 装備必須 |  | +6 |  | +8 |  |  |  |  |
-| [<span class="wiki-icon">🧦</span>絹の足袷](/ja/item/silk-leggings) | 装備必須 |  | +8 |  | +8 |  |  |  |  |
-| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/item/leather-boots) | 装備必須 |  | +10 |  | +9 |  |  |  |  |
-| [<span class="wiki-icon">🦵</span>鉄の脇当て](/ja/item/iron-greaves) | 装備必須 |  | +10 |  | +9 |  |  |  |  |
-| [<span class="wiki-icon">👠</span>ハイヒール](/ja/item/high-heels) | 装備必須 |  | +12 |  | +11 |  |  |  |  |
-| [<span class="wiki-icon">👟</span>キック力増強シューズ](/ja/item/kick-boost-shoes) | 装備必須 |  | +16 |  | +11 |  |  |  |  |
-| [<span class="wiki-icon">👠</span>ガラスの靴](/ja/item/glass-slipper) | 装備必須 |  | +18 |  | +12 |  |  |  |  |
-| [<span class="wiki-icon">🐇</span>ウサギ尻尾](/ja/item/rabbit-tail) | 装備必須 |  | +18 |  | +12 |  |  |  |  |
-| [<span class="wiki-icon">🥾</span>立体機動ブーツ](/ja/item/odm-boots) | 装備必須 |  | +26 |  | +14 |  |  |  |  |
-| [<span class="wiki-icon">👟</span>羽のついた靴](/ja/item/winged-shoes) | 装備必須 |  | +30 |  | +15 |  |  |  |  |
-| [<span class="wiki-icon">⭐</span>ワープスター](/ja/item/warp-star) | 装備必須 |  | +42 |  | +15 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/0a6956045ea35b6e.svg" alt="">木靴](/ja/item/wooden-clogs) | 装備必須 |  | +2 |  | +2 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/84a191db919d4054.svg" alt="">レッグウォーマー](/ja/item/leg-warmer) | 装備必須 |  | +2 |  | +2 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/a958fc9d8f0771b8.svg" alt="">カウボーイブーツ](/ja/item/cowboy-boots) | 装備必須 |  | +2 |  | +4 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/adb331fbb5666398.svg" alt="">安全靴](/ja/item/safety-shoes) | 装備必須 |  | +3 |  | +4 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/b3728cbbc6d06a51.svg" alt="">浮き輪](/ja/item/swim-ring) | 装備必須 |  | +4 |  | +5 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/217e11fc9287af26.svg" alt="">音が鳴る靴](/ja/item/squeaky-shoes) | 装備必須 |  | +4 |  | +5 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/e088691c0ff80d04.svg" alt="">アイススケート](/ja/item/ice-skate) | 装備必須 |  | +5 |  | +6 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/20a1fbd030ce8515.svg" alt="">絹の足袷](/ja/item/silk-leggings) | 装備必須 |  | +6 |  | +6 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/cdb0077c7d7847d1.svg" alt="">革のブーツ](/ja/item/leather-boots) | 装備必須 |  | +8 |  | +7 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/a034c968376fd470.svg" alt="">鉄の脇当て](/ja/item/iron-greaves) | 装備必須 |  | +8 |  | +7 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/9f99f1e822509802.svg" alt="">ハイヒール](/ja/item/high-heels) | 装備必須 |  | +10 |  | +9 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/82050a7f9f2e7ff6.svg" alt="">キック力増強シューズ](/ja/item/kick-boost-shoes) | 装備必須 |  | +13 |  | +9 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/e84070d17c38d5b6.svg" alt="">ガラスの靴](/ja/item/glass-slipper) | 装備必須 |  | +14 |  | +10 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/78f3d4f1225b14f5.svg" alt="">ウサギ尻尾](/ja/item/rabbit-tail) | 装備必須 |  | +14 |  | +10 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/f3dc5cc462bdada5.svg" alt="">立体機動ブーツ](/ja/item/odm-boots) | 装備必須 |  | +21 |  | +11 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/9e6b83f112f4bcac.svg" alt="">羽のついた靴](/ja/item/winged-shoes) | 装備必須 |  | +24 |  | +12 |  |  |  |  |
+| [<img class="wiki-icon" src="assets/icon/287f119feb0a4d2d.svg" alt="">ワープスター](/ja/item/warp-star) | 装備必須 |  | +34 |  | +12 |  |  |  |  |
 
 </details>
 
@@ -289,39 +303,35 @@
 
 | レベル | 累計経験値 | 開くもの |
 | --- | --- | --- |
-| Lv1 | 0 | [<span class="wiki-icon">🐰</span>ラビットガール](/ja/action/rabbit-girl)（実行）、[<img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ](/ja/item/bee)（解放） |
-| Lv4 | 334 | [<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot)（解放） |
-| Lv7 | 791 | [<img class="wiki-icon" src="assets/icon/00c8d9e334dcf056.svg" alt="">飛び出す絵本](/ja/action/read-picture-book)（実行条件）、[<img class="wiki-icon" src="assets/icon/3e442c2141244790.svg" alt="">飛び出す絵本](/ja/item/picture-book)（解放） |
-| Lv8 | 978 | [<span class="wiki-icon">🎯</span>ダーツ](/ja/item/dart)（解放） |
-| Lv11 | 1,672 | [<img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン](/ja/action/goblin)（実行）、[<span class="wiki-icon">🎯</span>吹き矢](/ja/item/blowgun)（解放） |
-| Lv16 | 3,441 | [<span class="wiki-icon">👺</span>グレムリン](/ja/action/gremlin)（実行） |
-| Lv17 | 3,919 | [<span class="wiki-icon">🥷</span>盗賊](/ja/action/thief)（実行）、[<span class="wiki-icon">⛄</span>雪玉](/ja/item/snowball)（解放）、[<span class="wiki-icon">🧱</span>レンガ](/ja/item/brick)（解放） |
-| Lv19 | 5,040 | [<span class="wiki-icon">🎣</span>釣竿](/ja/item/fishing-rod)（解放） |
-| Lv20 | 5,694 | [<span class="wiki-icon">🐍</span>サーペント](/ja/action/serpent)（実行） |
-| Lv22 | 7,227 | [<span class="wiki-icon">🧜</span>マーメイド](/ja/action/mermaid)（実行） |
-| Lv23 | 8,121 | [<span class="wiki-icon">🦅</span>グリフィン](/ja/action/griffin)（実行）、[<span class="wiki-icon">🐦‍🔥</span>フェニックス](/ja/action/phoenix)（実行）、[<span class="wiki-icon">🦔</span>ウニ](/ja/item/sea-urchin)（解放） |
-| Lv24 | 9,115 | [<span class="wiki-icon">🐉</span>ワイバーン](/ja/action/wyvern)（実行） |
-| Lv28 | 14,308 | [<span class="wiki-icon">💣</span>ボム](/ja/action/bomb)（実行）、[<span class="wiki-icon">💿</span>DVD](/ja/item/dvd)（解放） |
-| Lv31 | 19,902 | [<span class="wiki-icon">🛸</span>警備ドローン](/ja/action/security-drone)（実行）、[<span class="wiki-icon">📹</span>監視カメラの群れ](/ja/action/camera-swarm)（実行） |
-| Lv32 | 22,191 | [<span class="wiki-icon">👊</span>ロケットパンチ](/ja/item/rocket-punch)（解放） |
-| Lv34 | 27,553 | [<span class="wiki-icon">🪓</span>トマホーク](/ja/item/tomahawk)（解放） |
-| Lv35 | 30,684 | [<span class="wiki-icon">🦎</span>サラマンダー](/ja/action/salamander)（実行） |
-| Lv36 | 34,159 | [<span class="wiki-icon">🐉</span>ファイアドレイク](/ja/action/fire-drake)（実行）、[<span class="wiki-icon">🐦‍🔥</span>火喰い鳥](/ja/action/fire-eating-bird)（実行）、[<span class="wiki-icon">🪢</span>愛の鞭](/ja/item/whip-of-love)（解放）、[<span class="wiki-icon">💋</span>投げキッス](/ja/item/blown-kiss)（解放） |
-| Lv39 | 47,051 | [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer)（実行）、[<span class="wiki-icon">⚽</span>サッカーボール](/ja/item/soccer-ball)（解放） |
-| Lv40 | 52,327 | [<span class="wiki-icon">🧚</span>妖精](/ja/action/fairy)（実行） |
-| Lv41 | 58,183 | [<span class="wiki-icon">🐿️</span>リス](/ja/action/squirrel)（実行） |
-| Lv42 | 64,683 | [<span class="wiki-icon">👻</span>宴の亡霊](/ja/action/banquet-ghost)（実行）、[<span class="wiki-icon">🍬</span>飴と鞭](/ja/item/carrot-and-stick)（解放） |
-| Lv43 | 71,898 | [<span class="wiki-icon">🐍</span>メデューサ](/ja/action/medusa)（実行）、[<span class="wiki-icon">🎼</span>時のリコーダー](/ja/item/recorder-of-time)（解放） |
-| Lv44 | 79,907 | [<span class="wiki-icon">🧛</span>バンパイヤ](/ja/action/vampire)（実行）、[<span class="wiki-icon">🔴</span>モンスターボール](/ja/item/monster-ball)（解放） |
-| Lv45 | 88,796 | [<span class="wiki-icon">🐱</span>化け猫](/ja/action/bakeneko)（実行）、[<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat)（実行） |
-| Lv47 | 109,617 | [<span class="wiki-icon">🐍</span>バジリスク](/ja/action/basilisk)（実行）、[<span class="wiki-icon">🔫</span>ロシアンルーレット](/ja/item/russian-roulette)（解放） |
-| Lv48 | 121,775 | [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/item/stand-arrow)（解放） |
-| Lv49 | 135,270 | [<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie)（実行）、[<span class="wiki-icon">🚀</span>マグロケット](/ja/item/tuna-rocket)（解放） |
-| Lv50 | 150,250 | [<span class="wiki-icon">🦄</span>ペガサス](/ja/action/pegasus)（実行）、[<span class="wiki-icon">😇</span>熾天使](/ja/action/seraph)（実行） |
+| Lv1 | 0 | [<img class="wiki-icon" src="assets/icon/ca6d048476ae39f9.svg" alt="">ラビットガール](/ja/action/rabbit-girl)（実行・系統）、[<img class="wiki-icon" src="assets/icon/77a6a1e5850f8a19.svg" alt="">ハチ](/ja/item/bee)（解放） |
+| Lv2 | 100 | [<img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン](/ja/action/goblin)（実行・系統）、[<img class="wiki-icon" src="assets/icon/60c9754ad81bb635.svg" alt="">グレムリン](/ja/action/gremlin)（実行・系統）、[<img class="wiki-icon" src="assets/icon/7d17b80929b706cc.svg" alt="">盗賊](/ja/action/thief)（実行・系統）、[<img class="wiki-icon" src="assets/icon/99401bbf87efddfd.svg" alt="">サーペント](/ja/action/serpent)（実行・系統）、[<img class="wiki-icon" src="assets/icon/bcb019bf5c706cb3.svg" alt="">マーメイド](/ja/action/mermaid)（実行・系統）、[<img class="wiki-icon" src="assets/icon/2e8f0ddee3c24d6d.svg" alt="">グリフィン](/ja/action/griffin)（実行・系統） |
+| Lv3 | 211 | [<img class="wiki-icon" src="assets/icon/e1bd57a21d5fa216.svg" alt="">フェニックス](/ja/action/phoenix)（実行・系統） |
+| Lv4 | 334 | [<img class="wiki-icon" src="assets/icon/68dfa87f0523444a.svg" alt="">ワイバーン](/ja/action/wyvern)（実行・系統）、[<img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット](/ja/item/acorn-shot)（解放） |
+| Lv6 | 623 | [<img class="wiki-icon" src="assets/icon/0f1ebb270ccc2726.svg" alt="">ボム](/ja/action/bomb)（実行・系統） |
+| Lv7 | 791 | [<img class="wiki-icon" src="assets/icon/0063fa47f4c29d29.svg" alt="">飛び出す絵本](/ja/action/read-picture-book)（実行条件）、[<img class="wiki-icon" src="assets/icon/6605540d388ec8a0.svg" alt="">飛び出す絵本](/ja/item/picture-book)（解放） |
+| Lv8 | 978 | [<img class="wiki-icon" src="assets/icon/d14738bbe2aee0a1.svg" alt="">警備ドローン](/ja/action/security-drone)（実行・系統）、[<img class="wiki-icon" src="assets/icon/89c610e4308f7183.svg" alt="">監視カメラの群れ](/ja/action/camera-swarm)（実行・系統）、[<img class="wiki-icon" src="assets/icon/f9fd0a0c8a75a1c9.svg" alt="">サラマンダー](/ja/action/salamander)（実行・系統）、[<img class="wiki-icon" src="assets/icon/6900a5b22ba2e279.svg" alt="">ダーツ](/ja/item/dart)（解放） |
+| Lv9 | 1,186 | [<img class="wiki-icon" src="assets/icon/c52037117c465fd7.svg" alt="">ファイアドレイク](/ja/action/fire-drake)（実行・系統）、[<img class="wiki-icon" src="assets/icon/1b2297a6cd429b94.svg" alt="">火喰い鳥](/ja/action/fire-eating-bird)（実行・系統）、[<img class="wiki-icon" src="assets/icon/88313a9dc8e4e6f5.svg" alt="">妖精](/ja/action/fairy)（実行・系統）、[<img class="wiki-icon" src="assets/icon/544de9bef8647904.svg" alt="">リス](/ja/action/squirrel)（実行・系統）、[<img class="wiki-icon" src="assets/icon/b8dfc337e8669e69.svg" alt="">ネクロマンサー](/ja/action/necromancer)（実行・系統）、[<img class="wiki-icon" src="assets/icon/94a2922ab82673de.svg" alt="">宴の亡霊](/ja/action/banquet-ghost)（実行・系統）、[<img class="wiki-icon" src="assets/icon/3bc4421543721689.svg" alt="">バンパイヤ](/ja/action/vampire)（実行・系統）、[<img class="wiki-icon" src="assets/icon/8558fc8f4fdb9def.svg" alt="">メデューサ](/ja/action/medusa)（実行・系統） |
+| Lv10 | 1,416 | [<img class="wiki-icon" src="assets/icon/657885362fae1efc.svg" alt="">化け猫](/ja/action/bakeneko)（実行・系統） |
+| Lv11 | 1,672 | [<img class="wiki-icon" src="assets/icon/bc5719e3beef9c93.svg" alt="">コウモリ](/ja/action/bat)（実行・系統）、[<img class="wiki-icon" src="assets/icon/9f2b3b58eb91f6ca.svg" alt="">バジリスク](/ja/action/basilisk)（実行・系統）、[<img class="wiki-icon" src="assets/icon/ae58041401b3054b.svg" alt="">ヴァルキリー](/ja/action/valkyrie)（実行・系統）、[<img class="wiki-icon" src="assets/icon/47da5d96819c57be.svg" alt="">吹き矢](/ja/item/blowgun)（解放） |
+| Lv12 | 1,956 | [<img class="wiki-icon" src="assets/icon/9635026f25519f71.svg" alt="">ペガサス](/ja/action/pegasus)（実行・系統）、[<img class="wiki-icon" src="assets/icon/9f360fa4f10b66fb.svg" alt="">熾天使](/ja/action/seraph)（実行・系統） |
+| Lv17 | 3,919 | [<img class="wiki-icon" src="assets/icon/47ec7d4b68d417f6.svg" alt="">雪玉](/ja/item/snowball)（解放）、[<img class="wiki-icon" src="assets/icon/9a056284bfa44aa4.svg" alt="">レンガ](/ja/item/brick)（解放） |
+| Lv19 | 5,040 | [<img class="wiki-icon" src="assets/icon/899600b67bdf663a.svg" alt="">釣竿](/ja/item/fishing-rod)（解放） |
+| Lv23 | 8,121 | [<img class="wiki-icon" src="assets/icon/4ffa5f81d2846df4.svg" alt="">ウニ](/ja/item/sea-urchin)（解放） |
+| Lv28 | 14,308 | [<img class="wiki-icon" src="assets/icon/6f5d148c590b4f9f.svg" alt="">DVD](/ja/item/dvd)（解放） |
+| Lv32 | 22,191 | [<img class="wiki-icon" src="assets/icon/c80f4e26e34f8a62.svg" alt="">ロケットパンチ](/ja/item/rocket-punch)（解放） |
+| Lv34 | 27,553 | [<img class="wiki-icon" src="assets/icon/e0b08cdaab5d2f53.svg" alt="">トマホーク](/ja/item/tomahawk)（解放） |
+| Lv36 | 34,159 | [<img class="wiki-icon" src="assets/icon/1d0a76a1fdd49640.svg" alt="">愛の鞭](/ja/item/whip-of-love)（解放）、[<img class="wiki-icon" src="assets/icon/01438db31063866b.svg" alt="">投げキッス](/ja/item/blown-kiss)（解放） |
+| Lv39 | 47,051 | [<img class="wiki-icon" src="assets/icon/4ac2eba5f7d54610.svg" alt="">サッカーボール](/ja/item/soccer-ball)（解放） |
+| Lv42 | 64,683 | [<img class="wiki-icon" src="assets/icon/81156bd0468ff283.svg" alt="">飴と鞭](/ja/item/carrot-and-stick)（解放） |
+| Lv43 | 71,898 | [<img class="wiki-icon" src="assets/icon/19258e860c7a0422.svg" alt="">時のリコーダー](/ja/item/recorder-of-time)（解放） |
+| Lv44 | 79,907 | [<img class="wiki-icon" src="assets/icon/a917ec403a65830e.svg" alt="">モンスターボール](/ja/item/monster-ball)（解放） |
+| Lv47 | 109,617 | [<img class="wiki-icon" src="assets/icon/c9c6b1f5798054cc.svg" alt="">ロシアンルーレット](/ja/item/russian-roulette)（解放） |
+| Lv48 | 121,775 | [<img class="wiki-icon" src="assets/icon/150e4b9643c0268b.svg" alt="">スタンドの矢](/ja/item/stand-arrow)（解放） |
+| Lv49 | 135,270 | [<img class="wiki-icon" src="assets/icon/58b2a016832ea29b.svg" alt="">マグロケット](/ja/item/tuna-rocket)（解放） |
 
 必要経験値の一覧は [経験値表](/ja/reference/experience) を参照。
 
-<div class="wiki-navbox" style="--accent:#656a5a"><div class="wiki-navbox-title">装備管理</div><div class="wiki-navbox-body"><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a> ・ <a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a> ・ <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> ・ <a href="#/ja/category/accessory"><span class="wiki-icon">💍</span>装飾</a> ・ <a href="#/ja/category/explosive-weapon"><span class="wiki-icon">💣</span>爆発武器</a></div></div>
+<div class="wiki-navbox" style="--accent:#656a5a"><div class="wiki-navbox-title">装備管理</div><div class="wiki-navbox-body"><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a> ・ <a href="#/ja/category/throwing-weapon"><img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器</a> ・ <a href="#/ja/category/armor"><img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具</a> ・ <a href="#/ja/category/accessory"><img class="wiki-icon" src="assets/icon/f78f0d1c14ad5a8d.svg" alt="">装飾</a> ・ <a href="#/ja/category/explosive-weapon"><img class="wiki-icon" src="assets/icon/354851e7b6da8b2e.svg" alt="">爆発武器</a></div></div>
 
 ## 開発者向け情報
 
@@ -609,7 +619,7 @@
 		"icon": {
 			"emoji": "🎯",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/f64249c8966f492b.svg）"
 		},
 		"color": "#656a5a"
 	},

@@ -1,6 +1,6 @@
 # 踏ん張り
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">踏ん張り</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦵</span></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>防御+5</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">踏ん張り</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/35851648d91656c3.svg" alt=""></div><table><tr><th>発動率</th><td>10%／ターン</td></tr><tr><th>効果</th><td>防御+5</td></tr><tr><th>持つ敵</th><td>2体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 押されても、足の裏だけは動かさない。
 
@@ -17,14 +17,14 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🦣</span>マンモス](/ja/action/mammoth) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv25 |
-| [<span class="wiki-icon">🗿</span>溶岩ゴーレム](/ja/action/lava-golem) | [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | Lv33 |
+| [<img class="wiki-icon" src="assets/icon/cc8c2cabf2063181.svg" alt="">マンモス](/ja/action/mammoth) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv16 |
+| [<img class="wiki-icon" src="assets/icon/b46f66ee088a069f.svg" alt="">溶岩ゴーレム](/ja/action/lava-golem) | [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | Lv1 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🥾</span>革のブーツ](/ja/item/leather-boots) | [<span class="wiki-icon">👖</span>脚部装備](/ja/group/leg-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/cdb0077c7d7847d1.svg" alt="">革のブーツ](/ja/item/leather-boots) | [<img class="wiki-icon" src="assets/icon/b520170afa4d40a8.svg" alt="">脚部装備](/ja/group/leg-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -47,7 +47,7 @@
 		"icon": {
 			"emoji": "🦵",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/35851648d91656c3.svg）"
 		},
 		"color": ""
 	},

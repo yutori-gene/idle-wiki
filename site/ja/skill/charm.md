@@ -17,15 +17,15 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv5 |
-| [<span class="wiki-icon">🐉</span>ヒュドラ](/ja/action/hydra) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv12 |
-| [<span class="wiki-icon">🐈</span>パンシー](/ja/action/pansy) | [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | Lv13 |
+| [<img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員](/ja/action/shut-in-guard) | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | Lv13 |
+| [<img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ](/ja/action/hydra) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv50 |
+| [<img class="wiki-icon" src="assets/icon/c86edc0f27aaa3ab.svg" alt="">パンシー](/ja/action/pansy) | [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | Lv13 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔯</span>六芒星のお守り](/ja/item/hexagram-charm) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/9bb0ac6e7bc5e941.svg" alt="">六芒星のお守り](/ja/item/hexagram-charm) | [<img class="wiki-icon" src="assets/icon/47ba4b0004eb0e60.svg" alt="">アクセサリー](/ja/group/accessory) | 装備必須 |
 
 ## 開発者向け情報
 

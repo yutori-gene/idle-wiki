@@ -1,6 +1,6 @@
 # Gウイルス
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">Gウイルス</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧬</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/processed-goods"><span class="wiki-icon">⚙️</span>加工品</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>162 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">Gウイルス</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/def0936f480dd038.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/processed-goods"><img class="wiki-icon" src="assets/icon/6d6032deee23fa82.svg" alt="">加工品</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>162 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 強烈な肉体増強と再生能力を持つ生物兵器。様々な国が狙っている。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧪</span>マッドサイエンティスト](/ja/action/mad-scientist) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv28 | 1 | 0.194% | 0.001 | 0.002 |
-| [<span class="wiki-icon">🏢</span>封鎖された研究棟](/ja/action/sealed-research-wing) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv12 | 1 | 10.4% | 0.104 | 0.035 |
+| [<img class="wiki-icon" src="assets/icon/6e8705b278892508.svg" alt="">マッドサイエンティスト](/ja/action/mad-scientist) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv6 | 1 | 0.194% | 0.001 | 0.002 |
+| [<img class="wiki-icon" src="assets/icon/ad756d0998230e7a.svg" alt="">封鎖された研究棟](/ja/action/sealed-research-wing) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv12 | 1 | 10.4% | 0.104 | 0.035 |
 
 ## 用途
 
@@ -20,9 +20,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧟</span>ミュータント](/ja/action/mutant) | [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | Lv32 | 1 | 0.556% |  |
+| [<img class="wiki-icon" src="assets/icon/9ec762b2c27c2721.svg" alt="">ミュータント](/ja/action/mutant) | [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | Lv39 | 1 | 0.556% |  |
 
-<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 加工品</div><div class="wiki-navbox-body"><a href="#/ja/item/weight-scale"><span class="wiki-icon">⚖️</span>体重計</a> ・ <a href="#/ja/item/cash-card"><span class="wiki-icon">💳</span>キャッシュカード</a> ・ <a href="#/ja/item/atm"><span class="wiki-icon">🏧</span>ATM</a> ・ <a href="#/ja/item/cultured-meat"><span class="wiki-icon">🥩</span>培養肉</a> ・ <a href="#/ja/item/soy-meat"><span class="wiki-icon">🥩</span>ソイミート</a> ・ <a href="#/ja/item/g-virus"><span class="wiki-icon">🧬</span>Gウイルス</a></div></div>
+<div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 加工品</div><div class="wiki-navbox-body"><a href="#/ja/item/weight-scale"><img class="wiki-icon" src="assets/icon/65fcd715e4a0c21d.svg" alt="">体重計</a> ・ <a href="#/ja/item/cash-card"><img class="wiki-icon" src="assets/icon/fe34e67ebf4ee5ca.svg" alt="">キャッシュカード</a> ・ <a href="#/ja/item/atm"><img class="wiki-icon" src="assets/icon/a8df5b2291a0b3c8.svg" alt="">ATM</a> ・ <a href="#/ja/item/cultured-meat"><img class="wiki-icon" src="assets/icon/4a4a0bb204e363d8.svg" alt="">培養肉</a> ・ <a href="#/ja/item/soy-meat"><img class="wiki-icon" src="assets/icon/2157f1f6ec64792d.svg" alt="">ソイミート</a> ・ <a href="#/ja/item/g-virus"><img class="wiki-icon" src="assets/icon/def0936f480dd038.svg" alt="">Gウイルス</a></div></div>
 
 ## 開発者向け情報
 
@@ -56,7 +56,7 @@
 		"icon": {
 			"emoji": "🧬",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/def0936f480dd038.svg）"
 		},
 		"color": ""
 	},

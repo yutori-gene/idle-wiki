@@ -1,14 +1,14 @@
 # 加工
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">加工</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔧</span></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>2本</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">加工</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/02c65713837148f6.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション</td></tr><tr><th>アクション</th><td>2本</td></tr></table></div>
 
 
 ## アクション
 
 | アクション | 場所 | 必要Lv | 進行 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍞</span>パン](/ja/action/bake-bread) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv9 | 連続 |
-| [<span class="wiki-icon">🍞</span>パン生地](/ja/action/knead-bread-dough) | [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | Lv24 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/9e19235257dae70a.svg" alt="">パン](/ja/action/bake-bread) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv9 | 連続 |
+| [<img class="wiki-icon" src="assets/icon/8a3107ca2e65c0d4.svg" alt="">パン生地](/ja/action/knead-bread-dough) | [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | Lv24 | 連続 |
 
 ## 開発者向け情報
 
@@ -32,7 +32,7 @@
 	"icon": {
 		"emoji": "🔧",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/02c65713837148f6.svg）"
 	},
 	"color": ""
 }

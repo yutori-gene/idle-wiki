@@ -1,6 +1,6 @@
 # 華麗
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">華麗</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🌸</span></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>精度+5・回避+7</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">華麗</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/b248104664270e2d.svg" alt=""></div><table><tr><th>発動率</th><td>6%／ターン</td></tr><tr><th>効果</th><td>精度+5・回避+7</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 避ける動きが、そのまま次の一手になる。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">💀</span>ネクロマンサー](/ja/action/necromancer) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
+| [<img class="wiki-icon" src="assets/icon/b8dfc337e8669e69.svg" alt="">ネクロマンサー](/ja/action/necromancer) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv20 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🔮</span>闇のペンダント](/ja/item/dark-pendant) | [<span class="wiki-icon">📿</span>アクセサリー](/ja/group/accessory) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/c577e7c14198d595.svg" alt="">闇のペンダント](/ja/item/dark-pendant) | [<img class="wiki-icon" src="assets/icon/47ba4b0004eb0e60.svg" alt="">アクセサリー](/ja/group/accessory) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🌸",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/b248104664270e2d.svg）"
 		},
 		"color": ""
 	},

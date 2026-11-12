@@ -1,6 +1,6 @@
 # 棘の鎧
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">棘の鎧</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🦔</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+10・防御+8・回復-8</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">棘の鎧</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c8fa1bc61efa88ab.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+10・防御+8・回復-8</td></tr><tr><th>持つ敵</th><td>4体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 触れた者が痛む鎧は、自分にも刺さる。
 
@@ -17,16 +17,16 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🌱</span>食人植物](/ja/action/man-eating-plant) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv9 |
-| [<span class="wiki-icon">🚪</span>ワイルドドア](/ja/action/wild-door) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 |
-| [<span class="wiki-icon">🪞</span>魔法の鏡](/ja/action/magic-mirror) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
-| [<span class="wiki-icon">📦</span>人食い箱](/ja/action/man-eating-box) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv45 |
+| [<img class="wiki-icon" src="assets/icon/201d7af6f34effd1.svg" alt="">食人植物](/ja/action/man-eating-plant) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv12 |
+| [<img class="wiki-icon" src="assets/icon/a0d753414f493a1b.svg" alt="">ワイルドドア](/ja/action/wild-door) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv42 |
+| [<img class="wiki-icon" src="assets/icon/b148d196aa5fc19f.svg" alt="">魔法の鏡](/ja/action/magic-mirror) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv11 |
+| [<img class="wiki-icon" src="assets/icon/2fe1c02a6322d541.svg" alt="">人食い箱](/ja/action/man-eating-box) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv27 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧤</span>無限の手袋](/ja/item/infinity-gauntlet) | [<span class="wiki-icon">🧤</span>腕部装備](/ja/group/arm-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/bd717c714d3098a7.svg" alt="">無限の手袋](/ja/item/infinity-gauntlet) | [<img class="wiki-icon" src="assets/icon/fb530857299597e8.svg" alt="">腕部装備](/ja/group/arm-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -49,7 +49,7 @@
 		"icon": {
 			"emoji": "🦔",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/c8fa1bc61efa88ab.svg）"
 		},
 		"color": ""
 	},

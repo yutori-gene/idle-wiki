@@ -1,6 +1,6 @@
 # 空ビン
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">空ビン</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🍾</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">空ビン</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/0de4136852c3eb9b.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>12 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 液体だけでなく、虫や妖精など何でも入る容器。
 
@@ -11,8 +11,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏖️</span>漂着物回収](/ja/action/flotsam-collecting) | [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | Lv1 | 1 | 21.6% | 0.108 | 9.7 |
-| [<span class="wiki-icon">🧔</span>ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv47 | 1 | 0.356% | 0.002 | 0 |
+| [<img class="wiki-icon" src="assets/icon/7174ce7efc49f9e9.svg" alt="">漂着物回収](/ja/action/flotsam-collecting) | [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | Lv1 | 1 | 21.6% | 0.108 | 9.7 |
+| [<img class="wiki-icon" src="assets/icon/58090c8ec941246b.svg" alt="">ドワーフ](/ja/action/dwarf) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv42 | 1 | 0.356% | 0.002 | 0 |
 
 ## 用途
 
@@ -20,15 +20,16 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">✨</span>発光する薬](/ja/action/brew-glowing-medicine) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv11 | 2 | 100% |  |
-| [<img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル](/ja/action/brew-ether) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv13 | 1 | 100% |  |
-| [<span class="wiki-icon">👁️</span>目薬](/ja/action/brew-eye-drops) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv17 | 1 | 100% |  |
-| [<span class="wiki-icon">🧊</span>保冷剤](/ja/action/brew-cold-pack) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv19 | 2 | 100% |  |
-| [<span class="wiki-icon">🍾</span>火炎ビン](/ja/action/brew-molotov) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv20 | 2 | 100% |  |
-| [<span class="wiki-icon">🧪</span>毒瓶](/ja/action/brew-poison-vial) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv36 | 5 | 100% |  |
-| [<span class="wiki-icon">🧞</span>精霊の入ったビン](/ja/action/brew-bottled-spirit) | [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | Lv42 | 2 | 100% |  |
-| [<span class="wiki-icon">✉️</span>ボトルメール](/ja/action/seal-message-in-a-bottle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv18 | 10 | 100% |  |
-| [<span class="wiki-icon">❄️</span>スノードーム](/ja/action/craft-snow-globe) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv25 | 10 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/dcd9c58488f87e30.svg" alt="">発光する薬](/ja/action/brew-glowing-medicine) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv11 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/d10a34d66240b74e.svg" alt="">エーテル](/ja/action/brew-ether) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv13 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/8f3c0eb34779d5a4.svg" alt="">目薬](/ja/action/brew-eye-drops) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv17 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/915983fdc4381b0e.svg" alt="">保冷剤](/ja/action/brew-cold-pack) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv19 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/7452f4a0d99e4066.svg" alt="">火炎ビン](/ja/action/brew-molotov) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv20 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/1c92b87d748930e9.svg" alt="">毒瓶](/ja/action/brew-poison-vial) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv36 | 5 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/bf8ea96214134b73.svg" alt="">精霊の入ったビン](/ja/action/brew-bottled-spirit) | [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | Lv42 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/67854644bf13e7c9.svg" alt="">ボトルメール](/ja/action/seal-message-in-a-bottle) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv18 | 10 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/672226342dc8e971.svg" alt="">スノードーム](/ja/action/craft-snow-globe) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv25 | 10 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/708bd1786f37c354.svg" alt="">メガネ](/ja/action/craft-glasses) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv20 | 5 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -64,7 +65,7 @@
 		"icon": {
 			"emoji": "🍾",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/0de4136852c3eb9b.svg）"
 		},
 		"color": ""
 	},

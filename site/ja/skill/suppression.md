@@ -1,6 +1,6 @@
 # 制圧
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">制圧</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🎯</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+10・防御+5・精度+3</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">制圧</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/be243b34812f0143.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+10・防御+5・精度+3</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 逃げ場を潰してから、点火する。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🗿</span>巨神兵](/ja/action/god-warrior) | [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | Lv27 |
+| [<img class="wiki-icon" src="assets/icon/a1510fdde9715652.svg" alt="">巨神兵](/ja/action/god-warrior) | [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | Lv39 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🪄</span>スターロッド](/ja/item/star-rod) | [<span class="wiki-icon">💣</span>爆発武器](/ja/group/explosive-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/c2a1cf1b51b66360.svg" alt="">スターロッド](/ja/item/star-rod) | [<img class="wiki-icon" src="assets/icon/5c805af870858afc.svg" alt="">爆発武器](/ja/group/explosive-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🎯",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/be243b34812f0143.svg）"
 		},
 		"color": ""
 	},

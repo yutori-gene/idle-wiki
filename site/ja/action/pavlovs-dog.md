@@ -1,6 +1,6 @@
 # パブロフの犬
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">パブロフの犬</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/21fd864bcbf55bb4.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/park"><img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv6</td></tr><tr><th>所要時間</th><td>1.7秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.97</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">パブロフの犬</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/21fd864bcbf55bb4.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/park"><img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園</a></td></tr><tr><th>系統</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv26</td></tr><tr><th>系統の必要Lv</th><td>Lv7</td></tr><tr><th>所要時間</th><td>1.7秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.97</td></tr><tr><th>経験値の配分</th><td><a href="#/ja/category/park"><img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園</a> 80%、<a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a> 20%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 唾液が凄い🐕
 
@@ -9,7 +9,8 @@
 
 ## 必要なもの
 
-- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv6以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) Lv26以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) が解放されている・Lv7以上（系統のカテゴリ）
 - [<img class="wiki-icon" src="assets/icon/bbd5a2ec5cbddac4.svg" alt="">小さな骨](/ja/item/small-bone) ×1（2.83%で消費）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
@@ -31,7 +32,7 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 15 | 0 | 6 | 0 | 9 |
+| 15 | 0 | 5 | 0 | 9 |
 
 **敵のスキル**
 
@@ -41,23 +42,21 @@
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv6） | 20% | 4.07% | 75% | 22.8% | 16.4% | 6.7 | 20.9% | 13秒 | 連戦で少しずつ消耗する |
-| +10（Lv16） | 30% | 3.32% | 81.8% | 26.6% | 22.7% | 4.9 | 11.9% | 8.2秒 | 放置で連戦できる |
-| +20（Lv26） | 45% | 2.71% | 87.1% | 30.7% | 30.6% | 3.4 | 6.47% | 5秒 | 放置で連戦できる |
-| +30（Lv36） | 67.5% | 2.21% | 91% | 35.2% | 39.8% | 2.2 | 3.15% | 3秒 | 放置で連戦できる |
+| ±0（Lv7） | 20% | 4.07% | 75% | 23.1% | 16.4% | 6.7 | 20.8% | 13秒 | 連戦で少しずつ消耗する |
+| +10（Lv17） | 30% | 3.32% | 81.8% | 26.9% | 22.7% | 4.9 | 11.9% | 8.2秒 | 放置で連戦できる |
+| +20（Lv27） | 45% | 2.71% | 87.1% | 31.1% | 30.6% | 3.4 | 6.43% | 5秒 | 放置で連戦できる |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
 ## 計算値
 
-| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
-| --- | --- | --- | --- | --- | --- |
-| ±0（Lv6） | 1.7秒 | 50% | 0.97 | 276.2 | 80 |
-| +10（Lv16） | 1.4秒 | 60% | 0.65 | 440.4 | 36 |
-| +20（Lv26） | 1.1秒 | 69.2% | 0.43 | 714.7 | 16 |
-| +30（Lv36） | 0.9秒 | 77.1% | 0.29 | 1,216.7 | 7 |
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時（公園） | 経験値%/時（近接武器） |
+| --- | --- | --- | --- | --- | --- | --- |
+| ±0（Lv7） | 1.7秒 | 50% | 0.97 | 276.2 | 8 | 14 |
+| +10（Lv17） | 1.4秒 | 60% | 0.53 | 440.4 | 3 | 5 |
+| +20（Lv27） | 1.1秒 | 69.2% | 0.29 | 714.7 | 1 | 2 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝系統のカテゴリのレベル − 系統の必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。
 
 ## 収支（1時間あたり）
 
@@ -67,7 +66,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#697852"><div class="wiki-navbox-title">公園のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-fallen-leaves"><img class="wiki-icon" src="assets/icon/732665ba6a1aee85.svg" alt="">落ち葉拾い</a> ・ <a href="#/ja/action/cleanup-activity"><img class="wiki-icon" src="assets/icon/dc1ff4797b8cfa39.svg" alt="">清掃活動</a> ・ <a href="#/ja/action/dig-sandbox"><img class="wiki-icon" src="assets/icon/eee8a2d4f6796b24.svg" alt="">砂場掘り</a> ・ <a href="#/ja/action/tend-flower-bed"><img class="wiki-icon" src="assets/icon/b9f2fd9a42b74ce8.svg" alt="">花壇の手入れ</a> ・ <a href="#/ja/action/pond-side"><img class="wiki-icon" src="assets/icon/8037b426178499e5.svg" alt="">池のほとり</a> ・ <a href="#/ja/action/giant-spider"><img class="wiki-icon" src="assets/icon/f4a063e2ef801314.svg" alt="">巨大なクモ</a> ・ <a href="#/ja/action/shut-in-guard"><img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員</a> ・ <a href="#/ja/action/pavlovs-dog"><img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬</a> ・ <a href="#/ja/action/beetle"><img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ</a> ・ <a href="#/ja/action/snail"><img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ</a> ・ <a href="#/ja/action/deep-in-the-bushes"><img class="wiki-icon" src="assets/icon/ffc8dfbf2e954eb8.svg" alt="">茂みの奥</a> ・ <a href="#/ja/action/twilight-promenade"><img class="wiki-icon" src="assets/icon/849075a43bb2d535.svg" alt="">夕暮れの散歩道</a> ・ <a href="#/ja/action/boathouse"><img class="wiki-icon" src="assets/icon/1aee9dfc0a917e5f.svg" alt="">ボート小屋</a></div></div>
+<div class="wiki-navbox" style="--accent:#697852"><div class="wiki-navbox-title">公園のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-fallen-leaves"><img class="wiki-icon" src="assets/icon/732665ba6a1aee85.svg" alt="">落ち葉拾い</a> ・ <a href="#/ja/action/cleanup-activity"><img class="wiki-icon" src="assets/icon/dc1ff4797b8cfa39.svg" alt="">清掃活動</a> ・ <a href="#/ja/action/dig-sandbox"><img class="wiki-icon" src="assets/icon/eee8a2d4f6796b24.svg" alt="">砂場掘り</a> ・ <a href="#/ja/action/tend-flower-bed"><img class="wiki-icon" src="assets/icon/b9f2fd9a42b74ce8.svg" alt="">花壇の手入れ</a> ・ <a href="#/ja/action/pond-side"><img class="wiki-icon" src="assets/icon/8037b426178499e5.svg" alt="">池のほとり</a> ・ <a href="#/ja/action/giant-spider"><img class="wiki-icon" src="assets/icon/f4a063e2ef801314.svg" alt="">巨大なクモ</a> ・ <a href="#/ja/action/shut-in-guard"><img class="wiki-icon" src="assets/icon/2e30f354dd5c201b.svg" alt="">自宅警備員</a> ・ <a href="#/ja/action/beetle"><img class="wiki-icon" src="assets/icon/870c7be655bbcb40.svg" alt="">カブトムシ</a> ・ <a href="#/ja/action/snail"><img class="wiki-icon" src="assets/icon/cd1dda47c898102f.svg" alt="">カタツムリ</a> ・ <a href="#/ja/action/pavlovs-dog"><img class="wiki-icon" src="assets/icon/21fd864bcbf55bb4.svg" alt="">パブロフの犬</a> ・ <a href="#/ja/action/deep-in-the-bushes"><img class="wiki-icon" src="assets/icon/ffc8dfbf2e954eb8.svg" alt="">茂みの奥</a> ・ <a href="#/ja/action/twilight-promenade"><img class="wiki-icon" src="assets/icon/849075a43bb2d535.svg" alt="">夕暮れの散歩道</a> ・ <a href="#/ja/action/boathouse"><img class="wiki-icon" src="assets/icon/1aee9dfc0a917e5f.svg" alt="">ボート小屋</a></div></div>
 
 ## 開発者向け情報
 
@@ -75,10 +74,11 @@
 | --- | --- |
 | id | `pavlovs-dog` |
 | `category` | `park` |
-| `attribute` | `melee-weapon` |
+| `discipline` | `melee-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `6` |
+| `level` | `26` |
+| `disciplineLevel` | `7` |
 | `experience` | `0.971` |
 | `seconds` | `1.7` |
 | `chance` | `0.5` |
@@ -105,10 +105,11 @@
 		"color": ""
 	},
 	"category": "park",
-	"attribute": "melee-weapon",
+	"discipline": "melee-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 6,
+	"level": 26,
+	"disciplineLevel": 7,
 	"experience": 0.971,
 	"seconds": 1.7,
 	"chance": 0.5,
@@ -152,7 +153,7 @@
 	"property": {
 		"attack": 15,
 		"defence": 0,
-		"accuracy": 6,
+		"accuracy": 5,
 		"evasion": 0,
 		"restore": 9
 	},

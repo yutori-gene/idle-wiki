@@ -66,6 +66,8 @@ export interface General {
 		buyingLimit: number;
 	};
 	levelCommonRatio: number;
+	// 系統を持つアクションの経験値のうち、所属カテゴリへ分ける割合（0〜1）。残り（1−この値）が系統のカテゴリへ入る
+	experienceReturnRate: number;
 	actionLevelLimit: boolean;
 	// レベル差10ごとにプロパティが何倍になるかの倍率。1でレベル差の影響なし
 	propertyRatio: number;
@@ -108,10 +110,14 @@ export interface Category {
 export interface Action {
 	information: Information;
 	category: string;
-	attribute: string;
+	// 系統。経験値の入り先・レベル差と装備効果の対象になるカテゴリID。空文字は所属カテゴリ
+	discipline: string;
 	group: string;
 	unlocked: Condition.LockedTypes;
+	// 所属カテゴリ（category）のレベル。actionLevelLimit が有効なら実行に所属カテゴリのこのレベルが要る
 	level: number;
+	// 系統（discipline）のカテゴリのレベル。系統を設定したアクションでは必須（1以上）。系統が空欄のときは使わない（0）
+	disciplineLevel: number;
 	experience: number;
 	seconds: number;
 	chance: number;

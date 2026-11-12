@@ -1,6 +1,6 @@
 # 全弾発射
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">全弾発射</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🚀</span></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+13・防御-10・精度+8</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">全弾発射</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/7cc8a3f86ac9edac.svg" alt=""></div><table><tr><th>発動率</th><td>4%／ターン</td></tr><tr><th>効果</th><td>攻撃+13・防御-10・精度+8</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 手持ちを全部投げれば、守るものは何も残らない。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🦇</span>コウモリ](/ja/action/bat) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv45 |
+| [<img class="wiki-icon" src="assets/icon/bc5719e3beef9c93.svg" alt="">コウモリ](/ja/action/bat) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv24 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🏹</span>スタンドの矢](/ja/item/stand-arrow) | [<span class="wiki-icon">🎯</span>投擲武器](/ja/group/throwing-weapon) | 消費装備 |
+| [<img class="wiki-icon" src="assets/icon/150e4b9643c0268b.svg" alt="">スタンドの矢](/ja/item/stand-arrow) | [<img class="wiki-icon" src="assets/icon/acf6e9aa1dd681ef.svg" alt="">投擲武器](/ja/group/throwing-weapon) | 消費装備 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "🚀",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/7cc8a3f86ac9edac.svg）"
 		},
 		"color": ""
 	},

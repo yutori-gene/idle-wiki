@@ -1,6 +1,6 @@
 # 裁きの天秤
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">裁きの天秤</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚖️</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>729 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">裁きの天秤</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e56a30f221091224.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>729 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 善悪の重さを量る。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">⚖️</span>閻魔の法廷](/ja/action/enma-court) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv8 | 6 | 100% | 6 | 1.3 |
+| [<img class="wiki-icon" src="assets/icon/2f292d9ebea19f1c.svg" alt="">閻魔の法廷](/ja/action/enma-court) | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | Lv8 | 6 | 100% | 6 | 1.3 |
 
 ## 用途
 
@@ -19,8 +19,8 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔫</span>ロシアンルーレット](/ja/action/craft-russian-roulette) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv45 | 1 | 100% |  |
-| [<span class="wiki-icon">🕰️</span>おじいさんの時計](/ja/action/repair-grandfather-clock) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv44 | 2 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/67abc9b2daf9c500.svg" alt="">ロシアンルーレット](/ja/action/craft-russian-roulette) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv45 | 1 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/987de3fc02a4d1e9.svg" alt="">おじいさんの時計](/ja/action/repair-grandfather-clock) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv44 | 2 | 100% |  |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -55,7 +55,7 @@
 		"icon": {
 			"emoji": "⚖️",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/e56a30f221091224.svg）"
 		},
 		"color": ""
 	},

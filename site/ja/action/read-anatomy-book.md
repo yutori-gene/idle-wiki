@@ -1,6 +1,6 @@
 # 解剖学書
 
-<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">解剖学書</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📕</span></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><span class="wiki-icon">📚</span>書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><span class="wiki-icon">📖</span>読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>1日12時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>1回</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#64594c"><div class="wiki-infobox-title">解剖学書</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/43f95091ddcce6cb.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/study"><img class="wiki-icon" src="assets/icon/2e8e4cc8d396fd3f.svg" alt="">書斎</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/reading"><img class="wiki-icon" src="assets/icon/7742674deebc2ebc.svg" alt="">読書</a></td></tr><tr><th>進行</th><td>単発</td></tr><tr><th>所要時間</th><td>1日12時間</td></tr><tr><th>成功率</th><td>100%</td></tr><tr><th>最大回数</th><td>1回</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 人の体の仕組みを知れば、動かなくなった体も動かせる。
 
@@ -9,8 +9,9 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">📕</span>解剖学書](/ja/item/anatomy-book) ×1（消費する）
-- [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) Lv24以上
+- [<img class="wiki-icon" src="assets/icon/9416da3c936f8f06.svg" alt="">解剖学書](/ja/item/anatomy-book) ×1（消費する）
+- [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) Lv24以上
+- [<span class="wiki-icon">🏅</span>工場の証](/ja/item/factory-proof) ×1（消費しない）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,7 +19,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">💀</span>ネクロマンス](/ja/item/necromancy) ×1 | 成功時 | 100% | 1 | 0.028 |
+| [<img class="wiki-icon" src="assets/icon/e9fce296a96d8fdd.svg" alt="">ネクロマンス](/ja/item/necromancy) ×1 | 成功時 | 100% | 1 | 0.028 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 100%（レベル差0・装備なし）で按分した値。
 
@@ -28,7 +29,7 @@
 | --- | --- | --- | --- | --- | --- |
 | — | 1日12時間 | 100% | — | 0 | — |
 
-経験値の入り先カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
+カテゴリにレベルが無い（numeric=false）ので、レベル差の影響は受けない。
 
 ## 収支（1時間あたり）
 
@@ -38,7 +39,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">書斎のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/read-fairy-tale"><span class="wiki-icon">📙</span>グリム童話</a> ・ <a href="#/ja/action/read-picture-book"><img class="wiki-icon" src="assets/icon/00c8d9e334dcf056.svg" alt="">飛び出す絵本</a> ・ <a href="#/ja/action/read-manga"><span class="wiki-icon">📚</span>不健全図書</a> ・ <a href="#/ja/action/read-newspaper"><span class="wiki-icon">📰</span>新聞</a> ・ <a href="#/ja/action/reread-diploma"><span class="wiki-icon">🎓</span>卒業証書</a> ・ <a href="#/ja/action/read-novel"><span class="wiki-icon">📗</span>探偵小説</a> ・ <a href="#/ja/action/read-self-help-book"><span class="wiki-icon">📘</span>自己啓発本</a> ・ <a href="#/ja/action/read-love-letter"><span class="wiki-icon">💌</span>ラブレター</a> ・ <a href="#/ja/action/read-gossip-magazine"><span class="wiki-icon">🗞️</span>ゴシップ誌</a> ・ <a href="#/ja/action/read-art-book"><img class="wiki-icon" src="assets/icon/ee7e33f0999701d6.svg" alt="">美術書</a> ・ <a href="#/ja/action/read-encyclopedia"><span class="wiki-icon">📚</span>百科事典</a> ・ <a href="#/ja/action/fraud-clinical-studies"><span class="wiki-icon">📒</span>裏帳簿</a> ・ <a href="#/ja/action/read-ballot"><span class="wiki-icon">🗳️</span>投票用紙</a> ・ <a href="#/ja/action/read-recipe-book"><span class="wiki-icon">📗</span>今夜のおかず🎶レシピ集</a> ・ <a href="#/ja/action/read-chain-letter"><span class="wiki-icon">✉️</span>不幸の手紙</a> ・ <a href="#/ja/action/read-map"><span class="wiki-icon">🗺️</span>古びた地図</a> ・ <a href="#/ja/action/read-history-book"><span class="wiki-icon">📜</span>歴史書</a> ・ <a href="#/ja/action/read-bible"><span class="wiki-icon">📖</span>聖書</a> ・ <a href="#/ja/action/read-anatomy-book"><span class="wiki-icon">📕</span>解剖学書</a> ・ <a href="#/ja/action/read-forbidden-book"><span class="wiki-icon">📕</span>禁書</a> ・ <a href="#/ja/action/read-death-note"><span class="wiki-icon">📓</span>デスノート</a> ・ <a href="#/ja/action/cosmic-truth-studies"><span class="wiki-icon">📜</span>死海文書</a> ・ <a href="#/ja/action/read-catcher-in-the-rye"><span class="wiki-icon">📗</span>ライ麦畑でつかまえて</a></div></div>
+<div class="wiki-navbox" style="--accent:#64594c"><div class="wiki-navbox-title">書斎のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/read-fairy-tale"><img class="wiki-icon" src="assets/icon/0e3981b3a84ed4f9.svg" alt="">グリム童話</a> ・ <a href="#/ja/action/read-picture-book"><img class="wiki-icon" src="assets/icon/0063fa47f4c29d29.svg" alt="">飛び出す絵本</a> ・ <a href="#/ja/action/read-manga"><img class="wiki-icon" src="assets/icon/06377c06e7e2dcff.svg" alt="">不健全図書</a> ・ <a href="#/ja/action/read-newspaper"><img class="wiki-icon" src="assets/icon/b5b9c984721d1fb2.svg" alt="">新聞</a> ・ <a href="#/ja/action/reread-diploma"><img class="wiki-icon" src="assets/icon/b14b1a498526edcd.svg" alt="">卒業証書</a> ・ <a href="#/ja/action/read-novel"><img class="wiki-icon" src="assets/icon/0574ab9fe4a01588.svg" alt="">探偵小説</a> ・ <a href="#/ja/action/read-self-help-book"><img class="wiki-icon" src="assets/icon/8f79cfe75cef36fc.svg" alt="">自己啓発本</a> ・ <a href="#/ja/action/read-love-letter"><img class="wiki-icon" src="assets/icon/85f4608276fe38d6.svg" alt="">ラブレター</a> ・ <a href="#/ja/action/read-gossip-magazine"><img class="wiki-icon" src="assets/icon/2e14eabdca61e194.svg" alt="">ゴシップ誌</a> ・ <a href="#/ja/action/read-art-book"><img class="wiki-icon" src="assets/icon/ee7e33f0999701d6.svg" alt="">美術書</a> ・ <a href="#/ja/action/read-encyclopedia"><img class="wiki-icon" src="assets/icon/cfcbeadd17ae805a.svg" alt="">百科事典</a> ・ <a href="#/ja/action/fraud-clinical-studies"><img class="wiki-icon" src="assets/icon/df30d952d8694d1c.svg" alt="">裏帳簿</a> ・ <a href="#/ja/action/read-ballot"><img class="wiki-icon" src="assets/icon/05fccc6a72959f4a.svg" alt="">投票用紙</a> ・ <a href="#/ja/action/read-recipe-book"><img class="wiki-icon" src="assets/icon/3c6b28c116f33d16.svg" alt="">今夜のおかず🎶レシピ集</a> ・ <a href="#/ja/action/read-chain-letter"><img class="wiki-icon" src="assets/icon/a1e9f94b4bc16237.svg" alt="">不幸の手紙</a> ・ <a href="#/ja/action/read-map"><img class="wiki-icon" src="assets/icon/e66a3ab86a353533.svg" alt="">古びた地図</a> ・ <a href="#/ja/action/read-history-book"><img class="wiki-icon" src="assets/icon/be6cbfc61fab5fc2.svg" alt="">歴史書</a> ・ <a href="#/ja/action/read-bible"><img class="wiki-icon" src="assets/icon/a36ecdaa818f1b11.svg" alt="">聖書</a> ・ <a href="#/ja/action/read-anatomy-book"><img class="wiki-icon" src="assets/icon/43f95091ddcce6cb.svg" alt="">解剖学書</a> ・ <a href="#/ja/action/read-forbidden-book"><img class="wiki-icon" src="assets/icon/12b0b2db91067842.svg" alt="">禁書</a> ・ <a href="#/ja/action/read-death-note"><img class="wiki-icon" src="assets/icon/67de30c80a9ebc29.svg" alt="">デスノート</a> ・ <a href="#/ja/action/cosmic-truth-studies"><img class="wiki-icon" src="assets/icon/09985507b4a28453.svg" alt="">死海文書</a> ・ <a href="#/ja/action/read-catcher-in-the-rye"><img class="wiki-icon" src="assets/icon/8d959d1d64d1e2a2.svg" alt="">ライ麦畑でつかまえて</a></div></div>
 
 ## 開発者向け情報
 
@@ -46,10 +47,11 @@
 | --- | --- |
 | id | `read-anatomy-book` |
 | `category` | `study` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `reading` |
 | `unlocked` | `hidden` |
 | `level` | `1` |
+| `disciplineLevel` | `0` |
 | `experience` | `0` |
 | `seconds` | `129600` |
 | `chance` | `1` |
@@ -70,15 +72,16 @@
 		"icon": {
 			"emoji": "📕",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/43f95091ddcce6cb.svg）"
 		},
 		"color": ""
 	},
 	"category": "study",
-	"attribute": "",
+	"discipline": "",
 	"group": "reading",
 	"unlocked": "hidden",
 	"level": 1,
+	"disciplineLevel": 0,
 	"experience": 0,
 	"seconds": 129600,
 	"chance": 1,
@@ -96,6 +99,13 @@
 			"id": "basement",
 			"count": 24,
 			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "factory-proof",
+			"count": 1,
+			"chance": 0,
 			"equipment": false
 		}
 	],

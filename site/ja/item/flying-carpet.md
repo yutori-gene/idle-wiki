@@ -1,6 +1,6 @@
 # 空飛ぶ絨毯
 
-<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">空飛ぶ絨毯</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🧞</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><span class="wiki-icon">🛏️</span>寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ceiling"><span class="wiki-icon">🏮</span>天井</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#9196ab"><div class="wiki-infobox-title">空飛ぶ絨毯</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/05f4f88a09c04f05.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/bedroom"><img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/ceiling"><img class="wiki-icon" src="assets/icon/a2309d1bd3aa4d11.svg" alt="">天井</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>売却不可</td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>1</td></tr><tr><th>所持枠</th><td>数えない（手放せない持ち物）</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 操縦は意外と難しい。天井に飾ると、すべてのカテゴリの経験値が増える。
 
@@ -19,9 +19,9 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🧞</span>空飛ぶ絨毯](/ja/action/weave-flying-carpet) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | Lv33 | 1 | 100% | 1 | 0.143 |
+| [<img class="wiki-icon" src="assets/icon/053add087b55189d.svg" alt="">空飛ぶ絨毯](/ja/action/weave-flying-carpet) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | Lv33 | 1 | 100% | 1 | 0.143 |
 
-<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 天井</div><div class="wiki-navbox-body"><a href="#/ja/item/heart-piece"><span class="wiki-icon">💔</span>ハートのカケラ</a> ・ <a href="#/ja/item/flying-carpet"><span class="wiki-icon">🧞</span>空飛ぶ絨毯</a> ・ <a href="#/ja/item/millennium-puzzle"><span class="wiki-icon">🧩</span>千年パズル</a></div></div>
+<div class="wiki-navbox" style="--accent:#9196ab"><div class="wiki-navbox-title">グループ: 天井</div><div class="wiki-navbox-body"><a href="#/ja/item/heart-piece"><img class="wiki-icon" src="assets/icon/5da9042d095fa0bd.svg" alt="">ハートのカケラ</a> ・ <a href="#/ja/item/flying-carpet"><img class="wiki-icon" src="assets/icon/05f4f88a09c04f05.svg" alt="">空飛ぶ絨毯</a> ・ <a href="#/ja/item/millennium-puzzle"><img class="wiki-icon" src="assets/icon/5d84e53d91eb4985.svg" alt="">千年パズル</a></div></div>
 
 ## 開発者向け情報
 
@@ -54,7 +54,7 @@
 		"icon": {
 			"emoji": "🧞",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/05f4f88a09c04f05.svg）"
 		},
 		"color": ""
 	},

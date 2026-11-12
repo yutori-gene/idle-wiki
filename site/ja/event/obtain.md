@@ -1,6 +1,6 @@
 # 開封
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">開封</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📬</span></div><table><tr><th>タイミング</th><td>獲得</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">開封</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/82a09483bdd66558.svg" alt=""></div><table><tr><th>タイミング</th><td>獲得</td></tr><tr><th>初期状態</th><td>ヒント表示</td></tr></table></div>
 
 > 中身を取り出した！
 
@@ -34,7 +34,7 @@
 		"icon": {
 			"emoji": "📬",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/82a09483bdd66558.svg）"
 		},
 		"color": ""
 	},

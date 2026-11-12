@@ -1,6 +1,6 @@
 # 製作
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">製作</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔨</span></div><table><tr><th>使う種別</th><td>アクション</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">製作</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/6f21491d0e434baa.svg" alt=""></div><table><tr><th>使う種別</th><td>アクション</td></tr></table></div>
 
 
 ## 開発者向け情報
@@ -25,7 +25,7 @@
 	"icon": {
 		"emoji": "🔨",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/6f21491d0e434baa.svg）"
 	},
 	"color": ""
 }

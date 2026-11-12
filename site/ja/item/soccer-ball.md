@@ -1,6 +1,6 @@
 # サッカーボール
 
-<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">サッカーボール</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">⚽</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/launcher"><span class="wiki-icon">🏹</span>射出装置</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>216 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">サッカーボール</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/4ac2eba5f7d54610.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/throwing-weapon"><img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/launcher"><img class="wiki-icon" src="assets/icon/b36df1ddeb26deea.svg" alt="">射出装置</a></td></tr><tr><th>装備</th><td>装備必須</td></tr><tr><th>売値</th><td>216 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 友情と成長を育むサッカーボール
 
@@ -11,7 +11,7 @@
 
 | 効き先 | 攻撃 | 精度 | 速度 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) | +36 | +7 | +4 |
+| [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) | +36 | +7 | +4 |
 
 ## 入手方法
 
@@ -19,15 +19,15 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏰</span>城壁の見回り](/ja/action/rampart-patrol) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv1 | 1 | 10.4% | 0.052 | 2.3 |
+| [<img class="wiki-icon" src="assets/icon/6800a285339cbe7c.svg" alt="">城壁の見回り](/ja/action/rampart-patrol) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv1 | 1 | 10.4% | 0.052 | 2.3 |
 
 ## 解放条件
 
 次をすべて満たすと一覧に現れる。
 
-- [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv39以上
+- [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) Lv39以上
 
-<div class="wiki-navbox" style="--accent:#656a5a"><div class="wiki-navbox-title">グループ: 射出装置</div><div class="wiki-navbox-body"><a href="#/ja/item/acorn-shot"><img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット</a> ・ <a href="#/ja/item/slingshot"><img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット</a> ・ <a href="#/ja/item/fishing-rod"><span class="wiki-icon">🎣</span>釣竿</a> ・ <a href="#/ja/item/whip-of-love"><span class="wiki-icon">🪢</span>愛の鞭</a> ・ <a href="#/ja/item/blown-kiss"><span class="wiki-icon">💋</span>投げキッス</a> ・ <a href="#/ja/item/soccer-ball"><span class="wiki-icon">⚽</span>サッカーボール</a> ・ <a href="#/ja/item/carrot-and-stick"><span class="wiki-icon">🍬</span>飴と鞭</a></div></div>
+<div class="wiki-navbox" style="--accent:#656a5a"><div class="wiki-navbox-title">グループ: 射出装置</div><div class="wiki-navbox-body"><a href="#/ja/item/acorn-shot"><img class="wiki-icon" src="assets/icon/0d8c280279f44520.svg" alt="">どんぐりショット</a> ・ <a href="#/ja/item/slingshot"><img class="wiki-icon" src="assets/icon/ecb72fbdd535a34d.svg" alt="">スリングショット</a> ・ <a href="#/ja/item/fishing-rod"><img class="wiki-icon" src="assets/icon/899600b67bdf663a.svg" alt="">釣竿</a> ・ <a href="#/ja/item/whip-of-love"><img class="wiki-icon" src="assets/icon/1d0a76a1fdd49640.svg" alt="">愛の鞭</a> ・ <a href="#/ja/item/blown-kiss"><img class="wiki-icon" src="assets/icon/01438db31063866b.svg" alt="">投げキッス</a> ・ <a href="#/ja/item/soccer-ball"><img class="wiki-icon" src="assets/icon/4ac2eba5f7d54610.svg" alt="">サッカーボール</a> ・ <a href="#/ja/item/carrot-and-stick"><img class="wiki-icon" src="assets/icon/81156bd0468ff283.svg" alt="">飴と鞭</a></div></div>
 
 ## 開発者向け情報
 
@@ -60,7 +60,7 @@
 		"icon": {
 			"emoji": "⚽",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/4ac2eba5f7d54610.svg）"
 		},
 		"color": ""
 	},

@@ -1,15 +1,15 @@
 # 棚
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">棚</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">📚</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>3種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">棚</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/c2df00050a8531ca.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>3種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🏖️</span>砂の城](/ja/item/sand-castle) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">📼</span>無限ループするビデオテープ](/ja/item/infinite-loop-videotape) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
-| [<span class="wiki-icon">🟡</span>金の玉](/ja/item/golden-orb) | [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/a900530f1e982ad1.svg" alt="">砂の城](/ja/item/sand-castle) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/0b8445bf7e71a7cf.svg" alt="">無限ループするビデオテープ](/ja/item/infinite-loop-videotape) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
+| [<img class="wiki-icon" src="assets/icon/df07b589b979ed33.svg" alt="">金の玉](/ja/item/golden-orb) | [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | 装備必須 | — |
 
 ## 開発者向け情報
 
@@ -33,7 +33,7 @@
 	"icon": {
 		"emoji": "📚",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/c2df00050a8531ca.svg）"
 	},
 	"color": ""
 }

@@ -1,6 +1,6 @@
 # 宴の亡霊
 
-<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">宴の亡霊</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👻</span></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><span class="wiki-icon">🏰</span>城</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/throwing-weapon"><span class="wiki-icon">🎯</span>投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv42</td></tr><tr><th>所要時間</th><td>1.7秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.97</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#656a5a"><div class="wiki-infobox-title">宴の亡霊</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/94a2922ab82673de.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/castle"><img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城</a></td></tr><tr><th>系統</th><td><a href="#/ja/category/throwing-weapon"><img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv50</td></tr><tr><th>系統の必要Lv</th><td>Lv9</td></tr><tr><th>所要時間</th><td>1.7秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.97</td></tr><tr><th>経験値の配分</th><td><a href="#/ja/category/castle"><img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城</a> 80%、<a href="#/ja/category/throwing-weapon"><img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器</a> 20%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 終わらない舞踏会。誰もいないのに、皿の触れ合う音がする。
 
@@ -9,16 +9,17 @@
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🎯</span>投擲武器](/ja/category/throwing-weapon) Lv42以上（経験値の入り先カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) Lv50以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/f64249c8966f492b.svg" alt="">投擲武器](/ja/category/throwing-weapon) が解放されている・Lv9以上（系統のカテゴリ）
 
 ## 取得物
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🍚</span>生米](/ja/item/raw-rice) ×1 | 成功時 | 1.98% | 0.01 | 0.001 |
-| [<span class="wiki-icon">🍶</span>酒](/ja/item/liquor) ×1 | 成功時 | 0.816% | 0.004 | 0.001 |
-| [<span class="wiki-icon">🍇</span>葡萄](/ja/item/wine-grape) ×1 | 成功時 | 0.816% | 0.004 | 0.001 |
-| [<span class="wiki-icon">🍎</span>禁断の果実](/ja/item/forbidden-fruit) ×1 | 成功時 | 0.408% | 0.002 | 0 |
+| [<img class="wiki-icon" src="assets/icon/c47a37b00a80d13e.svg" alt="">生米](/ja/item/raw-rice) ×1 | 成功時 | 1.98% | 0.01 | 0.002 |
+| [<img class="wiki-icon" src="assets/icon/84951f4d056d7319.svg" alt="">酒](/ja/item/liquor) ×1 | 成功時 | 0.816% | 0.004 | 0.001 |
+| [<img class="wiki-icon" src="assets/icon/83e48fe98f9d58fe.svg" alt="">葡萄](/ja/item/wine-grape) ×1 | 成功時 | 0.816% | 0.004 | 0.001 |
+| [<img class="wiki-icon" src="assets/icon/c9beb4081ce4f8a7.svg" alt="">禁断の果実](/ja/item/forbidden-fruit) ×1 | 成功時 | 0.408% | 0.002 | 0 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -28,28 +29,28 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 165 | 180 | 8 | 27 | 3 |
+| 197 | 171 | 6 | 25 | 4 |
 
 **敵のスキル**
 
-- [<span class="wiki-icon">👊</span>手数](/ja/skill/many-blows)：毎ターン 12% で発動、精度+3
-- [<span class="wiki-icon">🍃</span>風読み](/ja/skill/wind-reading)：毎ターン 6% で発動、精度+7・回避+6
+- [<img class="wiki-icon" src="assets/icon/44472e3e0e1e652f.svg" alt="">手数](/ja/skill/many-blows)：毎ターン 12% で発動、精度+3
+- [<img class="wiki-icon" src="assets/icon/b0cf0ac5f40111f5.svg" alt="">風読み](/ja/skill/wind-reading)：毎ターン 6% で発動、精度+7・回避+6
 
 ### 戦闘の見込み（装備・スキルなし）
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv42） | 0.014% | 85.1% | 50.1% | 22.1% | 20% | 14,751.6 | 978,003.8% | 6時間57分 | 負ける見込みが高い |
+| ±0（Lv9） | 0.019% | 162.8% | 52.1% | 22.8% | 19.3% | 9,844.1 | 1,237,300.6% | 4時間38分 | 負ける見込みが高い |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
 ## 計算値
 
-| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
-| --- | --- | --- | --- | --- | --- |
-| ±0（Lv42） | 1.7秒 | 50% | 0.97 | 0.1 | 0 |
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時（城） | 経験値%/時（投擲武器） |
+| --- | --- | --- | --- | --- | --- | --- |
+| ±0（Lv9） | 1.7秒 | 50% | 0.97 | 0.2 | 0 | 0 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝系統のカテゴリのレベル − 系統の必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。
 
 ## 収支（1時間あたり）
 
@@ -59,7 +60,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#776a48"><div class="wiki-navbox-title">城のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/rampart-patrol"><span class="wiki-icon">🏰</span>城壁の見回り</a> ・ <a href="#/ja/action/archive-research"><span class="wiki-icon">📚</span>書庫の調べ物</a> ・ <a href="#/ja/action/treasury-sorting"><span class="wiki-icon">💰</span>宝物庫の整理</a> ・ <a href="#/ja/action/golem"><span class="wiki-icon">🗿</span>ゴーレム</a> ・ <a href="#/ja/action/elementalist"><span class="wiki-icon">🧙</span>エレメンタリスト</a> ・ <a href="#/ja/action/magic-mirror"><span class="wiki-icon">🪞</span>魔法の鏡</a> ・ <a href="#/ja/action/knight"><span class="wiki-icon">🛡️</span>騎士</a> ・ <a href="#/ja/action/ghost-knight"><span class="wiki-icon">👻</span>亡霊騎士</a> ・ <a href="#/ja/action/necromancer"><span class="wiki-icon">💀</span>ネクロマンサー</a> ・ <a href="#/ja/action/fairy"><span class="wiki-icon">🧚</span>妖精</a> ・ <a href="#/ja/action/jailer"><span class="wiki-icon">🔒</span>牢番</a> ・ <a href="#/ja/action/squirrel"><span class="wiki-icon">🐿️</span>リス</a> ・ <a href="#/ja/action/gargoyle"><span class="wiki-icon">🗿</span>ガーゴイル</a> ・ <a href="#/ja/action/banquet-ghost"><span class="wiki-icon">👻</span>宴の亡霊</a> ・ <a href="#/ja/action/deep-dungeon-cell"><span class="wiki-icon">⛓️</span>地下牢の奥</a> ・ <a href="#/ja/action/hidden-passage-survey"><span class="wiki-icon">🚪</span>隠し通路の調査</a> ・ <a href="#/ja/action/throne-room-secret"><span class="wiki-icon">👑</span>王の間の秘密</a></div></div>
+<div class="wiki-navbox" style="--accent:#776a48"><div class="wiki-navbox-title">城のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/rampart-patrol"><img class="wiki-icon" src="assets/icon/6800a285339cbe7c.svg" alt="">城壁の見回り</a> ・ <a href="#/ja/action/archive-research"><img class="wiki-icon" src="assets/icon/ef96ea3c75b9fd31.svg" alt="">書庫の調べ物</a> ・ <a href="#/ja/action/treasury-sorting"><img class="wiki-icon" src="assets/icon/6acb26a6fe78542c.svg" alt="">宝物庫の整理</a> ・ <a href="#/ja/action/elementalist"><img class="wiki-icon" src="assets/icon/3aad8de08b0fee46.svg" alt="">エレメンタリスト</a> ・ <a href="#/ja/action/magic-mirror"><img class="wiki-icon" src="assets/icon/b148d196aa5fc19f.svg" alt="">魔法の鏡</a> ・ <a href="#/ja/action/fairy"><img class="wiki-icon" src="assets/icon/88313a9dc8e4e6f5.svg" alt="">妖精</a> ・ <a href="#/ja/action/squirrel"><img class="wiki-icon" src="assets/icon/544de9bef8647904.svg" alt="">リス</a> ・ <a href="#/ja/action/gargoyle"><img class="wiki-icon" src="assets/icon/3bd66d6ecb71b73e.svg" alt="">ガーゴイル</a> ・ <a href="#/ja/action/necromancer"><img class="wiki-icon" src="assets/icon/b8dfc337e8669e69.svg" alt="">ネクロマンサー</a> ・ <a href="#/ja/action/banquet-ghost"><img class="wiki-icon" src="assets/icon/94a2922ab82673de.svg" alt="">宴の亡霊</a> ・ <a href="#/ja/action/golem"><img class="wiki-icon" src="assets/icon/ddc072b9213bf3de.svg" alt="">ゴーレム</a> ・ <a href="#/ja/action/knight"><img class="wiki-icon" src="assets/icon/4cf5aeed2a7e772b.svg" alt="">騎士</a> ・ <a href="#/ja/action/ghost-knight"><img class="wiki-icon" src="assets/icon/6c3069c276750054.svg" alt="">亡霊騎士</a> ・ <a href="#/ja/action/jailer"><img class="wiki-icon" src="assets/icon/0c0348d8c43a934d.svg" alt="">牢番</a> ・ <a href="#/ja/action/deep-dungeon-cell"><img class="wiki-icon" src="assets/icon/4e50f8830b6c51c0.svg" alt="">地下牢の奥</a> ・ <a href="#/ja/action/hidden-passage-survey"><img class="wiki-icon" src="assets/icon/2e3814868e6b6f25.svg" alt="">隠し通路の調査</a> ・ <a href="#/ja/action/throne-room-secret"><img class="wiki-icon" src="assets/icon/3457029812b6df6f.svg" alt="">王の間の秘密</a></div></div>
 
 ## 開発者向け情報
 
@@ -67,10 +68,11 @@
 | --- | --- |
 | id | `banquet-ghost` |
 | `category` | `castle` |
-| `attribute` | `throwing-weapon` |
+| `discipline` | `throwing-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `42` |
+| `level` | `50` |
+| `disciplineLevel` | `9` |
 | `experience` | `0.971` |
 | `seconds` | `1.7` |
 | `chance` | `0.5` |
@@ -92,15 +94,16 @@
 		"icon": {
 			"emoji": "👻",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/94a2922ab82673de.svg）"
 		},
 		"color": ""
 	},
 	"category": "castle",
-	"attribute": "throwing-weapon",
+	"discipline": "throwing-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 42,
+	"level": 50,
+	"disciplineLevel": 9,
 	"experience": 0.971,
 	"seconds": 1.7,
 	"chance": 0.5,
@@ -134,11 +137,11 @@
 	],
 	"progressType": "stamina",
 	"property": {
-		"attack": 165,
-		"defence": 180,
-		"accuracy": 8,
-		"evasion": 27,
-		"restore": 3
+		"attack": 197,
+		"defence": 171,
+		"accuracy": 6,
+		"evasion": 25,
+		"restore": 4
 	},
 	"skills": [
 		"many-blows",

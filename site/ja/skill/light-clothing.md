@@ -1,6 +1,6 @@
 # 軽装
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">軽装</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">👕</span></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>回避+4</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">軽装</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/e269af0e827c880a.svg" alt=""></div><table><tr><th>発動率</th><td>11%／ターン</td></tr><tr><th>効果</th><td>回避+4</td></tr><tr><th>持つ敵</th><td>1体</td></tr><tr><th>持つ装備</th><td>1種</td></tr></table></div>
 
 > 脱いだ分だけ、身体が速い。
 
@@ -17,13 +17,13 @@
 
 | 敵（アクション） | 場所 | 必要Lv |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧙</span>エレメンタリスト](/ja/action/elementalist) | [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | Lv39 |
+| [<img class="wiki-icon" src="assets/icon/3aad8de08b0fee46.svg" alt="">エレメンタリスト](/ja/action/elementalist) | [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | Lv6 |
 
 ## このスキルを持つ装備
 
 | 装備 | グループ | 装備 |
 | --- | --- | --- |
-| [<span class="wiki-icon">😷</span>マスク](/ja/item/mask) | [<span class="wiki-icon">🪖</span>頭部防具](/ja/group/head-armor) | 装備必須 |
+| [<img class="wiki-icon" src="assets/icon/9439912679b9993f.svg" alt="">マスク](/ja/item/mask) | [<img class="wiki-icon" src="assets/icon/6c462d8e036e535b.svg" alt="">頭部防具](/ja/group/head-armor) | 装備必須 |
 
 ## 開発者向け情報
 
@@ -46,7 +46,7 @@
 		"icon": {
 			"emoji": "👕",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/e269af0e827c880a.svg）"
 		},
 		"color": ""
 	},

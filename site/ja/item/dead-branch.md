@@ -1,6 +1,6 @@
 # 枯れ枝
 
-<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">枯れ枝</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🥀</span></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><span class="wiki-icon">📦</span>倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>2 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#85837e"><div class="wiki-infobox-title">枯れ枝</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/1b278ad03cb35a64.svg" alt=""></div><table><tr><th>管理カテゴリ</th><td><a href="#/ja/category/warehouse"><img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a></td></tr><tr><th>装備</th><td>装備不可</td></tr><tr><th>売値</th><td>2 <a href="#/ja/item/coin"><img class="wiki-icon" src="assets/icon/8255d311d6ac85ae.svg" alt="">コイン</a></td></tr><tr><th>買値</th><td>購入不可</td></tr><tr><th>所持上限</th><td>無制限</td></tr><tr><th>入手経路</th><td>アクション</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 折れば焚き火の燃料。
 
@@ -11,7 +11,7 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🪵</span>倒木あさり](/ja/action/scavenge-fallen-tree) | [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | Lv3 | 7 | 91% | 3.2 | 573 |
+| [<img class="wiki-icon" src="assets/icon/f6b774fbdf6117d2.svg" alt="">倒木あさり](/ja/action/scavenge-fallen-tree) | [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | Lv3 | 7 | 91% | 3.2 | 573 |
 
 ## 用途
 
@@ -19,14 +19,14 @@
 
 | アクション | 場所 | 必要Lv | 個数 | 消費率 | 備考 |
 | --- | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🎯</span>吹き矢](/ja/action/craft-blowgun) | [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | Lv9 | 3 | 100% |  |
-| [<span class="wiki-icon">👨‍🌾</span>農夫の作業着](/ja/action/craft-farmer-work-clothes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv10 | 5 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/15d78c10d732b399.svg" alt="">吹き矢](/ja/action/craft-blowgun) | [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | Lv9 | 3 | 100% |  |
+| [<img class="wiki-icon" src="assets/icon/d74c9fee024217f5.svg" alt="">農夫の作業着](/ja/action/craft-farmer-work-clothes) | [<img class="wiki-icon" src="assets/icon/4b6c89254dce0737.svg" alt="">防具](/ja/category/armor) | Lv10 | 5 | 100% |  |
 
 ### 条件にしているもの
 
 | 対象 | 種類 | 条件 |
 | --- | --- | --- |
-| [<span class="wiki-icon">🧭</span>迷い道](/ja/event/lost-path) | イベントの条件（条件達成（タスク）） | [<span class="wiki-icon">🥀</span>枯れ枝](/ja/item/dead-branch) ×15 |
+| [<img class="wiki-icon" src="assets/icon/1b3dd0e8517f55c6.svg" alt="">迷い道](/ja/event/lost-path) | イベントの条件（条件達成（タスク）） | [<img class="wiki-icon" src="assets/icon/1b278ad03cb35a64.svg" alt="">枯れ枝](/ja/item/dead-branch) ×15 |
 
 <div class="wiki-navbox" style="--accent:#85837e"><div class="wiki-navbox-title">グループ: 素材</div><div class="wiki-navbox-body">215件。一覧は <a href="#/ja/group/material"><img class="wiki-icon" src="assets/icon/fd1bdd12170273cb.svg" alt="">素材</a> を参照</div></div>
 
@@ -61,7 +61,7 @@
 		"icon": {
 			"emoji": "🥀",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/1b278ad03cb35a64.svg）"
 		},
 		"color": ""
 	},

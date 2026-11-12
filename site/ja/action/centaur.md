@@ -1,6 +1,6 @@
 # ケンタウロス
 
-<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">ケンタウロス</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🐎</span></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><span class="wiki-icon">🌲</span>森</a></td></tr><tr><th>経験値の入り先</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv12</td></tr><tr><th>所要時間</th><td>1.7秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.97</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#606a74"><div class="wiki-infobox-title">ケンタウロス</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/43113159f0664f4b.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/forest"><img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森</a></td></tr><tr><th>系統</th><td><a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/hunt"><img class="wiki-icon" src="assets/icon/808e242506a56d5f.svg" alt="">討伐</a></td></tr><tr><th>進行</th><td>スタミナ（戦闘）</td></tr><tr><th>必要Lv</th><td>Lv42</td></tr><tr><th>系統の必要Lv</th><td>Lv10</td></tr><tr><th>所要時間</th><td>1.7秒／ターン</td></tr><tr><th>成功率</th><td>50%</td></tr><tr><th>経験値</th><td>0.97</td></tr><tr><th>経験値の配分</th><td><a href="#/ja/category/forest"><img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森</a> 80%、<a href="#/ja/category/melee-weapon"><img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器</a> 20%</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 > 半馬半人の強力な狩人。
 
@@ -9,17 +9,18 @@
 
 ## 必要なもの
 
-- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) Lv12以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🎏</span>物干し竿](/ja/item/laundry-pole) ×1（装備が必要・消費しない）
+- [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) Lv42以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/cfd2b15788b3e594.svg" alt="">近接武器](/ja/category/melee-weapon) が解放されている・Lv10以上（系統のカテゴリ）
+- [<img class="wiki-icon" src="assets/icon/c53c62a653c2665f.svg" alt="">物干し竿](/ja/item/laundry-pole) ×1（装備が必要・消費しない）
 
 ## 取得物
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) ×1 | 成功時 | 14.2% | 0.071 | 16.7 |
-| [<span class="wiki-icon">🪶</span>羽根](/ja/item/feather) ×1 | 成功時 | 9.52% | 0.048 | 11.2 |
-| [<span class="wiki-icon">🦷</span>牙](/ja/item/fang) ×1 | 成功時 | 1.36% | 0.007 | 1.6 |
-| [<span class="wiki-icon">🦴</span>大きな骨](/ja/item/big-bone) ×1 | 成功時 | 1.36% | 0.007 | 1.6 |
+| [<img class="wiki-icon" src="assets/icon/da37979c4eda612b.svg" alt="">ワイヤー](/ja/item/wire) ×1 | 成功時 | 14.2% | 0.071 | 16.7 |
+| [<img class="wiki-icon" src="assets/icon/2364d7fb0796e1b8.svg" alt="">羽根](/ja/item/feather) ×1 | 成功時 | 9.52% | 0.048 | 11.2 |
+| [<img class="wiki-icon" src="assets/icon/b50f3310d210d4d5.svg" alt="">牙](/ja/item/fang) ×1 | 成功時 | 1.36% | 0.007 | 1.6 |
+| [<img class="wiki-icon" src="assets/icon/8b8473145ed2088d.svg" alt="">大きな骨](/ja/item/big-bone) ×1 | 成功時 | 1.36% | 0.007 | 1.6 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 50%（レベル差0・装備なし）で按分した値。
 
@@ -29,33 +30,27 @@
 
 | 敵の攻撃 | 敵の防御 | 敵の精度 | 敵の回避 | 敵の回復 |
 | --- | --- | --- | --- | --- |
-| 15 | 4 | 6 | 0 | 9 |
+| 15 | 4 | 5 | 0 | 9 |
 
 **敵のスキル**
 
-- [<span class="wiki-icon">🏃</span>助走](/ja/skill/run-up)：毎ターン 11% で発動、攻撃+4
+- [<img class="wiki-icon" src="assets/icon/e7ecc536bbae6449.svg" alt="">助走](/ja/skill/run-up)：毎ターン 11% で発動、攻撃+4
 
 ### 戦闘の見込み（装備・スキルなし）
 
 | レベル差 | 攻撃（1ヒット） | 被ダメ（1ヒット） | 精度 | 回避 | 回復（1戦ごと） | 撃破ターン | 1戦の被ダメ | 1戦の時間 | 判定 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ±0（Lv12） | 17% | 4.07% | 75% | 22.8% | 16.4% | 8 | 25.1% | 15.3秒 | 連戦で少しずつ消耗する |
-| +10（Lv22） | 25.5% | 3.32% | 81.8% | 26.6% | 22.7% | 4.9 | 11.9% | 8.2秒 | 放置で連戦できる |
-| +20（Lv32） | 38.3% | 2.71% | 87.1% | 30.7% | 30.6% | 3.4 | 6.47% | 5秒 | 放置で連戦できる |
-| +30（Lv42） | 57.4% | 2.21% | 91% | 35.2% | 39.8% | 2.2 | 3.15% | 3秒 | 放置で連戦できる |
+| ±0（Lv10） | 17% | 4.07% | 75% | 23.1% | 16.4% | 8 | 25% | 15.3秒 | 連戦で少しずつ消耗する |
 
 撃破ターン＝敵HP100%を削り切るヒット数÷精度。1戦の時間は回復ターン1回を含む。被ダメが回復を上回ると連戦でHPが減っていく。装備・スキル・乱数の偏りは含まない目安。
 
 ## 計算値
 
-| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
-| --- | --- | --- | --- | --- | --- |
-| ±0（Lv12） | 1.7秒 | 50% | 0.97 | 235.3 | 36 |
-| +10（Lv22） | 1.4秒 | 60% | 0.65 | 440.4 | 19 |
-| +20（Lv32） | 1.1秒 | 69.2% | 0.43 | 714.7 | 8 |
-| +30（Lv42） | 0.9秒 | 77.1% | 0.29 | 1,216.7 | 4 |
+| レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時（森） | 経験値%/時（近接武器） |
+| --- | --- | --- | --- | --- | --- | --- |
+| ±0（Lv10） | 1.7秒 | 50% | 0.97 | 235.3 | 1 | 9 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝系統のカテゴリのレベル − 系統の必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。所要時間・成功率・戦闘は系統のカテゴリのレベル差で決まる。経験値は所属カテゴリと系統のカテゴリに配分し（インフォボックスの「経験値の配分」）、それぞれのカテゴリのレベル差で増減する。この表では所属カテゴリも同じレベル差とみなしている。
 
 ## 収支（1時間あたり）
 
@@ -65,7 +60,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><span class="wiki-icon">🌰</span>木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><span class="wiki-icon">🪵</span>倒木あさり</a> ・ <a href="#/ja/action/rabbit-girl"><span class="wiki-icon">🐰</span>ラビットガール</a> ・ <a href="#/ja/action/snake"><span class="wiki-icon">🐍</span>ヘビ</a> ・ <a href="#/ja/action/walking-mushroom"><span class="wiki-icon">🍄</span>歩くキノコ</a> ・ <a href="#/ja/action/man-eating-plant"><span class="wiki-icon">🌱</span>食人植物</a> ・ <a href="#/ja/action/cockatrice"><span class="wiki-icon">🐔</span>コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/druid"><span class="wiki-icon">🧙</span>ドルイド</a> ・ <a href="#/ja/action/bear"><span class="wiki-icon">🐻</span>クマ</a> ・ <a href="#/ja/action/orc"><span class="wiki-icon">👹</span>オーク</a> ・ <a href="#/ja/action/flying-elephant"><span class="wiki-icon">🐘</span>空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><span class="wiki-icon">🐎</span>ケンタウロス</a> ・ <a href="#/ja/action/wolf"><span class="wiki-icon">🐺</span>ウルフ</a> ・ <a href="#/ja/action/hydra"><span class="wiki-icon">🐉</span>ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><span class="wiki-icon">⛩️</span>古い祠の調査</a></div></div>
+<div class="wiki-navbox" style="--accent:#426251"><div class="wiki-navbox-title">森のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/gather-nuts"><img class="wiki-icon" src="assets/icon/2081317ebebd178d.svg" alt="">木の実採り</a> ・ <a href="#/ja/action/scavenge-fallen-tree"><img class="wiki-icon" src="assets/icon/f6b774fbdf6117d2.svg" alt="">倒木あさり</a> ・ <a href="#/ja/action/rabbit-girl"><img class="wiki-icon" src="assets/icon/ca6d048476ae39f9.svg" alt="">ラビットガール</a> ・ <a href="#/ja/action/goblin"><img class="wiki-icon" src="assets/icon/5ae28253f47375a3.svg" alt="">ゴブリン</a> ・ <a href="#/ja/action/walking-mushroom"><img class="wiki-icon" src="assets/icon/5b9eec78a0de50a1.svg" alt="">歩くキノコ</a> ・ <a href="#/ja/action/snake"><img class="wiki-icon" src="assets/icon/4a396b8649ead6c1.svg" alt="">ヘビ</a> ・ <a href="#/ja/action/man-eating-plant"><img class="wiki-icon" src="assets/icon/201d7af6f34effd1.svg" alt="">食人植物</a> ・ <a href="#/ja/action/cockatrice"><img class="wiki-icon" src="assets/icon/ea5fece55cd26243.svg" alt="">コカトリス</a> ・ <a href="#/ja/action/wild-boar"><img class="wiki-icon" src="assets/icon/6d5271227ed21518.svg" alt="">ワイルドボア</a> ・ <a href="#/ja/action/flying-elephant"><img class="wiki-icon" src="assets/icon/e3daf5030f26dcd0.svg" alt="">空飛ぶ象</a> ・ <a href="#/ja/action/centaur"><img class="wiki-icon" src="assets/icon/43113159f0664f4b.svg" alt="">ケンタウロス</a> ・ <a href="#/ja/action/druid"><img class="wiki-icon" src="assets/icon/f31490361b7ac246.svg" alt="">ドルイド</a> ・ <a href="#/ja/action/bear"><img class="wiki-icon" src="assets/icon/f3cda161292208a6.svg" alt="">クマ</a> ・ <a href="#/ja/action/wolf"><img class="wiki-icon" src="assets/icon/15c5deccdd555c48.svg" alt="">ウルフ</a> ・ <a href="#/ja/action/orc"><img class="wiki-icon" src="assets/icon/caf79c699a6ed796.svg" alt="">オーク</a> ・ <a href="#/ja/action/hydra"><img class="wiki-icon" src="assets/icon/dd15cd9ebcbaacd1.svg" alt="">ヒュドラ</a> ・ <a href="#/ja/action/investigate-old-shrine"><img class="wiki-icon" src="assets/icon/2674008c6dd247bc.svg" alt="">古い祠の調査</a></div></div>
 
 ## 開発者向け情報
 
@@ -73,10 +68,11 @@
 | --- | --- |
 | id | `centaur` |
 | `category` | `forest` |
-| `attribute` | `melee-weapon` |
+| `discipline` | `melee-weapon` |
 | `group` | `hunt` |
 | `unlocked` | `hidden` |
-| `level` | `12` |
+| `level` | `42` |
+| `disciplineLevel` | `10` |
 | `experience` | `0.971` |
 | `seconds` | `1.7` |
 | `chance` | `0.5` |
@@ -98,15 +94,16 @@
 		"icon": {
 			"emoji": "🐎",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/43113159f0664f4b.svg）"
 		},
 		"color": ""
 	},
 	"category": "forest",
-	"attribute": "melee-weapon",
+	"discipline": "melee-weapon",
 	"group": "hunt",
 	"unlocked": "hidden",
-	"level": 12,
+	"level": 42,
+	"disciplineLevel": 10,
 	"experience": 0.971,
 	"seconds": 1.7,
 	"chance": 0.5,
@@ -150,7 +147,7 @@
 	"property": {
 		"attack": 15,
 		"defence": 4,
-		"accuracy": 6,
+		"accuracy": 5,
 		"evasion": 0,
 		"restore": 9
 	},

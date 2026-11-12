@@ -1,7 +1,7 @@
 // 一覧ページ（list/<種別>）。種別ごとの全件表。どれも絞り込み欄付き
 import type * as Type from "../../source/type/worldType.ts";
 import { cellList, duration, join, link, number, percent, percentValue, section, signed, table } from "../lib/format.ts";
-import { acquisitionText, baseStats, requirementText, SHORT_NOTE, shortAcquisitions, shortConsumptions, skillEffect, type Context, type Page } from "./common.ts";
+import { acquisitionText, baseStats, levelPercentCell, requirementText, SHORT_NOTE, shortAcquisitions, shortConsumptions, skillEffect, type Context, type Page } from "./common.ts";
 import { VERDICT } from "./action.ts";
 
 /** 一覧ページの見出し（サイドバーと共通） */
@@ -47,21 +47,23 @@ export function listPages(context: Context): Page[] {
 	const actions = page(
 		context,
 		"list/actions",
-		`経験値%/時は1時間に上がるレベルを%で表した値（経験値の入り先カテゴリが必要Lvのときのレベル1つ分＝100%）。レベル差0・装備なしの目安で、戦闘は1戦の見込み時間で割った値。${SHORT_NOTE}`,
+		`経験値%/時は1時間に上がるレベルを%で表した値（入り先カテゴリが必要Lvのときのレベル1つ分＝100%）。系統を持つアクションは経験値を所属カテゴリと系統のカテゴリに配分するので「所属／系統」の2つを並べる。レベル差0・装備なしの目安で、戦闘は1戦の見込み時間で割った値。${SHORT_NOTE}`,
 		filterNote,
 		table(
-			["アクション", "場所", "グループ", "進行", "必要Lv", "時間", "成功率", "経験値%/時", "消費物", "取得物"],
+			["アクション", "場所", "系統", "グループ", "進行", "必要Lv", "系統Lv", "時間", "成功率", "経験値%/時", "消費物", "取得物"],
 			world.actions.map((action) => {
 				const stats = baseStats(context, action);
 				return [
 					link(model, "action", action.information.id),
 					link(model, "category", action.category),
+					model.hasDiscipline(action) ? link(model, "category", action.discipline) : "",
 					action.group ? link(model, "group", action.group) : "",
 					model.label.progress[action.progressType],
 					number(action.level),
+					model.hasDiscipline(action) ? number(model.disciplineLevel(action)) : "",
 					action.progressType === "snap" ? "即時" : duration(action.seconds, units),
 					percent(action.chance),
-					stats.levelPercentPerHour !== undefined && stats.experience > 0 ? number(stats.levelPercentPerHour, 0) : "—",
+					levelPercentCell(context, stats),
 					shortConsumptions(context, action),
 					shortAcquisitions(context, action),
 				];
@@ -76,7 +78,7 @@ export function listPages(context: Context): Page[] {
 		"スタミナ（戦闘）のアクションの一覧。見込みはレベル差0・装備なし。",
 		filterNote,
 		table(
-			["敵", "場所", "経験値の入り先", "必要Lv", "攻撃", "防御", "精度", "回避", "回復", "スキル", "1戦の被ダメ", "見込み"],
+			["敵", "場所", "系統", "必要Lv", "系統Lv", "攻撃", "防御", "精度", "回避", "回復", "スキル", "1戦の被ダメ", "見込み"],
 			world.actions
 				.filter((action) => action.progressType === "stamina")
 				.map((action) => {
@@ -84,8 +86,9 @@ export function listPages(context: Context): Page[] {
 					return [
 						link(model, "action", action.information.id),
 						link(model, "category", action.category),
-						link(model, "category", action.attribute || action.category),
+						model.hasDiscipline(action) ? link(model, "category", action.discipline) : "",
 						number(action.level),
+						model.hasDiscipline(action) ? number(model.disciplineLevel(action)) : "",
 						number(action.property.attack),
 						number(action.property.defence),
 						number(action.property.accuracy),

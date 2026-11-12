@@ -1,16 +1,16 @@
 # リサイクル素材
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">リサイクル素材</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">♻️</span></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>4種</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">リサイクル素材</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/509a5ccefb88d602.svg" alt=""></div><table><tr><th>使う種別</th><td>アイテム</td></tr><tr><th>アイテム</th><td>4種</td></tr></table></div>
 
 
 ## アイテム
 
 | アイテム | 管理カテゴリ | 装備 | 売値 |
 | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>錆びた金属片](/ja/item/rusty-metal-piece) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 9 |
-| [<span class="wiki-icon">🧵</span>ほつれた布切れ](/ja/item/frayed-cloth) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 9 |
-| [<span class="wiki-icon">🟫</span>なめし革の断片](/ja/item/tanned-leather-piece) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 243 |
-| [<span class="wiki-icon">🔩</span>鍛えた金属塊](/ja/item/forged-metal-ingot) | [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | 装備不可 | 324 |
+| [<img class="wiki-icon" src="assets/icon/d071640cd4afaf27.svg" alt="">錆びた金属片](/ja/item/rusty-metal-piece) | [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | 装備不可 | 9 |
+| [<img class="wiki-icon" src="assets/icon/692ca06a76774f5b.svg" alt="">ほつれた布切れ](/ja/item/frayed-cloth) | [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | 装備不可 | 9 |
+| [<img class="wiki-icon" src="assets/icon/7b16b3b28f7756e8.svg" alt="">なめし革の断片](/ja/item/tanned-leather-piece) | [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | 装備不可 | 243 |
+| [<img class="wiki-icon" src="assets/icon/ed2567c3b22280b4.svg" alt="">鍛えた金属塊](/ja/item/forged-metal-ingot) | [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | 装備不可 | 324 |
 
 ## 開発者向け情報
 
@@ -34,7 +34,7 @@
 	"icon": {
 		"emoji": "♻️",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/509a5ccefb88d602.svg）"
 	},
 	"color": ""
 }

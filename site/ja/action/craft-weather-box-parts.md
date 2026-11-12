@@ -1,16 +1,17 @@
 # 百葉箱の部品
 
-<div class="wiki-infobox" style="--accent:#627777"><div class="wiki-infobox-title">百葉箱の部品</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🔩</span></div><table><tr><th>場所</th><td><a href="#/ja/category/workshop"><span class="wiki-icon">🔧</span>作業部屋</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/parts"><span class="wiki-icon">🔩</span>部品</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv27</td></tr><tr><th>所要時間</th><td>15分</td></tr><tr><th>成功率</th><td>70%</td></tr><tr><th>経験値</th><td>407</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#627777"><div class="wiki-infobox-title">百葉箱の部品</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/906d33c5da4359d9.svg" alt=""></div><table><tr><th>場所</th><td><a href="#/ja/category/workshop"><img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋</a></td></tr><tr><th>グループ</th><td><a href="#/ja/group/parts"><img class="wiki-icon" src="assets/icon/ede0f331a74ba223.svg" alt="">部品</a></td></tr><tr><th>進行</th><td>連続</td></tr><tr><th>必要Lv</th><td>Lv27</td></tr><tr><th>所要時間</th><td>15分</td></tr><tr><th>成功率</th><td>70%</td></tr><tr><th>経験値</th><td>407</td></tr><tr><th>最大回数</th><td>無制限</td></tr><tr><th>初期状態</th><td>非表示</td></tr></table></div>
 
 
 **連続**: 時間で進み、止めるまで繰り返す。オフライン中も進む。
 
 ## 必要なもの
 
-- [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) Lv27以上（経験値の入り先カテゴリのレベル）
-- [<span class="wiki-icon">🔌</span>ワイヤー](/ja/item/wire) ×6（消費する）
-- [<span class="wiki-icon">🔋</span>リチウム](/ja/item/lithium) ×34（消費する）
-- [<span class="wiki-icon">💾</span>ニュートラルチップ](/ja/item/neutral-chip) ×11（消費する）
+- [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) Lv27以上（所属カテゴリのレベル）
+- [<img class="wiki-icon" src="assets/icon/da37979c4eda612b.svg" alt="">ワイヤー](/ja/item/wire) ×6（消費する）
+- [<img class="wiki-icon" src="assets/icon/dcd1039e34375b78.svg" alt="">リチウム](/ja/item/lithium) ×34（消費する）
+- [<img class="wiki-icon" src="assets/icon/94338ed8b5c294ad.svg" alt="">ニュートラルチップ](/ja/item/neutral-chip) ×11（消費する）
+- [<span class="wiki-icon">🏅</span>北国の証](/ja/item/northland-proof) ×1（消費しない）
 
 材料は成功・失敗にかかわらず、1回ごとに消費率で抽選して消費する。
 
@@ -18,7 +19,7 @@
 
 | 取得物 | 条件 | 確率 | 1回あたり | 1時間あたり |
 | --- | --- | --- | --- | --- |
-| [<span class="wiki-icon">🔩</span>百葉箱の部品](/ja/item/weather-box-parts) ×4 | 成功時 | 100% | 2.8 | 11.2 |
+| [<img class="wiki-icon" src="assets/icon/45f1bb7967699a60.svg" alt="">百葉箱の部品](/ja/item/weather-box-parts) ×4 | 成功時 | 100% | 2.8 | 11.2 |
 
 取得物は1件ずつ独立に抽選する（複数同時・何も出ないこともある）。期待値は成功率 70%（レベル差0・装備なし）で按分した値。
 
@@ -27,10 +28,10 @@
 | レベル差 | 所要時間 | 成功率 | 経験値/成功 | 実行回数/時 | 経験値%/時 |
 | --- | --- | --- | --- | --- | --- |
 | ±0（Lv27） | 15分 | 70% | 407 | 4 | 76 |
-| +10（Lv37） | 12分15秒 | 77.8% | 271.33 | 4.9 | 24 |
-| +20（Lv47） | 10分 | 84% | 180.89 | 6 | 7 |
+| +10（Lv37） | 12分15秒 | 77.8% | 221.54 | 4.9 | 20 |
+| +20（Lv47） | 10分 | 84% | 120.59 | 6 | 5 |
 
-レベル差＝経験値の入り先カテゴリのレベル − 必要Lv。経験値%/時は、そのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
+レベル差＝所属カテゴリのレベル − 必要Lv。経験値%/時は、入り先カテゴリのそのレベルでのレベル1つ分を100%として1時間に上がる量。レベルが上がるほど速く・成功しやすくなるが、1回の経験値は減り、次のレベルまでの必要量も増える。装備による補正は含まない。
 
 ## 収支（1時間あたり）
 
@@ -40,7 +41,7 @@
 
 取得物をすべて売った額と、消費した材料を売っていれば得られた額の差。レベル差0・装備なしの目安。
 
-<div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">作業部屋のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/craft-ruining-cushion-parts"><span class="wiki-icon">🔩</span>人をダメにするクッションの部品</a> ・ <a href="#/ja/action/craft-rabbit-hutch-parts"><span class="wiki-icon">🔩</span>ウサギ小屋の部品</a> ・ <a href="#/ja/action/craft-bookshelf-parts"><span class="wiki-icon">🔩</span>本棚の部品</a> ・ <a href="#/ja/action/craft-well-parts"><span class="wiki-icon">🔩</span>井戸の部品</a> ・ <a href="#/ja/action/assemble-lawn-mower-parts"><span class="wiki-icon">🔩</span>芝刈り機の部品</a> ・ <a href="#/ja/action/craft-oven-parts"><span class="wiki-icon">🔩</span>オーブンの部品</a> ・ <a href="#/ja/action/craft-dog-house-parts"><span class="wiki-icon">🔩</span>イヌ小屋の部品</a> ・ <a href="#/ja/action/craft-weather-box-parts"><span class="wiki-icon">🔩</span>百葉箱の部品</a> ・ <a href="#/ja/action/craft-refrigerator-parts"><span class="wiki-icon">🔩</span>冷蔵庫の部品</a> ・ <a href="#/ja/action/craft-solar-panel-parts"><span class="wiki-icon">🔩</span>ソーラーパネルの部品</a> ・ <a href="#/ja/action/craft-generator-parts"><span class="wiki-icon">🔩</span>発電機の部品</a> ・ <a href="#/ja/action/craft-hamster-wheel-parts"><span class="wiki-icon">🔩</span>ハムスターの回車の部品</a> ・ <a href="#/ja/action/craft-stove-parts"><span class="wiki-icon">🔩</span>かまどの部品</a> ・ <a href="#/ja/action/craft-fireplace-parts"><span class="wiki-icon">🔩</span>暖炉の部品</a> ・ <a href="#/ja/action/craft-ruining-cushion"><span class="wiki-icon">🛋️</span>人をダメにするクッション</a> ・ <a href="#/ja/action/craft-rabbit-hutch"><span class="wiki-icon">🐇</span>ウサギ小屋</a> ・ <a href="#/ja/action/craft-bookshelf"><span class="wiki-icon">📚</span>本棚</a> ・ <a href="#/ja/action/craft-well"><span class="wiki-icon">🪣</span>井戸</a> ・ <a href="#/ja/action/assemble-lawn-mower"><span class="wiki-icon">🌾</span>芝刈り機</a> ・ <a href="#/ja/action/craft-oven"><span class="wiki-icon">🍞</span>オーブン</a> ・ <a href="#/ja/action/craft-dog-house"><span class="wiki-icon">🐕</span>イヌ小屋</a> ・ <a href="#/ja/action/craft-weather-box"><span class="wiki-icon">🌡️</span>百葉箱</a> ・ <a href="#/ja/action/craft-refrigerator"><span class="wiki-icon">🧊</span>冷蔵庫</a> ・ <a href="#/ja/action/craft-solar-panel"><span class="wiki-icon">☀️</span>ソーラーパネル</a> ・ <a href="#/ja/action/craft-generator"><span class="wiki-icon">🔌</span>発電機</a> ・ <a href="#/ja/action/craft-hamster-wheel"><span class="wiki-icon">🐹</span>ハムスターの回車</a> ・ <a href="#/ja/action/craft-stove"><span class="wiki-icon">🔥</span>かまど</a> ・ <a href="#/ja/action/craft-fireplace"><span class="wiki-icon">🔥</span>暖炉</a></div></div>
+<div class="wiki-navbox" style="--accent:#627777"><div class="wiki-navbox-title">作業部屋のアクション</div><div class="wiki-navbox-body"><a href="#/ja/action/craft-ruining-cushion-parts"><img class="wiki-icon" src="assets/icon/62ec59ef24150f3f.svg" alt="">人をダメにするクッションの部品</a> ・ <a href="#/ja/action/craft-rabbit-hutch-parts"><img class="wiki-icon" src="assets/icon/23edfa4675c19fe4.svg" alt="">ウサギ小屋の部品</a> ・ <a href="#/ja/action/craft-bookshelf-parts"><img class="wiki-icon" src="assets/icon/3150d1aa1b70a020.svg" alt="">本棚の部品</a> ・ <a href="#/ja/action/craft-well-parts"><img class="wiki-icon" src="assets/icon/d20e9576e4413495.svg" alt="">井戸の部品</a> ・ <a href="#/ja/action/assemble-lawn-mower-parts"><img class="wiki-icon" src="assets/icon/8173da749d7a3dca.svg" alt="">芝刈り機の部品</a> ・ <a href="#/ja/action/craft-oven-parts"><img class="wiki-icon" src="assets/icon/552f45ee7971103d.svg" alt="">オーブンの部品</a> ・ <a href="#/ja/action/craft-dog-house-parts"><img class="wiki-icon" src="assets/icon/957ae06f3cd80af7.svg" alt="">イヌ小屋の部品</a> ・ <a href="#/ja/action/craft-weather-box-parts"><img class="wiki-icon" src="assets/icon/906d33c5da4359d9.svg" alt="">百葉箱の部品</a> ・ <a href="#/ja/action/craft-refrigerator-parts"><img class="wiki-icon" src="assets/icon/4cae3568b1c47521.svg" alt="">冷蔵庫の部品</a> ・ <a href="#/ja/action/craft-solar-panel-parts"><img class="wiki-icon" src="assets/icon/8f2c721187701b2f.svg" alt="">ソーラーパネルの部品</a> ・ <a href="#/ja/action/craft-generator-parts"><img class="wiki-icon" src="assets/icon/919ca0ee4fca874c.svg" alt="">発電機の部品</a> ・ <a href="#/ja/action/craft-hamster-wheel-parts"><img class="wiki-icon" src="assets/icon/bbbafcec10021a77.svg" alt="">ハムスターの回車の部品</a> ・ <a href="#/ja/action/craft-stove-parts"><img class="wiki-icon" src="assets/icon/65a7f5bbe532a85a.svg" alt="">かまどの部品</a> ・ <a href="#/ja/action/craft-fireplace-parts"><img class="wiki-icon" src="assets/icon/7bba33eaf6c04245.svg" alt="">暖炉の部品</a> ・ <a href="#/ja/action/craft-ruining-cushion"><img class="wiki-icon" src="assets/icon/7ea82e1a5d3390cd.svg" alt="">人をダメにするクッション</a> ・ <a href="#/ja/action/craft-rabbit-hutch"><img class="wiki-icon" src="assets/icon/e23f33a0c0afe5ed.svg" alt="">ウサギ小屋</a> ・ <a href="#/ja/action/craft-bookshelf"><img class="wiki-icon" src="assets/icon/0189883d1cf409ea.svg" alt="">本棚</a> ・ <a href="#/ja/action/craft-well"><img class="wiki-icon" src="assets/icon/6e80c20590139b93.svg" alt="">井戸</a> ・ <a href="#/ja/action/assemble-lawn-mower"><img class="wiki-icon" src="assets/icon/de80af40d0fb281c.svg" alt="">芝刈り機</a> ・ <a href="#/ja/action/craft-oven"><img class="wiki-icon" src="assets/icon/4f49f0cccce3e302.svg" alt="">オーブン</a> ・ <a href="#/ja/action/craft-dog-house"><img class="wiki-icon" src="assets/icon/258ca4bb4e6893e8.svg" alt="">イヌ小屋</a> ・ <a href="#/ja/action/craft-weather-box"><img class="wiki-icon" src="assets/icon/fc32cbc2df3e14ab.svg" alt="">百葉箱</a> ・ <a href="#/ja/action/craft-refrigerator"><img class="wiki-icon" src="assets/icon/0b00332bf09aa47d.svg" alt="">冷蔵庫</a> ・ <a href="#/ja/action/craft-solar-panel"><img class="wiki-icon" src="assets/icon/bcd195702497dc68.svg" alt="">ソーラーパネル</a> ・ <a href="#/ja/action/craft-generator"><img class="wiki-icon" src="assets/icon/957c9addf94d0ba1.svg" alt="">発電機</a> ・ <a href="#/ja/action/craft-hamster-wheel"><img class="wiki-icon" src="assets/icon/1ad1a797e13f837c.svg" alt="">ハムスターの回車</a> ・ <a href="#/ja/action/craft-stove"><img class="wiki-icon" src="assets/icon/688d3d49680af6ed.svg" alt="">かまど</a> ・ <a href="#/ja/action/craft-fireplace"><img class="wiki-icon" src="assets/icon/dd89e0ab02b4da83.svg" alt="">暖炉</a></div></div>
 
 ## 開発者向け情報
 
@@ -48,10 +49,11 @@
 | --- | --- |
 | id | `craft-weather-box-parts` |
 | `category` | `workshop` |
-| `attribute` | （空） |
+| `discipline` | （空） |
 | `group` | `parts` |
 | `unlocked` | `hidden` |
 | `level` | `27` |
+| `disciplineLevel` | `0` |
 | `experience` | `407` |
 | `seconds` | `900` |
 | `chance` | `0.7` |
@@ -72,15 +74,16 @@
 		"icon": {
 			"emoji": "🔩",
 			"iconify": "",
-			"image": ""
+			"image": "（data URI の画像。site/assets/icon/906d33c5da4359d9.svg）"
 		},
 		"color": ""
 	},
 	"category": "workshop",
-	"attribute": "",
+	"discipline": "",
 	"group": "parts",
 	"unlocked": "hidden",
 	"level": 27,
+	"disciplineLevel": 0,
 	"experience": 407,
 	"seconds": 900,
 	"chance": 0.7,
@@ -105,6 +108,13 @@
 			"id": "neutral-chip",
 			"count": 11,
 			"chance": 1,
+			"equipment": false
+		},
+		{
+			"type": "item",
+			"id": "northland-proof",
+			"count": 1,
+			"chance": 0,
 			"equipment": false
 		}
 	],

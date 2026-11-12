@@ -1,22 +1,22 @@
 # 拠点
 
-<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">拠点</div><div class="wiki-infobox-icon"><span class="wiki-icon-large">🏠</span></div><table><tr><th>使う種別</th><td>カテゴリ</td></tr><tr><th>カテゴリ</th><td>10</td></tr></table></div>
+<div class="wiki-infobox" style="--accent:#b8862b"><div class="wiki-infobox-title">拠点</div><div class="wiki-infobox-icon"><img class="wiki-icon-large" src="assets/icon/01a95f48afed5202.svg" alt=""></div><table><tr><th>使う種別</th><td>カテゴリ</td></tr><tr><th>カテゴリ</th><td>10</td></tr></table></div>
 
 
 ## カテゴリ
 
 | カテゴリ | レベル |
 | --- | --- |
-| [<span class="wiki-icon">📦</span>倉庫](/ja/category/warehouse) | なし |
-| [<span class="wiki-icon">🌱</span>温室](/ja/category/greenhouse) | あり |
-| [<span class="wiki-icon">🐾</span>庭](/ja/category/garden) | あり |
-| [<span class="wiki-icon">🍳</span>台所](/ja/category/kitchen) | あり |
-| [<span class="wiki-icon">📚</span>書斎](/ja/category/study) | なし |
-| [<span class="wiki-icon">🗃️</span>ロフト](/ja/category/loft) | あり |
-| [<span class="wiki-icon">⚗️</span>地下室](/ja/category/basement) | あり |
-| [<span class="wiki-icon">⚒️</span>工房](/ja/category/atelier) | あり |
-| [<span class="wiki-icon">🛏️</span>寝室](/ja/category/bedroom) | なし |
-| [<span class="wiki-icon">🔧</span>作業部屋](/ja/category/workshop) | あり |
+| [<img class="wiki-icon" src="assets/icon/535e9c74f924afeb.svg" alt="">倉庫](/ja/category/warehouse) | なし |
+| [<img class="wiki-icon" src="assets/icon/77037a147349c888.svg" alt="">温室](/ja/category/greenhouse) | あり |
+| [<img class="wiki-icon" src="assets/icon/e37797c3a5669a6a.svg" alt="">庭](/ja/category/garden) | あり |
+| [<img class="wiki-icon" src="assets/icon/1d4da46ae884b8db.svg" alt="">台所](/ja/category/kitchen) | あり |
+| [<img class="wiki-icon" src="assets/icon/2e8e4cc8d396fd3f.svg" alt="">書斎](/ja/category/study) | なし |
+| [<img class="wiki-icon" src="assets/icon/9ddf45e3d3403688.svg" alt="">ロフト](/ja/category/loft) | あり |
+| [<img class="wiki-icon" src="assets/icon/0effb7dcd5d97f12.svg" alt="">地下室](/ja/category/basement) | あり |
+| [<img class="wiki-icon" src="assets/icon/f9473a06ea1839be.svg" alt="">工房](/ja/category/atelier) | あり |
+| [<img class="wiki-icon" src="assets/icon/9ee150e7fc91b0a4.svg" alt="">寝室](/ja/category/bedroom) | なし |
+| [<img class="wiki-icon" src="assets/icon/225e4c1dd2ec9ff3.svg" alt="">作業部屋](/ja/category/workshop) | あり |
 
 ## 開発者向け情報
 
@@ -40,7 +40,7 @@
 	"icon": {
 		"emoji": "🏠",
 		"iconify": "",
-		"image": ""
+		"image": "（data URI の画像。site/assets/icon/01a95f48afed5202.svg）"
 	},
 	"color": ""
 }

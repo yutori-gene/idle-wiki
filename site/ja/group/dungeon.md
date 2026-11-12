@@ -8,13 +8,13 @@
 | カテゴリ | レベル |
 | --- | --- |
 | [<img class="wiki-icon" src="assets/icon/af2614cb71872f2d.svg" alt="">公園](/ja/category/park) | あり |
-| [<span class="wiki-icon">🌲</span>森](/ja/category/forest) | あり |
-| [<span class="wiki-icon">🏙️</span>街](/ja/category/town) | あり |
-| [<span class="wiki-icon">🌊</span>海](/ja/category/sea) | あり |
-| [<span class="wiki-icon">❄️</span>北国](/ja/category/northland) | あり |
-| [<span class="wiki-icon">🏭</span>工場](/ja/category/factory) | あり |
-| [<span class="wiki-icon">🌋</span>火山](/ja/category/volcano) | あり |
-| [<span class="wiki-icon">🏰</span>城](/ja/category/castle) | あり |
+| [<img class="wiki-icon" src="assets/icon/d341d1771a0aa474.svg" alt="">森](/ja/category/forest) | あり |
+| [<img class="wiki-icon" src="assets/icon/e05d1c3316260e39.svg" alt="">街](/ja/category/town) | あり |
+| [<img class="wiki-icon" src="assets/icon/ad309e0070004258.svg" alt="">海](/ja/category/sea) | あり |
+| [<img class="wiki-icon" src="assets/icon/1399509ce8664576.svg" alt="">北国](/ja/category/northland) | あり |
+| [<img class="wiki-icon" src="assets/icon/5554092ef8d1930f.svg" alt="">工場](/ja/category/factory) | あり |
+| [<img class="wiki-icon" src="assets/icon/2b31181b31d3b350.svg" alt="">火山](/ja/category/volcano) | あり |
+| [<img class="wiki-icon" src="assets/icon/b107830f33b2837d.svg" alt="">城](/ja/category/castle) | あり |
 | [<img class="wiki-icon" src="assets/icon/08753b7d5230d70e.svg" alt="">地獄](/ja/category/hell) | あり |
 | [<img class="wiki-icon" src="assets/icon/2016e4d273ad72ae.svg" alt="">天空のお庭](/ja/category/sky-garden) | あり |
 
