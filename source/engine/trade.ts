@@ -95,9 +95,9 @@ function refreshPassiveProperties(trades: Type.user.Trade[]): void {
 	for (const categoryId of categoryIds) Control.game.property.refreshProperty(categoryId);
 }
 
-// 単一の acquisition を処理し、Trade を返す（count=0 なら処理するが Trade は返さない）
+// 単一の acquisition を処理し、Trade を返す（増減が無ければ処理するが Trade は返さない）
 function processSingleAcquisition(acquisition: Type.world.Acquisition, count: number): Type.user.Trade | undefined {
-	const tradeCount = acquisition.count * count;
+	let tradeCount = acquisition.count * count;
 
 	switch (acquisition.type) {
 		case "category": {
@@ -117,18 +117,21 @@ function processSingleAcquisition(acquisition: Type.world.Acquisition, count: nu
 		}
 		case "item": {
 			const item = Data.dictionary.getItem(acquisition.id);
-			item.user.countNow += tradeCount;
-			if (item.world.maximum > 0 && item.user.countNow > item.world.maximum) {
-				item.user.countNow = item.world.maximum;
-			}
-			item.user.countRecord += tradeCount;
-			if (item.user.countRecord < 0) item.user.countRecord = 0;
-			if (item.user.countNow < 0) item.user.countNow = 0;
+			const before = item.user.countNow;
+			let after = before + tradeCount;
+			// 所持上限（maximum）で切り捨てる。上限を下げたワールドで既に超えている分は、獲得で減らさない
+			if (tradeCount > 0 && item.world.maximum > 0) after = Math.min(after, Math.max(before, item.world.maximum));
+			if (after < 0) after = 0;
+			item.user.countNow = after;
+			// 通知・記録・changedの判定には、切り捨てた後の実際の増減を使う（上限で入らなかった分を獲得扱いにしない）
+			tradeCount = after - before;
+			// 獲得累計は増えた分だけを積む。減った分で累計を減らすと、0になったアイテムが未解放へ戻ってしまう
+			if (tradeCount > 0) item.user.countRecord += tradeCount;
 			break;
 		}
 	}
 
-	// count が 0 の場合は Trade を記録しない
+	// 増減が無い場合（count が 0、上限に達していた等）は Trade を記録しない
 	if (tradeCount === 0) return undefined;
 
 	return { id: acquisition.id, actionedCount: 1, tradedCount: tradeCount, type: acquisition.type };
@@ -164,13 +167,13 @@ export function addAcquisitions(
 	return trades;
 }
 
-// 同じidの増減をひとまとめにする。積むのは必ず複製で、渡されたオブジェクトは書き換えない。
+// 同じ種別・idの増減をひとまとめにする（アクションとアイテムは同じidを持てるため種別も見る）。積むのは必ず複製で、渡されたオブジェクトは書き換えない。
 // 実体をそのまま積むと、同じ増減を複数の集計が共有してしまう（アクション完了時の totalLogs と
 // offline.logs がその例で、次の完了ぶんが共有先にも足され、オフライン集計が二重に増えていた）
 export function summarizeTrades(trades: Type.user.Trade[]): Type.user.Trade[] {
 	const joinedList: Type.user.Trade[] = [];
 	for (const trade of trades) {
-		const joined = joinedList.filter((node) => node.id === trade.id)[0];
+		const joined = joinedList.find((node) => node.id === trade.id && node.type === trade.type);
 		if (joined) {
 			joined.actionedCount += trade.actionedCount;
 			joined.tradedCount += trade.tradedCount;
@@ -365,7 +368,10 @@ export function buy(item: Type.dictionary.Item, count: number): Type.user.Trade[
 	}
 	const coin = resolveCoin(item);
 	const buyingValue = getBuyingValue(item);
-	if (count <= 0 || count >= coin.user.countNow || buyingValue == 0) return;
+	// 支払える額か（個数×価格が所持金以下）。枠の購入画面は所持金に関わらず1個を選べるため、ここで弾かないと支払いで例外になる
+	if (!Number.isInteger(count) || count <= 0 || buyingValue == 0 || buyingValue * count > coin.user.countNow) return;
+	// 所持上限（maximum）を超える個数は買わせない。取得は上限で切り捨てられるのに、代金は個数ぶん取られてしまう
+	if (!slot && item.world.maximum > 0 && item.user.countNow + count > item.world.maximum) return;
 
 	// 容量チェック（容量・キューアイテム自体は除外）
 	if (!slot) {
@@ -411,7 +417,7 @@ export function buy(item: Type.dictionary.Item, count: number): Type.user.Trade[
 export function sell(item: Type.dictionary.Item, count: number): Type.user.Trade[] | undefined {
 	const coin = resolveCoin(item);
 	const sellingValue = item.world.sellingValue;
-	if (count <= 0 || count > item.user.countNow || sellingValue == 0) return;
+	if (!Number.isInteger(count) || count <= 0 || count > item.user.countNow || sellingValue == 0) return;
 	const acquisitionTrades = addAcquisitions([{ id: coin.id, count: sellingValue, chance: 1, type: "item" }], count);
 	const requirementTrades = reduceRequirements([{ type: "item", id: item.id, count: 1, chance: 1, equipment: false }], count);
 	Control.game.progress.unequipZeroItems(); // 0個になった装備を解除

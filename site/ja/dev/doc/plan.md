@@ -3,7 +3,7 @@
 
 # General設定
 
-> idle リポジトリ `world/doc/plan.md` の写し（6682a95 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
+> idle リポジトリ `world/doc/plan.md` の写し（d02bddf 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
 
 | 項目 | フィールド | 値 |
 |------|-----------|-----|

@@ -88,14 +88,16 @@ export function updateOnline() {
 }
 
 function checkUpdate(online: boolean): boolean {
+	// 実行中（flag）だけを進める。止まった進行に触れると、worldから消えたアクションを引いて例外になる
 	Data.user.categories.forEach((category) => {
-		if (category.progressing) updateProgress(category.progressing, online);
+		if (category.progressing?.general.flag) updateProgress(category.progressing, online);
 	});
 
-	const targets = Data.user.categories.filter((category) => category.progressing?.general.flag).sort((a, b) => a.progressing!.time.ending - b.progressing!.time.ending);
-	if (targets.length == 0) return false;
-	const progressing = targets[0].progressing;
-	if (!progressing || progressing.time.percentage < 1) return false;
+	// 完了に達したレーンのうち、先に完了したもの（終了予定時刻が早いもの）から1回ぶん消化する。
+	// 達していないレーンを先頭に置いて打ち切ると、他のレーンに溜まった完了が残ってしまう
+	const targets = Data.user.categories.filter((category) => category.progressing?.general.flag && category.progressing.time.percentage >= 1).sort((a, b) => a.progressing!.time.ending - b.progressing!.time.ending);
+	const progressing = targets[0]?.progressing;
+	if (!progressing) return false;
 
 	updateAction(progressing, online);
 
@@ -211,7 +213,11 @@ export function updateAction(progressing: Type.user.Progressing, online: boolean
 
 		// updateProgress(progressing);
 		if (opening) action.user.percentage = progressing.time.percentage = 0;
-		else progressing.time.percentage -= 1; //パーセントを100%引くという意味
+		else {
+			progressing.time.percentage -= 1; //パーセントを100%引くという意味
+			// 終了予定時刻も残りの進捗に合わせて引き直す。完了前の値のままだと、並行レーンの消化順（checkUpdate）がずれる
+			progressing.time.ending = progressing.time.updated + Control.game.progress.calcuateActionTime(action) * (1 - progressing.time.percentage);
+		}
 
 		Control.ui.toaster.showTrade(trades);
 		for (const leveled of leveledCategories) Control.ui.toaster.showLeveled(leveled.id);
@@ -232,7 +238,9 @@ export function updateAction(progressing: Type.user.Progressing, online: boolean
 		// snapと同様に自動endActionの対象外とする。
 		const reachedMaxCount = progressing.active.count >= progressing.general.maxCount;
 		const reachedMaximum = action.world.maximum > 0 && action.user.count >= action.world.maximum;
-		if ((reachedMaxCount || reachedMaximum) && action.world.progressType != "snap" && !opening) {
+		// ゲームオーバーで枠ごと外れた後（category.user.progressing が別物・未設定）は終了させるものが無い
+		const occupying = category.user.progressing === progressing;
+		if ((reachedMaxCount || reachedMaximum) && action.world.progressType != "snap" && !opening && occupying) {
 			// standalone=false（排他レーン）は自然完了時に次の予約へ連鎖する。離席時の余り時間を carryMs として引き継ぐ
 			const carryMs = !category.world.standaloneProgress ? Math.max(0, progressing.time.percentage) * Control.game.progress.calcuateActionTime(action) : 0;
 			Control.game.progress.endActionAndAdvance(category, carryMs, online);
@@ -265,8 +273,9 @@ function updateCombat(action: Type.dictionary.Action, progressing: Type.user.Pro
 		// 装備補正を含むpropertiesから判定する。プロパティ画面に出る値とダメージを一致させるため計算を一本化している
 		const attack = Math.random() < properties.get("accuracy")!.value / 100 ? properties.get("attack")!.value : 0;
 		const defence = Math.random() > properties.get("evasion")!.value / 100 ? properties.get("defence")!.value : 0;
-		combat.thissidePercentage -= defence;
-		combat.oppositePercentage -= attack;
+		// 0未満にしない。負の割合は「-」と表示され、勝利後の回復ターンの間ずっと相手が「-」になる
+		combat.thissidePercentage = Math.max(0, combat.thissidePercentage - defence);
+		combat.oppositePercentage = Math.max(0, combat.oppositePercentage - attack);
 
 		const lossed = combat.thissidePercentage <= 0;
 		const winned = combat.oppositePercentage <= 0 && !lossed;
@@ -291,6 +300,7 @@ function updateCombat(action: Type.dictionary.Action, progressing: Type.user.Pro
 			// releasedを立てられるよう、ここで毎回released/claimedをリセットする
 			Control.game.event.resetType("gameovered");
 			Data.user.playing.gameovered = true;
+			// 実行中はすべて枠ごと外す（このアクション自身も含む。以降はローカルの progressing だけを触る）
 			Control.game.progress.stopAllProgressing();
 			// ゲームオーバー時は実行中の中断だけでなく、待機中の予約もすべて破棄する
 			Data.user.playing.reservations = [];

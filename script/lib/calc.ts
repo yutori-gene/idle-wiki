@@ -13,8 +13,8 @@ import type * as Condition from "../../source/type/conditionType.ts";
 
 export const ENGINE_DIGESTS: { [file: string]: string } = {
 	"engine/property.ts": "aeccfbcc2071d1ea10bfb0265e22a8e3bb3b5da426869eec04bcd5173acab67a",
-	"engine/update.ts": "fe794e96c504d0a45e6451279a645afee0ba13286478fe730d4c27d86d6792b9",
-	"engine/trade.ts": "8f525aff0d247e92191cec9b4271826ceab041b2d2f26f1e52404459e4055c64",
+	"engine/update.ts": "976585ada740a630e959dbfe10c3096174fe215f29d1f84b085bcd23eb04e0f2",
+	"engine/trade.ts": "49b0e60fd4fda14e7abfdb7b4d42254299cf3a0e794c15c9a8f401ba9d625701",
 	"engine/constant.ts": "4a2f3ff7aeabb1561a88ec3f013fccf8f40fef4d11c5bdb579f848dc1342b473",
 };
 

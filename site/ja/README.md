@@ -39,4 +39,4 @@
 | --- | --- | --- | --- | --- |
 | 25 | 494 | 833 | 102 | 115 |
 
-<div class="wiki-snapshot">ワールド sunlit-to-sky v0.0.1784 ／ idle 6682a95（2026-11-12）から生成</div>
+<div class="wiki-snapshot">ワールド sunlit-to-sky v0.0.1784 ／ idle d02bddf（2026-11-13）から生成</div>

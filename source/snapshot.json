@@ -1,10 +1,10 @@
 {
-	"idleCommit": "6682a955d008e8198a93b75a0123a171d4af724f",
+	"idleCommit": "d02bddf210780c43aa5137b1327e036694769348",
 	"idleBranch": "main",
-	"idleCommitDate": "2026-11-12T16:10:34+00:00",
+	"idleCommitDate": "2026-11-13T16:48:44+00:00",
 	"worldId": "sunlit-to-sky",
 	"worldVersion": "0.0.1784",
-	"syncedAt": "2026-11-12T16:20:08.964Z",
+	"syncedAt": "2026-11-16T08:27:20.557Z",
 	"digests": {
 		"world/world.json": "9fd78cbd415b8d832f0cf63aeb5ff91e0514d9ae8e376e26b666882b0b8f1e0a",
 		"world/list/action.csv": "ceb51c587899ada04c649952281ce54d609f00a7a4c3f1563f439b63d1455983",
@@ -24,8 +24,8 @@
 		"type/worldType.ts": "eb07646e648c7bede2d803324f0e9c4cc94bd8648c5843b80e73383983aa3f4c",
 		"type/conditionType.ts": "4606d5aac637923cdaee1d63da7610a623e2208f20dffb04ef62bf6d388ff4a1",
 		"engine/property.ts": "aeccfbcc2071d1ea10bfb0265e22a8e3bb3b5da426869eec04bcd5173acab67a",
-		"engine/update.ts": "fe794e96c504d0a45e6451279a645afee0ba13286478fe730d4c27d86d6792b9",
-		"engine/trade.ts": "8f525aff0d247e92191cec9b4271826ceab041b2d2f26f1e52404459e4055c64",
+		"engine/update.ts": "976585ada740a630e959dbfe10c3096174fe215f29d1f84b085bcd23eb04e0f2",
+		"engine/trade.ts": "49b0e60fd4fda14e7abfdb7b4d42254299cf3a0e794c15c9a8f401ba9d625701",
 		"engine/constant.ts": "4a2f3ff7aeabb1561a88ec3f013fccf8f40fef4d11c5bdb579f848dc1342b473"
 	}
 }

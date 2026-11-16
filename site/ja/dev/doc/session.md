@@ -2,7 +2,7 @@
 
 # セッション引き継ぎメモ
 
-> idle リポジトリ `world/doc/session.md` の写し（6682a95 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
+> idle リポジトリ `world/doc/session.md` の写し（d02bddf 時点）。編集は idle 側で行い、`npm run wiki-update` で取り込む。
 
 新しい会話への引き継ぎ用。**ここには「現在地」と「次の一手」だけを書く。** 作業を止めるたびに書き換え、経過は書き足さない。
 
